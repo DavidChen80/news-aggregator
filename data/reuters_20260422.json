@@ -1,1046 +1,1142 @@
 [
   {
-    "id": "75ee0a60d1e3",
-    "title": "<strong>Google Releases New AI Agents to Challenge OpenAI and Anthropic</strong>",
-    "summary": "Alphabet Inc.’s Google unveiled a slew of tools to build AI agents aimed at helping companies automate tasks in the tech giant’s latest attempt to take on OpenAI and Anthropic PBC in the burgeoning market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic",
-    "published": "Wed, 22 Apr 2026 12:00:10 GMT",
+    "id": "6f5e519a1050",
+    "title": "Bloomberg Talks: Sebastian Mackensen (Podcast)",
+    "title_cn": "彭博社谈话：塞巴斯蒂安·马肯森（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-talks-sebastian-mackensen-podcast",
+    "published": "Wed, 22 Apr 2026 14:44:09 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251872"
+    "fetched_at": "2026-04-22T14:58:55.032813"
+  },
+  {
+    "id": "615a2427bcdd",
+    "title": "T-Mobile Has Plenty to Gain From a $260 Billion German Merger",
+    "title_cn": "T-Mobile 从价值 2600 亿美元的德国合并中获益匪浅",
+    "summary": "You want European champions? Try this for size. Deutsche Telekom AG is considering taking full control of T-Mobile US Inc. in a move that could create a $260 billion transatlantic telecoms giant. It’s easy to see why the German suitor wants to go from being T-Mobile’s lead shareholder to its outright owner. The benefits for T-Mobile are less obvious &mdash; until you consider its future without a deal.",
+    "link": "https://www.bloomberg.com/opinion/articles/2026-04-22/t-mobile-has-plenty-to-gain-from-a-260-billion-deutsche-telekom-merger",
+    "published": "Wed, 22 Apr 2026 14:40:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.162898"
+  },
+  {
+    "id": "29d5f01f9867",
+    "title": "Questions on Iran Truce, Tehran Tests Hormuz Blockade, More",
+    "title_cn": "关于伊朗停战、德黑兰测试霍尔木兹封锁等问题",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/questions-on-iran-truce-tehran-tests-hormuz-blockade-more-moa5doos",
+    "published": "Wed, 22 Apr 2026 14:28:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.288245"
+  },
+  {
+    "id": "8c6333f95973",
+    "title": "Questions on Iran Truce, Tehran Tests Hormuz Blockade, More",
+    "title_cn": "关于伊朗停战、德黑兰测试霍尔木兹封锁等问题",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/questions-on-iran-truce-tehran-tests-hormuz-blockade-more",
+    "published": "Wed, 22 Apr 2026 14:27:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.391814"
+  },
+  {
+    "id": "5e28e70de652",
+    "title": "Stock Movers: United Air, Deutsche Telekom, Best Buy (Podcast)",
+    "title_cn": "库存推动者：联合航空、德国电信、百思买（播客）",
+    "summary": "Source: Bloomberg, 3:37",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/stock-movers-united-air-deutsche-telekom-best-buy-podcast",
+    "published": "Wed, 22 Apr 2026 14:18:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.523841"
+  },
+  {
+    "id": "8df0f7d2ed99",
+    "title": "Bloomberg Talks: Scott Kirby (Podcast)",
+    "title_cn": "彭博社谈话：斯科特·柯比（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-talks-scott-kirby-podcast",
+    "published": "Wed, 22 Apr 2026 14:15:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.633351"
+  },
+  {
+    "id": "97d7b5dcacc5",
+    "title": "What The Dot Plot Does To Fed Pricing: Macro Man Podcast",
+    "title_cn": "点图对美联储定价有何影响：宏观人播客",
+    "summary": "Source: Bloomberg, 6:31",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/what-the-dot-plot-does-to-fed-pricing-macro-man-podcast",
+    "published": "Wed, 22 Apr 2026 14:11:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.757887"
+  },
+  {
+    "id": "2348e5f3a80e",
+    "title": "Bloomberg Talks: Elizabeth Warren (Podcast)",
+    "title_cn": "彭博社谈话：伊丽莎白·沃伦（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-talks-elizabeth-warren-podcast",
+    "published": "Wed, 22 Apr 2026 14:06:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.878294"
+  },
+  {
+    "id": "1ad783aa38fe",
+    "title": "AI Pioneers Back Startup Building Models to Predict Events",
+    "title_cn": "人工智能先驱支持初创公司构建模型来预测事件",
+    "summary": "Sooth Labs, a new artificial intelligence lab founded by former Meta Platforms Inc. employees, is raising about $50 million in funding to build AI models meant to help businesses forecast the likelihood of specific geopolitical and market events taking place.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ai-pioneers-back-startup-building-models-to-predict-events",
+    "published": "Wed, 22 Apr 2026 14:04:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:55.973703"
+  },
+  {
+    "id": "d60c17e61424",
+    "title": "Aftershocks From Blue Origin’s Failed New Glenn Launch",
+    "title_cn": "蓝色起源新格伦号发射失败引发余震",
+    "summary": "The setback raises doubts about Jeff Bezos-backed startup",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/aftershocks-from-blue-origin-s-failed-new-glenn-rocket-launch",
+    "published": "Wed, 22 Apr 2026 14:01:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.086646"
+  },
+  {
+    "id": "2ce8a7f4209a",
+    "title": "Bloomberg Surveillance: Stocks and Oil Climb (Podcast)",
+    "title_cn": "彭博社监测：股票和石油上涨（播客）",
+    "summary": "Source: Bloomberg, 32:51",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-surveillance-stocks-and-oil-climb-podcast",
+    "published": "Wed, 22 Apr 2026 14:00:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.196321"
+  },
+  {
+    "id": "97fd42e896cd",
+    "title": "Bloomberg Surveillance TV: April 22nd, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 4 月 22 日（播客）",
+    "summary": "Source: Bloomberg, 20:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-surveillance-tv-april-22nd-2026-podcast",
+    "published": "Wed, 22 Apr 2026 13:54:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.342507"
+  },
+  {
+    "id": "259cd3114ac1",
+    "title": "Goldman Names Raman as Head of Alternatives Capital Markets",
+    "title_cn": "高盛任命拉曼为另类资本市场主管",
+    "summary": "Goldman Sachs Group Inc. named Akila Raman as global head of its private and alternatives capital markets business, according to a memo seen by Bloomberg News.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/goldman-names-raman-as-head-of-alternatives-capital-markets",
+    "published": "Wed, 22 Apr 2026 13:47:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.438867"
+  },
+  {
+    "id": "0ee50174dd12",
+    "title": "Stocks and Oil Rise, Trump to NY Post: Talks 'Possible,' More",
+    "title_cn": "股市和油价上涨，特朗普对《纽约邮报》表示：会谈“有可能”",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/stocks-and-oil-rise-trump-to-ny-post-talks-possible-more",
+    "published": "Wed, 22 Apr 2026 13:39:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.562393"
+  },
+  {
+    "id": "be05854a1a3f",
+    "title": "As Mumbai’s Skyline Rises, Bankers and Residents Jostle for Space",
+    "title_cn": "随着孟买天际线的崛起，银行家和居民争夺空间",
+    "summary": "Plus: The Iran war weighs on global housing markets, a building boom comes to Cairo and a Mamdani tax on wealthy NYC condo owners.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/as-mumbai-s-skyline-rises-bankers-and-residents-jostle-for-space",
+    "published": "Wed, 22 Apr 2026 13:37:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.684687"
+  },
+  {
+    "id": "ed89afda8b6f",
+    "title": "Zero: London Mayor Khan on 10 Years of Wins and Loses (Podcast)",
+    "title_cn": "零：伦敦市长汗谈十年的输赢（播客）",
+    "summary": "Sadiq Khan is about to complete 10 years as London’s mayor. He’s seen the city affected by Brexit, the pandemic and two energy crises. That hasn’t deterred him from deploying some of the strongest air-quality regulations in any city. But he hasn’t yet succeeded in getting enough homes built and struggled to keep improving the train network. As cities keep growing, Khan talks to Akshat Rathi about lessons from London’s successes and failures. As a prominent member of the UK’s Labour Party, Khan a",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/zero-london-mayor-khan-on-10-years-of-wins-and-loses-podcast",
+    "published": "Wed, 22 Apr 2026 13:29:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.806849"
+  },
+  {
+    "id": "6b50743634e2",
+    "title": "Stock Movers: T-Mobile, Boeing, Alphabet (Podcast)",
+    "title_cn": "股票推动者：T-Mobile、波音、Alphabet（播客）",
+    "summary": "Source: Bloomberg, 5:05",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/stock-movers-t-mobile-boeing-alphabet-podcast",
+    "published": "Wed, 22 Apr 2026 13:13:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:56.927491"
+  },
+  {
+    "id": "aab676d0f276",
+    "title": "Brussels Unveils Energy Package to Cushion Soaring Fuel Costs",
+    "title_cn": "布鲁塞尔推出能源计划以缓解燃料成本飙升",
+    "summary": "The new measures aimed at protecting citizens and businesses come ahead of a key EU summit this week.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/eu-unveils-energy-package-ahead-of-eu-summit-in-cyprus",
+    "published": "Wed, 22 Apr 2026 13:00:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:57.052832"
+  },
+  {
+    "id": "b30224f26750",
+    "title": "The Dispute Over a Remote African Island That Won’t Die",
+    "title_cn": "非洲一个不死偏远岛屿的争端",
+    "summary": "Mauritius has been battling to regain control of the Chagos Islands for the past seven decades.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/next-africa-mauritius-uk-meet-on-perennial-tussle-for-chagos-islands",
+    "published": "Wed, 22 Apr 2026 13:00:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:57.181205"
+  },
+  {
+    "id": "fde5de5df1b4",
+    "title": "Wall Street Group Urges SEC to Lift Private Asset Trading Ban",
+    "title_cn": "华尔街集团敦促美国证券交易委员会解除私人资产交易禁令",
+    "summary": "Lobbyists for some of Wall Street’s biggest alternative asset managers are asking regulators to relax rules preventing the buying and selling of assets between funds overseen by the same company, a move they say will boost the adoption of private assets in retirement accounts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/wall-street-group-urges-sec-to-lift-private-asset-trading-ban",
+    "published": "Wed, 22 Apr 2026 12:56:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:57.299048"
+  },
+  {
+    "id": "bfc3c6da11aa",
+    "title": "Iran Seizes Ships in Hormuz, Mythos Being Accessed, More",
+    "title_cn": "伊朗在霍尔木兹扣押船只，神话被触及，更多",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-22/iran-seizes-ships-in-hormuz-mythos-being-accessed-more",
+    "published": "Wed, 22 Apr 2026 12:42:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:57.472948"
+  },
+  {
+    "id": "47d9d0746a01",
+    "title": "Trump’s Pivot Will Test India’s Energy Resilience",
+    "title_cn": "特朗普的转向将考验印度的能源弹性",
+    "summary": "As the ceasefire extends, so does the blockade of the strait.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/trump-s-pivot-may-worsen-lpg-oil-shortages-in-india-fish-politics-in-bengal",
+    "published": "Wed, 22 Apr 2026 12:40:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:58:57.581569"
   },
   {
     "id": "b692cb5ce44a",
     "title": "ESG Currents: Debating Whether Climate Risk Is Already Priced In",
+    "title_cn": "ESG 潮流：关于气候风险是否已计入价格的争论",
     "summary": "Two experts, one question: Is climate risk already priced in? On this week’s episode of the ESG Currents podcast, Bloomberg Intelligence EMEA ESG integration analyst Grace Osborne hosts an Oxford-style debate. Dr. Jakob Thomae, co-founder and CEO of Theia Finance Labs, argues for the motion, while Dr. Ben Caldecott, founding director of the Oxford Sustainable Finance Group and a coordinating lead author on finance for the IPCC’s Seventh Assessment Report, argues against it. From green tech outpe",
     "link": "https://www.bloomberg.com/news/audio/2026-04-22/esg-currents-debating-whether-climate-risk-is-already-priced-in",
     "published": "Wed, 22 Apr 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251900"
+    "fetched_at": "2026-04-22T14:58:58.134003"
   },
   {
     "id": "d98f0dc9a97b",
     "title": "Iran Gunboats Menace Hormuz, Truce Extended, More",
+    "title_cn": "伊朗炮舰威胁霍尔木兹，休战期延长等等",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-04-22/iran-gunboats-menace-hormuz-truce-extended-more",
     "published": "Wed, 22 Apr 2026 11:40:58 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251910"
+    "fetched_at": "2026-04-22T14:58:58.261012"
   },
   {
     "id": "d081a77c77c5",
     "title": "Iran Gunboats Menace Strait of Hormuz",
+    "title_cn": "伊朗炮舰威胁霍尔木兹海峡",
     "summary": "Here’s what you need to know to start your day",
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/iran-gunboats-menace-strait-of-hormuz",
     "published": "Wed, 22 Apr 2026 11:11:57 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251920"
+    "fetched_at": "2026-04-22T14:58:58.388964"
   },
   {
     "id": "1e2756add9bb",
     "title": "A-Lister Cash Powers Iconiq’s Bold Anthropic Bets",
+    "title_cn": "一线明星现金为 Iconiq 的大胆人性赌注提供动力",
     "summary": "Wealth firm to the stars doubles down on trophy tech investments",
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/iconiq-s-bold-anthropic-bets-powered-by-a-lister-cash",
     "published": "Wed, 22 Apr 2026 11:10:20 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251931"
+    "fetched_at": "2026-04-22T14:58:58.510808"
   },
   {
     "id": "5615e55a1640",
     "title": "Stock Movers: GE Vernova, AT&T, United (Podcast)",
+    "title_cn": "库存推动者：GE Vernova、AT&T、United（播客）",
     "summary": "Source: Bloomberg, 4:18",
     "link": "https://www.bloomberg.com/news/audio/2026-04-22/stock-movers-ge-vernova-at-t-united-podcast",
     "published": "Wed, 22 Apr 2026 11:02:04 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251941"
+    "fetched_at": "2026-04-22T14:58:58.615326"
   },
   {
     "id": "105188682c1e",
     "title": "Merryn Talks Money: Inside Nest’s Big Investment Shift (Podcast)",
+    "title_cn": "Merryn 谈论金钱：Nest 的重大投资转变内部（播客）",
     "summary": "Source: Bloomberg, 22:30",
     "link": "https://www.bloomberg.com/news/audio/2026-04-22/merryn-talks-money-inside-nest-s-big-investment-shift-podcast",
     "published": "Wed, 22 Apr 2026 10:37:32 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251953"
+    "fetched_at": "2026-04-22T14:58:58.722760"
   },
   {
     "id": "4d2b04272dd9",
     "title": "Iran Ceasefire Extended, Redistricting Passes in Virginia, More",
+    "title_cn": "伊朗停火延长，弗吉尼亚州重新划分通行证等",
     "summary": "Source: Bloomberg, 6:21",
     "link": "https://www.bloomberg.com/news/audio/2026-04-22/iran-ceasefire-extended-redistricting-passes-in-virginia-more",
     "published": "Wed, 22 Apr 2026 10:36:10 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251966"
+    "fetched_at": "2026-04-22T14:58:58.846391"
   },
   {
     "id": "0d0c530e26d5",
     "title": "Capital Group CEO Sees More M&amp;A Coming for Active Asset Managers",
+    "title_cn": "Capital Group 首席执行官预计主动资产管理公司将进行更多并购",
     "summary": "The global asset management industry is poised for more consolidation as active funds react to being squeezed by passive investment products, according to Capital Group Chief Executive Officer Mike Gitlin.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/capital-group-ceo-sees-more-m-a-coming-for-active-asset-managers",
     "published": "Wed, 22 Apr 2026 10:07:28 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251973"
-  },
-  {
-    "id": "306d873daa2f",
-    "title": "Iran Peace Deal in Limbo, Redistricting Passes in Virginia, More",
-    "summary": "Source: Bloomberg, 6:31",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/iran-peace-deal-in-limbo-redistricting-passes-in-virginia-more",
-    "published": "Wed, 22 Apr 2026 09:47:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251985"
-  },
-  {
-    "id": "4ab85f892079",
-    "title": "Bloomberg Daybreak: Iran Ceasefire Extended (Podcast)",
-    "summary": "Source: Bloomberg, 15:27",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-daybreak-iran-ceasefire-extended-podcast",
-    "published": "Wed, 22 Apr 2026 09:43:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.251997"
-  },
-  {
-    "id": "6e718ddb9584",
-    "title": "US Stock Futures Rise After Trump Extends Truce With Iran",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/us-stock-futures-rise-after-trump-extends-truce-with-iran",
-    "published": "Wed, 22 Apr 2026 09:08:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252008"
-  },
-  {
-    "id": "dad6beefe82a",
-    "title": "Stock Movers: ASM, ABB, Reckitt Benckiser (Podcast)",
-    "summary": "Source: Bloomberg, 4:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/stock-movers-asm-abb-reckitt-benckiser-podcast",
-    "published": "Wed, 22 Apr 2026 09:04:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252018"
-  },
-  {
-    "id": "be0adc2c2371",
-    "title": "Nuclear Fusion Powers Up for Commercial Breakthrough (Podcast)",
-    "summary": "Fusion energy is entering a new phase. After decades as a scientific pursuit, the sector is attracting billions in private and public capital, with big tech, oil companies and governments all racing to bring the first commercial plants online. Advances in areas like superconductors, materials and computing are opening new pathways, while surging demand for reliable, clean power, particularly from data centers, is accelerating momentum. But the landscape remains uncertain, with multiple competing",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/nuclear-fusion-powers-up-for-commercial-breakthrough-podcast",
-    "published": "Wed, 22 Apr 2026 08:56:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252028"
-  },
-  {
-    "id": "eb202f07a888",
-    "title": "Switzerland Set to Soften Some UBS Capital Rules, TP Reports",
-    "summary": "The Swiss government is set to present softened bank capital rules later today, according to the news portal Tippinpoint, in a move that would reduce the expected impact for UBS Group AG.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/switzerland-set-to-unveil-softened-capital-ordinance-tp-reports",
-    "published": "Wed, 22 Apr 2026 08:30:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252037"
-  },
-  {
-    "id": "16ad50eb0411",
-    "title": "Strait Shut Despite Ceasefire, UK Fuel Prices Surge, More",
-    "summary": "Source: Bloomberg, 8:09",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/strait-shut-despite-ceasefire-uk-fuel-prices-surge-more",
-    "published": "Wed, 22 Apr 2026 08:25:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252046"
-  },
-  {
-    "id": "5c8ed9f6256f",
-    "title": "Stock Movers: Deutsche Telekom, ASM, ABB (Podcast)",
-    "summary": "Source: Bloomberg, 4:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/stock-movers-deutsche-telekom-asm-abb-podcast",
-    "published": "Wed, 22 Apr 2026 08:08:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252055"
-  },
-  {
-    "id": "b2f5bc7d137b",
-    "title": "Daniel Yergin Sees a 'Different World' Emerging After the Hormuz Crisis",
-    "summary": "<p>The acclaimed author on the aftermath of the war in Iran.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/daniel-yergin-sees-a-different-world-emerging-after-the-hormuz-crisis",
-    "published": "Wed, 22 Apr 2026 08:00:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252064"
-  },
-  {
-    "id": "a040d962bd0c",
-    "title": "Odd Lots: Yergin on the Aftermath of the War in Iran (Podcast)",
-    "summary": "When it comes to the history of oil and energy, nobody is more famous or well respected than Daniel Yergin. He is the Vice Chairman of S&amp;P Global, and the Pulitzer Prize winning author of both The Prize: The Epic Quest for Oil, Money, and Power and The New Map: Energy, Climate, and the Clash of Nations. So we had to get his insights on the war in Iran, and its historical significance. Yergin tells us that a “different world” will emerge from the crisis surrounding the closure of the Strait o",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/odd-lots-yergin-on-the-aftermath-of-the-war-in-iran-podcast",
-    "published": "Wed, 22 Apr 2026 08:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252073"
-  },
-  {
-    "id": "3c79cc75cf40",
-    "title": "BP’s Chairman Gets More Support as He Faces Shareholder Backlash",
-    "summary": "BP Plc’s new Chairman Albert Manifold will have the votes of at least three of the company’s top shareholders this week, as he faces opposition to his election in a key moment for the energy giant.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/bp-s-chairman-gets-more-support-as-he-faces-shareholder-backlash",
-    "published": "Wed, 22 Apr 2026 07:46:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252082"
-  },
-  {
-    "id": "f7f5cb66af25",
-    "title": "US Extends Iran Ceasefire, UK CPI Rises 3.3%, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/us-extends-iran-ceasefire-uk-cpi-rises-3-3-more",
-    "published": "Wed, 22 Apr 2026 07:36:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252091"
-  },
-  {
-    "id": "c3be261ddda5",
-    "title": "Crypto Whale Moves 20-Strong Trading Team to Tap Asia’s Rich",
-    "summary": "Crypto tycoon Li Lin is moving an entire trading team of about 20 people from his single-family office to Bitfire Group Holdings Ltd., a wealth manager in which he owns a 30% stake, to help the firm tap more private banking clients.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/crypto-whale-li-moves-20-strong-trading-team-to-tap-asia-s-rich",
-    "published": "Wed, 22 Apr 2026 00:14:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252100"
-  },
-  {
-    "id": "a2d94ee68a81",
-    "title": "Iran War Pumps Up Petrol Prices, Sending Inflation to 3.3%",
-    "summary": "Iran war sends inflation higher; Reckitt sales weaker",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/iran-war-pumps-up-petrol-prices-and-accelerates-uk-inflation",
-    "published": "Wed, 22 Apr 2026 07:14:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252110"
-  },
-  {
-    "id": "f489b4d2741c",
-    "title": "Segantii Pre-Trial Reveals Ex-BofA Trader Gave Key Information",
-    "summary": "A former trader at Bank of America Corp.’s Merrill Lynch unit gave his Segantii Capital Management contact crucial information before a June 2017 block trade, enabling the hedge fund to guess the seller and position ahead of the transaction, according to a Hong Kong court summary.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/segantii-pre-trial-reveals-ex-bofa-trader-gave-key-information",
-    "published": "Wed, 22 Apr 2026 07:07:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252121"
-  },
-  {
-    "id": "167f6cf7a664",
-    "title": "Trump Extends Iran Ceasefire, UK Inflation Hits 3.3%, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/trump-extends-iran-ceasefire-uk-inflation-hits-3-3-more",
-    "published": "Wed, 22 Apr 2026 06:29:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252128"
-  },
-  {
-    "id": "a88e652027de",
-    "title": "Trump Extends Iran Truce and Keeps Blockade as Talks Falter",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/trump-extends-iran-truce-and-keeps-blockade-as-talks-falter",
-    "published": "Wed, 22 Apr 2026 06:25:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252133"
-  },
-  {
-    "id": "df4051ce6e7e",
-    "title": "A&amp;M Bets on South Korea’s Market-Driven Restructuring Pivot",
-    "summary": "Alvarez &amp; Marsal Inc. is launching a dedicated South Korean restructuring practice, betting on a surge in corporate overhauls as the nation pivots from state-led bailouts toward market-driven solutions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/alvarez-bets-on-south-korea-s-market-driven-restructuring-pivot",
-    "published": "Tue, 21 Apr 2026 23:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252138"
-  },
-  {
-    "id": "5e8b3a9398a9",
-    "title": "US IPO Candidates Discouraged By Risk of Litigation, Red Tape",
-    "summary": "The risk of being sued after an initial public offering is one of the biggest concerns for potential US listing candidates, according to more than 150 executives surveyed by Bloomberg Intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/us-ipo-candidates-discouraged-by-risk-of-litigation-red-tape",
-    "published": "Wed, 22 Apr 2026 06:04:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252143"
-  },
-  {
-    "id": "08dc3cbaf216",
-    "title": "HSBC Is Said to Shortlist Allianz, Sumitomo for Singapore Insurer",
-    "summary": "HSBC Holdings Plc has narrowed a bidding list for its Singapore insurance unit to Allianz SE, Daiichi Life Group Inc. and Sumitomo Life Insurance Co., according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/hsbc-is-said-to-shortlist-allianz-sumitomo-for-singapore-insurer",
-    "published": "Wed, 22 Apr 2026 03:39:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252148"
-  },
-  {
-    "id": "0e5f5ebb9d54",
-    "title": "Bloomberg Daybreak Europe: Trump's Ceasefire Extension (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-22/bloomberg-daybreak-europe-trump-s-ceasefire-extension-podcast",
-    "published": "Wed, 22 Apr 2026 05:42:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.252153"
-  },
-  {
-    "id": "69b4f1e685c4",
-    "title": "$30 Billion Export Deluge Is Milei’s Chance to Rebuild Reserves",
-    "summary": "Argentina is beginning to receive a flood of hard currency that analysts see around $30 billion over the next six months, giving President Javier Milei his best chance to build up international reserves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/argentina-export-deluge-gives-milei-chance-to-rebuild-dollar-reserves",
-    "published": "Wed, 22 Apr 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452310"
-  },
-  {
-    "id": "89a9b28e2737",
-    "title": "Stocks Rise on Big Earnings Day as Brent Hits $100: Markets Wrap",
-    "summary": "US stock futures rose after President Donald Trump indefinitely extended his ceasefire with Iran on a day when traders are also focused on a broad slate of corporate earnings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 21 Apr 2026 22:13:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452324"
-  },
-  {
-    "id": "af5d840370be",
-    "title": "Boeing Narrows Cash Burn in First Quarter as Deliveries Rise",
-    "summary": "Boeing Co. reported lower-than-expected cash outflow as it delivered the most aircraft in the first quarter since 2019, continuing its recovery with higher output and more steady operations at its defense and services units.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/boeing-narrows-cash-burn-in-first-quarter-as-jet-deliveries-rise",
-    "published": "Wed, 22 Apr 2026 11:30:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452330"
-  },
-  {
-    "id": "cdc8f05635d2",
-    "title": "EU Proposes Plan to Soften Energy Price Shock From Iran War",
-    "summary": "The European Union proposed measures such as optimizing jet fuel distribution and cutting energy taxes to navigate the Iran war-driven crisis that it said could reverberate for years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/eu-proposes-further-energy-measures-to-mitigate-iran-war-crisis",
-    "published": "Wed, 22 Apr 2026 09:20:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452336"
-  },
-  {
-    "id": "721f5a88af8f",
-    "title": "Deutsche Telekom Weighs Full Combination With T-Mobile",
-    "summary": "Deutsche Telekom AG is discussing a potential combination with its American arm T-Mobile US Inc., people familiar with the matter said, a move that would create the world’s biggest phone company and set a record for public M&amp;A.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/deutsche-telekom-weighs-full-combination-with-t-mobile",
-    "published": "Tue, 21 Apr 2026 18:03:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452342"
-  },
-  {
-    "id": "ed14427843c5",
-    "title": "US Premarket Movers for April 22, 2026",
-    "summary": "S&amp;P 500 Index futures rise 0.5% as of 7:50 a.m. in New York the morning after President Donald Trump extended a ceasefire with Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/us-stock-futures-today-adobe-boeing-twilio-united-air-vertiv",
-    "published": "Wed, 22 Apr 2026 11:51:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452348"
-  },
-  {
-    "id": "4dcdc7dfc107",
-    "title": "Oil Trader CFOs Say Hormuz Closure Driving Wave of Disputes",
-    "summary": "The chief financial officers of some of the world’s top commodity trading houses warned that the protracted closure of the Strait of Hormuz may lead to a wave of disputes stemming from lost supply.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/oil-trader-cfos-say-hormuz-closure-is-driving-a-wave-of-disputes",
-    "published": "Wed, 22 Apr 2026 11:01:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452354"
-  },
-  {
-    "id": "c4343fb871ae",
-    "title": "VW Is Said to Shortlist EQT Group, CVC, Bain for Everllence",
-    "summary": "Volkswagen AG has picked suitors for the next round of bidding for its heavy diesel engine unit Everllence, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/vw-is-said-to-shortlist-eqt-group-cvc-bain-for-8-billion-unit",
-    "published": "Wed, 22 Apr 2026 10:40:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452359"
-  },
-  {
-    "id": "7aa25cc58fba",
-    "title": "Barclays Spain Managing Director Martinez Leaves for Insurer",
-    "summary": "A 15-year veteran managing director for Barclays Plc in Spain has joined closely held insurer Santa Lucia SA to lead its strategy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/barclays-spain-managing-director-martinez-leaves-for-insurer",
-    "published": "Wed, 22 Apr 2026 11:44:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452364"
-  },
-  {
-    "id": "30905b39055b",
-    "title": "Coffee Climbs on Iran Conflict Concerns and Brazil Weather Risk",
-    "summary": "Arabica coffee climbed the most in two weeks in New York, amid concerns that the Middle East conflict will keep logistics costs elevated and as weather threatens Brazilian crops.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/coffee-climbs-on-iran-conflict-concerns-and-brazil-weather-risk",
-    "published": "Wed, 22 Apr 2026 11:43:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452369"
-  },
-  {
-    "id": "0c8a94bb663e",
-    "title": "ECB’s Stournaras Says Central Bank ‘Should Wait’ on Rate Hike",
-    "summary": "European Central Bank Governing Council member Yannis Stournaras said the central lender “should wait” ahead of a rate decision meeting next week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-stournaras-says-central-bank-should-wait-on-rate-hike",
-    "published": "Wed, 22 Apr 2026 11:40:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452374"
-  },
-  {
-    "id": "61748a96e376",
-    "title": "Directors Quit Hotel Unit at Center of Singapore Billionaire Kwek Feud",
-    "summary": "Three directors have abruptly resigned from a hotel subsidiary controlled by one of Singapore’s wealthiest families, the latest twist in a corporate shakeup triggered by an internal feud.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/directors-quit-hotel-unit-at-center-of-singapore-billionaire-kwek-feud",
-    "published": "Wed, 22 Apr 2026 11:39:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452380"
-  },
-  {
-    "id": "66bd9c9f4696",
-    "title": "Commodity Houses Are Perfectly Placed for a Wartime Trading Bonanza",
-    "summary": "Trading firms have put the lessons of the 2022 energy crisis to good use during the Iran war.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/commodity-traders-were-perfectly-positioned-to-have-a-profitable-war",
-    "published": "Wed, 22 Apr 2026 11:37:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452385"
-  },
-  {
-    "id": "358ef9c9c768",
-    "title": "Europe Power Markets See More Negative Prices as Solar Surges",
-    "summary": "Europe’s power markets are seeing a sharp rise in negative electricity prices, particularly around midday when solar generation exceeds demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/europe-power-markets-see-more-negative-prices-as-solar-surges",
-    "published": "Wed, 22 Apr 2026 11:36:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452390"
-  },
-  {
-    "id": "11cfcdc28983",
-    "title": "Philip Morris Smoke-Free Shift Gathers Pace as Profit Rises",
-    "summary": "Philip Morris International Inc.’s profit rose more than expected in the first quarter on sales of smoke-free products including heated tobacco and nicotine pouches.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/philip-morris-smoke-free-shift-gathers-pace-as-profit-rises",
-    "published": "Wed, 22 Apr 2026 11:36:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452395"
-  },
-  {
-    "id": "edeaba79794c",
-    "title": "Iran Seizes Two Ships in Hormuz for ‘Violations’: Tasnim",
-    "summary": "Iran’s Islamic Revolutionary Guard Corps had seized two ships in Hormuz and brought them to shore for inspection Wednesday, according to reports from Iranian state television. Tyler Kendall has more on Bloomberg Television. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/iran-seizes-two-ships-in-hormuz-for-violations-tasnim-video",
-    "published": "Wed, 22 Apr 2026 11:36:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452400"
-  },
-  {
-    "id": "0135d85f8b03",
-    "title": "As Blue Owl’s Strains Worsened, Its Bankers Pitched a Long Shot",
-    "summary": "Blue Owl Capital, more than almost any other firm on Wall Street, needed a win.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/as-blue-owl-s-strains-worsened-its-bankers-pitched-a-long-shot",
-    "published": "Wed, 22 Apr 2026 11:30:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452405"
-  },
-  {
-    "id": "fc8fe857bf46",
-    "title": "Vista Strikes Deal to Speed Up Google AI in Software Portfolio",
-    "summary": "Vista Equity Partners is partnering with Alphabet Inc.’s Google Cloud to accelerate the deployment of artificial intelligence across the private equity firm’s portfolio of more than 90 software firms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/vista-strikes-deal-to-speed-up-google-ai-in-software-portfolio",
-    "published": "Wed, 22 Apr 2026 11:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452410"
-  },
-  {
-    "id": "f946a3c456c4",
-    "title": "Wall Street’s Bullish Stocks View Contrasts With Consumer Gloom",
-    "summary": "Stocks are trading near a record high, signaling Wall Street is learning to cope with lingering geopolitical risks. Main Street is struggling to catch up.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/wall-street-s-bullish-stocks-view-contrasts-with-consumer-gloom",
-    "published": "Wed, 22 Apr 2026 11:28:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452415"
-  },
-  {
-    "id": "c3977b7d14ea",
-    "title": "ECB’s Kocher Says Too Early to Predict Next Week’s Rate Outcome",
-    "summary": "European Central Bank Governing Council member Martin Kocher said uncertainty over the Iran war means he can’t yet predict what will happen when rate-setters meet in Frankfurt April 29-30.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-kocher-says-too-early-to-predict-next-week-s-rate-outcome",
-    "published": "Wed, 22 Apr 2026 11:24:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452419"
-  },
-  {
-    "id": "f0ea3eb8b4a3",
-    "title": "Stocks Get Earnings Boost as Traders Focus on Iran",
-    "summary": "Stocks rose amid strong corporate earnings as traders waited to see if Iran will join talks that could restore oil flows from the Middle East. The dollar edged higher while Treasuries slipped ahead of Kevin Warsh’s Senate hearing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-20/-stock-market-today-dow-s-p-live-updates",
-    "published": "Mon, 20 Apr 2026 22:24:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452424"
-  },
-  {
-    "id": "ecda049826ef",
-    "title": "Trump Extends Ceasefire; Users Get Unauthorized Access to Mythos | Bloomberg Brief 4/22/2026",
-    "summary": "US equity futures rise and brent briefly hit $100 per barrel after President Trump indefinitely extends a ceasefire with Iran. Kevin Warsh's confirmation hearing signals a complicated path to Fed Chair. A small group of unauthorized users have accessed Anthropic's new Mythos AI model. Lindsay Newman of Kings College London discusses the implications of the ceasefire extension. Kelsey Berro of JPMorgan Asset Management discusses the concerns around the Federal Reserve's independence. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/bloomberg-brief-4-22-2026-video",
-    "published": "Wed, 22 Apr 2026 11:20:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452429"
-  },
-  {
-    "id": "9bc58a50de7c",
-    "title": "Toronto Exchange Parent to Buy Cboe’s Australia, Canada Units",
-    "summary": "Toronto Stock Exchange owner TMX Group Ltd. is set to acquire Cboe Global Markets Inc.’s Australian and Canadian units.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/canada-s-tmx-group-in-talks-to-buy-cboe-australia-afr-says",
-    "published": "Wed, 22 Apr 2026 04:56:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452434"
-  },
-  {
-    "id": "3c1edb49bf42",
-    "title": "Emerging Markets Rally Hits Pause as Iran Risks Lift Oil",
-    "summary": "Revved-up emerging-market assets declined as rising oil prices and the lack of progress in Iran peace talks zapped risk appetite.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/emerging-markets-rally-hits-pause-as-iran-risks-lift-oil",
-    "published": "Wed, 22 Apr 2026 11:11:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452439"
-  },
-  {
-    "id": "1c48b38b54be",
-    "title": "Druzhba Flows Resume as EU Targets Unblocking Ukraine Loan",
-    "summary": "Oil flows through the Druzhba pipeline from Ukraine have resumed, Hungarian refiner Mol Nyrt. said, a development that’s expected to help unblock crucial European Union aid to Kyiv on Wednesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ukraine-ready-to-resume-oil-flows-on-druzhba-pipeline-mol-says",
-    "published": "Wed, 22 Apr 2026 07:14:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452444"
-  },
-  {
-    "id": "db54eb53935a",
-    "title": "US Home-Purchase Applications Jump as Mortgage Rates Settle Back",
-    "summary": "US mortgage applications for home purchases increased last week by the most since early January as financing costs continued to ease, a tentative sign that the housing market is grinding forward.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/us-home-purchase-applications-jump-as-mortgage-rates-settle-back",
-    "published": "Wed, 22 Apr 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452448"
-  },
-  {
-    "id": "a7e49edc6549",
-    "title": "Private Credit BDCs’ 2028 Maturity Wall Poses Risk, Moody’s Says",
-    "summary": "Private credit funds with outsized exposure to software and tech loans face rising refinancing and credit risks as a wave of debt maturities loom from 2028, according to Moody’s Ratings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/private-credit-bdcs-2028-maturity-wall-poses-risk-moody-s-says",
-    "published": "Wed, 22 Apr 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452453"
+    "fetched_at": "2026-04-22T14:58:59.408803"
   },
   {
     "id": "a90891086da8",
     "title": "Gold Recovers After Two-Day Drop as Trump Extends Iran Ceasefire",
+    "title_cn": "随着特朗普延长伊朗停火期限，金价在连续两天下跌后反弹",
     "summary": "Gold regained some ground after a two-day decline, as US President Donald Trump extended a ceasefire with Iran and allowed more time to arrange fresh peace talks.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-21/gold-steadies-as-trump-extends-iran-ceasefire-peace-talks-stall",
     "published": "Tue, 21 Apr 2026 22:22:50 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452458"
+    "fetched_at": "2026-04-22T14:58:59.923032"
   },
   {
-    "id": "696eb1dfd755",
-    "title": "EQT Chief Sees AI Rout as Opportunity for Fresh Tech Bets",
-    "summary": "The broad selloff in public markets triggered by fears of artificial intelligence disruption provides an opportunity to snap up technology firms on the cheap, according to private equity giant EQT AB.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/eqt-chief-sees-ai-rout-as-opportunity-for-fresh-tech-bets",
-    "published": "Wed, 22 Apr 2026 10:53:24 GMT",
+    "id": "15ea97fdee55",
+    "title": "TD Bank Mulls Hedging Data Center Debt With Rare SRT Deal",
+    "title_cn": "道明银行考虑通过罕见的 SRT 交易对冲数据中心债务",
+    "summary": "Toronto-Dominion Bank is weighing a rare type of significant risk transfer to hedge current and future data center exposure as tech companies ramp up artificial intelligence investment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/td-bank-mulls-hedging-data-center-debt-with-rare-srt-deal",
+    "published": "Wed, 22 Apr 2026 13:28:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452463"
+    "fetched_at": "2026-04-22T14:59:00.023208"
   },
   {
-    "id": "cab9c56c8c67",
-    "title": "Iran Latest: Trump Backtracks & Extends Tehran Truce, Talks in Limbo | The Opening Trade 4/22/2026",
-    "summary": "US President Donald Trump indefinitely extended a ceasefire with Iran as peace talks remain on hold, walking back threats to resume fighting even as the Strait of Hormuz remains all but shut.\n\nTrump said Pakistan, the main mediator between the warring sides, asked the US to hold off on fresh strikes, something Tehran denied was the case. Washington is extending the truce &mdash; which began just over two weeks ago &mdash; until Iran submits a new proposal “and discussions are concluded, one way or the other,” Trump said on Truth Social late on Tuesday.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/the-opening-trade-4-22-2026-video",
-    "published": "Wed, 22 Apr 2026 10:26:45 GMT",
+    "id": "9bc58a50de7c",
+    "title": "Toronto Exchange Owner to Buy Cboe’s Australia, Canada Units",
+    "title_cn": "多伦多交易所所有者将购买 Cboe 的澳大利亚和加拿大单位",
+    "summary": "Toronto Stock Exchange owner TMX Group Ltd. is set to acquire Cboe Global Markets Inc.’s Australian and Canadian units.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/canada-s-tmx-group-in-talks-to-buy-cboe-australia-afr-says",
+    "published": "Wed, 22 Apr 2026 04:56:30 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.452467"
+    "fetched_at": "2026-04-22T14:59:00.143470"
+  },
+  {
+    "id": "d6e681536dcb",
+    "title": "A Private Equity Reset",
+    "title_cn": "私募股权重置",
+    "summary": "Private equity is entering a new era according to Mark Sotir, the President of  Equity Group Investments, He joins Bloomberg Open Interest to break down why founders are rushing for stability, how AI is boosting productivity, not replacing jobs, and why rising interest rates and competition are making it harder than ever to generate returns. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/a-private-equity-reset-video",
+    "published": "Wed, 22 Apr 2026 14:49:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.273659"
+  },
+  {
+    "id": "733876583255",
+    "title": "UBS Faces $20 Billion Capital Need Despite Swiss Concessions",
+    "title_cn": "尽管瑞士做出让步，瑞银仍面临 200 亿美元的资本需求",
+    "summary": "The Swiss government outlined plans that would require UBS Group AG to add $20 billion to its capital buffers, even as it waters down some planned changes to regulations set to hit the nation’s largest bank.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/swiss-give-ubs-capital-concessions-ahead-of-main-parliament-test",
+    "published": "Wed, 22 Apr 2026 14:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.403878"
+  },
+  {
+    "id": "297d7c1ae606",
+    "title": "Avis Surge Crushes Short Sellers",
+    "title_cn": "安飞士股价飙升压垮卖空者",
+    "summary": "Avis shares tripled in two weeks, crushing short sellers with $2.5 billion in losses. But bears are doubling down&mdash;short interest now near a decade high at 58%. Analysts question the rally’s fundamentals, warning the surge looks like a short squeeze, not real growth. Bloomberg's Jordan Fitzgerald joined Bloomberg Open Interest with details. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/avis-surge-crushes-short-sellers-video",
+    "published": "Wed, 22 Apr 2026 14:32:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.517454"
+  },
+  {
+    "id": "89a9b28e2737",
+    "title": "S&amp;P 500 Set for Record High on Earnings; Oil Gains: Markets Wrap",
+    "title_cn": "标准普尔 500 指数盈利创历史新高；石油收益：市场休整",
+    "summary": "A slew of strong corporate profits lifted stocks a day after President Donald Trump extended a ceasefire with Iran, though attempts to resolve the conflict struggled without any signs that the key Strait of Hormuz will reopen soon. Oil climbed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-21/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 21 Apr 2026 22:13:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.676722"
+  },
+  {
+    "id": "416333df3246",
+    "title": "Hormuz Traffic at Near-Halt as Ships Come Under Gunfire",
+    "title_cn": "由于船只遭到枪击，霍尔木兹交通几乎停止",
+    "summary": "The Strait of Hormuz stayed at a near standstill Wednesday as Iranian forces opened fire on &mdash; and seized &mdash; commercial ships.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/hormuz-tracker-traffic-at-near-halt-as-ships-come-under-gunfire",
+    "published": "Wed, 22 Apr 2026 14:26:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.814913"
+  },
+  {
+    "id": "a61b8b441f18",
+    "title": "Petrobras Board Member Seeks Fuel Price Increase to Stem Losses",
+    "title_cn": "巴西国家石油公司董事会成员寻求提高燃油价格以减少损失",
+    "summary": "A Petrobras board member appointed by non-controlling shareholders is warning that the state-controlled producer is losing billions from below-market fuel sales and risks reputational damage.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/petrobras-board-member-seeks-fuel-price-increase-in-brazil-to-stem-losses",
+    "published": "Wed, 22 Apr 2026 14:25:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:00.919336"
+  },
+  {
+    "id": "4258008e0a57",
+    "title": "Chipmakers on Track for Longest-Ever Rally Amid AI Optimism",
+    "title_cn": "在人工智能乐观情绪下，芯片制造商有望迎来有史以来最长的涨势",
+    "summary": "An index tracking semiconductor stocks is on track for its all-time longest streak of daily gains, as investors anticipate strong growth for the sector driven by demand related to artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism",
+    "published": "Wed, 22 Apr 2026 14:22:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.044885"
+  },
+  {
+    "id": "489006f6c31a",
+    "title": "Blackstone Private Credit Fund Looks to Sell High-Grade Bonds",
+    "title_cn": "Blackstone 私人信贷基金计划出售高等级债券",
+    "summary": "Blackstone Private Credit Fund is selling investment-grade notes, as private lenders known as business development companies ramp up debt issuance after a dry spell.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/blackstone-private-credit-fund-looks-to-sell-high-grade-bonds",
+    "published": "Wed, 22 Apr 2026 14:21:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.163053"
+  },
+  {
+    "id": "f4cffc1ed4d2",
+    "title": "United CEO Sidesteps Merger Topic, Says Assets of Interest",
+    "title_cn": "美联航首席执行官回避合并话题，表示感兴趣的资产",
+    "summary": "United Airlines Holdings Inc. Chief Executive Officer Scott Kirby sidestepped questions about a potential merger with American Airlines Group Inc. while acknowledging that the current climate of high costs and struggling rivals might offer opportunities for deals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/united-ceo-won-t-take-the-bait-when-asked-about-american-merger",
+    "published": "Wed, 22 Apr 2026 13:24:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.294886"
+  },
+  {
+    "id": "24d542ae134f",
+    "title": "Surging Fuel Prices Provide Warning Sign for UK Inflation",
+    "title_cn": "燃油价格飙升为英国通胀发出警告信号",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-04-22/ftse-100-live-iran-war-trump-uk-inflation-cpi-pound-oil-prices-hormuz-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Wed, 22 Apr 2026 05:43:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.419990"
+  },
+  {
+    "id": "008be9faf3f2",
+    "title": "Markets Vulnerable But Buoyed by Economy, Seema Shah Says",
+    "title_cn": "西玛·沙阿 (Seema Shah) 表示，市场脆弱，但受到经济提振",
+    "summary": "Seema Shah, Principal Asset Management chief global strategist, discusses the outlook for US equities amid recent geopolitical tensions and rising oil prices. She speaks on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/any-market-downturn-won-t-be-very-deep-seema-shah-says-video",
+    "published": "Wed, 22 Apr 2026 14:11:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.537739"
+  },
+  {
+    "id": "1f765b50a4b6",
+    "title": "United CEO Eyes Assets, But Won't Say From Which Airline",
+    "title_cn": "美联航首席执行官关注资产，但不愿透露来自哪家航空公司",
+    "summary": "United Airlines Holdings Inc. Chief Executive Officer Scott Kirby sidestepped a question about if he's interested in buying rival American Airlines. But he did say discussions have been held with one airline about buying some assets. He also spoke to Lisa Abramowicz in Chicago about jet fuel prices, earnings and travel demand. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/united-ceo-eyes-assets-but-won-t-say-from-which-airline-video",
+    "published": "Wed, 22 Apr 2026 14:09:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.669076"
+  },
+  {
+    "id": "2403082782ef",
+    "title": "Commodity Traders Reap a Profit Bonanza from War Oil Shock",
+    "title_cn": "大宗商品交易商从战争石油冲击中获利丰厚",
+    "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
+    "published": "Tue, 21 Apr 2026 21:00:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.785865"
+  },
+  {
+    "id": "063337a29d0c",
+    "title": "UK Electricity From Fossil Fuels Drops to Record Low of Just 2%",
+    "title_cn": "英国化石燃料发电量跌至历史新低仅 2%",
+    "summary": "UK power generation from fossil fuels fell to the lowest level since records started in 2009, highlighting the country’s rapid shift toward renewable energy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/uk-electricity-from-fossil-fuels-drops-to-record-low-of-just-2",
+    "published": "Wed, 22 Apr 2026 14:03:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:01.902289"
+  },
+  {
+    "id": "021ad8c277ae",
+    "title": "Junk Bond Investors Are Squeezing Companies for Better Terms",
+    "title_cn": "垃圾债券投资者正在向公司施压以获得更好的条件",
+    "summary": "Investors are seizing what may be a fleeting opportunity to negotiate better terms when buying high-yield debt, turning the tables on borrowers for the first time in years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/junk-bond-investors-are-squeezing-companies-for-better-terms",
+    "published": "Wed, 22 Apr 2026 13:42:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.033760"
+  },
+  {
+    "id": "1cd414749452",
+    "title": "ECB’s Cipollone Not Worried About Delay of Digital Euro Vote",
+    "title_cn": "欧洲央行行长西波隆并不担心数字欧元投票的延迟",
+    "summary": "European Central Bank Executive Board Piero Cipollone isn’t too worried about a potential delay of a key vote in the European Parliament on the digital euro project from early May to mid-June.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-cipollone-not-worried-about-delay-of-digital-euro-vote",
+    "published": "Wed, 22 Apr 2026 13:57:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.146583"
+  },
+  {
+    "id": "8327aad97b04",
+    "title": "Rogers’ Earnings Matches Estimates as Sports Assets Drive Media Growth",
+    "title_cn": "体育资产推动媒体增长，罗杰斯的盈利符合预期",
+    "summary": "Rogers Communications Inc. matched analysts’ earnings estimates and raised its 2026 outlook for free cash flow as it cuts capital spending. The shares rose.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/rogers-matches-estimates-as-sports-assets-drive-media-growth",
+    "published": "Wed, 22 Apr 2026 11:16:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.278236"
+  },
+  {
+    "id": "b1106e47bda6",
+    "title": "United CEO Won't Comment on Possible Merger With American Airlines",
+    "title_cn": "美联航首席执行官不会就与美国航空的可能合并发表评论",
+    "summary": "Scott Kirby, the chief executive officer of United Airlines Holdings Inc., said he wouldn't comment when asked if his company would be buying American Airlines. Kirby did say he is focused on leveling the playing field with foreign airlines and building a \"great global airline that all US citizens can be proud of.\" He speaks with Bloomberg's Lisa Abramowicz from the company headquarters in Chicago. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/united-ceo-won-t-comment-on-possible-american-merger-video",
+    "published": "Wed, 22 Apr 2026 13:55:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.413551"
+  },
+  {
+    "id": "8347b91a97bc",
+    "title": "US Stocks Advance on Trump Truce Extension and Earnings",
+    "title_cn": "特朗普休战延期和盈利推动美股上涨",
+    "summary": "US stocks advanced on Wednesday as traders examined the state of play for the Middle East following President Donald Trump’s ceasefire extension with Iran and cheered corporate earnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/us-futures-advance-as-president-trump-extends-truce-with-iran",
+    "published": "Wed, 22 Apr 2026 12:02:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.541482"
+  },
+  {
+    "id": "c0c22d6a3a91",
+    "title": "GE Vernova Shares Climb on Strong Orders, Power Demand Boom",
+    "title_cn": "GE Vernova 股价因强劲订单和电力需求繁荣而上涨",
+    "summary": "Shares of GE Vernova Inc. rose as much as 15.2% on Wednesday after the gas turbine and power grid equipment maker reported strong order growth amid rising electricity demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ge-vernova-shares-climb-on-strong-orders-power-demand-boom",
+    "published": "Wed, 22 Apr 2026 13:52:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.645991"
+  },
+  {
+    "id": "b8d855925745",
+    "title": "Bridgepoint Pumps £100 Million Into EV Fleet Manager Zenith",
+    "title_cn": "Bridgepoint 向电动车队管理公司 Zenith 注入 1 亿英镑",
+    "summary": "Zenith Automotive Holdings Ltd has secured fresh funding from its private equity owner and an extension of debt maturities from its lenders as it reels from a slump in used electric vehicle prices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/bridgepoint-pumps-100-million-into-ev-fleet-manager-zenith",
+    "published": "Wed, 22 Apr 2026 13:51:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.770519"
+  },
+  {
+    "id": "0f48deb2323b",
+    "title": "India to Purchase Fertilizer at Nearly Double Pre-War Price",
+    "title_cn": "印度将以近两倍战前价格购买化肥",
+    "summary": "India, the world’s top importer of urea, has agreed to buy the nitrogen-based fertilizer at sharply higher prices than in a previous tender as the Middle East conflict disrupts supplies and pushes global benchmarks higher.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/india-to-purchase-fertilizer-at-nearly-double-pre-war-price",
+    "published": "Wed, 22 Apr 2026 13:48:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:02.898370"
+  },
+  {
+    "id": "0c8a94bb663e",
+    "title": "ECB Officials Say April Is Too Early to Decide on Rate Hikes",
+    "title_cn": "欧洲央行官员称四月决定加息还为时过早",
+    "summary": "Two European Central Bank officials said it’s too soon to lift borrowing costs this month as the full consequences of the Iran conflict remain unclear.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-stournaras-says-central-bank-should-wait-on-rate-hike",
+    "published": "Wed, 22 Apr 2026 11:40:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:03.159424"
+  },
+  {
+    "id": "f946a3c456c4",
+    "title": "Wall Street’s Bullish Stocks View Contrasts With Consumer Gloom",
+    "title_cn": "华尔街看涨股票的观点与消费者低迷形成鲜明对比",
+    "summary": "Stocks are trading near a record high, signaling Wall Street is learning to cope with lingering geopolitical risks. Main Street is struggling to catch up.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/wall-street-s-bullish-stocks-view-contrasts-with-consumer-gloom",
+    "published": "Wed, 22 Apr 2026 11:28:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:03.277980"
+  },
+  {
+    "id": "ae4b6f6e4956",
+    "title": "ECB’s Lane Says Still Can’t Determine Extent of War Shock",
+    "title_cn": "欧洲央行行长莱恩表示仍无法确定战争冲击的程度",
+    "summary": "It’s still unclear how big a blow the Iran war will inflict on the euro-area economy, according to European Central Bank Chief Economist Philip Lane.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-lane-says-still-can-t-determine-extent-of-shock-from-war",
+    "published": "Wed, 22 Apr 2026 12:57:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:03.458319"
+  },
+  {
+    "id": "af5d840370be",
+    "title": "Boeing Narrows Cash Burn in First Quarter as Deliveries Rise",
+    "title_cn": "随着交付量增加，波音第一季度现金消耗减少",
+    "summary": "Boeing Co. reported lower-than-expected cash outflow as it delivered the most aircraft in the first quarter since 2019, continuing its recovery with higher output and more steady operations at its defense and services units.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/boeing-narrows-cash-burn-in-first-quarter-as-jet-deliveries-rise",
+    "published": "Wed, 22 Apr 2026 11:30:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:03.579495"
+  },
+  {
+    "id": "1a53dbc36538",
+    "title": "How Microsoft Spooked the Global Carbon Removal Market",
+    "title_cn": "微软如何惊动全球碳清除市场",
+    "summary": "In the early days of April, a group of mid-level employees at Microsoft Corp. started making calls that would send tremors through the global market for carbon removals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/how-microsoft-spooked-the-global-carbon-removal-market",
+    "published": "Wed, 22 Apr 2026 14:15:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:04.247746"
+  },
+  {
+    "id": "bf377a6f51bd",
+    "title": "Tesla Shares Need New ‘Razzle-Dazzle’ as EVs Slow, AI Hype Cools",
+    "title_cn": "随着电动汽车发展缓慢、人工智能炒作降温，特斯拉股价需要新的“炫目”",
+    "summary": "Wall Street analysts expect Tesla Inc. to deliver a big jump in earnings when it reports Wednesday, something investors would have clamored for in the past.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/tesla-s-cooling-ai-hype-makes-investors-yawn-at-blowout-earnings",
+    "published": "Wed, 22 Apr 2026 09:00:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:04.589761"
+  },
+  {
+    "id": "f4f0b9bbbd50",
+    "title": "The Global Race to Crack China’s Battery Dominance",
+    "title_cn": "打破中国电池主导地位的全球竞赛",
+    "summary": "<p>On the new season of <em>Bloomberg Primer</em>, see the frenzied contest in the US and elsewhere to catch up, and the new discoveries being made along the way.&nbsp;</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/video-the-global-race-to-crack-china-s-battery-dominance",
+    "published": "Wed, 22 Apr 2026 13:26:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:04.728554"
+  },
+  {
+    "id": "33a3e042f439",
+    "title": "China’s 360 Hunts Software Flaws With AI, Echoing Mythos",
+    "title_cn": "中国360利用人工智能寻找软件缺陷，呼应神话",
+    "summary": "A large Chinese cybersecurity firm is using artificial intelligence to identify security vulnerabilities in widely used software applications, positioning itself as a competitor to Anthropic PBC, according to a new report.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/china-s-360-hunts-software-flaws-with-ai-echoing-mythos",
+    "published": "Wed, 22 Apr 2026 13:01:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:04.855152"
+  },
+  {
+    "id": "ca0afd8de09c",
+    "title": "Google Cloud Debuts New AI Chips, Tools for Building Agents",
+    "title_cn": "谷歌云推出新的人工智能芯片和构建代理的工具",
+    "summary": "Alphabet Inc.’s Google Cloud division unveiled the latest generation of its tensor processing unit, or TPU, a homegrown chip that’s designed to make AI computing services faster and more efficient.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-cloud-releases-new-tpu-chip-lineup-in-bid-to-speed-up-ai",
+    "published": "Wed, 22 Apr 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:04.976871"
+  },
+  {
+    "id": "52c9f608cf86",
+    "title": "‘Pokopia’ Flurry Helps Nintendo’s Switch 2 Top US Sales in March",
+    "title_cn": "《Pokopia》Furry 帮助任天堂 Switch 2 登上美国 3 月份销量榜首",
+    "summary": "Nintendo Co.’s Switch 2 was the best-selling console in the US in March, riding a wave of popularity triggered by the release of surprise hit Pokémon Pokopia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/-pokopia-flurry-helps-nintendo-s-switch-2-top-us-sales-in-march",
+    "published": "Wed, 22 Apr 2026 13:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.099384"
+  },
+  {
+    "id": "3f55133a3a01",
+    "title": "DeepSeek in Talks to Raise at $20 Billion Value, Information Says",
+    "title_cn": "消息称 DeepSeek 正在洽谈融资 200 亿美元",
+    "summary": "Chinese technology giants Tencent Holdings Ltd. and Alibaba Group Holding Ltd. are in discussions to invest funds into DeepSeek that would value the artificial intelligence startup above $20 billion, according to The Information.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/deepseek-in-talks-to-raise-at-20-billion-value-the-information",
+    "published": "Wed, 22 Apr 2026 11:39:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.216057"
+  },
+  {
+    "id": "bf441fc43854",
+    "title": "Bill Nye Calls NASA's Proposed Budget 'Slap in the Face'",
+    "title_cn": "比尔·奈称美国宇航局拟议的预算是“打脸”",
+    "summary": "Bill Nye, also known as \"The Science Guy,\" and The Planetary Society chief ambassador, calls the proposed budget for NASA a \"slap in the face,\" especially after all that was accomplished with the Artemis II mission to the moon. Nye says 53 space missions could be cut due to drastic budget cuts. He spoke to Bloomberg The Close on Monday. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-21/nasa-s-proposed-budget-slap-in-the-face-nye-says-video",
+    "published": "Tue, 21 Apr 2026 21:31:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.337952"
+  },
+  {
+    "id": "75ee0a60d1e3",
+    "title": "Google Releases New AI Agents to Challenge OpenAI and Anthropic",
+    "title_cn": "谷歌发布新AI代理挑战OpenAI和Anthropic",
+    "summary": "Alphabet Inc.’s Google unveiled a slew of tools to build AI agents aimed at helping companies automate tasks in the tech giant’s latest attempt to take on OpenAI and Anthropic PBC in the burgeoning market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-releases-new-ai-agents-to-challenge-openai-and-anthropic",
+    "published": "Wed, 22 Apr 2026 12:00:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.462568"
   },
   {
     "id": "21011450da56",
     "title": "Dell’s XPS 16 Laptop Marks a Return to Form After PC Business Got ‘Off Course’",
+    "title_cn": "戴尔 XPS 16 笔记本电脑标志着 PC 业务“偏离正轨”后的回归",
     "summary": "It’s not unheard of for tech companies to reverse a big marketing decision, but few have done so as quickly as Dell Technologies Inc. In early 2025, the company announced it would move away from its long-running XPS laptop branding in favor of simpler naming schemes like “Pro” and “Max” intended to appeal to a broader market of consumers accustomed to Apple Inc.’s naming strategy. By the following January, Dell realized it had made a mistake and quickly pivoted back.",
     "link": "https://www.bloomberg.com/news/features/2026-04-22/dell-xps-16-review-a-return-to-form-after-the-pc-maker-revived-a-beloved-brand",
     "published": "Wed, 22 Apr 2026 12:00:08 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740939"
+    "fetched_at": "2026-04-22T14:59:05.578245"
+  },
+  {
+    "id": "c49f24325168",
+    "title": "Google Launches $750 Million Fund for Consultants to Adopt AI",
+    "title_cn": "谷歌设立 7.5 亿美元基金，资助顾问采用人工智能",
+    "summary": "Alphabet Inc.’s Google Cloud is launching a $750 million fund to help consulting firms including McKinsey &amp; Co., Accenture Plc and Deloitte bring agentic artificial intelligence to their clients.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/google-launches-750-million-fund-for-consultants-to-adopt-ai",
+    "published": "Wed, 22 Apr 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.715409"
+  },
+  {
+    "id": "721f5a88af8f",
+    "title": "Deutsche Telekom Weighs Full Combination With T-Mobile",
+    "title_cn": "德国电信考虑与 T-Mobile 全面合并",
+    "summary": "Deutsche Telekom AG is discussing a potential combination with its American arm T-Mobile US Inc., people familiar with the matter said, a move that would create the world’s biggest phone company and set a record for public M&amp;A.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-21/deutsche-telekom-weighs-full-combination-with-t-mobile",
+    "published": "Tue, 21 Apr 2026 18:03:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.843759"
+  },
+  {
+    "id": "fc8fe857bf46",
+    "title": "Vista Strikes Deal to Speed Up Google AI in Software Portfolio",
+    "title_cn": "Vista 达成协议，加速 Google AI 在软件产品组合中的应用",
+    "summary": "Vista Equity Partners is partnering with Alphabet Inc.’s Google Cloud to accelerate the deployment of artificial intelligence across the private equity firm’s portfolio of more than 90 software firms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/vista-strikes-deal-to-speed-up-google-ai-in-software-portfolio",
+    "published": "Wed, 22 Apr 2026 11:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:05.968823"
   },
   {
     "id": "a3e77b111a8d",
     "title": "Chip Bonus Boom: How Korea Learned Everyone Cares About Other People’s Money",
+    "title_cn": "筹码红利热潮：韩国如何认识到每个人都关心别人的钱",
     "summary": "Samsung workers press chipmaker to follow SK Hynix example and share massive profits",
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/chip-workers-press-samsung-sk-hynix-to-share-the-profits",
     "published": "Wed, 22 Apr 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740968"
+    "fetched_at": "2026-04-22T14:59:06.092075"
   },
   {
     "id": "d2f0868ccc36",
     "title": "AT&amp;T Beats Estimates Buoyed by Internet, Phone Subscribers",
+    "title_cn": "AT&T 业绩好于预期，受到互联网和电话用户的提振",
     "summary": "AT&amp;T Inc. reported revenue and profits in the first quarter that beat analysts’ estimates, as the No. 3 US wireless carrier continued to expand its fiber footprint and sell customers on its convergence strategy of subscribing to multiple products at once.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/at-t-beats-estimates-buoyed-by-internet-phone-subscribers",
     "published": "Wed, 22 Apr 2026 10:29:11 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740974"
+    "fetched_at": "2026-04-22T14:59:06.221508"
   },
   {
-    "id": "bf377a6f51bd",
-    "title": "Tesla’s Cooling AI Hype Overshadows Blowout Earnings Forecasts",
-    "summary": "Tesla Inc. investors are in for a rare treat Wednesday afternoon: an earnings report that analysts say should be a blowout. The trouble is the actual numbers are likely to get overlooked as Wall Street seeks evidence that Elon Musk’s artificial intelligence and robotics ventures justify the stock’s sky-high valuation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/tesla-s-cooling-ai-hype-makes-investors-yawn-at-blowout-earnings",
-    "published": "Wed, 22 Apr 2026 09:00:07 GMT",
+    "id": "696eb1dfd755",
+    "title": "EQT Chief Sees AI Rout as Opportunity for Fresh Tech Bets",
+    "title_cn": "EQT 首席执行官将人工智能溃败视为新科技押注的机会",
+    "summary": "The broad selloff in public markets triggered by fears of artificial intelligence disruption provides an opportunity to snap up technology firms on the cheap, according to private equity giant EQT AB.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/eqt-chief-sees-ai-rout-as-opportunity-for-fresh-tech-bets",
+    "published": "Wed, 22 Apr 2026 10:53:24 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740981"
+    "fetched_at": "2026-04-22T14:59:06.353482"
   },
   {
     "id": "5d739c211844",
-    "title": "OpenAI Poaches Airbnb Executive to be First Director for EMEA",
+    "title": "OpenAI Poaches Airbnb Executive to Be First Director for EMEA",
+    "title_cn": "OpenAI 挖来 Airbnb 高管担任欧洲、中东和非洲地区首任总监",
     "summary": "OpenAI has hired its first managing director to oversee operations in Europe, helping guide its expansion in a key market where there are mounting political concerns about being overly reliant on US artificial intelligence services.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/openai-hires-airbnb-executive-as-first-director-for-europe-middle-east-africa",
     "published": "Wed, 22 Apr 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740992"
+    "fetched_at": "2026-04-22T14:59:06.479854"
   },
   {
     "id": "25f32ba54cb0",
     "title": "Deutsche Telekom Weighs Full Combination with T-Mobile",
+    "title_cn": "德国电信考虑与 T-Mobile 全面合并",
     "summary": "Deutsche Telekom is considering a full combination with its American arm T-Mobile, a move that would create a multinational telecom group and rank as the largest-ever public M&amp;A deal. Manuel Baigorri reports on the Bloomberg scoop. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-04-22/deutsche-telekom-weighs-full-combination-with-t-mobile-video",
     "published": "Wed, 22 Apr 2026 09:52:05 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.740998"
+    "fetched_at": "2026-04-22T14:59:06.609095"
   },
   {
     "id": "2529e528c70c",
     "title": "Naspers Mulls Options for South Africa’s Historic ‘City Press’",
+    "title_cn": "纳斯珀斯正在考虑南非历史悠久的“城市出版社”的选择",
     "summary": "Naspers Ltd., Africa’s largest company by market value, is exploring strategic options for City Press, according to people familiar with the matter, a historic newspaper in the continent’s biggest economy.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/naspers-mulls-options-for-south-africa-s-historic-city-press",
     "published": "Wed, 22 Apr 2026 09:46:15 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741003"
+    "fetched_at": "2026-04-22T14:59:06.713108"
   },
   {
     "id": "bf18ab4e24da",
     "title": "AI Startup Has Helped Reverse Thousands of Denied Health Insurance Claims",
+    "title_cn": "人工智能初创公司已帮助扭转数千名被拒绝的健康保险索赔",
     "summary": "<p>Americans rarely fight back when insurers reject treatments their doctors have prescribed. Claimable is working to change that, with a little help from Mark Cuban.</p>",
     "link": "https://www.bloomberg.com/news/features/2026-04-22/ai-and-mark-cuban-among-startup-s-tools-to-fight-denied-health-care-claims",
     "published": "Wed, 22 Apr 2026 09:00:08 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741009"
+    "fetched_at": "2026-04-22T14:59:06.821778"
   },
   {
     "id": "41ba6ad2c875",
     "title": "Japan Top Officials to Meet Banks to Discuss Mythos Threat",
+    "title_cn": "日本高级官员将与银行会面讨论神话威胁",
     "summary": "Japan’s Finance Minister Satsuki Katayama said she will meet the country’s biggest banks to discuss Anthropic PBC’s latest AI model Mythos on Friday, as authorities around the world express concerns about the technology.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/japan-finance-minister-to-meet-banks-to-discuss-mythos-threat",
     "published": "Wed, 22 Apr 2026 01:42:16 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741014"
+    "fetched_at": "2026-04-22T14:59:06.935604"
   },
   {
     "id": "c2a510670863",
     "title": "ASM Outlook Beats Estimates as AI Boom Drives Tool Demand",
+    "title_cn": "AI 繁荣推动工具需求，ASM 前景好于预期",
     "summary": "ASM International NV projected revenue for the second quarter that exceeded analysts’ estimates, underscoring that artificial intelligence investments are driving demand for the Dutch chip-equipment maker’s gear.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-21/asm-outlook-beats-estimates-as-ai-build-out-drives-tool-demand",
     "published": "Tue, 21 Apr 2026 16:50:31 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741019"
+    "fetched_at": "2026-04-22T14:59:07.037856"
   },
   {
     "id": "8495a679557b",
     "title": "Daniel Yergin Sees a 'Different World' Emerging After the Hormuz Crisis",
+    "title_cn": "丹尼尔·耶金 (Daniel Yergin) 看到霍尔木兹危机后出现了一个“不同的世界”",
     "summary": "When it comes to the history of oil and energy, nobody is more famous or well respected than Daniel Yergin. He is the Vice Chairman of S&amp;P Global, and the Pulitzer Prize winning author of both The Prize: The Epic Quest for Oil, Money, and Power and The New Map: Energy, Climate, and the Clash of Nations. So we had to get his insights on the war in Iran, and its historical significance. Iran's ability to control the Straight against a much stronger military is a demonstration that the balance of global power is changing, with profound ramifications for countries around the world. We discuss how different regions are being affected, and how it will change their calculus when it comes to energy security. We also talk about the AI industry's seemingly insatiable demand for electricity, and how this is rippling across the entire energy landscape.  (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-04-22/yergin-sees-a-different-world-after-hormuz-crisis-video",
     "published": "Wed, 22 Apr 2026 08:10:25 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741025"
+    "fetched_at": "2026-04-22T14:59:07.144992"
   },
   {
     "id": "94aaa81686ff",
     "title": "Iran Reports 'Some Sign' US Ready to Break Blockade | Daybreak Europe 4/22/2026",
+    "title_cn": "伊朗报告“一些迹象”美国准备打破封锁黎明欧洲 4/22/2026",
     "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia.\n\nOn today's show, Iran’s semi-official Tasnim news reports that there's been 'some sign' that the US is ready to end its blockade of Iran's ports. Brent crude, the dollar and US Treasury yields all dipped on the report. The US President has extended the ceasefire with Iran indefinitely. Tehran has so far refused to take part in a second round of peace talks.\n\nBloomberg understands that unauthorized users have gained access to Mythos, Anthropic's most powerful, and potentially dangerous, AI model.\n\nPlus Donald Trump's pick to become the next chair of the Federal Reserve, Kevin Warsh, has promised to be independent, telling the Senate Banking Committee that he won't be the President's sock puppet. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-04-22/daybreak-europe-4-22-2026-video",
     "published": "Wed, 22 Apr 2026 07:55:51 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741030"
+    "fetched_at": "2026-04-22T14:59:07.249361"
   },
   {
     "id": "c51f91638e80",
     "title": "ABB Lifts Revenue Outlook After Data Center Orders Surge",
+    "title_cn": "数据中心订单激增后，ABB 上调收入前景",
     "summary": "ABB Ltd. raised its revenue expectations for the year after a jump in orders for its power-grid products related to data centers.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/abb-raises-annual-revenue-outlook-after-quarterly-orders-surge",
     "published": "Wed, 22 Apr 2026 05:14:29 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741035"
+    "fetched_at": "2026-04-22T14:59:07.357589"
   },
   {
     "id": "dcf42ae5da46",
     "title": "AI Firms Seeking Office Space Boost London Developers’ Outlook",
+    "title_cn": "人工智能公司寻求办公空间提升伦敦开发商的前景",
     "summary": "London property developers are benefiting from the rapid expansion of artificial intelligence companies, driving demand for premium office and corporate campus space.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/ai-firms-seeking-office-space-boost-london-developers-outlook",
     "published": "Wed, 22 Apr 2026 06:59:11 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741040"
+    "fetched_at": "2026-04-22T14:59:07.474745"
   },
   {
-    "id": "ba966c153174",
-    "title": "Memory Stock Valuations Spark Debate Over ‘Supercycle’ Potential",
-    "summary": "Memory makers are riding surging demand to record profits, yet their stocks are still trading at a fraction of the valuation multiples of other top artificial intelligence chip names.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/memory-stock-valuations-spark-debate-over-supercycle-potential",
-    "published": "Tue, 21 Apr 2026 23:00:00 GMT",
+    "id": "d2ca576c59e1",
+    "title": "Pirro Says She Is Continuing to Probe Fed for Cost Overruns",
+    "title_cn": "皮罗表示她将继续调查美联储是否存在成本超支问题",
+    "summary": "US Attorney Jeanine Pirro said she is continuing her controversial investigation into building-renovation cost overruns by the Federal Reserve.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/pirro-says-she-is-continuing-to-probe-fed-for-cost-overruns",
+    "published": "Wed, 22 Apr 2026 14:40:44 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741046"
+    "fetched_at": "2026-04-22T14:59:07.888974"
   },
   {
-    "id": "761a3fefcacb",
-    "title": "Deutsche Telekom Said to Weigh T-Mobile Combination",
-    "summary": "Deutsche Telekom is considering a full combination with its American arm T-Mobile US, a move that would create a multinational telecom group and rank as the largest-ever public M&amp;A deal, people with knowledge of the matter said. Bloomberg's Manuel Baigorri reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/deutsche-telekom-said-to-weigh-t-mobile-combination-video",
-    "published": "Wed, 22 Apr 2026 05:54:13 GMT",
+    "id": "a276f227f43e",
+    "title": "Trump Administration Nears $500 Million Spirit Rescue Package",
+    "title_cn": "特朗普政府接近 5 亿美元的精神救援计划",
+    "summary": "The Trump administration is close to reaching a financial rescue package for embattled Spirit Aviation Holdings Inc., according to a person familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/trump-administration-nears-500m-spirit-rescue-package",
+    "published": "Wed, 22 Apr 2026 14:36:53 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741052"
+    "fetched_at": "2026-04-22T14:59:07.990714"
   },
   {
-    "id": "5c2da5eb1c25",
-    "title": "Anthropic’s Mythos Accessed by Unauthorized Users",
-    "summary": "A small group of unauthorized users have accessed Anthropic's new Mythos AI model, a technology that the company says is so powerful it can enable dangerous cyberattacks, according to a person familiar with the matter and documentation viewed by Bloomberg News. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/anthropic-s-mythos-accessed-by-unauthorized-users-video-mo9mo8e4",
-    "published": "Wed, 22 Apr 2026 05:44:22 GMT",
+    "id": "f48c88c05c51",
+    "title": "London Mayor Khan Says it Would Be ‘Folly’ to Oust PM Starmer",
+    "title_cn": "伦敦市长汗表示，罢免首相斯塔默是“愚蠢的”",
+    "summary": "London mayor Sadiq Khan said it would be a mistake to replace Keir Starmer this year, as pressure grows on the Prime Minister to resign over his handling of the Peter Mandelson fiasco.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/london-mayor-khan-says-it-would-be-folly-to-oust-pm-starmer",
+    "published": "Wed, 22 Apr 2026 14:28:54 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741057"
+    "fetched_at": "2026-04-22T14:59:08.117637"
   },
   {
-    "id": "07cbbd150d55",
-    "title": "RBA, RBNZ Monitor Anthropic’s Mythos Over Cyberattack Fears",
-    "summary": "Australia and New Zealand’s central banks are monitoring developments around Anthropic PBC’s new Mythos AI model, which the company says is powerful enough to enable sophisticated cyberattacks, according to separate statements.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/rba-is-monitoring-anthropic-s-mythos-ai-over-cyberattack-fears",
-    "published": "Wed, 22 Apr 2026 01:14:05 GMT",
+    "id": "698f5cf52ad4",
+    "title": "Canada Picks Annette Ryan as Next Budget Watchdog",
+    "title_cn": "加拿大选择安妮特·瑞安（Annette Ryan）作为下一任预算监督机构",
+    "summary": "Annette Ryan will become Canada’s fourth parliamentary budget officer, an independent watchdog of government finances, after parliament approved her appointment on Tuesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/canada-picks-annette-ryan-as-next-budget-watchdog",
+    "published": "Wed, 22 Apr 2026 14:21:41 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741062"
-  },
-  {
-    "id": "a1c0d5bed565",
-    "title": "Crypto Billionaire Sues Trump-Linked Project Alleging Extortion",
-    "summary": "Crypto billionaire Justin Sun and his companies sued World Liberty Financial, a crypto project co-founded by President Donald Trump, accusing the company of extortion and an “illegal scheme” to seize his tokens.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/crypto-billionaire-sues-trump-linked-project-alleging-extortion",
-    "published": "Wed, 22 Apr 2026 04:27:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741067"
-  },
-  {
-    "id": "4f65ed4550e6",
-    "title": "Upcoming AI Movie Sparks Concerns on Chinese Internet",
-    "summary": "A proposed AI-generated movie based on the popular series \"Soul Ferry\" is trending on Weibo - and not everyone is happy. Bloomberg China Correspondent Minmin Low and Senior Analyst Robert Lea discuss the production’s implications and how AI could reshape companies like iQiyi. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/upcoming-ai-movie-sparks-concerns-on-chinese-internet-video",
-    "published": "Wed, 22 Apr 2026 04:22:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741072"
-  },
-  {
-    "id": "aa726745b0ca",
-    "title": "AI Lifts Markets Past Iran War Shock, William Blair Says",
-    "summary": "Vivian Lin Thurston, Portfolio Manager at William Blair, says the worst of the Iran war shock may be over as AI-driven earnings help global equities look past the turmoil. She speaks on Bloomberg's The China Show.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/ai-lifts-markets-past-iran-war-shock-william-blair-says-video",
-    "published": "Wed, 22 Apr 2026 04:20:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741078"
-  },
-  {
-    "id": "2f59cebd75e0",
-    "title": "ASMPT Soars to Record as Sales Forecast Beat on AI Demand",
-    "summary": "Chip gear maker ASMPT Ltd. shares jumped as much as 8.7% to a record as its second-quarter revenue beat expectations, driven by strong growth from its semiconductor business critical for AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/asmpt-sees-second-quarter-sales-forecast-beat-due-to-ai-demand",
-    "published": "Wed, 22 Apr 2026 00:04:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741083"
-  },
-  {
-    "id": "ebeb7c5deec5",
-    "title": "Sinopec Cuts CATL Stake in Half After 180% Post-Listing Rally",
-    "summary": "A unit of Sinopec, China’s biggest oil refiner, has cut its stake by more than half in battery maker Contemporary Amperex Technology Co. after a sharp rally in the stock.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/sinopec-to-cut-catl-stake-in-half-after-180-post-listing-rally",
-    "published": "Tue, 21 Apr 2026 13:13:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741088"
-  },
-  {
-    "id": "bafb5991580d",
-    "title": "SpaceX Has Deal for Right to Acquire Cursor for $60 Billion",
-    "summary": "SpaceX said it has an agreement giving it the right to acquire artificial intelligence startup Cursor for $60 billion later this year or to pay $10 billion for the companies’ work together, part of the Elon Musk-run firm’s efforts to catch up with rivals in AI coding tools.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/spacex-says-has-agreement-to-acquire-cursor-for-60-billion",
-    "published": "Tue, 21 Apr 2026 22:25:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741093"
-  },
-  {
-    "id": "5d354754703e",
-    "title": "Blackstone’s AirTrunk Plans Its First Data Center-Backed Bond",
-    "summary": "Blackstone Inc.-owned data center operator AirTrunk Pte. is looking to raise at least A$500 million ($358 million) through asset-backed bonds, according to people familiar with the matter, in what may be one of Asia’s first in the sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/blackstone-s-airtrunk-plans-its-first-data-center-backed-bond",
-    "published": "Wed, 22 Apr 2026 00:28:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741098"
-  },
-  {
-    "id": "6d52c6f2148f",
-    "title": "Apple’s New CEO Will Need to Stave Off Exodus of Top Talent",
-    "summary": "John Ternus, Apple Inc.’s next chief executive officer, is up against a major challenge as he settles into the role: retaining top talent during a time of historic turnover.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/apple-ceo-ternus-confronts-test-of-retaining-company-s-top-talent",
-    "published": "Tue, 21 Apr 2026 23:16:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741107"
-  },
-  {
-    "id": "ffe8d3cf6c17",
-    "title": "UK Says Iran, China Drive Regular Significant Cyberattacks",
-    "summary": "Hackers linked to foreign governments are now behind the majority of “nationally significant” cyberattacks targeting the UK, the country’s top cybersecurity official is set to warn.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/uk-says-iran-china-drive-regular-significant-cyberattacks",
-    "published": "Tue, 21 Apr 2026 23:01:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:31.741112"
-  },
-  {
-    "id": "b121faf9df13",
-    "title": "Italy’s Giorgetti Says Deficit Will Be Under EU Limit This Year",
-    "summary": "Premier Giorgia Meloni’s government insisted Italy can still bring its deficit down to below the European Union’s ceiling this year, even if the economy performs worse than forecast.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/italy-s-giorgetti-says-deficit-will-be-under-eu-limit-this-year",
-    "published": "Wed, 22 Apr 2026 11:43:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039746"
-  },
-  {
-    "id": "c907887d030c",
-    "title": "Starmer’s Labour Set for ‘Historic Losses’ in London Local Vote",
-    "summary": "Labour is set to hemorrhage votes to both the Greens on the left and Nigel Farage’s Reform UK on the right during local elections in London next month, according to a new poll that lays bare the flagging popularity of Keir Starmer’s governing party.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/starmer-s-labour-set-for-historic-losses-in-london-local-vote",
-    "published": "Wed, 22 Apr 2026 11:38:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039752"
-  },
-  {
-    "id": "166d9752c37a",
-    "title": "Germany Plans First Auction for New Gas Plants in September",
-    "summary": "Germany plans to start holding tenders from September to build new gas-fired power plants, a draft law seen by Bloomberg shows, a move that has come under pressure from the chancellor’s junior coalition partner.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/germany-plans-first-auction-for-new-gas-plants-in-september",
-    "published": "Wed, 22 Apr 2026 11:32:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039758"
-  },
-  {
-    "id": "0b3a3f4d730d",
-    "title": "Turkey Says COP31 Climate Summit to Focus on Clean Energy Shift",
-    "summary": "Turkey will use its role as host of this year’s COP31 climate summit to boost clean energy adoption, according to the event’s incoming president, with the Iran war showing how important it is to diversify away from fossil fuels.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/turkey-says-cop31-climate-summit-to-focus-on-clean-energy-shift",
-    "published": "Wed, 22 Apr 2026 11:31:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039763"
-  },
-  {
-    "id": "bee60072d7a0",
-    "title": "Trump Extends Iran Ceasefire Again, Amid Ship Seizures",
-    "summary": "The holding pattern means markets are learning to live with uncertainty",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/trump-s-indefinite-ceasefire-leaves-lots-of-uncertainty",
-    "published": "Wed, 22 Apr 2026 11:18:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039768"
+    "fetched_at": "2026-04-22T14:59:08.228800"
   },
   {
     "id": "4b352dcc332b",
-    "title": "Romanian President Holds Talks to Save Government From Collapse",
-    "summary": "Romanian President Nicusor Dan is holding talks with coalition parties to salvage the country’s teetering pro-European government, with the nation’s investment grade and billions of euros in European Union funding potentially hinging on the outcome.",
+    "title": "Romania Heads for Minority Government After Top Party Quits",
+    "title_cn": "罗马尼亚高层党退出后走向少数派政府",
+    "summary": "Romania’s government is on track to lose its parliamentary majority after the biggest party in the four-member coalition signaled it’ll go into opposition, risking political instability and imperiling a drive to narrow the European Union’s widest budget deficit.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/romanian-president-holds-talks-to-save-government-from-collapse",
     "published": "Wed, 22 Apr 2026 11:14:53 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039774"
-  },
-  {
-    "id": "07e03797e253",
-    "title": "Ukraine to Get €90 Billion EU Loan After Hungary Drops Veto",
-    "summary": "Ukraine will finally start receiving a €90 billion ($106 billion) loan from the European Union after Hungary lifted its veto, ending months of wrangling over the vital cash injection for the war-torn country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ukraine-to-get-90-billion-eu-loan-after-hungary-drops-veto",
-    "published": "Wed, 22 Apr 2026 11:13:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039779"
-  },
-  {
-    "id": "936383c06c28",
-    "title": "US and Iran Deadlocked Over Hormuz After Trump Extends Truce",
-    "summary": "US President Donald Trump indefinitely extended a ceasefire with Iran after the two sides failed to meet for more peace talks, with the war developing into a game of brinkmanship over the critical Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/trump-extends-iran-ceasefire-blockade-as-peace-talks-stumble",
-    "published": "Wed, 22 Apr 2026 05:06:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039784"
-  },
-  {
-    "id": "f9f6da93b4db",
-    "title": "Malacca Ship Tolls Divide Emerges Between Indonesia, Singapore",
-    "summary": "Top officials from Indonesia and Singapore struck starkly different tones Wednesday on charging tolls in the Malacca Strait, a debate sparked by Iran’s push to levy fees on ships transiting the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/singapore-says-trade-through-malacca-strait-must-remain-free",
-    "published": "Wed, 22 Apr 2026 03:56:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039790"
+    "fetched_at": "2026-04-22T14:59:08.350670"
   },
   {
     "id": "fe98d2296d03",
-    "title": "Iran Gunboats Menace Hormuz as Its Own Tankers Test US Blockade",
-    "summary": "Iranian gunboats fired on two ships in the Strait of Hormuz on Wednesday as Tehran maintained its grip on the vital energy channel, while two of its own oil supertankers tested a US blockade.",
+    "title": "Iran Menaces Hormuz as Its Own Oil Tankers Test US Blockade",
+    "title_cn": "伊朗油轮测试美国封锁，威胁霍尔木兹海峡",
+    "summary": "Iranian gunboats fired on commercial ships in the Strait of Hormuz on Wednesday as Tehran maintained its grip on the vital energy channel, while two of its own oil supertankers tested a US blockade.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/iran-gunboats-menace-hormuz-as-its-own-tankers-test-us-blockade",
     "published": "Wed, 22 Apr 2026 10:53:47 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039795"
-  },
-  {
-    "id": "cf55bb9802d3",
-    "title": "Philippine Vice President Duterte’s Wealth Scrutinized in Impeachment Probe",
-    "summary": "Philippine lawmakers expanded their impeachment probe into Vice President Sara Duterte to include her financial transactions, as they scrutinized why she didn’t report any cash holdings for six years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/philippine-vice-president-duterte-s-wealth-scrutinized-in-impeachment-probe",
-    "published": "Wed, 22 Apr 2026 09:01:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039800"
-  },
-  {
-    "id": "56bb09ec7541",
-    "title": "War Crimes Court Rejects Bid to Free Philippines’ Duterte",
-    "summary": "The International Criminal Court’s appeals chamber ruled that the tribunal has jurisdiction over the case of ex-Philippine President Rodrigo Duterte’s crimes against humanity and rejected his bid for release.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/icc-appeals-chamber-rules-court-has-jurisdiction-in-duterte-s-case",
-    "published": "Wed, 22 Apr 2026 09:40:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039805"
-  },
-  {
-    "id": "fce936688d14",
-    "title": "Traders Bet on Post-War Calm to Keep Rates in Tight Range",
-    "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/bond-traders-bet-on-post-war-calm-to-keep-rates-in-tight-range",
-    "published": "Tue, 21 Apr 2026 20:36:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039811"
-  },
-  {
-    "id": "6b193c88f4ce",
-    "title": "MAHA’s Hopes for Healthier School Lunches Collide With Trump’s Spending Cuts",
-    "summary": "<p>“We’re managing pennies.” Cafeterias are being pushed to serve healthier meals with less money.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/us-schools-face-cost-crunch-as-new-nutrition-rules-loom",
-    "published": "Wed, 22 Apr 2026 10:00:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039816"
-  },
-  {
-    "id": "6b3d74f938b9",
-    "title": "Starmer’s Uncivil War Against the UK Civil Service",
-    "summary": "The Mandelson saga has laid bare tensions between the civil service and elected politicians.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/uk-prime-minister-starmer-s-woes-now-include-his-own-civil-service",
-    "published": "Wed, 22 Apr 2026 09:59:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039822"
-  },
-  {
-    "id": "382dc7dec223",
-    "title": "German Defense Minister Expects FCAS Jet Decision This Week",
-    "summary": "Germany expects a final decision this week on the future of a prestigious joint fighter jet project with France.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/german-defense-minister-expects-fcas-jet-decision-this-week",
-    "published": "Wed, 22 Apr 2026 08:18:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039827"
-  },
-  {
-    "id": "2f0ecfa2a8e5",
-    "title": "Oil Shock Pushes Thailand to Rework Budget to Hold Deficit",
-    "summary": "Thailand is reshuffling state spending to cushion the impact of an oil shock while keeping its deficit target intact, highlighting the strain the Middle East conflict is placing on public finances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/oil-shock-pushes-thailand-to-rework-spending-to-contain-deficit",
-    "published": "Wed, 22 Apr 2026 05:39:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039833"
-  },
-  {
-    "id": "ff8671db2f2f",
-    "title": "Eskom Projects No Power Cuts This Winter, Warns of Lingering Risks",
-    "summary": "South Africa’s state power utility said it should be able to avoid instituting electricity cuts this winter thanks to a marked improvement in the performance of its plants, while highlighting longer-term supply risks and mounting overdue debt as key concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/eskom-sees-stable-south-africa-winter-power-supply-risks-linger",
-    "published": "Wed, 22 Apr 2026 09:40:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039837"
-  },
-  {
-    "id": "cf3e368f5099",
-    "title": "US-Iran Talks on Hold, Trump Comments on China’s ‘Gift’",
-    "summary": "US President Donald Trump indefinitely extended a ceasefire with Iran as peace talks remain on hold, walking back threats to resume fighting even as the Strait of Hormuz remains all but shut. Separately, Trump made cryptic comments about China possibly providing weapons or other potentially lethal war supplies to Iran, a move that would test a US red line on aiding Tehran during the war. Bloomberg’s Joumanna Bercetche reports.",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/us-iran-truce-holds-trump-comments-on-china-s-gift-video",
-    "published": "Wed, 22 Apr 2026 09:35:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039889"
-  },
-  {
-    "id": "6905a45c3f8d",
-    "title": "Noboa’s ‘New Ecuador’ Has Some Fearing Loss of Civil Freedoms",
-    "summary": "On a recent Sunday morning, Ecuadorians awoke to find that the front pages of two widely circulated newspapers were blank.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ecuador-s-noboa-tightens-grip-on-political-parties-courts-media",
-    "published": "Wed, 22 Apr 2026 09:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039902"
-  },
-  {
-    "id": "6b515e67cde0",
-    "title": "Iranian Oil Tankers Sail Past Hormuz Blockade",
-    "summary": "At least two fully laden Iranian tankers have sailed out of the Persian Gulf and past a US blockade this week, part of a flotilla that has made its way around the warships and ferried roughly 9 million barrels of oil to the market. Bloomberg's Stephen Stapczynski reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/iranian-oil-tankers-sail-past-hormuz-blockade-video",
-    "published": "Wed, 22 Apr 2026 08:32:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039908"
-  },
-  {
-    "id": "f961e88ad695",
-    "title": "Ships Come Under Gunfire Near Strait of Hormuz, UK Navy Says",
-    "summary": "The UK Navy said two ships were fired at near the Strait of Hormuz, the latest incidents following shootings over the weekend that ratcheted tensions higher in the vital waterway and kept maritime traffic at a near standstill.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/container-ship-comes-under-gunfire-near-hormuz-uk-navy-says",
-    "published": "Wed, 22 Apr 2026 05:14:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039914"
-  },
-  {
-    "id": "0560914bde05",
-    "title": "China Lauds ‘Relevant Nations’ Over Scrapped Taiwan Leader Trip",
-    "summary": "China indicated it was pleased with three countries that apparently blocked Taiwan President Lai Ching-te’s trip to an African diplomatic ally, as Beijing seeks to further isolate the self-ruled democracy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/china-lauds-flight-block-of-taiwan-leader-in-bid-to-isolate-lai",
-    "published": "Wed, 22 Apr 2026 07:53:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039919"
-  },
-  {
-    "id": "c50f6d9e5c11",
-    "title": "US-Iran Talks Stall, Ceasefire Extended",
-    "summary": "While the US-Iran ceasefire extension announced by US President Donald Trump might ease tensions for now, the path toward a lasting agreement to end the war is uncertain. Bloomberg's Paul Wallace reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-22/us-iran-talks-stall-ceasefire-extended-video",
-    "published": "Wed, 22 Apr 2026 07:19:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039923"
-  },
-  {
-    "id": "1b1f139bcf8c",
-    "title": "Mandelson Fiasco Leaves Starmer Looking Like a Lame Duck",
-    "summary": "Forty-eight hours of brutal public inquiry into Keir Starmer’s judgment have left the prime minister looking increasingly like a leader on his way out.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/mandelson-vetting-fiasco-leaves-starmer-looking-like-lame-duck",
-    "published": "Tue, 21 Apr 2026 20:12:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039928"
-  },
-  {
-    "id": "daf26d7ee343",
-    "title": "Ukraine Says It Asked Turkey to Help Seek Zelenskiy-Putin Talks",
-    "summary": "Ukraine has asked Turkey to help arrange a summit meeting between President Volodymyr Zelenskiy and Russian leader Vladimir Putin in a renewed effort to end the war, Foreign Minister Andrii Sybiha said in Kyiv.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ukraine-says-it-asked-turkey-to-help-seek-zelenskiy-putin-talks",
-    "published": "Wed, 22 Apr 2026 07:02:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039933"
-  },
-  {
-    "id": "8421e9744190",
-    "title": "Iran War May Erase Most of Reeves’ Buffer, UK Study Says",
-    "summary": "The war in Iran could wipe out most of Rachel Reeves’ fiscal buffer, according to new research pointing to a £16 billion ($22 billion) hit to Britain’s public finances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-21/iran-war-may-erase-most-of-uk-chancellor-s-buffer-research-says",
-    "published": "Tue, 21 Apr 2026 23:01:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039938"
+    "fetched_at": "2026-04-22T14:59:08.457111"
   },
   {
     "id": "6d529b62ce60",
-    "title": "UK’s Revered and Once Discreet Civil Service Turns on Starmer",
+    "title": "UK’s Revered, Once Discreet Civil Service Turns on Starmer",
+    "title_cn": "英国受人尊敬、曾经谨慎的公务员制度向斯塔默发起攻击",
     "summary": "The UK’s Labour government roared to power promising to improve morale in a civil service degraded by budget cuts under 14 years of Conservative rule. Instead, a public spat with some of its most senior officials is hurting its ability to navigate war with its enemies and disagreements with its friends.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-22/uk-s-revered-and-once-discreet-civil-service-turns-on-starmer",
     "published": "Wed, 22 Apr 2026 06:38:17 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039943"
+    "fetched_at": "2026-04-22T14:59:08.669178"
   },
   {
-    "id": "ba1b5ac952e6",
-    "title": "German Economy Chief to Make First Trip to China to Talk Trade",
-    "summary": "German Chancellor Friedrich Merz is dispatching his economy minister to China next month as officials in Berlin grow increasingly concerned over a widening trade deficit, access to raw materials and regulation of artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-22/german-economy-chief-to-make-first-trip-to-china-to-talk-trade",
-    "published": "Wed, 22 Apr 2026 06:35:39 GMT",
+    "id": "5d483029f2ee",
+    "title": "Americans Aren’t Buying Trump's Economic Spin",
+    "title_cn": "美国人并不买账特朗普的经济政策",
+    "summary": "President Trump’s struggle with affordability will define the midterm elections, explains Bloomberg Opinion columnist Nia-Malika Henderson. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-22/opinion-americans-don-t-buy-trump-s-economic-spin-video",
+    "published": "Wed, 22 Apr 2026 13:24:42 GMT",
     "source": "International",
-    "fetched_at": "2026-04-22T12:04:32.039947"
+    "fetched_at": "2026-04-22T14:59:08.801021"
+  },
+  {
+    "id": "037c3f08c2e4",
+    "title": "Nuclear Energy Key for Italy National Security, Minister Says",
+    "title_cn": "部长表示，核能是意大利国家安全的关键",
+    "summary": "Italy should generate nuclear power as a matter of national security, Italian Finance Minister Giancarlo Giorgetti said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/nuclear-energy-key-for-italy-national-security-minister-says",
+    "published": "Wed, 22 Apr 2026 13:12:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:08.904507"
+  },
+  {
+    "id": "9b615857966e",
+    "title": "Starmer Denies Pressuring UK Official Over Mandelson Role",
+    "title_cn": "斯塔默否认就曼德尔森的角色向英国官员施压",
+    "summary": "Prime Minister Keir Starmer insisted his office didn’t pressure a senior Foreign Office official to rubber-stamp the appointment of Peter Mandelson as US ambassador, disputing a key part of the bureaucrat’s testimony to a parliamentary committee a day earlier.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/starmer-denies-pressuring-uk-official-over-mandelson-appointment",
+    "published": "Wed, 22 Apr 2026 11:51:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.051106"
+  },
+  {
+    "id": "07e03797e253",
+    "title": "Ukraine to Get €90 Billion EU Loan as Orban Heads for the Exit",
+    "title_cn": "欧尔班准备退出乌克兰将获得 900 亿欧元欧盟贷款",
+    "summary": "Ukraine will finally start receiving a €90 billion ($106 billion) loan from the European Union after Hungary lifted its veto, bringing an end to years of Prime Minister Viktor Orban’s obstructionism over aid to a war-torn Kyiv.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/ukraine-to-get-90-billion-eu-loan-after-hungary-drops-veto",
+    "published": "Wed, 22 Apr 2026 11:13:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.215299"
+  },
+  {
+    "id": "64b237c73a9d",
+    "title": "NATO’s Rutte Urges Allies to Jointly Ramp Up Defense Production",
+    "title_cn": "北约吕特敦促盟国共同提高国防生产",
+    "summary": "NATO Secretary General Mark Rutte urged allies to jointly ramp up defense-industry production to increase the alliance’s deterrence, adding that it will be a key subject at the July summit in Ankara.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/nato-s-rutte-urges-allies-to-jointly-ramp-up-defense-production",
+    "published": "Wed, 22 Apr 2026 12:44:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.329306"
+  },
+  {
+    "id": "fb634cffc1eb",
+    "title": "Virginia Voters Approve Democratic Plan to Redraw Districts",
+    "title_cn": "弗吉尼亚州选民批准民主党重划选区的计划",
+    "summary": "Virginia voters backed a Democratic plan to redraw the state’s congressional districts in a way that could net them as many as four more US House seats in November’s midterm elections, according to multiple projections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/virginia-redistricting-measure-passes-ddhq-projects",
+    "published": "Wed, 22 Apr 2026 00:28:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.428537"
+  },
+  {
+    "id": "f060047d0b49",
+    "title": "San Francisco Billionaire Punches Back Against ‘Overpaid’ CEO Tax",
+    "title_cn": "旧金山亿万富翁反击“多付”首席执行官税",
+    "summary": "<p>Chris Larsen wants businesses to get tough when unions propose ‘stupid, job-killing’ ideas. He’s putting his money where his mouth is.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-04-22/san-francisco-billionaire-punches-back-against-labor-wealth-taxes",
+    "published": "Wed, 22 Apr 2026 12:30:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.535691"
+  },
+  {
+    "id": "b121faf9df13",
+    "title": "Italy’s Giorgetti Says Deficit to Be Under EU Limit in 2026",
+    "title_cn": "意大利总理乔尔盖蒂称 2026 年赤字将低于欧盟限额",
+    "summary": "Premier Giorgia Meloni’s government insisted Italy can still bring its deficit down to below the European Union’s ceiling this year, even if the economy performs worse than forecast.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/italy-s-giorgetti-says-deficit-will-be-under-eu-limit-this-year",
+    "published": "Wed, 22 Apr 2026 11:43:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.633064"
+  },
+  {
+    "id": "a3eb564b4b9a",
+    "title": "Can the US and Iran Agree to a Lasting Deal to End the War?",
+    "title_cn": "美国和伊朗能否达成持久协议来结束战争？",
+    "summary": "After President Donald Trump indefinitely extended a US ceasefire with Iran, the key question is whether the two sides can reach a deal to end a war that has killed thousands of people and sparked a global energy crunch.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/iran-us-peace-deal-faces-hormuz-nuclear-hurdles-as-trump-extends-ceasefire",
+    "published": "Wed, 22 Apr 2026 12:17:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.762182"
+  },
+  {
+    "id": "241ffcae4888",
+    "title": "Bulgaria’s Landslide Election Win Pushes Top Prosecutor to Quit",
+    "title_cn": "保加利亚压倒性选举胜利迫使最高检察官辞职",
+    "summary": "Bulgaria’s acting chief prosecutor resigned two days after former president, Rumen Radev, scored the most decisive election win this century and pledged to root out graft.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/bulgaria-s-landslide-election-win-pushes-top-prosecutor-to-quit",
+    "published": "Wed, 22 Apr 2026 11:54:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:09.898628"
+  },
+  {
+    "id": "3739fdf18895",
+    "title": "Iran War to Impact Shipping Long After It Ends, Japan’s MOL Says",
+    "title_cn": "日本商船三井表示，伊朗战争在结束后很长时间内仍将影响航运业",
+    "summary": "The impact of the Middle East conflict on the shipping industry and global supply chains will linger long after the war ends, according to the head of one of the world’s largest tanker owners.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/iran-war-to-impact-shipping-long-after-it-ends-japan-s-mol-says",
+    "published": "Wed, 22 Apr 2026 11:54:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.008050"
+  },
+  {
+    "id": "204edda3780f",
+    "title": "Hyundai, ST Engineering Bid for $530 Million Thai Frigate Order",
+    "title_cn": "现代、ST Engineering 竞标价值 5.3 亿美元的泰国护卫舰订单",
+    "summary": "South Korea’s Hyundai Heavy Industries Co. and Singapore’s ST Engineering Ltd. are among six companies vying for a $530 million contract to supply a high-capability frigate to Thailand, which is seeking to strengthen its maritime defenses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/hyundai-st-engineering-bid-for-530-million-thai-frigate-order",
+    "published": "Wed, 22 Apr 2026 11:51:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.119771"
+  },
+  {
+    "id": "4dcdc7dfc107",
+    "title": "Oil Trader CFOs Say Hormuz Closure Driving Wave of Disputes",
+    "title_cn": "石油贸易商首席财务官表示，霍尔木兹海峡关闭引发了一系列纠纷",
+    "summary": "The chief financial officers of some of the world’s top commodity trading houses warned that the protracted closure of the Strait of Hormuz may lead to a wave of disputes stemming from lost supply.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/oil-trader-cfos-say-hormuz-closure-is-driving-a-wave-of-disputes",
+    "published": "Wed, 22 Apr 2026 11:01:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.239998"
+  },
+  {
+    "id": "c907887d030c",
+    "title": "Starmer’s Labour Set for ‘Historic Losses’ in London Local Vote",
+    "title_cn": "斯塔默的工党在伦敦地方投票中遭遇“历史性损失”",
+    "summary": "Labour is set to hemorrhage votes to both the Greens on the left and Nigel Farage’s Reform UK on the right during local elections in London next month, according to a new poll that lays bare the flagging popularity of Keir Starmer’s governing party.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/starmer-s-labour-set-for-historic-losses-in-london-local-vote",
+    "published": "Wed, 22 Apr 2026 11:38:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.355183"
+  },
+  {
+    "id": "166d9752c37a",
+    "title": "Germany Plans First Auction for New Gas Plants in September",
+    "title_cn": "德国计划于九月首次拍卖新天然气工厂",
+    "summary": "Germany plans to start holding tenders from September to build new gas-fired power plants, a draft law seen by Bloomberg shows, a move that has come under pressure from the chancellor’s junior coalition partner.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/germany-plans-first-auction-for-new-gas-plants-in-september",
+    "published": "Wed, 22 Apr 2026 11:32:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.465473"
+  },
+  {
+    "id": "0b3a3f4d730d",
+    "title": "Turkey Says COP31 Climate Summit to Focus on Clean Energy Shift",
+    "title_cn": "土耳其表示 COP31 气候峰会将重点关注清洁能源转型",
+    "summary": "Turkey will use its role as host of this year’s COP31 climate summit to boost clean energy adoption, according to the event’s incoming president, with the Iran war showing how important it is to diversify away from fossil fuels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/turkey-says-cop31-climate-summit-to-focus-on-clean-energy-shift",
+    "published": "Wed, 22 Apr 2026 11:31:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.583773"
+  },
+  {
+    "id": "bee60072d7a0",
+    "title": "Trump Extends Iran Ceasefire Again, Amid Ship Seizures",
+    "title_cn": "特朗普在船只被扣押期间再次延长伊朗停火期限",
+    "summary": "The holding pattern means markets are learning to live with uncertainty",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-22/trump-s-indefinite-ceasefire-leaves-lots-of-uncertainty",
+    "published": "Wed, 22 Apr 2026 11:18:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.712254"
+  },
+  {
+    "id": "936383c06c28",
+    "title": "US and Iran Deadlocked Over Hormuz After Trump Extends Truce",
+    "title_cn": "特朗普延长休战期限后，美国和伊朗在霍尔木兹海峡陷入僵局",
+    "summary": "US President Donald Trump indefinitely extended a ceasefire with Iran after the two sides failed to meet for more peace talks, with the war developing into a game of brinkmanship over the critical Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/trump-extends-iran-ceasefire-blockade-as-peace-talks-stumble",
+    "published": "Wed, 22 Apr 2026 05:06:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.816073"
+  },
+  {
+    "id": "f9f6da93b4db",
+    "title": "Malacca Ship Tolls Divide Emerges Between Indonesia, Singapore",
+    "title_cn": "马六甲船舶通行费在印度尼西亚和新加坡之间出现分歧",
+    "summary": "Top officials from Indonesia and Singapore struck starkly different tones Wednesday on charging tolls in the Malacca Strait, a debate sparked by Iran’s push to levy fees on ships transiting the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/singapore-says-trade-through-malacca-strait-must-remain-free",
+    "published": "Wed, 22 Apr 2026 03:56:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:10.922011"
+  },
+  {
+    "id": "cf55bb9802d3",
+    "title": "Philippine Vice President Duterte’s Wealth Scrutinized in Impeachment Probe",
+    "title_cn": "菲律宾副总统杜特尔特的财富在弹劾调查中受到审查",
+    "summary": "Philippine lawmakers expanded their impeachment probe into Vice President Sara Duterte to include her financial transactions, as they scrutinized why she didn’t report any cash holdings for six years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/philippine-vice-president-duterte-s-wealth-scrutinized-in-impeachment-probe",
+    "published": "Wed, 22 Apr 2026 09:01:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:11.049877"
+  },
+  {
+    "id": "56bb09ec7541",
+    "title": "War Crimes Court Rejects Bid to Free Philippines’ Duterte",
+    "title_cn": "战争罪法庭拒绝释放菲律宾杜特尔特的请求",
+    "summary": "The International Criminal Court’s appeals chamber ruled that the tribunal has jurisdiction over the case of ex-Philippine President Rodrigo Duterte’s crimes against humanity and rejected his bid for release.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-22/icc-appeals-chamber-rules-court-has-jurisdiction-in-duterte-s-case",
+    "published": "Wed, 22 Apr 2026 09:40:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:11.170313"
+  },
+  {
+    "id": "fce936688d14",
+    "title": "Traders Bet on Post-War Calm to Keep Rates in Tight Range",
+    "title_cn": "交易员押注战后平静将利率维持在窄幅区间",
+    "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-21/bond-traders-bet-on-post-war-calm-to-keep-rates-in-tight-range",
+    "published": "Tue, 21 Apr 2026 20:36:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-22T14:59:11.278824"
   }
 ]
