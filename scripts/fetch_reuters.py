@@ -6,13 +6,14 @@ from hashlib import md5
 
 # 国际财经 RSS（兼容 GitHub Actions runner）
 RSS_URLS = [
-    # Reuters World News
-    "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=reuters",
-    "https://www.reutersagency.com/feed/?best-topics=tech&post_type=reuters",
-    # CNBC International
-    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-    # BBC Business
-    "http://feeds.bbci.co.uk/news/business/rss.xml",
+    # Yahoo Finance
+    "https://finance.yahoo.com/news/rssindex",
+    # MarketWatch
+    "http://feeds.marketwatch.com/marketwatch/topstories/",
+    # Investing.com RSS
+    "https://www.investing.com/rss/news.rss",
+    # Al Jazeera Business
+    "https://www.aljazeera.com/xml/rss/all.xml",
 ]
 
 def fetch_reuters():
