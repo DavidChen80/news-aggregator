@@ -4,12 +4,15 @@ import os
 from datetime import datetime
 from hashlib import md5
 
-# Reuters RSS 源（官方 feed.reuters.com）
+# 国际财经 RSS（兼容 GitHub Actions runner）
 RSS_URLS = [
-    "https://feeds.reuters.com/reuters/businessNews",
-    "https://feeds.reuters.com/reuters/technologyNews",
-    "https://feeds.reuters.com/reuters/environment",
-    "https://feeds.reuters.com/reuters/wealth",
+    # Reuters World News
+    "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=reuters",
+    "https://www.reutersagency.com/feed/?best-topics=tech&post_type=reuters",
+    # CNBC International
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+    # BBC Business
+    "http://feeds.bbci.co.uk/news/business/rss.xml",
 ]
 
 def fetch_reuters():
