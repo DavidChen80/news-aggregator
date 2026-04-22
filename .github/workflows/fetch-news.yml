@@ -1,0 +1,41 @@
+name: Fetch Financial News
+
+on:
+  schedule:
+    # 每 15 分钟运行一次（UTC 时间）
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install feedparser requests
+    
+    - name: Fetch Reuters RSS
+      run: |
+        python scripts/fetch_reuters.py
+    
+    - name: Fetch Bloomberg RSS
+      run: |
+        python scripts/fetch_bloomberg.py
+    
+    - name: Commit and push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git diff --staged --quiet || git commit -m "Update news $(date -u +%Y-%m-%d_%H:%M)"
+        git push
