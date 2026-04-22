@@ -4,10 +4,12 @@ import os
 from datetime import datetime
 from hashlib import md5
 
-# Reuters RSS 源
+# Reuters RSS 源（官方 feed.reuters.com）
 RSS_URLS = [
-    "https://www.reutersagency.com/feed/?taxonomy=markets&post_type=reuters-best",
-    "https://www.reutersagency.com/feed/?taxonomy=business-finance&post_type=reuters-best",
+    "https://feeds.reuters.com/reuters/businessNews",
+    "https://feeds.reuters.com/reuters/technologyNews",
+    "https://feeds.reuters.com/reuters/environment",
+    "https://feeds.reuters.com/reuters/wealth",
 ]
 
 def fetch_reuters():
