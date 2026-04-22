@@ -3,6 +3,7 @@ import json
 import os
 from datetime import datetime
 from hashlib import md5
+from deep_translator import GoogleTranslator
 
 # 多源国际财经 RSS（Bloomberg + 备用源）
 RSS_URLS = [
@@ -12,9 +13,17 @@ RSS_URLS = [
     "https://feeds.bloomberg.com/technology/news.rss",
     "https://feeds.bloomberg.com/politics/news.rss",
     "https://feeds.bloomberg.com/energy/news.rss",
-    # 备用：Business Insider
-    "https://feeds.businessinsider.com/homepage",
 ]
+
+def translate_to_chinese(text):
+    """翻译到中文"""
+    if not text or len(text) < 3:
+        return text
+    try:
+        translator = GoogleTranslator(source='auto', target='zh-CN')
+        return translator.translate(text[:450])
+    except:
+        return text
 
 def fetch_news():
     all_news = []
@@ -24,9 +33,14 @@ def fetch_news():
             feed = feedparser.parse(url)
             count = 0
             for entry in feed.entries:
+                # 翻译标题
+                title_en = entry.get("title", "")
+                title_cn = translate_to_chinese(title_en)
+                
                 news_item = {
                     "id": md5(entry.link.encode()).hexdigest()[:12],
-                    "title": entry.get("title", ""),
+                    "title": title_en,
+                    "title_cn": title_cn,
                     "summary": entry.get("summary", ""),
                     "link": entry.link,
                     "published": entry.get("published", ""),
