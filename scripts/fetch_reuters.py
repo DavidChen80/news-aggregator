@@ -4,24 +4,25 @@ import os
 from datetime import datetime
 from hashlib import md5
 
-# 国际财经 RSS（兼容 GitHub Actions runner）
+# 多源国际财经 RSS（Bloomberg + 备用源）
 RSS_URLS = [
-    # Yahoo Finance
-    "https://finance.yahoo.com/news/rssindex",
-    # MarketWatch
-    "http://feeds.marketwatch.com/marketwatch/topstories/",
-    # Investing.com RSS
-    "https://www.investing.com/rss/news.rss",
-    # Al Jazeera Business
-    "https://www.aljazeera.com/xml/rss/all.xml",
+    # Bloomberg 多主题
+    "https://feeds.bloomberg.com/business/news.rss",
+    "https://feeds.bloomberg.com/markets/news.rss",
+    "https://feeds.bloomberg.com/technology/news.rss",
+    "https://feeds.bloomberg.com/politics/news.rss",
+    "https://feeds.bloomberg.com/energy/news.rss",
+    # 备用：Business Insider
+    "https://feeds.businessinsider.com/homepage",
 ]
 
-def fetch_reuters():
+def fetch_news():
     all_news = []
     
     for url in RSS_URLS:
         try:
             feed = feedparser.parse(url)
+            count = 0
             for entry in feed.entries:
                 news_item = {
                     "id": md5(entry.link.encode()).hexdigest()[:12],
@@ -29,12 +30,14 @@ def fetch_reuters():
                     "summary": entry.get("summary", ""),
                     "link": entry.link,
                     "published": entry.get("published", ""),
-                    "source": "Reuters",
+                    "source": "International",
                     "fetched_at": datetime.utcnow().isoformat()
                 }
                 all_news.append(news_item)
+                count += 1
+            print(f"  {url.split('/')[2]}: {count} articles")
         except Exception as e:
-            print(f"Error fetching {url}: {e}")
+            print(f"  Error fetching {url}: {e}")
     
     # 去重（按 ID）
     seen = set()
@@ -51,7 +54,7 @@ def fetch_reuters():
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(unique_news, f, ensure_ascii=False, indent=2)
     
-    print(f"Saved {len(unique_news)} Reuters articles to {filename}")
+    print(f"Saved {len(unique_news)} articles to {filename}")
 
 if __name__ == "__main__":
-    fetch_reuters()
+    fetch_news()
