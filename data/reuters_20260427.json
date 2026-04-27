@@ -1,1003 +1,143 @@
 [
   {
-    "id": "0255a5cefe70",
-    "title": "Iran’s Araghchi Arrives in Russia to Meet Putin as US Talks Stall",
-    "title_cn": "美国谈判陷入僵局，伊朗阿拉格奇抵达俄罗斯会见普京",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/iran-s-araghchi-arrives-in-russia-to-meet-putin-as-us-talks-stall",
-    "published": "Mon, 27 Apr 2026 09:01:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:57.551245"
-  },
-  {
-    "id": "1205111f6adb",
-    "title": "Germany Sounded Out Possible Commerzbank White Knights This Year",
-    "title_cn": "德国今年可能会加入商业银行白衣骑士",
-    "summary": "Germany sounded out European lenders to defend Commerzbank AG against UniCredit SpA’s takeover bid earlier this year, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/germany-sounded-out-possible-commerzbank-white-knights-this-year",
-    "published": "Sun, 26 Apr 2026 11:18:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:57.653194"
-  },
-  {
-    "id": "ae07041f0a1a",
-    "title": "Daiwa to Buy Orix Bank for $2.3 Billion in Lending Expansion",
-    "title_cn": "大和将以 23 亿美元收购 Orix 银行以扩大贷款规模",
-    "summary": "Daiwa Securities Group Inc. will buy Orix Corp.’s banking unit for ¥370 billion ($2.3 billion), its largest acquisition in almost two decades, as Japan’s second-biggest brokerage deepens its foray into commercial lending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/daiwa-to-buy-orix-bank-for-2-3-billion-in-lending-expansion",
-    "published": "Mon, 27 Apr 2026 06:44:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:57.754845"
-  },
-  {
-    "id": "bf58401e2c8f",
-    "title": "Report: Iran Pitches Interim Deal, DC Gunman Due in Court, More",
-    "title_cn": "报告：伊朗提出临时协议，华盛顿枪手将出庭，更多",
-    "summary": "Source: Bloomberg, 6:54",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/report-iran-pitches-interim-deal-dc-gunman-due-in-court-more",
-    "published": "Mon, 27 Apr 2026 08:37:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:57.857609"
-  },
-  {
-    "id": "b98b91246add",
-    "title": "Stock Movers: Nordex, Sainsbury, Cint (Podcast)",
-    "title_cn": "股票移动商：Nordex、Sainsbury、Cint（播客）",
-    "summary": "Source: Bloomberg, 4:21",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stock-movers-nordex-sainsbury-cint-podcast",
-    "published": "Mon, 27 Apr 2026 08:37:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:57.962666"
-  },
-  {
-    "id": "844dd78504bd",
-    "title": "Nissan Raises Earnings Forecasts, Expects Operating Profit",
-    "title_cn": "日产上调盈利预测和运营利润",
-    "summary": "Nissan Motor Co. raised its earnings forecast for the fiscal year ended in March, avoiding what could have been its first annual operating loss in five years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/nissan-raises-earnings-forecasts-expects-operating-profit",
-    "published": "Mon, 27 Apr 2026 08:15:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.074781"
-  },
-  {
-    "id": "89d79f88c0aa",
-    "title": "What's Actually Going On With Private Credit",
-    "title_cn": "私人信贷到底发生了什么",
-    "summary": "<p>How high can defaults go?</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/private-credit-concerns-what-s-next-for-private-credit-odd-lots",
-    "published": "Mon, 27 Apr 2026 08:00:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.180566"
-  },
-  {
-    "id": "487e081165b2",
-    "title": "Adidas Gets Running Lift From Two Sub-2-Hour Marathons",
-    "title_cn": "阿迪达斯从两场 2 小时以内的马拉松比赛中获得跑步提升",
-    "summary": "As athletes and spectators marvel at, not one, but two men smashing the once-unthinkable two-hour barrier in this year’s London Marathon, German sportsgear maker Adidas AG also has reason to celebrate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/adidas-gets-running-lift-in-london-from-two-sub-2-hour-marathons",
-    "published": "Sun, 26 Apr 2026 12:14:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.285570"
-  },
-  {
-    "id": "b93a18f90362",
-    "title": "Iran's Reported Offer, King Charles Goes to Washington, More",
-    "title_cn": "据报道，伊朗的提议、查尔斯国王前往华盛顿等",
+    "id": "8d684db4f520",
+    "title": "Bloomberg Surveillance TV: April 27th, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 4 月 27 日（播客）",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/iran-s-reported-offer-king-charles-goes-to-washington-more",
-    "published": "Mon, 27 Apr 2026 07:43:56 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/bloomberg-surveillance-tv-april-27th-2026-podcast",
+    "published": "Mon, 27 Apr 2026 15:24:40 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.397178"
+    "fetched_at": "2026-04-27T15:27:25.881001"
   },
   {
-    "id": "9a40fbfc1685",
-    "title": "Bank of England to Stress Test Longer Energy Shock, Hold Interest Rates on Iran War",
-    "title_cn": "英国央行将压力测试更长时间的能源冲击，并在伊朗战争期间维持利率不变",
-    "summary": "BOE to war-game scenarios and hold rates; King Charles nips to the US",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/bank-of-england-to-hold-interest-rates-stress-test-longer-energy-shock-impact",
-    "published": "Mon, 27 Apr 2026 07:16:15 GMT",
+    "id": "f7be70e465f3",
+    "title": "Stock Movers: Qualcomm, Microsoft, Domino's (Podcast)",
+    "title_cn": "库存推动者：高通、微软、达美乐（播客）",
+    "summary": "Source: Bloomberg, 4:03",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stock-movers-qualcomm-microsoft-domino-s-podcast",
+    "published": "Mon, 27 Apr 2026 15:23:24 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.509325"
+    "fetched_at": "2026-04-27T15:27:26.335229"
   },
   {
-    "id": "c5dd1cfca739",
-    "title": "Iran's Reported Offer, DC Gala Gunman Built Arsenal, More",
-    "title_cn": "据报道，伊朗的报价、DC Gala 枪手建造了阿森纳等",
-    "summary": "Source: Bloomberg, 7:17",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/iran-s-reported-offer-dc-gala-gunman-built-arsenal-more",
-    "published": "Mon, 27 Apr 2026 06:27:28 GMT",
+    "id": "2770873a798f",
+    "title": "Ackman’s Pershing Square IPO Expected to Raise $5 Billion",
+    "title_cn": "阿克曼潘兴广场 IPO 预计筹集 50 亿美元",
+    "summary": "Billionaire Bill Ackman’s IPO of his closed-end fund and his alternative asset management company is expected to raise about $5 billion, according to people familiar with the matter, the low end of the targeted fundraising range.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/bill-ackman-s-pershing-square-ipo-expected-to-raise-5-billion",
+    "published": "Mon, 27 Apr 2026 14:22:23 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.602468"
+    "fetched_at": "2026-04-27T15:27:26.447975"
   },
   {
-    "id": "e1a407930136",
-    "title": "King Charles Visits Washington, Trying to Stop Another Historic Break",
-    "title_cn": "查尔斯国王访问华盛顿，试图阻止另一场历史性突破",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/king-charles-visits-washington-trying-to-stop-another-historic-break",
-    "published": "Mon, 27 Apr 2026 06:15:10 GMT",
+    "id": "cfb70d17adc0",
+    "title": "Single Best Idea: Rebecca Patterson and Mishal Husain (Podcast)",
+    "title_cn": "单一最佳创意：丽贝卡·帕特森和米沙尔·侯赛因（播客）",
+    "summary": "Source: Bloomberg, 4:24",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/single-best-idea-rebecca-patterson-and-mishal-husain-podcast",
+    "published": "Mon, 27 Apr 2026 15:18:13 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:58.709901"
+    "fetched_at": "2026-04-27T15:27:26.566252"
   },
   {
-    "id": "7c6e50e34d49",
-    "title": "Toyota Sees Sales Dip as Iran Conflict Looms Over Operations",
-    "title_cn": "由于伊朗冲突笼罩运营，丰田销量下降",
-    "summary": "Toyota Motor Corp. saw sales decline in March as demand dipped for its best-selling RAV4 ahead of the refresh of the SUV, while the conflict in Iran threatens to cut off key supplies and force manufacturers to dial back production.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/toyota-sees-sales-decline-as-iran-conflict-looms-over-operations",
-    "published": "Mon, 27 Apr 2026 04:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.027453"
-  },
-  {
-    "id": "00f073fec9d6",
-    "title": "Bloomberg Daybreak Europe: Report: Iran Offers US Deal (Podcast)",
-    "title_cn": "彭博黎明欧洲：报告：伊朗向美国提出交易（播客）",
+    "id": "b88f2c25e934",
+    "title": "White House to Discuss Security, King Charles Comes to DC, More",
+    "title_cn": "白宫将讨论安全问题、查尔斯国王来到华盛顿等等",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/bloomberg-daybreak-europe-report-iran-offers-us-deal-podcast",
-    "published": "Mon, 27 Apr 2026 05:40:53 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/white-house-to-discuss-security-king-charles-comes-to-dc-more",
+    "published": "Mon, 27 Apr 2026 14:37:53 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.118938"
+    "fetched_at": "2026-04-27T15:27:26.677658"
   },
   {
-    "id": "b6e53ae80bd6",
-    "title": "Report: Iran Offers US Deal, DC Gala Gunman Motive, More",
-    "title_cn": "报告：伊朗向美国提出交易、DC Gala 枪手动机等",
-    "summary": "Source: Bloomberg, 7:27",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/report-iran-offers-us-deal-dc-gala-gunman-motive-more",
-    "published": "Mon, 27 Apr 2026 05:27:13 GMT",
+    "id": "aa7cf21e8950",
+    "title": "Stock Movers: ARC CN, Domino's Pizza, Veradermics (Podcast)",
+    "title_cn": "库存推动者：ARC CN、Domino's Pizza、Veradermics（播客）",
+    "summary": "Source: Bloomberg, 2:35",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stock-movers-arc-cn-domino-s-pizza-veradermics-podcast",
+    "published": "Mon, 27 Apr 2026 14:34:07 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.239234"
+    "fetched_at": "2026-04-27T15:27:26.789638"
   },
   {
-    "id": "4a9c341195c5",
-    "title": "After BHP, China’s CMRG Close to Iron Ore Deal With Fortescue",
-    "title_cn": "继必和必拓之后，中国CMRG接近与Fortescue达成铁矿石交易",
-    "summary": "Fortescue Ltd is close to signing a supply agreement with China’s state-backed iron ore buyer, according to a person familiar with the matter, following a BHP Group deal that drew a line under months of talks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/after-bhp-china-s-cmrg-close-to-iron-ore-deal-with-fortescue",
-    "published": "Mon, 27 Apr 2026 04:11:47 GMT",
+    "id": "2242a0a61c1e",
+    "title": "The Economic Return On AI Remains Poor: Macro Man Podcast",
+    "title_cn": "人工智能的经济回报仍然不佳：Macro Man 播客",
+    "summary": "Source: Bloomberg, 5:09",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/the-economic-return-on-ai-remains-poor-macro-man-podcast",
+    "published": "Mon, 27 Apr 2026 13:51:50 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.346606"
+    "fetched_at": "2026-04-27T15:27:26.925048"
   },
   {
-    "id": "e50b0a48ea71",
-    "title": "Cairo Relishes Return to Late Nights After Month of Eerie Calm",
-    "title_cn": "经过一个月的令人毛骨悚然的平静后，开罗享受重返深夜的乐趣",
-    "summary": "<p>Egypt’s capital is known for its all-hours&nbsp;buzz. A&nbsp;government&nbsp;effort to reduce power consumption has&nbsp;forced stores and cafés to shut up early.&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-04-27/cairo-relishes-return-to-late-nights-after-month-of-eerie-calm",
-    "published": "Mon, 27 Apr 2026 04:00:23 GMT",
+    "id": "30a1d5b710dc",
+    "title": "Stocks Dip, WHCD Suspect Due in Court, King's State Visit, More",
+    "title_cn": "股市下跌、WHCD 嫌疑人出庭、国王进行国事访问等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stocks-dip-whcd-suspect-due-in-court-king-s-state-visit-more",
+    "published": "Mon, 27 Apr 2026 13:38:05 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.467815"
+    "fetched_at": "2026-04-27T15:27:27.057469"
   },
   {
-    "id": "67f05a3938ce",
-    "title": "China Merchants Joins Talks for CK Hutchison’s Vexed Ports Sale",
-    "title_cn": "招商局参与长江和记港口出售谈判",
-    "summary": "Ports operator China Merchants Group is in talks to join a consortium seeking to buy dozens of CK Hutchison Holdings Ltd.’s ports, people familiar with the matter said, giving renewed momentum to a deal that stalled after emerging as a geopolitical flashpoint between China and the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-merchants-joins-talks-for-ck-hutchison-s-vexed-ports-sale",
-    "published": "Mon, 27 Apr 2026 03:41:16 GMT",
+    "id": "e96934705976",
+    "title": "Organic Juice Maker Suja, Backer Seek $213 Million in US IPO",
+    "title_cn": "有机果汁制造商 Suja 及其支持者在美国 IPO 寻求 2.13 亿美元融资",
+    "summary": "Suja Life Inc., a maker of organic cold-pressed juices and other nutritional beverages, and one of its backers are looking to raise as much as $213.3 million in a US initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/organic-juice-maker-suja-backer-seek-213-3-million-in-us-ipo",
+    "published": "Mon, 27 Apr 2026 13:38:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.580240"
+    "fetched_at": "2026-04-27T15:27:28.370608"
   },
   {
-    "id": "44d0c28c7464",
-    "title": "Axios: Iran Offers Deal to Open Strait, Trump on DC Gala Attack",
-    "title_cn": "Axios：伊朗提出开放海峡协议，特朗普谈华盛顿晚会袭击事件",
-    "summary": "Source: Bloomberg, 5:06",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/axios-iran-offers-deal-to-open-strait-trump-on-dc-gala-attack",
-    "published": "Mon, 27 Apr 2026 03:28:03 GMT",
+    "id": "22496eb79d97",
+    "title": "Pimco’s $10 Billion Private Deals Fuel Middle East’s Wartime Cash Quest",
+    "title_cn": "Pimco 100 亿美元的私人交易助推中东战时现金需求",
+    "summary": "The $2.27 trillion asset manager has been a significant buyer of privately placed bonds from the region.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/pimco-buys-abu-dhabi-qatar-kuwait-private-bonds-dubai-homes-prices-fall",
+    "published": "Mon, 27 Apr 2026 13:30:32 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.717570"
+    "fetched_at": "2026-04-27T15:27:29.364269"
   },
   {
-    "id": "4afe1ee04803",
-    "title": "Tech Selloff, Fears of Fresh Rupee Curbs Cast Shadow on Indian Stocks",
-    "title_cn": "科技股抛售、对卢比新限制的担忧给印度股市蒙上阴影",
-    "summary": "The NSE Nifty IT Index slumped to its lowest since June 2023.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/renewed-rupee-weakness-may-invite-rbi-curbs-it-index-tumbles-to-near-3-year-low",
-    "published": "Mon, 27 Apr 2026 02:46:01 GMT",
+    "id": "94b84d93c9e2",
+    "title": "BYD Discounts Show China EV Price War Is Accelerating",
+    "title_cn": "比亚迪折扣显示中国电动汽车价格战正在加速",
+    "summary": "The average reductions for cars have edged higher in March.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/byd-discounts-show-china-ev-price-war-is-accelerating",
+    "published": "Mon, 27 Apr 2026 13:10:19 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.822750"
+    "fetched_at": "2026-04-27T15:27:29.476744"
   },
   {
-    "id": "61a59b91ec90",
-    "title": "Axios: Iran Offers US New Plan, Trump on WHCD Shooting, More",
-    "title_cn": "Axios：伊朗向美国提出新计划、特朗普关于 WHCD 枪击事件等",
-    "summary": "Source: Bloomberg, 5:06",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/axios-iran-offers-us-new-plan-trump-on-whcd-shooting-more",
-    "published": "Mon, 27 Apr 2026 02:31:17 GMT",
+    "id": "6b9b7a10520b",
+    "title": "War Opens an African Frontier for Investors Hunting for Fuel",
+    "title_cn": "战争为寻找燃料的投资者开辟了非洲前沿",
+    "summary": "Investors look to the continent to fill the supply gap.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/next-africa-iran-war-opens-a-frontier-for-investors-hunting-for-fuel",
+    "published": "Mon, 27 Apr 2026 13:00:56 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:10:59.941174"
+    "fetched_at": "2026-04-27T15:27:29.589981"
   },
   {
-    "id": "0d283ecc8630",
-    "title": "Axios: Iran Offers New Proposal, Trump on DC Gala Attack, More",
-    "title_cn": "Axios：伊朗提出新提案、特朗普就华盛顿晚会袭击事件等",
-    "summary": "Source: Bloomberg, 4:31",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/axios-iran-offers-new-proposal-trump-on-dc-gala-attack-more",
-    "published": "Mon, 27 Apr 2026 02:03:22 GMT",
+    "id": "6a1ae9ea471f",
+    "title": "Budget Battle Looms as EU Ponders €1.8 Trillion Spending Plan",
+    "title_cn": "欧盟考虑 1.8 万亿欧元支出计划，预算战迫在眉睫",
+    "summary": "The EU is gearing up for a debate over its next long-term budget",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/eu-debates-new-long-term-mff-budget-amid-divisions",
+    "published": "Mon, 27 Apr 2026 13:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.050686"
+    "fetched_at": "2026-04-27T15:27:29.765119"
   },
   {
-    "id": "de9e17bfcd49",
-    "title": "Bloomberg Daybreak Asia: Stocks Rise on Iran Plan Report",
-    "title_cn": "彭博黎明亚洲：伊朗计划报告推动股市上涨",
-    "summary": "Source: Bloomberg, 19:27",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/bloomberg-daybreak-asia-stocks-rise-on-iran-plan-report",
-    "published": "Mon, 27 Apr 2026 01:55:57 GMT",
+    "id": "2b736dc21391",
+    "title": "DC Gunman Built Up Arsenal, Trump to Welcome King Charles, More",
+    "title_cn": "华盛顿枪手建造了阿森纳，特朗普欢迎查尔斯国王，更多",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/dc-gunman-built-up-arsenal-trump-to-welcome-king-charles-more",
+    "published": "Mon, 27 Apr 2026 12:45:25 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.165729"
-  },
-  {
-    "id": "6a4792cfdce7",
-    "title": "Trump on DC Gala Attack, Warsh Confirmation Set to Advance, More",
-    "title_cn": "特朗普谈华盛顿晚会袭击事件、沃什确认将提前等等",
-    "summary": "Source: Bloomberg, 4:39",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/trump-on-dc-gala-attack-warsh-confirmation-set-to-advance-more",
-    "published": "Mon, 27 Apr 2026 00:57:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.270365"
-  },
-  {
-    "id": "17c26a960986",
-    "title": "Trump on DC Gunman Motives, Suspect Targeted US Officials, More",
-    "title_cn": "特朗普谈华盛顿枪手动机、嫌疑人针对美国官员等",
-    "summary": "Source: Bloomberg, 4:54",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/trump-on-dc-gunman-motives-suspect-targeted-us-officials-more",
-    "published": "Mon, 27 Apr 2026 00:14:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.382660"
-  },
-  {
-    "id": "29192a1df36e",
-    "title": "China’s Car Headlights Can Project Movies Like Drive-In Theaters",
-    "title_cn": "中国的汽车头灯可以像汽车影院一样放映电影",
-    "summary": "American drive-in theaters might be a relic of the past, but Chinese carmakers have found a novel way to bring them back: headlights that project movies onto walls.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-s-car-headlights-can-project-movies-like-drive-in-theaters",
-    "published": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.480899"
-  },
-  {
-    "id": "c09a56ac2598",
-    "title": "What We Know About the Washington DC Gunman’s Attack Plans",
-    "title_cn": "我们对华盛顿特区枪手袭击计划的了解",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-26/what-we-know-about-the-washington-dc-gunman-s-attack-plans",
-    "published": "Sun, 26 Apr 2026 23:15:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.567276"
-  },
-  {
-    "id": "044bca8b4e8c",
-    "title": "Trump Pushes for White House Ballroom, US-Iran Talks Stall, More",
-    "title_cn": "特朗普推动白宫宴会厅、美伊谈判陷入僵局等等",
-    "summary": "Source: Bloomberg, 4:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-26/trump-pushes-for-white-house-ballroom-us-iran-talks-stall-more",
-    "published": "Sun, 26 Apr 2026 22:43:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.665305"
-  },
-  {
-    "id": "4a1eba1fc73d",
-    "title": "DC Gala Shooting Suspect Investigation, Warsh Fed Vote, More",
-    "title_cn": "华盛顿特区枪击案嫌疑人调查、沃什美联储投票等",
-    "summary": "Source: Bloomberg, 5:16",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-26/dc-gala-shooting-suspect-investigation-warsh-fed-vote-more",
-    "published": "Sun, 26 Apr 2026 21:48:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.778054"
-  },
-  {
-    "id": "1a9e73d07262",
-    "title": "Washington Gala Shooter’s Motives Are Under Scrutiny",
-    "title_cn": "华盛顿晚会枪手的动机正在接受审查",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-26/washington-gala-shooter-s-motives-are-under-scrutiny",
-    "published": "Sun, 26 Apr 2026 21:30:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:00.888245"
-  },
-  {
-    "id": "5066ec3a01bb",
-    "title": "Power Trader Whose Error Caused Crash Faces $11 Million Fine",
-    "title_cn": "因错误导致崩溃的电力交易者面临 1100 万美元罚款",
-    "summary": "A Swedish power trader behind a major collapse in Finland’s electricity market in 2023 is facing a €9.25 million ($11 million) fine.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/power-trader-whose-error-crashed-market-faces-11-million-fine",
-    "published": "Mon, 27 Apr 2026 08:47:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:01.636609"
-  },
-  {
-    "id": "5afc1e816c11",
-    "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
-    "title_cn": "中国阻止 Meta 以 20 亿美元收购人工智能公司 Manus",
-    "summary": "China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, making a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
-    "published": "Mon, 27 Apr 2026 08:19:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:01.833576"
-  },
-  {
-    "id": "f75462bb9ff9",
-    "title": "BASF Hikes Prices Again for Plastic Additives on War Disruption",
-    "title_cn": "巴斯夫因战争扰乱再次提高塑料添加剂价格",
-    "summary": "BASF SE is raising prices on plastic-protecting chemicals, commonly used in the car and consumer goods industries, for a second time since the start of the Iran conflict in February.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/basf-hikes-prices-again-for-plastic-additives-on-war-disruption",
-    "published": "Mon, 27 Apr 2026 08:49:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:01.926585"
-  },
-  {
-    "id": "33d8a43fbd3b",
-    "title": "Philippines Warns Agencies Not to Send Seamen to Persian Gulf",
-    "title_cn": "菲律宾警告各机构不要派遣海员前往波斯湾",
-    "summary": "The Philippines is telling crewing agencies to stop sending its nationals to the Persian Gulf, according to people familiar with the matter, making it more difficult for shipowners to rotate the thousands of seamen stuck on vessels behind the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/philippines-warns-agencies-not-to-send-seamen-to-persian-gulf",
-    "published": "Mon, 27 Apr 2026 08:39:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.137892"
-  },
-  {
-    "id": "ef99cf0122bf",
-    "title": "Gold Steadies as Attempts to Restart US-Iran Peace Talks Falter",
-    "title_cn": "重启美伊和谈的尝试受挫，金价持稳",
-    "summary": "Gold was steady as efforts to resume peace talks between the US and Iran stalled and energy flows via the Strait of Hormuz remained choked, two months into a war that’s upended global markets and raised inflation risks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/gold-slips-as-attempts-to-restart-us-iran-peace-talks-falter",
-    "published": "Sun, 26 Apr 2026 22:16:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.249307"
-  },
-  {
-    "id": "f464fc9d72f5",
-    "title": "US Stocks Slip From Highs as Hormuz Remains Shut: Markets Wrap",
-    "title_cn": "由于霍尔木兹海峡仍然关闭，美国股市从高位下跌：市场结束",
-    "summary": "US stocks slipped from record highs as the Strait of Hormuz remained shut, lifting oil prices, with traders also eyeing major megacap tech earnings and central bank decisions this week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/us-stock-futures-decline-as-iran-talks-stall-markets-wrap",
-    "published": "Sun, 26 Apr 2026 22:08:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.351315"
-  },
-  {
-    "id": "2f8cbb1411a3",
-    "title": "Sun Pharma Buys New Jersey-Based Organon in $12 Billion Deal",
-    "title_cn": "Sun Pharma 以 120 亿美元收购总部位于新泽西州的 Organon",
-    "summary": "Sun Pharmaceutical Industries Ltd. has agreed to acquire New York-listed women’s health-care company Organon &amp; Co., expanding its global reach with one of the biggest outbound deals by an Indian company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/sun-pharma-to-acquire-us-listed-organon-in-12-billion-deal",
-    "published": "Mon, 27 Apr 2026 00:19:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.456527"
-  },
-  {
-    "id": "6f2a3771048d",
-    "title": "Traders Buy Pound Protection on Policy, Election and War Risks",
-    "title_cn": "交易者买入英镑以保护政策、选举和战争风险",
-    "summary": "Investors are adopting a more cautious approach to the pound, with options traders zeroing in on three distinct risks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/traders-buy-pound-protection-on-policy-election-and-war-risks",
-    "published": "Mon, 27 Apr 2026 08:20:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.552740"
-  },
-  {
-    "id": "59507311103a",
-    "title": "Markets in 3 Minutes 4/27/2026",
-    "title_cn": "3 分钟了解市场 2026 年 4 月 27 日",
-    "summary": "Anna Edwards, Guy Johnson, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" For up to the minute market intelligence and insight, click MLIV . (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/central-bankers-have-bond-market-on-edge-3-minutes-mliv-video",
-    "published": "Mon, 27 Apr 2026 08:09:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.647670"
-  },
-  {
-    "id": "b1e482aecc61",
-    "title": "RBC BlueBay’s Dowding Sees Recession Risk for Europe on Iran War",
-    "title_cn": "加拿大皇家银行蓝湾 (RBC BlueBay) 的道丁 (Dowding) 认为伊朗战争将给欧洲带来衰退风险",
-    "summary": "Europe faces recession if the Strait of Hormuz crisis isn’t resolved within a month, according to Mark Dowding, chief investment officer for fixed income of RBC Bluebay Asset Management.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/rbc-bluebay-s-dowding-sees-recession-risk-for-europe-on-iran-war",
-    "published": "Mon, 27 Apr 2026 08:09:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.743307"
-  },
-  {
-    "id": "a516de03b921",
-    "title": "Romanian Ex-Ruling Party Joins Far-Right Bid to Topple Premier",
-    "title_cn": "罗马尼亚前执政党加入极右翼阵营推翻总理",
-    "summary": "Romania’s former top ruling Social Democratic party will join forces with the far-right opposition in a attempt to bring down the minority government of Prime Minister Ilie Bolojan, its deputy leader said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/romanian-ex-ruling-party-joins-far-right-bid-to-topple-premier",
-    "published": "Mon, 27 Apr 2026 08:05:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.852136"
-  },
-  {
-    "id": "0f4307a95b65",
-    "title": "Investors Dive Back Into Frontier Markets After April Rally",
-    "title_cn": "四月反弹后投资者重返前沿市场",
-    "summary": "Investors are piling back into some of the riskiest markets, as demand for frontier assets picks up after an initial war-driven selloff.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/investors-dive-back-into-frontier-markets-after-april-rally",
-    "published": "Sun, 26 Apr 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:02.980711"
-  },
-  {
-    "id": "d7d1971cbd1a",
-    "title": "US Sanctions on China Oil Giant Turn Up Heat for Teapot Refiners",
-    "title_cn": "美国对中国石油巨头的制裁加剧了茶壶炼油厂的热度",
-    "summary": "A US move to sanction one of China’s largest private refiners over ties to Iran will hurt a vast and already embattled petrochemicals sector &mdash; but the collateral damage will extend far beyond oil.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/us-sanctions-on-china-oil-giant-turn-up-heat-for-teapot-refiners",
-    "published": "Mon, 27 Apr 2026 05:33:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.075344"
-  },
-  {
-    "id": "b9f91c0bf15b",
-    "title": "Euro-Zone Companies See Higher Selling Prices, ECB Survey Shows",
-    "title_cn": "欧洲央行调查显示，欧元区企业销售价格上涨",
-    "summary": "Euro-area companies expect substantially higher selling prices and input costs due to the Iran war, adding to inflation concerns at the European Central Bank.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/euro-zone-companies-see-higher-selling-prices-ecb-survey-shows",
-    "published": "Mon, 27 Apr 2026 08:00:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.306679"
-  },
-  {
-    "id": "f82d941dae01",
-    "title": "Odd Lots: What’s Actually Going On With Private Credit (Podcast)",
-    "title_cn": "奇怪的事情：私人信贷到底发生了什么（播客）",
-    "summary": "The private credit market has grown enormously fast in recent years &mdash; so much so that by some estimates it’s now bigger than the market for junk-rated corporate bonds. So what’s driven all that growth? What impact has private credit had on other types of corporate debt? And why are there so many concerns around the space right now? In this episode, we speak with John Sheehan and Craig Manchuck, two veteran portfolio managers for the strategic income fund at Osterweis Capital Management. We talk",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-27/odd-lots-what-s-actually-going-on-with-private-credit-podcast",
-    "published": "Mon, 27 Apr 2026 08:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.412255"
-  },
-  {
-    "id": "b6f3f519ec47",
-    "title": "Tokyo Gas Hikes Household Base Charge for First Time in 46 Years",
-    "title_cn": "东京燃气 46 年来首次提高家庭基本费用",
-    "summary": "Tokyo Gas Co. will raise its base charge for the first time in nearly half a century to offset higher costs and declining consumption.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/tokyo-gas-hikes-household-base-charge-for-first-time-in-46-years",
-    "published": "Mon, 27 Apr 2026 07:59:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.521430"
-  },
-  {
-    "id": "4afeee1fc1db",
-    "title": "Europe Power Prices Crash to Record Lows on Strong Solar Output",
-    "title_cn": "太阳能发电强劲，欧洲电价跌至历史新低",
-    "summary": "German power prices plunged to record lows on Sunday as solar generation surged and mild weather curbed weekend demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/europe-power-prices-crash-to-record-lows-on-strong-solar-output",
-    "published": "Mon, 27 Apr 2026 07:50:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.631699"
-  },
-  {
-    "id": "80b9da454f97",
-    "title": "Hong Kong Airport Taps Local Debt Boom for $1.9 Billion Plan",
-    "title_cn": "香港机场利用本地债务热潮实施 19 亿美元计划",
-    "summary": "Hong Kong’s airport operator plans to raise at least HK$15 billion ($1.9 billion) from its only public bond sale this year, according to people familiar with the matter, adding to a surge in debt sales denominated in the city’s currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hong-kong-airport-taps-local-debt-boom-with-1-9-billion-plan",
-    "published": "Mon, 27 Apr 2026 06:00:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.731325"
-  },
-  {
-    "id": "f99041c25571",
-    "title": "Horizons Middle East & Africa 4/27/2026 (Video)",
-    "title_cn": "中东和非洲地平线 2026 年 4 月 27 日（视频）",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/horizons-middle-east-africa-4-27-2026-video",
-    "published": "Mon, 27 Apr 2026 07:30:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.825074"
-  },
-  {
-    "id": "ec7d7cd8187d",
-    "title": "Iran Said to Offer US New Proposal to Reopen Strait of Hormuz | Daybreak Europe 04/27/2026",
-    "title_cn": "据称伊朗将向美国提出重新开放霍尔木兹海峡的新提案欧洲黎明 04/27/2026",
-    "summary": "On today's show, Iran has reportedly offered the US a new proposal to reopen the Strait of Hormuz. Oil pared gains and stocks advanced following the report by Axios. Iran's semi-official news agency, Tasnim, says nuclear issues will not be discussed until the US ends its blockade of Hormuz. Axios says President Trump will hold a White House Situation Room meeting today.\n\nAnd bond traders will be keeping a close eye on this week's rate decisions by the world's most important central banks. The Fed is set to lead the way with a hold, as policymakers watch for the impact of higher energy costs on inflation. The Bank of Japan, Bank of England and European Central Bank also publish rate decisions this week.\n\nCorrect: Video edited at 00;39;30 to show images of HSBC bank (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/daybreak-europe-4-27-2026-video",
-    "published": "Mon, 27 Apr 2026 07:29:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:03.919280"
-  },
-  {
-    "id": "c874242bcd00",
-    "title": "Australian Toll Operator Surges on Takeover Bid at A$7.4 Billion Valuation",
-    "title_cn": "澳大利亚收费运营商收购报价飙升至 74 亿澳元",
-    "summary": "IFM Investors Pty. has launched a takeover bid for toll road operator Atlas Arteria Ltd., arguing the Sydney-listed group it already partly owns has underperformed on returns, strategy and operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/ifm-investors-to-launch-bid-for-atlas-arteria-afr-reports",
-    "published": "Sun, 26 Apr 2026 22:48:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.025361"
-  },
-  {
-    "id": "99c417e89f54",
-    "title": "Emirates NBD Plans Middle East’s First AT1 Bond Sale Since War",
-    "title_cn": "阿联酋国民银行 (Emirates NBD) 计划发售中东战后首笔 AT1 债券",
-    "summary": "Emirates NBD Bank PJSC is looking to sell an Additional Tier 1 bond, in what would be the first offering of the riskiest type of bank debt by a Middle Eastern lender since the start of the war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/emirates-nbd-plans-middle-east-s-first-at1-bond-sale-since-war",
-    "published": "Mon, 27 Apr 2026 07:19:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.135943"
-  },
-  {
-    "id": "cdc14735e0e6",
-    "title": "Apollo Buys Forvia’s Auto Interiors Unit for €1.82 Billion",
-    "title_cn": "Apollo 以 18.2 亿欧元收购 Forvia 的汽车内饰部门",
-    "summary": "Apollo Global Management Inc. agreed to buy Forvia SE’s auto interiors business for an enterprise value of €1.82 billion ($2.1 billion), helping the French supplier cut debt and streamline its business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/apollo-acquires-forvia-s-auto-interiors-unit-for-1-82-billion",
-    "published": "Mon, 27 Apr 2026 05:58:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.253712"
-  },
-  {
-    "id": "b5192d02af52",
-    "title": "China Taps Another Tool to Drain Excess Cash From Market",
-    "title_cn": "中国利用另一种工具从市场上排出多余现金",
-    "summary": "China’s central bank is taking a further step to rein in a liquidity glut in its financial system by reducing the amount of medium-term funds it lends out to banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-taps-another-tool-to-drain-excess-liquidity-from-market",
-    "published": "Mon, 27 Apr 2026 04:54:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.363307"
-  },
-  {
-    "id": "9c0961cb62c4",
-    "title": "Japanese Public Wants Energy-Saving as Takaichi Holds Back",
-    "title_cn": "日本公众希望节能，但高市却犹豫不决",
-    "summary": "The war in the Middle East is putting pressure on the Japanese government to consider energy-saving measures, a challenge for Prime Minister Sanae Takaichi as she seeks to calm public anxiety over potential shortages.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/japanese-public-wants-energy-saving-steps-as-takaichi-holds-back",
-    "published": "Mon, 27 Apr 2026 03:32:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.466458"
-  },
-  {
-    "id": "025cf6724426",
-    "title": "BlueBay CIO: Markets Appear Complacent About War Fallout",
-    "title_cn": "BlueBay 首席信息官：市场似乎对战争后果感到自满",
-    "summary": "Mark Dowding, chief investment officer for fixed income at RBC BlueBay Asset Management, says markets appear to be complacent about the economic fallout from the Iran war. “It has the echoes of what we saw in the run-up to Covid actually landing on our shores,” Dowding tells Bloomberg Television. “It was only when it disrupted our lives that it really had a greater disruption in financial markets. And I do worry that something similar like that could be true here.”",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/bluebay-cio-says-markets-appear-complacent-to-war-impact-video",
-    "published": "Mon, 27 Apr 2026 07:00:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.566344"
-  },
-  {
-    "id": "6e5f0de95a1f",
-    "title": "BP Outruns Exxon to Emerge as Top Big-Oil Stock During Iran War",
-    "title_cn": "伊朗战争期间，英国石油公司（BP）超越埃克森美孚（Exxon）成为最大的大型石油股",
-    "summary": "BP Plc, long the laggard among oil supermajors, is emerging as the sector’s top stock during the Iran war as it reaps “exceptional” trading profits and avoids the scale of production outages hurting rivals like Exxon Mobil Corp.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/bp-gains-on-exxon-to-emerge-as-top-big-oil-stock-during-iran-war",
-    "published": "Mon, 27 Apr 2026 07:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.671713"
-  },
-  {
-    "id": "4d64352c98c8",
-    "title": "Congo Plans Paramilitary Unit for Mines with US, UAE Funding",
-    "title_cn": "刚果计划在美国和阿联酋的资助下建立准军事部队",
-    "summary": "The Democratic Republic of Congo will create a paramilitary unit to police its mines with funding from the US and United Arab Emirates, the country’s General Inspectorate of Mines said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/congo-plans-paramilitary-unit-for-mines-with-us-uae-funding",
-    "published": "Mon, 27 Apr 2026 06:59:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.779791"
-  },
-  {
-    "id": "696742b5390c",
-    "title": "Italy Decides to Extradite Chinese Man US Wants for Hacking",
-    "title_cn": "意大利决定引渡美国通缉的黑客中国人",
-    "summary": "The Italian government decided to extradite a Chinese man wanted by the US on hacking charges, people familiar with the matter said on Sunday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/italy-decides-to-extradite-chinese-man-wanted-by-us-for-hacking",
-    "published": "Sun, 26 Apr 2026 16:00:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:04.974586"
-  },
-  {
-    "id": "00b6c6074d99",
-    "title": "Wall Street Split on Quantum Computing Bet",
-    "title_cn": "华尔街对量子计算的赌注存在分歧",
-    "summary": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
-    "published": "Mon, 27 Apr 2026 08:53:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.092763"
-  },
-  {
-    "id": "ab2960f917d0",
-    "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
-    "title_cn": "东京电子前员工因台积电违规被判入狱十年",
-    "summary": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
-    "published": "Mon, 27 Apr 2026 03:15:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.459927"
-  },
-  {
-    "id": "d551390ffcb6",
-    "title": "What's Actually Going On With Private Credit | Odd Lots",
-    "title_cn": "私人信贷到底发生了什么？零股",
-    "summary": "The private credit market has grown enormously fast in recent years&mdash;so much so that by some estimates it's now bigger than the market for junk-rated corporate bonds. So what's driven all that growth? What impact has private credit had on other types of corporate debt? And why are there so many concerns around the space right now? In this episode we speak with John Sheehan and Craig Manchuck, two veteran portfolio managers for the strategic income fund at Osterweis Capital Management. We talk about the history of private credit before and after 2008, private credit's links with private equity and insurance, the prospect of higher defaults, and what to watch for right now. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/what-s-actually-going-on-with-private-credit-video",
-    "published": "Mon, 27 Apr 2026 08:15:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.574821"
-  },
-  {
-    "id": "15bd2d73bab2",
-    "title": "Hitachi Plans $3.1 Billion Buyback While Iran Conflict Weighs",
-    "title_cn": "伊朗冲突加剧之际日立计划回购 31 亿美元",
-    "summary": "Hitachi Ltd. said it will buy back up to 3.56% of its outstanding stock for as much as ¥500 billion ($3.1 billion), the latest Japanese company to announce measures to beef up shareholder returns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hitachi-plans-3-1-billion-buyback-while-iran-conflict-weighs",
-    "published": "Mon, 27 Apr 2026 06:50:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.695696"
-  },
-  {
-    "id": "31fb80c8a53e",
-    "title": "GA-Backed Acko Is Said to Hire Banks for $350 Million India IPO",
-    "title_cn": "据称，GA 支持的 Acko 将聘请银行进行 3.5 亿美元的印度 IPO",
-    "summary": "Acko Technology &amp; Services Pvt., an Indian digital insurer backed by General Atlantic, has hired investment banks for a potential initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ga-backed-acko-is-said-to-hire-banks-for-350-million-india-ipo",
-    "published": "Mon, 27 Apr 2026 06:07:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.790209"
-  },
-  {
-    "id": "71155467dfe3",
-    "title": "Emma Grede on the No. 1 Trait She Looks For in Every Hire",
-    "title_cn": "艾玛·格雷德 (Emma Grede) 谈她在每位员工中寻找的第一特质",
-    "summary": "Francine Lacqua sits down with Emma Grede &mdash; the power behind Good American and a founding partner of Skims &mdash; to unpack what it really takes to build a billion-dollar brand. Grede goes beyond the headlines, revealing the chaos behind her $1 million launch day and the mindset that helped her push through challenges. From \"radical honesty\" in leadership to bold views on work, ambition and success, she reveals the principles that have shaped her rise &mdash; and why she’s now stepping into the spotlight to help others do the same. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/skims-co-founder-emma-grede-on-her-new-book-start-with-yourself",
-    "published": "Mon, 27 Apr 2026 05:00:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:05.906383"
-  },
-  {
-    "id": "6f53f4b9648c",
-    "title": "Your Next Pair of Good American Jeans Won’t Be Designed by AI",
-    "title_cn": "你的下一条优质美国牛仔裤不会由人工智能设计",
-    "summary": "Emma Grede, the co-founder and chief executive officer of Good American jeans, said her businesses are being changed by artificial intelligence, though there are some areas that are off limits.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/your-next-pair-of-good-american-jeans-won-t-be-designed-by-ai",
-    "published": "Mon, 27 Apr 2026 05:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.009104"
-  },
-  {
-    "id": "0c2db6402083",
-    "title": "DeepSeek Slashes Fees for New AI Model in Chinese Price War",
-    "title_cn": "DeepSeek 在中国价格战中大幅削减新人工智能模型的费用",
-    "summary": "DeepSeek is aggressively pitching low-priced-plans for its just-released flagship model, intensifying competition across a Chinese artificial intelligence industry trying to take on Silicon Valley’s best.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/deepseek-slashes-fees-for-new-ai-model-in-chinese-price-war",
-    "published": "Mon, 27 Apr 2026 04:14:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.103756"
-  },
-  {
-    "id": "2ec01c3a9179",
-    "title": "AI Startup Sereact Raises $110 Million for Robots That Predict Consequences",
-    "title_cn": "AI 初创公司 Sereact 融资 1.1 亿美元，用于开发预测后果的机器人",
-    "summary": "Sereact, a German robotics software company, has raised $110 million in fresh funding to develop its artificial intelligence model that makes robots smarter and more adaptable to different tasks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-startup-sereact-raises-110-million-for-robots-that-predict-consequences",
-    "published": "Mon, 27 Apr 2026 04:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.205372"
-  },
-  {
-    "id": "e3b427f8fe25",
-    "title": "Keyence Jumps 16% to Daily Limit on Earnings Beat, Buyback Plan",
-    "title_cn": "基恩士股价上涨 16%，因盈利超预期和回购计划而涨至每日上限",
-    "summary": "Keyence Corp. shares surged 16%, the biggest gain since August 2024, after the Japanese maker of factory automation sensors delivered quarterly operating income that exceeded analyst estimates and said it will seek investor approval to amend its charter to enable buybacks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/keyence-surges-16-to-daily-limit-after-profit-beats-estimates",
-    "published": "Mon, 27 Apr 2026 00:55:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.315120"
-  },
-  {
-    "id": "8e3729f49699",
-    "title": "Chipmaker Rohm’s Shares Dive After Denso Weighs Scrapping Buyout",
-    "title_cn": "电装考虑放弃收购后芯片制造商罗姆股价暴跌",
-    "summary": "Rohm Co. shares fell as much as 16% after Denso Corp. said it’s considering withdrawing a proposal to take over the power chip maker, dashing hopes for a quick consolidation of Japan’s fragmented supply chain.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/denso-weighs-withdrawing-takeover-bid-for-power-chipmaker-rohm",
-    "published": "Mon, 27 Apr 2026 00:05:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.415848"
-  },
-  {
-    "id": "ba1c733ef0c0",
-    "title": "AI Boom Drowns Out War Fears to Fuel Asia’s Great Market Divide",
-    "title_cn": "人工智能的繁荣淹没了战争恐惧，助长了亚洲巨大的市场分化",
-    "summary": "Asia’s markets are behaving as though two different worlds exist at once.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ai-boom-drowns-out-war-fears-to-fuel-asia-s-great-market-divide",
-    "published": "Mon, 27 Apr 2026 00:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.531572"
-  },
-  {
-    "id": "d8036d2e3662",
-    "title": "China’s Tech-Heavy EVs Dominate Beijing’s Auto Show",
-    "title_cn": "中国科技含量高的电动汽车主导北京车展",
-    "summary": "Legacy foreign automakers once held the keys to China’s car market, but the 2026 Beijing Auto Show reveals a dramatic power shift. From onboard cinemas to built-in toilets, domestic EV makers are winning over consumers with rapid-fire tech innovation and aggressive pricing. From the show floor in Beijing, Bloomberg’s Stephen Engle finds that as Western brands scramble to partner with local rivals to survive, China is now firmly in the driver’s seat. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-26/china-s-tech-heavy-evs-dominate-beijing-s-auto-show-video",
-    "published": "Sun, 26 Apr 2026 23:03:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.636951"
-  },
-  {
-    "id": "c5f5a7813ba0",
-    "title": "Warner Bros. Approved the Paramount Deal. Here’s What Comes Next.",
-    "title_cn": "华纳兄弟批准了派拉蒙交易。接下来会发生什么。",
-    "summary": "The company’s streaming service has lost more than $11 billion and can’t keep customers form canceling",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-26/comcast-s-peacock-problem-11-billion-in-losses-rising-cancellations",
-    "published": "Sun, 26 Apr 2026 23:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.761637"
-  },
-  {
-    "id": "17ba667d4269",
-    "title": "Canadian Province of Manitoba Says It Will Ban Social Media, AI For Youth",
-    "title_cn": "加拿大曼尼托巴省表示将禁止青少年使用社交媒体和人工智能",
-    "summary": "The Canadian province of Manitoba plans to prohibit young people from accessing social media and artificial intelligence chatbots, its leader said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/canadian-province-of-manitoba-says-it-will-ban-social-media-ai-for-youth",
-    "published": "Sun, 26 Apr 2026 16:38:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.872575"
-  },
-  {
-    "id": "b56ef1a86850",
-    "title": "Apple’s Cook Gives Ternus a Pipeline of 10 Major New Product Categories",
-    "title_cn": "Apple 库克为 Ternus 提供 10 种主​​要新产品类别",
-    "summary": "Also: John Ternus talks AI and services with employees.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-26/new-apple-ceo-john-ternus-first-major-product-is-the-foldable-iphone-road-map-mofu521p",
-    "published": "Sun, 26 Apr 2026 14:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:06.990884"
-  },
-  {
-    "id": "dc25c7462fd2",
-    "title": "Musk Vies to Turn X Into Super App With Banking Tool Near Launch",
-    "title_cn": "马斯克力争将X打造成超级应用程序，银行工具即将推出",
-    "summary": "More than three years after acquiring Twitter, Elon Musk says he’s nearing his long-stated goal of turning it into an “everything app” with a new financial services tool that he pledged to launch for the public this month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/musk-vies-to-turn-x-into-super-app-with-banking-tool-near-launch",
-    "published": "Sun, 26 Apr 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.094604"
-  },
-  {
-    "id": "86f0fccba3c9",
-    "title": "China Formalizes Labor Rules for Gig Workers on Online Platforms",
-    "title_cn": "中国正式制定网络平台零工劳动法规",
-    "summary": "China formalized its first comprehensive policy framework for “new employment groups,” including delivery riders and livestreamers, signaling a shift from ad-hoc regulation to normalization of the platform economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/china-formalizes-labor-rules-for-gig-workers-on-online-platforms",
-    "published": "Sun, 26 Apr 2026 10:27:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.213698"
-  },
-  {
-    "id": "479f8eeac813",
-    "title": "DeepSeek V4 Delay Shows Shift to China Chips, CCTV Account Says",
-    "title_cn": "CCTV 报道称 DeepSeek V4 延迟表明转向中国芯片",
-    "summary": "DeepSeek’s delayed release of its V4 model points to a strategic shift toward deeper integration with China’s domestic chip ecosystem, according to Yuyuantantian, a social media account affiliated with the government-controlled China Central Television.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/deepseek-v4-delay-shows-shift-to-china-chips-cctv-account-says",
-    "published": "Sun, 26 Apr 2026 04:49:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.320799"
-  },
-  {
-    "id": "feca97428b75",
-    "title": "Beijing Warns EU After China Firms Included in Russia Sanctions",
-    "title_cn": "中国企业被列入俄罗斯制裁名单后，北京警告欧盟",
-    "summary": "China said it will take necessary measures after the European Union added Chinese entities to its latest Russia sanctions package, warning that all consequences would be borne by the EU.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/beijing-warns-eu-after-china-firms-included-in-russia-sanctions",
-    "published": "Sun, 26 Apr 2026 02:26:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.423144"
-  },
-  {
-    "id": "a4d03afd2afd",
-    "title": "Private-Sector Sleuthing Becomes Big Business for US Tech Startup",
-    "title_cn": "私营部门侦查成为美国科技初创公司的大生意",
-    "summary": "<p>Trump’s economic crackdown on China’s US interests is creating opportunities for a Utah-based intelligence firm</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-04-25/private-sector-sleuthing-becomes-big-business-for-us-tech-startup",
-    "published": "Sat, 25 Apr 2026 14:00:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.550289"
-  },
-  {
-    "id": "8e43ca62fdcc",
-    "title": "Hungary Billionaire Meszaros Seeks Damage Control With Magyar",
-    "title_cn": "匈牙利亿万富翁梅萨罗斯寻求与马扎尔一起控制损害",
-    "summary": "Hungarian billionaire Lorinc Meszaros, a close business ally of outgoing Prime Minister Viktor Orban, has reached out to the country’s incoming leader to contain damage to his business empire amid a free-fall in the stock price of his conglomerate Opus Nyrt.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hungary-billionaire-meszaros-seeks-damage-control-with-magyar",
-    "published": "Mon, 27 Apr 2026 08:54:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:07.788981"
-  },
-  {
-    "id": "2e16a8497799",
-    "title": "Starmer Stays Defiant as Mandelson Saga Continues to Swirl",
-    "title_cn": "曼德尔森传奇继续发酵，斯塔默保持挑衅态度",
-    "summary": "Prime Minister Keir Starmer insists he’ll remain in the job and lead the Labour Party into the next general election, even as the controversy over his appointment of Peter Mandelson as ambassador to the US refuses to die down.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/starmer-stays-defiant-as-mandelson-saga-continues-to-swirl",
-    "published": "Sun, 26 Apr 2026 07:02:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:08.009894"
-  },
-  {
-    "id": "6217275cb9bc",
-    "title": "Iran’s Araghchi Arrives in Russia With US Talks at a Stalemate",
-    "title_cn": "伊朗阿拉格奇抵达俄罗斯，美国谈判陷入僵局",
-    "summary": "Iran’s Foreign Minister Abbas Araghchi arrived in Russia on Monday for a meeting with President Vladimir Putin, as talks with the US on ending an eight-week war remain at an impasse.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/iran-suggests-interim-deal-to-us-to-reopen-hormuz-axios-says",
-    "published": "Mon, 27 Apr 2026 06:07:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:08.582177"
-  },
-  {
-    "id": "8cec3cea1330",
-    "title": "Budget Airlines Ask White House for $2.5 Billion Relief Plan, Report Says",
-    "title_cn": "报告称，廉价航空公司向白宫请求 25 亿美元的救助计划",
-    "summary": "Budget airlines are banding together to ask the White House for a relief plan worth $2.5 billion in exchange for convertible equity stakes in the carriers, according to the Wall Street Journal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/budget-airlines-ask-white-house-for-2-5-billion-relief-plan",
-    "published": "Mon, 27 Apr 2026 02:26:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.200473"
-  },
-  {
-    "id": "28ed6074e3bb",
-    "title": "What We Know About the Gunman in DC Gala Attack",
-    "title_cn": "我们对 DC Gala 袭击事件中枪手的了解",
-    "summary": "The man accused of storming the White House Correspondents’ Dinner, Cole Tomas Allen, spent years quietly acquiring his arsenal. Allen then traveled cross-country by rail before checking into the Washington Hilton. The suspect’s exact targets and motives weren’t clear, although he did send a lengthy manifesto to family members that was seen by Bloomberg where he appeared to blast President Donald Trump as a “traitor” who committed crimes. Bloomberg’s Laura Davison reports.",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/what-we-know-about-the-gunman-in-dc-gala-attack-video",
-    "published": "Mon, 27 Apr 2026 05:56:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.303492"
-  },
-  {
-    "id": "3b1d428320dc",
-    "title": "Mali Defense Minister Killed in Suicide Attack, Government Says",
-    "title_cn": "政府称马里国防部长在自杀式袭击中丧生",
-    "summary": "Mali’s defense minister was killed in a suicide attack on his home during a coordinated assault by an al-Qaeda affiliate across several locations in the West African country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/mali-defense-minister-killed-in-suicide-attack-government-says",
-    "published": "Mon, 27 Apr 2026 05:41:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.413358"
-  },
-  {
-    "id": "6abbeb4d8612",
-    "title": "Stalled US-Iran Talks Show Limits of Pakistan’s Mediation Drive",
-    "title_cn": "美伊谈判陷入僵局显示巴基斯坦调解努力的局限性",
-    "summary": "The US and Iran failed to kick off a second round of peace talks this weekend despite a last-minute push by Pakistan, delivering a blow to Islamabad’s efforts to broker a settlement to end the two-month-old war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/stalled-us-iran-talks-show-limits-of-pakistan-s-mediation-drive",
-    "published": "Mon, 27 Apr 2026 05:28:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.505333"
-  },
-  {
-    "id": "6c05ed29e81e",
-    "title": "Philippine VP Duterte’s Spouse Files Complaint Against Central Bank Head",
-    "title_cn": "菲律宾副总统杜特尔特的配偶向央行行长提出投诉",
-    "summary": "Philippine Vice President Sara Duterte’s husband has filed a complaint against central bank Governor Eli Remolona over the public disclosure of their bank records during a congressional hearing tied to her impeachment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/philippine-vp-duterte-s-spouse-files-complaint-against-central-bank-head",
-    "published": "Mon, 27 Apr 2026 05:00:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.622100"
-  },
-  {
-    "id": "08c056cf26c2",
-    "title": "Poland Pushes for New European Tools to Finance Defense Spending",
-    "title_cn": "波兰推动新的欧洲工具为国防支出提供资金",
-    "summary": "Poland’s finance minister is campaigning to unlock new European sources of defense funding to avoid further straining the budget.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/poland-pushes-for-new-european-tools-to-finance-defense-spending",
-    "published": "Mon, 27 Apr 2026 04:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:09.849216"
-  },
-  {
-    "id": "01533087ed8c",
-    "title": "Iran Offers Deal to US to Reopen Strait and Delay Nuclear Talks, Axios Says",
-    "title_cn": "Axios 表示，伊朗向美国提出重新开放海峡并推迟核谈判的协议",
-    "summary": "Iran has given the US a new proposal to reopen the Strait of Hormuz and end the war that includes postponing nuclear negotiations, Axios reported, citing a US official and two people with knowledge of the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-27/iran-offers-deal-to-us-to-reopen-strait-delay-nuclear-talks-axios-says",
-    "published": "Mon, 27 Apr 2026 01:48:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.066977"
-  },
-  {
-    "id": "0304892e54f6",
-    "title": "Alleged DC Gala Gunman Believed to Be Targeting US Officials",
-    "title_cn": "据称 DC Gala 枪手的目标是美国官员",
-    "summary": "The armed suspect who tried to enter a Washington ballroom where President Donald Trump was set to speak was likely targeting administration officials, Acting US Attorney General Todd Blanche said. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-26/dc-gala-gunman-believed-to-be-targeting-us-officials-video",
-    "published": "Sun, 26 Apr 2026 20:29:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.450677"
-  },
-  {
-    "id": "d35f7bb6f85f",
-    "title": "US-Iran Talks Stall as Conflict Nears Two-Month Mark",
-    "title_cn": "冲突接近两个月后，美伊谈判陷入僵局",
-    "summary": "Efforts to resume peace talks over the Iran war stalled after US President Donald Trump canceled a planned trip by his top envoys and the Islamic Republic said it won’t negotiate so long as it’s being threatened. Bloomberg's Laura Davison reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-27/us-iran-talks-stall-as-conflict-nears-two-month-mark-video",
-    "published": "Mon, 27 Apr 2026 00:37:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.558970"
-  },
-  {
-    "id": "7f7f217b8594",
-    "title": "Trump Says Gala Attack Shows Security Need for His Ballroom",
-    "title_cn": "特朗普表示，晚会袭击表明他的宴会厅需要安全保障",
-    "summary": "President Donald Trump jumped on Saturday night’s shooting at the White House Correspondents’ Dinner to add a security rationale to his case for building a massive White House ballroom that he has wanted for years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/trump-says-gala-attack-shows-security-need-for-his-new-ballroom",
-    "published": "Sun, 26 Apr 2026 17:08:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.667949"
-  },
-  {
-    "id": "9f1617719dfd",
-    "title": "Chevron CEO Says Venezuela Must Do More for Oil Industry Revival",
-    "title_cn": "雪佛龙首席执行官表示委内瑞拉必须为石油工业复兴做出更多努力",
-    "summary": "Chevron Corp. Chief Executive Officer Mike Wirth said changes to Venezuela’s oil policy are a sign of progress in trying to attract foreign investment, though further measures are needed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/chevron-ceo-venezuela-needs-to-do-more-for-oil-industry-revival",
-    "published": "Sun, 26 Apr 2026 19:16:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.782387"
-  },
-  {
-    "id": "8c71299f5ada",
-    "title": "Another Attack at ‘Hinckley Hilton’ Raises New Security Concerns",
-    "title_cn": "“欣克利希尔顿”的另一次袭击引发了新的安全担忧",
-    "summary": "An attempted attack at Saturday’s White House Correspondents’ Dinner is spurring fresh questions about the security around President Donald Trump and other top officials.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/another-attack-at-hinckley-hilton-raises-new-security-concerns",
-    "published": "Sun, 26 Apr 2026 18:34:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.890478"
-  },
-  {
-    "id": "4ab70f916ffb",
-    "title": "Gunman in DC Gala Attack Built Up Arsenal to Target US Officials",
-    "title_cn": "华盛顿晚会袭击中的枪手建立了武器库以瞄准美国官员",
-    "summary": "The man accused of storming the White House Correspondents’ Dinner spent years quietly acquiring his arsenal, purchasing a shotgun from a Torrance, California, firearms dealer eight months before the attack and a semi-automatic pistol two years earlier, according to a law enforcement intelligence profile reviewed by Bloomberg.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/suspect-in-dc-dinner-attack-spent-several-years-acquiring-guns",
-    "published": "Sun, 26 Apr 2026 12:55:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:10.985519"
-  },
-  {
-    "id": "e51af51e4f11",
-    "title": "Ex-Israeli Prime Ministers Unite Parties to Take On Netanyahu",
-    "title_cn": "以色列前总理联合各方对抗内塔尼亚胡",
-    "summary": "Naftali Bennett and Yair Lapid, two former prime ministers of Israel, announced the merging of their parties, creating a new political entity that could outpoll that of Benjamin Netanyahu’s Likud in the upcoming election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/ex-israeli-prime-ministers-unite-parties-to-take-on-netanyahu",
-    "published": "Sun, 26 Apr 2026 15:40:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.197877"
-  },
-  {
-    "id": "6fa4212d63af",
-    "title": "Rep. Beyer: \"We Are More Divided Than We've Ever Been\" Following DC Shooting",
-    "title_cn": "众议员拜尔：华盛顿枪击事件后“我们比以往任何时候都更加分裂”",
-    "summary": "Rep. Don Beyer (D-Virginia) talks to \"Bloomberg This Weekend\" about his concerns following the shooting at the White House Correspondents' Dinner and the redistricting vote in Virginia that could tilt the balance in the Midterm elections. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-26/rep-beyer-we-are-more-divided-than-we-ve-ever-been-video",
-    "published": "Sun, 26 Apr 2026 15:26:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.292823"
-  },
-  {
-    "id": "7c5977155b6e",
-    "title": "Rep. McCaul on How to Combat Political Violence",
-    "title_cn": "众议员麦考尔谈如何打击政治暴力",
-    "summary": "Rep. Michael McCaul (R-Texas) shares his experience with David Gura and Christina Ruffini as a guest at the White House Correspondents' Dinner, where shots were fired outside the ballroom. He tells \"Bloomberg This Weekend\" what needs to be done to tone down political rhetoric following another shooting targeting President Trump. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-26/rep-mccaul-on-how-to-combat-political-violence-video",
-    "published": "Sun, 26 Apr 2026 15:20:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.390477"
-  },
-  {
-    "id": "97378448f92a",
-    "title": "US-Iran Peace Talks Stall as Conflict Nears Two-Month Mark",
-    "title_cn": "冲突接近两个月，美伊和平谈判陷入僵局",
-    "summary": "Efforts to resume peace talks over the Iran war stalled after US President Donald Trump canceled a planned trip by his top envoys and the Islamic Republic said it won’t negotiate so long as it’s being threatened.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/us-iran-peace-talks-stall-as-conflict-approaches-two-month-mark",
-    "published": "Sun, 26 Apr 2026 06:31:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.495297"
+    "fetched_at": "2026-04-27T15:27:29.877836"
   },
   {
     "id": "d275ce70575a",
@@ -1007,36 +147,956 @@
     "link": "https://www.bloomberg.com/news/articles/2026-04-26/supreme-court-weighs-bayer-appeal-of-failure-to-warn-roundup-lawsuits",
     "published": "Sun, 26 Apr 2026 15:00:18 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.608717"
+    "fetched_at": "2026-04-27T15:27:30.043435"
   },
   {
-    "id": "54c84c118e7e",
-    "title": "Gunman at DC Gala Believed to Be Targeting US Officials",
-    "title_cn": "DC Gala上的枪手被认为是针对美国官员",
-    "summary": "The armed suspect who tried to enter a Washington ballroom where President Donald Trump was speaking was likely targeting administration officials, Acting US Attorney General Todd Blanche said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/gunman-at-dc-gala-was-likely-targeting-officials-blanche-says",
-    "published": "Sun, 26 Apr 2026 12:13:40 GMT",
+    "id": "948a22fa0202",
+    "title": "Sun Pharma Founder Says “Debt-Averse, Not Risk-Averse” After $12 billion Organon Buy",
+    "title_cn": "Sun Pharma 创始人在斥资 120 亿美元收购 Organon 后表示“规避债务，而非规避风险”",
+    "summary": "Organon will boost Sun Pharma’s global presence by 40 countries.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/sun-pharma-s-12-billion-acquisition-and-lessons-for-india-from-the-iran-war",
+    "published": "Mon, 27 Apr 2026 12:00:13 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.711149"
+    "fetched_at": "2026-04-27T15:27:30.207998"
   },
   {
-    "id": "b8cbb1c8865b",
-    "title": "Gunman at DC Gala Sought to Assassinate Trump, Leavitt Says",
-    "title_cn": "莱维特称，华盛顿晚会上的枪手试图刺杀特朗普",
-    "summary": "White House Press Secretary Karoline Leavitt described the gunman at the White House Correspondents’ Dinner as a “crazy person who sought to assassinate the President and kill as many top Trump administration officials as possible.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/gunman-at-dc-gala-sought-to-assassinate-trump-leavitt-says",
-    "published": "Sun, 26 Apr 2026 14:52:03 GMT",
+    "id": "7e0a3e2a54ca",
+    "title": "Investigation into DC Gala Shooting, Stalled US-Iran Talks, More",
+    "title_cn": "对华盛顿晚会枪击事件的调查、陷入僵局的美伊谈判等等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/investigation-into-dc-gala-shooting-stalled-us-iran-talks-more",
+    "published": "Mon, 27 Apr 2026 11:31:09 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.819598"
+    "fetched_at": "2026-04-27T15:27:30.311784"
   },
   {
-    "id": "35649e12fb11",
-    "title": "Australia Adds to Weapons Buildup With New Armored Vehicle Deal",
-    "title_cn": "澳大利亚通过新的装甲车交易增加武器建设",
-    "summary": "Australia said it will spend more than $800 million to buy armored vehicles, adding to its recent spurt of weapons purchases as the government implements its biggest peacetime increase in defense spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-26/australia-adds-to-weapons-buildup-with-new-armored-vehicle-deal",
-    "published": "Sun, 26 Apr 2026 12:30:00 GMT",
+    "id": "47dfb99da793",
+    "title": "Novo-Backed Biotech Hemab Seeks to Raise $212 Million in US IPO",
+    "title_cn": "Novo 支持的生物技术 Hemab 寻求在美国 IPO 筹集 2.12 亿美元",
+    "summary": "Hemab Therapeutics Holdings Inc., a clinical-stage biotechnology company, is seeking to raise as much as $212 million in a US initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/novo-backed-biotech-hemab-seeks-to-raise-212-million-in-us-ipo",
+    "published": "Mon, 27 Apr 2026 11:25:20 GMT",
     "source": "International",
-    "fetched_at": "2026-04-27T09:11:11.926022"
+    "fetched_at": "2026-04-27T15:27:30.443424"
+  },
+  {
+    "id": "8cb7779acc51",
+    "title": "US Pulls China Into War Standoff With Refinery Sanctions",
+    "title_cn": "美国通过制裁炼油厂将中国拖入战争僵局",
+    "summary": "By blacklisting major player Hengli, Washington hopes to strengthen its hand in peace talks.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/us-pulls-china-into-iran-war-standoff-with-refinery-sanctions",
+    "published": "Mon, 27 Apr 2026 11:19:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:30.559859"
+  },
+  {
+    "id": "28183174d391",
+    "title": "Hormuz Delivers an Aluminum Shock: Analyst Reaction (Podcast)",
+    "title_cn": "霍尔木兹铝业带来冲击：分析师反应（播客）",
+    "summary": "Severe disruption in the Strait of Hormuz is rippling far beyond oil markets. Around 10% of global aluminum supply is tied to the Middle East, and with exports constrained, prices are surging and supply chains are tightening. The impact will extend across the global economy as aluminum is used from cars and electronics to construction, meaning higher prices can quickly feed through to everyday goods. While the shock may not change long-term supply outlooks, it is creating near-term shortages and",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/hormuz-delivers-an-aluminum-shock-analyst-reaction-podcast",
+    "published": "Mon, 27 Apr 2026 11:17:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:30.701482"
+  },
+  {
+    "id": "a5f343fb2df8",
+    "title": "Surveillance Firm Hawkeye 360 Seeks Up to $416 Million in US IPO",
+    "title_cn": "监控公司鹰眼360寻求高达4.16亿美元的美国IPO",
+    "summary": "Hawkeye 360 Inc., a provider of satellite-based signals intelligence for US government agencies is seeking to raise $416 million in an initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/surveillance-firm-hawkeye-360-seeks-up-to-416-million-in-us-ipo",
+    "published": "Mon, 27 Apr 2026 11:09:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:30.840293"
+  },
+  {
+    "id": "3776040b2004",
+    "title": "Stock Movers: Verizon, Dominos, Qualcomm (Podcast)",
+    "title_cn": "股票推动者：Verizon、Dominos、高通（播客）",
+    "summary": "Source: Bloomberg, 4:39",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stock-movers-verizon-dominos-qualcomm-podcast",
+    "published": "Mon, 27 Apr 2026 11:02:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:30.938225"
+  },
+  {
+    "id": "362204eb7b23",
+    "title": "Gunman’s Motive Probed After DC Gala Attack",
+    "title_cn": "DC Gala袭击后枪手动机调查",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/gunman-s-motive-probed-after-dc-gala-attack",
+    "published": "Mon, 27 Apr 2026 10:51:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.126608"
+  },
+  {
+    "id": "79365c16d449",
+    "title": "DC Gala Attack, Oil Rises on Stalled Iran Talks, More",
+    "title_cn": "华盛顿特区晚会袭击、伊朗谈判陷入僵局导致油价上涨等",
+    "summary": "Source: Bloomberg, 6:14",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/dc-gala-attack-oil-rises-on-stalled-iran-talks-more",
+    "published": "Mon, 27 Apr 2026 10:34:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.253061"
+  },
+  {
+    "id": "4b9807903735",
+    "title": "Antidepressant Drugmaker Seaport Seeks $212.4 Million in US IPO",
+    "title_cn": "抗抑郁药制造商 Seaport 在美国 IPO 寻求 2.124 亿美元融资",
+    "summary": "Seaport Therapeutics Inc., a clinical-stage biotechnology company focused on antidepressants and anxiety drugs, is seeking to raise $212.4 million in a US initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/antidepressant-drugmaker-seaport-seeks-212-4-million-in-us-ipo",
+    "published": "Mon, 27 Apr 2026 10:32:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.360447"
+  },
+  {
+    "id": "c1e7c66a5c91",
+    "title": "Bloomberg Daybreak: DC Gala Attack (Podcast)",
+    "title_cn": "彭博黎明：DC Gala Attack（播客）",
+    "summary": "Source: Bloomberg, 24:57",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/bloomberg-daybreak-dc-gala-attack-podcast",
+    "published": "Mon, 27 Apr 2026 09:48:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.489465"
+  },
+  {
+    "id": "67e3c7ff1606",
+    "title": "DC Gala Attack, Iran Talks at Stalemate, More",
+    "title_cn": "华盛顿特区晚会袭击、伊朗谈判陷入僵局等等",
+    "summary": "Source: Bloomberg, 6:22",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/dc-gala-attack-iran-talks-at-stalemate-more",
+    "published": "Mon, 27 Apr 2026 09:31:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.586500"
+  },
+  {
+    "id": "adcf59fddcb0",
+    "title": "Stock Movers: Nordex, Sainsbury, Cint (Podcast)",
+    "title_cn": "股票移动商：Nordex、Sainsbury、Cint（播客）",
+    "summary": "Source: Bloomberg, 4:21",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-27/stock-movers-nordex-sainsbury-cint-podcast-mogzb4zl",
+    "published": "Mon, 27 Apr 2026 09:12:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.698317"
+  },
+  {
+    "id": "0255a5cefe70",
+    "title": "Iran’s Araghchi Arrives in Russia to Meet Putin as US Talks Stall",
+    "title_cn": "美国谈判陷入僵局，伊朗阿拉格奇抵达俄罗斯会见普京",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/iran-s-araghchi-arrives-in-russia-to-meet-putin-as-us-talks-stall",
+    "published": "Mon, 27 Apr 2026 09:01:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.818431"
+  },
+  {
+    "id": "1205111f6adb",
+    "title": "Germany Sounded Out Possible Commerzbank White Knights This Year",
+    "title_cn": "德国今年可能会加入商业银行白衣骑士",
+    "summary": "Germany sounded out European lenders to defend Commerzbank AG against UniCredit SpA’s takeover bid earlier this year, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-26/germany-sounded-out-possible-commerzbank-white-knights-this-year",
+    "published": "Sun, 26 Apr 2026 11:18:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:31.920829"
+  },
+  {
+    "id": "6a56d24010b0",
+    "title": "Oil Rises as Stalled US-Iran Peace Talks Keep Hormuz Strait Shut",
+    "title_cn": "美伊和平谈判陷入僵局导致霍尔木兹海峡关闭，油价上涨",
+    "summary": "Oil rose after efforts to resume peace talks over the Iran war stalled, leaving the Strait of Hormuz almost impassable and prolonging the supply disruption that has roiled global markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-26/latest-oil-market-news-and-analysis-for-april-27",
+    "published": "Sun, 26 Apr 2026 22:03:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.159393"
+  },
+  {
+    "id": "df837dca43cb",
+    "title": "Sequoia and Nvidia Back Ex-DeepMind Researcher’s New AI Startup at $5.1 Billion Value",
+    "title_cn": "红杉资本和 Nvidia 以 51 亿美元的价值支持前 DeepMind 研究员的新人工智能初创公司",
+    "summary": "Former Google DeepMind researcher David Silver has raised $1.1 billion for his new company, Ineffable Intelligence, in the latest example of an artificial intelligence startup securing enormous funds out of the gate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/sequoia-and-nvidia-back-ex-deepmind-researcher-at-5-1-billion-value",
+    "published": "Mon, 27 Apr 2026 14:26:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.376526"
+  },
+  {
+    "id": "900522fe8e41",
+    "title": "The Real Rare Earth Crisis: Processing",
+    "title_cn": "真正的稀土危机：加工",
+    "summary": "Critical Metals CEO Tony Sage joined Bloomberg Open Interest to explain why the real crisis in rare earths isn’t mining, it’s processing. With the US facing a dangerous shortfall in critical minerals used for defense and AI, Sage outlines how China’s dominance, permitting delays, and limited refining capacity threaten national security, and how a global push is racing to fix it. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/the-real-rare-earth-crisis-processing-video",
+    "published": "Mon, 27 Apr 2026 15:17:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.484848"
+  },
+  {
+    "id": "f464fc9d72f5",
+    "title": "Stock Rally Falters Near Record High as Oil Climbs: Markets Wrap",
+    "title_cn": "随着油价上涨，股市涨势接近历史新高：市场结束",
+    "summary": "A record-breaking rally in stocks took a breather as oil climbed after efforts to resume peace talks over the Iran war stalled, with traders bracing for a raft of megacap earnings and central bank decisions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-26/us-stock-futures-decline-as-iran-talks-stall-markets-wrap",
+    "published": "Sun, 26 Apr 2026 22:08:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.601154"
+  },
+  {
+    "id": "f1f13219c826",
+    "title": "Hongqiao Said to Price $1.5 Billion Convertibles Near Low End",
+    "title_cn": "据称虹桥将定价 15 亿美元近低端敞篷车",
+    "summary": "China Hongqiao Group Ltd. priced its 10.2 billion yuan ($1.5 billion) sale of bonds that can be converted into stock near the low end of the marketed range.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-hongqiao-seeks-1-5-billion-from-convertible-bonds",
+    "published": "Mon, 27 Apr 2026 09:23:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.704533"
+  },
+  {
+    "id": "a87968f3960b",
+    "title": "Mexico Credit Rating Verdict From Moody’s Expected by June End",
+    "title_cn": "穆迪预计将于 6 月底做出墨西哥信用评级裁决",
+    "summary": "Mexico’s investment-grade credit rating faces a key decision by the end of June, when Moody’s Ratings is expected to resolve the negative outlook it assigned the nation in late 2024.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/mexico-credit-rating-verdict-coming-from-moody-s-by-june-end",
+    "published": "Mon, 27 Apr 2026 14:54:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.822638"
+  },
+  {
+    "id": "960545a13e6a",
+    "title": "American Airlines to Sell $1.14 Billion in Bonds for 32 Planes",
+    "title_cn": "美国航空将出售 11.4 亿美元债券购买 32 架飞机",
+    "summary": "American Airlines Group Inc. on Monday is selling $1.14 billion of bonds financing a group of planes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/american-airlines-to-sell-1-14-billion-in-bonds-for-32-planes",
+    "published": "Mon, 27 Apr 2026 14:53:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:32.940306"
+  },
+  {
+    "id": "1ba33f91a490",
+    "title": "Domino’s Sinks as Outlook Revised to a More Ambiguous Tone",
+    "title_cn": "多米诺骨牌因前景调整为更加模糊的基调而陷入困境",
+    "summary": "Domino’s Pizza Inc. shares sunk to its lowest in almost three years after the company revised its full-year outlook and reported a first quarter comparable sales miss.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/domino-s-pizza-slides-after-missing-comparable-sales-estimate",
+    "published": "Mon, 27 Apr 2026 10:29:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.056824"
+  },
+  {
+    "id": "7a568248649f",
+    "title": "Walmart Plans to Sell Investment-Grade Bonds on Monday",
+    "title_cn": "沃尔玛计划周一出售投资级债券",
+    "summary": "Walmart Inc. is looking to borrow at least $3 billion in a five-part dollar-denominated investment-grade bond sale, according to people familair with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/walmart-plans-to-sell-investment-grade-bonds-on-monday",
+    "published": "Mon, 27 Apr 2026 12:58:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.212983"
+  },
+  {
+    "id": "bf80636a9c5b",
+    "title": "Meme-Stock Casualty Plotkin Joins Rich Shifting Assets Into ETFs",
+    "title_cn": "Meme-Stock Casualty Plotkin 加入 Rich 将资产转移至 ETF",
+    "summary": "Hedge fund manager turned NBA owner Gabe Plotkin, who shut his firm after a bruising showdown with meme-stock traders, is planning to convert some of his own assets into an ETF using a tactic that’s helped a slew of wealthy investors defer tax.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/meme-stock-casualty-plotkin-joins-rich-shifting-assets-into-etfs",
+    "published": "Mon, 27 Apr 2026 14:36:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.307308"
+  },
+  {
+    "id": "74ab0446f0b9",
+    "title": "Truist Loses Trio of Veteran Traders From Municipal Bond Team",
+    "title_cn": "Truist 失去了市政债券团队的三名资深交易员",
+    "summary": "Three members of Truist Financial Corp’s municipal bond department have departed the Charlotte-based bank.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/truist-loses-trio-of-veteran-traders-from-municipal-bond-team",
+    "published": "Mon, 27 Apr 2026 14:28:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.416253"
+  },
+  {
+    "id": "6e5f0de95a1f",
+    "title": "BP Outruns Exxon to Become Top Big-Oil Stock During Iran War",
+    "title_cn": "伊朗战争期间英国石油公司超越埃克森美孚成为最大石油股",
+    "summary": "BP Plc, long the laggard among oil supermajors, is emerging as the sector’s top stock during the Iran war as it reaps “exceptional” trading profits and avoids the scale of production outages hurting rivals like Exxon Mobil Corp.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/bp-gains-on-exxon-to-emerge-as-top-big-oil-stock-during-iran-war",
+    "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.529799"
+  },
+  {
+    "id": "f024c8a6cda1",
+    "title": "Data Center Venture Bankrolled by Carlyle Co-Founder Looks to Norway’s Fjords",
+    "title_cn": "凯雷联合创始人资助的数据中心风险投资公司着眼于挪威峡湾",
+    "summary": "Carlyle Group Inc. co-founder Bill Conway is backing a new venture that aims to procure land and power in Norway and sell the assets to data-center developers and technology companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/data-center-venture-backed-by-carlyle-s-conway-eyes-norway-fjords-for-hydropower",
+    "published": "Mon, 27 Apr 2026 14:20:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.633924"
+  },
+  {
+    "id": "4d64352c98c8",
+    "title": "Congo Plans Paramilitary Unit for Mines With US, UAE Funding",
+    "title_cn": "刚果计划在美国和阿联酋的资助下建立准军事部队",
+    "summary": "The Democratic Republic of Congo will create a paramilitary unit to police its mines with funding from the US and United Arab Emirates, the country’s General Inspectorate of Mines said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/congo-plans-paramilitary-unit-for-mines-with-us-uae-funding",
+    "published": "Mon, 27 Apr 2026 06:59:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:33.892957"
+  },
+  {
+    "id": "54e1e453262e",
+    "title": "Banks Launch $2 Billion BASF Coatings Loan Sale for Buyout",
+    "title_cn": "银行推出 20 亿美元巴斯夫涂料贷款出售以收购",
+    "summary": "Banks have launched a debt sale worth over $2 billion for the auto paint and finishing division of BASF SE, amid a difficult market backdrop for the chemicals industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/banks-launch-2-billion-basf-coatings-loan-sale-for-buyout",
+    "published": "Mon, 27 Apr 2026 14:03:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:34.002811"
+  },
+  {
+    "id": "5afc1e816c11",
+    "title": "China Blocks Meta’s $2 Billion Acquisition of AI Firm Manus",
+    "title_cn": "中国阻止 Meta 以 20 亿美元收购人工智能公司 Manus",
+    "summary": "China has decided to block Meta Platforms Inc.’s $2 billion acquisition of agentic AI startup Manus, a surprise move to unwind a controversial deal that’s drawn fire for the leakage of technology to the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/china-blocks-meta-s-2-billion-acquisition-of-ai-startup-manus",
+    "published": "Mon, 27 Apr 2026 08:19:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:34.116222"
+  },
+  {
+    "id": "be24fc9fbb5e",
+    "title": "Colombia Buys Back $4.4 Billion in Bonds Weeks Before Election",
+    "title_cn": "哥伦比亚在大选前几周回购 44 亿美元债券",
+    "summary": "Colombia is buying back $4.4 billion in outstanding bonds, closing out its third such transaction in the last year as it looks to lower borrowing costs weeks before a pivotal presidential election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/colombia-buys-back-4-4-billion-in-bonds-weeks-before-election",
+    "published": "Mon, 27 Apr 2026 13:48:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.028965"
+  },
+  {
+    "id": "60178cda9643",
+    "title": "Hut 8 Is Selling Bonds to Help Finance Google-Tied Data Center",
+    "title_cn": "Hut 8 正在出售债券以帮助为与 Google 合作的数据中心融资",
+    "summary": "A Hut 8 Corp. project is selling investment-grade bonds on Monday to fund the construction of a data center tied to Alphabet Inc.’s Google, the latest in a string of borrowing by firms spearheading the artificial intelligence boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hut-8-is-selling-bonds-to-help-finance-google-tied-data-center",
+    "published": "Mon, 27 Apr 2026 13:40:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.141345"
+  },
+  {
+    "id": "8f0859894c04",
+    "title": "Qualcomm Gains on Report It’s Working With OpenAI on Phone",
+    "title_cn": "高通公司因与 OpenAI 在手机领域合作而获利",
+    "summary": "Qualcomm Inc. shares jumped on Monday after a closely watched tech industry analyst suggested the chipmaker is working with artificial intelligence giant OpenAI on a smartphone.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/qualcomm-soars-on-report-it-s-working-with-openai-on-smartphone",
+    "published": "Mon, 27 Apr 2026 11:52:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.262886"
+  },
+  {
+    "id": "3f8e264ae1d3",
+    "title": "Using a Computer to Use My Computer",
+    "title_cn": "使用计算机来使用我的计算机",
+    "summary": "AI still needs to reshape our relationship with our computers.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/using-a-computer-to-use-my-computer",
+    "published": "Mon, 27 Apr 2026 13:37:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.499995"
+  },
+  {
+    "id": "0d78d739212f",
+    "title": "Stonepeak, Bernhard Said to Near $6 Billion Deal for Cleco Power",
+    "title_cn": "Stonepeak、Bernhard 表示将以近 60 亿美元收购 Cleco Power",
+    "summary": "A consortium including Macquarie Group Ltd. is nearing a deal to sell Louisiana utility Cleco Power to Stonepeak Partners LP and Bernhard Capital Partners for nearly $6 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/stonepeak-bernhard-said-to-near-6-billion-deal-for-cleco-power",
+    "published": "Mon, 27 Apr 2026 13:30:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.621775"
+  },
+  {
+    "id": "4ed81bfe6e9d",
+    "title": "Strategy Slows Bitcoin Buying, Switches Back to Common Sales",
+    "title_cn": "战略放缓比特币购买，转向普通销售",
+    "summary": "Strategy Inc. bought $255 million of Bitcoin in the previous seven days, slowing the pace of its buying of the digital currency after spending $3.5 billion over the prior two weeks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/strategy-slows-bitcoin-buying-switches-back-to-common-sales",
+    "published": "Mon, 27 Apr 2026 13:24:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.732834"
+  },
+  {
+    "id": "6c69ad27db6a",
+    "title": "Hormuz Closure Drives Energy Investment with Olivia Wassenaar",
+    "title_cn": "霍尔木兹关闭带动 Olivia Wassenaar 的能源投资",
+    "summary": "Olivia Wassenaar, Head of Apollo Infrastructure Group, discusses how the ongoing closure of the Strait of Hormuz is driving up fuel prices and accelerating investment in energy infrastructure. She highlights a growing focus on redundancy in Middle Eastern energy infrastructure, including maximizing existing pipelines, exploring new pipeline opportunities, and reconsidering alternative transport methods like rail. Globally, private capital is increasingly active in midstream, LNG, and power infrastructure projects. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/hormuz-closure-drives-energy-investment-with-wassenaar-video",
+    "published": "Mon, 27 Apr 2026 13:20:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.849977"
+  },
+  {
+    "id": "853884d088ad",
+    "title": "Still Seeing Positive Returns on 5-6 Year Bonds: Maybank Asset Mgmt",
+    "title_cn": "马来亚银行资产管理仍看到 5-6 年期债券的正回报",
+    "summary": "Maybank Asset Management's Rachana Mehta says that investors buying five to six year bonds can still get positive returns this year \"just from a carry perspective.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/positive-returns-on-5-6-year-bonds-maybank-asset-mgmt-video",
+    "published": "Mon, 27 Apr 2026 02:54:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:35.959928"
+  },
+  {
+    "id": "3810b702858c",
+    "title": "Redwood Plans $1 Billion Fund for Long, Illiquid Credit Bets",
+    "title_cn": "Redwood 计划为长期、非流动性信贷押注设立 10 亿美元基金",
+    "summary": "Redwood Capital Management is seeking to raise about $1 billion for a fund built to hold illiquid credit investments with long time horizons, as complex debt maneuvers stretch out the path to restructurings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/redwood-plans-1-billion-fund-for-long-illiquid-credit-bets",
+    "published": "Mon, 27 Apr 2026 12:54:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:36.065554"
+  },
+  {
+    "id": "97e0bf8f37fe",
+    "title": "Swatch Group Investor Battle Heats Up After ISS Backs Activist",
+    "title_cn": "ISS 支持维权人士后，斯沃琪集团投资者之争愈演愈烈",
+    "summary": "The Swatch Group AG is facing renewed investor pressure after a key proxy adviser Institutional Shareholder Services recommended shareholders support a board candidate backed by a US activist.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/swatch-group-investor-battle-heats-up-after-iss-backs-activist",
+    "published": "Mon, 27 Apr 2026 12:42:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:36.194318"
+  },
+  {
+    "id": "945c55817e73",
+    "title": "Societe Generale Eyes SRT Deal Tied to Over $10 Billion of Loans",
+    "title_cn": "法国兴业银行着眼于 SRT 交易，提供超过 100 亿美元的贷款",
+    "summary": "Societe Generale SA is mulling a significant risk transfer tied to over €9 billion ($10.5 billion) of loans in what would be one of the largest such deals seen in recent years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/societe-generale-eyes-srt-deal-tied-to-over-10-billion-of-loans",
+    "published": "Mon, 27 Apr 2026 12:41:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:36.312240"
+  },
+  {
+    "id": "b116d166fb42",
+    "title": "Intel Kicks Off Bond Sale to Help Buy Back Ireland Plant Stake",
+    "title_cn": "英特尔启动债券发售以帮助回购爱尔兰工厂股权",
+    "summary": "Intel Corp. has kicked off the sale of investment-grade debt to help finance a $14.2 billion deal to retake full ownership of an Irish semiconductor plant.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/intel-kicks-off-bond-sale-to-help-buy-back-ireland-plant-stake",
+    "published": "Mon, 27 Apr 2026 12:39:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:36.427116"
+  },
+  {
+    "id": "abca822f3519",
+    "title": "US Stocks Retreat From Record High as Traders Brace for Earnings",
+    "title_cn": "由于交易员为盈利做好准备，美国股市从历史高位回落",
+    "summary": "US stocks hovered near record highs with small losses on Monday, as investors prepare for a swath of corporate earnings this week while monitorinng efforts to reopen the Strait of Hormuz amid stalled Iran peace talks. A gauge of chip stocks sold off after a historic run.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/us-stock-futures-flat-as-traders-brace-for-busy-earnings-week",
+    "published": "Mon, 27 Apr 2026 11:29:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:36.820157"
+  },
+  {
+    "id": "ed3e43f7e20d",
+    "title": "Microsoft, OpenAI Sever Their Exclusive AI Pact",
+    "title_cn": "微软与 OpenAI 终止独家人工智能协议",
+    "summary": "Microsoft and OpenAI have changed the terms of their deal when it comes to selling products. OpenAI can now pursue deals with cloud-computing rivals like Amazon. The revenue sharing agreement with Microsoft also changes. Ed Ludlow explains. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/microsoft-openai-sever-their-exclusive-ai-pact-video",
+    "published": "Mon, 27 Apr 2026 15:16:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.021366"
+  },
+  {
+    "id": "6a66835251fa",
+    "title": "Private Credit Risks Are Misunderstood: Ketchum",
+    "title_cn": "私人信贷风险被误解：Ketchum",
+    "summary": "Private credit isn’t cracking, it’s separating winners from losers according to Sound Point CEO Steve Ketchum. He joined Bloomberg Open Interest to argue that today’s stress comes from bad deals, not broken markets. He explains why his firm dodged software risk before AI disruption, and reveals why this shakeout could be a massive buying opportunity for disciplined investors. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/private-credit-risks-are-misunderstood-ketchum-video",
+    "published": "Mon, 27 Apr 2026 14:55:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.151472"
+  },
+  {
+    "id": "114eebda8666",
+    "title": "OpenAI Breaks Free From Exclusive AI Pact With Microsoft",
+    "title_cn": "OpenAI 摆脱与微软的独家人工智能协议",
+    "summary": "Microsoft Corp. and OpenAI have agreed to drop the software giant’s exclusive right to sell the startup’s AI models, opening the door for the ChatGPT maker to pursue deals with cloud-computing rivals like Amazon.com Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "published": "Mon, 27 Apr 2026 13:14:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.561136"
+  },
+  {
+    "id": "ee85101f0543",
+    "title": "Apple, Google Crushed California Bill That Helped Smaller Rivals",
+    "title_cn": "苹果、谷歌粉碎了帮助较小竞争对手的加州法案",
+    "summary": "Some of the world’s largest technology companies swiftly quashed a California legislative measure that pitted giants like Apple Inc. and Google against smaller rivals, a display of their immense political influence in their home state.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/apple-google-crushed-california-bill-that-helped-smaller-rivals",
+    "published": "Mon, 27 Apr 2026 14:35:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.681016"
+  },
+  {
+    "id": "bd59adf7cf04",
+    "title": "NBA Push Into Vegas, Seattle Gains Steam With Potential Bidders",
+    "title_cn": "NBA 进军维加斯，西雅图吸引潜在竞标者",
+    "summary": "The National Basketball Association has received signs of interest from multiple investor groups for new teams in Las Vegas and Seattle that the league plans to sell for as much as $10 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/nba-push-into-vegas-seattle-gains-steam-with-potential-bidders",
+    "published": "Mon, 27 Apr 2026 14:29:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.808603"
+  },
+  {
+    "id": "5142bcf64746",
+    "title": "What Happens When AIs Work Together?",
+    "title_cn": "当人工智能一起工作时会发生什么？",
+    "summary": "On this episode of the Odd Lots podcast, we are joined by METR's president Chris Painter and technical staff member Joel Becker. They tell Joe Weisenthal and Tracy Alloway about the organization's focus on gauging an AI model's capability to do autonomous, complex tasks. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/what-happens-when-ais-work-together",
+    "published": "Mon, 27 Apr 2026 14:24:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:37.910626"
+  },
+  {
+    "id": "c3762ac677da",
+    "title": "Verizon Reports Phone Subscriber Gains Under New CEO",
+    "title_cn": "Verizon 报告称，在新任首席执行官的领导下，手机用户数量有所增加",
+    "summary": "Verizon Communications Inc. surprised analysts Monday when it reported a gain of mobile subscribers, an early signal that new Chief Executive Officer Dan Schulman’s strategy for recapturing market share is already paying off.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/verizon-reports-early-year-phone-subscriber-gains-under-new-ceo",
+    "published": "Mon, 27 Apr 2026 11:00:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.023383"
+  },
+  {
+    "id": "ae326df98570",
+    "title": "Why China’s Affordable AI Is a Worry for Silicon Valley",
+    "title_cn": "为什么中国的人工智能负担得起，令硅谷担忧",
+    "summary": "<p>Chinese AI models are cheaper and more adaptable than the preeminent US platforms, and studies suggest they’re now almost as proficient. How did that happen?</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/why-china-s-deepseek-qwen-and-moonshot-are-a-worry-for-us-ai-rivals",
+    "published": "Mon, 27 Apr 2026 13:31:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.374297"
+  },
+  {
+    "id": "053a16dab281",
+    "title": "Emerging Stocks an Even Better Bargain After Best Rally in Years",
+    "title_cn": "在经历了多年来的最佳反弹后，新兴股票变得更划算",
+    "summary": "Emerging-market stocks are rallying three times as fast as US equities this year, and their lead may widen further if relative share valuations are any guide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/emerging-stocks-an-even-better-bargain-after-best-rally-in-years",
+    "published": "Mon, 27 Apr 2026 13:30:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.581538"
+  },
+  {
+    "id": "f54b3b507eb7",
+    "title": "Nvidia-Tied Data Center Taps Junk-Debt Market for $4.5 Billion",
+    "title_cn": "Nvidia 合作的数据中心利用垃圾债务市场筹集 45 亿美元",
+    "summary": "A data center developer is seeking $4.54 billion in junk-debt financing for an artificial intelligence project tied to Nvidia Corp., testing investor appetite after a recent surge in offerings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/nvidia-tied-data-center-taps-junk-debt-market-for-4-5-billion",
+    "published": "Mon, 27 Apr 2026 13:12:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.699607"
+  },
+  {
+    "id": "f5e814b19c59",
+    "title": "EBay Rival Vinted Valued at €8 Billion in Share Transaction",
+    "title_cn": "eBay 竞争对手 Vinted 股票交易价值 80 亿欧元",
+    "summary": "Online retailer Vinted sold shares in a secondary transaction that values the company at €8 billion ($9.4 billion), the company said on Monday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ebay-rival-vinted-valued-at-8-billion-in-share-transaction",
+    "published": "Mon, 27 Apr 2026 12:29:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.800650"
+  },
+  {
+    "id": "2aaeb389b1f1",
+    "title": "Singapore Investigates Cybersecurity Incident Involving Government Contractor",
+    "title_cn": "新加坡调查涉及政府承包商的网络安全事件",
+    "summary": "Singapore’s Land Transport Authority said it has suspended a government construction contractor’s access to its digital system after the company was involved in a cybersecurity incident, CNA reported.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/singapore-investigates-cybersecurity-incident-involving-government-contractor",
+    "published": "Mon, 27 Apr 2026 12:05:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.899161"
+  },
+  {
+    "id": "8ea1bfdba98a",
+    "title": "Spotify Premium Now Includes Peloton Classes, Marking Push Into Fitness Content",
+    "title_cn": "Spotify Premium 现在包含 Peloton 课程，标志着健身内容的进军",
+    "summary": "Spotify Technology SA is now offering workout classes from Peloton Interactive Inc. to premium subscribers, marking the music streaming pioneer’s first major foray into fitness content.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/spotify-premium-now-includes-peloton-classes-marking-push-into-fitness-content",
+    "published": "Mon, 27 Apr 2026 11:52:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:38.993478"
+  },
+  {
+    "id": "64442d90a46e",
+    "title": "Apollo Backs Dental Firm vVardis at $1 Billion-Plus Value",
+    "title_cn": "Apollo 以超过 10 亿美元的价值支持牙科公司 vVardis",
+    "summary": "Apollo Global Management Inc. has invested in vVardis Holding AG, a Swiss dental firm founded by sisters Haley and Goly Abivardi.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/apollo-said-to-back-sister-led-dental-firm-at-1-billion-value",
+    "published": "Mon, 27 Apr 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.102058"
+  },
+  {
+    "id": "cd17a9b25627",
+    "title": "Montage Profit Reaches Record as AI Chip Shipments Surge",
+    "title_cn": "AI芯片出货量激增，澜起科技利润创历史新高",
+    "summary": "Montage Technology Co.’s first-quarter profit reached a record, beating estimates, fueled by shipments of chips critical to AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/montage-profit-reaches-record-as-ai-chip-shipments-surge",
+    "published": "Mon, 27 Apr 2026 11:11:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.226889"
+  },
+  {
+    "id": "bb39485ccb82",
+    "title": "CATL Seeks $5 Billion in Largest HK Share Sale of 2026",
+    "title_cn": "CATL寻求2026年最大规模港股出售，筹资额达50亿美元",
+    "summary": "Contemporary Amperex Technology Co. Ltd. is seeking to raise about $5 billion from a Hong Kong share placement, according to terms of the deal seen by Bloomberg News, in what is the city’s largest offering yet this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/catl-seeks-5-billion-from-hong-kong-share-placement-terms",
+    "published": "Mon, 27 Apr 2026 09:33:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.342029"
+  },
+  {
+    "id": "a5435822ce23",
+    "title": "Nvidia Put in Awkward Spot if Musk’s SpaceX Buys Cursor",
+    "title_cn": "如果马斯克的 SpaceX 收购 Cursor，英伟达将陷入尴尬境地",
+    "summary": "Chipmaker is a booster, investor in the AI coding company.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/nvidia-put-in-awkward-position-by-elon-musk-s-plan-to-purchase-cursor",
+    "published": "Mon, 27 Apr 2026 11:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.464580"
+  },
+  {
+    "id": "8e5ca7e716c4",
+    "title": "Musk and Altman Head to Trial in Feud Over Future of OpenAI",
+    "title_cn": "马斯克和奥特曼因 OpenAI 未来不和而受审",
+    "summary": "Elon Musk and Sam Altman will face off this week in a trial that could determine the future of OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/musk-and-altman-head-to-trial-in-feud-over-future-of-openai",
+    "published": "Mon, 27 Apr 2026 11:01:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.574158"
+  },
+  {
+    "id": "c98133d3255f",
+    "title": "China Cancels Meta’s $2 Billion Manus Deal",
+    "title_cn": "中国取消 Meta 20 亿美元的 Manus 交易",
+    "summary": "China has decided to block Meta’s $2 billion acquisition of agentic artificial intelligence startup Manus, sending a chill through China’s burgeoning AI sector and happening weeks before a high-profile summit between US President Donald Trump and China’s Xi Jinping. Bloomberg Intelligence's Matt Bloxham explains. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/china-cancels-meta-s-2-billion-manus-deal-video",
+    "published": "Mon, 27 Apr 2026 10:37:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.738980"
+  },
+  {
+    "id": "8f7715ac2baa",
+    "title": "RBC’s Calvasina Sees US as Global Safety Trade Amid Iran War",
+    "title_cn": "加拿大皇家银行的卡尔瓦辛将美国视为伊朗战争中的全球安全贸易",
+    "summary": "Lori Calvasina, head of US equity strategies at RBC, doesn’t see the fallout of the conflict in the Middle East impacting the earnings of the AI and tech trade in the US. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/rbc-s-calvasina-us-is-global-safety-trade-amid-iran-war-video",
+    "published": "Mon, 27 Apr 2026 10:29:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.879292"
+  },
+  {
+    "id": "3d7f2382ae17",
+    "title": "Germany Suspects Russia Behind Cyberattack on Top Officials",
+    "title_cn": "德国怀疑俄罗斯是对高级官员进行网络攻击的幕后黑手",
+    "summary": "German officials suspect Russia is behind a cyberattack that targeted top German decision makers via the Signal messaging app, according to a government official in Berlin.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/germany-suspects-russia-behind-cyberattack-on-top-officials",
+    "published": "Mon, 27 Apr 2026 10:12:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:39.976928"
+  },
+  {
+    "id": "b224f2e35493",
+    "title": "Meta Seeks to Power Data Centers With Energy Beamed From Space",
+    "title_cn": "Meta 寻求利用从太空发射的能量为数据中心供电",
+    "summary": "Meta Platforms Inc. is looking to power artificial intelligence data centers with solar energy collected in space, taking a novel approach to meeting its insatiable demand for electricity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/meta-seeks-to-power-data-centers-with-energy-beamed-from-space",
+    "published": "Mon, 27 Apr 2026 09:55:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:40.101980"
+  },
+  {
+    "id": "c9c662a987dc",
+    "title": "China Blocks Meta’s Acquisition of AI Startup Manus",
+    "title_cn": "中国阻止 Meta 收购人工智能初创公司 Manus",
+    "summary": "China has decided to block Meta's $2 billion acquisition of agentic AI startup Manus, in a surprise move to unwind a controversial deal. The decision is likely to send a chill through China’s AI sector and emerged just weeks before a summit between US President Donald Trump and China’s Xi Jinping. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/china-blocks-meta-s-acquisition-of-ai-startup-manus-video",
+    "published": "Mon, 27 Apr 2026 09:46:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:40.239254"
+  },
+  {
+    "id": "696742b5390c",
+    "title": "Italy Decides to Extradite Chinese Man US Wants for Hacking",
+    "title_cn": "意大利决定引渡美国通缉的黑客中国人",
+    "summary": "The Italian government decided to extradite a Chinese man wanted by the US on hacking charges, people familiar with the matter said on Sunday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-26/italy-decides-to-extradite-chinese-man-wanted-by-us-for-hacking",
+    "published": "Sun, 26 Apr 2026 16:00:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:40.362768"
+  },
+  {
+    "id": "00b6c6074d99",
+    "title": "Wall Street Split on Quantum Computing Bet",
+    "title_cn": "华尔街对量子计算的赌注存在分歧",
+    "summary": "Experts say quantum computing can reshape areas ranging from new drug discovery to machine learning and risk modeling in finance. But it’s also thought to be still years away from offering many practical solutions. As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed. Bloomberg’s William Shaw reports.",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/wall-street-split-on-quantum-computing-bet-video",
+    "published": "Mon, 27 Apr 2026 08:53:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:40.460451"
+  },
+  {
+    "id": "ab2960f917d0",
+    "title": "Ex-Tokyo Electron Staff Gets Decade in Jail for TSMC Breach",
+    "title_cn": "东京电子前员工因台积电违规被判入狱十年",
+    "summary": "A Taiwanese court sentenced a former Tokyo Electron Ltd. employee to 10 years in prison for stealing Taiwan Semiconductor Manufacturing Co.’s proprietary data, highlighting growing alarm over industrial espionage involving the island’s most strategic sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/ex-tokyo-electron-staffer-handed-10-year-sentence-over-tsmc-leak",
+    "published": "Mon, 27 Apr 2026 03:15:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:40.593126"
+  },
+  {
+    "id": "6217275cb9bc",
+    "title": "Iran Foreign Minister Meets Putin With US Talks at Stalemate",
+    "title_cn": "伊朗外长会见普京，美国会谈陷入僵局",
+    "summary": "Iran’s Foreign Minister Abbas Araghchi told President Vladimir Putin he’s committed to strengthening the country’s partnership with Russia, as talks with the US on ending an eight-week war remain at an impasse.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/iran-suggests-interim-deal-to-us-to-reopen-hormuz-axios-says",
+    "published": "Mon, 27 Apr 2026 06:07:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.148114"
+  },
+  {
+    "id": "8cec3cea1330",
+    "title": "Budget Airlines Ask White House for $2.5 Billion Relief Plan, Report Says",
+    "title_cn": "报告称，廉价航空公司向白宫请求 25 亿美元的救助计划",
+    "summary": "Budget airlines are banding together to ask the Trump administration for $2.5 billion in financial assistance to help combat increasing jet fuel prices in exchange for warrants that would give the US government the right to purchase equity stakes in the carriers, people familiar with the discussions said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/budget-airlines-ask-white-house-for-2-5-billion-relief-plan",
+    "published": "Mon, 27 Apr 2026 02:26:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.268987"
+  },
+  {
+    "id": "26303d0f9a1d",
+    "title": "Senator Warren Urges Feinberg to ‘Completely Cut’ Cerberus Ties",
+    "title_cn": "参议员沃伦敦促范伯格“完全切断”Cerberus 的联系",
+    "summary": "Democratic Senator Elizabeth Warren is calling on billionaire Stephen Feinberg to take additional steps to prevent conflicts of interest in his role as deputy defense secretary.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/senator-warren-urges-feinberg-to-completely-cut-cerberus-ties",
+    "published": "Mon, 27 Apr 2026 14:46:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.379945"
+  },
+  {
+    "id": "00e1aaff3502",
+    "title": "UK’s Starmer to Face Vote on Probe Into Mandelson Claims",
+    "title_cn": "英国斯塔默将面临对曼德尔森指控调查的投票",
+    "summary": "Keir Starmer faces a possible investigation into whether he misled Parliament, setting up a high-stakes loyalty test with the British prime minister’s party just days before crucial local elections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/uk-s-starmer-to-face-vote-on-probe-into-mandelson-claims",
+    "published": "Mon, 27 Apr 2026 13:36:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.622091"
+  },
+  {
+    "id": "7ff6557c6e22",
+    "title": "White House to Discuss Presidential Safety After Dinner Shooting",
+    "title_cn": "白宫将在晚餐枪击事件后讨论总统安全",
+    "summary": "The White House will convene a meeting early this week to discuss safety measures for major events involving President Donald Trump, following Saturday’s shooting at the White House Correspondents’ Association dinner that spurred fresh scrutiny of security practices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/white-house-to-discuss-presidential-safety-after-dinner-shooting",
+    "published": "Mon, 27 Apr 2026 14:08:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.728834"
+  },
+  {
+    "id": "6689ada5f5a9",
+    "title": "Trump Being ‘Humiliated’ in Iran Talks, German Leader Says",
+    "title_cn": "德国领导人称特朗普在伊朗会谈中受到“羞辱”",
+    "summary": "The US is being “humiliated” by Iranian leaders as President Donald Trump struggles to negotiate an end to the war, German Chancellor Friedrich Merz said in comments that risk driving a further wedge in transatlantic relations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/trump-being-humiliated-in-iran-talks-german-chancellor-says",
+    "published": "Mon, 27 Apr 2026 13:25:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:41.997098"
+  },
+  {
+    "id": "a5dd5b4dae53",
+    "title": "Canada Launches Sovereign Wealth Fund for Major Projects",
+    "title_cn": "加拿大为重大项目启动主权财富基金",
+    "summary": "Canada will create its first sovereign wealth fund to provide financing for large infrastructure projects, Prime Minister Mark Carney said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/carney-to-create-canadian-sovereign-wealth-fund-to-back-projects",
+    "published": "Mon, 27 Apr 2026 11:26:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:42.120230"
+  },
+  {
+    "id": "8e43ca62fdcc",
+    "title": "Hungary’s Magyar Rejects Billionaire Orban Ally’s Outreach",
+    "title_cn": "匈牙利马扎尔拒绝亿万富翁欧尔班盟友的外展",
+    "summary": "Hungary’s incoming Hungarian Prime Minister Peter Magyar rejected a request from billionaire Lorinc Meszaros - a close business ally of outgoing leader Viktor Orban - for talks aimed at containing damage to his business empire, even as the stock price of Meszaros’s flagship conglomerate Opus Nyrt. continued its free-fall.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hungary-billionaire-meszaros-seeks-damage-control-with-magyar",
+    "published": "Mon, 27 Apr 2026 08:54:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:42.708115"
+  },
+  {
+    "id": "a516de03b921",
+    "title": "Romanian Ex-Ruling Party Joins Far-Right Bid to Oust Premier",
+    "title_cn": "罗马尼亚前执政党加入极右翼阵营推翻总理",
+    "summary": "Romania’s former top ruling party will join the far-right opposition in a attempt to topple the prime minister, Ilie Bolojan, in the latest escalation of the political crisis that threatens to derail efforts to cut the European Union’s widest budget gap.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/romanian-ex-ruling-party-joins-far-right-bid-to-topple-premier",
+    "published": "Mon, 27 Apr 2026 08:05:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:42.796256"
+  },
+  {
+    "id": "ba832f74645d",
+    "title": "German Finance Ministry Leaves Door Open for Lifting Debt Brake",
+    "title_cn": "德国财政部为解除债务刹车敞开大门",
+    "summary": "Germany’s Finance Ministry signaled it’s ready to consider suspending debt restrictions as an emergency step with Europe’s largest economy bracing for the impact of the war in Iran.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/german-finance-ministry-leaves-door-open-for-lifting-debt-brake",
+    "published": "Mon, 27 Apr 2026 13:03:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:42.909264"
+  },
+  {
+    "id": "6abbeb4d8612",
+    "title": "Stalled US-Iran Talks Show Limits of Pakistan Mediation Push",
+    "title_cn": "美伊谈判陷入僵局显示巴基斯坦调解努力的局限性",
+    "summary": "The US and Iran failed to kick off a second round of peace talks this weekend despite a last-minute push by Pakistan, delivering a blow to Islamabad’s efforts to broker a settlement to end the two-month-old war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/stalled-us-iran-talks-show-limits-of-pakistan-s-mediation-drive",
+    "published": "Mon, 27 Apr 2026 05:28:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:43.011588"
+  },
+  {
+    "id": "a4e6e84187e8",
+    "title": "Iran-Linked Oil Tankers Sail West After Boarding by US",
+    "title_cn": "与伊朗有关的油轮在美国登船后向西航行",
+    "summary": "Two Iran-linked oil tankers that US forces interdicted near Sri Lanka last week are now sailing west.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/iran-linked-oil-tankers-sail-west-after-boarding-by-us-forces",
+    "published": "Mon, 27 Apr 2026 12:29:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:43.141367"
+  },
+  {
+    "id": "2792d042ce01",
+    "title": "Dual Hormuz Blockade Cuts Ship Transits to Near Zero",
+    "title_cn": "霍尔木兹双重封锁使船舶过境量几乎为零",
+    "summary": "US forces board the Majestic X tanker in the Indian Ocean, in a still from video released by the US Department of Defense, on April 23. Source: @DeptofWar",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/hormuz-tracker-dual-blockade-cuts-ship-transits-to-near-zero",
+    "published": "Mon, 27 Apr 2026 12:36:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:43.238971"
+  },
+  {
+    "id": "dcbfed531440",
+    "title": "New Chile Leader Faces Codelco Dilemma: Dividends or Debt Relief",
+    "title_cn": "智利新任领导人面临Codelco困境：股息还是债务减免",
+    "summary": "Chile’s new right-wing leader faces a tough choice: continue using state-owned Codelco as a cash cow to bolster state coffers, or allow the copper giant to retain more profit so it can issue less debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/new-chile-leader-faces-codelco-dilemma-dividends-or-debt-relief",
+    "published": "Mon, 27 Apr 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:43.541966"
+  },
+  {
+    "id": "fb5aac7800f4",
+    "title": "Starmer Pledges to End Shoplifting ‘Free-for-All’ in the UK",
+    "title_cn": "斯塔默承诺结束英国“混战”商店行窃行为",
+    "summary": "Prime Minister Keir Starmer said the UK will toughen measures to tackle shoplifting and violence against shop staff, after complaints from retailers including Marks &amp; Spencer Group Plc about the scale of the problem.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/starmer-pledges-to-end-shoplifting-free-for-all-in-the-uk",
+    "published": "Mon, 27 Apr 2026 11:55:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:43.644835"
+  },
+  {
+    "id": "3b1d428320dc",
+    "title": "Al-Qaeda Branch Kills Mali Defense Chief in Suicide Attack",
+    "title_cn": "基地组织分支在自杀式袭击中杀死马里国防部长",
+    "summary": "Mali’s defense minister was killed in a suicide attack on his home on Saturday, during a coordinated assault by an al-Qaeda affiliate across several locations in the West African country.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/mali-defense-minister-killed-in-suicide-attack-government-says",
+    "published": "Mon, 27 Apr 2026 05:41:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:44.056218"
+  },
+  {
+    "id": "a530514532ae",
+    "title": "Why the UK Has a Shoplifting Problem",
+    "title_cn": "为什么英国存在入店行窃问题",
+    "summary": "The UK’s increase in shoplifting didn’t happen in a vacuum. Bloomberg Opinion columnist Matthew Brooker explains what happened &mdash; and how to fix it. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/opinion-why-the-uk-has-a-shoplifting-problem-video",
+    "published": "Mon, 27 Apr 2026 11:36:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:44.167333"
+  },
+  {
+    "id": "a9658afaa89b",
+    "title": "Sergey Brin Confronted Gavin Newsom at a Treehouse Party &mdash; Then Launched a Political War",
+    "title_cn": "谢尔盖·布林在树屋派对上与加文·纽瑟姆对峙——随后发动政治战争",
+    "summary": "In a treehouse nestled in redwoods north of San Francisco, California Governor Gavin Newsom stood cold and hungry as Sergey Brin, the world’s fourth-richest man, and his wellness-influencer girlfriend told him they were leaving the state.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-26/how-google-s-sergey-brin-helped-fuel-a-political-war-in-california",
+    "published": "Sun, 26 Apr 2026 18:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:44.561518"
+  },
+  {
+    "id": "8c11c8caeac5",
+    "title": "Washington DC Gala Shooting Suspect Due in Court",
+    "title_cn": "华盛顿特区晚会枪击案嫌疑人将出庭受审",
+    "summary": "The man accused of storming the White House Correspondents Dinner is set to be arraigned in a federal court in Washington Monday.\n\nCole Tomas Allen, 31, was arrested after shots were fired at the hotel where the event was taking place, forcing Donald Trump and senior officials to take cover. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/washington-dc-gala-shooting-suspect-due-in-court-video",
+    "published": "Mon, 27 Apr 2026 11:17:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:44.734883"
+  },
+  {
+    "id": "d02fc69ed95a",
+    "title": "White House Press Dinner Attack Adds to Tally of Political Violence",
+    "title_cn": "白宫新闻晚宴袭击增加了政治暴力的数量",
+    "summary": "Everyone in the room Saturday night had a story",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/white-house-press-dinner-attack-adds-to-tally-of-political-violence",
+    "published": "Mon, 27 Apr 2026 11:07:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:44.907723"
+  },
+  {
+    "id": "ce6415cbb9cc",
+    "title": "India, New Zealand Sign ‘Once-in-a-Generation’ Trade Deal",
+    "title_cn": "印度与新西兰签署“一代人一次”的贸易协议",
+    "summary": "India and New Zealand have signed a free-trade agreement that slashes tariffs on most goods and expands market access, as tensions in the Middle East weigh on global commerce.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/india-new-zealand-sign-once-in-a-generation-trade-agreement",
+    "published": "Mon, 27 Apr 2026 09:33:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:45.132737"
+  },
+  {
+    "id": "427528f3b9dd",
+    "title": "Charles Brings Calm Diplomacy to Trump’s Pomp",
+    "title_cn": "查尔斯为特朗普的盛况带来冷静的外交",
+    "summary": "Relations between the UK and the US are at their lowest ebb in decades.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-27/king-charles-takes-the-uk-royal-pomp-to-donald-trump-in-washington",
+    "published": "Mon, 27 Apr 2026 10:01:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:45.272230"
+  },
+  {
+    "id": "327289649611",
+    "title": "Fed to Hold Interest Rates as Political Drama Overshadows Policy Debate",
+    "title_cn": "政治戏剧掩盖政策辩论，美联储将维持利率不变",
+    "summary": "Federal Reserve officials are expected to leave interest rates unchanged this week at a gathering that’s being overshadowed by the latest twists in a political drama surrounding the leadership handover at the US central bank.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/fed-to-hold-interest-rates-as-political-drama-overshadows-policy-debate",
+    "published": "Mon, 27 Apr 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:45.427737"
+  },
+  {
+    "id": "5d38b40cd5b3",
+    "title": "Iran's Araghchi Arrives in Russia as US Talks Stall",
+    "title_cn": "美国谈判陷入僵局，伊朗领导人阿拉格奇抵达俄罗斯",
+    "summary": "Iran’s Foreign Minister Abbas Araghchi arrived in Russia on Monday for a meeting with President Vladimir Putin. Araghchi said he needed to coordinate with Russian officials after the US-Israeli military campaign against the Islamic Republic disrupted bilateral meetings, according to a statement posted on the foreign ministry’s Telegram channel. Bloomberg's Joumanna Bercetche reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-27/iran-s-araghchi-arrives-in-russia-as-us-talks-stall-video",
+    "published": "Mon, 27 Apr 2026 09:13:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:45.538043"
+  },
+  {
+    "id": "d38bf2a9d6aa",
+    "title": "Peru’s Presidency Falls to New Low: Executive Branch ‘Is a Joke’",
+    "title_cn": "秘鲁总统任期跌至新低：行政部门“是个笑话”",
+    "summary": "The job has all of the trappings of power but none of the actual authority. One false move can lead to a public and unceremonious firing &mdash; and possibly a jail term.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/peru-election-fighter-jet-controversy-brings-presidency-to-new-low",
+    "published": "Mon, 27 Apr 2026 09:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-27T15:27:45.969828"
   }
 ]
