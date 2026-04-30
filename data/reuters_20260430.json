@@ -1,13 +1,233 @@
 [
   {
+    "id": "edd8b097a8ac",
+    "title": "Apple Beats Earnings Expectations",
+    "title_cn": "苹果公司盈利超出预期",
+    "summary": "Source: Bloomberg, 0:59",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/apple-beats-earnings-expectations",
+    "published": "Thu, 30 Apr 2026 20:43:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:27.811529"
+  },
+  {
+    "id": "a57f2e71da9e",
+    "title": "Metals Miner Lumina Ends Trading Day Flat After Toronto IPO",
+    "title_cn": "金属矿业公司 Lumina 在多伦多 IPO 后收盘持平",
+    "summary": "Lumina Metals Corp. shares ended the trading day right where it started after the Canadian company and one of its shareholders raised C$406.2 million ($297 million) in an initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/copper-and-silver-miner-lumina-shares-teeter-after-toronto-ipo",
+    "published": "Thu, 30 Apr 2026 14:24:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:28.295310"
+  },
+  {
     "id": "8162bd69e614",
-    "title": "Novo-Backed Drugmaker Avalyn Soars 44% After $300 Million US IPO",
-    "title_cn": "Novo 支持的制药商 Avalyn 在美国 IPO 融资 3 亿美元后股价飙升 44%",
-    "summary": "Avalyn Pharma Inc. shares jumped 44% in its trading debut, after the biopharmaceutical company raised $300 million in an upsized US initial public offering.",
+    "title": "Novo-Backed Drugmaker Avalyn Soars 64% After Trading Debut",
+    "title_cn": "Novo 支持的制药商 Avalyn 上市后股价飙升 64%",
+    "summary": "Avalyn Pharma Inc. shares jumped 64% in its trading debut, after the biopharmaceutical company raised $300 million in an upsized US initial public offering.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/novo-backed-drugmaker-avalyn-soars-44-after-300-million-us-ipo",
     "published": "Thu, 30 Apr 2026 16:36:02 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.259929"
+    "fetched_at": "2026-04-30T20:44:28.549810"
+  },
+  {
+    "id": "ab6ac2e65b92",
+    "title": "FEMA Reinstates Staff Who Criticized Trump Cuts to Agency",
+    "title_cn": "FEMA 恢复批评特朗普削减机构开支的工作人员",
+    "summary": "The Federal Emergency Management Agency this week told more than a dozen staffers to return to work after placing them on administrative leave eight months ago for signing an open letter criticizing the Trump administration’s cuts to disaster response, according to people familiar with the decision.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/fema-reinstates-staffers-who-had-criticized-trump-cuts-to-agency",
+    "published": "Thu, 30 Apr 2026 19:53:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:29.484456"
+  },
+  {
+    "id": "fb1568e99141",
+    "title": "Stocks Close Up, Best Month Since 2020, House Funds DHS",
+    "title_cn": "股市收盘，自 2020 年以来表现最好的月份，众议院基金 DHS",
+    "summary": "Source: Bloomberg, 5:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stocks-close-up-best-month-since-2020-house-funds-dhs",
+    "published": "Thu, 30 Apr 2026 20:11:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:29.653724"
+  },
+  {
+    "id": "8e6a515b69d1",
+    "title": "Credit Edge: Citi Warns of Private Debt ‘Tourist’ Risk (Podcast)",
+    "title_cn": "信用优势：花旗警告私人债务“旅游”风险（播客）",
+    "summary": "Rookie private lenders that have to sell in a downturn are a potential threat to credit markets, according to Citi. “If the cycle turns and these tourists, rather than working out loans, just start selling them at below the economic value &mdash; what happens to the rest of the market?” Mickey Bhatia, the firm’s head of spread products, tells Bloomberg News’ James Crombie and Bloomberg Intelligence’s Sam Geier in this episode of the Credit Edge podcast. “That’s a big worry,” says Bhatia. They also dis",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/citi-warns-of-private-debt-risk-as-tourists-are-forced-to-sell",
+    "published": "Thu, 30 Apr 2026 20:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:29.834282"
+  },
+  {
+    "id": "cbf3d5ee0b01",
+    "title": "Stock Movers: Eli Lilly, Caterpillar, Royal Caribbean (Podcast)",
+    "title_cn": "库存推动者：礼来公司、卡特彼勒、皇家加勒比（播客）",
+    "summary": "Source: Bloomberg, 4:05",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stock-movers-eli-lilly-caterpillar-royal-caribbean-podcast",
+    "published": "Thu, 30 Apr 2026 19:44:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:29.997663"
+  },
+  {
+    "id": "e163e50fbf22",
+    "title": "Macro Matters: BlackRock’s Brownback on Global FI",
+    "title_cn": "宏观问题：贝莱德 (BlackRock) 的 Brownback 谈全球金融",
+    "summary": "A changing Federal Reserve, tight credit spreads and renewed opportunities in securitized markets are reshaping the fixed-income outlook. Russ Brownback, BlackRock’s deputy CIO of global fixed income and manager of the Strategic Income Opportunities Fund, joins Ira Jersey, Bloomberg Intelligence chief US interest-rate strategist on this Macro Matters edition of the FICC Focus podcast. Brownback discusses what Kevin Warsh’s expected arrival as Fed chair could mean for policy, why he sees balance-",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/macro-matters-blackrock-s-brownback-on-global-fi",
+    "published": "Thu, 30 Apr 2026 19:32:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:30.552125"
+  },
+  {
+    "id": "9a2de755a129",
+    "title": "DHS Shutdown Nears End, Trump Nominates Saphier",
+    "title_cn": "国土安全部关闭即将结束，特朗普提名萨菲尔",
+    "summary": "Source: Bloomberg, 5:50",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/dhs-shutdown-nears-end-trump-nominates-saphier",
+    "published": "Thu, 30 Apr 2026 19:19:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:30.717791"
+  },
+  {
+    "id": "57c0e9b99a6d",
+    "title": "Thomson Family to See $1 Billion Payout as AI Hits Reuters Stock",
+    "title_cn": "AI 冲击汤姆森家族将支付 10 亿美元 路透股票",
+    "summary": "The Thomson family is on track to reap almost $1 billion from their eponymous company even as its shares have been among the hardest hit by the threat of artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/thomson-family-to-see-1-billion-payout-as-ai-hits-reuters-stock",
+    "published": "Thu, 30 Apr 2026 18:33:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:30.869420"
+  },
+  {
+    "id": "6a71015b0f03",
+    "title": "House Approves Funding DHS, Surgeon General Nom Pulled",
+    "title_cn": "众议院批准资助国土安全部，外科医生提名被撤销",
+    "summary": "Source: Bloomberg, 6:17",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/house-approves-funding-dhs-surgeon-general-nom-pulled",
+    "published": "Thu, 30 Apr 2026 18:19:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:31.111247"
+  },
+  {
+    "id": "edd3f7e23644",
+    "title": "US Apartment Giants AvalonBay, Equity Residential Explore $50 Billion Combination",
+    "title_cn": "美国公寓巨头 AvalonBay 与股权住宅探索 500 亿美元的组合",
+    "summary": "Potential mega REIT tie-up raises plenty of antitrust and political questions.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/us-apartment-giants-avalonbay-and-equity-residential-explore-50-billion-merger",
+    "published": "Thu, 30 Apr 2026 18:13:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:31.374921"
+  },
+  {
+    "id": "ad93c006f5ac",
+    "title": "Alberta Energy Minister Believes New Pipeline Will Have Indigenous Support",
+    "title_cn": "艾伯塔省能源部长相信新管道将得到本土支持",
+    "summary": "The Alberta government believes it will have Indigenous support for its plan to build a new oil pipeline to the Pacific coast when it’s unveiled in June.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/alberta-energy-minister-believes-new-pipeline-will-have-indigenous-support",
+    "published": "Thu, 30 Apr 2026 18:08:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:31.618670"
+  },
+  {
+    "id": "b6c84c4b1935",
+    "title": "US Critical Mineral Inventory Plan Includes Buying China Metals",
+    "title_cn": "美国关键矿产库存计划包括购买中国金属",
+    "summary": "The US Export-Import Bank’s proposed stockpiling initiative would initially source critical minerals from anywhere in the world, including China, an official involved in the project has revealed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-critical-mineral-inventory-plan-includes-buying-china-metals",
+    "published": "Thu, 30 Apr 2026 18:02:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:31.869199"
+  },
+  {
+    "id": "3cd33f3ac597",
+    "title": "Bloomberg Talks:  Jason Liberty (Podcast)",
+    "title_cn": "彭博社谈话：贾森·自由（播客）",
+    "summary": "Source: Bloomberg, 6:31",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-talks-jason-liberty-podcast",
+    "published": "Thu, 30 Apr 2026 17:54:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:32.016279"
+  },
+  {
+    "id": "bf4b2fa763d8",
+    "title": "House Votes to End DHS Shutdown, New Surgeon General Nom",
+    "title_cn": "众议院投票结束国土安全部关闭，新任外科医生提名",
+    "summary": "Source: Bloomberg, 6:52",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/house-votes-to-end-dhs-shutdown-new-surgeon-general-nom-molrlijt",
+    "published": "Thu, 30 Apr 2026 17:35:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:32.195370"
+  },
+  {
+    "id": "56191938615b",
+    "title": "House Votes to End DHS Shutdown, New Surgeon General Nom",
+    "title_cn": "众议院投票结束国土安全部关闭，新任外科医生提名",
+    "summary": "Source: Bloomberg, 7:12",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/house-votes-to-end-dhs-shutdown-new-surgeon-general-nom",
+    "published": "Thu, 30 Apr 2026 17:30:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:32.456840"
+  },
+  {
+    "id": "631fa0491a04",
+    "title": "Bloomberg Tech: AI Payoff in Focus (Podcast)",
+    "title_cn": "彭博科技：人工智能回报成为焦点（播客）",
+    "summary": "Source: Bloomberg, 43:32",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-tech-ai-payoff-in-focus-podcast",
+    "published": "Thu, 30 Apr 2026 17:25:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:32.707661"
+  },
+  {
+    "id": "733cb6b77559",
+    "title": "Sell the Electricity No One Is Using",
+    "title_cn": "出售无人使用的电力",
+    "summary": "<p>American Efficient, Pershing Square USA, BJ’s.</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-04-30/sell-the-electricity-no-one-is-using",
+    "published": "Thu, 30 Apr 2026 17:22:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:32.862367"
+  },
+  {
+    "id": "521faa7d836b",
+    "title": "Bloomberg Intelligence: Alphabet, Amazon Outpace Meta (Podcast)",
+    "title_cn": "彭博资讯：Alphabet、亚马逊超越 Meta（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-intelligence-alphabet-amazon-outpace-meta-podcast",
+    "published": "Thu, 30 Apr 2026 17:19:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:33.009945"
+  },
+  {
+    "id": "5dfbc38498d4",
+    "title": "Bloomberg Talks: Cristiano Amon (Podcast)",
+    "title_cn": "彭博社谈话：克里斯蒂亚诺·阿蒙（播客）",
+    "summary": "Source: Bloomberg, 8:13",
+    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-talks-cristiano-amon-podcast",
+    "published": "Thu, 30 Apr 2026 17:15:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:33.169203"
+  },
+  {
+    "id": "ee3471ac7c10",
+    "title": "Citi Retreats From Physical Metals Markets as Bank Cuts Traders",
+    "title_cn": "由于银行削减交易员，花旗退出实物金属市场",
+    "summary": "Citigroup Inc. is stepping back from physical trading in industrial metals and has made a number of staff from its commodities team redundant, an employment tribunal in London heard.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/citi-retreats-from-physical-metals-markets-as-bank-cuts-traders",
+    "published": "Thu, 30 Apr 2026 17:00:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:33.418573"
+  },
+  {
+    "id": "60eb9339d796",
+    "title": "DOJ Readies Fed Subpoena Appeal After Closing Powell Probe",
+    "title_cn": "美国司法部在结束鲍威尔调查后准备对美联储传票上诉",
+    "summary": "The US Justice Department plans to file an appeal by Monday against a federal judge’s ruling that blocked prosecutors from using grand jury subpoenas during their investigation into building-cost overruns by the Federal Reserve.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/doj-readies-fed-subpoena-appeal-after-closing-powell-probe",
+    "published": "Thu, 30 Apr 2026 16:41:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:33.565402"
   },
   {
     "id": "27d948f316fa",
@@ -17,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/a-calm-airport-as-big-as-manhattan-how-dfw-s-boss-views-travel-chaos",
     "published": "Thu, 30 Apr 2026 16:30:02 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.360164"
+    "fetched_at": "2026-04-30T20:44:33.707913"
   },
   {
     "id": "36312c514308",
@@ -27,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-04-30/us-jobless-claims-plunge-iran-leader-strikes-defiant-tone",
     "published": "Thu, 30 Apr 2026 16:29:39 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.441551"
+    "fetched_at": "2026-04-30T20:44:33.955036"
   },
   {
     "id": "782c8b02a864",
@@ -37,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/eu-economy-slows-inflation-up-just-don-t-call-it-stagflation",
     "published": "Thu, 30 Apr 2026 16:24:36 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.598578"
+    "fetched_at": "2026-04-30T20:44:34.105859"
   },
   {
     "id": "fbb671a18491",
@@ -47,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/bailey-refuses-to-play-musical-chairs-as-oil-price-goes-wild",
     "published": "Thu, 30 Apr 2026 16:23:45 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.711045"
+    "fetched_at": "2026-04-30T20:44:34.366057"
   },
   {
     "id": "285a682eb469",
@@ -57,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-04-30/the-david-rubenstein-show-charlie-scharf-podcast",
     "published": "Thu, 30 Apr 2026 16:12:18 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.809214"
+    "fetched_at": "2026-04-30T20:44:34.608728"
   },
   {
     "id": "b3425e887ae0",
@@ -67,677 +287,337 @@
     "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-surveillance-tv-april-30th-2026-podcast",
     "published": "Thu, 30 Apr 2026 15:44:55 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:34.914362"
+    "fetched_at": "2026-04-30T20:44:34.860389"
   },
   {
     "id": "0515d31d945d",
     "title": "Iran's Leader Amps Rhetoric, Hegseth Back on Capitol Hill, More",
-    "title_cn": "伊朗领导人发表言论，赫格赛斯重返国会山，更多",
+    "title_cn": "伊朗领导人发表言论，赫格塞斯重返国会山，更多",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-04-30/iran-s-leader-amps-rhetoric-hegseth-back-on-capitol-hill-more",
     "published": "Thu, 30 Apr 2026 15:37:24 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.051574"
-  },
-  {
-    "id": "f97503b6c48c",
-    "title": "Bloomberg Talks: Andrew Bailey (Podcast)",
-    "title_cn": "彭博社谈话：安德鲁·贝利（播客）",
-    "summary": "Source: Bloomberg, 7:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-talks-andrew-bailey-podcast",
-    "published": "Thu, 30 Apr 2026 15:37:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.162067"
-  },
-  {
-    "id": "a57f2e71da9e",
-    "title": "Copper and Silver Miner Lumina Shares Slip After Toronto IPO",
-    "title_cn": "铜银矿商 Lumina 股价在多伦多 IPO 后下跌",
-    "summary": "Lumina Metals Corp. shares fell 2% after the Canadian company and one of its shareholders raised C$406.2 million ($297 million) in an initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/copper-and-silver-miner-lumina-shares-teeter-after-toronto-ipo",
-    "published": "Thu, 30 Apr 2026 14:24:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.266432"
-  },
-  {
-    "id": "d359c42b1dda",
-    "title": "Bloomberg Talks: Kevin Hassett (Podcast)",
-    "title_cn": "彭博社谈话：凯文·哈塞特（播客）",
-    "summary": "Source: Bloomberg, 13:08",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-talks-kevin-hassett-podcast",
-    "published": "Thu, 30 Apr 2026 15:31:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.388191"
-  },
-  {
-    "id": "28ae41dcfa6b",
-    "title": "Stock Movers: Meta, Ford, Eli Lilly (Podcast)",
-    "title_cn": "库存推动者：Meta、福特、礼来公司（播客）",
-    "summary": "Source: Bloomberg, 3:50",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stock-movers-meta-ford-eli-lilly-podcast",
-    "published": "Thu, 30 Apr 2026 15:23:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.486975"
-  },
-  {
-    "id": "1b22855c9f62",
-    "title": "Bloomberg Surveillance: Big Tech AI Blowout (Podcast)",
-    "title_cn": "彭博社监控：大型科技人工智能井喷（播客）",
-    "summary": "Source: Bloomberg, 38:05",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-surveillance-big-tech-ai-blowout-podcast",
-    "published": "Thu, 30 Apr 2026 14:58:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.633059"
-  },
-  {
-    "id": "466c4f34becf",
-    "title": "Iran Pledges to Guard Tech, Economy Grows Solid 2%, More",
-    "title_cn": "伊朗承诺保护科技，经济稳定增长 2%，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/iran-pledges-to-guard-tech-economy-grows-solid-2-more",
-    "published": "Thu, 30 Apr 2026 14:36:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.721827"
-  },
-  {
-    "id": "739f994ec0df",
-    "title": "Stock Movers: Alphabet, Qualcomm, Pershing Square (Podcast)",
-    "title_cn": "股票推动者：Alphabet、高通、Pershing Square（播客）",
-    "summary": "Source: Bloomberg, 4:54",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stock-movers-alphabet-qualcomm-pershing-square-podcast",
-    "published": "Thu, 30 Apr 2026 14:20:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.832388"
-  },
-  {
-    "id": "3b1a849f4c4f",
-    "title": "Single Best Idea: Bory & Hirs (Podcast)",
-    "title_cn": "单一最佳创意：Bory & Hirs（播客）",
-    "summary": "Source: Bloomberg, 3:50",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/single-best-idea-bory-hirs-podcast",
-    "published": "Thu, 30 Apr 2026 14:18:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:35.944155"
-  },
-  {
-    "id": "89df5a86917d",
-    "title": "AI Will Kill Your Job or Make You a Billionaire",
-    "title_cn": "人工智能会杀死你的工作或让你成为亿万富翁",
-    "summary": "Also: Why aren’t you getting a $38,000-per-kid allowance?",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/ai-will-kill-your-banking-job-or-make-you-a-billionaire",
-    "published": "Thu, 30 Apr 2026 13:47:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.044914"
-  },
-  {
-    "id": "a6a5564c4518",
-    "title": "Stocks Gain on Strong GDP, Meta to Raise $25B in Debt, More",
-    "title_cn": "股市因 GDP 强劲而上涨，Meta 将筹集 25B 美元债务等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stocks-gain-on-strong-gdp-meta-to-raise-25b-in-debt-more",
-    "published": "Thu, 30 Apr 2026 13:39:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.151102"
-  },
-  {
-    "id": "5d6f2830cc25",
-    "title": "Stock Movers: TCL, CMG, LLY (Podcast)",
-    "title_cn": "库存推动者：TCL、CMG、LLY（播客）",
-    "summary": "Source: Bloomberg, 4:41",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stock-movers-tcl-cmg-lly-podcast",
-    "published": "Thu, 30 Apr 2026 13:27:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.274330"
-  },
-  {
-    "id": "b18e99c5f519",
-    "title": "Iran War Revives a Decade-Old African Gas-Pipeline Dream",
-    "title_cn": "伊朗战争重燃十年之久的非洲天然气管道梦想",
-    "summary": "The estimated $25 billion project took another step forward this month.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/iran-war-awakens-a-west-african-gas-pipeline-dream",
-    "published": "Thu, 30 Apr 2026 13:05:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.376840"
-  },
-  {
-    "id": "adf905e87a59",
-    "title": "Spain’s Economy Bucks EU’s Iran Concerns",
-    "title_cn": "西班牙经济摆脱欧盟对伊朗的担忧",
-    "summary": "Iran war’s impact on Europe’s economy beginning to take hold",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/european-economy-shows-iran-war-starting-to-hurt",
-    "published": "Thu, 30 Apr 2026 13:02:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.494401"
-  },
-  {
-    "id": "86d71e9642e7",
-    "title": "Iran Pledges to Guard Nuclear Tech, GDP Rises 2%, More",
-    "title_cn": "伊朗承诺保护核技术，GDP增长2%，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/iran-pledges-to-guard-nuclear-tech-gdp-rises-2-more",
-    "published": "Thu, 30 Apr 2026 12:48:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.588132"
-  },
-  {
-    "id": "3524166ce340",
-    "title": "Tech Disruptors: New Commercial Wave in Offensive Cyber Warfare",
-    "title_cn": "技术颠覆者：进攻性网络战的新商业浪潮",
-    "summary": "“For commercial companies trying to operate in this space, they have to be willing to understand that what they’re building is fundamentally different, and if they’re not willing to invest in this way, they can struggle with adoption,” said Skyler Onken, co-founder of Twenty, an offensive-cyber company seeking to reshape cyber warfare. On this episode of the Tech Disruptors podcast, Onken joins Bloomberg Intelligence senior defense weapons analyst Wayne Sanders to discuss the speed, scaling and",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/tech-disruptors-new-commercial-wave-in-offensive-cyber-warfare",
-    "published": "Thu, 30 Apr 2026 12:16:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.681278"
-  },
-  {
-    "id": "1079da87df28",
-    "title": "Vanguards of Health Care: Cortica’s Whole-Child Autism Bet",
-    "title_cn": "医疗保健的先锋：Cortica 的整个儿童自闭症赌注",
-    "summary": "“It’s crazy to think that that would be the expectation in cancer care, yet we expect that of families in autism,” says Neil Hattangadi, CEO and co-founder of Cortica. He joins Bloomberg Intelligence analyst Jonathan Palmer to explain why autism care remains so fragmented and how Cortica is trying to replace siloed services with a coordinated whole-child model. They discuss why applied behavior analysis (ABA) should be one tool, not the whole answer, how Cortica integrates medical and behavioral",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/vanguards-of-health-care-cortica-s-whole-child-autism-bet",
-    "published": "Thu, 30 Apr 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.780516"
-  },
-  {
-    "id": "f461a4b30934",
-    "title": "Oil Swings on US Military Planning, Big Tech Earnings, More",
-    "title_cn": "石油波动对美国军事计划、大型科技公司盈利等的影响",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/oil-swings-on-us-military-planning-big-tech-earnings-more",
-    "published": "Thu, 30 Apr 2026 11:36:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.876176"
-  },
-  {
-    "id": "20eeb7a1f66e",
-    "title": "Stock Movers: GOOG, Meta, MSFT (Podcast)",
-    "title_cn": "库存推动者：GOOG、Meta、MSFT（播客）",
-    "summary": "Source: Bloomberg, 4:17",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/stock-movers-goog-meta-msft-podcast",
-    "published": "Thu, 30 Apr 2026 11:20:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:36.973458"
-  },
-  {
-    "id": "c8e257843bd2",
-    "title": "Pernod Ricard Eyes a Future Alone After Ended Merger Talks",
-    "title_cn": "合并谈判结束后，保乐力加独自展望未来",
-    "summary": "As the spirits industry is hit by a consumption slump, it will need to consider what its options are.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/end-of-merger-talks-with-jack-daniel-s-owner-leaves-pernod-ricard-in-limbo",
-    "published": "Thu, 30 Apr 2026 11:12:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.073667"
-  },
-  {
-    "id": "ddf3642ede6a",
-    "title": "The Age of $6 Gas Has Arrived in California",
-    "title_cn": "加州 6 美元汽油时代已经到来",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/the-age-of-6-gas-has-arrived-in-california",
-    "published": "Thu, 30 Apr 2026 10:47:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.241109"
-  },
-  {
-    "id": "6d111ebbd16f",
-    "title": "US and Iran Stuck in Standoff, Big Tech Earnings, More",
-    "title_cn": "美国和伊朗陷入僵局，大型科技公司盈利等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/us-and-iran-stuck-in-standoff-big-tech-earnings-more",
-    "published": "Thu, 30 Apr 2026 10:24:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.365110"
-  },
-  {
-    "id": "03c1da2cd501",
-    "title": "Bloomberg Talks: Mike Wilson on Earnings (Podcast)",
-    "title_cn": "彭博社谈话：迈克·威尔逊谈收益（播客）",
-    "summary": "Source: Bloomberg, 6:04",
-    "link": "https://www.bloomberg.com/news/audio/2026-04-30/bloomberg-talks-mike-wilson-on-earnings-podcast",
-    "published": "Thu, 30 Apr 2026 10:07:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.468702"
+    "fetched_at": "2026-04-30T20:44:35.016247"
   },
   {
     "id": "3df78bb568de",
-    "title": "Stocks Eye Best Month Since 2020 on Strong Economy: Markets Wrap",
-    "title_cn": "经济强劲，股市将迎来 2020 年以来最好的月份：Markets Wrap",
-    "summary": "Signs of strength in the world’s largest economy fueled investor optimism about the outlook for Corporate America’s earnings, driving stocks toward their best month since late 2020.",
+    "title": "Stocks Hit Record at End of Best Month Since 2020: Markets Wrap",
+    "title_cn": "股市创下 2020 年以来最佳月度纪录：Markets Wrap",
+    "summary": "Signs of strength in the world’s largest economy fueled investor optimism about the outlook for Corporate America’s earnings, driving stocks to their best month since late 2020.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-29/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 29 Apr 2026 22:04:06 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.635217"
-  },
-  {
-    "id": "ff38dcfb1150",
-    "title": "TelevisaUnivision CEO on Global Sports Media",
-    "title_cn": "TelevisaUnivision 全球体育媒体首席执行官",
-    "summary": "Daniel Alegre, CEO, TelevisaUnivision discusses global sports media economics and Spanish-language audience growth with Bloomberg’s Dani Burger at Bloomberg House Miami 2026. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/televisaunivision-ceo-on-global-sports-media-video",
-    "published": "Thu, 30 Apr 2026 16:15:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.748322"
-  },
-  {
-    "id": "33a86b7ca8b0",
-    "title": "Yen Soars as Traders Say Japan Intervened After ‘Final’ Warning",
-    "title_cn": "交易员称日本在“最终”警告后进行干预，日元飙升",
-    "summary": "The yen surged as much as 3%, its biggest intraday gain in almost two years, as traders and local media said that Japan intervened in the foreign-exchange market, hours after officials delivered a “final” warning to investors against selling the currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/japan-s-katayama-warns-nearing-timing-to-take-bold-fx-steps",
-    "published": "Thu, 30 Apr 2026 08:07:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.848828"
-  },
-  {
-    "id": "f768ebd99c0d",
-    "title": "Treasuries Draw Buyers After Selloff as Oil Surge Stalls",
-    "title_cn": "由于石油价格上涨停滞，国债在抛售后吸引了买家",
-    "summary": "Treasuries rose as the recent surge in oil prices stalled and bond investors were drawn to 30-year yields that topped 5% for the first time this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-treasuries-rebound-post-fed-as-oil-eases-from-four-year-highs",
-    "published": "Thu, 30 Apr 2026 10:37:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:37.945429"
-  },
-  {
-    "id": "6fdcabdaa910",
-    "title": "‘Right Tail Risk’ Trade Put to Test by Megacap Earnings Deluge",
-    "title_cn": "“右尾风险”交易面临巨额盈利洪水的考验",
-    "summary": "With the US-Iran standoff keeping energy prices at levels that threaten the economy, investors have plenty of risks to worry about when analyzing possible outcomes that could damage portfolios.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/-right-tail-risk-trade-put-to-test-by-megacap-earnings-deluge",
-    "published": "Thu, 30 Apr 2026 16:37:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.041499"
-  },
-  {
-    "id": "d563106539c6",
-    "title": "Mario Carbone on Modern Power Dining",
-    "title_cn": "Mario Carbone 谈现代权力餐饮",
-    "summary": "Mario Carbone, Chef; Co-Founder, Major Food Group discusses scaling luxury dining concepts into a global business with Bloomberg’s Kate Krader at Bloomberg House Miami 2026. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/mario-carbone-on-modern-power-dining-video",
-    "published": "Thu, 30 Apr 2026 15:51:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.138054"
-  },
-  {
-    "id": "0d6bc06c0953",
-    "title": "ECB Officials See June Hike If Energy Costs Don’t Ease First",
-    "title_cn": "欧洲央行官员预计，如果能源成本不首先缓解，六月将加息",
-    "summary": "European Central Bank policymakers are likely to raise interest rates at their next meeting in June unless there are positive developments on energy prices and ending the Iran war, according to people familiar with the situation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ecb-officials-see-june-hike-if-energy-prices-don-t-ease-first",
-    "published": "Thu, 30 Apr 2026 15:14:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.356172"
-  },
-  {
-    "id": "9049cf180cbf",
-    "title": "The David Rubenstein Show: Charlie Scharf",
-    "title_cn": "大卫·鲁宾斯坦秀：查理·沙夫",
-    "summary": "Wells Fargo Chairman & CEO Charlie Scharf says the independence of the Federal Reserve is \"critically important\" to the US financial system, even as presidents weigh in on policy. In this wide-ranging interview, Scharf discusses the state of US economy amid tensions with Iran, as well as the risks and opportunities in private credit and AI. Scharf is on this week's episode of \"The David Rubenstein Show: Peer to Peer Conversations.\"  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/the-david-rubenstein-show-charlie-scharf-video",
-    "published": "Thu, 30 Apr 2026 15:23:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.458771"
-  },
-  {
-    "id": "cb654fb3dcd8",
-    "title": "Meta Gets $96 Billion of Orders for Its Latest Jumbo Bond Sale",
-    "title_cn": "Meta 最新巨额债券发售获得 960 亿美元订单",
-    "summary": "Investors submitted about $96 billion of orders for Meta Platforms Inc.’s bond sale, according to people with knowledge of the transaction, as the Facebook parent boosts spending on infrastructure for the artificial intelligence boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/meta-kicks-off-bond-offering-after-boosting-spending-outlook",
-    "published": "Thu, 30 Apr 2026 11:50:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.786534"
-  },
-  {
-    "id": "00f550f16c90",
-    "title": "The Haves and Have Nots of AI",
-    "title_cn": "人工智能的富人和穷人",
-    "summary": "The world’s already fracturing along technological fault lines.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/the-haves-and-have-nots-of-ai",
-    "published": "Thu, 30 Apr 2026 16:30:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.877322"
-  },
-  {
-    "id": "950fb434d788",
-    "title": "Miami Mayor on Growth, World Cup, Wealth Influx",
-    "title_cn": "迈阿密市长谈经济增长、世界杯、财富涌入",
-    "summary": "Eileen Higgins, Mayor, City of Miami discusses managing growth, investment inflows and long-term competitiveness with Bloomberg’s Daniel Cancel at Bloomberg House Miami 2026. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/miami-mayor-on-growth-world-cup-wealth-influx-video",
-    "published": "Thu, 30 Apr 2026 16:00:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:38.984000"
+    "fetched_at": "2026-04-30T20:44:35.740163"
   },
   {
     "id": "66e116754850",
-    "title": "Banamex Selling Global Bonds for First Time Since Citi Sale",
-    "title_cn": "自花旗出售以来，Banamex 首次出售全球债券",
-    "summary": "Mexico’s Grupo Financiero Banamex is tapping global markets for the first time since Citigroup Inc. started offloading its stake in the bank.",
+    "title": "Banamex Sells Global Bonds for First Time Since Citi Sale",
+    "title_cn": "墨西哥银行自花旗出售以来首次出售全球债券",
+    "summary": "Mexico’s Grupo Financiero Banamex has tapped global markets for the first time since Citigroup Inc. started offloading its stake in the bank.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/banamex-is-selling-global-bonds-for-first-time-since-citi-sale",
     "published": "Thu, 30 Apr 2026 14:17:37 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.091375"
+    "fetched_at": "2026-04-30T20:44:35.903190"
   },
   {
-    "id": "5260e57c300e",
-    "title": "Audi F1 CEO Tries to Turn Also-Ran Legacy Team Into a Winner",
-    "title_cn": "奥迪F1首席执行官试图将落选的老车队变成胜利者",
-    "summary": "Audi’s Formula 1 boss said entering the sport via a legacy team has proved more difficult than starting with a clean slate, as the German carmaker runs up against more established rivals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/audi-f1-ceo-tries-to-turn-also-ran-legacy-team-into-a-winner",
-    "published": "Thu, 30 Apr 2026 16:21:16 GMT",
+    "id": "281177ecf829",
+    "title": "Tanger Revenue Beats as Gen Z Reconnects with Physical Stores",
+    "title_cn": "随着 Z 世代与实体店重新建立联系，Tanger 收入大幅增长",
+    "summary": "Tanger Inc. posted first-quarter earnings that beat expectations and bumped up its full-year guidance, bolstered by robust tenant occupancy rates and a return to physical retail stores by Gen Z shoppers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/tanger-revenue-beats-as-gen-z-reconnects-with-physical-stores",
+    "published": "Thu, 30 Apr 2026 20:36:45 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.174754"
-  },
-  {
-    "id": "51ce14576596",
-    "title": "Hospitals Sell Muni Debt at Fastest Pace in More Than a Decade",
-    "title_cn": "医院以十多年来最快的速度出售市政债务",
-    "summary": "Hospitals across the country are bracing for financial pain ahead of sweeping Medicaid cuts from the Trump administration. But that hasn’t stopped them from borrowing at the fastest pace in more than a decade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/hospitals-sell-muni-debt-at-fastest-pace-in-more-than-a-decade",
-    "published": "Thu, 30 Apr 2026 16:15:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.268087"
-  },
-  {
-    "id": "bafb20d633d7",
-    "title": "Pemex Posts Third Straight Loss Despite War-Fueled Oil Rally",
-    "title_cn": "尽管战争推动石油上涨，墨西哥国家石油公司仍连续第三次亏损",
-    "summary": "Petroleos Mexicanos posted its third straight quarterly loss as surging global oil prices failed to boost the debt-laden oil giant’s finances amid slumping production and refineries that are bleeding cash.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/pemex-posts-third-straight-loss-despite-war-fueled-oil-rally",
-    "published": "Thu, 30 Apr 2026 15:55:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.370931"
-  },
-  {
-    "id": "2fc6ee633efd",
-    "title": "US Stocks Rise on Earnings, on Course for Best Month Since 2020",
-    "title_cn": "美股因盈利上涨，有望创 2020 年以来最佳月份",
-    "summary": "US stocks advanced on Thursday as investors focused on resilient US economic growth and corporate earnings while oil prices fell from a four-year high.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-equity-futures-rise-as-mega-cap-earnings-lift-tech-oil-drops",
-    "published": "Thu, 30 Apr 2026 11:55:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.467119"
-  },
-  {
-    "id": "8d5e4ab423ea",
-    "title": "Junk Firms Are Locking In Fixed-Rate Deals Before Costs Rise",
-    "title_cn": "垃圾公司在成本上升之前锁定固定利率交易",
-    "summary": "High-risk borrowers in Europe are taking advantage of cheaper fixed-rate bonds to refinance floating-rate debt, cutting costs and buying protection against the risk of interest rate hikes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/junk-issuers-in-europe-cut-costs-by-switching-to-fixed-rate-debt",
-    "published": "Thu, 30 Apr 2026 09:35:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.565242"
-  },
-  {
-    "id": "3c3ca3358c37",
-    "title": "Copper Holds Steady as Traders Weigh Risk of Protracted Conflict",
-    "title_cn": "交易商权衡长期冲突风险，铜价保持稳定",
-    "summary": "Copper held steady as signs of rising demand in China were offset by growing worries about the possibility of an escalation in the US-Israeli war against Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/copper-snaps-five-day-decline-on-china-manufacturing-expansion",
-    "published": "Thu, 30 Apr 2026 02:41:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.672774"
-  },
-  {
-    "id": "4a5c3872f0ff",
-    "title": "New York Life Eyes Potential Canadian Dollar Debt Sale",
-    "title_cn": "纽约人寿着眼于潜在的加元债务出售",
-    "summary": "New York Life Global Funding is weighing a Canadian-dollar debt offering as soon as Thursday, according to people familiar with the matter, who asked not to be identified as they aren’t authorized to speak publicly.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/new-york-life-eyes-potential-canadian-dollar-debt-sale",
-    "published": "Thu, 30 Apr 2026 15:42:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.819741"
-  },
-  {
-    "id": "d61c0e814112",
-    "title": "Taiwan's Cheng Li-wun Seeks Trump Meeting After Beijing Trip",
-    "title_cn": "台湾郑立文北京之行后寻求与特朗普会面",
-    "summary": "Cheng Li-wun discusses her hope to meet President Trump following her Beijing visit, aiming to convey Taiwan's commitment to avoiding conflict and securing lasting cross-strait peace. (Includes partial English translation from :35.) (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/kmt-s-cheng-li-wun-seeks-trump-meeting-after-xi-sitdown-video-moljdhnt",
-    "published": "Thu, 30 Apr 2026 13:45:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:39.917781"
-  },
-  {
-    "id": "0bf0d167da2e",
-    "title": "Audi on Building Its Formula 1 Team",
-    "title_cn": "奥迪致力于打造一级方程式车队",
-    "summary": "Mattia Binotto, CEO & Team Principal, Audi Revolut F1 Team discusses building a fully integrated Formula 1 team and evolving Sauber with Bloomberg’s Matt Miller at Bloomberg House Miami 2026. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/audi-on-building-its-formula-1-team-video",
-    "published": "Thu, 30 Apr 2026 15:29:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.129753"
-  },
-  {
-    "id": "ff625f9223a8",
-    "title": "Jana Pushes Markel to Divest Ventures, Buy Back $2 Billion Shares",
-    "title_cn": "Jana 推动 Markel 剥离风险投资公司并回购价值 20 亿美元的股票",
-    "summary": "Jana Partners is renewing its push for Markel Group Inc. to divest its venture arm while pushing the insurer to also buy back $2 billion of its shares to boost the stock.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/jana-pushes-markel-to-divest-ventures-buy-back-2-billion-shares",
-    "published": "Thu, 30 Apr 2026 15:27:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.306859"
-  },
-  {
-    "id": "c9199514446a",
-    "title": "Bank of England Holds Rates as Officials Consider Hikes Ahead",
-    "title_cn": "英格兰银行维持利率不变，官员考虑未来加息",
-    "summary": "The Bank of England kept interest rates on hold with several policymakers saying they might consider future hikes, just as oil prices soared within reach of the central bank’s most pessimistic scenario for the economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/bank-of-england-holds-interest-rates-as-officials-consider-hikes-ahead",
-    "published": "Thu, 30 Apr 2026 11:00:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.405625"
-  },
-  {
-    "id": "bf49d805766e",
-    "title": "European Power Plunges to Record Negative Prices on Solar Surge",
-    "title_cn": "太阳能激增导致欧洲电力价格暴跌至负价",
-    "summary": "European power prices slid to record lows for Friday, with hugely negative hourly rates in Germany and France, as strong solar generation coincides with public holidays across much of the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/european-power-plunges-to-record-negative-prices-on-solar-surge",
-    "published": "Thu, 30 Apr 2026 11:47:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.496456"
-  },
-  {
-    "id": "5be1a1b12b95",
-    "title": "Stocks Edge Higher as Oil Prices Ease; JPMorgan 's Meera Pandit",
-    "title_cn": "随着油价下跌，股市小幅走高；摩根大通的米拉·潘迪特",
-    "summary": "Mira Pandit of JPMorgan Asset Management discussed the current earnings outlook amid easing oil prices and ongoing geopolitical tensions. Despite oil pulling back from wartime highs, JPMorgan analysts project that oil prices between $110 and $120 per barrel over six months could reduce earnings per share by 4 to 6%, yet still support double-digit earnings growth overall. Earnings growth expectations have been revised upward from 15% to nearly 19% year-over-year, driven primarily by energy and resilient technology sectors. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/stocks-edge-higher-as-oil-prices-ease-meera-pandit-video",
-    "published": "Thu, 30 Apr 2026 15:19:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.623320"
-  },
-  {
-    "id": "3543011a1980",
-    "title": "Oil Retraces From Four-Year High as War Fears Dampen Liquidity",
-    "title_cn": "由于战争担忧抑制流动性，油价从四年高点回落",
-    "summary": "Brent crude cooled off after ripping to a four-year high on anticipation of a protracted US war with Iran, in a session marked by machine-led trading and thin volumes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-29/latest-oil-market-news-and-analysis-for-april-30",
-    "published": "Wed, 29 Apr 2026 22:11:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.735634"
-  },
-  {
-    "id": "0ab077bbcacc",
-    "title": "Bloomberg Surveillance 4/30/2026",
-    "title_cn": "彭博社监测 2026 年 4 月 30 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/bloomberg-surveillance-4-30-2026-video",
-    "published": "Thu, 30 Apr 2026 15:14:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.844271"
+    "fetched_at": "2026-04-30T20:44:36.187124"
   },
   {
     "id": "8cce083a6059",
     "title": "Gold Rebounds as Speculation of Yen Intervention Weakens Dollar",
     "title_cn": "日元干预猜测削弱美元，金价反弹",
-    "summary": "Gold bounced back from a three-day decline, as the dollar sank and traders weighed the prospect of a fresh US military engagement in Iran.",
+    "summary": "Gold bounced back from a three-day decline as the dollar sank and traders weighed the prospect of a fresh US military engagement in Iran.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-29/gold-steadies-after-fed-holds-rates-and-signals-inflation-risks",
     "published": "Wed, 29 Apr 2026 22:32:15 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:40.956557"
+    "fetched_at": "2026-04-30T20:44:36.441159"
+  },
+  {
+    "id": "cb654fb3dcd8",
+    "title": "Meta Sells $25 Billion of Debt as Investor Worry, Fatigue Builds",
+    "title_cn": "由于投资者担忧和疲劳加剧，Meta 出售 250 亿美元债务",
+    "summary": "Meta Platforms Inc. sold $25 billion of investment-grade bonds, hitting the market with a jumbo deal for the second time in six months as investors are starting to show some signs of fatigue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/meta-kicks-off-bond-offering-after-boosting-spending-outlook",
+    "published": "Thu, 30 Apr 2026 11:50:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:36.694072"
+  },
+  {
+    "id": "f07848858d6a",
+    "title": "Alphabet Soars, S&P Hits Another Record | Closing Bell",
+    "title_cn": "字母表飙升，标准普尔再创新高 |结束钟声",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/alphabet-soars-s-p-hits-another-record-closing-bell-video",
+    "published": "Thu, 30 Apr 2026 20:31:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:37.857517"
+  },
+  {
+    "id": "8f681fa1e468",
+    "title": "Gresham House Said to Plan €1 Billion Fund for Battery Storage",
+    "title_cn": "据称 Gresham House 将计划 10 亿欧元的电池存储基金",
+    "summary": "Gresham House plans to raise a fund targeting roughly €1 billion ($1.2 billion) to give investors access to the growing market for battery-storage systems, according to a person familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/gresham-house-said-to-plan-1-billion-fund-for-battery-storage",
+    "published": "Thu, 30 Apr 2026 20:30:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:38.495365"
+  },
+  {
+    "id": "c79f75ed2c58",
+    "title": "Wayfair CFO Sees Growth Despite 'Challenged' Consumer",
+    "title_cn": "尽管消费者面临“挑战”，Wayfair 首席财务官仍实现增长",
+    "summary": "Wayfair CFO Kate Gulliver said despite an earnings miss by the furniture seller the company feels 'great' about the growth outlook. Gulliver said Wayfiar is less focused on when 'challenged' consumers will recover, but the strength of internal initiatives that she believes will drive growth.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/wayfair-cfo-sees-growth-despite-challenged-consumer-video",
+    "published": "Thu, 30 Apr 2026 20:28:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:38.655710"
+  },
+  {
+    "id": "ce5783a43c55",
+    "title": "Dollar Wraps Worst Month Since June as Haven Trade Unwinds",
+    "title_cn": "随着避险交易的解除，美元迎来六月以来最糟糕的一个月",
+    "summary": "The US dollar wrapped up its worst month since June as the prospect of peace talks to end the Iran war led traders to unravel bets on the haven currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/dollar-wraps-worst-month-since-june-as-haven-trade-unwinds",
+    "published": "Thu, 30 Apr 2026 17:16:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:38.901923"
+  },
+  {
+    "id": "c633982a97e4",
+    "title": "Inside Cadillac's New Formula 1 Team",
+    "title_cn": "凯迪拉克新一级方程式车队内部",
+    "summary": "Dan Towriss, CEO, TWG Motorsports discusses launching Cadillac’s Formula 1 team and the role of institutional capital in global motorsport with Bloomberg's Hannah Elliott at Bloomberg House Miami 2026. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/inside-cadillac-s-new-formula-1-team-video",
+    "published": "Thu, 30 Apr 2026 20:24:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:39.062780"
+  },
+  {
+    "id": "fca89c341775",
+    "title": "AIG Profit Jumps as CEO Zaffino’s Strategic Deals Take Effect",
+    "title_cn": "随着首席执行官扎菲诺的战略交易生效，AIG 利润大幅增长",
+    "summary": "American International Group Inc. reported first-quarter results that exceeded Wall Street expectations, driven in part by a jump in net premiums written and lower catastrophe losses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/aig-profit-jumps-as-ceo-zaffino-s-strategic-deals-take-effect",
+    "published": "Thu, 30 Apr 2026 20:22:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:39.217985"
+  },
+  {
+    "id": "2fc6ee633efd",
+    "title": "S&amp;P 500 Jumps 1% to Record High, Posting Best Month Since 2020",
+    "title_cn": "标准普尔 500 指数上涨 1% 创历史新高，创下 2020 年以来最佳月度表现",
+    "summary": "US stocks rallied to new heights on Thursday as investors focused on resilient US economic growth and corporate earnings, while oil prices fell from a four-year high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-equity-futures-rise-as-mega-cap-earnings-lift-tech-oil-drops",
+    "published": "Thu, 30 Apr 2026 11:55:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:40.540064"
+  },
+  {
+    "id": "fb148815831e",
+    "title": "Pershing Square Shares Rebound After Ackman Bought Stock",
+    "title_cn": "阿克曼购买股票后潘兴广场股价反弹",
+    "summary": "Shares in Bill Ackman’s new $5 billion listed investment fund and his asset management company rebounded in the second day after their IPO, as the hedge fund billionaire revealed he had put more of his own money behind the deal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/bill-ackman-bought-pershing-square-shares-in-first-trading-day",
+    "published": "Thu, 30 Apr 2026 14:00:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:40.782300"
+  },
+  {
+    "id": "f768ebd99c0d",
+    "title": "US Treasuries Draw Buyers After Selloff as Oil Surge Stalls",
+    "title_cn": "由于石油价格上涨停滞，美国国债在抛售后吸引了买家",
+    "summary": "Treasuries rose as the recent surge in oil prices stalled and bond investors were drawn to 30-year yields that topped 5% for the first time this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-treasuries-rebound-post-fed-as-oil-eases-from-four-year-highs",
+    "published": "Thu, 30 Apr 2026 10:37:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:40.944584"
+  },
+  {
+    "id": "85805f8fe6f1",
+    "title": "'No Signs Whatsoever' of High-End Consumer Pullback: Hyatt CEO",
+    "title_cn": "凯悦首席执行官：“没有任何迹象”高端消费者退出",
+    "summary": "Mark Hoplamazian, president & CEO at Hyatt Hotels Corporation, joins Scarlet Fu on \"Bloomberg Markets.\" Hyatt shares climb after the hotel operator reported adjusted earnings-per-share for the first quarter that topped analysts’ expectations. Analysts were encouraged by the update, which showed that the company’s luxury chains continue to outperform. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/-no-signs-whatsoever-of-consumer-pullback-hoplamazian-video",
+    "published": "Thu, 30 Apr 2026 17:50:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.120133"
+  },
+  {
+    "id": "9db187da7af0",
+    "title": "Citi’s Bhatia Warns of Private Credit ‘Tourists’ Forced to Sell",
+    "title_cn": "花旗银行的巴蒂亚警告私人信贷“游客”被迫出售",
+    "summary": "Private credit rookies selling into a downturn poses a potential threat to corporate debt, Citigroup Inc.’s Mickey Bhatia warned.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/citi-s-bhatia-warns-of-private-credit-tourists-forced-to-sell",
+    "published": "Thu, 30 Apr 2026 20:04:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.281236"
+  },
+  {
+    "id": "406e427eaf14",
+    "title": "Ares, JPMorgan Ink $800 Million Private Credit Deal for GoodLife",
+    "title_cn": "Ares 与摩根大通为 GoodLife 签署 8 亿美元私人信贷协议",
+    "summary": "A group including Ares Management Corp. provided around $800 million in a private credit deal to finance Apollo Global Management Inc.’s investment in the GoodLife Group, which operates health clubs in Canada, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ares-jpmorgan-ink-800-million-private-credit-deal-for-goodlife",
+    "published": "Thu, 30 Apr 2026 20:04:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.438611"
+  },
+  {
+    "id": "5fdf17ce9998",
+    "title": "How Ketamine Spawned a $1.7 Billion J&J Blockbuster Drug",
+    "title_cn": "氯胺酮如何催生价值 17 亿美元的强生重磅药物",
+    "summary": "Spravato, the ketamine-derived nasal spray from Johnson & Johnson, was once seen as a long shot. It was difficult to deliver, heavily regulated and slow to catch on. Find out how it became a billion-dollar drug and part of a new model for treating depression.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/how-ketamine-spawned-a-1-7-billion-j-j-blockbuster-drug-video",
+    "published": "Thu, 30 Apr 2026 20:00:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.603527"
+  },
+  {
+    "id": "4a5c3872f0ff",
+    "title": "New York Life Raises C$1.1 Billion in Maple Bond Sale",
+    "title_cn": "纽约人寿通过 Maple 债券发售筹集 11 亿加元",
+    "summary": "New York Life Global Funding sold C$1.1 billion ($810 million) of Canadian-dollar debt maturing in seven years, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/new-york-life-eyes-potential-canadian-dollar-debt-sale",
+    "published": "Thu, 30 Apr 2026 15:42:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.770263"
+  },
+  {
+    "id": "b92cb5d56b88",
+    "title": "Private Credit Giants Try to Reassure Investors on AI Risks to Software Bets",
+    "title_cn": "私人信贷巨头试图安抚投资者对软件投资的人工智能风险",
+    "summary": "Three of the biggest names in private credit moved to reassure investors this week about the AI risks facing their software borrowers, deploying proprietary “score cards” and outside consultants.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/private-credit-rolls-out-clean-bill-of-health-on-software-risk",
+    "published": "Thu, 30 Apr 2026 19:37:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:41.941383"
+  },
+  {
+    "id": "b278c7399e09",
+    "title": "Bombardier CEO Says Debt ‘Melting Away’; Shares Soar to 23-Year High",
+    "title_cn": "庞巴迪首席执行官表示债务“消失”；股价飙升至23年新高",
+    "summary": "Canadian jet manufacturer Bombardier Inc. surged after it raised its cash flow outlook for this year and reported strong interest in its defense products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/bombardier-shares-soar-on-strong-cash-position-defense-momentum",
+    "published": "Thu, 30 Apr 2026 16:49:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.133674"
+  },
+  {
+    "id": "3543011a1980",
+    "title": "Oil Retraces From Four-Year High as War Fears Dampen Liquidity",
+    "title_cn": "由于战争担忧抑制流动性，油价从四年高点回落",
+    "summary": "Brent crude cooled off after ripping to a four-year high as the market braced for a protracted US war with Iran, in a session marked by machine-led trading and thin volumes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-29/latest-oil-market-news-and-analysis-for-april-30",
+    "published": "Wed, 29 Apr 2026 22:11:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.295416"
+  },
+  {
+    "id": "bafb20d633d7",
+    "title": "Pemex Posts Third Straight Loss After $16.5 Billion Debt Payment",
+    "title_cn": "Pemex 在偿还 165 亿美元债务后连续第三次亏损",
+    "summary": "Petroleos Mexicanos posted its third straight quarterly loss as large debt payments ate into earnings of Mexico’s state-owned oil giant.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/pemex-posts-third-straight-loss-despite-war-fueled-oil-rally",
+    "published": "Thu, 30 Apr 2026 15:55:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.454119"
+  },
+  {
+    "id": "dc3465367dcb",
+    "title": "Blue Owl Scrutiny to Ramp Up as Shares Near ‘Doomsday’ Level",
+    "title_cn": "蓝猫头鹰股价接近“世界末日”水平，审查将加大",
+    "summary": "Blue Owl Capital Inc., whose battered stock has served as a proxy for concerns over the health of the $1.8 trillion private credit industry, will face fresh scrutiny from investors and Wall Street analysts with the release of its first-quarter earnings.  Bloomberg's David Havens joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/blue-owl-scrutiny-to-ramp-up-video",
+    "published": "Thu, 30 Apr 2026 19:04:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.609817"
+  },
+  {
+    "id": "8cd17ad4add4",
+    "title": "NY Pied-à-Terre Tax Needs Significant Rates to Earn $500 Million",
+    "title_cn": "纽约临时住所税需要大幅提高才能赚取 5 亿美元",
+    "summary": "Luxury second homes in New York will have to be taxed at a “significant” amount to generate the $500 million of revenue the city is counting on to help close a gaping budget hole, according to a new study from New York City Comptroller Mark Levine’s office.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ny-pied-a-terre-tax-needs-significant-rates-to-earn-500-million",
+    "published": "Thu, 30 Apr 2026 18:50:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.763314"
+  },
+  {
+    "id": "ed58dbae0ad9",
+    "title": "Iran’s New Leader Pledges to Guard Nuclear and Missile Tech",
+    "title_cn": "伊朗新领导人承诺保护核与导弹技术",
+    "summary": "Iran’s new supreme leader gave a rare statement on Thursday, vowing not to give up the country’s nuclear or missile technologies and signaling Tehran would keep control of the Strait of Hormuz. Natasha Hall, Associate Fellow at Chatham House joins to discuss on Balance of Power. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/iran-s-new-leader-pledges-to-guard-nuclear-missile-tech-video",
+    "published": "Thu, 30 Apr 2026 18:44:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:42.951294"
+  },
+  {
+    "id": "0257c471bcdd",
+    "title": "US Senate Bans Members, Staff From Trading on Prediction Markets",
+    "title_cn": "美国参议院禁止议员和工作人员在预测市场上进行交易",
+    "summary": "The US Senate voted unanimously Thursday to ban its members and staff from trading on fast-growing prediction markets, highlighting concerns about insider trading on the platforms after a US soldier was accused of using classified information to profit from trades.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-senate-bans-members-staff-from-trading-on-prediction-markets",
+    "published": "Thu, 30 Apr 2026 18:43:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:43.123607"
+  },
+  {
+    "id": "33a86b7ca8b0",
+    "title": "Yen Soars as Japan Intervenes After Issuing ‘Final’ Warning",
+    "title_cn": "日本发出“最终”警告后进行干预，日元飙升",
+    "summary": "The yen surged as much as 3%, its biggest intraday gain in almost two years, after Japan intervened in the foreign-exchange market, hours after officials delivered a “final” warning to investors against selling the currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/japan-s-katayama-warns-nearing-timing-to-take-bold-fx-steps",
+    "published": "Thu, 30 Apr 2026 08:07:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:43.272805"
+  },
+  {
+    "id": "35764c5d167c",
+    "title": "Apple Tops Sales Estimates After iPhone, Mac Help Fuel Growth",
+    "title_cn": "iPhone、Mac 推动增长后，苹果销量突破预期",
+    "summary": "Apple Inc. reported revenue for the fiscal second quarter that topped analysts’ estimates, helped by demand for the iPhone and Mac.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth",
+    "published": "Thu, 30 Apr 2026 20:35:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:44.349026"
   },
   {
     "id": "b2be979f470d",
-    "title": "Meta Shares Plunge on Rising Concerns About AI Spending Spree",
-    "title_cn": "由于对人工智能支出热潮的担忧加剧，Meta 股价暴跌",
-    "summary": "Meta Platforms Inc. shares plunged by the most in six months after the company raised its spending outlook for the year, reigniting fears that the historic levels of investment that Chief Executive Officer Mark Zuckerberg is making to catch up in the artificial intelligence race won’t pay off.",
+    "title": "Meta Shares Plunge on Rising Concern About AI Spending Spree",
+    "title_cn": "由于对人工智能支出热潮的担忧日益加剧，Meta 股价暴跌",
+    "summary": "Meta Platforms Inc. shares plunged the most in six months after the company raised its spending outlook for the year, reigniting fears that the historic levels of investment that Chief Executive Officer Mark Zuckerberg is making to catch up in the artificial intelligence race won’t pay off.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-29/meta-raises-outlook-for-capital-spending-in-2026-shares-slide",
     "published": "Wed, 29 Apr 2026 20:07:46 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:41.503434"
+    "fetched_at": "2026-04-30T20:44:45.406776"
   },
   {
-    "id": "a7ec263e3185",
-    "title": "Musk Says No Written Agreement for His Early Donation to OpenAI",
-    "title_cn": "马斯克表示，他对 OpenAI 的早期捐赠没有书面协议",
-    "summary": "Elon Musk acknowledged there was no written agreement or contract with OpenAI regarding the terms of his donation to the company when it was first founded as a nonprofit research organization more than a decade ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/musk-says-no-written-agreement-for-his-early-donation-to-openai",
-    "published": "Thu, 30 Apr 2026 16:44:38 GMT",
+    "id": "3996239eed59",
+    "title": "Roblox Shares Tumble After User Numbers Fall Short",
+    "title_cn": "用户数量不足后 Roblox 股价暴跌",
+    "summary": "Roblox Corp. reported first-quarter users that fell short of analysts’ expectations after implementing safety features restricting how kids, who make up a majority of its audience, can use the platform.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/roblox-shares-tumble-after-user-numbers-fall-short",
+    "published": "Thu, 30 Apr 2026 20:19:37 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:41.912876"
-  },
-  {
-    "id": "d8f1fbfd18bf",
-    "title": "Why Anthropic’s Mythos Is Sparking Global Alarm",
-    "title_cn": "为什么 Anthropic 的神话引发全球警报",
-    "summary": "Anthropic PBC has said its new artificial intelligence tool, Mythos, is so good at finding vulnerabilities in software and computer systems that it can’t be released to the general public. The AI giant released Mythos to a limited number of carefully chosen parties because if a tool this powerful fell into the wrong hands, Anthropic says, it could help attackers more easily steal data or disrupt critical infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/mythos-why-anthropic-s-ai-model-is-sparking-global-alarm",
-    "published": "Thu, 30 Apr 2026 16:40:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.008045"
-  },
-  {
-    "id": "7c95acfaad41",
-    "title": "AI Boom Boosts US Economy, Offering Way to Blunt War Impact",
-    "title_cn": "人工智能繁荣提振美国经济，为削弱战争影响提供途径",
-    "summary": "The AI growth engine was on full display in the first quarter, powering the US economy through fresh headwinds from a war-driven surge in inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-economy-boosted-by-ai-boom-in-way-to-blunt-iran-war-impact",
-    "published": "Thu, 30 Apr 2026 16:30:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.252398"
-  },
-  {
-    "id": "f640c8de9c89",
-    "title": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs",
-    "title_cn": "OpenAI、Meta 成为人工智能儿童安全法案参议院小组支持的目标",
-    "summary": "A powerful Senate committee backed legislation to require OpenAI, Meta Platforms Inc. and other artificial intelligence companies to stop minors from using chatbots, responding to a strengthening public backlash against harm to children and teenagers attributed to the fast-spreading technology.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/openai-meta-targeted-in-ai-child-safety-bill-senate-panel-backs",
-    "published": "Thu, 30 Apr 2026 16:08:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.369738"
-  },
-  {
-    "id": "22f81f99c8f7",
-    "title": "Euro-Area Finance Chiefs to Discuss Mythos as Concerns Mount",
-    "title_cn": "随着担忧加剧，欧元区财长将讨论神话",
-    "summary": "Euro-area finance ministers will discuss the challenges that Anthropic PBC’s Mythos AI model poses as officials struggle to get clarity on the new tool’s powers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/euro-area-finance-chiefs-to-discuss-mythos-as-concerns-mount",
-    "published": "Thu, 30 Apr 2026 15:43:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.468443"
-  },
-  {
-    "id": "cdbb77992ac0",
-    "title": "White House AI Memo Hits Issues in Anthropic-Pentagon Feud",
-    "title_cn": "白宫人工智能备忘录触及人类与五角大楼不和的问题",
-    "summary": "White House officials are preparing a wide-ranging artificial intelligence policy memo that outlines requirements for AI deployment by national security agencies, some of which address the issues driving a bitter dispute between the Pentagon and Anthropic PBC over military use of the firm’s technology, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/white-house-ai-memo-hits-issues-driving-anthropic-pentagon-feud",
-    "published": "Thu, 30 Apr 2026 13:08:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.571704"
-  },
-  {
-    "id": "d72930124a19",
-    "title": "Orlando Bravo on Private Markets, AI",
-    "title_cn": "Orlando Bravo 谈私人市场、人工智能",
-    "summary": "Orlando Bravo, Founder & Managing Partner, Thoma Bravo discusses private market strategy and AI-driven value shifts with Bloomberg’s Dani Burger at Bloomberg House Miami 2026. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/orlando-bravo-on-private-markets-ai-video",
-    "published": "Thu, 30 Apr 2026 15:32:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.658888"
-  },
-  {
-    "id": "a1604d59b8fe",
-    "title": "BlackRock COO on How AI Is Fueling the Firm’s Product Innovation",
-    "title_cn": "贝莱德首席运营官谈人工智能如何推动公司产品创新",
-    "summary": "On this episode of the Odd Lots podcast, BlackRock COO Rob Goldstein joins Joe Weisenthal and Tracy Alloway to discuss ways in which the firm is already using AI to develop innovative products, as well as how he envisions the future of private markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/blackrock-coo-on-how-ai-is-fueling-the-firm-s-product-innovation",
-    "published": "Thu, 30 Apr 2026 15:13:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:42.908105"
-  },
-  {
-    "id": "f0f81775fb94",
-    "title": "Orlando Bravo Says Thoma Bravo Has Become AI-Centric",
-    "title_cn": "Orlando Bravo 表示 Thoma Bravo 已以人工智能为中心",
-    "summary": "\"We have had to make our companies, very, very quickly, AI-centric companies,\" Thoma Bravo founder and Managing Partner Orlando Bravo says during an interview with Dani Burger at Bloomberg Miami House. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/orlando-bravo-says-thoma-bravo-has-become-ai-centric-video",
-    "published": "Thu, 30 Apr 2026 15:00:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.006931"
-  },
-  {
-    "id": "b9163cac95b8",
-    "title": "AI Hallucinations Put South African Ministers on the Spot",
-    "title_cn": "人工智能幻觉让南非部长陷入困境",
-    "summary": "South Africa’s Democratic Alliance party has extolled the need to adopt modern technology to boost government efficiency since joining the ruling coalition as the second-biggest party in 2024.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ai-hallucinations-put-two-south-african-ministers-on-the-spot",
-    "published": "Thu, 30 Apr 2026 14:42:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.137773"
-  },
-  {
-    "id": "7a91cf63d08d",
-    "title": "EU Chips Act Overhaul Aims to Boost Investment",
-    "title_cn": "欧盟芯片法案改革旨在促进投资",
-    "summary": "The European Union’s revamped plans to stimulate the semiconductor industry &mdash; a crucial part of the supply chain for everything from artificial intelligence to cars &mdash; would allow the bloc’s executive arm to invest directly in manufacturing and would prioritize development of new technologies, people familiar with the draft said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/eu-chips-act-revamp-would-let-commission-invest-directly-in-fabs",
-    "published": "Thu, 30 Apr 2026 12:34:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.469079"
-  },
-  {
-    "id": "1859e130cd19",
-    "title": "Citadel’s Rubner Sees Tech Selloff as Buying Opportunity",
-    "title_cn": "Citadel 的鲁布纳将科技股抛售视为买入机会",
-    "summary": "Scott Rubner, head of equity and equity derivatives strategy at Citadel Securities, says he is not seeing a decline in AI spending and demand. He discusses the buying opportunity he sees in US megacap tech stocks and why he’s bullish on consumer trading. Rubner speaks with Dani Burger on the sidelines of Bloomberg House Miami. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/citadel-s-rubner-sees-tech-selloff-as-buying-opportunity-video",
-    "published": "Thu, 30 Apr 2026 14:45:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.550041"
-  },
-  {
-    "id": "531ed2e68545",
-    "title": "NSA Testing Anthropic’s Mythos to Find Flaws in Microsoft Tech",
-    "title_cn": "NSA 测试 Anthropic 的神话以寻找微软技术中的缺陷",
-    "summary": "The National Security Agency has been testing the capabilities of Anthropic PBC’s new artificial intelligence model to find cybersecurity vulnerabilities in popular software, including Microsoft Corp. products, according to a US official and another person familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/nsa-testing-anthropic-s-mythos-to-find-flaws-in-microsoft-tech",
-    "published": "Thu, 30 Apr 2026 14:06:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.653091"
-  },
-  {
-    "id": "418fff989a1f",
-    "title": "Humanoid Maker 1X Opens New US Factory, Plans to Build 10,000 Home Robots in First Year",
-    "title_cn": "Humanoid Maker 1X 在美国开设新工厂，计划第一年生产 10,000 台家用机器人",
-    "summary": "1X Technologies AS, the Norway-founded robotics startup backed by OpenAI, has opened a new 58,000-square-foot factory in Hayward, California, where it aims to be one of the first players to build humanoids for consumers at scale.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/humanoid-maker-1x-opens-us-factory-plans-to-make-10-000-home-robots-this-year",
-    "published": "Thu, 30 Apr 2026 14:00:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.739831"
+    "fetched_at": "2026-04-30T20:44:45.559727"
   },
   {
     "id": "e25699edd17b",
-    "title": "Alphabet Soars After Strong Sales Signal AI Bets Are Paying Off",
-    "title_cn": "强劲的销售信号表明人工智能押注正在获得回报，Alphabet 股价飙升",
-    "summary": "Alphabet Inc. shares soared by the most in nearly eight months after the company reported strong demand for its cloud and artificial intelligence offerings, signaling that its unprecedented investments in AI infrastructure are paying off.",
+    "title": "Alphabet Soars After Strong Sales Signal AI Bets Paying Off",
+    "title_cn": "强劲的销售信号表明人工智能押注得到回报后，Alphabet 股价飙升",
+    "summary": "Alphabet Inc. shares soared 10% to a record after the company reported strong demand for its cloud and artificial intelligence offerings, signaling that unprecedented investments in AI infrastructure are paying off.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-29/alphabet-sales-beat-estimates-on-google-cloud-ai-customers",
     "published": "Wed, 29 Apr 2026 20:09:02 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.834256"
+    "fetched_at": "2026-04-30T20:44:45.924567"
   },
   {
     "id": "c2722f58a071",
@@ -747,7 +627,157 @@
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/alphabet-amazon-outpace-meta-in-ai-during-earnings-bonanza",
     "published": "Thu, 30 Apr 2026 00:40:57 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:43.919308"
+    "fetched_at": "2026-04-30T20:44:46.085399"
+  },
+  {
+    "id": "0885e762bd43",
+    "title": "Reddit Beats Sales Expectations Again on Continued Ads Growth",
+    "title_cn": "Reddit 广告持续增长，销售再次超出预期",
+    "summary": "Reddit Inc. projected sales in the current period that surpassed Wall Street estimates, continuing a streak of strong revenue growth powered by the company’s surging advertising business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/reddit-beats-sales-expectations-again-on-continued-ads-growth",
+    "published": "Thu, 30 Apr 2026 20:10:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:46.239896"
+  },
+  {
+    "id": "382247c081fc",
+    "title": "How Big Tech’s AI Ambitions Are Fueling a Borrowing Boom",
+    "title_cn": "大型科技公司的人工智能野心如何推动借贷热潮",
+    "summary": "For the past few years, the largest US technology companies have been in a costly race to develop advanced artificial intelligence systems while at the same time providing computing power to a burgeoning field of startups. To chase these goals, they have radically changed how they finance their growth. Long reliant on rich revenues and share price increases, Alphabet Inc.’s Google, Meta Platforms Inc. and other tech giants now are borrowing heavily to build the technology that makes chatbots run",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/how-amazon-meta-and-google-are-fueling-a-big-tech-borrowing-boom-for-ai",
+    "published": "Thu, 30 Apr 2026 19:27:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:46.557895"
+  },
+  {
+    "id": "a7ec263e3185",
+    "title": "Musk Says No Contract Dictating His Early Donation to OpenAI",
+    "title_cn": "马斯克表示，没有合同规定他对 OpenAI 的早期捐赠",
+    "summary": "Elon Musk acknowledged there was no contract with OpenAI regarding the terms of his donation to the company when it was first founded as a nonprofit research organization more than a decade ago.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/musk-says-no-written-agreement-for-his-early-donation-to-openai",
+    "published": "Thu, 30 Apr 2026 16:44:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:47.294996"
+  },
+  {
+    "id": "3354adc381dc",
+    "title": "Apple’s Second-Quarter Revenue Exceeds Analyst Expectations",
+    "title_cn": "苹果第二季度营收超出分析师预期",
+    "summary": "An Apple store in New York. Photographer: Victor J. Blue/Bloomberg",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-04-30/apple-second-quarter-earnings",
+    "published": "Thu, 30 Apr 2026 18:59:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:48.275272"
+  },
+  {
+    "id": "69afefb10d5c",
+    "title": "Goldman’s Covello Says Buy AI Hyperscalers Over Chipmakers",
+    "title_cn": "高盛的科维洛表示购买人工智能超大规模设备而不是芯片制造商",
+    "summary": "Investors looking to profit amid the buildout boom in AI infrastructure should favor big-spending “hyperscalers” over chipmakers, according to Goldman Sachs Group Inc.’s Jim Covello.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/goldman-s-covello-says-buy-ai-hyperscalers-over-chipmakers",
+    "published": "Thu, 30 Apr 2026 18:58:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:48.428648"
+  },
+  {
+    "id": "e539913409f7",
+    "title": "Zuckerberg, Cook Not Interested in Buying NFL’s Seattle Seahawks",
+    "title_cn": "扎克伯格和库克对收购 NFL 西雅图海鹰队不感兴趣",
+    "summary": "Mark Zuckerberg and Tim Cook aren’t planning a bid for the NFL’s Seattle Seahawks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/zuckerberg-cook-not-interested-in-buying-nfl-s-seattle-seahawks",
+    "published": "Thu, 30 Apr 2026 18:47:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:48.574541"
+  },
+  {
+    "id": "c75e6c7fb96e",
+    "title": "News Organizations Push Back Against Web Archive Used For AI",
+    "title_cn": "新闻机构反对将网络档案用于人工智能",
+    "summary": "Major news organizations, including CNN, NBC and USA Today, have joined an effort to curb the storage of their content in a web archive used by artificial intelligence companies for training chatbots.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/news-organizations-push-back-against-web-archive-used-for-ai",
+    "published": "Thu, 30 Apr 2026 18:44:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:48.737675"
+  },
+  {
+    "id": "ca2b7d7b7297",
+    "title": "Stay Away From Any IPO Until It Gets Its Footing: Forrest",
+    "title_cn": "福雷斯特：在站稳脚跟之前不要参与任何首次公开募股",
+    "summary": "Kimberly Forrest, CIO and founder of Bokeh Capital Partners, joins Scarlet Fu on \"Bloomberg Markets.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/stay-away-from-ipo-until-it-gets-its-footing-forrest-video",
+    "published": "Thu, 30 Apr 2026 18:42:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:48.889475"
+  },
+  {
+    "id": "26be07ee1718",
+    "title": "SpaceX Holder 137's Stake at 1%, Tops $10 Billion Value",
+    "title_cn": "SpaceX Holder 137 持股 1%，价值突破 100 亿美元",
+    "summary": "Investor 137 Ventures has around $10 billion in SpaceX after writing multiple checks backing the Elon Musk-led company. Ahead of SpaceX’s IPO, Justin Fishner-Wolfson, founder and managing partner at 137 Ventures, discusses the expected windfall and two new funds the VC firm has raised to back startups and founders staying private longer. He speaks with Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/137-ventures-eyes-10-billion-spacex-windfall-video",
+    "published": "Thu, 30 Apr 2026 17:36:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:49.727255"
+  },
+  {
+    "id": "5d85d1ee69de",
+    "title": "Citadel Securities’ Rubner Sees Tech Selloff as Buying Opportunity",
+    "title_cn": "Citadel 证券的鲁布纳将科技股抛售视为买入机会",
+    "summary": "Scott Rubner, head of equity and equity derivatives strategy at Citadel Securities, says he is not seeing a decline in AI spending and demand. He discusses the buying opportunity he sees in US megacap tech stocks and why he’s bullish on consumer trading. Rubner speaks with Dani Burger on the sidelines of Bloomberg House Miami. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/citadel-securities-rubner-on-tech-selloff-video",
+    "published": "Thu, 30 Apr 2026 18:30:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:50.786622"
+  },
+  {
+    "id": "e5a785ad9530",
+    "title": "The Audio Industry Is Grappling with the Rise of ‘Podslop’",
+    "title_cn": "音频行业正在努力应对“Podslop”的兴起",
+    "summary": "Over the past nine days, 39% of new podcasts were likely AI-generated, according to the Podcast Index.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/-podslop-proliferation-is-challenging-the-audio-industry",
+    "published": "Thu, 30 Apr 2026 18:26:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:50.956297"
+  },
+  {
+    "id": "6ad525c7e89e",
+    "title": "AI Debt Investors Show Signs of Fatigue After $300 Billion Binge",
+    "title_cn": "AI 债务投资者在 3000 亿美元的狂欢之后表现出疲倦的迹象",
+    "summary": "After a $300 billion AI debt binge that spanned every corner of the credit market, investors are starting to show some signs of fatigue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ai-debt-investors-show-signs-of-fatigue-after-300-billion-binge",
+    "published": "Thu, 30 Apr 2026 18:07:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:51.116445"
+  },
+  {
+    "id": "986e4f5b81b9",
+    "title": "Qualcomm CEO Teases Deal with Large Hyperscaler",
+    "title_cn": "高通首席执行官调侃与大型超大规模企业的交易",
+    "summary": "Qualcomm shares surged after the company said it was making headway in the lucrative data center market and teased a partnership with a large hyperscaler. Qualcomm CEO Cristiano Amon speaks with Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/qualcomm-ceo-teases-deal-with-large-hyperscaler-video",
+    "published": "Thu, 30 Apr 2026 18:04:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:51.272055"
+  },
+  {
+    "id": "16f19f86f1fb",
+    "title": "Meta Needs to Stop Spending As If It's A Cloud Giant: Lee",
+    "title_cn": "Meta 需要停止像云巨头一样的支出：Lee",
+    "summary": "Dave Lee from Bloomberg Opinion critiques Meta's positioning as a cloud business, highlighting that unlike true hyperscalers such as Amazon and Google, Meta does not demonstrate healthy growth in cloud sales driven by AI. Despite Meta's substantial capital expenditure of up to $145 billion, its AI strategy appears unconvincing, as reflected in the cautious tone of its leadership during the earnings call. Lee emphasizes that Meta's cloud investments do not translate into the same growth metrics seen in established cloud providers, suggesting the company should reconsider its spending approach in this area.\n\nOriginal filename: 20260430_164535_Bloomberg_Opinion_Meta_s_Cloud_Spending_Lacks_Conviction_Am.mp4 (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/meta-has-to-stop-spending-as-if-it-s-a-cloud-giant-lee-video",
+    "published": "Thu, 30 Apr 2026 18:04:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:51.422129"
+  },
+  {
+    "id": "e3817ff15bbd",
+    "title": "Anthropic Weighs Funding Offers at Over $900 Billion Valuation",
+    "title_cn": "Anthropic 的融资报价估值超过 9000 亿美元",
+    "summary": "Anthropic has begun weighing a fresh funding round that would value the AI developer at more than $900 billion, according to sources, potentially overtaking longtime rival OpenAI as the world's most valuable AI startup. Bloomberg’s Natasha Mascarenhas joins Caroline Hyde and Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/anthropic-weighs-funding-offers-at-over-900b-valuation-video",
+    "published": "Thu, 30 Apr 2026 17:46:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:44:51.582884"
   },
   {
     "id": "abd05cc32585",
@@ -757,297 +787,157 @@
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/apple-earnings-become-sideshow-with-new-ceo-ready-to-grab-reins",
     "published": "Thu, 30 Apr 2026 09:00:53 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.019397"
-  },
-  {
-    "id": "76bc060d8c66",
-    "title": "Polymarket Adds New Detection Tools After Insider Bet Backlash",
-    "title_cn": "在内幕押注强烈反对后，Polymarket 增加了新的检测工具",
-    "summary": "Polymarket is partnering with blockchain analytics firm Chainalysis Inc. to help police its platform as prediction markets grapple with increased scrutiny over insider trading.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/polymarket-adds-new-detection-tools-after-insider-bet-backlash",
-    "published": "Thu, 30 Apr 2026 12:31:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.147571"
-  },
-  {
-    "id": "3d104278d0d0",
-    "title": "Iran Internet Blackout Tightens Military’s Grip on Civilian Life",
-    "title_cn": "伊朗互联网封锁加强了军方对平民生活的控制",
-    "summary": "Iran’s record internet blackout is emerging as a key dividing line between the country’s powerful security apparatus and its civilian government, underlining how the war with the US has extended the military’s control over daily life.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/iran-internet-blackout-tightens-military-s-grip-on-civilian-life",
-    "published": "Thu, 30 Apr 2026 11:45:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.310485"
-  },
-  {
-    "id": "4de7cb3f7c3b",
-    "title": "Qualcomm Bids for a Share of the Massive Spending on AI Chips",
-    "title_cn": "高通竞购人工智能芯片巨额支出的份额",
-    "summary": "The top maker of chips for smartphones wants in on the explosive AI data center market.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/qualcomm-says-it-has-a-customer-for-its-ai-data-center-chip",
-    "published": "Thu, 30 Apr 2026 11:02:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.402784"
+    "fetched_at": "2026-04-30T20:44:51.722571"
   },
   {
     "id": "4ac026beb85c",
-    "title": "SpaceX Investor 137 Raises $700 Million Ahead of Musk-Led IPO",
-    "title_cn": "SpaceX Investor 137 在马斯克主导的 IPO 之前筹集了 7 亿美元",
-    "summary": "137 Ventures, a repeat investor in Elon Musk’s SpaceX, has raised $700 million across two new funds to back startups over longer time horizons.",
+    "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
+    "title_cn": "SpaceX 投资者 137 Ventures 持股前 1%，投资额超过 100 亿美元",
+    "summary": "137 Ventures, a repeat investor in Elon Musk’s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/spacex-investor-137-raises-700-million-ahead-of-musk-led-ipo",
     "published": "Thu, 30 Apr 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.519122"
+    "fetched_at": "2026-04-30T20:44:51.886610"
   },
   {
-    "id": "5b9a202e3a95",
-    "title": "Equities Insulated by Earnings in the Near Term, Says Evercore’s Emanuel",
-    "title_cn": "Evercore 的伊曼纽尔表示，短期内股市不受盈利影响",
-    "summary": "Julian Emanuel, chief equity and quantitative strategist at Evercore, examines the role of earnings in supporting the bull market in stocks and offers a timeframe for when higher oil prices will begin to impact equities. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/equities-insulated-by-earnings-in-near-term-emanuel-video",
-    "published": "Thu, 30 Apr 2026 10:49:30 GMT",
+    "id": "d8f1fbfd18bf",
+    "title": "Why Anthropic’s Mythos Is Sparking Global Alarm",
+    "title_cn": "为什么 Anthropic 的神话引发全球警报",
+    "summary": "Anthropic PBC has said its new artificial intelligence tool, Mythos, is so good at finding vulnerabilities in software and computer systems that it can’t be released to the general public. The AI giant released Mythos to a limited number of carefully chosen parties because if a tool this powerful fell into the wrong hands, Anthropic says, it could help attackers more easily steal data or disrupt critical infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/mythos-why-anthropic-s-ai-model-is-sparking-global-alarm",
+    "published": "Thu, 30 Apr 2026 16:40:08 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.641142"
+    "fetched_at": "2026-04-30T20:44:52.038181"
   },
   {
-    "id": "ffe09b98c8b8",
-    "title": "Foundering: Bob Lee’s Made-for-TV Murder Trial",
-    "title_cn": "创始人：鲍勃·李为电视制作的谋杀案审判",
-    "summary": "<p>The trial for Bob Lee’s murder became a media circus, including paparazzi photographers, celebrity attorneys, obstinate witnesses, testimony about drug-fueled parties, and secret videos.<strong>&nbsp;</strong></p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/bob-lee-s-accused-murderer-goes-to-trial-things-get-messy",
-    "published": "Thu, 30 Apr 2026 10:30:20 GMT",
+    "id": "7c95acfaad41",
+    "title": "The AI Boom Is Cushioning the US Economy From Iran War Impact",
+    "title_cn": "人工智能的繁荣正在缓解美国经济免受伊朗战争影响的影响",
+    "summary": "The AI growth engine was on full display in the first quarter, powering the US economy through fresh headwinds from a war-driven surge in inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-economy-boosted-by-ai-boom-in-way-to-blunt-iran-war-impact",
+    "published": "Thu, 30 Apr 2026 16:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.761755"
+    "fetched_at": "2026-04-30T20:44:52.688038"
   },
   {
-    "id": "a1519f4d30bc",
-    "title": "Delta Electronics Plans Rapid Expansion as AI Fuels Growth",
-    "title_cn": "台达电子计划因人工智能推动增长而快速扩张",
-    "summary": "Delta Electronics Inc. plans to accelerate plant expansions to address production bottlenecks after surging demand for artificial intelligence data centers drove first-quarter earnings to a record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/delta-electronics-plans-rapid-expansion-as-ai-fuels-growth",
-    "published": "Thu, 30 Apr 2026 10:17:27 GMT",
+    "id": "f640c8de9c89",
+    "title": "OpenAI, Meta Targeted in AI Child Safety Bill Senate Panel Backs",
+    "title_cn": "OpenAI、Meta 成为人工智能儿童安全法案参议院小组支持的目标",
+    "summary": "A powerful Senate committee backed legislation to require OpenAI, Meta Platforms Inc. and other artificial intelligence companies to stop minors from using chatbots, responding to a strengthening public backlash against harm to children and teenagers attributed to the fast-spreading technology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/openai-meta-targeted-in-ai-child-safety-bill-senate-panel-backs",
+    "published": "Thu, 30 Apr 2026 16:08:01 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:44.901650"
+    "fetched_at": "2026-04-30T20:44:52.840996"
   },
   {
-    "id": "c8d9489afea2",
-    "title": "The Messy Reality of AI’s Much Discussed Gender Gap",
-    "title_cn": "人工智能备受争议的性别差距的混乱现实",
-    "summary": "<p>Women are using artificial intelligence&nbsp;at lower rates than men. But are they being “left behind”?</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ai-gender-gap-reflects-women-s-worries-about-being-seen-as-less-valuable",
-    "published": "Thu, 30 Apr 2026 10:00:20 GMT",
+    "id": "22f81f99c8f7",
+    "title": "Euro-Area Finance Chiefs to Discuss Mythos as Concerns Mount",
+    "title_cn": "随着担忧加剧，欧元区财长将讨论神话",
+    "summary": "Euro-area finance ministers will discuss the challenges that Anthropic PBC’s Mythos AI model poses as officials struggle to get clarity on the new tool’s powers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/euro-area-finance-chiefs-to-discuss-mythos-as-concerns-mount",
+    "published": "Thu, 30 Apr 2026 15:43:37 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:45.036889"
+    "fetched_at": "2026-04-30T20:44:53.094714"
   },
   {
-    "id": "b65c9a8db4a9",
-    "title": "Two US Senators Seek Cantor Loan Documents From Lutnick and Tether",
-    "title_cn": "两名美国参议员向 Lutnick 和 Tether 寻求 Cantor 贷款文件",
-    "summary": "Two Democratic senators have asked US Commerce Secretary Howard Lutnick and the cryptocurrency giant Tether for information about a loan between the company and a trust benefitting Lutnick’s children.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/two-senators-seek-cantor-fitzgerald-loan-documents-from-lutnick-tether",
-    "published": "Thu, 30 Apr 2026 10:00:00 GMT",
+    "id": "cdbb77992ac0",
+    "title": "White House AI Memo Hits Issues in Anthropic-Pentagon Feud",
+    "title_cn": "白宫人工智能备忘录触及人类与五角大楼不和的问题",
+    "summary": "White House officials are preparing a wide-ranging artificial intelligence policy memo that outlines requirements for AI deployment by national security agencies, some of which address the issues driving a bitter dispute between the Pentagon and Anthropic PBC over military use of the firm’s technology, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/white-house-ai-memo-hits-issues-driving-anthropic-pentagon-feud",
+    "published": "Thu, 30 Apr 2026 13:08:52 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:45.150155"
+    "fetched_at": "2026-04-30T20:44:53.849603"
   },
   {
-    "id": "51f7602d1544",
-    "title": "Murata’s Shares Jump After Giving Upbeat Forecast for AI Demand",
-    "title_cn": "村田制作所对人工智能需求做出乐观预测后股价上涨",
-    "summary": "Murata Manufacturing Co.‘s shares jumped after the component maker reported stronger-than-expected quarterly earnings and gave an upbeat forecast on the back of the AI investment boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/murata-tops-profit-estimates-on-rising-ai-data-center-demand",
-    "published": "Thu, 30 Apr 2026 05:14:49 GMT",
+    "id": "d72930124a19",
+    "title": "Orlando Bravo on Private Markets, AI",
+    "title_cn": "Orlando Bravo 谈私人市场、人工智能",
+    "summary": "Orlando Bravo, Founder & Managing Partner, Thoma Bravo discusses private market strategy and AI-driven value shifts with Bloomberg’s Dani Burger at Bloomberg House Miami 2026. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/orlando-bravo-on-private-markets-ai-video",
+    "published": "Thu, 30 Apr 2026 15:32:23 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:45.277008"
+    "fetched_at": "2026-04-30T20:44:53.999252"
   },
   {
-    "id": "6aef0b358a59",
-    "title": "CATL’s $5 Billion Placement Paves Way for Hong Kong Deals After Wartime Disruption",
-    "title_cn": "CATL 50 亿美元配售为战时中断后的香港交易铺平道路",
-    "summary": "A $5 billion placement by battery giant Contemporary Amperex Technology Co. Ltd. is setting the stage for a fresh wave of share sales in Hong Kong after volatility triggered by the war in Iran weighed on the deal flow.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/catl-s-5-billion-placement-paves-way-for-hk-deals-after-wartime-disruption",
-    "published": "Thu, 30 Apr 2026 08:39:43 GMT",
+    "id": "4e62f6f977e4",
+    "title": "Trump Signs Legislation Ending Shutdown at Homeland Security",
+    "title_cn": "特朗普签署立法结束国土安全部关闭",
+    "summary": "The longest partial shutdown in US history ended Thursday after the House passed funding for most of the Homeland Security Department, just days ahead of missed paychecks for Transportation Security Administration workers that threatened to throw airports into chaos for a second time this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/house-votes-to-end-dhs-shutdown-as-threats-of-airport-chaos-loom",
+    "published": "Thu, 30 Apr 2026 17:07:40 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:45.750833"
+    "fetched_at": "2026-04-30T20:44:54.897615"
   },
   {
-    "id": "d7a4f5d4cea3",
-    "title": "Starmer Vows ‘Full Power of State’ to Fight Antisemitism",
-    "title_cn": "斯塔默誓言“国家全力”打击反犹太主义",
-    "summary": "UK Prime Minister Keir Starmer pledged to use the “full power of the state” to crack down on antisemitism, after a stabbing in north London raised fresh questions about the government’s attention to threats against Britain’s Jewish community.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/uk-to-fast-track-terrorism-law-after-wave-of-antisemetic-attacks",
-    "published": "Thu, 30 Apr 2026 11:53:38 GMT",
+    "id": "ea475ff65de8",
+    "title": "Trump Says US Removing Scotch Tariffs After UK King’s Visit",
+    "title_cn": "特朗普表示英国国王访问后美国将取消苏格兰威士忌关税",
+    "summary": "US President Donald Trump said he would be removing some whiskey tariffs following a visit from King Charles III, a move that delivers a major trade concession to the UK.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-says-he-ll-nix-some-whiskey-tariffs-after-uk-king-s-visit",
+    "published": "Thu, 30 Apr 2026 18:37:44 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.187829"
+    "fetched_at": "2026-04-30T20:44:55.961095"
   },
   {
-    "id": "02e2fd5a57d7",
-    "title": "Trump Nominates Saphier for Surgeon General After Pulling Means",
-    "title_cn": "特朗普在筹集资金后提名萨菲尔为卫生局局长",
-    "summary": "President Donald Trump pulled the nomination of wellness entrepreneur Casey Means to be US surgeon general and named Nicole Saphier, a radiologist, to replace her.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-pulls-means-surgeon-general-nomination-white-house-says",
-    "published": "Thu, 30 Apr 2026 16:37:20 GMT",
+    "id": "4da3ea6b36c8",
+    "title": "Trump’s Next Attorney General Likely Will Be One of These Three",
+    "title_cn": "特朗普的下一任司法部长可能会是这三人之一",
+    "summary": "Acting AG Todd Blanche is considered the frontrunner for the job.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/trump-s-next-attorney-general-likely-will-be-one-of-these-three",
+    "published": "Thu, 30 Apr 2026 20:31:13 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.389533"
+    "fetched_at": "2026-04-30T20:44:57.207388"
   },
   {
-    "id": "0033e2590a2c",
-    "title": "White House Press Dinner Shooting Suspect to Face More Charges, Pirro Says",
-    "title_cn": "皮罗称，白宫新闻晚宴枪击案嫌疑人将面临更多指控",
-    "summary": "The US Attorney for the District of Columbia, Jeanine Pirro, said she will issue more charges against the man accused of trying to assassinate President Donald Trump at a press dinner gala over the weekend.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/pirro-says-press-dinner-shooting-suspect-to-face-more-charges",
-    "published": "Thu, 30 Apr 2026 14:31:01 GMT",
+    "id": "29f88368ff7d",
+    "title": "Trump Says He Is Lifting Some Scotch Tariffs",
+    "title_cn": "特朗普表示他将取消部分苏格兰威士忌关税",
+    "summary": "President Donald Trump said he would be removing some whiskey tariffs following a visit from King Charles III during remarks to reporters at the White House.",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/trump-says-he-is-lifting-some-scotch-tariffs-video",
+    "published": "Thu, 30 Apr 2026 20:01:42 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.516213"
+    "fetched_at": "2026-04-30T20:44:57.358540"
   },
   {
-    "id": "e2c9278ac3f3",
-    "title": "Pakistani Fuel Tanker Attempts Hormuz Exit Amid Gulf Gridlock",
-    "title_cn": "巴基斯坦油轮在海湾僵局中试图离开霍尔木兹",
-    "summary": "A Pakistani tanker carrying a cargo of diesel from Kuwait appeared to be making an outbound transit through the Strait of Hormuz, a rare event in the blockaded waterway.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/pakistani-fuel-tanker-attempts-hormuz-exit-amid-gulf-gridlock",
-    "published": "Thu, 30 Apr 2026 16:31:16 GMT",
+    "id": "d977b5a00db6",
+    "title": "Trump Says He’s Open to Reducing US Troops in Spain, Italy",
+    "title_cn": "特朗普表示他对减少驻西班牙和意大利的美军持开放态度",
+    "summary": "President Donald Trump indicated he was open to drawing down American military personnel from other NATO members a day after saying he was reviewing US troop levels in Germany.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-says-he-s-open-to-reducing-us-troops-in-spain-italy",
+    "published": "Thu, 30 Apr 2026 20:01:36 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.653171"
+    "fetched_at": "2026-04-30T20:44:57.509600"
   },
   {
-    "id": "966a4c434702",
-    "title": "FDA Panel Votes Against Benefit of Astra’s Breast Cancer Drug",
-    "title_cn": "FDA 小组投票反对 Astra 乳腺癌药物的益处",
-    "summary": "AstraZeneca Plc failed to persuade a US regulatory review panel about the benefits of its novel breast cancer medicine, throwing a hurdle in front of a key drug in the company’s pipeline.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/fda-panel-votes-against-benefit-of-astra-s-breast-cancer-drug",
-    "published": "Thu, 30 Apr 2026 16:17:05 GMT",
+    "id": "4f62f29e1179",
+    "title": "S&P Hits Records, Wayfair Earnings Miss | Bloomberg Businessweek Daily 4/30/2026",
+    "title_cn": "标准普尔创历史新高，Wayfair 盈利未达预期彭博商业周刊日报 2026 年 4 月 30 日",
+    "summary": "On today's episode on Bloomberg Businessweek Daily, Carol Massar and Tim Stenovec speak with Mary Ann Bartels, Sanctuary Wealth Chief Investment Strategist about tech earnings and the S&amp;P500 hitting a record, and  Kate Gulliver, Wayfair CFO on earnings. They also spoke with Dr. Fanny Elahi, Icahn School of Medicine at Mount Sinai Associate Professor of Neurology and Neuroscience. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/bloomberg-businessweek-daily-4-30-2026-video",
+    "published": "Thu, 30 Apr 2026 20:01:10 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.772514"
+    "fetched_at": "2026-04-30T20:44:57.695117"
   },
   {
-    "id": "29b875168d80",
-    "title": "Democratic Maine Governor Mills Drops Out of Key Senate Race",
-    "title_cn": "民主党缅因州州长米尔斯退出关键的参议院竞选",
-    "summary": "Maine Governor Janet Mills suspended her campaign for a US Senate seat on Thursday, upending the race to unseat incumbent Republican Senator Susan Collins.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/democratic-maine-governor-mills-drops-out-of-key-senate-race",
-    "published": "Thu, 30 Apr 2026 13:07:26 GMT",
+    "id": "ccda9862c162",
+    "title": "Trump Says He Doesn't Care If Powell Stays on Fed Board",
+    "title_cn": "特朗普表示他不在乎鲍威尔是否留在美联储董事会",
+    "summary": "\"I don’t care. If he stays on he stays on,” President Donald Trump says when asked about his thoughts on Federal Reserve Chair Jerome Powell’s decision to stay on the Fed Board of Governors after his term as chair is over. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/trump-says-he-doesn-t-care-if-powell-stays-on-fed-board-video",
+    "published": "Thu, 30 Apr 2026 19:54:08 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:46.866814"
+    "fetched_at": "2026-04-30T20:44:57.829766"
   },
   {
-    "id": "872f0f731853",
-    "title": "Russia Increases Reliance on China for Critical War Supplies",
-    "title_cn": "俄罗斯增加对中国关键战争物资的依赖",
-    "summary": "Russia is importing more than 90% of its sanctioned technology through China, a sign of Moscow’s growing reliance on Beijing as Vladimir Putin’s war against Ukraine drags on.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/russia-increases-reliance-on-china-for-critical-war-technologies",
-    "published": "Thu, 30 Apr 2026 13:36:20 GMT",
+    "id": "8d85208759dc",
+    "title": "Trump Says He Doesn’t Care If Powell Remains on Fed Board",
+    "title_cn": "特朗普表示他不在乎鲍威尔是否继续留在美联储理事会",
+    "summary": "President Donald Trump said he did not care if the Federal Reserve’s Jay Powell remained as a governor after his tenure as the central bank’s chair ends.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-says-he-doesn-t-care-if-powell-remains-on-fed-board",
+    "published": "Thu, 30 Apr 2026 19:50:55 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:47.217163"
-  },
-  {
-    "id": "ad9a69bb7525",
-    "title": "US Seeks to Deploy Hypersonic Missile for the First Time Against Iran",
-    "title_cn": "美国寻求首次针对伊朗部署高超音速导弹",
-    "summary": "The US is seeking to deploy its hypersonic missile for the first time, for possible use against Iran.\n\nGerry Doyle explains what Dark Eagle is &mdash; and why Russia and China are watching. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/us-seeks-to-deploy-hypersonic-missile-against-iran-video",
-    "published": "Thu, 30 Apr 2026 15:59:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:47.313661"
-  },
-  {
-    "id": "6611c97af3ee",
-    "title": "EU Rejects US Plan to End Metals Tariff Spat and Mulls Response",
-    "title_cn": "欧盟拒绝美国结束金属关税争端的计划并考虑回应",
-    "summary": "The European Union’s biggest economies are unhappy with a US proposal to resolve a metals tariff dispute, injecting fresh uncertainty into final negotiations to implement a stalled trade deal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/eu-rejects-us-plan-to-end-metals-tariff-spat-and-mulls-response",
-    "published": "Thu, 30 Apr 2026 15:55:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:47.415425"
-  },
-  {
-    "id": "7a8eea459f68",
-    "title": "Taiwan Opposition Leader Eyes Trump Meeting After Xi Sitdown",
-    "title_cn": "习近平坐下后，台湾反对党领袖关注特朗普会面",
-    "summary": "The head of Taiwan’s main opposition party said she has asked to meet with President Donald Trump on a planned trip to the US, casting herself as a leader who could prevent a conflict with China through dialogue with the world’s largest economies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/taiwan-opposition-chief-eyes-trump-meeting-after-rare-xi-sitdown",
-    "published": "Thu, 30 Apr 2026 11:00:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:47.669577"
-  },
-  {
-    "id": "c183d4e6b4c0",
-    "title": "Chinese Officials Speak to Bessent, Rubio About Taiwan, Trade",
-    "title_cn": "中国官员与贝森特和卢比奥讨论台湾和贸易问题",
-    "summary": "Secretary of State Marco Rubio spoke with his Chinese counterpart Wang Yi about the Iran war and an upcoming leaders’ summit between Donald Trump and Xi Jinping, China’s state Xinhua News Agency reported on Thursday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/chinese-officials-speak-to-bessent-rubio-about-taiwan-trade",
-    "published": "Thu, 30 Apr 2026 15:39:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:47.926261"
-  },
-  {
-    "id": "f8e62cfa080a",
-    "title": "Mexican Governor’s Indictment in US Puts Claudia Sheinbaum in a Bind",
-    "title_cn": "墨西哥州长在美国的起诉使克劳迪娅·辛鲍姆陷入困境",
-    "summary": "Less than two years into a presidency rocked by Donald Trump’s unpredictable moves, Mexican leader Claudia Sheinbaum is facing her toughest choice yet in relations with the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/sinaloa-ruben-rocha-indictment-us-move-puts-claudia-sheinbaum-in-a-bind",
-    "published": "Thu, 30 Apr 2026 04:19:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:48.038295"
-  },
-  {
-    "id": "b0e9dd8616c4",
-    "title": "Hegseth Causes ‘Lasting Harm’ to Military, Top Democrat Says",
-    "title_cn": "民主党高层称赫格斯对军队造成“持久伤害”",
-    "summary": "Defense Secretary Pete Hegseth is “causing lasting harm to the military,” the Senate Armed Services Committee’s top Democrat said as the panel hosted the Pentagon chief for a second day of Congressional testimony.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/hegseth-causing-lasting-harm-to-military-top-democrat-says",
-    "published": "Thu, 30 Apr 2026 15:05:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:48.353987"
-  },
-  {
-    "id": "33151397c2ca",
-    "title": "Ukraine Strikes on Russian Oil Assets Climb to Four-Month High",
-    "title_cn": "乌克兰对俄罗斯石油资产的打击升至四个月最高点",
-    "summary": "Ukraine’s attacks on Russian oil infrastructure climbed to the highest monthly level since December, cutting the neighboring nation’s refinery runs to multi-year lows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ukraine-strikes-on-russian-oil-assets-climb-to-four-month-high",
-    "published": "Thu, 30 Apr 2026 15:28:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:48.455842"
-  },
-  {
-    "id": "f9d20bc7e624",
-    "title": "Trump Family-Backed Drone Firm Signs Weapons Deal With US",
-    "title_cn": "特朗普家族支持的无人机公司与美国签署武器协议",
-    "summary": "The US Air Force agreed to buy an undisclosed number of interceptor drones from a company backed by President Donald Trump’s sons, according to the firm, deepening the military’s ties to defense contractors linked to the first family as the US war with Iran enters its third month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-family-backed-drone-firm-signs-weapons-deal-with-us",
-    "published": "Thu, 30 Apr 2026 15:26:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:48.571840"
-  },
-  {
-    "id": "751f1af46156",
-    "title": "BOE's Bailey Says Market Reaction to Rates Decision Is 'Sensible'",
-    "title_cn": "英国央行贝利表示市场对利率决定的反应是“明智的”",
-    "summary": "Bank of England Governor Andrew Bailey said the market reaction to the central bank's decision to keep interest rates unchanged has been \"very sensible,\" adding that recent UK market moves have so far been \"dominated\" by the situation in the Middle East, rather than internal political developments. He was speaking in an interview with Bloomberg's Francine Lacqua.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/bailey-market-reaction-to-boe-rates-decision-sensible-video",
-    "published": "Thu, 30 Apr 2026 15:09:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:48.864509"
-  },
-  {
-    "id": "9d09d4d099cf",
-    "title": "Only Iran-Linked Traffic Moves Through Hormuz Amid Blockades",
-    "title_cn": "在封锁期间，只有与伊朗有关的交通才能通过霍尔木兹",
-    "summary": "A few Iran-linked vessels are making their way through the Strait of Hormuz, as the crucial waterway remains effectively closed to most international shipping amid blockades by both Tehran and the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/hormuz-tracker-only-iran-linked-traffic-moves-amid-blockades",
-    "published": "Thu, 30 Apr 2026 14:53:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.032662"
-  },
-  {
-    "id": "0fd2b4f4edc5",
-    "title": "Lagarde Says She Knows Where ECB Is Headed on Rates",
-    "title_cn": "拉加德表示她知道欧洲央行利率走向",
-    "summary": "European Central Bank President Christine Lagarde said she knows where, directionally, the central bank is headed. She also added the ramp-up in oil and natural gas costs is not yet triggering so-called \"second-round effects.\" Lagarde was speaking to reporters at a press conference following the ECB's decision to keep rates unchanged. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/lagarde-says-she-knows-where-ecb-is-headed-on-rates-video",
-    "published": "Thu, 30 Apr 2026 14:35:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.150394"
+    "fetched_at": "2026-04-30T20:44:57.995208"
   },
   {
     "id": "f3c142a191ce",
@@ -1057,86 +947,186 @@
     "link": "https://www.bloomberg.com/news/articles/2026-04-30/american-flight-heads-to-caracas-as-commercial-flights-resume",
     "published": "Thu, 30 Apr 2026 14:26:14 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.242387"
+    "fetched_at": "2026-04-30T20:44:58.172083"
   },
   {
-    "id": "03b41eededb6",
-    "title": "Hassett on Powell Staying at Fed, Inflation and Oil Spike",
-    "title_cn": "哈塞特谈鲍威尔留在美联储、通胀和石油飙升",
-    "summary": "National Economic Council Director Kevin Hassett says productivity gains should help keep core prices under control and it would be a mistake for the Federal Reserve and ECB to hike rates during what he sees as a temporary oil shock. Speaking on \"Bloomberg Surveillance,\" Hassett also weighs in on Fed Chair Jerome Powell's plans to stay on at the central bank once his term as chairman ends. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/hassett-on-powell-staying-at-fed-inflation-oil-spike-video",
-    "published": "Thu, 30 Apr 2026 14:18:42 GMT",
+    "id": "3b98c0e4fa6d",
+    "title": "Trump Signs Permit for Pipeline from Canada Echoing Keystone XL",
+    "title_cn": "特朗普签署加拿大管道许可证，呼应 Keystone XL",
+    "summary": "US President Donald Trump on Thursday signed a presidential permit authorizing Bridger Pipeline’s project meant to carry Canadian crude to Wyoming &mdash; the latest in years of back-and-forth over oil pipelines linking the countries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-signs-permit-for-pipeline-from-canada-echoing-keystone-xl",
+    "published": "Thu, 30 Apr 2026 19:49:27 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.352973"
+    "fetched_at": "2026-04-30T20:44:58.312042"
   },
   {
-    "id": "5bb67472841f",
-    "title": "Trump Seeks Delays in Jan. 6 Civil Suits During Immunity Appeal",
-    "title_cn": "特朗普寻求在豁免上诉期间推迟 1 月 6 日民事诉讼",
-    "summary": "Police officers and Democratic lawmakers suing to hold Donald Trump liable for violent riots at the US Capitol more than five years ago face a new round of delays as the president continues to press for immunity against their claims.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-seeks-delays-in-jan-6-civil-suits-during-immunity-appeal",
-    "published": "Thu, 30 Apr 2026 14:14:23 GMT",
+    "id": "74e8e51ce2e5",
+    "title": "Trump Says Iran Blockade Working as Oil Briefly Hits War’s High",
+    "title_cn": "特朗普称伊朗封锁在石油短暂触及战争高点之际发挥作用",
+    "summary": "President Donald Trump said he was sticking with a naval blockade of Iranian ports even as oil prices hit a wartime high amid concerns the vital Strait of Hormuz would not reopen anytime soon.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-iran-standoff-shows-no-sign-of-easing-as-trump-backs-blockade",
+    "published": "Thu, 30 Apr 2026 08:20:06 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.450987"
+    "fetched_at": "2026-04-30T20:44:59.483802"
   },
   {
-    "id": "e0e4f4c076e9",
-    "title": "How the US Supreme Court Gutted the Voting Rights Act",
-    "title_cn": "美国最高法院如何废除投票权法案",
-    "summary": "Two conservative ideas are behind the Supreme Court’s decision to gut the Voting Rights Act. Bloomberg Opinion columnist and Harvard Law professor Noah Feldman explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/opinion-how-the-supreme-court-gutted-the-vra-video",
-    "published": "Thu, 30 Apr 2026 14:06:23 GMT",
+    "id": "2c4aa156e4a8",
+    "title": "Trump Signs Order Expanding Access to Retirement Plans",
+    "title_cn": "特朗普签署命令扩大退休计划范围",
+    "summary": "President Donald Trump says that every American will be able to open a new low-cost IRA account at TrumpIRA.gov, and low-income Americans will be eligible to receive up to $1,000 per year in matching funds. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/trump-signs-order-expanding-access-to-retirement-plans-video",
+    "published": "Thu, 30 Apr 2026 19:44:52 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.716718"
+    "fetched_at": "2026-04-30T20:44:59.634112"
   },
   {
-    "id": "c403c0ed04a5",
-    "title": "NEC's Hassett Says a Rate Hike Would Be a Mistake Right Now",
-    "title_cn": "NEC 的哈塞​​特表示，现在加息将是一个错误",
-    "summary": "National Economic Council Director Kevin Hassett says productivity gains will help keep core prices under control during an interview on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/hassett-says-a-rate-hike-would-be-a-mistake-right-now-video",
-    "published": "Thu, 30 Apr 2026 14:03:45 GMT",
+    "id": "02e2fd5a57d7",
+    "title": "Trump Nominates Saphier for Surgeon General, Pulls Means",
+    "title_cn": "特朗普提名萨菲尔为卫生局局长，并采取措施",
+    "summary": "President Donald Trump pulled the nomination of wellness entrepreneur Casey Means to be US surgeon general and named Nicole Saphier, a radiologist, to replace her.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-pulls-means-surgeon-general-nomination-white-house-says",
+    "published": "Thu, 30 Apr 2026 16:37:20 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.805353"
+    "fetched_at": "2026-04-30T20:45:00.678859"
   },
   {
-    "id": "7c41d215bcc1",
-    "title": "Lagarde Joins Powell in Rejecting Stagflation Label of 1970s",
-    "title_cn": "拉加德与鲍威尔一起拒绝 20 世纪 70 年代的滞胀标签",
-    "summary": "European Central Bank President Christine Lagarde said stagflation is a label that belongs to the 1970s and shouldn’t be used to describe the current predicament of the euro zone.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/lagarde-joins-powell-in-rejecting-stagflation-label-of-1970s",
-    "published": "Thu, 30 Apr 2026 13:57:42 GMT",
+    "id": "ab98e255d425",
+    "title": "Trump Signs Executive Order to Expand Access to Retirement Plans",
+    "title_cn": "特朗普签署行政命令以扩大退休计划的覆盖范围",
+    "summary": "President Donald Trump signed an executive order aimed at expanding access to retirement plans for workers whose employers don’t offer that benefit, seeking to refocus the administration’s messaging on economic issues.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-to-sign-order-to-expand-access-to-retirement-plans",
+    "published": "Thu, 30 Apr 2026 12:27:40 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.893644"
+    "fetched_at": "2026-04-30T20:45:01.436154"
   },
   {
-    "id": "10c211d3a523",
-    "title": "How North Korea Is Supporting Putin’s War in Ukraine",
-    "title_cn": "朝鲜如何支持普京的乌克兰战争",
-    "summary": "Russia’s war in Ukraine might have taken a different turn without the involvement of North Korea. The weaponry and troops provided by Kim Jong Un’s regime have supported the yearslong bombardment of Ukrainian towns and cities, and also helped repel a surprise Ukrainian incursion into Russian territory in 2024.",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/how-north-korea-is-supporting-putin-s-war-in-ukraine",
-    "published": "Thu, 30 Apr 2026 13:55:29 GMT",
+    "id": "25bee21f69e0",
+    "title": "House Votes to End DHS Shutdown | Balance of Power: Early Edition 4/30/2026",
+    "title_cn": "众议院投票结束国土安全部关闭|权力平衡：早期版本 2026 年 4 月 30 日",
+    "summary": "On the early edition of Balance of Power,  Bloomberg Washington Correspondent Joe Mathieu discusses the House vote to end the longest partial government shutdown in US history and provide funding to most of the Department of Homeland Security. On today's show, Republican Senator Steve Daines from Montana, Founder and CEO of Echo Canyon Consulting Jon Seaton, Former Special Assistant to President Biden and Democratic Strategist Meghan Hays, and Chatham House Associate Fellow Natasha Hall (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/balance-of-power-early-edition-4-30-2026-video",
+    "published": "Thu, 30 Apr 2026 19:05:42 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:49.992720"
+    "fetched_at": "2026-04-30T20:45:01.592000"
   },
   {
-    "id": "4404df8990b1",
-    "title": "Lagarde Says ECB Debated Options Including Rate Hike",
-    "title_cn": "拉加德称欧洲央行正在讨论包括加息在内的选项",
-    "summary": "European Central Bank President Christine Lagarde says the euro-area economy is “certainly moving away” from the ECB’s baseline scenario, and that policymakers discussed options including a possible rate hike during meetings in Frankfurt. She made the comments at a news conference after officials left the deposit rate at 2%, where it’s been since June 2025.",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/lagarde-says-ecb-debated-options-including-rate-hike-video",
-    "published": "Thu, 30 Apr 2026 13:27:20 GMT",
+    "id": "20f00acd731b",
+    "title": "US Names Vietnam as ‘Priority’ Nation on IP Rights Watch List",
+    "title_cn": "美国将越南列入知识产权观察名单“优先”国家",
+    "summary": "The US Trade Representative identified Vietnam as a top concern in a new report on intellectual property rights, in a move that could prompt a fresh trade investigation into a leading trading partner.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/us-names-vietnam-as-priority-nation-on-ip-rights-watch-list",
+    "published": "Thu, 30 Apr 2026 19:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:50.097051"
+    "fetched_at": "2026-04-30T20:45:01.758426"
   },
   {
-    "id": "b7b134fa38a1",
-    "title": "ECB’s Lagarde Says Economic Outlook ‘Highly Uncertain’",
-    "title_cn": "欧洲央行行长拉加德称经济前景“高度不确定”",
-    "summary": "European Central Bank President Christine Lagarde said the euro-area economic outlook is “highly uncertain” and will depend on how the war in the Middle East, and its impact on global supply chains, unfolds. Lagarde was speaking to reporters at a press conference following the ECB’s decision to keep interest rates unchanged.",
-    "link": "https://www.bloomberg.com/news/videos/2026-04-30/ecb-s-lagarde-says-economic-outlook-highly-uncertain-video",
-    "published": "Thu, 30 Apr 2026 13:16:58 GMT",
+    "id": "3364d415b28b",
+    "title": "Brazil Congress Shortens Bolsonaro Sentence in Defeat for Lula",
+    "title_cn": "巴西国会因卢拉失败而缩短博尔索纳罗的刑期",
+    "summary": "Brazilian lawmakers voted to override President Luiz Inacio Lula da Silva’s veto of a bill to reduce Jair Bolsonaro’s prison sentence, dealing another major blow to the leftist leader ahead of his reelection bid this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/brazil-congress-shortens-bolsonaro-sentence-in-defeat-for-lula",
+    "published": "Thu, 30 Apr 2026 18:42:59 GMT",
     "source": "International",
-    "fetched_at": "2026-04-30T17:05:50.260621"
+    "fetched_at": "2026-04-30T20:45:02.198118"
+  },
+  {
+    "id": "6e0290731486",
+    "title": "Hegseth Calls Anthropic CEO a ‘Lunatic,’ Defends Pentagon AI Use",
+    "title_cn": "Hegseth 称 Anthropic 首席执行官为“疯子”，为五角大楼人工智能的使用辩护",
+    "summary": "Defense Secretary Pete Hegseth said the US doesn’t let artificial intelligence make lethal targeting decisions even as he called Anthropic PBC Chief Executive Officer Dario Amodei an “ideological lunatic” after a recent spat over military use of the company’s chatbot.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/hegseth-calls-amodei-a-lunatic-and-defends-pentagon-use-of-ai",
+    "published": "Thu, 30 Apr 2026 18:40:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:02.351824"
+  },
+  {
+    "id": "966a4c434702",
+    "title": "FDA Panel Votes Against AstraZeneca’s Breast Cancer Drug",
+    "title_cn": "FDA 小组投票反对阿斯利康的乳腺癌药物",
+    "summary": "AstraZeneca Plc failed to persuade a US regulatory review panel about the benefits of its novel breast cancer medicine, creating a hurdle for one of the key drugs in the company’s pipeline.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/fda-panel-votes-against-benefit-of-astra-s-breast-cancer-drug",
+    "published": "Thu, 30 Apr 2026 16:17:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:03.443277"
+  },
+  {
+    "id": "b0e9dd8616c4",
+    "title": "Hegseth Battles Democrats Over Iran War at 60-Day Mark",
+    "title_cn": "赫格斯与民主党就伊朗战争六十天大胜进行斗争",
+    "summary": "Defense Secretary Pete Hegseth’s second day of testimony before Congress provided Democrats an opportunity to criticize the Trump administration over the Iran war, with lawmakers casting the conflict as illegal, unpopular and ill-defined.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/hegseth-causing-lasting-harm-to-military-top-democrat-says",
+    "published": "Thu, 30 Apr 2026 15:05:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:04.620366"
+  },
+  {
+    "id": "ca8e99c12555",
+    "title": "Trump Says Tennessee to Redraw District Maps to Boost GOP",
+    "title_cn": "特朗普称田纳西州将重新绘制选区地图以提振共和党",
+    "summary": "President Donald Trump said Tennessee will redraw its House congressional map following a key Supreme Court decision Wednesday, a move expected to bolster Republicans ahead of what are forecast to be tough midterm elections in November.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/trump-says-tennessse-will-redraw-district-maps-to-boost-gop",
+    "published": "Thu, 30 Apr 2026 17:38:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:05.793613"
+  },
+  {
+    "id": "0887d2c9ba3e",
+    "title": "Iran’s New Supreme Leader Vows to ‘Guard’ Nuclear Tech",
+    "title_cn": "伊朗新任最高领导人誓言“守护”核技术",
+    "summary": "Iran’s new supreme leader pledged to not give up the country’s nuclear or missile technologies in a rare statement on Thursday and signaled Tehran would keep control of the Strait of Hormuz. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/iran-s-new-supreme-leader-vows-to-guard-nuclear-tech-video",
+    "published": "Thu, 30 Apr 2026 17:51:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:05.933493"
+  },
+  {
+    "id": "7a89f7962de9",
+    "title": "Trump Taps Saphier for Surgeon General After Pulling Means Nomination",
+    "title_cn": "特朗普在撤回提名后任命萨菲尔为卫生局局长",
+    "summary": "President Donald Trump named Nicole Saphier, a radiologist to be US surgeon general after pulling the nomination of wellness entrepreneur Casey Means. The reversal is the second time Trump has withdrawn a pick for role of the nation’s top doctor. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-04-30/trump-nominates-saphier-for-surgeon-general-video",
+    "published": "Thu, 30 Apr 2026 17:50:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:06.073785"
+  },
+  {
+    "id": "25430afa7bd1",
+    "title": "How Populist Anger Fuels US ‘Tax the Rich’ Movement",
+    "title_cn": "民粹主义愤怒如何助长美国“向富人征税”运动",
+    "summary": "In March, Washington state passed the first income tax in the state’s history, a 9.9% levy on personal income exceeding $1 million annually. Washington is one of five states led by a Democratic governor that have increased income taxes on the wealthy in the past five years. Several more are considering following suit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-28/taxing-the-rich-why-more-us-states-are-targeting-wealthy-residents",
+    "published": "Tue, 28 Apr 2026 09:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:06.458702"
+  },
+  {
+    "id": "002d2179280f",
+    "title": "ICE Misconduct in Chicago Enabled by Trump Officials, State Says",
+    "title_cn": "州政府称，特朗普官员在芝加哥实施 ICE 不当行为",
+    "summary": "Trump administration officials enabled misconduct by federal immigration and border patrol agents as part of an enforcement crackdown last year in Chicago, which led to mass raids, many arrests and some violent conflicts with protesters, according to an Illinois state investigation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/ice-misconduct-in-chicago-enabled-by-trump-officials-state-says",
+    "published": "Thu, 30 Apr 2026 17:36:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:07.658413"
+  },
+  {
+    "id": "3dd13bcf6b69",
+    "title": "Nigerian Court Clears Path for Unified-Opposition Vote Challenge",
+    "title_cn": "尼日利亚法院为统一反对派投票挑战扫清道路",
+    "summary": "Nigeria’s Supreme Court overturned a ruling that could have derailed the nation’s major opposition party ahead of national elections in 2027.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/nigerian-court-clears-path-for-unified-opposition-vote-challenge",
+    "published": "Thu, 30 Apr 2026 17:35:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:07.807493"
+  },
+  {
+    "id": "803842e6b8a7",
+    "title": "Myanmar Junta Moves Ex-Leader Aung San Suu Kyi to House Arrest",
+    "title_cn": "缅甸军政府将前领导人昂山素季软禁",
+    "summary": "Myanmar’s military-backed government announced Thursday that Aung San Suu Kyi will be moved to house arrest from Naypyidaw Prison to serve her remaining prison term, a conciliatory gesture a few days ahead of the Association of Southeast Asian Nations Summit in the Philippines as the regime seeks international recognition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-30/myanmar-junta-moves-ex-leader-aung-san-suu-kyi-to-house-arrest",
+    "published": "Thu, 30 Apr 2026 17:12:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-04-30T20:45:07.981209"
   }
 ]
