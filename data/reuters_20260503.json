@@ -1,5 +1,45 @@
 [
   {
+    "id": "cb77a123cc0b",
+    "title": "A2 Milk Recalls Batches of US Baby Formula After Toxin Find",
+    "title_cn": "A2 Milk 发现有毒物质后召回多批美国婴儿配方奶粉",
+    "summary": "New Zealand infant formula supplier a2 Milk is recalling batches of product sold in the US after detecting the toxin cereulide.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/a2-milk-recalls-batches-of-us-baby-formula-after-detecting-toxin",
+    "published": "Sun, 03 May 2026 21:28:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:30.571353"
+  },
+  {
+    "id": "cd6dbc1b05bf",
+    "title": "US to Guide Ships Through Hormuz, Blockade Pressures Iran, More",
+    "title_cn": "美国引导船只通过霍尔木兹海峡、封锁对伊朗施压等",
+    "summary": "Source: Bloomberg, 4:46",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-03/us-to-guide-ships-through-hormuz-blockade-pressures-iran-more",
+    "published": "Sun, 03 May 2026 21:44:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:31.863845"
+  },
+  {
+    "id": "ab6d6417beb2",
+    "title": "Trump Says US to Help Some Ships Exit Hormuz",
+    "title_cn": "特朗普表示美国将帮助一些船只驶出霍尔木兹海峡",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-03/iran-war-trump-says-us-to-help-some-ships-exit-hormuz",
+    "published": "Sun, 03 May 2026 21:32:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:31.988465"
+  },
+  {
+    "id": "91a5ef101f07",
+    "title": "US to Help Some Ships Exit Hormuz, Bessent on Iran Oil Pressure",
+    "title_cn": "美国将帮助部分船只驶出霍尔木兹海峡，应对伊朗石油压力",
+    "summary": "Source: Bloomberg, 5:18",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-03/us-to-help-some-ships-exit-hormuz-bessent-on-iran-oil-pressure",
+    "published": "Sun, 03 May 2026 21:05:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:32.911829"
+  },
+  {
     "id": "4bc765420a07",
     "title": "CFOs Reshape Teams as AI Hits Junior Roles",
     "title_cn": "随着人工智能进入初级职位，首席财务官重塑团队",
@@ -7,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-03/cfos-reshape-finance-teams-as-ai-hits-junior-roles",
     "published": "Sun, 03 May 2026 20:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:47.067877"
+    "fetched_at": "2026-05-03T22:25:33.027191"
   },
   {
     "id": "a31c42dfc07d",
@@ -17,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-weighs-iran-proposal-bessent-on-iran-oil-pressure-more",
     "published": "Sun, 03 May 2026 19:58:04 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:47.304837"
+    "fetched_at": "2026-05-03T22:25:33.151019"
   },
   {
     "id": "aefffc8ccf89",
@@ -27,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-weighs-iran-peace-proposal-rubio-to-visit-italy-more",
     "published": "Sun, 03 May 2026 18:11:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:47.562588"
+    "fetched_at": "2026-05-03T22:25:34.004911"
   },
   {
     "id": "5fa6c4d39b75",
@@ -37,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/uk-carrier-attacked-in-hormuz-trump-reviews-iran-proposal-more",
     "published": "Sun, 03 May 2026 16:27:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:47.714239"
+    "fetched_at": "2026-05-03T22:25:34.118927"
   },
   {
     "id": "50106d190c45",
@@ -47,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/bloomberg-this-weekend-iran-proposal-spirit-shutters-podcast",
     "published": "Sun, 03 May 2026 15:25:29 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:47.972842"
+    "fetched_at": "2026-05-03T22:25:34.239294"
   },
   {
     "id": "242727fc0bcb",
@@ -57,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-weighs-new-iran-peace-offer-spirit-shutdown-fallout-more",
     "published": "Sun, 03 May 2026 14:38:36 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:48.135100"
+    "fetched_at": "2026-05-03T22:25:34.774381"
   },
   {
     "id": "a01ac35fd686",
@@ -67,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-meeting-highlights-tough-balancing-act-for-greg-abel",
     "published": "Sat, 02 May 2026 18:16:31 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:48.392895"
+    "fetched_at": "2026-05-03T22:25:35.113447"
   },
   {
     "id": "e6a7f1e4954a",
@@ -77,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-casts-doubt-on-iran-proposal-tanker-crosses-hormuz-more",
     "published": "Sun, 03 May 2026 12:43:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:48.547214"
+    "fetched_at": "2026-05-03T22:25:35.249069"
   },
   {
     "id": "848f78ff3201",
@@ -87,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/what-s-happening-in-em-no-room-for-error-in-em-bonds-podcast",
     "published": "Sun, 03 May 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:48.814564"
+    "fetched_at": "2026-05-03T22:25:35.676657"
   },
   {
     "id": "5cdb1750825a",
@@ -97,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-reviewing-new-iranian-peace-proposal-opec-hike-more",
     "published": "Sun, 03 May 2026 11:46:35 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:49.085071"
+    "fetched_at": "2026-05-03T22:25:36.873750"
   },
   {
     "id": "1a40889ce849",
@@ -107,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/trump-weighs-iran-peace-offer-spirit-shutdown-fallout-more",
     "published": "Sun, 03 May 2026 10:30:52 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:49.326387"
+    "fetched_at": "2026-05-03T22:25:37.020050"
   },
   {
     "id": "ddf3642ede6a",
@@ -117,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-04-30/the-age-of-6-gas-has-arrived-in-california",
     "published": "Thu, 30 Apr 2026 10:47:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:49.583249"
+    "fetched_at": "2026-05-03T22:25:37.145396"
   },
   {
     "id": "83b80d411826",
@@ -127,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-03/berkshire-s-record-cash-pile-spirit-customers-scramble-more",
     "published": "Sun, 03 May 2026 00:45:38 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:49.726720"
+    "fetched_at": "2026-05-03T22:25:37.281034"
   },
   {
     "id": "decef0274417",
@@ -137,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/golden-tempo-wins-kentucky-derby-berkshire-s-cash-pile-more",
     "published": "Sat, 02 May 2026 23:22:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:49.975094"
+    "fetched_at": "2026-05-03T22:25:37.395306"
   },
   {
     "id": "ed1d2d78070c",
@@ -147,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-s-397-bil-cash-pile-spirit-grounded-for-good-more",
     "published": "Sat, 02 May 2026 22:00:59 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:50.215568"
+    "fetched_at": "2026-05-03T22:25:37.506767"
   },
   {
     "id": "d46d4b43c0ec",
@@ -157,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-s-record-cash-pile-spirit-customers-scramble-more",
     "published": "Sat, 02 May 2026 20:34:26 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:50.376250"
+    "fetched_at": "2026-05-03T22:25:37.635287"
   },
   {
     "id": "84b6fdf29082",
@@ -167,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-s-record-cash-pile-spirit-airlines-shuts-down-more",
     "published": "Sat, 02 May 2026 18:51:28 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:50.620092"
+    "fetched_at": "2026-05-03T22:25:37.741520"
   },
   {
     "id": "de5039792826",
@@ -177,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/spirit-shutdown-spurs-airline-scramble-for-stranded-travelers",
     "published": "Sat, 02 May 2026 12:37:10 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:50.865040"
+    "fetched_at": "2026-05-03T22:25:37.839962"
   },
   {
     "id": "5f5a9cfd668a",
@@ -187,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/bloomberg-this-weekend-spirit-airlines-shuts-down-podcast",
     "published": "Sat, 02 May 2026 15:36:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:51.131341"
+    "fetched_at": "2026-05-03T22:25:37.968838"
   },
   {
     "id": "878e57a465d0",
@@ -197,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-hits-record-cash-pile-spirit-customers-scramble-more",
     "published": "Sat, 02 May 2026 15:33:43 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:51.368201"
+    "fetched_at": "2026-05-03T22:25:38.095683"
   },
   {
     "id": "48c003795b9a",
@@ -207,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-02/gerresheimer-s-accounting-debacle-has-german-investors-on-edge",
     "published": "Sat, 02 May 2026 15:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:51.634749"
+    "fetched_at": "2026-05-03T22:25:38.193521"
   },
   {
     "id": "fad4a7b0e8d4",
@@ -217,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-hathaway-s-cash-surges-spirit-airlines-closure-more",
     "published": "Sat, 02 May 2026 14:35:47 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:51.776174"
+    "fetched_at": "2026-05-03T22:25:38.339789"
   },
   {
     "id": "12522a933e7e",
@@ -227,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/thyssenkrupp-jindal-steel-pause-talks-on-steel-unit-stake",
     "published": "Sat, 02 May 2026 13:28:30 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:51.921589"
+    "fetched_at": "2026-05-03T22:25:38.471628"
   },
   {
     "id": "82b16c597670",
@@ -237,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/berkshire-hits-record-cash-pile-spirit-shuts-down-more",
     "published": "Sat, 02 May 2026 13:24:28 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:52.165916"
+    "fetched_at": "2026-05-03T22:25:38.607054"
   },
   {
     "id": "61953710f0e5",
@@ -247,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/corporate-america-earnings-beat-back-wall-street-s-wall-of-worry",
     "published": "Sat, 02 May 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:52.411658"
+    "fetched_at": "2026-05-03T22:25:38.736286"
   },
   {
     "id": "d5b08453de04",
@@ -257,47 +297,57 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-02/spirit-airlines-shuts-down-berkshire-hathaway-earnings-more",
     "published": "Sat, 02 May 2026 12:14:11 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:52.668362"
+    "fetched_at": "2026-05-03T22:25:38.864139"
   },
   {
-    "id": "3eae2db4370e",
-    "title": "Spirit Shuts, Grounds Flights, Trump 'Terminates' Iran War, More",
-    "title_cn": "精神关闭、航班停飞、特朗普“终止”伊朗战争等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-02/spirit-shuts-grounds-flights-trump-terminates-iran-war-more",
-    "published": "Sat, 02 May 2026 11:24:25 GMT",
+    "id": "ede4ab3c463e",
+    "title": "NAB Profit Misses Estimates as Software Costs Weigh on Bank",
+    "title_cn": "由于软件成本给银行带来压力，国民银行利润低于预期",
+    "summary": "National Australia Bank Ltd. missed first-half profit estimates as robust loan growth was offset by higher software costs and credit provisions as the economy deteriorates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/nab-profit-misses-estimates-as-software-costs-weigh-on-bank",
+    "published": "Sun, 03 May 2026 22:11:55 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:52.929412"
+    "fetched_at": "2026-05-03T22:25:39.448842"
   },
   {
-    "id": "28d79174f6bc",
-    "title": "Spirit Airlines Shuts Operations, Trump Slams Iran Talks, More",
-    "title_cn": "精神航空公司关闭运营、特朗普猛烈抨击伊朗谈判等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-02/spirit-airlines-shuts-operations-trump-slams-iran-talks-more",
-    "published": "Sat, 02 May 2026 10:09:40 GMT",
+    "id": "c90e74b688f4",
+    "title": "Oil Falls as Trump Says US to Start Guiding Ships Through Hormuz",
+    "title_cn": "特朗普表示美国将开始引导船只通过霍尔木兹海峡，油价下跌",
+    "summary": "Oil dropped as President Donald Trump said the US would begin guiding neutral ships through the Strait of Hormuz and signaled progress on talks with Iran to end the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/latest-oil-market-news-and-analysis-for-may-4",
+    "published": "Sun, 03 May 2026 22:01:43 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:53.096756"
+    "fetched_at": "2026-05-03T22:25:39.566939"
   },
   {
-    "id": "fe4631acd516",
-    "title": "Farage’s Reform Dials Back Pledges After First Shot at Governing",
-    "title_cn": "法拉奇的改革在第一次执政后收回了承诺",
-    "summary": "Life in government for Nigel Farage’s insurgent Reform party has been sobering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/farage-s-reform-dials-back-pledges-after-first-shot-at-governing",
-    "published": "Sat, 02 May 2026 05:00:00 GMT",
+    "id": "89035800539f",
+    "title": "Mideast Peace Efforts in Focus as Trading Resumes: Markets Wrap",
+    "title_cn": "随着交易恢复，中东和平努力成为焦点：市场总结",
+    "summary": "The month-long surge in risky assets faces another test as investors gauge the viability of the latest Mideast truce proposals and await a key US employment report to assess the war’s economic impact.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/mideast-peace-efforts-in-focus-as-trading-resumes-markets-wrap",
+    "published": "Sun, 03 May 2026 20:00:04 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:53.252513"
+    "fetched_at": "2026-05-03T22:25:39.687157"
   },
   {
-    "id": "579619fbebba",
-    "title": "Why Investors Should Be Wary of AI Job Cutters",
-    "title_cn": "为什么投资者应该警惕人工智能裁员",
-    "summary": "Short-term savings will do long-term damage to companies that give in to termination temptation.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-02/ai-is-coming-for-your-job-and-your-mind",
-    "published": "Sat, 02 May 2026 04:01:01 GMT",
+    "id": "c4ecee929f85",
+    "title": "Trillions in Retirement Dollars Flow Into Opaque Trusts",
+    "title_cn": "数万亿退休金流入不透明信托",
+    "summary": "<p>A little-talked about investment product is taking over the 401(k) world, and offering asset managers a way to increase exposure to private markets.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-05-03/trillions-in-us-retirement-dollars-flow-into-opaque-trusts-that-rival-etfs",
+    "published": "Sun, 03 May 2026 21:00:18 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:53.407071"
+    "fetched_at": "2026-05-03T22:25:39.803722"
+  },
+  {
+    "id": "9ff372901995",
+    "title": "Trump Says US to Help Some Ships Leave Hormuz Starting Monday",
+    "title_cn": "特朗普表示美国将从周一开始帮助一些船只离开霍尔木兹",
+    "summary": "President Donald Trump says the US will help some ships leave Hormuz staring on Monday morning, Middle Eastern Time.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/trump-says-us-to-help-some-ships-leave-hormuz-starting-monday",
+    "published": "Sun, 03 May 2026 20:43:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:39.910562"
   },
   {
     "id": "3bec27e7377a",
@@ -307,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/treasury-market-on-watch-for-shift-in-yellen-era-debt-playbook",
     "published": "Sun, 03 May 2026 19:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:53.905534"
+    "fetched_at": "2026-05-03T22:25:40.030643"
   },
   {
     "id": "797224ae5cbf",
@@ -317,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/bond-traders-look-to-treasury-refunding-fed-speakers-and-jobs",
     "published": "Sun, 03 May 2026 19:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.063090"
+    "fetched_at": "2026-05-03T22:25:40.147778"
   },
   {
     "id": "5c1e5e18e59c",
@@ -327,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/schumer-says-house-white-house-must-ban-prediction-market-bets",
     "published": "Sun, 03 May 2026 18:27:15 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.212729"
+    "fetched_at": "2026-05-03T22:25:40.249690"
   },
   {
     "id": "4b7cfba35639",
@@ -337,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/bloomberg-this-weekend-5-3-2026-video",
     "published": "Sun, 03 May 2026 17:18:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.375507"
+    "fetched_at": "2026-05-03T22:25:40.365218"
   },
   {
     "id": "ce1c6b1f117c",
@@ -347,7 +397,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/kiley-iran-cannot-be-allowed-to-get-a-nuclear-weapon-video",
     "published": "Sun, 03 May 2026 16:15:18 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.525753"
+    "fetched_at": "2026-05-03T22:25:40.465371"
   },
   {
     "id": "846c3fb1de95",
@@ -357,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/opec-agrees-to-symbolic-june-quota-increase-delegates-say",
     "published": "Sun, 03 May 2026 10:27:47 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.676852"
+    "fetched_at": "2026-05-03T22:25:40.572830"
   },
   {
     "id": "0cdfa1c34e58",
@@ -367,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/fcc-condemns-early-abc-license-review-video",
     "published": "Sun, 03 May 2026 15:24:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:54.922375"
+    "fetched_at": "2026-05-03T22:25:40.698503"
   },
   {
     "id": "5d36a87e6a48",
@@ -377,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/pointed-news-quiz-ai-marathon-toys-video",
     "published": "Sun, 03 May 2026 15:40:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.060523"
+    "fetched_at": "2026-05-03T22:25:40.818072"
   },
   {
     "id": "d13f93ec8dad",
@@ -387,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/bloomberg-dispatch-it-s-a-weird-time-to-be-named-claude-video",
     "published": "Sun, 03 May 2026 15:35:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.202902"
+    "fetched_at": "2026-05-03T22:25:41.191035"
   },
   {
     "id": "117a286d9b42",
@@ -397,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/btw-goop-kitchen-ozempic-breath-hotspan-video",
     "published": "Sun, 03 May 2026 15:03:36 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.467539"
+    "fetched_at": "2026-05-03T22:25:41.299757"
   },
   {
     "id": "31294609af63",
@@ -407,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/sharapova-s-pretty-tough-smashes-podcast-manosphere-video",
     "published": "Sun, 03 May 2026 14:48:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.612851"
+    "fetched_at": "2026-05-03T22:25:41.406268"
   },
   {
     "id": "00b90b424f70",
@@ -417,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war",
     "published": "Sat, 02 May 2026 20:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.771807"
+    "fetched_at": "2026-05-03T22:25:41.512402"
   },
   {
     "id": "4bce6078f81c",
@@ -427,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/las-vegas-is-gambling-on-its-own-reinvention-video",
     "published": "Sun, 03 May 2026 14:04:55 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:55.918160"
+    "fetched_at": "2026-05-03T22:25:41.626999"
   },
   {
     "id": "362cccd30fb7",
@@ -437,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/traders-grapple-with-two-sided-tail-risk-as-stocks-regain-highs",
     "published": "Sun, 03 May 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:56.135990"
+    "fetched_at": "2026-05-03T22:25:41.745273"
   },
   {
     "id": "a2b659b16344",
@@ -447,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/us-navy-taps-ai-firm-to-clear-mines-in-strait-of-hormuz-video",
     "published": "Sun, 03 May 2026 13:42:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:56.288205"
+    "fetched_at": "2026-05-03T22:25:41.873126"
   },
   {
     "id": "6efa64e80a19",
@@ -457,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/us-is-oil-supplier-of-last-resort-as-hormuz-disruptions-worsen",
     "published": "Sun, 03 May 2026 13:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:56.544388"
+    "fetched_at": "2026-05-03T22:25:41.988138"
   },
   {
     "id": "7d853537624f",
@@ -467,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/big-tech-earnings-show-split-between-ai-trade-winners-and-losers",
     "published": "Sun, 03 May 2026 13:00:07 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:56.833019"
+    "fetched_at": "2026-05-03T22:25:42.223877"
   },
   {
     "id": "17bf92db2d42",
@@ -477,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/-no-margin-for-error-sparks-rush-for-hedges-in-emerging-bonds",
     "published": "Sun, 03 May 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:56.984449"
+    "fetched_at": "2026-05-03T22:25:42.335993"
   },
   {
     "id": "8f676bea5fc5",
@@ -487,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/sununu-spirit-bailout-made-no-financial-sense-video",
     "published": "Sun, 03 May 2026 12:21:58 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:57.231226"
+    "fetched_at": "2026-05-03T22:25:42.457342"
   },
   {
     "id": "50d39cb21f7a",
@@ -497,17 +547,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/the-energy-source-hiding-beneath-your-feet-video",
     "published": "Sun, 03 May 2026 12:04:12 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:57.477419"
+    "fetched_at": "2026-05-03T22:25:42.628869"
   },
   {
     "id": "c393ee32d32d",
     "title": "Argentines Keep Cash Under Mattresses Even as Milei Pushes Bank Accounts",
-    "title_cn": "即使米莱推入银行账户，阿根廷人仍将现金放在床垫下",
+    "title_cn": "阿根廷人将现金藏在床垫下，尽管米雷却在银行账户上存钱",
     "summary": "You’d be surprised how damp and smelly dollar bills get, Alejandro Lamas says, when they’ve been squirreled away under a mattress for years. He’s gotten so many stacks of them from Argentines he’s sold used cars to over the years that he’s a bit of a connoisseur. Slip him a counterfeit and he knows at first touch.",
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/usd-ars-milei-struggles-to-convince-argentines-to-put-cash-in-savings-accounts",
     "published": "Sun, 03 May 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:57.631606"
+    "fetched_at": "2026-05-03T22:25:42.747210"
   },
   {
     "id": "11753a806065",
@@ -517,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/fire-put-out-at-russia-s-primorsk-port-from-drone-governor-says",
     "published": "Sun, 03 May 2026 07:52:12 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:57.927969"
+    "fetched_at": "2026-05-03T22:25:42.861282"
   },
   {
     "id": "ff0a5f041f04",
@@ -527,67 +577,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/adnoc-to-speed-growth-with-55-billion-project-awards-post-opec",
     "published": "Sun, 03 May 2026 10:36:19 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.174921"
+    "fetched_at": "2026-05-03T22:25:42.969994"
   },
   {
-    "id": "5c1453260442",
-    "title": "Beijing Tells China Firms to Ignore US Sanctions on Refiners",
-    "title_cn": "北京要求中国企业无视美国对炼油商的制裁",
-    "summary": "China ordered companies in the country not to comply with US sanctions on five domestic refiners linked to the Iranian oil trade, deploying a blocking measure introduced in 2021 that was aimed at protecting its firms from foreign laws it deemed unjustified.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners",
-    "published": "Sat, 02 May 2026 13:35:33 GMT",
+    "id": "bf972845c365",
+    "title": "Jimmy Kimmel Reignites Trump’s War on Disney",
+    "title_cn": "吉米·金梅尔重燃特朗普对迪士尼的战争",
+    "summary": "Brendan Carr doesn’t need Disney to cancel Jimmy Kimmel to declare victory",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-03/jimmy-kimmel-brendan-carr-reignite-trump-s-war-on-disney",
+    "published": "Sun, 03 May 2026 22:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.329362"
-  },
-  {
-    "id": "f146a2fbff5a",
-    "title": "HORMUZ TRACKER: Traffic Halts as Trump Weighs Iran’s New Offer",
-    "title_cn": "霍尔木兹追踪器：特朗普权衡伊朗的新提议，交通停止",
-    "summary": "Traffic through the Strait of Hormuz has come to a virtual standstill while US President Donald Trump weighs Tehran’s latest peace proposal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-03/hormuz-tracker-traffic-halts-as-trump-weighs-iran-s-new-offer",
-    "published": "Sun, 03 May 2026 09:58:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.471629"
-  },
-  {
-    "id": "d74a80a58b06",
-    "title": "Takaichi Set for Australia Visit to Strengthen Japan Alliance",
-    "title_cn": "高市将访问澳大利亚以加强日本同盟",
-    "summary": "Japan’s prime minister is set to arrive in Australia to strengthen ties with one of her country’s strongest allies as she seeks to build on an updated regional strategy laid out in Vietnam.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-03/takaichi-set-for-australia-visit-to-strengthen-japan-alliance",
-    "published": "Sun, 03 May 2026 07:13:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.638047"
-  },
-  {
-    "id": "065dff8e6e4d",
-    "title": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit",
-    "title_cn": "阿联酋意外退出后，欧佩克+会议提供了展示团结的机会",
-    "summary": "This weekend’s talks among OPEC+ nations provide the oil producer group with an opportunity to project unity after the shock departure of longtime member the United Arab Emirates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-03/opec-meeting-offers-chance-to-show-unity-after-uae-s-shock-exit",
-    "published": "Sun, 03 May 2026 07:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.790168"
-  },
-  {
-    "id": "7c1f2f0c045a",
-    "title": "Philippines Accuses China of Conducting Illegal Marine Research",
-    "title_cn": "菲律宾指责中国进行非法海洋研究",
-    "summary": "The Philippine Coast Guard said four Chinese vessels were conducting illegal marine scientific research in its waters and threatened to deploy aircraft and boats to repel them.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-03/philippines-accuses-china-of-conducting-illegal-marine-research",
-    "published": "Sun, 03 May 2026 06:52:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:03:58.950415"
-  },
-  {
-    "id": "c585f71d051e",
-    "title": "Oil Tanker Pricing Feud Embroils Centuries-Old London Market",
-    "title_cn": "油轮定价之争持续了几个世纪——老伦敦市场",
-    "summary": "A legal claim from one of the world’s largest oil traders is throwing a spotlight on an arcane but critical corner of global finance &mdash; the multibillion-dollar freight market and the 282-year-old City of London institution that sits at the heart of it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/oil-tanker-pricing-feud-embroils-a-centuries-old-london-market",
-    "published": "Sat, 02 May 2026 11:32:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:03:59.129838"
+    "fetched_at": "2026-05-03T22:25:43.486039"
   },
   {
     "id": "a0aa6af1b40b",
@@ -597,7 +597,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-03/how-will-john-ternus-run-apple-as-ceo-with-more-investments-fewer-buybacks",
     "published": "Sun, 03 May 2026 14:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:59.531877"
+    "fetched_at": "2026-05-03T22:25:43.602620"
   },
   {
     "id": "47556772411d",
@@ -607,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/malaysia-s-anti-graft-agency-to-quiz-ex-minister-over-arm-deal",
     "published": "Sun, 03 May 2026 02:42:42 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:59.705976"
+    "fetched_at": "2026-05-03T22:25:43.703557"
   },
   {
     "id": "443c4faaa261",
@@ -617,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/asian-stocks-soar-as-nvidia-increases-supply-chain-reliance-to-90-in-asia",
     "published": "Sun, 03 May 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:03:59.860259"
+    "fetched_at": "2026-05-03T22:25:43.822499"
   },
   {
     "id": "6c1879814b54",
@@ -627,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-01/russian-charged-in-oil-and-gas-facility-hacks-pleads-guilty",
     "published": "Fri, 01 May 2026 16:43:45 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.012179"
+    "fetched_at": "2026-05-03T22:25:43.941201"
   },
   {
     "id": "e1310571f5f7",
@@ -637,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-02/actor-ben-mckenzie-explores-cryptocurrency-fraud-in-doc-video",
     "published": "Sat, 02 May 2026 15:35:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.158651"
+    "fetched_at": "2026-05-03T22:25:44.056337"
   },
   {
     "id": "568f69803d9f",
@@ -647,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-02/why-vibe-coding-isn-t-the-end-of-the-software-engineer-video",
     "published": "Sat, 02 May 2026 14:04:46 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.310796"
+    "fetched_at": "2026-05-03T22:25:44.164481"
   },
   {
     "id": "eb38ad5dc23b",
@@ -657,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-02/inside-the-booming-market-for-dinosaur-fossils-video",
     "published": "Sat, 02 May 2026 08:12:58 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.458147"
+    "fetched_at": "2026-05-03T22:25:44.279317"
   },
   {
     "id": "a5669c95174e",
@@ -667,17 +667,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/chinese-court-rules-firms-can-t-lay-off-workers-on-ai-grounds",
     "published": "Sat, 02 May 2026 08:10:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.705448"
+    "fetched_at": "2026-05-03T22:25:44.382055"
   },
   {
     "id": "6c4055e02bed",
     "title": "Microsoft, Amazon Hand Pentagon More Control Over AI Systems",
-    "title_cn": "微软、亚马逊让五角大楼对人工智能系统有更多控制权",
+    "title_cn": "微软和亚马逊让五角大楼对人工智能系统有更多控制权",
     "summary": "The Pentagon has struck agreements with more technology companies for expanded use of advanced artificial intelligence tools on classified military networks, according to a Defense Department statement and two defense officials briefed on the matter.",
     "link": "https://www.bloomberg.com/news/articles/2026-05-01/nvidia-microsoft-aws-expanding-classified-military-ai-use",
     "published": "Fri, 01 May 2026 11:03:32 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.850212"
+    "fetched_at": "2026-05-03T22:25:44.484039"
   },
   {
     "id": "75b36e94cb59",
@@ -687,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-01/milken-conference-2026-private-credit-golden-age-fades-for-blue-owl-ares",
     "published": "Fri, 01 May 2026 11:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:00.980382"
+    "fetched_at": "2026-05-03T22:25:44.629983"
   },
   {
     "id": "9a4985fc6ff2",
@@ -697,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/musk-s-trial-against-openai-hits-some-rough-spots-in-first-week",
     "published": "Sat, 02 May 2026 00:24:04 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:01.117375"
+    "fetched_at": "2026-05-03T22:25:44.758193"
   },
   {
     "id": "dd29a5db6d1b",
@@ -707,77 +707,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-01/ebay-soars-on-report-that-gamestop-is-preparing-a-takeover-bid",
     "published": "Fri, 01 May 2026 21:50:15 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:01.255895"
+    "fetched_at": "2026-05-03T22:25:44.894914"
   },
   {
-    "id": "d51314cd6083",
-    "title": "Apple Raises Mac Mini’s Starting Price to $799 After AI Frenzy Drains Supply",
-    "title_cn": "AI 狂热耗尽供应后，苹果将 Mac Mini 的起价提高至 799 美元",
-    "summary": "Apple Inc. raised the starting price of its Mac mini desktop to $799 from $599, adjusting to inventory shortages driven by AI demand and the tight supply of processors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/apple-raises-mac-mini-s-starting-price-to-799-after-ai-frenzy-drains-supply",
-    "published": "Fri, 01 May 2026 20:31:40 GMT",
+    "id": "3576c2698c61",
+    "title": "Trump Says US to Start Guiding Trapped Ships Through Hormuz",
+    "title_cn": "特朗普表示美国将开始引导被困船只通过霍尔木兹海峡",
+    "summary": "President Donald Trump said the US will begin guiding some neutral ships trapped in the Persian Gulf out through the Strait of Hormuz starting Monday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/trump-says-us-to-help-some-ships-leave-hormuz-starting-monday-moq8rux1",
+    "published": "Sun, 03 May 2026 20:47:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:01.514044"
+    "fetched_at": "2026-05-03T22:25:45.427699"
   },
   {
-    "id": "50012dd8928d",
-    "title": "Fmr. BET CEO Debra Lee on Media Landscape, Handbag Line",
-    "title_cn": "先生。 BET 首席执行官 Debra Lee 谈媒体格局、手袋系列",
-    "summary": "Former BET Chair & CEO Debra Lee discusses the changing media landscape, why good content will always find its audience, and her new luxury handbag line. She talks with Romaine Bostick for \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-01/digi-debra-lee-pretape-video",
-    "published": "Fri, 01 May 2026 20:45:28 GMT",
+    "id": "fda2444419bf",
+    "title": "ICE Operation in Brooklyn Sparks Skirmishes and Complaints",
+    "title_cn": "布鲁克林 ICE 行动引发小冲突和投诉",
+    "summary": "Federal immigration agents arrested a Nigerian national in Brooklyn late Saturday, setting off a confrontation with protesters outside a local hospital and sparking criticism from some New York City officials.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/ice-operation-in-brooklyn-sparks-skirmishes-and-complaints",
+    "published": "Sun, 03 May 2026 21:55:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:01.664124"
+    "fetched_at": "2026-05-03T22:25:45.737671"
   },
   {
-    "id": "35764c5d167c",
-    "title": "Apple Forecast Tops Estimates Even as Mac Shortages Linger",
-    "title_cn": "尽管 Mac 短缺问题依然存在，但苹果的预测仍高于预期",
-    "summary": "Apple Inc. delivered a surprisingly strong revenue forecast for the third quarter, even as it warned that memory-chip costs will increase and that shortages of Mac computers will persist for “several months.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-04-30/apple-tops-sales-estimates-after-iphone-mac-help-fuel-growth",
-    "published": "Thu, 30 Apr 2026 20:35:02 GMT",
+    "id": "5d9d5cd030b7",
+    "title": "UK Set to Enter Talks to Join EU’s €90 Billion Ukraine Loan Plan",
+    "title_cn": "英国将就加入欧盟900亿欧元乌克兰贷款计划进行谈判",
+    "summary": "The UK is set to enter talks to join the European Union’s €90 billion ($105 billion) Ukraine loan plan, underlining what the British government describes as “growing defense ties” between London and Brussels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/uk-set-to-enter-talks-to-join-eu-s-90-billion-ukraine-loan-plan",
+    "published": "Sun, 03 May 2026 21:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:01.820704"
+    "fetched_at": "2026-05-03T22:25:45.863094"
   },
   {
-    "id": "06241f311a40",
-    "title": "Shopify Analyst Who Saw Selloff Coming Says Too Soon to Buy",
-    "title_cn": "看到抛售即将到来的 Shopify 分析师表示，现在买入还为时过早",
-    "summary": "The analyst who slapped the only sell rating on Shopify Inc. over valuation concerns ahead of its blistering rout said it’s still too soon to jump back in.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/shopify-analyst-who-saw-selloff-coming-says-it-s-too-soon-to-buy",
-    "published": "Fri, 01 May 2026 11:15:00 GMT",
+    "id": "7556d911e58c",
+    "title": "Mexico’s Ruling Morena Party Taps Montiel as New Leader",
+    "title_cn": "墨西哥执政党莫雷纳党任命蒙蒂尔为新领导人",
+    "summary": "Mexico’s ruling political party has chosen a former member of President Claudia Sheinbaum’s cabinet as its new leader.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-03/mexico-s-ruling-morena-party-taps-montiel-as-new-leader",
+    "published": "Sun, 03 May 2026 20:34:15 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:02.070404"
-  },
-  {
-    "id": "7e5029009679",
-    "title": "Disney’s New CEO Is Exploring a ‘Super App’ For Theme Park Tickets, Movies and More",
-    "title_cn": "迪士尼新任首席执行官正在探索主题公园门票、电影等的“超级应用程序”",
-    "summary": "Walt Disney Co. senior executives are discussing how to unify the company’s disparate mobile apps and turn its streaming service into the first stop for all things Disney, a place where users can book park tickets, buy merchandise, play games and watch movies, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/disney-is-exploring-a-super-app-for-theme-park-tickets-movies-and-more",
-    "published": "Fri, 01 May 2026 20:28:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:02.218735"
-  },
-  {
-    "id": "bbb192cf3b62",
-    "title": "US Stocks Close at New Record High Capping Solid Earnings Week",
-    "title_cn": "美国股市收盘创历史新高，为本周稳健的盈利奠定基础",
-    "summary": "The S&amp;P 500 Index extended a record-breaking streak Friday to mark a fifth week of gains after solid earnings from tech mega caps. Oil dropped amid hopes that the US and Iran were getting closer to a ceasefire agreement.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/us-stock-futures-mixed-after-record-as-earnings-week-wraps-up",
-    "published": "Fri, 01 May 2026 12:07:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:02.384316"
-  },
-  {
-    "id": "ee6defb3c6ec",
-    "title": "Nuclear AI Startup Fermi Promised Land and Ample Power. But It Couldn't Sign a Single Client",
-    "title_cn": "核人工智能初创公司费米承诺土地和充足的电力。但它无法签署单个客户",
-    "summary": "<p>Now the ex-CEO is waging a battle for Fermi’s future&nbsp;and its vision of atomic-powered data centers&nbsp;in the Texas panhandle.&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/nuclear-ai-startup-fermi-ousts-co-founder-over-lack-of-clients",
-    "published": "Fri, 01 May 2026 17:00:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:02.539983"
+    "fetched_at": "2026-05-03T22:25:45.979789"
   },
   {
     "id": "d2a54bae90be",
@@ -787,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/trump-weighs-iranian-peace-offer-without-ruling-out-more-strikes",
     "published": "Sun, 03 May 2026 07:29:54 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.025088"
+    "fetched_at": "2026-05-03T22:25:46.238681"
   },
   {
     "id": "466ad0364bc8",
@@ -797,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/two-us-service-members-go-missing-during-exercise-in-morocco",
     "published": "Sun, 03 May 2026 17:29:11 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.266788"
+    "fetched_at": "2026-05-03T22:25:46.348206"
   },
   {
     "id": "293d27775bef",
@@ -807,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/rubio-plans-italy-visit-after-trump-s-clashes-with-meloni-pope",
     "published": "Sun, 03 May 2026 16:22:39 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.437555"
+    "fetched_at": "2026-05-03T22:25:46.457067"
   },
   {
     "id": "ccaf8f5debf1",
@@ -817,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/rep-fields-we-need-term-limits-on-the-supreme-court-video",
     "published": "Sun, 03 May 2026 15:51:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.685296"
+    "fetched_at": "2026-05-03T22:25:46.572055"
   },
   {
     "id": "599a6cf54bd0",
@@ -827,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/bessent-says-us-is-suffocating-iran-with-oil-industry-creaking",
     "published": "Sun, 03 May 2026 15:21:47 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.838307"
+    "fetched_at": "2026-05-03T22:25:46.691283"
   },
   {
     "id": "9d123724fba6",
@@ -837,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/nigeria-s-obi-quits-opposition-coalition-in-a-boost-for-tinubu",
     "published": "Sun, 03 May 2026 14:45:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:03.979931"
+    "fetched_at": "2026-05-03T22:25:46.800661"
   },
   {
     "id": "ad07c10cea0b",
@@ -847,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/us-house-majority-hinges-on-fewer-swing-seats-after-mid-decade-redistricting",
     "published": "Sun, 03 May 2026 14:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:04.131014"
+    "fetched_at": "2026-05-03T22:25:46.916889"
   },
   {
     "id": "88b972ffe2bd",
@@ -857,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-03/massie-has-given-a-voice-to-sex-abuse-survivors",
     "published": "Sun, 03 May 2026 13:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:04.398739"
+    "fetched_at": "2026-05-03T22:25:47.042872"
   },
   {
     "id": "27681967bbfd",
@@ -867,7 +837,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/greens-polanski-says-marches-don-t-make-jews-actively-unsafe",
     "published": "Sun, 03 May 2026 11:22:12 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:04.844754"
+    "fetched_at": "2026-05-03T22:25:47.565989"
+  },
+  {
+    "id": "5c1453260442",
+    "title": "Beijing Tells China Firms to Ignore US Sanctions on Refiners",
+    "title_cn": "北京要求中国企业无视美国对炼油商的制裁",
+    "summary": "China ordered companies in the country not to comply with US sanctions on five domestic refiners linked to the Iranian oil trade, deploying a blocking measure introduced in 2021 that was aimed at protecting its firms from foreign laws it deemed unjustified.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-02/beijing-tells-chinese-firms-to-ignore-us-sanctions-on-refiners",
+    "published": "Sat, 02 May 2026 13:35:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-03T22:25:47.690900"
   },
   {
     "id": "2d8ed86dda40",
@@ -877,7 +857,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/senegal-s-faye-says-party-at-risk-as-tensions-simmer-with-sonko",
     "published": "Sun, 03 May 2026 09:55:11 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:05.242438"
+    "fetched_at": "2026-05-03T22:25:47.814344"
   },
   {
     "id": "ed49ec57782a",
@@ -887,7 +867,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/how-britain-became-a-disunited-kingdom-in-five-charts",
     "published": "Sun, 03 May 2026 07:15:59 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:05.395779"
+    "fetched_at": "2026-05-03T22:25:47.917882"
   },
   {
     "id": "75f1a929343e",
@@ -897,7 +877,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/guindos-rules-out-return-to-politics-after-ecb-term-ends-pais",
     "published": "Sun, 03 May 2026 07:06:55 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:05.548891"
+    "fetched_at": "2026-05-03T22:25:48.056060"
   },
   {
     "id": "fe84f33cb8c8",
@@ -907,7 +887,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/taiwan-s-lai-arrives-in-eswatini-defying-china-backed-blockade",
     "published": "Sat, 02 May 2026 12:26:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:05.700968"
+    "fetched_at": "2026-05-03T22:25:48.173586"
   },
   {
     "id": "dcedf1b28f1a",
@@ -917,7 +897,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-03/armenia-summits-show-europe-s-caucasus-rivalry-with-trump-putin",
     "published": "Sun, 03 May 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:05.877254"
+    "fetched_at": "2026-05-03T22:25:48.285455"
   },
   {
     "id": "1c2bb600d909",
@@ -927,7 +907,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/albanese-flags-a-1-8-billion-more-for-urgent-care-clinics-as-budget-looms",
     "published": "Sat, 02 May 2026 23:36:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:06.028469"
+    "fetched_at": "2026-05-03T22:25:48.390829"
   },
   {
     "id": "ea8e1ceefd84",
@@ -937,7 +917,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/trump-says-prefers-not-to-strike-iran-even-as-frustration-mounts",
     "published": "Sat, 02 May 2026 08:10:40 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:06.278297"
+    "fetched_at": "2026-05-03T22:25:48.499653"
   },
   {
     "id": "cba5edf95961",
@@ -947,7 +927,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/trump-threatens-deeper-cuts-for-us-troop-presence-in-germany",
     "published": "Sat, 02 May 2026 22:54:06 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:06.435523"
+    "fetched_at": "2026-05-03T22:25:48.613325"
   },
   {
     "id": "a4a443632f8c",
@@ -957,7 +937,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-01/us-plans-to-pull-about-5-000-troops-from-germany-cbs-reports-monfe33s",
     "published": "Fri, 01 May 2026 21:29:17 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:06.580568"
+    "fetched_at": "2026-05-03T22:25:48.720353"
   },
   {
     "id": "4b7516d3673a",
@@ -967,7 +947,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/morocco-s-crown-prince-gets-key-army-role-in-sign-of-elevation",
     "published": "Sat, 02 May 2026 20:06:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:06.841583"
+    "fetched_at": "2026-05-03T22:25:48.887678"
   },
   {
     "id": "952db0d7f6c7",
@@ -977,7 +957,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/mexico-agriculture-minister-replaced-ahead-of-usmca-trade-review",
     "published": "Sat, 02 May 2026 18:25:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.003533"
+    "fetched_at": "2026-05-03T22:25:49.020781"
   },
   {
     "id": "3ddb445ccb61",
@@ -987,7 +967,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/mexican-governor-steps-down-temporarily-after-us-indictment",
     "published": "Sat, 02 May 2026 06:48:35 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.249810"
+    "fetched_at": "2026-05-03T22:25:49.138942"
   },
   {
     "id": "b49ef949126e",
@@ -997,46 +977,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-02/cuba-s-remaining-lifelines-in-peril-as-trump-widens-us-sanctions",
     "published": "Sat, 02 May 2026 16:17:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.413475"
-  },
-  {
-    "id": "64645b87917f",
-    "title": "Columbia’s Outlook Revised to Negative as Trump Slams Colleges",
-    "title_cn": "特朗普猛烈抨击大学，哥伦比亚大学前景下调为负面",
-    "summary": "Columbia University’s credit outlook was revised to negative by Moody’s Ratings, which cited rising risks tied to the “federal environment for higher education.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-01/columbia-risks-losing-top-credit-rating-as-trump-slams-colleges",
-    "published": "Fri, 01 May 2026 22:08:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.645996"
-  },
-  {
-    "id": "3f972c56646e",
-    "title": "No Bailout Needed for Other US Low-Cost Airlines, Duffy Says",
-    "title_cn": "达菲表示，美国其他低成本航空公司不需要救助",
-    "summary": "Transportation Secretary Sean Duffy said he doesn’t think the US government needs to provide financial lifelines for now to other low-cost carriers, following the collapse of Spirit Aviation Holdings Inc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/no-bailouts-needed-for-other-us-low-cost-airlines-duffy-says",
-    "published": "Sat, 02 May 2026 14:26:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.812522"
-  },
-  {
-    "id": "5f13693fa16c",
-    "title": "Spirit Ends Operations After White House Bailout Collapses",
-    "title_cn": "白宫救助失败后，精神号停止运营",
-    "summary": "Spirit Aviation Holdings Inc. is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by President Donald Trump fell through.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart",
-    "published": "Sat, 02 May 2026 06:37:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:07.974980"
-  },
-  {
-    "id": "59703a21e82d",
-    "title": "Russian Tuapse Oil Terminal Fire Extinguished After Attack",
-    "title_cn": "俄罗斯图阿普谢石油码头遇袭后大火被扑灭",
-    "summary": "A fire at a marine terminal in Russia’s Black Sea port of Tuapse was extinguished following Friday’s Ukrainian drone strike, Krasnodar region emergency authorities said on Telegram.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-02/russian-tuapse-oil-terminal-fire-extinguished-after-attack",
-    "published": "Sat, 02 May 2026 10:34:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-03T20:04:08.132994"
+    "fetched_at": "2026-05-03T22:25:49.254089"
   }
 ]
