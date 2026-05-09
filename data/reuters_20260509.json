@@ -1,5 +1,55 @@
 [
   {
+    "id": "7d25e1a314a3",
+    "title": "Bloomberg Talks: Gary Gensler (Podcast)",
+    "title_cn": "彭博社谈话：加里·詹斯勒（播客）",
+    "summary": "Source: Bloomberg, 11:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-09/bloomberg-talks-gary-gensler-podcast",
+    "published": "Sat, 09 May 2026 17:35:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:37:52.882585"
+  },
+  {
+    "id": "12d2163f49f1",
+    "title": "US Iran Proposal, NATO Braces for More US Troop Withdrawls, More",
+    "title_cn": "美国伊朗提案、北约准备更多撤军",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-iran-proposal-nato-braces-for-more-us-troop-withdrawls-more",
+    "published": "Sat, 09 May 2026 16:46:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:37:52.987230"
+  },
+  {
+    "id": "34437c898d5a",
+    "title": "US Waits on Iran Reply, Oil Buffer Burning at Record Pace, More",
+    "title_cn": "美国等待伊朗答复、石油缓冲以创纪录的速度燃烧等等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-waits-on-iran-reply-oil-buffer-burning-at-record-pace-more",
+    "published": "Sat, 09 May 2026 15:55:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:37:53.094361"
+  },
+  {
+    "id": "f8f58e18fe72",
+    "title": "Bloomberg This Weekend: Hantavirus Cruise Latest (Podcast)",
+    "title_cn": "彭博本周末：汉坦病毒邮轮最新消息（播客）",
+    "summary": "Source: Bloomberg, 46:12",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-09/bloomberg-this-weekend-hantavirus-cruise-latest-podcast",
+    "published": "Sat, 09 May 2026 15:42:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:37:53.197001"
+  },
+  {
+    "id": "380123fa10fd",
+    "title": "White Shoe Law Firms Are Haggling Over London’s Distressed Experts",
+    "title_cn": "白鞋律师事务所正在为伦敦陷入困境的专家讨价还价",
+    "summary": "US firms are raising the stakes in a battle for talent",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-09/white-shoe-law-firms-are-haggling-over-london-s-distressed-experts",
+    "published": "Sat, 09 May 2026 15:00:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:37:53.316686"
+  },
+  {
     "id": "5b11233f235a",
     "title": "US Awaits Iran Proposal Response, Hungary Swears In New PM, More",
     "title_cn": "美国等待伊朗提案回应、匈牙利新总理宣誓就任等",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-awaits-iran-proposal-response-hungary-swears-in-new-pm-more",
     "published": "Sat, 09 May 2026 14:13:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:10.728335"
+    "fetched_at": "2026-05-09T17:37:53.418956"
   },
   {
     "id": "e133012a76a1",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/earnings-bonanza-that-no-one-saw-coming-fuels-stocks-record-run",
     "published": "Sat, 09 May 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:10.842840"
+    "fetched_at": "2026-05-09T17:37:53.537632"
   },
   {
     "id": "7af84144311c",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/usiran-proposal-nato-braces-for-more-us-troop-withdrawls-more-moycc9dg",
     "published": "Sat, 09 May 2026 12:49:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:11.261471"
+    "fetched_at": "2026-05-09T17:37:53.714787"
   },
   {
     "id": "40cd3309c5e2",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-still-waiting-on-iran-reply-russia-ukraine-ceasefire-more",
     "published": "Sat, 09 May 2026 12:48:13 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:11.729893"
+    "fetched_at": "2026-05-09T17:37:53.815803"
   },
   {
     "id": "50719d58b8cb",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/usiran-proposal-nato-braces-for-more-us-troop-withdrawls-more",
     "published": "Sat, 09 May 2026 11:44:06 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:11.851639"
+    "fetched_at": "2026-05-09T17:37:53.957356"
   },
   {
     "id": "1ba86b0b3e76",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-expects-iran-response-soon-russia-ukraine-ceasefire-more-moy7hj8l",
     "published": "Sat, 09 May 2026 10:33:30 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:12.583463"
+    "fetched_at": "2026-05-09T17:37:54.086317"
   },
   {
     "id": "ab7a915e5445",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-expects-iran-response-soon-russia-ukraine-ceasefire-more",
     "published": "Sat, 09 May 2026 10:23:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:12.707189"
+    "fetched_at": "2026-05-09T17:37:54.190387"
   },
   {
     "id": "5c7026e19d84",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-09/why-stocks-may-soon-drown-in-a-bubble-bath-merryn-talks-money",
     "published": "Sat, 09 May 2026 04:33:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:12.814713"
+    "fetched_at": "2026-05-09T17:37:54.301721"
   },
   {
     "id": "ac4b92c42e1f",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/us-expecting-iranian-response-russia-ukraine-3-day-ceasefire",
     "published": "Sat, 09 May 2026 03:36:15 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:12.951695"
+    "fetched_at": "2026-05-09T17:37:54.415710"
   },
   {
     "id": "60075bb82059",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/singapore-company-boards-add-more-women-directors-in-2025",
     "published": "Sat, 09 May 2026 03:33:50 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.064400"
+    "fetched_at": "2026-05-09T17:37:54.534959"
   },
   {
     "id": "80ca4263680a",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/russia-ukraine-brief-ceasefire-trump-to-fire-fda-s-makary-more-moxqrye1",
     "published": "Sat, 09 May 2026 02:45:43 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.194576"
+    "fetched_at": "2026-05-09T17:37:54.649129"
   },
   {
     "id": "9a90ef97486c",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/russia-ukraine-3-day-ceasefire-trump-to-fire-fda-chief-more-moxp89eh",
     "published": "Sat, 09 May 2026 02:02:24 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.328371"
+    "fetched_at": "2026-05-09T17:37:54.765832"
   },
   {
     "id": "91aae5275f26",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/russia-ukraine-brief-ceasefire-trump-to-fire-fda-s-makary-more",
     "published": "Sat, 09 May 2026 01:03:52 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.448671"
+    "fetched_at": "2026-05-09T17:37:54.928656"
   },
   {
     "id": "c2acff93b141",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-09/singapore-s-booming-property-market-heats-up-amid-trump-geopolitical-risks",
     "published": "Sat, 09 May 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.555027"
+    "fetched_at": "2026-05-09T17:37:55.038805"
   },
   {
     "id": "51d31bc023eb",
@@ -147,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-09/russia-ukraine-3-day-ceasefire-trump-to-fire-fda-chief-more",
     "published": "Sat, 09 May 2026 00:03:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.671398"
+    "fetched_at": "2026-05-09T17:37:55.151372"
   },
   {
     "id": "ae8f20541e66",
@@ -157,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/russia-ukraine-brief-ceasefire-trump-to-fire-fda-s-makary-more",
     "published": "Fri, 08 May 2026 23:03:02 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.788414"
+    "fetched_at": "2026-05-09T17:37:55.311689"
   },
   {
     "id": "826d1b2b02e3",
@@ -167,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-lyft-ceo-david-risher-podcast",
     "published": "Fri, 08 May 2026 23:02:46 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:13.907822"
+    "fetched_at": "2026-05-09T17:37:55.412927"
   },
   {
     "id": "180c879fa6cf",
@@ -177,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-coreweave-ceo-michael-intrator-podcast",
     "published": "Fri, 08 May 2026 22:56:33 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.014621"
+    "fetched_at": "2026-05-09T17:37:55.520590"
   },
   {
     "id": "bc6a98fe937d",
@@ -187,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-draftkings-ceo-jason-robins-podcast",
     "published": "Fri, 08 May 2026 22:51:29 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.137520"
+    "fetched_at": "2026-05-09T17:37:55.637028"
   },
   {
     "id": "81eb45b4ea8c",
@@ -197,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-08/us-consumer-sentiment-hits-record-low-evening-briefing-america",
     "published": "Fri, 08 May 2026 22:50:34 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.268527"
+    "fetched_at": "2026-05-09T17:37:55.739774"
   },
   {
     "id": "6ecfcc6b767b",
@@ -207,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-nec-director-kevin-hassett-podcast",
     "published": "Fri, 08 May 2026 22:45:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.382750"
+    "fetched_at": "2026-05-09T17:37:55.846760"
   },
   {
     "id": "9df6a74c5efc",
@@ -217,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-chicago-fed-president-austan-goolsbee-podcast",
     "published": "Fri, 08 May 2026 22:41:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.497615"
+    "fetched_at": "2026-05-09T17:37:55.968722"
   },
   {
     "id": "e3dc5709bb3c",
@@ -227,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-talks-rick-rieder-podcast",
     "published": "Fri, 08 May 2026 22:37:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.611380"
+    "fetched_at": "2026-05-09T17:37:56.076928"
   },
   {
     "id": "e9dbbb783687",
@@ -237,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/masters-in-business-stocktwits-ceo-howard-lindzon-podcast",
     "published": "Fri, 08 May 2026 22:20:49 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.720077"
+    "fetched_at": "2026-05-09T17:37:56.203953"
   },
   {
     "id": "9782541ba247",
@@ -247,57 +297,67 @@
     "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-wall-street-week-may-8th-2026-podcast",
     "published": "Fri, 08 May 2026 22:13:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.836652"
+    "fetched_at": "2026-05-09T17:37:56.363691"
   },
   {
-    "id": "f80b030fd20a",
-    "title": "Weekend Law: Voting Maps & OpenAI Trial (Podcast)",
-    "title_cn": "周末法：投票地图和 OpenAI 试用（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-08/weekend-law-voting-maps-openai-trial-podcast",
-    "published": "Fri, 08 May 2026 22:05:17 GMT",
+    "id": "1fb83e776958",
+    "title": "Rachel Entrekin Shatters 250-Mile Course Record",
+    "title_cn": "Rachel Entrekin 打破 250 英里赛道记录",
+    "summary": "Elite runner Rachel Entrekin David Gura and Christina Ruffini on Bloomberg This Weekend to discuss her historic achievement as the first woman to win the 250-mile Cocodona ultramarathon outright. She finished the grueling Arizona course in a record 56 hours, 9 minutes, and 48 seconds, defeating the entire field of men and women. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/rachel-entrekin-shatters-250-mile-course-record-video",
+    "published": "Sat, 09 May 2026 17:19:32 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:14.941911"
+    "fetched_at": "2026-05-09T17:38:01.723236"
   },
   {
-    "id": "cda1814aa14f",
-    "title": "Russia-Ukraine 3-Day Ceasefire, Trump to Fire FDA Chief, More",
-    "title_cn": "俄罗斯-乌克兰停火三天，特朗普解雇 FDA 局长等",
-    "summary": "Source: Bloomberg, 4:58",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-08/russia-ukraine-3-day-ceasefire-trump-to-fire-fda-chief-more",
-    "published": "Fri, 08 May 2026 22:03:57 GMT",
+    "id": "bb04d7483957",
+    "title": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
+    "title_cn": "卫生官员淡化邮轮汉坦病毒爆发带来的大流行风险",
+    "summary": "The deadly hantavirus outbreak on a cruise ship doesn’t risk triggering the next pandemic, World Health Organization officials said, downplaying an incident that has raised concern about a new viral contagion. Former White House COVID Response Coordinator and Infectious Disease Expert Dr. Ashish Jha joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/health-officials-downplay-risk-from-hantavirus-outbreak-video",
+    "published": "Sat, 09 May 2026 17:09:07 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.064474"
+    "fetched_at": "2026-05-09T17:38:01.828466"
   },
   {
-    "id": "a58ce63a59b6",
-    "title": "Bloomberg Businessweek Weekend: May 8th 2026 (Podcast)",
-    "title_cn": "彭博商业周刊周末：2026 年 5 月 8 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-08/bloomberg-businessweek-weekend-may-8th-2026-podcast",
-    "published": "Fri, 08 May 2026 21:51:27 GMT",
+    "id": "e0434adfbe5f",
+    "title": "China Summit Stays on Track Despite Iran Concerns",
+    "title_cn": "尽管伊朗担忧，中国峰会仍按计划进行",
+    "summary": "President Donald Trump is moving forward with plans to meet with Xi Jinping in Beijing despite Chinese officials' unease about holding the meeting before the US-Iran conflict is resolved. Former Ambassador to China and Harvard University Professor of Diplomacy and International Relations Nicholas Burns joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video",
+    "published": "Sat, 09 May 2026 16:56:17 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.186180"
+    "fetched_at": "2026-05-09T17:38:01.945117"
   },
   {
-    "id": "5307f21db48b",
-    "title": "Stock Movers: Intel, Zoetis, Datadog (Podcast)",
-    "title_cn": "库存推动者：英特尔、硕腾、Datadog（播客）",
-    "summary": "Source: Bloomberg, 5:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-08/stock-movers-intel-zoetis-datadog-podcast",
-    "published": "Fri, 08 May 2026 21:44:36 GMT",
+    "id": "4c07bd1361d8",
+    "title": "\"China is Just Watching\": Ro Khanna on Why the Iran Conflict is a Gift to Beijing",
+    "title_cn": "“中国只是在观看”：罗·卡纳谈为何伊朗冲突是送给北京的礼物",
+    "summary": "With 80,000 manufacturing jobs lost, Rep. Ro Khanna (D-CA) argues that the US needs a tougher, more strategic approach to China. He discusses the impact of unfair trade practices on American ports and why lowering the cost of fertilizer and reopening the Strait of Hormuz are critical for the US economy. Watch more here and watch Lisa Mateo, Christina Ruffini and David Gura on Bloomberg This Weekend LIVE every Saturday and Sunday morning: (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/ro-khanna-on-why-the-iran-conflict-is-a-gift-to-beijing-video",
+    "published": "Sat, 09 May 2026 16:45:17 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.311968"
+    "fetched_at": "2026-05-09T17:38:02.060486"
   },
   {
-    "id": "3ad922b42ab7",
-    "title": "Stock Movers: Intel, Monster, CoreWeave (Podcast)",
-    "title_cn": "库存推动者：英特尔、Monster、CoreWeave（播客）",
-    "summary": "Source: Bloomberg, 9:39",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-08/stock-movers-intel-monster-coreweave-podcast-moxfxw2b",
-    "published": "Fri, 08 May 2026 21:42:24 GMT",
+    "id": "f5cc2defd377",
+    "title": "DOJ Probing Suspicious Oil Trades Tied To Iran War",
+    "title_cn": "美国司法部调查与伊朗战争有关的可疑石油交易",
+    "summary": "Chair of the SEC and CFTC Gary Gensler joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the US Justice Department and Commodity Futures Trading Commission are probe into at least four suspicious transactions in the oil market where traders made more than $2.6 billion. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/doj-probing-suspicious-oil-trades-tied-to-iran-war-video",
+    "published": "Sat, 09 May 2026 16:36:41 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.415963"
+    "fetched_at": "2026-05-09T17:38:02.184983"
+  },
+  {
+    "id": "2776e71460d2",
+    "title": "Exploring The Met's New \"Costume Art\" Exhibit",
+    "title_cn": "探索大都会艺术博物馆的新“服装艺术”展览",
+    "summary": "The Met Gala is the museum's biggest annual fundraiser, this year raising $42 million to help fund exhibits, pay curators, and preserve paintings, sculptures and one of the largest fashion archives in the world. Bloomberg The Weekend was the first to see the exhibit and the new gallery in a private tour with MET Director and CEO Max Hollein. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-09/exploring-the-met-s-new-costume-art-exhibit-video",
+    "published": "Sat, 09 May 2026 16:18:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:02.295896"
   },
   {
     "id": "467fd083454a",
@@ -307,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-09/daniel-dae-kim-make-korean-culture-global-in-docuseries-video",
     "published": "Sat, 09 May 2026 14:09:30 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.759124"
+    "fetched_at": "2026-05-09T17:38:02.415505"
   },
   {
     "id": "f1abe9f070f5",
@@ -317,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-09/why-new-zealanders-are-moving-to-australia-video",
     "published": "Sat, 09 May 2026 14:03:53 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.864469"
+    "fetched_at": "2026-05-09T17:38:02.532474"
   },
   {
     "id": "183f22e18259",
@@ -327,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-09/us-awaits-response-after-hormuz-clashes-strain-ceasefire-video",
     "published": "Sat, 09 May 2026 14:00:29 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:15.987432"
+    "fetched_at": "2026-05-09T17:38:02.652475"
   },
   {
     "id": "1314deaadd40",
@@ -337,7 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
     "published": "Sat, 09 May 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.288150"
+    "fetched_at": "2026-05-09T17:38:02.901741"
   },
   {
     "id": "305fd256ca21",
@@ -347,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-vows-to-advance-efforts-to-defuse-local-government-debt",
     "published": "Sat, 09 May 2026 12:25:30 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.399326"
+    "fetched_at": "2026-05-09T17:38:02.995637"
   },
   {
     "id": "dcc0fdebe2f1",
@@ -357,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-09/what-to-expect-from-the-trump-xi-summit-video",
     "published": "Sat, 09 May 2026 12:04:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.506738"
+    "fetched_at": "2026-05-09T17:38:03.169214"
   },
   {
     "id": "f517f61993d8",
@@ -367,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission",
     "published": "Sat, 09 May 2026 12:00:06 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.625088"
+    "fetched_at": "2026-05-09T17:38:03.284412"
   },
   {
     "id": "82069098b385",
@@ -377,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-05-09/moving-people-and-money-across-borders",
     "published": "Sat, 09 May 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.730318"
+    "fetched_at": "2026-05-09T17:38:03.382743"
   },
   {
     "id": "afc7d2862a93",
@@ -387,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/crypto-industry-throws-lap-dance-party-in-middle-of-bear-market",
     "published": "Sat, 09 May 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.831293"
+    "fetched_at": "2026-05-09T17:38:03.489201"
   },
   {
     "id": "7af463a0059a",
@@ -397,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/lagarde-says-ecb-torn-between-risk-of-acting-too-early-too-late",
     "published": "Sat, 09 May 2026 08:41:10 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:16.951224"
+    "fetched_at": "2026-05-09T17:38:03.590948"
   },
   {
     "id": "548e1724b06b",
@@ -407,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/goldman-sees-fed-cuts-delayed-to-december-march-on-inflation",
     "published": "Sat, 09 May 2026 06:24:55 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.075855"
+    "fetched_at": "2026-05-09T17:38:03.703713"
   },
   {
     "id": "fa2b42072858",
@@ -417,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/air-india-to-cut-costs-reduce-flights-as-war-worsens-financial-struggles",
     "published": "Fri, 08 May 2026 06:18:04 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.189839"
+    "fetched_at": "2026-05-09T17:38:03.807307"
   },
   {
     "id": "993cc966cde9",
@@ -427,17 +487,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-09/iran-war-drives-africa-s-fertilizer-crisis",
     "published": "Sat, 09 May 2026 05:00:13 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.295333"
+    "fetched_at": "2026-05-09T17:38:03.915637"
   },
   {
     "id": "38be35c28ebf",
     "title": "China’s Energy Imports Plunge as War Chokes Hormuz Shipments",
-    "title_cn": "由于战争阻碍霍尔木兹运输，中国能源进口大幅下降",
+    "title_cn": "由于战争阻碍霍尔木兹运输，中国能源进口锐减",
     "summary": "Chinese energy imports fell sharply in April, as the near-halt to shipments through the Strait of Hormuz choked a vital channel for crude oil and natural gas.",
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments",
     "published": "Sat, 09 May 2026 04:33:32 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.422786"
+    "fetched_at": "2026-05-09T17:38:04.035961"
   },
   {
     "id": "f9515a97f1b6",
@@ -447,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-gold-output-falls-as-investor-demand-for-bars-coins-jumps",
     "published": "Sat, 09 May 2026 03:32:54 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.539515"
+    "fetched_at": "2026-05-09T17:38:04.147840"
   },
   {
     "id": "7a1182ae330b",
@@ -457,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/colombia-inflation-ticks-up-fueling-case-for-renewed-rate-hikes",
     "published": "Fri, 08 May 2026 23:30:57 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.646349"
+    "fetched_at": "2026-05-09T17:38:04.258270"
   },
   {
     "id": "da23cca70c3d",
@@ -467,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/wall-street-week-high-stakes-summit-talent-troubles-video",
     "published": "Fri, 08 May 2026 23:14:55 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.758909"
+    "fetched_at": "2026-05-09T17:38:04.377475"
   },
   {
     "id": "ebf57a7afbae",
@@ -477,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/florida-and-louisiana-focused-insurer-safepoint-files-for-us-ipo",
     "published": "Fri, 08 May 2026 22:27:41 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:17.884409"
+    "fetched_at": "2026-05-09T17:38:04.471833"
   },
   {
     "id": "616ee408a427",
@@ -487,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/pakistan-to-receive-1-32-billion-as-imf-board-approves-tranches",
     "published": "Fri, 08 May 2026 22:21:46 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.017097"
+    "fetched_at": "2026-05-09T17:38:04.561893"
   },
   {
     "id": "da3154ec76a8",
@@ -497,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/honeywell-backed-computing-firm-quantinuum-files-for-us-ipo",
     "published": "Fri, 08 May 2026 20:22:44 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.142712"
+    "fetched_at": "2026-05-09T17:38:04.668950"
   },
   {
     "id": "19ecad249620",
@@ -507,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/winning-the-degenerate-economy-howard-lindzon-video",
     "published": "Fri, 08 May 2026 21:20:18 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.261678"
+    "fetched_at": "2026-05-09T17:38:04.783178"
   },
   {
     "id": "6dc89cc051b1",
@@ -517,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/blackrock-readies-launch-of-two-tokenized-money-market-funds",
     "published": "Fri, 08 May 2026 21:18:46 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.367895"
+    "fetched_at": "2026-05-09T17:38:04.889168"
   },
   {
     "id": "29c6b3db2870",
@@ -527,67 +587,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/pe-firms-tap-europe-s-junk-market-for-dividends-as-exits-stall",
     "published": "Fri, 08 May 2026 11:32:24 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.487341"
+    "fetched_at": "2026-05-09T17:38:04.999638"
   },
   {
-    "id": "595432736492",
-    "title": "Fed Sees Private Credit Redemptions as ‘Manageable’ Risks",
-    "title_cn": "美联储认为私人信贷赎回风险“可控”",
-    "summary": "The Federal Reserve said stability risks from further private credit redemption requests appear “limited and manageable,” after some of the biggest names in the market blocked investors from getting money out of their funds in recent months.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/fed-calls-risks-tied-to-private-credit-redemptions-manageable",
-    "published": "Fri, 08 May 2026 20:00:00 GMT",
+    "id": "cc431ee7a32e",
+    "title": "QVC Shareholders Claim Firm Giving Their Value to Creditors",
+    "title_cn": "QVC 股东声称公司向债权人提供了价值",
+    "summary": "Shareholders of bankrupt television shopping network QVC accused the company of wrongly trying to divert hundreds of millions of dollars’ worth of assets to creditors as part of a proposal to cut debt and end the company’s insolvency case.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-08/qvc-shareholders-claim-firm-giving-away-their-value-to-creditors",
+    "published": "Fri, 08 May 2026 18:58:43 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.594659"
+    "fetched_at": "2026-05-09T17:38:05.264482"
   },
   {
-    "id": "bc3a82e128f8",
-    "title": "Shaquille O'Neal on Partnership with Authentic Brands",
-    "title_cn": "沙奎尔·奥尼尔谈与正宗品牌的合作",
-    "summary": "NBA Hall of Famer Shaquille O'Neal & Authentic Brands CEO Jamie Salter discuss the launch of 'Dunkman,' a new dunk league aiming to compete with the NBA dunk contest. They talk with Romaine Bostick at the Milken Institute Global Conference in Beverly Hills, California. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-08/shaquille-o-neal-on-partnership-with-authentic-brands-video",
-    "published": "Fri, 08 May 2026 20:45:08 GMT",
+    "id": "b4577a4f24b1",
+    "title": "Trump Media Posts $405 Million Loss Driven by Crypto Holdings",
+    "title_cn": "特朗普媒体公布加密货币控股造成 4.05 亿美元损失",
+    "summary": "The Trump family media group posted a net drop of $405.9 million in the first quarter, largely driven by unrealized losses in cryptocurrencies held by the company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/trump-media-posts-405-million-drop-driven-by-crypto-losses",
+    "published": "Sat, 09 May 2026 14:25:52 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.697245"
-  },
-  {
-    "id": "fb384f80f488",
-    "title": "S&P Closes Out 6th Straight Week of Gains | Closing Bell",
-    "title_cn": "标准普尔连续第六周上涨结束钟声",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet Fu, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-08/s-p-closes-out-6th-straight-week-of-gains-closing-bell-video",
-    "published": "Fri, 08 May 2026 20:35:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.816083"
-  },
-  {
-    "id": "50192e813078",
-    "title": "Enhanced Games Owner Jumps 21% After Going Public Via SPAC",
-    "title_cn": "通过 SPAC 上市后，Enhanced Games 所有者股价飙升 21%",
-    "summary": "Enhanced Group Inc. shares climbed almost 21% after going public via a merger with blank-check company A Paradise Acquisition Corp.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/enhanced-games-falls-14-after-spac-merger-at-1-2-billion-value",
-    "published": "Fri, 08 May 2026 13:52:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:18.969675"
-  },
-  {
-    "id": "d8848758d72d",
-    "title": "Fannie, Freddie’s Latest Bull Says Traders Underpricing IPO Odds",
-    "title_cn": "房利美和房地美最新牛市称交易员低估了 IPO 赔率",
-    "summary": "Fannie Mae and Freddie Mac investors are underestimating the chances of a public market re-entry from the mortgage giants after a lull in chatter around the names, according to Mizuho’s Dan Dolev.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/fannie-freddie-s-latest-bull-says-traders-underpricing-ipo-odds",
-    "published": "Fri, 08 May 2026 11:55:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:19.093573"
-  },
-  {
-    "id": "4ffc5b0e8737",
-    "title": "Health Firms Odyssey, Mobia Fall After $454 Million IPO Haul",
-    "title_cn": "医疗保健公司 Odyssey 和 Mobia 在 4.54 亿美元的 IPO 后纷纷倒闭",
-    "summary": "A pair of healthcare companies ended their trading debuts lower after raising a combined $454 million in their initial public offerings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/odyssey-therapeutics-climbs-11-after-304-million-us-ipo",
-    "published": "Fri, 08 May 2026 15:58:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:19.217481"
+    "fetched_at": "2026-05-09T17:38:05.370862"
   },
   {
     "id": "bba1ead2a8c2",
@@ -597,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/ecb-s-escriva-says-ai-risks-prompt-finance-infrastructure-review",
     "published": "Sat, 09 May 2026 13:22:05 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.234082"
+    "fetched_at": "2026-05-09T17:38:05.523070"
   },
   {
     "id": "b67b814da1c0",
@@ -607,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/kenya-plans-taxes-on-phones-banking-fees-to-raise-1-billion",
     "published": "Sat, 09 May 2026 13:03:59 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.357092"
+    "fetched_at": "2026-05-09T17:38:05.664397"
   },
   {
     "id": "60499ec0973d",
@@ -617,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/chinese-export-growth-rebounds-as-war-fails-to-curb-trade",
     "published": "Sat, 09 May 2026 03:09:20 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.485788"
+    "fetched_at": "2026-05-09T17:38:05.828944"
   },
   {
     "id": "c6b0b6ce9cd4",
@@ -627,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/bytedance-targets-25-rise-in-ai-infrastructure-spending-scmp",
     "published": "Sat, 09 May 2026 07:23:59 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.614771"
+    "fetched_at": "2026-05-09T17:38:05.942109"
   },
   {
     "id": "76ac8c8bd64b",
@@ -637,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-said-to-suspect-nvidia-chips-smuggled-to-alibaba-via-thailand",
     "published": "Fri, 08 May 2026 06:34:29 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.748945"
+    "fetched_at": "2026-05-09T17:38:06.046721"
   },
   {
     "id": "c8b410ca9888",
@@ -647,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-s-top-economic-planner-urges-stronger-coordination-on-ai",
     "published": "Sat, 09 May 2026 02:32:17 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.859036"
+    "fetched_at": "2026-05-09T17:38:06.150034"
   },
   {
     "id": "91507b3f6149",
@@ -657,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/some-college-finals-delayed-after-popular-online-platform-hacked",
     "published": "Fri, 08 May 2026 16:12:23 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:20.973015"
+    "fetched_at": "2026-05-09T17:38:06.258131"
   },
   {
     "id": "329e7fbc93e6",
@@ -667,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/intel-ceo-who-won-over-trump-and-musk-now-needs-a-breakthrough",
     "published": "Fri, 08 May 2026 10:15:11 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.106953"
+    "fetched_at": "2026-05-09T17:38:06.375031"
   },
   {
     "id": "5df45ef62b6d",
@@ -677,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/judge-to-review-musk-sec-settlement-deal-in-twitter-stake-case",
     "published": "Fri, 08 May 2026 22:50:29 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.223815"
+    "fetched_at": "2026-05-09T17:38:06.469370"
   },
   {
     "id": "89cbd1f0fbc0",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/the-close-5-8-2026-video",
     "published": "Fri, 08 May 2026 22:25:21 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.373407"
+    "fetched_at": "2026-05-09T17:38:06.562170"
   },
   {
     "id": "43051b5926e4",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/yahoo-pays-up-to-refinance-1-6-billion-debt-tied-to-apollo-deal",
     "published": "Fri, 08 May 2026 16:38:19 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.626817"
+    "fetched_at": "2026-05-09T17:38:06.843789"
   },
   {
     "id": "ead6cdd1848e",
@@ -707,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/nvidia-names-goldman-sachs-veteran-suzanne-nora-johnson-to-board",
     "published": "Fri, 08 May 2026 21:00:28 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.728060"
+    "fetched_at": "2026-05-09T17:38:06.957180"
   },
   {
     "id": "78acf1257258",
@@ -717,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/carlyle-global-research-head-on-ai-s-economic-impact-video",
     "published": "Fri, 08 May 2026 20:26:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.832891"
+    "fetched_at": "2026-05-09T17:38:07.095859"
   },
   {
     "id": "cbc60b3484a5",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/burry-buys-mercadolibre-after-slump-eyes-15-returns",
     "published": "Fri, 08 May 2026 20:19:47 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:21.950591"
+    "fetched_at": "2026-05-09T17:38:07.232830"
   },
   {
     "id": "de3873f9d168",
@@ -737,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/momentum-trade-at-new-extremes-is-drawing-wall-street-warnings",
     "published": "Fri, 08 May 2026 20:19:34 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.073168"
+    "fetched_at": "2026-05-09T17:38:07.404437"
   },
   {
     "id": "c72a39e60c24",
@@ -747,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-futures-rise-as-chip-stocks-rally-iran-ceasefire-holds",
     "published": "Fri, 08 May 2026 11:42:18 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.205966"
+    "fetched_at": "2026-05-09T17:38:07.559577"
   },
   {
     "id": "259f1ff388e3",
@@ -757,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/anthropic-inks-1-8-billion-computing-deal-with-akamai",
     "published": "Fri, 08 May 2026 17:55:10 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.310605"
+    "fetched_at": "2026-05-09T17:38:07.676098"
   },
   {
     "id": "d1cd3fef2164",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/musk-altman-management-styles-come-under-fire-at-openai-trial",
     "published": "Fri, 08 May 2026 18:17:40 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.439429"
+    "fetched_at": "2026-05-09T17:38:07.812133"
   },
   {
     "id": "996e3b5d6075",
@@ -777,17 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/ai-chipmaker-cerebras-is-said-to-plan-raising-ipo-price-range",
     "published": "Fri, 08 May 2026 18:59:08 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.547903"
-  },
-  {
-    "id": "cc431ee7a32e",
-    "title": "QVC Shareholders Claim Firm Giving Away Their Value to Creditors",
-    "title_cn": "QVC 股东声称公司将其价值拱手让给债权人",
-    "summary": "Shareholders of bankrupt television shopping network QVC have accused the company of wrongly trying to give away hundreds of millions dollars worth of assets to other stakeholders as part of a proposal to cut debt and end the company’s insolvency case.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/qvc-shareholders-claim-firm-giving-away-their-value-to-creditors",
-    "published": "Fri, 08 May 2026 18:58:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.657132"
+    "fetched_at": "2026-05-09T17:38:07.917399"
   },
   {
     "id": "6034f34d6749",
@@ -797,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/google-s-isomorphic-labs-to-raise-over-2-billion-in-new-funding",
     "published": "Fri, 08 May 2026 18:39:25 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.776608"
+    "fetched_at": "2026-05-09T17:38:08.033389"
   },
   {
     "id": "22b40e3c8cbb",
@@ -807,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/bloomberg-tech-5-8-2026-video",
     "published": "Fri, 08 May 2026 18:52:43 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:22.909724"
+    "fetched_at": "2026-05-09T17:38:08.142374"
   },
   {
     "id": "e1a0d983bc38",
@@ -817,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/trump-s-h-1b-visa-proposal-requires-salary-increases-for-entry-level-jobs",
     "published": "Fri, 08 May 2026 10:45:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.007081"
+    "fetched_at": "2026-05-09T17:38:08.236521"
   },
   {
     "id": "088bbc24e2f6",
@@ -827,7 +837,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/why-the-spacemob-is-so-bullish-on-ast-video",
     "published": "Fri, 08 May 2026 18:46:06 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.112406"
+    "fetched_at": "2026-05-09T17:38:08.351528"
   },
   {
     "id": "fda2b143a01e",
@@ -837,7 +847,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/impact-of-ai-on-hiring-workforce-trends-video",
     "published": "Fri, 08 May 2026 18:18:04 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.238232"
+    "fetched_at": "2026-05-09T17:38:08.463258"
   },
   {
     "id": "c4e2c639f0bb",
@@ -847,7 +857,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/canvas-hack-on-nyc-schools-comes-amid-separate-malware-attack",
     "published": "Fri, 08 May 2026 18:12:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.368836"
+    "fetched_at": "2026-05-09T17:38:08.578037"
   },
   {
     "id": "e0159e1408cf",
@@ -857,7 +867,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/thiel-backed-olympics-competitor-goes-public-video",
     "published": "Fri, 08 May 2026 18:09:37 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.510077"
+    "fetched_at": "2026-05-09T17:38:08.688581"
   },
   {
     "id": "f57e51410c47",
@@ -867,47 +877,57 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/gamma-ceo-larry-jackson-on-music-career-ye-s-comeback-video",
     "published": "Fri, 08 May 2026 17:41:46 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.626776"
+    "fetched_at": "2026-05-09T17:38:08.789342"
   },
   {
-    "id": "7c50de44346b",
-    "title": "MercadoLibre Dives As Profits Miss on Rapid Growth Push",
-    "title_cn": "MercadoLibre 因快速增长推动利润下滑而跳水",
-    "summary": "Shares in e-commerce and fintech giant MercadoLibre Inc. slipped after profits missed estimates for the fourth quarter in a row even as revenue grew at its fastest pace in nearly four years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-07/mercadolibre-revenue-beats-estimates-on-strong-e-commerce-demand",
-    "published": "Thu, 07 May 2026 20:06:06 GMT",
+    "id": "66d9dfc22554",
+    "title": "Ramaphosa’s Future Uncertain After Impeachment Risk Resurfaces",
+    "title_cn": "弹劾风险重新浮现后，拉马福萨的未来充满不确定性",
+    "summary": "South African President Cyril Ramaphosa’s faces a serious new challenge after the country’s top court revived an inquiry into a burglary at his farm that he was accused of covering up.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-08/top-south-african-court-faults-parliament-over-cash-in-sofa-saga",
+    "published": "Fri, 08 May 2026 08:41:37 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:23.753232"
+    "fetched_at": "2026-05-09T17:38:14.070027"
   },
   {
-    "id": "4a49d49d65bd",
-    "title": "Senegal MPs Pass Electoral Reform, Clearing Sonko Presidency Bid",
-    "title_cn": "塞内加尔议员通过选举改革，清除桑科总统竞选",
-    "summary": "Senegalese lawmakers voted for an electoral code amendment that is widely seen as clearing the way for Prime Minister Ousmane Sonko to run in the next presidential election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-09/senegal-mps-pass-electoral-reform-clearing-sonko-presidency-bid",
-    "published": "Sat, 09 May 2026 14:11:32 GMT",
+    "id": "c117ecc9f0db",
+    "title": "Trump Punts Thorniest Iran Challenges in Push to Open Hormuz",
+    "title_cn": "特朗普应对伊朗最棘手的挑战，推动开放霍尔木兹海峡",
+    "summary": "President Donald Trump has changed his approach as he tries to end the war against Iran: reopen the Strait of Hormuz at all costs and leave thorny negotiations on Tehran’s nuclear and ballistic missile programs until later.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-08/trump-punts-thorniest-iran-challenges-in-push-to-reopen-hormuz",
+    "published": "Fri, 08 May 2026 20:51:48 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.080699"
+    "fetched_at": "2026-05-09T17:38:14.171424"
   },
   {
-    "id": "9a91657e17f6",
-    "title": "Hungary’s New PM Magyar Demands President Quit in Showdown",
-    "title_cn": "匈牙利新总理马扎尔在摊牌中要求总统辞职",
-    "summary": "Hungary’s newly installed prime minister Peter Magyar called on the president to quit in a confrontation in parliament that sought to draw the line on 16 years of increasingly autocratic rule by Viktor Orban.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-09/hungary-s-new-pm-magyar-demands-president-quit-in-showdown",
-    "published": "Sat, 09 May 2026 13:48:13 GMT",
+    "id": "ad253365f167",
+    "title": "Democrats’ Midterm Math Takes Hit as Court Axes Virginia Map",
+    "title_cn": "法院取消弗吉尼亚州地图，民主党中期数学受到打击",
+    "summary": "Democrats were dealt a blow in their efforts to minimize Republican redistricting gains around the US when the Virginia Supreme Court on Friday blocked a voter-approved map that would have flipped as many as four GOP-held US House seats in November’s midterm elections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-08/virginia-s-top-court-blocks-democrats-new-congressional-map",
+    "published": "Fri, 08 May 2026 14:14:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.195408"
+    "fetched_at": "2026-05-09T17:38:14.283606"
   },
   {
-    "id": "52651f6885e2",
-    "title": "Japan Considers Sending Officials to Russia as Soon as End-May",
-    "title_cn": "日本考虑最快5月底向俄罗斯派遣官员",
-    "summary": "Japan may send government officials to Russia as early as the end of May to maintain communications with Moscow to support its companies that are still operating there, the trade ministry said in a post on X.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-09/japan-considers-sending-officials-to-russia-as-soon-as-end-may",
-    "published": "Sat, 09 May 2026 13:33:59 GMT",
+    "id": "9d4ff09bb77b",
+    "title": "US Awaits Iran Answer After Hormuz Clashes Strain Ceasefire",
+    "title_cn": "霍尔木兹冲突紧张停火后美国等待伊朗答复",
+    "summary": "The US was waiting on Iran’s response to its latest proposal to end the war after suggesting word could come imminently, following clashes in the Strait of Hormuz that strained a month-long ceasefire.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/us-awaits-iranian-response-after-hormuz-clashes-strain-ceasefire",
+    "published": "Sat, 09 May 2026 10:07:41 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.299423"
+    "fetched_at": "2026-05-09T17:38:14.388451"
+  },
+  {
+    "id": "b80384b4e87b",
+    "title": "Iran War Disrupts Fuel Supply to South Africa Sub-Antarctic Base",
+    "title_cn": "伊朗战争中断了南非亚南极基地的燃料供应",
+    "summary": "A South African vessel headed to a sub-Antarctic island to resupply scientists has been held up by fuel supply disruptions caused by the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-disrupts-fuel-supply-to-south-africa-sub-antarctic-base",
+    "published": "Sat, 09 May 2026 15:49:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:14.492972"
   },
   {
     "id": "9e80ee85eb7b",
@@ -917,7 +937,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/nato-nations-brace-for-trump-to-pull-more-troops-from-europe",
     "published": "Sat, 09 May 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.415565"
+    "fetched_at": "2026-05-09T17:38:14.597823"
+  },
+  {
+    "id": "05b63af808dc",
+    "title": "Magyar Takes Power Vowing to Return Hungary to European Fold",
+    "title_cn": "马扎尔掌权后誓言让匈牙利重返欧洲",
+    "summary": "Peter Magyar assumed power as Hungary’s prime minister, officially ending Viktor Orban’s 16-year rule with a pledge to reverse the nation’s autocratic slide and return it to the European mainstream.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/magyar-takes-office-vowing-to-return-hungary-to-european-fold",
+    "published": "Sat, 09 May 2026 12:38:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:15.030255"
+  },
+  {
+    "id": "4a49d49d65bd",
+    "title": "Senegal MPs Pass Electoral Reform, Clearing Sonko Presidency Bid",
+    "title_cn": "塞内加尔议员通过选举改革，清除桑科总统竞选",
+    "summary": "Senegalese lawmakers voted for an electoral code amendment that is widely seen as clearing the way for Prime Minister Ousmane Sonko to run in the next presidential election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/senegal-mps-pass-electoral-reform-clearing-sonko-presidency-bid",
+    "published": "Sat, 09 May 2026 14:11:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:15.145597"
+  },
+  {
+    "id": "9a91657e17f6",
+    "title": "Hungary’s New PM Magyar Demands President Quit in Showdown",
+    "title_cn": "匈牙利新总理马扎尔在摊牌中要求总统辞职",
+    "summary": "Hungary’s newly installed prime minister Peter Magyar called on the president to quit in a confrontation in parliament that sought to draw the line on 16 years of increasingly autocratic rule by Viktor Orban.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/hungary-s-new-pm-magyar-demands-president-quit-in-showdown",
+    "published": "Sat, 09 May 2026 13:48:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:15.247835"
+  },
+  {
+    "id": "52651f6885e2",
+    "title": "Japan Considers Sending Officials to Russia as Soon as End-May",
+    "title_cn": "日本考虑最快5月底向俄罗斯派遣官员",
+    "summary": "Japan may send government officials to Russia as early as the end of May to maintain communications with Moscow to support its companies that are still operating there, the trade ministry said in a post on X.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-09/japan-considers-sending-officials-to-russia-as-soon-as-end-may",
+    "published": "Sat, 09 May 2026 13:33:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-05-09T17:38:15.351016"
   },
   {
     "id": "0999933eb4ad",
@@ -927,17 +987,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/starmer-seeks-to-reassert-authority-with-return-of-ex-pm-brown",
     "published": "Sat, 09 May 2026 10:12:07 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.511642"
-  },
-  {
-    "id": "05b63af808dc",
-    "title": "Magyar Takes Office Vowing to Return Hungary to European Fold",
-    "title_cn": "马扎尔上任誓言让匈牙利重返欧洲",
-    "summary": "Peter Magyar assumed power as Hungary’s prime minister, officially ending Viktor Orban’s 16-year rule and pledging to reverse the nation’s autocratic slide and return it to the European mainstream.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-09/magyar-takes-office-vowing-to-return-hungary-to-european-fold",
-    "published": "Sat, 09 May 2026 12:38:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.620469"
+    "fetched_at": "2026-05-09T17:38:15.620319"
   },
   {
     "id": "7cf6a68d2d06",
@@ -947,17 +997,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-calls-on-germany-to-stem-eu-drift-toward-protectionism",
     "published": "Sat, 09 May 2026 11:28:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.863513"
-  },
-  {
-    "id": "9d4ff09bb77b",
-    "title": "US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire",
-    "title_cn": "霍尔木兹冲突紧张停火后美国等待伊朗回应",
-    "summary": "The US was waiting on Iran’s response to its latest proposal to end the war after suggesting word could come imminently, following clashes in the Strait of Hormuz that strained a month-long ceasefire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-09/us-awaits-iranian-response-after-hormuz-clashes-strain-ceasefire",
-    "published": "Sat, 09 May 2026 10:07:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:24.972905"
+    "fetched_at": "2026-05-09T17:38:15.819650"
   },
   {
     "id": "4d9cc86bafcc",
@@ -967,7 +1007,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/scotland-set-to-revive-push-for-independence-after-labour-flops",
     "published": "Fri, 08 May 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.108766"
+    "fetched_at": "2026-05-09T17:38:15.926236"
   },
   {
     "id": "7a942c4c3d39",
@@ -977,7 +1017,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/trump-s-anger-at-germany-hangs-over-eu-push-to-ratify-trade-deal",
     "published": "Fri, 08 May 2026 15:30:22 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.201894"
+    "fetched_at": "2026-05-09T17:38:16.026194"
   },
   {
     "id": "81ba2cb2ef67",
@@ -987,7 +1027,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/israel-tightens-grip-on-gaza-as-deadlock-with-hamas-persists",
     "published": "Fri, 08 May 2026 10:18:38 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.318475"
+    "fetched_at": "2026-05-09T17:38:16.135871"
   },
   {
     "id": "b80fecab835b",
@@ -997,7 +1037,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/putin-to-hold-victory-day-parade-after-truce-called-with-ukraine",
     "published": "Sat, 09 May 2026 06:46:06 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.433347"
+    "fetched_at": "2026-05-09T17:38:16.251243"
   },
   {
     "id": "212ec4646438",
@@ -1007,7 +1047,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/denmark-liberal-leader-takes-over-coalition-talks-after-pm-fails",
     "published": "Sat, 09 May 2026 08:48:01 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.534871"
+    "fetched_at": "2026-05-09T17:38:16.373599"
   },
   {
     "id": "10120ea7e15f",
@@ -1017,7 +1057,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/coup-against-uk-pm-complicated-as-rivals-lose-votes-on-home-turf",
     "published": "Sat, 09 May 2026 08:40:11 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.663895"
+    "fetched_at": "2026-05-09T17:38:16.473083"
   },
   {
     "id": "1a732bab3edb",
@@ -1027,7 +1067,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/poland-says-it-s-open-to-more-us-troops-if-moved-from-germany",
     "published": "Sat, 09 May 2026 07:54:40 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.769578"
+    "fetched_at": "2026-05-09T17:38:16.581646"
   },
   {
     "id": "40fa46931bfd",
@@ -1037,7 +1077,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/china-urges-france-to-help-keep-eu-markets-open-through-dialogue",
     "published": "Sat, 09 May 2026 07:48:09 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:25.889520"
+    "fetched_at": "2026-05-09T17:38:16.707259"
   },
   {
     "id": "9deac7efeeae",
@@ -1047,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/starmer-rivals-plot-slow-motion-takeover-after-uk-election-rout",
     "published": "Fri, 08 May 2026 20:29:28 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.004432"
+    "fetched_at": "2026-05-09T17:38:16.813766"
   },
   {
     "id": "b055fc7407d4",
@@ -1057,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/scottish-nationalists-seek-fifth-term-as-election-count-underway",
     "published": "Fri, 08 May 2026 11:53:37 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.116708"
+    "fetched_at": "2026-05-09T17:38:16.932026"
   },
   {
     "id": "1fc9a30f2458",
@@ -1067,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/india-names-new-defense-chief-as-military-overhaul-accelerates",
     "published": "Sat, 09 May 2026 06:41:40 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.227856"
+    "fetched_at": "2026-05-09T17:38:17.038816"
   },
   {
     "id": "2a64258b3bd8",
@@ -1077,7 +1117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/iran-businesses-buckle-under-strain-of-record-internet-shutdown",
     "published": "Sat, 09 May 2026 06:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.378444"
+    "fetched_at": "2026-05-09T17:38:17.136602"
   },
   {
     "id": "b31aacdd4497",
@@ -1087,7 +1127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/us-sanctions-chinese-satellite-imagery-companies-over-iran-war",
     "published": "Sat, 09 May 2026 05:44:16 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.496398"
+    "fetched_at": "2026-05-09T17:38:17.242314"
   },
   {
     "id": "3cc61243a1d8",
@@ -1097,7 +1137,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/vietnam-expands-south-china-sea-outposts-as-beijing-widens-lead",
     "published": "Sat, 09 May 2026 01:52:37 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.600072"
+    "fetched_at": "2026-05-09T17:38:17.352084"
   },
   {
     "id": "324743c2435c",
@@ -1107,7 +1147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-09/philippines-ex-president-duterte-taps-new-lawyer-for-icc-trial",
     "published": "Sat, 09 May 2026 01:01:50 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.697938"
+    "fetched_at": "2026-05-09T17:38:17.472622"
   },
   {
     "id": "eb6e62bb6009",
@@ -1117,7 +1157,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-05-08/balance-of-power-late-edition-05-08-2026-video",
     "published": "Fri, 08 May 2026 23:33:03 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.800747"
+    "fetched_at": "2026-05-09T17:38:17.582601"
   },
   {
     "id": "a5e9241645f6",
@@ -1127,46 +1167,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-08/us-expects-iranian-response-friday-amid-clashes-in-hormuz",
     "published": "Fri, 08 May 2026 17:07:51 GMT",
     "source": "International",
-    "fetched_at": "2026-05-09T14:35:26.919061"
-  },
-  {
-    "id": "cc104198f5ae",
-    "title": "Pressure is Mounting: Amb. Hale on US-Iran Relations",
-    "title_cn": "压力正在增加：Amb。黑尔谈美伊关系",
-    "summary": "David Hale, former US Ambassador to Lebanon and Pakistan & current Wilson Center Distinguished Fellow, shares his insight on how receptive he feels Iran is towards US asks amid renewed clashes in Hormuz. He also talks about what to expect from the summit between President Trump and China’s Xi Jinping. David speaks with Kailey Leinz on the late edition of Bloomberg’s “Balance of Power. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-08/pressure-is-mounting-amb-hale-on-us-iran-relations-video",
-    "published": "Fri, 08 May 2026 21:45:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:27.033751"
-  },
-  {
-    "id": "109ee01e85fb",
-    "title": "Exploring All Options: Rep. McClellan on Virginia's Top Court Blocks New Congressional Map",
-    "title_cn": "探索所有选择：众议员麦克莱伦在弗吉尼亚州最高法院阻止新的国会地图",
-    "summary": "Rep. Jennifer McClellan (D-VA) voices her frustration with Virginia’s Supreme Court striking down the state’s new redistricting map. She states political officials are “exploring all options” to turn this around, and emphasizes the need to mobilize and vote this November. She also talks about the US Supreme Court’s decision on the voting rights act and what the broader ramifications might be, along with whether or not she sees an end to the ongoing redistricting battle. Representative McClellan speaks with Kailey Leinz on the late edition of Bloomberg’s “Balance of Power.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-08/rep-mcclellan-on-virginia-court-blocks-new-map-video",
-    "published": "Fri, 08 May 2026 22:11:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:27.152997"
-  },
-  {
-    "id": "7b8f0c66830b",
-    "title": "Senegal’s Faye Repels Election Bill Seen Aiding Sonko’s 2029 Bid",
-    "title_cn": "塞内加尔的 Faye 否决了有助于 Sonko 2029 年竞选的选举法案",
-    "summary": "Senegalese President Bassirou Diomaye Faye sent back to parliament for reconsideration a set of electoral law amendments that may clear the way for Prime Minister Ousmane Sonko to run in the 2029 presidential election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/senegal-s-faye-repels-election-bill-seen-aiding-sonko-s-2029-bid",
-    "published": "Fri, 08 May 2026 22:57:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:27.261256"
-  },
-  {
-    "id": "001aaf1ff486",
-    "title": "Trump Plans to Fire FDA’s Makary After Tumult at Agency",
-    "title_cn": "在 FDA 发生骚乱后，特朗普计划解雇 FDA 的 Makary",
-    "summary": "President Donald Trump plans to fire Food and Drug Administration Commissioner Marty Makary, following months of chaos at one of the country’s most important health agencies, according to a person familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-08/trump-plans-to-fire-fda-s-marty-makary-after-tumult-at-agency",
-    "published": "Fri, 08 May 2026 17:51:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-05-09T14:35:27.368453"
+    "fetched_at": "2026-05-09T17:38:17.736512"
   }
 ]
