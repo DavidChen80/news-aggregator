@@ -1,363 +1,399 @@
 [
   {
+    "id": "f3a57cc6703e",
+    "title": "Trump Arrives in China With a Pack of Executives in Tow",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/beijing-summit-trump-arrives-in-china-with-a-pack-of-executives-in-tow",
+    "published": "Wed, 13 May 2026 21:33:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770442"
+  },
+  {
+    "id": "d0c77976c2a4",
+    "title": "Bloomberg Businessweek Daily: Trouble, Epstein Island (Podcast)",
+    "summary": "Source: Bloomberg, 26:37",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-businessweek-daily-trouble-epstein-island-podcast",
+    "published": "Wed, 13 May 2026 21:29:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770456"
+  },
+  {
+    "id": "33c4492dea25",
+    "title": "Stock Movers: Birkenstock, Cisco, Wix (Podcast)",
+    "summary": "Source: Bloomberg, 5:43",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-birkenstock-cisco-wix-podcast",
+    "published": "Wed, 13 May 2026 21:25:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770462"
+  },
+  {
+    "id": "a302d5be0f23",
+    "title": "Alberta’s Pipeline Moves Closer to Reality With Carbon Tax Sorted",
+    "summary": "Plus: Court throws out separatism petition",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/canada-alberta-agree-on-industrial-carbon-price",
+    "published": "Wed, 13 May 2026 21:20:45 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770468"
+  },
+  {
+    "id": "5fd21f46aa8d",
+    "title": "Stock Movers: Ford, Nvidia, Cisco (Podcast)",
+    "summary": "Source: Bloomberg, 8:45",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-ford-nvidia-cisco-podcast",
+    "published": "Wed, 13 May 2026 21:15:16 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770473"
+  },
+  {
+    "id": "ef9736a7fddb",
+    "title": "The Russian Disinformation Campaign Spreading Falsehoods at AI Speed",
+    "summary": "<p>On today’s Big Take podcast, a Bloomberg investigation exposes a flood of online disinformation tied to the group Storm-1516.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/meet-storm-1516-the-russian-operation-spreading-election-disinformation",
+    "published": "Wed, 13 May 2026 21:11:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770479"
+  },
+  {
+    "id": "add869dea8d5",
+    "title": "AI Chipmaker Cerebras Expects to Price Its IPO at $185 Per Share",
+    "summary": "Cerebras Systems Inc. expects to price its US initial public offering at $185 per share, according to people familiar with the matter, as the artificial intelligence chipmaker seizes on the surging demand for semiconductors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/ai-chipmaker-cerebras-said-poised-to-price-ipo-at-185-per-share",
+    "published": "Wed, 13 May 2026 20:11:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770485"
+  },
+  {
+    "id": "02a589f6e1eb",
+    "title": "Big Take: Finding the Source of Pro-Kremlin Fake Posts (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/big-take-finding-the-source-of-pro-kremlin-fake-posts-podcast",
+    "published": "Wed, 13 May 2026 21:08:27 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770494"
+  },
+  {
+    "id": "d7343a340a08",
+    "title": "Asia Centric: A Veteran’s Warning on Asia’s Private Credit Risks",
+    "summary": "The post-pandemic era transformed private credit into one of the hottest areas in finance as investors chased double-digit returns, creating a multi-trillion-dollar industry. Now, the narrative is quickly shifting as default rates climb, high-profile bankruptcies expose hidden leverage, and some major funds suddenly freeze withdrawals. So just how worried should we be, and what about Asian private credit specifically?",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/asia-centric-a-veteran-s-warning-on-asia-s-private-credit-risks",
+    "published": "Wed, 13 May 2026 21:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770499"
+  },
+  {
+    "id": "cbd1559ae923",
+    "title": "Bloomberg Businessweek Daily: Mrs. Dow Jones (Podcast)",
+    "summary": "Source: Bloomberg, 19:22",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-businessweek-daily-mrs-dow-jones-podcast",
+    "published": "Wed, 13 May 2026 20:55:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770505"
+  },
+  {
+    "id": "78e973366645",
+    "title": "At The Money: SpaceX IPO (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/at-the-money-spacex-ipo-podcast",
+    "published": "Wed, 13 May 2026 20:55:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770510"
+  },
+  {
+    "id": "d79ddf3042e3",
+    "title": "Warsh Confirmed as Fed Chair, Murdaugh Murder Conviction Tossed",
+    "summary": "Source: Bloomberg, 5:55",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/warsh-confirmed-as-fed-chair-murdaugh-murder-conviction-tossed-mp4jgfy7",
+    "published": "Wed, 13 May 2026 20:55:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770515"
+  },
+  {
+    "id": "31bf08f7dc81",
+    "title": "Dallas Exurb Hits Pause on Data Centers in Rare Texas Rebuke",
+    "summary": "A small Texas county outside Dallas approved a one-year moratorium on new data center and energy storage developments, pushing back against the growing number of large-scale projects fueling the artificial-intelligence boom across the state.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/dallas-exurb-hits-pause-on-data-centers-in-a-rare-texas-rebuke",
+    "published": "Wed, 13 May 2026 17:19:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770520"
+  },
+  {
+    "id": "25248f76a18f",
+    "title": "Trumponomics: The US Must Engage China on AI Safety  (Podcast)",
+    "summary": "Source: Bloomberg, 35:26",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trumponomics-the-us-must-engage-china-on-ai-safety-podcast",
+    "published": "Wed, 13 May 2026 20:25:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770525"
+  },
+  {
+    "id": "c3bd298e698a",
+    "title": "Balance of Power: Trump Lands in China for Xi Talks (Podcast)",
+    "summary": "Source: Bloomberg, 41:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/balance-of-power-trump-lands-in-china-for-xi-talks-podcast",
+    "published": "Wed, 13 May 2026 20:10:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770530"
+  },
+  {
+    "id": "3c41dae1411a",
+    "title": "Stocks Close Mixed, Hit New Highs, Warsh Confirmed as Fed Chair",
+    "summary": "Source: Bloomberg, 5:11",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stocks-close-mixed-hit-new-highs-warsh-confirmed-as-fed-chair",
+    "published": "Wed, 13 May 2026 20:09:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770535"
+  },
+  {
+    "id": "b84a0c1243fa",
+    "title": "S&amp;P 500 Hits Record as AI Enthusiasm Drowns Out Hotter Inflation",
+    "summary": "US equities rallied back to all-time highs on Wednesday as dip buyers overlooked rising cost pressures to snap up profit-generating technology firms after a pullback.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/stock-futures-signal-rebound-as-dip-buyers-snap-up-tech-shares",
+    "published": "Wed, 13 May 2026 12:11:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770540"
+  },
+  {
+    "id": "a49e76cfd0d3",
+    "title": "Stock Movers: Ford, ON Semi, Birkenstock (Podcast)",
+    "summary": "Source: Bloomberg, 4:03",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-ford-on-semi-birkenstock-podcast",
+    "published": "Wed, 13 May 2026 19:45:53 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770545"
+  },
+  {
+    "id": "460b4325717e",
+    "title": "The Deal: Alan Waxman (Podcast)",
+    "summary": "Source: Bloomberg, 24:30",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/the-deal-alan-waxman-podcast",
+    "published": "Wed, 13 May 2026 19:32:16 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770550"
+  },
+  {
+    "id": "7efa8975d2d8",
+    "title": "Bloomberg Talks: Max Levchin (Podcast)",
+    "summary": "Affirm’s CEO Max Levchin joined Bloomberg’s Caroline Hyde and Ed Ludlow to discuss the company’s strategic vision and growth prospects during the 2026 investor forum in New York. Highlighting recent announcements on agentic commerce and international expansion, Levchin emphasized that all key initiatives are aligning to drive significant growth. The fintech firm aims to reach $100 billion in annual transaction volume, building on strong momentum including a 33% year-over-year revenue increase to",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-talks-max-levchin-podcast-mp4g41mz",
+    "published": "Wed, 13 May 2026 19:21:34 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770555"
+  },
+  {
+    "id": "ab0a7fe2f158",
+    "title": "Warsh Confirmed as Fed Chair, Murdaugh Murder Conviction Tossed",
+    "summary": "Source: Bloomberg, 5:04",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/warsh-confirmed-as-fed-chair-murdaugh-murder-conviction-tossed",
+    "published": "Wed, 13 May 2026 19:15:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770560"
+  },
+  {
+    "id": "0fba05a7ff5e",
+    "title": "Bloomberg Tech: Anthropic Eyeing Over $900B Valuation (Podcast)",
+    "summary": "Source: Bloomberg, 45:31",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-tech-anthropic-eyeing-over-900b-valuation-podcast",
+    "published": "Wed, 13 May 2026 18:53:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770565"
+  },
+  {
+    "id": "a85a52abf030",
+    "title": "Two More Mining Companies Strike a Golden Handshake",
+    "summary": "Equinox Gold agreed to acquire Orla Mining in a $5.1 billion cash-and-stock deal.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/two-more-mining-companies-strike-a-golden-handshake",
+    "published": "Wed, 13 May 2026 18:19:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770570"
+  },
+  {
+    "id": "89bff8f43481",
+    "title": "Trump to Meet Xi in China, Murdaugh Gets New Murder Trial, More",
+    "summary": "Source: Bloomberg, 5:09",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trump-to-meet-xi-in-china-murdaugh-gets-new-murder-trial-more",
+    "published": "Wed, 13 May 2026 18:09:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770575"
+  },
+  {
+    "id": "368db6f78dd0",
+    "title": "Nobody Can Read the Prospectus",
+    "summary": "<p>Also Skechers appraisal, Segantii block trades and trading tournaments.</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-05-13/nobody-can-read-the-prospectus",
+    "published": "Wed, 13 May 2026 18:07:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770582"
+  },
+  {
+    "id": "71d2dd171658",
+    "title": "Trump in China, Murdaugh Murder Conviction Tossed, More",
+    "summary": "Source: Bloomberg, 4:07",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trump-in-china-murdaugh-murder-conviction-tossed-more",
+    "published": "Wed, 13 May 2026 17:17:48 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770587"
+  },
+  {
+    "id": "640ffe5256dc",
+    "title": "Gold Dealer’s Owner Said to Seek up to €500 Million in Milan IPO",
+    "summary": "Gens Aurea SpA is gearing up for an initial public offering that could raise between €300 million ($351.3 million) and €500 million, according to people familiar with the matter, in what could be Milan’s largest first-time share sale in three years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/gold-trader-s-owner-said-to-seek-up-to-500-million-in-milan-ipo",
+    "published": "Wed, 13 May 2026 17:10:55 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770593"
+  },
+  {
+    "id": "32cbdd39106a",
+    "title": "Tech’s Fast and Narrow Rally Is on Shaky Ground",
+    "summary": "The stock market has too much riding on a volatile and cyclical industry.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/us-stock-rally-has-too-much-riding-on-cyclical-chipmakers",
+    "published": "Wed, 13 May 2026 17:04:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770598"
+  },
+  {
+    "id": "f578f004383c",
+    "title": "Bloomberg Intelligence: Anthropic in Financing Talks (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-intelligence-anthropic-in-financing-talks-podcast",
+    "published": "Wed, 13 May 2026 16:44:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.770603"
+  },
+  {
     "id": "bfb1b7d8d744",
     "title": "Hot PPI Fuels Rate-Hike Bets, Murdaugh Gets New Murder Trial",
     "summary": "Source: Bloomberg, 4:38",
     "link": "https://www.bloomberg.com/news/audio/2026-05-13/hot-ppi-fuels-rate-hike-bets-murdaugh-gets-new-murder-trial",
     "published": "Wed, 13 May 2026 16:30:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531700"
+    "fetched_at": "2026-05-13T21:56:45.770607"
   },
   {
-    "id": "9f0e8e6ec8f0",
-    "title": "Bloomberg Talks: Max Levchin (Podcast)",
-    "summary": "Source: Bloomberg, 4:42",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-talks-max-levchin-podcast",
-    "published": "Wed, 13 May 2026 16:29:12 GMT",
+    "id": "8f78d7f3492a",
+    "title": "Venezuela Kickstarts $170 Billion Debt Restructuring Process",
+    "summary": "Venezuela hired a financial adviser as it launches one of the world’s largest-ever debt restructurings, aiming to rework an estimated $170 billion of defaulted bonds and loans.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/venezuela-government-announces-debt-restructuring-process",
+    "published": "Wed, 13 May 2026 19:16:37 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531711"
+    "fetched_at": "2026-05-13T21:56:45.946747"
   },
   {
-    "id": "075b78bef7b9",
-    "title": "The Iran War Is Going to Make Your Car’s Oil Change More Pricey",
-    "summary": "The Iran war is throwing a niche corner of the oil market into disarray as fallout from scrambled supply chains for the commodity reaches all the way to the automotive maintenance and industrial sectors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/the-iran-war-is-going-to-make-your-car-s-oil-change-more-pricey",
-    "published": "Wed, 13 May 2026 16:27:24 GMT",
+    "id": "2cb5535eba37",
+    "title": "Rare Earth Minerals Expected to be Central to Trump, Xi Talks",
+    "summary": "Lipi Sternheim, CEO of rare earth mining company REAlloys, said that his company is racing to build infrastructure to mine rare earth minerals in North America to compete with already established supply chains from China. Sternheim said that because US rare earths production won't happen overnight, it is important that president trump secures short term supply during his meeting with President Xi in China.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/rare-earths-expected-to-be-central-to-trump-xi-talks-video",
+    "published": "Wed, 13 May 2026 21:39:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531717"
+    "fetched_at": "2026-05-13T21:56:45.946757"
   },
   {
-    "id": "50bd0d6f5aa5",
-    "title": "The King’s Speechless: No One Is Certain If Starmer’s Legislative Agenda Will Be Enacted",
-    "summary": "The monarch came to parliament to launch the government’s plan for the year ahead as Starmer struggles to hold on to power",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/keir-starmer-s-political-woes-means-the-king-s-speech-may-never-be-enacted",
-    "published": "Wed, 13 May 2026 16:12:46 GMT",
+    "id": "f21a41ac11be",
+    "title": "Further Flight Cuts Mulled as Air NZ Forecasts Full-Year Loss",
+    "summary": "Air New Zealand expects a substantial full-year loss as the Middle East conflict stokes jet-fuel costs, forcing it to cut costs and reduce services.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/air-new-zealand-forecasts-full-year-loss-as-fuel-costs-surge",
+    "published": "Wed, 13 May 2026 20:58:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531723"
+    "fetched_at": "2026-05-13T21:56:45.946762"
   },
   {
-    "id": "0d1085f00dea",
-    "title": "Starmer Faces UK Leadership Challenge From Rival Wes Streeting",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/starmer-faces-uk-leadership-challenge-from-rival-wes-streeting",
-    "published": "Wed, 13 May 2026 16:00:18 GMT",
+    "id": "a7e8d50709ef",
+    "title": "How Atlanta Plans to Rebuild Its Downtown",
+    "summary": "Downtown Atlanta once stood at the center of the city’s cultural and economic life. After decades of decline, a $5 billion redevelopment project called Centennial Yards aims to transform a stretch of underused land known as \"the gulch\" into a new 50-acre hub for housing, entertainment and business. With the 2026 FIFA World Cup approaching and billions of dollars on the line, can this ambitious bet bring life back to the heart of Atlanta?  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-03-26/how-atlanta-plans-to-rebuild-its-downtown",
+    "published": "Thu, 26 Mar 2026 12:00:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531728"
+    "fetched_at": "2026-05-13T21:56:45.946769"
   },
   {
-    "id": "ea287933ad72",
-    "title": "Bloomberg Surveillance TV: May 13th, 2026 (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-surveillance-tv-may-13th-2026-podcast",
-    "published": "Wed, 13 May 2026 15:59:23 GMT",
+    "id": "34ca2824be63",
+    "title": "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach",
+    "summary": "Vistance Networks, formerly known as CommScope Holding Co., was sued by a group of lenders who allege the telecommunications provider breached a debt agreement by failing to pay a prescribed premium of at least $150 million following a key asset sale.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-12/commscope-sued-by-lenders-for-at-least-150-million-over-alleged-breach",
+    "published": "Tue, 12 May 2026 20:53:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531733"
-  },
-  {
-    "id": "b84a0c1243fa",
-    "title": "Stocks Climb as Chipmaker Enthusiasm Drowns Out Hotter Inflation",
-    "summary": "US equities edged higher on Wednesday as dip buyers overlooked rising cost pressures to snap up profit-generating technology firms after a pullback.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/stock-futures-signal-rebound-as-dip-buyers-snap-up-tech-shares",
-    "published": "Wed, 13 May 2026 12:11:07 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531739"
-  },
-  {
-    "id": "7890e429d98c",
-    "title": "Trump to Talk Trade With Xi in China, PPI Comes in Hot, More",
-    "summary": "Source: Bloomberg, 4:04",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trump-to-talk-trade-with-xi-in-china-ppi-comes-in-hot-more",
-    "published": "Wed, 13 May 2026 15:37:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531748"
-  },
-  {
-    "id": "bfa99f1cc7bd",
-    "title": "Stock Movers: Micron, Akamai, Trade Desk (Podcast)",
-    "summary": "Source: Bloomberg, 3:35",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-micron-akamai-trade-desk-podcast",
-    "published": "Wed, 13 May 2026 15:27:08 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531754"
-  },
-  {
-    "id": "53712aeb9cdf",
-    "title": "Zero: Electricity Will Power a Globally Stable Era (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/zero-electricity-will-power-a-globally-stable-era-podcast",
-    "published": "Wed, 13 May 2026 15:25:53 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531759"
-  },
-  {
-    "id": "683d7b540f86",
-    "title": "Bloomberg Surveillance: Market Rally and Private Credit(Podcast)",
-    "summary": "Source: Bloomberg, 27:01",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/bloomberg-surveillance-market-rally-and-private-credit-podcast",
-    "published": "Wed, 13 May 2026 15:12:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531764"
-  },
-  {
-    "id": "d074d6539d9e",
-    "title": "Trump in China, Warsh Vote Expected, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trump-in-china-warsh-vote-expected-more",
-    "published": "Wed, 13 May 2026 14:49:38 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531770"
-  },
-  {
-    "id": "291c167cb9cf",
-    "title": "Stock Movers: Nvidia, Wix.com, Birkenstock (Podcast)",
-    "summary": "Source: Bloomberg, 3:29",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-nvidia-wix-com-birkenstock-podcast",
-    "published": "Wed, 13 May 2026 14:26:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531775"
-  },
-  {
-    "id": "2482bd80290e",
-    "title": "Single Best Idea: White & McMillan (Podcast)",
-    "summary": "Source: Bloomberg, 4:55",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/single-best-idea-white-mcmillan-podcast",
-    "published": "Wed, 13 May 2026 14:18:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531780"
-  },
-  {
-    "id": "8217a2f0ef68",
-    "title": "Iran War Opens Opportunity for China to Flex Its GPS Alternative",
-    "summary": "Experts say Beidou, the Chinese satellite network, is now a key tool for Iran.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/iran-war-creates-opening-for-china-s-gps-satellite-alternative",
-    "published": "Wed, 13 May 2026 14:09:49 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531785"
-  },
-  {
-    "id": "68a3e8806fb5",
-    "title": "Airbus, Blackstone to Join €600 Million Quantum Systems Funding",
-    "summary": "Airbus SE and Blackstone Inc. are in talks to be among the leading investors in a roughly €600 million ($703 million) funding round for Quantum Systems, a German drone startup backed by Peter Thiel, people familiar with the matter said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/airbus-blackstone-to-join-600-million-quantum-systems-funding",
-    "published": "Wed, 13 May 2026 13:51:09 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531790"
-  },
-  {
-    "id": "5b15825009f2",
-    "title": "Stocks Lower as PPI Rises, Trump Lands in China, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stocks-lower-as-ppi-rises-trump-lands-in-china-more",
-    "published": "Wed, 13 May 2026 13:48:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531795"
-  },
-  {
-    "id": "5f98b5de09cb",
-    "title": "Credit Crunch: UK Crisis, Private and Middle-Market Credit",
-    "summary": "The UK is at the forefront of market headlines amid a political crisis and record gilt yields. In this episode of the Credit Crunch podcast, host Mahesh Bhimalingam, Bloomberg Intelligence’s global head of credit strategy, discusses how credit remains a safe haven in every crisis with Boris Okuliar, chief strategy officer and head of global diversified credit at Corinthia Global Management. They dig deep into the middle-market and private credit universe, covering deal profiles, spread premiums,",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/credit-crunch-uk-crisis-private-and-middle-market-credit",
-    "published": "Wed, 13 May 2026 13:41:38 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531800"
-  },
-  {
-    "id": "c0425c10283c",
-    "title": "Every Chip-Stock Position Is A Big One: Macro Man Podcast",
-    "summary": "Source: Bloomberg, 4:16",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/every-chip-stock-position-is-a-big-one-macro-man-podcast",
-    "published": "Wed, 13 May 2026 13:39:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531805"
-  },
-  {
-    "id": "9fcb6c5e0997",
-    "title": "US Housing Market Waits for Its Spring Rebound",
-    "summary": "Plus: NYC scraps property tax proposal, Blackstone drops a $4 billion deal, and a US suburb beats back sprawl",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/us-housing-market-waits-for-its-spring-rebound",
-    "published": "Wed, 13 May 2026 13:22:24 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531810"
-  },
-  {
-    "id": "b6f382b88cb7",
-    "title": "Stock Movers: NVDA, NBIS, SoftBank (Podcast)",
-    "summary": "Source: Bloomberg, 4:05",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-nvda-nbis-softbank-podcast",
-    "published": "Wed, 13 May 2026 13:15:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531815"
-  },
-  {
-    "id": "c9f4e5abc915",
-    "title": "War Puts African Food Security at Risk Far From Front Lines",
-    "summary": "While the planting season for Malawi’s summer crops is months away, the signs are ominous.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/iran-war-puts-african-food-security-at-risk-far-from-front-lines",
-    "published": "Wed, 13 May 2026 13:01:43 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531820"
-  },
-  {
-    "id": "a22f2fb1bac5",
-    "title": "European Carmakers Lobby Brussels as Industry Feels The Heat",
-    "summary": "Senior auto industry representatives are in Brussels today amid concerns over emissions proposals",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/european-carmakers-lobby-brussels-for-flexibility-on-emissions-rules",
-    "published": "Wed, 13 May 2026 13:00:07 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531825"
-  },
-  {
-    "id": "77957c9dc4a4",
-    "title": "Producer Prices Rise Most Since 2022, Trump in China, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/producer-prices-rise-most-since-2022-trump-in-china-more",
-    "published": "Wed, 13 May 2026 12:53:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531830"
-  },
-  {
-    "id": "9e210e645ea0",
-    "title": "Defense Firm CSG Made a Bid to Buy a Stake in KNDS, FT Says",
-    "summary": "Ammunition maker CSG NV approached the family that owns tank maker KNDS NV with an offer to buy a stake in the firm, the Financial Times reported.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/defense-firm-csg-made-a-bid-to-buy-a-stake-in-knds-ft-says",
-    "published": "Wed, 13 May 2026 12:05:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531834"
-  },
-  {
-    "id": "51aaedf17905",
-    "title": "Trump in China for High-Stakes Summit, Cisco Preview, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/trump-in-china-for-high-stakes-summit-cisco-preview-more",
-    "published": "Wed, 13 May 2026 11:55:43 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531843"
-  },
-  {
-    "id": "08f6e04d9762",
-    "title": "​Modi Takes a Heavy Hand to Curb India’s Love for Gold",
-    "summary": "India is the world’s second-largest market for bullion.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/modi-doubles-duties-on-gold-silver-imports-to-protect-rupee-control-deficit",
-    "published": "Wed, 13 May 2026 11:33:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531849"
-  },
-  {
-    "id": "9faa753dd077",
-    "title": "Stock Movers: NVDA, MU, Zebra (Podcast)",
-    "summary": "Source: Bloomberg, 4:43",
-    "link": "https://www.bloomberg.com/news/audio/2026-05-13/stock-movers-nvda-mu-zebra-podcast",
-    "published": "Wed, 13 May 2026 11:15:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531854"
-  },
-  {
-    "id": "7075ecb98b0a",
-    "title": "Nvidia’s CEO Huang Joins Trump in China",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/nvidia-s-ceo-huang-joins-trump-in-china",
-    "published": "Wed, 13 May 2026 11:06:57 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531859"
-  },
-  {
-    "id": "ecb3e391fecd",
-    "title": "Ares-Arcmont Bury Rivalry in Credit Secondaries Mega Deal",
-    "summary": "Firms craft blueprint for direct lending JVs built on trust and tight safeguards",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-05-13/ares-arcmont-bury-rivalry-in-credit-secondaries-mega-deal",
-    "published": "Wed, 13 May 2026 11:03:56 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.531864"
-  },
-  {
-    "id": "ecd4783ba0eb",
-    "title": "Gilts, Sterling Correlation Underscores UK Vulnerabilities",
-    "summary": "Keir Starmer’s government vowed to protect the UK against external and economic threats in a King’s Speech that majored on security even as the prime minister faces a potential challenge to his own leadership.\nJane Foley, Head of FX Strategy at RaboBank, explains how the UK's political uncertainty is impacting the currency market, following King Charles' address to parliament. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-13/gilts-sterling-correlation-underscores-uk-vulnerability-video",
-    "published": "Wed, 13 May 2026 16:25:35 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681089"
-  },
-  {
-    "id": "0d132b58347f",
-    "title": "Copper Nears Record High on Tight Global Supply; Aluminum Surges",
-    "summary": "Copper extended gains above $14,000 a ton, inching toward a record set in late January, as supply risks mount from mine disruptions around the world. Aluminum surged to the highest in more than four years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/copper-climbs-toward-record-high-as-global-supply-tightens",
-    "published": "Wed, 13 May 2026 03:08:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681095"
-  },
-  {
-    "id": "42a7245d65bd",
-    "title": "Dish Soap and Flip-Flops Turn Political in Polarized Brazil",
-    "summary": "Five months before a presidential election, Brazil’s most heated political debate is a fight over dish soap.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/dish-soap-and-flip-flops-turn-political-in-polarized-brazil",
-    "published": "Wed, 13 May 2026 16:13:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681101"
-  },
-  {
-    "id": "fb246b9458c9",
-    "title": "Bharti to Boost Airtel Africa Stake in $2.9 Billion Deal",
-    "summary": "Bharti Airtel Ltd. will boost its stake in its UK-listed African subsidiary through a $2.9 billion share swap, before a planned initial public offering of the unit’s mobile-money business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/bharti-to-raise-airtel-africa-stake-in-2-9-billion-stock-swap",
-    "published": "Wed, 13 May 2026 12:57:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681107"
-  },
-  {
-    "id": "f0bc2f50c751",
-    "title": "Golub Capital Names Co-CEO, Co-Presidents for First Time",
-    "summary": "Alternative asset manager Golub Capital is promoting its president, David Golub, to co-chief executive officer alongside his brother Lawrence Golub.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/golub-capital-names-co-ceo-co-presidents-for-first-time",
-    "published": "Wed, 13 May 2026 13:16:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681112"
+    "fetched_at": "2026-05-13T21:56:45.946774"
   },
   {
     "id": "0a1329995e6f",
-    "title": "Bonds Fall as Inflation Pickup Fuels Fed-Hike Bets: Markets Wrap",
-    "summary": "A resurgence in inflation sent bonds lower on concern the Federal Reserve will keep rates higher for longer, with a war-driven surge in energy costs threatening to ripple through other parts of the economy.",
+    "title": "Stocks Get Tech Boost to Hit Fresh All-Time Highs: Markets Wrap",
+    "summary": "A rally in technology giants drove stocks to all-time highs, overshadowing data showing a resurgence in inflation that fueled wagers the Federal Reserve will keep rates higher for longer.",
     "link": "https://www.bloomberg.com/news/articles/2026-05-12/asian-stocks-under-pressure-as-us-inflation-rises-markets-wrap",
     "published": "Tue, 12 May 2026 22:08:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681117"
+    "fetched_at": "2026-05-13T21:56:45.946779"
   },
   {
-    "id": "b85d45dbff96",
-    "title": "Swiss Say Nuclear Plants Are Economically Viable for 80 Years",
-    "summary": "Switzerland said its nuclear power plants in Goesgen and Leibstadt can profitably run for as long as 80 years, two decades beyond previous projections.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/swiss-say-nuclear-plants-are-economically-viable-for-80-years",
-    "published": "Wed, 13 May 2026 15:44:18 GMT",
+    "id": "e8069434aa31",
+    "title": "Lululemon's Incoming CEO Aims to Get Brand Back on Track",
+    "summary": "Lululemon Athletica’s incoming CEO Heidi O’Neill gave her first speech to the company’s employees this week, in which she pledged to put the athleisure brand back on track. Romaine Bostick and Katie Greifeld have more on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/lululemon-s-incoming-ceo-aims-to-get-brand-back-on-track-video",
+    "published": "Wed, 13 May 2026 21:24:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681127"
+    "fetched_at": "2026-05-13T21:56:45.946784"
   },
   {
-    "id": "d6401fc7be5b",
-    "title": "Equinox Gold Agrees to Buy Orla Mining in $5.1 Billion Deal",
-    "summary": "Equinox Gold Corp. agreed to acquire Canada’s Orla Mining Ltd. for about $5.1 billion, the latest in a wave of gold-mining deals as producers seek to boost output and reserves after a massive price rally in bullion over the past year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/equinox-gold-agrees-to-buy-orla-mining-in-cash-and-stock-deal",
-    "published": "Wed, 13 May 2026 10:11:20 GMT",
+    "id": "aaaf742defce",
+    "title": "Brazil’s Real Slumps on Report Tying Bolsonaro to Bank Scandal",
+    "summary": "Brazil’s currency slumped Wednesday after a news website linked right-wing presidential candidate Flavio Bolsonaro to Daniel Vorcaro, the jailed former chief executive of a bank at the center of a massive fraud probe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/brazil-real-falls-on-report-bolsonaro-negotiated-with-master-ceo",
+    "published": "Wed, 13 May 2026 18:29:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681132"
+    "fetched_at": "2026-05-13T21:56:45.946789"
   },
   {
-    "id": "4013b950b932",
-    "title": "Stegra and Its Lenders Agree to Unlock €1.5 Billion Debt Funding",
-    "summary": "Stegra AB has agreed with creditors to unlock about €1.5 billion ($1.8 billion) of undrawn credit lines which, together with recently secured equity funding, will help complete what will be the world’s biggest green-steel plant.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/stegra-and-its-lenders-agree-to-unlock-1-5-billion-debt-funding",
-    "published": "Wed, 13 May 2026 15:40:13 GMT",
+    "id": "8819fed1ab37",
+    "title": "Live Sports are Scarce Asset: Nussbaum",
+    "summary": "Ian Nussbaum, partner at Latham & Watkins, joins Dani Burger and Michelle Davis on \"Bloomberg Deals.\" They discuss sports media rights deals and the value of live entertainment to dealmakers. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/live-sports-are-scarce-asset-nussbaum-video",
+    "published": "Wed, 13 May 2026 18:28:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681137"
+    "fetched_at": "2026-05-13T21:56:45.946794"
   },
   {
-    "id": "a8784849b57d",
-    "title": "Bloomberg Surveillance 5/13/2026",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-13/bloomberg-surveillance-5-13-2026-video",
-    "published": "Wed, 13 May 2026 15:33:50 GMT",
+    "id": "5c1a0e602adc",
+    "title": "AI Good for Media IP: Citigroup's Mohr",
+    "summary": "Christina Mohr, global chair of M&amp;A at Citigroup, and Ian Nussbaum, partner at Latham & Watkins, join Dani Burger and Michelle Davis on \"Bloomberg Deals.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/ai-good-for-media-ip-citigroup-s-mohr-video",
+    "published": "Wed, 13 May 2026 20:28:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681142"
+    "fetched_at": "2026-05-13T21:56:45.946799"
+  },
+  {
+    "id": "4daeeb9831bf",
+    "title": "Inside Jeffrey Epstein’s Network of Power",
+    "summary": "Jeffrey Epstein built a network of elites across finance, politics and academia. By analyzing thousands of documents, Bloomberg mapped its reach and how it widened even as allegations against him accumulated. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/inside-jeffery-epstein-s-network-of-power-video-mp4jn4ho",
+    "published": "Wed, 13 May 2026 21:00:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946810"
+  },
+  {
+    "id": "0fdc460497f5",
+    "title": "Geothermal Firm Fervo Soars 35% After $1.89 Billion IPO",
+    "summary": "Fervo Energy Co. shares jumped 35% in their trading debut after the geothermal energy developer raised $1.89 billion in an upsized US initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/geothermal-energy-firm-fervo-rises-33-after-1-89-billion-ipo",
+    "published": "Wed, 13 May 2026 17:13:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946815"
+  },
+  {
+    "id": "b1bbd8896840",
+    "title": "Ford Shares Take Biggest Leap Since 2020 | Closing Bell",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/ford-shares-take-biggest-leap-since-2020-closing-bell-video",
+    "published": "Wed, 13 May 2026 20:25:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946820"
+  },
+  {
+    "id": "7c33e9cf4ecf",
+    "title": "Nvidia Chips, Boeing Jets: Stock Traders Eye Trump in China",
+    "summary": "An upcoming meeting between US President Donald Trump and his Chinese counterpart Xi Jinping could be the next test for stocks that are clocking one record after the next.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/nvidia-tesla-shares-advance-as-ceos-join-trump-s-trip-to-china",
+    "published": "Wed, 13 May 2026 12:06:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946834"
   },
   {
     "id": "6746600a87ee",
@@ -366,7 +402,25 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-12/gold-holds-decline-as-us-inflation-jump-lowers-rate-cut-odds",
     "published": "Tue, 12 May 2026 22:54:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681147"
+    "fetched_at": "2026-05-13T21:56:45.946839"
+  },
+  {
+    "id": "fceaa5b51b44",
+    "title": "Ford Soars Most in Six Years on Possible Hyperscaler Tie-Ups",
+    "summary": "Ford Motor Co. stock surged Wednesday after Morgan Stanley issued a bullish call that the automaker’s energy storage business could soon make a deal with hyperscalers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/ford-shares-soar-after-morgan-stanley-s-bullish-call-on-energy",
+    "published": "Wed, 13 May 2026 17:23:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946849"
+  },
+  {
+    "id": "e7dc9b196aa7",
+    "title": "Brazil’s Big Bank Scandal Threatens a Bolsonaro Ally",
+    "summary": "In Brazil’s rough-and-tumble Congress, Senator Ciro Nogueira rose to near-untouchable status for his skill in kingmaking and cutting deals while fending off corruption allegations that have dogged his long career. Now fresh accusations are threatening to sink him.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-10/brazil-s-sprawling-bank-scandal-threatens-a-top-bolsonaro-ally",
+    "published": "Sun, 10 May 2026 20:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946854"
   },
   {
     "id": "acad3396bd1f",
@@ -375,106 +429,88 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-13/us-10-year-treasury-yield-hits-highest-since-july-after-ppi-data",
     "published": "Wed, 13 May 2026 12:39:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681152"
+    "fetched_at": "2026-05-13T21:56:45.946859"
   },
   {
-    "id": "cca1de46a75d",
-    "title": "Alibaba, Tencent Fall Short of Expectations for Big AI Payoff",
-    "summary": "China’s twin leaders in artificial intelligence reported revenue that fell short of estimates, signaling the challenges in translating higher spending on AI into faster growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/alibaba-revenue-misses-estimates-despite-ai-monetization-efforts",
-    "published": "Wed, 13 May 2026 09:39:53 GMT",
+    "id": "a1538a2777e0",
+    "title": "Wells Fargo Raises $6 Billion From Its Latest Bond Sale",
+    "summary": "Wells Fargo &amp; Co. sold $6 billion of investment-grade bonds Wednesday, a month after the bank reported weaker-than-expected quarterly results.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/wells-fargo-markets-investment-grade-bond-sale-in-three-parts",
+    "published": "Wed, 13 May 2026 13:14:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681157"
+    "fetched_at": "2026-05-13T21:56:45.946864"
+  },
+  {
+    "id": "0586165f441d",
+    "title": "ECB’s Lagarde Sees Make-or-Break Moment to Reform European Union",
+    "summary": "European Union leaders must show courage in strengthening the bloc’s foundations, according to European Central Bank President Christine Lagarde.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/ecb-s-lagarde-sees-make-or-break-moment-to-reform-european-union",
+    "published": "Wed, 13 May 2026 19:50:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946869"
+  },
+  {
+    "id": "a329decb28df",
+    "title": "Canadian Miner to Start Graphite Project in Challenge to China Dominance",
+    "summary": "Nouveau Monde Graphite Inc. expects to formally green-light plans this week to build one of North America’s few graphite projects, as countries seek to weaken China’s dominance over the critical mineral.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/canadian-miner-nouveau-monde-nmg-to-give-green-light-for-quebec-project",
+    "published": "Wed, 13 May 2026 19:45:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946874"
+  },
+  {
+    "id": "f7f7fffc95c3",
+    "title": "Anthropic Could Be Valued At $900B In New Raise, Next Chapter For Media | Bloomberg Deals 5/13/2026",
+    "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Honeywell CEO Vimal Kapur, Citigroup Global Chair of M&amp;A Christina Mohr, Latham & Watkins Ian Nussbaum, and TPG Partner David Trujillo. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/bloomberg-deals-5-13-2026-video",
+    "published": "Wed, 13 May 2026 19:14:28 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-05-13T21:56:45.946879"
   },
   {
     "id": "a26f4cd00ef2",
-    "title": "Oil Holds Steady on Mideast Impasse and Shrinking Inventories",
-    "summary": "Oil largely held its 8% surge over the past three sessions as Middle East tensions simmer and global stockpiles shrink at a record pace.",
+    "title": "Oil Dips Ahead of Trump-Xi Meeting as Mideast Tensions Simmer",
+    "summary": "Oil slipped in volatile trading as traders awaited a pivotal meeting between US President Donald Trump and Chinese counterpart Xi Jinping, while fresh US data suggested stockpile have yet to drop to critical levels.",
     "link": "https://www.bloomberg.com/news/articles/2026-05-12/latest-oil-market-news-and-analysis-for-may-13",
     "published": "Tue, 12 May 2026 22:03:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681162"
+    "fetched_at": "2026-05-13T21:56:45.946884"
   },
   {
-    "id": "fa8176e8ac9a",
-    "title": "Polymarket Trading Volume Declines for First Time Since August",
-    "summary": "Trading volume on Polymarket has declined for the first time in eight months, a setback that comes as its founder acknowledges missteps and its chief rival Kalshi Inc. continues to grow.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/polymarket-trading-volume-declines-for-first-time-since-august",
-    "published": "Wed, 13 May 2026 15:09:35 GMT",
+    "id": "956c13f7ffcf",
+    "title": "Short-Seller Left Didn’t Make ‘Sense,’ Cronos CEO Testifies",
+    "summary": "The chief executive officer of a Canadian cannabis distributor told jurors at the US criminal trial of Citron Research founder Andrew Left he was stunned when the prominent short-seller issued a report saying the company was overvalued, prompting shares to plunge.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/short-seller-left-didn-t-make-much-sense-cronos-ceo-testifies",
+    "published": "Wed, 13 May 2026 00:42:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681167"
+    "fetched_at": "2026-05-13T21:56:45.946889"
   },
   {
-    "id": "ebc722c7385e",
-    "title": "Chinese Tanker Set to Test US Hormuz Naval Blockade",
-    "summary": "A Chinese-owned supertanker hauling Iraqi crude through the Persian Gulf is set to test the US blockade over the next 24 hours as it attempts to exit the largely shuttered Strait of Hormuz. The transit would coincide with President Donald Trump’s visit to Beijing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/hormuz-tracker-chinese-tanker-set-to-test-us-naval-blockade",
-    "published": "Wed, 13 May 2026 14:52:50 GMT",
+    "id": "1bc88d6ab974",
+    "title": "ECB’s Lane Outlines Factors That Will Affect Rate Move",
+    "summary": "European Central Bank Chief Economist Philip Lane kept his cards close to his chest on whether he’ll propose an interest-rate hike next month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/lane-reveals-what-may-tip-the-ecb-toward-rate-hike-or-hold",
+    "published": "Wed, 13 May 2026 19:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681171"
+    "fetched_at": "2026-05-13T21:56:45.946894"
   },
   {
-    "id": "c12f797e80ef",
-    "title": "BlackRock Expects Increased Downgrades for State Borrowers",
-    "summary": "The market for state and local government debt is becoming “less forgiving,” according to BlackRock Inc.’s Pat Haskell, who leads the firm’s municipal bond group.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/blackrock-says-increased-downgrades-looming-for-state-borrowers",
-    "published": "Wed, 13 May 2026 09:00:00 GMT",
+    "id": "b2c1eed80d97",
+    "title": "Soy Group Won’t Support Bill on Higher Corn-Ethanol Gasoline",
+    "summary": "The American Soybean Association said it “cannot support” legislation that would expand higher-ethanol gasoline, creating a split with corn farmers who stand to benefit from an expanded biofuels market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-05-13/soy-group-says-it-can-t-support-bill-on-higher-ethanol-gasoline",
+    "published": "Wed, 13 May 2026 13:58:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681176"
+    "fetched_at": "2026-05-13T21:56:45.946899"
   },
   {
-    "id": "0bf8647ec975",
-    "title": "Nvidia Gains on China Trip; Softbank Up on Quarterly Profit Beat | Stock Movers",
-    "summary": "On this episode of Stock Movers with John Tucker:\n\n- Nvidia (NVDA) shares are higher on news CEO Jensen Huang joined US President Donald Trump on his visit to China as a last-minute addition, thrusting AI and technology into the spotlight before a high-stakes Beijing summit.\n- Nebius Group (NBIS) is moving this morning as it reported revenue for the first quarter that beat the average analyst estimate.\n- SoftBank (SFTBY) is up after it reported a surge in quarterly profit due to valuation gains on its OpenAI investment. The gains on OpenAI outweighed lackluster investment gains elsewhere in the Tokyo-based technology group’s portfolio while war in the Middle East roiled markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-13/nvidia-gains-on-china-trip-softbank-up-on-profit-beat-video",
-    "published": "Wed, 13 May 2026 14:39:55 GMT",
+    "id": "aa7fba59050f",
+    "title": "Elite M&A Lawyers Fed Massive Insider-Trading Ring: US",
+    "summary": "Bloomberg's Chris Dolmetsch joins Dani Burger on \"Bloomberg Deals.\" Lawyers from top mergers and acquisitions firms provided tips on some of the biggest deals of the last decade to an insider trading ring that made tens of millions of dollars in illegal profits, federal prosecutors said. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-13/elite-m-a-lawyers-fed-massive-insider-trading-ring-us-video",
+    "published": "Wed, 13 May 2026 18:27:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681181"
-  },
-  {
-    "id": "c5308885407e",
-    "title": "Agnico Eagle Plans $10 Billion Investment in Ontario Gold Assets",
-    "summary": "Agnico Eagle Mines Ltd. said it will invest about C$14 billion ($10.2 billion) in Ontario, which the province says is one of the biggest ever private sector commitments in its mining industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/agnico-eagle-plans-10-billion-investment-in-ontario-gold-assets",
-    "published": "Wed, 13 May 2026 14:35:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681186"
-  },
-  {
-    "id": "bba4b7dc9f7e",
-    "title": "Skechers Ups Offer to Hedge Funds Challenging Price of 3G Buyout",
-    "summary": "Skechers USA Inc. increased its offer to resolve a lawsuit brought by hedge funds and other investors challenging 3G Capital’s $9.4 billion purchase of the footwear maker after settlement talks failed last year, according to people familiar with the situation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/skechers-ups-offer-to-hedge-funds-challenging-price-of-3g-buyout",
-    "published": "Wed, 13 May 2026 14:25:41 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681191"
-  },
-  {
-    "id": "467b80b58291",
-    "title": "Goeasy Launches Plan to Thwart Takeover Bids After Stock’s 76% Plunge",
-    "summary": "Subprime lender Goeasy Ltd. adopted a shareholder rights plan as its results showed more consumer credit strain. The shares fell.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-12/goeasy-launches-plan-to-thwart-takeover-bids-after-stock-s-76-plunge",
-    "published": "Tue, 12 May 2026 22:01:08 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681195"
-  },
-  {
-    "id": "2de5f98dabaf",
-    "title": "JPMorgan Reshuffles Investment Bank Leadership",
-    "summary": "JPMorgan Chase named Dorothee Blessing, Kevin Foley and Jared Kaye as co-heads of its global investment banking business. Katherine Doherty has more on the shakeup on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-13/jpmorgan-reshuffles-investment-bank-leadership-video",
-    "published": "Wed, 13 May 2026 14:09:55 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681200"
-  },
-  {
-    "id": "92d4715d481a",
-    "title": "PE-Owned Insurers Boosting Private Credit Holdings, Study Finds",
-    "summary": "Life insurance companies owned by private equity firms have quietly reshaped their portfolios, piling into higher-yielding alternative credit in a shift that’s entangled the industry with the broader financial system, according to researchers at the Federal Reserve Bank of Chicago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/pe-owned-insurers-boosting-private-credit-holdings-study-finds",
-    "published": "Wed, 13 May 2026 14:09:20 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681205"
+    "fetched_at": "2026-05-13T21:56:45.946904"
   },
   {
     "id": "26fa010620ee",
@@ -483,42 +519,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-05-13/kharg-island-oil-jetties-empty-again-yesterday-satellite-shows",
     "published": "Wed, 13 May 2026 11:00:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681210"
-  },
-  {
-    "id": "adb8da4c2aec",
-    "title": "Lone Star-Owned German Bank IKB Is Exposed to Collapse of UK Mortgage Firm MFS",
-    "summary": "A German bank owned by US investment firm Lone Star Funds is among the growing list of lenders exposed to Market Financial Solutions Ltd., the latest example of how the local UK firm’s collapse has spilled across foreign credit markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/lone-star-owned-german-bank-ikb-is-exposed-to-collapse-of-uk-mortgage-firm-mfs",
-    "published": "Wed, 13 May 2026 13:40:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681215"
-  },
-  {
-    "id": "943f00960001",
-    "title": "Nvidia's CEO Is a Late Add to Trump's China Trip",
-    "summary": "President Donald Trump invited Nvidia co-founder Jensen Huang to join him on his trip to China at the last minute. This brings AI and chips into the spotlight. Tim Cook and Elon Musk also went along. Bloomberg's Annmarie Hordern is traveling with the president and reports from Beijing. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-05-13/nvidia-s-ceo-is-a-late-add-to-trump-s-china-trip-video",
-    "published": "Wed, 13 May 2026 13:53:45 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681220"
-  },
-  {
-    "id": "958eeb52e6f8",
-    "title": "Family Offices Build Stake in Miner After Stock Soars 900%",
-    "summary": "For decades, the risky world of early-stage mining ventures was the playground of institutional funds and commodity trading houses. But after a more than 900% rally in a little-known Canadian potash developer last year, a new class of investors is moving in: family offices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-12/family-offices-build-stake-in-niche-miner-after-stock-soars-900",
-    "published": "Tue, 12 May 2026 20:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681225"
-  },
-  {
-    "id": "7c33e9cf4ecf",
-    "title": "Nvidia Chips, Boeing Jets: Stock Traders Focus on Trump in China",
-    "summary": "An upcoming meeting between US President Donald Trump and his Chinese counterpart Xi Jinping could be the next test for stocks that are clocking one record after the next.",
-    "link": "https://www.bloomberg.com/news/articles/2026-05-13/nvidia-tesla-shares-advance-as-ceos-join-trump-s-trip-to-china",
-    "published": "Wed, 13 May 2026 12:06:13 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-05-13T16:42:18.681229"
+    "fetched_at": "2026-05-13T21:56:45.946908"
   }
 ]
