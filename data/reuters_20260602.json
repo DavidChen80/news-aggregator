@@ -1,123 +1,93 @@
 [
   {
-    "id": "5a2dc6c07853",
-    "title": "Trump to Keep Audit Immunity, Names Pulte Acting DNI, More",
-    "title_cn": "特朗普将保持审计豁免权，任命普尔特为代理国家情报总监等",
+    "id": "fc0e16951ebc",
+    "title": "Bloomberg Businessweek Daily: Short Seller Convicted (Podcast)",
+    "title_cn": "彭博商业周刊：卖空者被定罪（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-businessweek-daily-short-seller-convicted-podcast",
+    "published": "Tue, 02 Jun 2026 20:51:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:36.704369"
+  },
+  {
+    "id": "6b5698d538c2",
+    "title": "Stocks Close at Record Highs, Trump Audit Immunity Intact, More",
+    "title_cn": "股市收盘创历史新高，特朗普审计豁免权完好无损，更多",
+    "summary": "Source: Bloomberg, 5:28",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stocks-close-at-record-highs-trump-audit-immunity-intact-more",
+    "published": "Tue, 02 Jun 2026 20:45:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:36.822129"
+  },
+  {
+    "id": "6676d0d0b6f9",
+    "title": "Huge AI Bonuses Spark South Korea Tech Wealth Fight",
+    "title_cn": "巨额人工智能奖金引发韩国科技财富之争",
+    "summary": "<p>Samsung averted a crippling strike by paying massive bonuses to its chip workers. But the move has sparked resentment in other divisions, fueling a global debate about how to share AI windfalls.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/samsung-ai-windfall-how-massive-chip-bonuses-sparked-a-global-labor-debate",
+    "published": "Tue, 02 Jun 2026 20:32:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:36.969257"
+  },
+  {
+    "id": "dab6b83a3eb1",
+    "title": "Stock Movers: Victoria's Secret, HPE, Freddie/Fannie (Podcast)",
+    "title_cn": "库存推动者：维多利亚的秘密、HPE、Freddie/Fannie（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-victoria-s-secret-hpe-freddie-fannie-podcast",
+    "published": "Tue, 02 Jun 2026 20:14:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:37.085923"
+  },
+  {
+    "id": "9c721ca6ac88",
+    "title": "Big Take: Huge AI Bonuses Cause Worker Rift at Samsung (Podcast)",
+    "title_cn": "大观点：巨额人工智能奖金导致三星员工不和（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/big-take-huge-ai-bonuses-cause-worker-rift-at-samsung-podcast",
+    "published": "Tue, 02 Jun 2026 20:10:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:37.205619"
+  },
+  {
+    "id": "379a8fc7f1a6",
+    "title": "Trump to Keep Audit Immunity, Pulte Named New Acting DNI, More",
+    "title_cn": "特朗普将保持审计豁免权，普尔特被任命为新代理国家情报总监等",
+    "summary": "Source: Bloomberg, 5:57",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-to-keep-audit-immunity-pulte-named-new-acting-dni-more",
+    "published": "Tue, 02 Jun 2026 19:23:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:37.333326"
+  },
+  {
+    "id": "0ec5540bdb01",
+    "title": "Stock Movers: HPE, Victoria's Secret, Shake Shack (Podcast)",
+    "title_cn": "库存推动者：HPE、维多利亚的秘密、Shake Shack（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-hpe-victoria-s-secret-shake-shack-podcast-mpx0ctsm",
+    "published": "Tue, 02 Jun 2026 19:05:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:37.470197"
+  },
+  {
+    "id": "d7dd01f91094",
+    "title": "Balance of Power: Trump Aims to Calm Lebanon Tensions (Podcast)",
+    "title_cn": "权力平衡：特朗普旨在平息黎巴嫩紧张局势（播客）",
+    "summary": "Source: Bloomberg, 40:53",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/balance-of-power-trump-aims-to-calm-lebanon-tensions-podcast",
+    "published": "Tue, 02 Jun 2026 18:47:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:37.568001"
+  },
+  {
+    "id": "1c57f0d90964",
+    "title": "Trump Audit Immunity Intact, Pulte Named Acting DNI, More",
+    "title_cn": "特朗普审计豁免权完好无损，普尔特被任命为代理国家情报总监等",
     "summary": "Source: Bloomberg, 5:48",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-to-keep-audit-immunity-names-pulte-acting-dni-more",
-    "published": "Tue, 02 Jun 2026 17:21:47 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-audit-immunity-intact-pulte-named-acting-dni-more",
+    "published": "Tue, 02 Jun 2026 18:31:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:23.906608"
-  },
-  {
-    "id": "145210ad5e89",
-    "title": "Bloomberg Talks: Antonio Neri (Podcast)",
-    "title_cn": "彭博社谈话：安东尼奥·内里（播客）",
-    "summary": "Source: Bloomberg, 7:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-talks-antonio-neri-podcast",
-    "published": "Tue, 02 Jun 2026 17:19:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.031796"
-  },
-  {
-    "id": "d74dc0239155",
-    "title": "Bloomberg Tech:  Anthropic Files For IPO (Podcast)",
-    "title_cn": "彭博科技：Anthropic 申请 IPO（播客）",
-    "summary": "Source: Bloomberg, 46:38",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-tech-anthropic-files-for-ipo-podcast",
-    "published": "Tue, 02 Jun 2026 17:15:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.162291"
-  },
-  {
-    "id": "9c808cbeb5a9",
-    "title": "Bloomberg Intelligence: SpaceX Wants Bankers Fee Cut (Podcast)",
-    "title_cn": "彭博资讯：SpaceX 希望银行家削减费用（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-intelligence-spacex-wants-bankers-fee-cut-podcast",
-    "published": "Tue, 02 Jun 2026 17:01:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.292967"
-  },
-  {
-    "id": "f08445cdac73",
-    "title": "Inside Active: Baillie Gifford’s Coutts, Burns Look Beyond US",
-    "title_cn": "内部活跃：Baillie Gifford 的 Coutts、Burns 放眼美国以外",
-    "summary": "Europe and Japan’s earnings outlooks have improved, with double-digit growth expectations, though upgrades are concentrated in technology and energy, while inflation pressures could weigh on valuations. In this episode of Inside Active, host David Cohne, mutual fund and active management analyst at Bloomberg Intelligence, and co-host Laurent Douillet, senior equity strategist at BI, speak with Tom Coutts and Lawrence Burns, portfolio managers at Baillie Gifford, and subadvisers on the Vanguard I",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/inside-active-baillie-gifford-s-coutts-burns-look-beyond-us",
-    "published": "Tue, 02 Jun 2026 16:57:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.423466"
-  },
-  {
-    "id": "a3e5aa64d76c",
-    "title": "Alphabet $80 Billion Equity Sale Set to Break Fundraising Record",
-    "title_cn": "Alphabet 800 亿美元股权出售将打破融资纪录",
-    "summary": "Alphabet Inc.’s surprise $80 billion sale of equity to fund spending on artificial intelligence infrastructure is expected to become the biggest equity capital markets transaction of all time, according to data compiled by Bloomberg.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/alphabet-80-billion-equity-sale-set-to-break-fundraising-record",
-    "published": "Tue, 02 Jun 2026 16:41:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.563533"
-  },
-  {
-    "id": "9c2c05984e26",
-    "title": "NATO-US Tensions ‘More Difficult to Manage,’ Says Former Chief",
-    "title_cn": "前任主席表示，北约与美国的紧张局势“更难以管理”",
-    "summary": "Get Caught Up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/nato-us-tensions-more-difficult-to-manage-says-former-chief",
-    "published": "Tue, 02 Jun 2026 16:28:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:24.698270"
-  },
-  {
-    "id": "8bfabcd1f1e6",
-    "title": "Trump Audit Immunity Intact, Signs AI Rule For Federal Agencies",
-    "title_cn": "特朗普审计豁免权完好无损，签署联邦机构人工智能规则",
-    "summary": "Source: Bloomberg, 5:55",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-audit-immunity-intact-signs-ai-rule-for-federal-agencies",
-    "published": "Tue, 02 Jun 2026 16:21:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:25.729238"
-  },
-  {
-    "id": "770440919476",
-    "title": "These Are Taxing Times for Britain’s Labour Government",
-    "title_cn": "现在是英国工党政府征税的时代",
-    "summary": "Brexit Britain has become increasingly like a typical EU economy since the referendum",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/these-are-taxing-times-for-starmer-s-labour-government",
-    "published": "Tue, 02 Jun 2026 16:16:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:25.848003"
-  },
-  {
-    "id": "c54e1ecc3ad9",
-    "title": "Bloomberg Surveillance TV: June 2nd, 2026 (Podcast)",
-    "title_cn": "彭博监控电视：2026 年 6 月 2 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-surveillance-tv-june-2nd-2026-podcast",
-    "published": "Tue, 02 Jun 2026 16:01:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:25.965304"
-  },
-  {
-    "id": "e8defdd18288",
-    "title": "OpenAI Plans AI Tools for Finance, Legal in Race With Anthropic",
-    "title_cn": "OpenAI 计划与 Anthropic 竞争金融、法律领域的人工智能工具",
-    "summary": "OpenAI is expanding the functionality of its artificial intelligence coding agent for a number of professions beyond software engineering, a bid to compete with rivals such as Anthropic PBC in signing up more business customers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic",
-    "published": "Tue, 02 Jun 2026 15:48:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:26.120171"
-  },
-  {
-    "id": "ffb9ed956f28",
-    "title": "English-Law Restructuring Tool Finds New Home in Italy",
-    "title_cn": "英国法重组工具在意大利找到新家",
-    "summary": "MTD used a distressed disposal in a first for Italy",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/english-law-restructuring-tool-finds-new-home-in-italy",
-    "published": "Tue, 02 Jun 2026 15:45:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:26.255439"
+    "fetched_at": "2026-06-02T20:55:37.684117"
   },
   {
     "id": "b7c6772915e8",
@@ -127,107 +97,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-to-get-audit-immunity-even-as-1-8-billion-fund-in-doubt",
     "published": "Tue, 02 Jun 2026 15:01:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:26.944264"
+    "fetched_at": "2026-06-02T20:55:38.029825"
   },
   {
-    "id": "0790a6b603c3",
-    "title": "Bloomberg Talks: Filippo Falorni (Podcast)",
-    "title_cn": "彭博社谈话：Filippo Falorni（播客）",
-    "summary": "Source: Bloomberg, 5:23",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-talks-filippo-falorni-podcast",
-    "published": "Tue, 02 Jun 2026 15:37:43 GMT",
+    "id": "45f5f2d0dcd6",
+    "title": "Google Needs More Money",
+    "title_cn": "谷歌需要更多资金",
+    "summary": "<p>Also residual value guarantees, Andrew Left and hedging bar tabs on Kalshi.&nbsp;</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-06-02/google-needs-more-money",
+    "published": "Tue, 02 Jun 2026 18:15:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.080288"
+    "fetched_at": "2026-06-02T20:55:38.201959"
   },
   {
-    "id": "c8c7b1ed5cd2",
-    "title": "Trump to Keep Audit Immunity, Pulte Named Acting DNI, More",
-    "title_cn": "特朗普将保持审计豁免权，普尔特被任命为代理国家情报总监等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-to-keep-audit-immunity-pulte-named-acting-dni-more",
-    "published": "Tue, 02 Jun 2026 15:29:42 GMT",
+    "id": "0705a14fd7e6",
+    "title": "Foes of Trump’s $1.8 Billion Fund Vow to Keep Fighting in Courts",
+    "title_cn": "特朗普 18 亿美元基金的反对者誓言继续在法庭上抗争",
+    "summary": "Opponents of the $1.8 billion fund proposed to settle President Donald Trump’s lawsuit against the Internal Revenue Service say they aren’t abandoning their court fights following reports that US officials may drop the plan.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/foes-of-trump-s-1-8-billion-fund-vow-to-keep-fighting-in-courts",
+    "published": "Tue, 02 Jun 2026 18:09:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.198545"
-  },
-  {
-    "id": "21871198e0e4",
-    "title": "Stock Movers: HPE, Victoria's Secret, Shake Shack (Podcast)",
-    "title_cn": "库存推动者：HPE、维多利亚的秘密、Shake Shack（播客）",
-    "summary": "Source: Bloomberg, 4:10",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-hpe-victoria-s-secret-shake-shack-podcast",
-    "published": "Tue, 02 Jun 2026 15:15:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.321446"
-  },
-  {
-    "id": "64d768d4f1a2",
-    "title": "Single Best Idea: Mortonson & Gannon (Podcast)",
-    "title_cn": "单一最佳创意：Mortonson & Gannon（播客）",
-    "summary": "Source: Bloomberg, 2:38",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/single-best-idea-mortonson-gannon-podcast",
-    "published": "Tue, 02 Jun 2026 14:36:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.456495"
-  },
-  {
-    "id": "f18e5cf0744f",
-    "title": "Pulte Named Acting DNI, Lebanon Threatens Iran Deal, More",
-    "title_cn": "普尔特被任命为代理国家情报总监，黎巴嫩威胁伊朗协议等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/pulte-named-acting-dni-lebanon-threatens-iran-deal-more",
-    "published": "Tue, 02 Jun 2026 14:35:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.570792"
-  },
-  {
-    "id": "c1e5e7113620",
-    "title": "Stock Movers: Marvell, Victoria's Secret, Deere (Podcast)",
-    "title_cn": "库存推动者：Marvell、维多利亚的秘密、迪尔（播客）",
-    "summary": "Source: Bloomberg, 3:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-marvell-victoria-s-secret-deere-podcast",
-    "published": "Tue, 02 Jun 2026 14:21:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.685463"
-  },
-  {
-    "id": "54714c7bc7eb",
-    "title": "Bloomberg Surveillance: Equity and Credit Trends (Podcast)",
-    "title_cn": "彭博监测：股票和信贷趋势（播客）",
-    "summary": "Source: Bloomberg, 33:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-surveillance-equity-and-credit-trends-podcast",
-    "published": "Tue, 02 Jun 2026 13:49:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.825104"
-  },
-  {
-    "id": "0d42b5e3f206",
-    "title": "Stocks Stall, Traders Weigh Iran Prospects, Pulte Acting DNI",
-    "title_cn": "股票停滞，交易员权衡伊朗前景，普尔特代理国家情报总监",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stocks-stall-traders-weigh-iran-prospects-pulte-acting-dni",
-    "published": "Tue, 02 Jun 2026 13:38:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:27.966322"
-  },
-  {
-    "id": "6a83b2ce5675",
-    "title": "Stock Movers: VSC0, HPE, MRVL (Podcast)",
-    "title_cn": "库存推动者：VSC0、HPE、MRVL（播客）",
-    "summary": "Source: Bloomberg, 4:43",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-vsc0-hpe-mrvl-podcast",
-    "published": "Tue, 02 Jun 2026 13:13:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.102090"
-  },
-  {
-    "id": "87c623055c94",
-    "title": "What Went Unsaid at the Shangri-La Dialogue",
-    "title_cn": "香格里拉对话中未说的话",
-    "summary": "The Shangri-La Dialogue in Singapore brought together top military and civilian leaders to talk defense. But from Iran to Taiwan, what they didn’t say often spoke louder than their prepared remarks.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/shangri-la-dialogue-s-high-impact-quiet-truths",
-    "published": "Tue, 02 Jun 2026 13:04:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.223469"
+    "fetched_at": "2026-06-02T20:55:38.387556"
   },
   {
     "id": "c69b2465b996",
@@ -237,137 +127,177 @@
     "link": "https://www.bloomberg.com/news/features/2026-06-02/scotland-s-tartan-army-shells-out-for-long-awaited-world-cup-return-in-boston",
     "published": "Tue, 02 Jun 2026 09:00:18 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.336439"
+    "fetched_at": "2026-06-02T20:55:38.581847"
   },
   {
-    "id": "93bc5c21d224",
-    "title": "Global Biotech Giants Deepen Ties with China’s Drugmakers",
-    "title_cn": "全球生物科技巨头加深与中国制药商的联系",
-    "summary": "The world’s biggest pharmaceutical companies are signing multibillion-dollar licensing deals with Chinese drugmakers. Here’s why.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/global-biotech-giants-deepen-ties-with-china-s-drugmakers",
-    "published": "Tue, 02 Jun 2026 13:02:15 GMT",
+    "id": "5a2dc6c07853",
+    "title": "Trump to Keep Audit Immunity, Names Pulte Acting DNI, More",
+    "title_cn": "特朗普将保持审计豁免权，任命普尔特为代理国家情报总监等",
+    "summary": "Source: Bloomberg, 5:48",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-to-keep-audit-immunity-names-pulte-acting-dni-more",
+    "published": "Tue, 02 Jun 2026 17:21:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.465520"
+    "fetched_at": "2026-06-02T20:55:38.706881"
   },
   {
-    "id": "fc6b2e207b4b",
-    "title": "Kenya’s Mass Housing Drive Stirs a Hornets’ Nest",
-    "title_cn": "肯尼亚的大规模住房建设搅动了马蜂窝",
-    "summary": "Thousands evicted to make way for new developments.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/next-africa-kenya-s-mass-housing-drive-stirs-a-hornets-nest",
-    "published": "Tue, 02 Jun 2026 13:00:05 GMT",
+    "id": "145210ad5e89",
+    "title": "Bloomberg Talks: Antonio Neri (Podcast)",
+    "title_cn": "彭博社谈话：安东尼奥·内里（播客）",
+    "summary": "Source: Bloomberg, 7:53",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-talks-antonio-neri-podcast",
+    "published": "Tue, 02 Jun 2026 17:19:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.599547"
+    "fetched_at": "2026-06-02T20:55:38.832362"
   },
   {
-    "id": "95205303ab4c",
-    "title": "EU Moves to Strengthen Tech Base to Counter US and China",
-    "title_cn": "欧盟采取行动加强技术基础以对抗美国和中国",
-    "summary": "A draft document we’ve seen includes measures to bolster cloud and AI ecosystem",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/eu-s-tech-sovereignty-act-aims-to-boost-industrial-tech-and-cloud-base",
-    "published": "Tue, 02 Jun 2026 13:00:02 GMT",
+    "id": "d74dc0239155",
+    "title": "Bloomberg Tech:  Anthropic Files For IPO (Podcast)",
+    "title_cn": "彭博科技：Anthropic 申请 IPO（播客）",
+    "summary": "Source: Bloomberg, 46:38",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-tech-anthropic-files-for-ipo-podcast",
+    "published": "Tue, 02 Jun 2026 17:15:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.733609"
+    "fetched_at": "2026-06-02T20:55:38.949994"
   },
   {
-    "id": "f930094083f3",
-    "title": "Stocks Stall, Traders Weigh Peace Deal Prospects, More",
-    "title_cn": "股市停滞，交易员权衡和平协议前景等",
+    "id": "9c808cbeb5a9",
+    "title": "Bloomberg Intelligence: SpaceX Wants Bankers Fee Cut (Podcast)",
+    "title_cn": "彭博资讯：SpaceX 希望银行家削减费用（播客）",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stocks-stall-traders-weigh-peace-deal-prospects-more",
-    "published": "Tue, 02 Jun 2026 12:54:34 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-intelligence-spacex-wants-bankers-fee-cut-podcast",
+    "published": "Tue, 02 Jun 2026 17:01:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:28.877463"
+    "fetched_at": "2026-06-02T20:55:39.128239"
   },
   {
-    "id": "c02a1b4095bc",
-    "title": "Nvidia CEO Gives India Tech Bulls New Ammunition",
-    "title_cn": "英伟达首席执行官为印度科技牛市提供新弹药",
-    "summary": "Huang dismisses fears that AI will decimate the software industry.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/indian-tech-industry-s-ai-anxiety-meets-nvidia-ceo-s-rebuttal",
-    "published": "Tue, 02 Jun 2026 12:25:23 GMT",
+    "id": "f08445cdac73",
+    "title": "Inside Active: Baillie Gifford’s Coutts, Burns Look Beyond US",
+    "title_cn": "内部活跃：Baillie Gifford 的 Coutts、Burns 放眼美国以外",
+    "summary": "Europe and Japan’s earnings outlooks have improved, with double-digit growth expectations, though upgrades are concentrated in technology and energy, while inflation pressures could weigh on valuations. In this episode of Inside Active, host David Cohne, mutual fund and active management analyst at Bloomberg Intelligence, and co-host Laurent Douillet, senior equity strategist at BI, speak with Tom Coutts and Lawrence Burns, portfolio managers at Baillie Gifford, and subadvisers on the Vanguard I",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/inside-active-baillie-gifford-s-coutts-burns-look-beyond-us",
+    "published": "Tue, 02 Jun 2026 16:57:14 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.028061"
+    "fetched_at": "2026-06-02T20:55:39.264055"
   },
   {
-    "id": "5ad1ddc61426",
-    "title": "Palo Alto CEO’s Pay, Now Nearly $100 Million, Is Most Rejected in Corporate America",
-    "title_cn": "帕洛阿尔托首席执行官的薪酬现已接近 1 亿美元，在美国企业界最受拒绝",
-    "summary": "<p>A&nbsp;majority of Palo Alto Networks investors have voted against the cybersecurity company’s executive pay seven times in 11&nbsp;years. That’s despite the company’s stock&nbsp;soaring.&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-06-02/palo-alto-networks-panw-shareholders-balk-at-ceo-pay-despite-share-surge",
-    "published": "Tue, 02 Jun 2026 12:15:04 GMT",
+    "id": "a3e5aa64d76c",
+    "title": "Alphabet $80 Billion Equity Sale Set to Break Fundraising Record",
+    "title_cn": "Alphabet 800 亿美元股权出售将打破融资纪录",
+    "summary": "Alphabet Inc.’s surprise $80 billion sale of equity to fund spending on artificial intelligence infrastructure is expected to become the biggest equity capital markets transaction of all time, according to data compiled by Bloomberg.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/alphabet-80-billion-equity-sale-set-to-break-fundraising-record",
+    "published": "Tue, 02 Jun 2026 16:41:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.153261"
+    "fetched_at": "2026-06-02T20:55:39.380896"
   },
   {
-    "id": "122cca944674",
-    "title": "AI Fuels $280 Billion Cybersecurity Rally as Earnings Test Looms",
-    "title_cn": "随着盈利测试的临近，人工智能推动网络安全上涨 2800 亿美元",
-    "summary": "Investors are about to get a read on the durability of the soaring rally in cybersecurity stocks when two of the industry’s major players report earnings in the coming days.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-crowdstrike-earnings-to-put-37-cyber-rally-to-test",
-    "published": "Tue, 02 Jun 2026 10:44:46 GMT",
+    "id": "9c2c05984e26",
+    "title": "NATO-US Tensions ‘More Difficult to Manage,’ Says Former Chief",
+    "title_cn": "前任主席表示，北约与美国的紧张局势“更难以管理”",
+    "summary": "Get Caught Up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/nato-us-tensions-more-difficult-to-manage-says-former-chief",
+    "published": "Tue, 02 Jun 2026 16:28:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.412150"
+    "fetched_at": "2026-06-02T20:55:39.487634"
   },
   {
-    "id": "3e7e7f6f738c",
-    "title": "12 Reasons This Is The Worst Crypto Winter Ever",
-    "title_cn": "这是有史以来最糟糕的加密货币冬天的 12 个原因",
-    "summary": "It’s getting colder and colder.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/12-reasons-this-is-the-worst-crypto-winter-ever",
-    "published": "Tue, 02 Jun 2026 17:35:01 GMT",
+    "id": "8bfabcd1f1e6",
+    "title": "Trump Audit Immunity Intact, Signs AI Rule For Federal Agencies",
+    "title_cn": "特朗普审计豁免权完好无损，签署联邦机构人工智能规则",
+    "summary": "Source: Bloomberg, 5:55",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-audit-immunity-intact-signs-ai-rule-for-federal-agencies",
+    "published": "Tue, 02 Jun 2026 16:21:45 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.526066"
+    "fetched_at": "2026-06-02T20:55:39.609007"
   },
   {
-    "id": "7e1c8133372f",
-    "title": "Perplexity Is 'Chip Agnostic,' Says CEO",
-    "title_cn": "首席执行官表示，困惑与“芯片无关”",
-    "summary": "Computex in Taiwan is putting the spotlight on the companies building the hardware behind the AI boom. One of those companies is Perplexity, which took the stage with Intel to unveil the world's first \"hybrid local/server agentic inference orchestrator.\" Perplexity CEO Aravind Srinivas joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/perplexity-is-chip-agnostic-says-ceo-video",
-    "published": "Tue, 02 Jun 2026 17:28:37 GMT",
+    "id": "770440919476",
+    "title": "These Are Taxing Times for Britain’s Labour Government",
+    "title_cn": "现在是英国工党政府征税的时代",
+    "summary": "Brexit Britain has become increasingly like a typical EU economy since the referendum",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/these-are-taxing-times-for-starmer-s-labour-government",
+    "published": "Tue, 02 Jun 2026 16:16:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.653512"
+    "fetched_at": "2026-06-02T20:55:39.787873"
   },
   {
-    "id": "9617e86c8e81",
-    "title": "True Space Age Is Starting Now, Says Impulse Space CEO",
-    "title_cn": "Impulse Space 首席执行官表示，真正的太空时代现在已经开始",
-    "summary": "Impulse Space, led by SpaceX alumnus Tom Mueller, just nabbed a $4 billion valuation after the company raised $500 million to scale its 'space tugs,' or spacecraft that can haul satellites across different orbits. Impulse Space Founder and CEO Tom Mueller joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/true-space-age-is-starting-now-says-impulse-space-ceo-video",
-    "published": "Tue, 02 Jun 2026 17:25:51 GMT",
+    "id": "c54e1ecc3ad9",
+    "title": "Bloomberg Surveillance TV: June 2nd, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 6 月 2 日（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-surveillance-tv-june-2nd-2026-podcast",
+    "published": "Tue, 02 Jun 2026 16:01:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.770685"
+    "fetched_at": "2026-06-02T20:55:39.903110"
   },
   {
-    "id": "275a0937b4a4",
-    "title": "Protesters March in Tirana as PM Defends Kushner Resort",
-    "title_cn": "抗议者在地拉那游行，总理捍卫库什纳度假村",
-    "summary": "Protesters marched in Albania’s capital against a €4 billion ($4.7 billion) luxury resort linked to Jared Kushner, the son-in-law of US President Donald Trump, as opposition widened over the project’s environmental impact and land ownership.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/albania-pm-vows-to-press-ahead-with-kushner-resort-amid-protests",
-    "published": "Tue, 02 Jun 2026 12:47:07 GMT",
+    "id": "e8defdd18288",
+    "title": "OpenAI Plans AI Tools for Finance, Legal in Race With Anthropic",
+    "title_cn": "OpenAI 计划与 Anthropic 竞争金融、法律领域的人工智能工具",
+    "summary": "OpenAI is expanding the functionality of its artificial intelligence coding agent for a number of professions beyond software engineering, a bid to compete with rivals such as Anthropic PBC in signing up more business customers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/openai-plans-ai-tools-for-finance-legal-in-race-with-anthropic",
+    "published": "Tue, 02 Jun 2026 15:48:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:29.896990"
+    "fetched_at": "2026-06-02T20:55:40.063351"
   },
   {
-    "id": "3c257fe0b7f3",
-    "title": "Optimum Pushes Apollo, Ares Feud to Brink With Asset Shift",
-    "title_cn": "Optimum 将阿波罗、阿瑞斯之争推向资产转移的边缘",
-    "summary": "One of the most bitter feuds in distressed-debt investing, between billionaire Patrick Drahi and some of the world’s biggest money managers, has suddenly gotten even more contentious.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/optimum-pushes-apollo-ares-debt-feud-to-brink-with-asset-shift",
-    "published": "Tue, 02 Jun 2026 00:41:43 GMT",
+    "id": "ffb9ed956f28",
+    "title": "English-Law Restructuring Tool Finds New Home in Italy",
+    "title_cn": "英国法重组工具在意大利找到新家",
+    "summary": "MTD used a distressed disposal in a first for Italy",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/english-law-restructuring-tool-finds-new-home-in-italy",
+    "published": "Tue, 02 Jun 2026 15:45:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.017873"
+    "fetched_at": "2026-06-02T20:55:40.185262"
   },
   {
-    "id": "d6caf7c2d412",
-    "title": "Tech Stocks Drive S&amp;P 500 to Nine-Day Winning Run: Markets Wrap",
-    "title_cn": "科技股推动标准普尔 500 指数连续九天上涨：市场总结",
-    "summary": "A revival of the artificial-intelligence trade kept driving Wall Street momentum, with stocks also rising on hopes for an agreement that would end the war that has roiled financial markets around the world.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap",
-    "published": "Mon, 01 Jun 2026 22:12:24 GMT",
+    "id": "0790a6b603c3",
+    "title": "Bloomberg Talks: Filippo Falorni (Podcast)",
+    "title_cn": "彭博社谈话：Filippo Falorni（播客）",
+    "summary": "Source: Bloomberg, 5:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/bloomberg-talks-filippo-falorni-podcast",
+    "published": "Tue, 02 Jun 2026 15:37:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.145394"
+    "fetched_at": "2026-06-02T20:55:40.295384"
+  },
+  {
+    "id": "c8c7b1ed5cd2",
+    "title": "Trump to Keep Audit Immunity, Pulte Named Acting DNI, More",
+    "title_cn": "特朗普将保持审计豁免权，普尔特被任命为代理国家情报总监等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/trump-to-keep-audit-immunity-pulte-named-acting-dni-more",
+    "published": "Tue, 02 Jun 2026 15:29:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:40.419256"
+  },
+  {
+    "id": "21871198e0e4",
+    "title": "Stock Movers: HPE, Victoria's Secret, Shake Shack (Podcast)",
+    "title_cn": "库存推动者：HPE、维多利亚的秘密、Shake Shack（播客）",
+    "summary": "Source: Bloomberg, 4:10",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/stock-movers-hpe-victoria-s-secret-shake-shack-podcast",
+    "published": "Tue, 02 Jun 2026 15:15:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:40.529359"
+  },
+  {
+    "id": "64d768d4f1a2",
+    "title": "Single Best Idea: Mortonson & Gannon (Podcast)",
+    "title_cn": "单一最佳创意：Mortonson & Gannon（播客）",
+    "summary": "Source: Bloomberg, 2:38",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/single-best-idea-mortonson-gannon-podcast",
+    "published": "Tue, 02 Jun 2026 14:36:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:40.656511"
+  },
+  {
+    "id": "f18e5cf0744f",
+    "title": "Pulte Named Acting DNI, Lebanon Threatens Iran Deal, More",
+    "title_cn": "普尔特被任命为代理国家情报总监，黎巴嫩威胁伊朗协议等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-02/pulte-named-acting-dni-lebanon-threatens-iran-deal-more",
+    "published": "Tue, 02 Jun 2026 14:35:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:40.756130"
   },
   {
     "id": "4750298382e5",
@@ -377,7 +307,177 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/canadian-stocks-index-hits-35-000-amid-rally-in-energy",
     "published": "Tue, 02 Jun 2026 17:13:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.269565"
+    "fetched_at": "2026-06-02T20:55:41.033373"
+  },
+  {
+    "id": "597da055e4e4",
+    "title": "Gold Rises As Traders Weigh Confusion Over US-Iran Talks",
+    "title_cn": "交易员对美伊谈判感到困惑，金价上涨",
+    "summary": "Axel Merk, founder and CIO of Merk Investments, said that while gold remains a relatively 'calm' investment, the world around the commodity and the geopolitical and economic 'crosscurrents' including AI investment and the war with Iran have created volatility in markets. \t (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/gold-rises-as-traders-weigh-confusion-over-us-iran-talks-video",
+    "published": "Tue, 02 Jun 2026 20:35:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:41.189461"
+  },
+  {
+    "id": "f28b3b17a4c9",
+    "title": "Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets",
+    "title_cn": "美国就业数据加强了高利率押注，黄金价格下跌",
+    "summary": "Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer, a headwind for the precious metal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-01/gold-holds-fall-as-traders-digest-confusion-over-us-iran-talks",
+    "published": "Mon, 01 Jun 2026 23:11:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:41.395684"
+  },
+  {
+    "id": "aedfbdd399f7",
+    "title": "Short-Sellers Are Dug In as Bond Market Faces Big Payrolls Test",
+    "title_cn": "债券市场面临就业大考验，卖空者陷入困境",
+    "summary": "Bond traders are locked in to wagers on higher yields even after paring some of their more extreme positions, with critical US employment data due on Friday that may add to the argument for Federal Reserve interest-rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/short-sellers-are-dug-in-as-bond-market-faces-big-payrolls-test",
+    "published": "Tue, 02 Jun 2026 20:30:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:41.543471"
+  },
+  {
+    "id": "057a1c316a95",
+    "title": "Momei Qu on Berkshire Hathaway Endorsing AI",
+    "title_cn": "曲莫梅谈伯克希尔哈撒韦公司支持人工智能",
+    "summary": "Momei Qu of PSP Growth discussed the significance of Berkshire Hathaway's recent actions, interpreting them as a strong endorsement of AI as more than just market hype. According to Qu, Berkshire's involvement signals that AI represents a durable infrastructure shift that merits substantial investment. This perspective aligns with Alphabet's announcement to raise $80 billion in equity to fund its AI initiatives, underscoring the growing confidence in AI's transformative potential across industries. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/momei-qu-on-berkshire-hathaway-endorsing-ai-video",
+    "published": "Tue, 02 Jun 2026 20:29:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:41.745165"
+  },
+  {
+    "id": "bc9d4ecb4fdd",
+    "title": "Marvell Soars the Most Since 2000 After $1 Trillion Stock Call",
+    "title_cn": "Marvell 股票上涨 1 万亿美元，股价创 2000 年以来最大涨幅",
+    "summary": "Marvell Technology Inc. shares surged the most in 26 years after Nvidia Corp.’s Jensen Huang predicted that the semiconductor and networking company would be the next business to hit a $1 trillion valuation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company",
+    "published": "Tue, 02 Jun 2026 10:41:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:41.939258"
+  },
+  {
+    "id": "183bc54eefcb",
+    "title": "Victoria’s Secret Stock Rises 47% | Closing Bell",
+    "title_cn": "维多利亚的秘密 (Victoria’s Secret) 股价上涨 47% |结束钟声",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/victoria-s-secret-stock-rises-47-closing-bell-video",
+    "published": "Tue, 02 Jun 2026 20:26:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:42.115549"
+  },
+  {
+    "id": "30707117d4ae",
+    "title": "Aberdeen Economist on Falling Brent Crude Prices",
+    "title_cn": "阿伯丁经济学家谈布伦特原油价格下跌",
+    "summary": "Sree Kochugovindan, Senior Research Economist at Aberdeen Investments, focusing on current market sentiment. The recent decline in Brent crude prices, which dropped by 0.72% to $94.30 per barrel. The segment aims to provide insights into the factors influencing investor confidence and market dynamics in the Middle East and Africa region. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/aberdeen-economist-on-falling-brent-crude-prices-video",
+    "published": "Tue, 02 Jun 2026 20:25:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:42.252767"
+  },
+  {
+    "id": "a653f6827878",
+    "title": "S&amp;P 500 Ties Longest Streak Since 1995 as AI Powers Advance",
+    "title_cn": "随着人工智能的进步，标普 500 指数追平 1995 年以来的最长连胜纪录",
+    "summary": "The S&amp;P 500 Index climbed for a ninth-straight session on Tuesday, matching its longest winning streak since 1995, as traders piled into artificial-intelligence stocks amid developments in the Middle East.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-stock-futures-pull-back-as-traders-evaluate-mideast-news",
+    "published": "Tue, 02 Jun 2026 12:14:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:42.379039"
+  },
+  {
+    "id": "b9897da033ca",
+    "title": "Middle Market Businesses 'Real Driver of Economy' Says Wendy Stewart",
+    "title_cn": "温迪·斯图尔特表示，中间市场企业是“经济的真正推动者”",
+    "summary": "Wendy Stewart, president of Global Commercial Banking at Bank of America, said that middle market businesses are driving the economy right now, driving growth and hiring and firing amid an uncertain economic environment. \nStewart also said that global supply chains still exist, but that businesses have to be flexible given the geopolitical landscape.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/middle-market-real-driver-of-economy-says-stewart-video",
+    "published": "Tue, 02 Jun 2026 20:20:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:42.566804"
+  },
+  {
+    "id": "0205fa63094d",
+    "title": "Blue Owl Tech Private Credit Fund Sells $500 Million Bonds",
+    "title_cn": "Blue Owl Tech 私人信贷基金出售 5 亿美元债券",
+    "summary": "A private credit fund managed by Blue Owl Capital Inc. sold $500 million of investment-grade bonds on Tuesday, according to a person familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/blue-owl-tech-private-credit-fund-is-selling-300-million-bonds",
+    "published": "Tue, 02 Jun 2026 15:31:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:42.744221"
+  },
+  {
+    "id": "c3156a1b940f",
+    "title": "CoreWeave-Tied Data Center Raises $900 Million in Junk-Bond Sale",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "A data center tied to CoreWeave Inc. raised $900 million from a high-yield note offering, joining a wave of junk issuers tapping debt markets to fund artificial intelligence infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/coreweave-tied-data-center-raises-900-million-in-junk-bond-sale",
+    "published": "Tue, 02 Jun 2026 20:10:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.061623"
+  },
+  {
+    "id": "d6caf7c2d412",
+    "title": "S&amp;P 500 Tops 7,600 as AI Fuels Nine-Day Win Streak: Markets Wrap",
+    "title_cn": "人工智能助推九天连胜，标普 500 指数突破 7,600 点：市场总结",
+    "summary": "A revival of the artificial-intelligence trade kept driving Wall Street momentum, with stocks also rising on hopes for an agreement that would end the war that has roiled financial markets around the world.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap",
+    "published": "Mon, 01 Jun 2026 22:12:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.172245"
+  },
+  {
+    "id": "7c9847cc5334",
+    "title": "UBS Sells $1.5 Billion AT1, First Since Swiss Reform Pause",
+    "title_cn": "瑞士银行暂停改革以来首次出售 15 亿美元 AT1",
+    "summary": "UBS Group AG raised $1.5 billion of Additional Tier 1 capital in US dollars, its first foray into the market since Switzerland paused plans to tighten rules on the riskiest type of bank debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/ubs-offers-first-at1-bond-since-swiss-authorities-paused-reforms",
+    "published": "Tue, 02 Jun 2026 08:50:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.301307"
+  },
+  {
+    "id": "c3c85e936ec6",
+    "title": "Venezuela Moves to Open Power Sector to Private Investment",
+    "title_cn": "委内瑞拉向私人投资开放电力行业",
+    "summary": "Venezuela’s National Assembly will debate a reform that would open the country’s electricity sector to private investment, allowing companies to generate, distribute and sell power under government concessions after more than 15 years of state control.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-moves-to-open-power-sector-to-private-investment",
+    "published": "Tue, 02 Jun 2026 19:48:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.423194"
+  },
+  {
+    "id": "3b5e1501457b",
+    "title": "Copper and Aluminum Power Higher on Global Demand, War Outlook",
+    "title_cn": "铜和铝电力因全球需求和战争前景而走高",
+    "summary": "Copper topped $14,000 a ton and aluminum advanced to its highest in more than four years as optimism over demand and supply constraints outweighed concerns over the unresolved conflict in the Middle East.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/aluminum-advances-to-four-year-high-on-tighter-global-market",
+    "published": "Tue, 02 Jun 2026 02:37:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.556488"
+  },
+  {
+    "id": "f7b05675d6c4",
+    "title": "Cliffwater Private Credit Fund Stung by 17% Redemption Requests",
+    "title_cn": "Cliffwater 私人信贷基金因 17% 的赎回请求而受到影响",
+    "summary": "Cliffwater LLC’s flagship private credit fund capped redemptions at 5% in the second quarter after investors looked to pull about 17% of shares, in a sign of enduring pressure on the $1.8 trillion market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/cliffwater-private-credit-fund-stung-by-17-redemption-requests",
+    "published": "Tue, 02 Jun 2026 19:39:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.664287"
+  },
+  {
+    "id": "51fcf73360e2",
+    "title": "Treasuries Pare Gains After Jobs Openings Back Rate-Hike View",
+    "title_cn": "职位空缺回升加息观点后，国债涨幅回落",
+    "summary": "Treasuries retreated from near their best levels of the past month as the first of three labor-market reports this week backed wagers that the Federal Reserve’s next move will be to raise interest rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/treasuries-gain-ahead-of-week-s-first-batch-of-employment-data",
+    "published": "Tue, 02 Jun 2026 09:58:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:43.761519"
   },
   {
     "id": "5dffbc29f255",
@@ -387,207 +487,287 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2",
     "published": "Mon, 01 Jun 2026 22:01:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.415457"
+    "fetched_at": "2026-06-02T20:55:43.866960"
   },
   {
-    "id": "8b8ecc3c5ce9",
-    "title": "Santander Employee Arrested in $85 Million Chile Crime Sting",
-    "title_cn": "桑坦德银行员工因价值 8500 万美元的智利犯罪活动被捕",
-    "summary": "An employee of Banco Santander’s Chile unit was among 18 suspects detained by police Tuesday as authorities moved against the Venezuelan Tren de Aragua criminal organization allegedly operating in the South American country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/santander-employee-is-arrested-in-chile-tren-de-aragua-sting",
-    "published": "Tue, 02 Jun 2026 16:41:52 GMT",
+    "id": "2a4dc652401b",
+    "title": "Traders Most Bullish Yuan in 15 Years on Global Role, Valuation",
+    "title_cn": "交易商15年来最看好人民币的全球地位和估值",
+    "summary": "Traders ramped up wagers on a stronger yuan in the coming year, betting that increased global usage and an attractive valuation will guide China’s currency through near-term speed bumps.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/traders-most-bullish-yuan-in-15-years-on-global-role-valuation",
+    "published": "Tue, 02 Jun 2026 19:22:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.680443"
+    "fetched_at": "2026-06-02T20:55:43.992050"
   },
   {
-    "id": "47bc33e21fad",
-    "title": "Sheinbaum Leans on Private Investors to Fix Beleaguered Grid",
-    "title_cn": "谢因鲍姆依靠私人投资者来修复陷入困境的电网",
-    "summary": "Investment in Mexico’s struggling electricity sector is showing fresh signs of life as a slew of deals in power plants, renewables and infrastructure offer momentum to President Claudia Sheinbaum’s push to modernize the grid.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/sheinbaum-leans-on-private-investors-to-fix-blackout-prone-grid",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "id": "ca30be6b3e1b",
+    "title": "Goldman's Solomon Sees More Greed Than Fear in Markets",
+    "title_cn": "高盛所罗门认为市场上的贪婪多于恐惧",
+    "summary": "Goldman Sachs CEO David Solomon says a boom in equity markets is being driven by an appetite for profit that’s outweighing fears about economic disruption and inflation risks. He speaks during an appearance at the Economic Club of New York. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/goldman-s-solomon-sees-more-greed-than-fear-in-markets-video",
+    "published": "Tue, 02 Jun 2026 19:15:52 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.819566"
+    "fetched_at": "2026-06-02T20:55:44.113276"
   },
   {
-    "id": "714730e3738a",
-    "title": "Venezuela Hires Hogan Lovells as Counsel for Debt Rework",
-    "title_cn": "委内瑞拉聘请霍金路伟律师事务所作为债务重整的顾问",
-    "summary": "Venezuela has retained Hogan Lovells US LLP as legal counsel for what is expected to be one of the largest sovereign debt restructurings in decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-taps-hogan-lovells-as-counsel-ahead-of-debt-rework",
-    "published": "Tue, 02 Jun 2026 13:47:06 GMT",
+    "id": "47ab3cba586b",
+    "title": "Philippines' Marcos on Building a Legacy of His Own",
+    "title_cn": "菲律宾马科斯谈打造自己的遗产",
+    "summary": "Heir to the Philippines' most famous political dynasty, President Ferdinand 'Bongbong' Marcos Jr has had to contend with the complicated history of his family name. Now with two years left in his single-term presidency, Marcos is facing the economic consequences of a rupture in global geopolitics, a rapidly changing technological landscape, and a growing feud at home with his Vice President Sara Duterte, who is herself a successor of another prominent political family. In this latest episode of Latitude, the Philippine president opens up to Bloomberg's Haslinda Amin on how he is forging ahead to try and build a legacy of his very own.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-05-29/philippines-marcos-on-building-a-legacy-of-his-own-video",
+    "published": "Fri, 29 May 2026 02:34:18 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:30.929801"
+    "fetched_at": "2026-06-02T20:55:44.258382"
   },
   {
-    "id": "a653f6827878",
-    "title": "US Stocks Gain as Traders Evaluate Middle East, Jobs Data",
-    "title_cn": "随着交易员评估中东和就业数据，美国股市上涨",
-    "summary": "US stocks were slightly higher on Tuesday as traders parsed the latest developments in the Middle East and fresh employment data.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-stock-futures-pull-back-as-traders-evaluate-mideast-news",
-    "published": "Tue, 02 Jun 2026 12:14:35 GMT",
+    "id": "fe30e588c47d",
+    "title": "Petrochemicals Giant Braskem Seeks Support to Start Out-of-Court Rework",
+    "title_cn": "石化巨头 Braskem 寻求支持以开始庭外返工",
+    "summary": "Braskem SA is seeking backing from creditors to begin an out-of-court restructuring process ahead of debt payments scheduled for July, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/braskem-said-to-seek-support-to-start-out-of-court-restructuring",
+    "published": "Tue, 02 Jun 2026 18:33:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.066815"
+    "fetched_at": "2026-06-02T20:55:44.384789"
   },
   {
-    "id": "78e7b268b402",
-    "title": "Billionaire Kazakh Brokerage CEO Got SEC Enforcement Warning",
-    "title_cn": "哈萨克斯坦亿万富翁经纪公司首席执行官收到 SEC 执法警告",
-    "summary": "The billionaire head of Kazakhstan-based Freedom Holding Corp. has received a so-called Wells Notice from the US Securities and Exchange Commission, a formal warning that the Wall Street regulator may take enforcement action.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/billionaire-kazakh-brokerage-ceo-gets-sec-enforcement-warning",
-    "published": "Tue, 02 Jun 2026 01:07:48 GMT",
+    "id": "020333744954",
+    "title": "US Natural Gas Futures Dip on Lower Flows to LNG Export Plants",
+    "title_cn": "由于液化天然气出口工厂流量减少，美国天然气期货下跌",
+    "summary": "US natural gas futures ended lower as domestic gas flows to liquefied natural gas export terminals along the US Gulf Coast dropped for a third consecutive day. The reduction is concentrated at Sabine Pass LNG in Louisiana and Corpus Christi LNG in Texas.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-natural-gas-futures-fall-on-lower-flows-to-lng-export-plants",
+    "published": "Tue, 02 Jun 2026 13:57:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.187619"
+    "fetched_at": "2026-06-02T20:55:44.497850"
   },
   {
-    "id": "75699136473f",
-    "title": "SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP Terms",
-    "title_cn": "SpaceX 员工通过争取 VIP 条款为数百万美元的意外之财做好准备",
-    "summary": "<p>The workers are crafting an IPO wealth playbook that could shape how OpenAI and Anthropic employees cash in.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/spacex-ipo-employees-negotiate-together-for-lower-fees-tax-saving-tools",
-    "published": "Tue, 02 Jun 2026 16:12:12 GMT",
+    "id": "fb974c843299",
+    "title": "Colombia’s Pro-Trump Presidential Frontrunner Thrills Investors",
+    "title_cn": "哥伦比亚亲特朗普总统领跑者令投资者兴奋不已",
+    "summary": "Exuberant market reaction to a celebrity lawyer’s surprise victory in Colombia’s first-round election Sunday is sowing expectations for an investment rebound in the resource-rich Andean country.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/colombia-s-pro-trump-presidential-frontrunner-thrills-investors",
+    "published": "Tue, 02 Jun 2026 18:27:03 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.315629"
+    "fetched_at": "2026-06-02T20:55:44.666621"
   },
   {
-    "id": "da01e61f239e",
-    "title": "Collector Cars Enter a New Era",
-    "title_cn": "收藏车进入新时代",
-    "summary": "Hagerty Chairman and CEO McKeel Hagerty joined Bloomberg Open Interest to explain how the company transformed from a niche insurance provider into a collector-car empire powered by media, memberships, and auctions. He discusses the coming $570 billion wealth transfer in collector vehicles, the surge in Ferrari values, and why electric vehicles could become the next sought-after collectible.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/collector-cars-enter-a-new-era-video",
-    "published": "Tue, 02 Jun 2026 16:11:27 GMT",
+    "id": "122cca944674",
+    "title": "AI Fuels $280 Billion Cybersecurity Rally as Earnings Test Looms",
+    "title_cn": "随着盈利测试的临近，人工智能推动网络安全上涨 2800 亿美元",
+    "summary": "Investors are about to get a read on the durability of the soaring rally in cybersecurity stocks when two of the industry’s major players report earnings in the coming days.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-crowdstrike-earnings-to-put-37-cyber-rally-to-test",
+    "published": "Tue, 02 Jun 2026 10:44:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.453601"
+    "fetched_at": "2026-06-02T20:55:44.781146"
   },
   {
-    "id": "e879fcfa7500",
-    "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After 36% Plunge",
-    "title_cn": "暴跌 36% 比特币的通胀对冲承诺破灭",
-    "summary": "Bitcoin has fallen 36% over the past year and slipped below $70,000 this week, extending a retreat that is undermining several of the arguments that helped carry the cryptocurrency into the financial mainstream.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge",
-    "published": "Tue, 02 Jun 2026 16:09:25 GMT",
+    "id": "3e7e7f6f738c",
+    "title": "12 Reasons This Is The Worst Crypto Winter Ever",
+    "title_cn": "这是有史以来最糟糕的加密货币冬天的 12 个原因",
+    "summary": "It’s getting colder and colder.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-02/12-reasons-this-is-the-worst-crypto-winter-ever",
+    "published": "Tue, 02 Jun 2026 17:35:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.586096"
+    "fetched_at": "2026-06-02T20:55:44.903721"
   },
   {
-    "id": "7a02a503e846",
-    "title": "First Brands Had '5 Red Flags,' Says Michael Gatto",
-    "title_cn": "迈克尔·加托 (Michael Gatto) 表示，第一品牌有“5 个危险信号”",
-    "summary": "The US government has joined the line of creditors impacted by alleged fraud at bankrupt auto-parts maker First Brands. \nColumbia Business School Professor and Partner at Silver Point Capital, Michael Gatto discusses his take on the First Brands drama, as well as advice for young professionals in credit and distressed markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/first-brands-had-5-red-flags-says-michael-gatto-video",
-    "published": "Tue, 02 Jun 2026 16:06:23 GMT",
+    "id": "002d808dee5f",
+    "title": "Alphabet's $80 Billion AI Power Move | Open Interest 6/2/2026",
+    "title_cn": "Alphabet 800 亿美元的人工智能战略未平仓合约 2026 年 6 月 2 日",
+    "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Alphabet is raising $80 billion in equity, including an investment deal with Berkshire Hathaway to help fund its AI spending plans.  Anthropic’s IPO filing raises the stakes against OpenAI. Plus, US job openings jumped in April to the highest level in almost two years.  SpaceX negotiates to pay razor-thin fees to Wall Street firms handling its IPO. And the collector car market enters a new era. We discuss with Hagerty CEO McKeel Hagerty. And MongoDB CEO CJ Desai joins Bloomberg Open Interest to talk about how AI is powering his firm and what's next for enterprise AI. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/open-interest-6-2-2026-video",
+    "published": "Tue, 02 Jun 2026 17:28:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.712493"
+    "fetched_at": "2026-06-02T20:55:45.018232"
   },
   {
-    "id": "2fac1dd0d8d8",
-    "title": "Venezuela Wants Oil Firms to Supply Their Own Power for Projects",
-    "title_cn": "委内瑞拉希望石油公司为项目提供自己的电力",
-    "summary": "Energy companies heading to Venezuela are being told to bring their own power plants to run their oil and natural gas operations and shield them from frequent blackouts on the nation’s ill-maintained electricity grid.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-wants-oil-firms-to-supply-their-own-power-for-projects",
-    "published": "Tue, 02 Jun 2026 16:06:18 GMT",
+    "id": "7e1c8133372f",
+    "title": "Perplexity Is 'Chip Agnostic,' Says CEO",
+    "title_cn": "首席执行官表示，困惑与“芯片无关”",
+    "summary": "Computex in Taiwan is putting the spotlight on the companies building the hardware behind the AI boom. One of those companies is Perplexity, which took the stage with Intel to unveil the world's first \"hybrid local/server agentic inference orchestrator.\" Perplexity CEO Aravind Srinivas joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/perplexity-is-chip-agnostic-says-ceo-video",
+    "published": "Tue, 02 Jun 2026 17:28:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:31.870107"
+    "fetched_at": "2026-06-02T20:55:45.126067"
   },
   {
-    "id": "024fbf041a4b",
-    "title": "Emerging-Market Currencies Gain as Risk Appetite Rebounds",
-    "title_cn": "随着风险偏好反弹，新兴市场货币上涨",
-    "summary": "Most emerging market currencies advanced as hopes of a deal in the Middle East boosted risk sentiment and US data showed a strong labor market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/em-currencies-advance-on-iran-talks-with-rand-leading-gains",
-    "published": "Tue, 02 Jun 2026 11:36:45 GMT",
+    "id": "9617e86c8e81",
+    "title": "True Space Age Is Starting Now, Says Impulse Space CEO",
+    "title_cn": "Impulse Space 首席执行官表示，真正的太空时代现在已经开始",
+    "summary": "Impulse Space, led by SpaceX alumnus Tom Mueller, just nabbed a $4 billion valuation after the company raised $500 million to scale its 'space tugs,' or spacecraft that can haul satellites across different orbits. Impulse Space Founder and CEO Tom Mueller joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/true-space-age-is-starting-now-says-impulse-space-ceo-video",
+    "published": "Tue, 02 Jun 2026 17:25:51 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.010487"
+    "fetched_at": "2026-06-02T20:55:45.251813"
   },
   {
-    "id": "ad3891b0d33f",
-    "title": "Private Credit Eyes EasyJet Takeover",
-    "title_cn": "私人信贷关注易捷航空收购",
-    "summary": "EasyJet's rejection of a reported Castlelake takeover approach sparks a bigger debate: Are UK-listed companies undervalued? Bloomberg's Silas Brown joins Bloomberg Open Interest to explain why a private credit giant is interested in aviation deals and reveals that private credit markets remain flooded with cash despite growing geopolitical and inflation concerns. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/private-credit-eyes-easyjet-takeover",
-    "published": "Tue, 02 Jun 2026 16:02:16 GMT",
+    "id": "2b92e7282e81",
+    "title": "Fireblocks CEO Discusses Flow Launch, Payment Growth",
+    "title_cn": "Fireblocks 首席执行官讨论 Flow 推出和支付增长",
+    "summary": "Michael Shaulov, CEO of Fireblocks, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Fireblocks, the crypto infrastructure company launched Fireblocks Flow today as part of the Money 20/20 conference in Amsterdam.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/fireblocks-ceo-discusses-flow-launch-payment-growth-video",
+    "published": "Tue, 02 Jun 2026 20:48:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.149716"
+    "fetched_at": "2026-06-02T20:55:45.875202"
   },
   {
-    "id": "2cb576773160",
-    "title": "HPE Rises on Sales Outlook; Victoria's Secret Soars on Profit Beat | Stock Movers",
-    "title_cn": "HPE 因销售前景而上涨；维多利亚的秘密 (Victoria's Secret) 利润飙升 |库存搬运工",
-    "summary": "On this episode of Stock Movers with Alexis Christoforous:\n\n- Victoria's Secret (VSXY) shares are soaring after the lingerie maker, now trading under symbol VSXY, reports profit metrics and net sales for its first quarter that topped expectations, including adjusted operating income that was nearly twice the consensus estimate. Management boosted its annual forecasts. \n- Hewlett Packard Enterprise (HPE) shares are higher in early trading after the company gave an outlook for annual sales that topped estimates, citing massive growth in AI-fueled demand for its servers and networking.\n- Marvell Technology (MRVL) is rising after Nvidia Corp.'s Jensen Huang predicted the company will hit a $1 trillion valuation. Huang said Marvell's valuation will soar now that the age of \"useful AI has arrived\", and was joined by Marvell CEO Matt Murphy on stage at Computex trade show in Taipei. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/hpe-rises-on-sales-outlook-victoria-s-secret-soars-on-profit-beat-stock-movers",
-    "published": "Tue, 02 Jun 2026 15:59:16 GMT",
+    "id": "975e1802afa0",
+    "title": "Clients Looking for Asset Distribution: Dixon",
+    "title_cn": "寻求资产分配的客户：Dixon",
+    "summary": "Denelle Dixon, CEO of Stellar Development Foundation, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" The Depository Trust & Clearing Corporation said last week it plans to connect its tokenized securities platform to the Stellar network. \n\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/clients-looking-for-asset-distribution-dixon-video",
+    "published": "Tue, 02 Jun 2026 20:24:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.289284"
+    "fetched_at": "2026-06-02T20:55:46.297988"
   },
   {
-    "id": "e337e9af1cd5",
-    "title": "How the 1987 Crash Changed the Life of Centerbridge's Jeff Aronson",
-    "title_cn": "1987 年的车祸如何改变了 Centerbridge 的 Jeff Aronson 的生活",
-    "summary": "Jeff Aronson was working as a lawyer at LF Rothschild when the 1987 stock market crash put the firm out of business. In this conversation with David Rubenstein, the Centerbridge Co-Founder explains how that setback led him to a career in investing and eventually to Angelo Gordon. Aronson sits down with David Rubenstein for the premiere episode of Bloomberg Wealth Season 6. This interview was recorded April 28 in New York. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/how-the-1987-crash-changed-centerbridge-s-aronson-video",
-    "published": "Tue, 02 Jun 2026 15:59:12 GMT",
+    "id": "337b8aed1609",
+    "title": "Palo Alto Networks Raises Profit Outlook, Citing AI Demand",
+    "title_cn": "Palo Alto Networks 以人工智能需求为由上调利润预期",
+    "summary": "Palo Alto Networks Inc. released a forecast for adjusted earnings that was stronger than anticipated, signaling ongoing demand for security services as artificial intelligence-related threats continue to raise concerns for companies and governments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/palo-alto-networks-raises-profit-outlook-citing-ai-demand",
+    "published": "Tue, 02 Jun 2026 20:16:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.419016"
+    "fetched_at": "2026-06-02T20:55:46.418796"
   },
   {
-    "id": "f28b3b17a4c9",
-    "title": "Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets",
-    "title_cn": "美国就业数据强化高利率押注，金价上涨",
-    "summary": "Gold pared gains after robust US jobs data reinforced bets that the Federal Reserve will keep interest rates higher for longer, a headwind for the precious metal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-01/gold-holds-fall-as-traders-digest-confusion-over-us-iran-talks",
-    "published": "Mon, 01 Jun 2026 23:11:57 GMT",
+    "id": "b2d8c3633cc6",
+    "title": "HPE Soars by Record After Raising AI-Fueled Sales Forecast",
+    "title_cn": "上调人工智能驱动的销售预测后，HPE 股价飙升创纪录",
+    "summary": "Hewlett Packard Enterprise Co. shares had their best day ever after the company gave an outlook for annual sales that topped Wall Street’s estimates, citing massive growth in AI-fueled demand for its servers and networking.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-01/hpe-sees-strong-growth-over-next-18-months-on-server-demand",
+    "published": "Mon, 01 Jun 2026 20:07:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.562007"
+    "fetched_at": "2026-06-02T20:55:46.532543"
   },
   {
-    "id": "0ebd6aa09eee",
-    "title": "Rheinmetall Wins Romanian Defense Contracts Worth €5.7 Billion",
-    "title_cn": "莱茵金属赢得罗马尼亚价值 57 亿欧元的国防合同",
-    "summary": "Rheinmetall AG, Germany’s largest defense company, will provide €5.7 billion ($6.7 billion) worth of military gear to Romania to help shore up NATO’s Eastern flank, the firm’s biggest international contract package since the Russian invasion of Ukraine.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/rheinmetall-wins-romanian-defense-contracts-worth-5-7-billion",
-    "published": "Tue, 02 Jun 2026 15:54:41 GMT",
+    "id": "20fc4c13a1ed",
+    "title": "Prosus Gets Until Oct. 11 for Delivery Hero Sale After Uber Bid",
+    "title_cn": "Prosus 在 Uber 竞标后于 10 月 11 日之前进行“Delivery Hero”促销",
+    "summary": "The European Commission is planning to extend a critical deadline for Prosus NV to sell down a stake in Delivery Hero SE to October, buying the investor some meaningful time to thwart another possible takeover attempt of the food delivery service by Uber Technologies Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/prosus-gets-until-oct-11-for-delivery-hero-sale-after-uber-bid",
+    "published": "Tue, 02 Jun 2026 20:13:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.692385"
+    "fetched_at": "2026-06-02T20:55:46.648864"
   },
   {
-    "id": "63dc17159e86",
-    "title": "Chipmakers Outperform Software Stocks by Most on Record",
-    "title_cn": "芯片制造商的表现超越软件股，创历史新高",
-    "summary": "Semiconductor stocks rallied on Tuesday while software fell, with the gap between the two sub-sectors of the tech industry the widest on record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/chipmakers-outperform-software-stocks-by-most-on-record",
-    "published": "Tue, 02 Jun 2026 15:37:51 GMT",
+    "id": "79f08f226c0b",
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "title_cn": "Uber 限制使用 Claude Code 等人工智能工具来管理成本",
+    "summary": "Uber Technologies Inc. has set usage caps on some artificial intelligence-powered tools used by its staff, a move meant to manage costs after the company blew through its AI budget earlier this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
+    "published": "Tue, 02 Jun 2026 17:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.836247"
+    "fetched_at": "2026-06-02T20:55:47.322919"
   },
   {
-    "id": "0205fa63094d",
-    "title": "Blue Owl Tech Private Credit Fund Is Selling $300 Million Bonds",
-    "title_cn": "Blue Owl Tech 私人信贷基金正在出售 3 亿美元债券",
-    "summary": "A private credit fund managed by Blue Owl Capital Inc. is looking to sell $300 million of investment-grade bonds, according to a person familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/blue-owl-tech-private-credit-fund-is-selling-300-million-bonds",
-    "published": "Tue, 02 Jun 2026 15:31:18 GMT",
+    "id": "91f3a534b18c",
+    "title": "Franklin Templeton Moves More Business Onto Blockchain",
+    "title_cn": "富兰克林邓普顿将更多业务转移到区块链上",
+    "summary": "Jenny Johnson, CEO of Franklin Templeton, and Adam Back, co-founder and CEO of Blockstream, talk about the recent drop in Bitcoin prices, institutional demand for crypto and how Franklin Templeton is moving more business functions onto the blockchain. They spoke with Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/franklin-templeton-moves-more-business-onto-blockchain-video",
+    "published": "Tue, 02 Jun 2026 20:00:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:32.972979"
+    "fetched_at": "2026-06-02T20:55:47.459193"
   },
   {
-    "id": "5b0f1359553f",
-    "title": "UAE’s Strait of Hormuz Pipeline Bypass May Also Include Fuels",
-    "title_cn": "阿联酋霍尔木兹海峡管道旁路可能还包括燃料",
-    "summary": "The United Arab Emirates is considering building an additional pipeline for refined products that would bypass the Strait of Hormuz and carry fuels to the country’s east coast.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/uae-s-strait-of-hormuz-pipeline-bypass-may-also-include-fuels",
-    "published": "Tue, 02 Jun 2026 15:24:59 GMT",
+    "id": "08a0f09a2e9b",
+    "title": "Walmart-Backed Fintech Uses Retailer’s Reach to Challenge Banks",
+    "title_cn": "沃尔玛支持的金融科技利用零售商的影​​响力挑战银行",
+    "summary": "Bloomberg's Paige Smith joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Walmart is one of the last remaining merchants that's been able to hold out against the swell of Apple Pay in recent years. Now, it's pushing a fledgling alternative to its huge trove of customers and employees. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/walmart-backed-fintech-challenge-banks-video",
+    "published": "Tue, 02 Jun 2026 20:00:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:33.102796"
+    "fetched_at": "2026-06-02T20:55:47.583036"
   },
   {
-    "id": "df50fc6e55f2",
-    "title": "Brightline Fields Bankruptcy-Loan Bids While Hoping for a Suitor",
-    "title_cn": "Brightline 进行破产贷款竞标，同时希望有收购者",
-    "summary": "Brightline is weighing bankruptcy-loan offers from its largest creditors after the Florida passenger railroad failed to lure a buyer by a self-imposed bidding deadline last month, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/brightline-fields-bankruptcy-loan-bids-while-hoping-for-a-suitor",
-    "published": "Tue, 02 Jun 2026 15:16:09 GMT",
+    "id": "3dbaaf99d154",
+    "title": "Galaxy Digital Sets Up Prediction Market OTC Derivatives Des",
+    "title_cn": "Galaxy Digital 设立预测市场场外衍生品设计",
+    "summary": "Bloomberg's Bernard Goyder joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Crypto finance conglomerate Galaxy Digital Inc. has launched a trading desk to offer large investors better access to prediction markets via over-the-counter derivatives similar to those used in markets from interest rates to commodities. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/galaxy-digital-launches-prediction-market-otc-video",
+    "published": "Tue, 02 Jun 2026 19:57:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:33.231551"
+    "fetched_at": "2026-06-02T20:55:47.699470"
+  },
+  {
+    "id": "7ae75f9150e8",
+    "title": "Dimon Slams Coinbase’s Armstrong In Crypto Bill Fight",
+    "title_cn": "戴蒙在加密货币法案之争中猛烈抨击 Coinbase 的阿姆斯特朗",
+    "summary": "Bloomberg Intelligence's Nathan Dean joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Jamie Dimon took aim at Coinbase Global CEO Brian Armstrong, and vowed to fight back against digital-asset legislation making its way through Congress. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/dimon-slams-coinbase-s-armstrong-in-crypto-bill-fight-video",
+    "published": "Tue, 02 Jun 2026 19:44:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:47.997165"
+  },
+  {
+    "id": "1f586dc2d037",
+    "title": "Franklin Templeton Expert Ting Highlights Enduring Strength of Korean & Taiwanese Markets",
+    "title_cn": "富兰克林邓普顿专家丁强调韩国和台湾市场的持久实力",
+    "summary": "Dina Ting, Head of Global Index Portfolio Management at Franklin Templeton, discussed the ongoing global tech rally led by markets in South Korea and Taiwan, particularly in the semiconductor sector supporting AI development. She emphasized that unlike some concerns about overheated valuations in the U.S. tech market, the semiconductor ecosystems in Korea and Taiwan are more resilient and built for the long term. She speaks to Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/franklin-templeton-s-dina-ting-on-strong-asian-markets-video",
+    "published": "Tue, 02 Jun 2026 19:37:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:48.104047"
+  },
+  {
+    "id": "fca65c23a17a",
+    "title": "Investors Rethink Strategies Amid Mega IPOs",
+    "title_cn": "投资者在大型首次公开募股中重新思考策略",
+    "summary": "Anthropic has confidentially filed to go public, pulling ahead of rival OpenAI in the IPO race, this as SpaceX gets ready to IPO this month. Emily Zheng, a senior venture capital research analyst at PitchBook, says \"we are in unchartered territory\" in terms of how \"gargantuan\" these mega IPOs are. She joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/investors-rethink-strategies-amid-mega-ipos-video",
+    "published": "Tue, 02 Jun 2026 19:15:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.330780"
+  },
+  {
+    "id": "2d53526b9e62",
+    "title": "Microsoft Launches AI That Works Like an Executive Assistant",
+    "title_cn": "微软推出像行政助理一样工作的人工智能",
+    "summary": "Microsoft Corp. launched new artificial intelligence software designed to function like an always-active executive assistant, the latest evolution of its workplace AI efforts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-launches-ai-that-works-like-an-executive-assistant",
+    "published": "Tue, 02 Jun 2026 18:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.457822"
+  },
+  {
+    "id": "8ce7a7801cc7",
+    "title": "Dimon Sounds Off, Prediction Markets vs. Sports Betting | Bloomberg Crypto 6/2/2026",
+    "title_cn": "戴蒙的声音听起来不太对劲，预测市场与体育博彩|彭博加密货币 6/2/2026",
+    "summary": "\"Bloomberg Crypto\" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: Blockstream CEO & Co-Founder Adam Back, Franklin Templeton CEO Jenny Johnson, Stellar Development Foundation CEO Denelle Dixon, and Fireblocks CEO Michael Shaulox. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-crypto-6-2-2026-video",
+    "published": "Tue, 02 Jun 2026 18:41:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.563257"
+  },
+  {
+    "id": "f39bdec7cf87",
+    "title": "Alphabet To Raise $80B in Equity, Anthropic Files For IPO | Bloomberg Tech 6/2/2026",
+    "title_cn": "Alphabet 将筹集 80B 美元股权，Anthropic 申请 IPO |彭博科技 2026 年 6 月 2 日",
+    "summary": "Bloomberg’s Caroline Hyde and Ed Ludlow break down why Alphabet wants to raise $80 billion in equity to fund AI infrastructure expansion, while Anthropic makes its IPO move and files confidentially to go public, pulling ahead of rival OpenAI in the IPO race. Plus, Elon Musk's SpaceX is negotiating to pay razor-thin fees to Wall Street firms handling its IPO. And, HPE CEO Antonio Neri joins on the company's annual sales outlook beating estimates on the back of massive AI infrastructure demand. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/bloomberg-tech-6-2-2026-video",
+    "published": "Tue, 02 Jun 2026 18:39:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.689546"
+  },
+  {
+    "id": "e5acdbaa0762",
+    "title": "Microsoft’s New Quantum Chip Aiming for Useful Machine in 2029",
+    "title_cn": "微软新量子芯片瞄准 2029 年实用机器",
+    "summary": "Microsoft Corp. announced an updated quantum-computing chip, betting it can set up a commercially useful machine by 2029.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029",
+    "published": "Tue, 02 Jun 2026 18:18:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.793627"
+  },
+  {
+    "id": "e75906ac2ba6",
+    "title": "Microsoft’s Project Solara Aims to Put AI in an Employee Badge",
+    "title_cn": "微软的 Project Solara 旨在将人工智能融入员工徽章中",
+    "summary": "Microsoft Corp. introduced a new set of software tools designed to take artificial intelligence agents off of laptop screens and place them in mobile devices for businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-project-solara-aims-to-put-ai-in-an-employee-badge",
+    "published": "Tue, 02 Jun 2026 17:58:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:49.913045"
   },
   {
     "id": "6d4cc6abb034",
@@ -597,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-02/anthropic-s-ipo-edge-set-to-widen-lead-over-openai-video",
     "published": "Tue, 02 Jun 2026 17:23:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:33.593922"
+    "fetched_at": "2026-06-02T20:55:50.167155"
   },
   {
     "id": "4cb9e525e20c",
@@ -607,17 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/indie-video-game-mina-the-hollower-sells-300-000-copies-in-three-days",
     "published": "Tue, 02 Jun 2026 17:20:25 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:34.800539"
-  },
-  {
-    "id": "79f08f226c0b",
-    "title": "Uber Caps Usage of AI Tools Like Claude Code to Cut Costs",
-    "title_cn": "Uber 限制使用 Claude Code 等人工智能工具以削减成本",
-    "summary": "Uber Technologies Inc. has set usage caps on some artificial intelligence-powered tools used by its staff, a move meant to manage costs after the company blew through its AI budget earlier this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs",
-    "published": "Tue, 02 Jun 2026 17:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:34.927845"
+    "fetched_at": "2026-06-02T20:55:50.319018"
   },
   {
     "id": "3ca7771dba8a",
@@ -627,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-02/spacex-wants-fee-cut-from-bankers-chasing-500m-windfall-video",
     "published": "Tue, 02 Jun 2026 16:56:54 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:35.041355"
+    "fetched_at": "2026-06-02T20:55:50.445153"
   },
   {
     "id": "524ba17869ac",
@@ -637,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/perplexity-splits-ai-work-between-pcs-and-servers-to-ease-strain",
     "published": "Tue, 02 Jun 2026 16:55:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:35.169321"
+    "fetched_at": "2026-06-02T20:55:50.613802"
   },
   {
     "id": "7cc85efab141",
@@ -647,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-01/vast-space-expands-into-europe-with-french-astronaut-missions",
     "published": "Mon, 01 Jun 2026 20:30:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:35.364287"
+    "fetched_at": "2026-06-02T20:55:50.742038"
   },
   {
     "id": "f651d1987619",
@@ -657,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/eu-s-ai-data-center-plans-stumble-due-to-delays-funding-issues",
     "published": "Tue, 02 Jun 2026 16:45:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:35.499747"
+    "fetched_at": "2026-06-02T20:55:50.855533"
   },
   {
     "id": "6b0830fada29",
@@ -667,17 +837,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/bofa-sees-strong-south-africa-deal-market-despite-global-turmoil",
     "published": "Tue, 02 Jun 2026 13:00:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:36.490234"
-  },
-  {
-    "id": "b2d8c3633cc6",
-    "title": "HPE Soars by Record After Raising AI-Fueled Sales Forecast",
-    "title_cn": "上调人工智能驱动的销售预测后，HPE 股价飙升创纪录",
-    "summary": "Hewlett Packard Enterprise Co. shares soared by the most ever after the company gave an outlook for annual sales that topped Wall Street’s estimates, citing massive growth in AI-fueled demand for its servers and networking.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-01/hpe-sees-strong-growth-over-next-18-months-on-server-demand",
-    "published": "Mon, 01 Jun 2026 20:07:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:37.740729"
+    "fetched_at": "2026-06-02T20:55:50.971821"
   },
   {
     "id": "13732bbee020",
@@ -687,7 +847,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-02/stocks-get-tech-lift-toward-all-time-highs-video",
     "published": "Tue, 02 Jun 2026 16:33:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:37.874590"
+    "fetched_at": "2026-06-02T20:55:51.090159"
   },
   {
     "id": "43ef116f2427",
@@ -697,317 +857,87 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-02/alphabet-s-equity-pivot-is-boost-to-hyperscaler-credit-video",
     "published": "Tue, 02 Jun 2026 16:28:18 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.004500"
-  },
-  {
-    "id": "04ba089f293e",
-    "title": "HPE CEO Neri on Blowout AI Revenue Forecast, Pricing and Strategy",
-    "title_cn": "HPE 首席执行官 Neri 谈井喷式 AI 收入预测、定价和战略",
-    "summary": "HPE shares soared by the most ever after the company gave an outlook for annual sales that topped Wall Street’s estimates, citing massive growth in AI-fueled demand for its servers and networking. HPE CEO Antonio Neri joins Caroline Hyde and Ed Ludlow on \"Bloomberg Tech\" to discuss the company's demand growth, memory prices and outlook. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/hpe-ceo-neri-on-ai-revenue-forecast-prices-and-strategy-video",
-    "published": "Tue, 02 Jun 2026 16:05:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.128227"
-  },
-  {
-    "id": "b625676c73e0",
-    "title": "Google's $80B AI Power Move",
-    "title_cn": "谷歌 80B 美元的 AI 力量举措",
-    "summary": "Alphabet's surprise $80 billion capital raise sparked debate, but Jefferies Equity Research Analyst Brent Thill says it's a power move, not a rescue mission. He joins Bloomberg Open Interest to explain why Google is racing ahead of potential OpenAI, Anthropic and SpaceX IPOs, why AI spending could exceed $1 trillion annually and how the AI boom could fundamentally reshape corporate hiring and investment decisions. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/google-s-80b-ai-power-move-video",
-    "published": "Tue, 02 Jun 2026 16:02:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.248492"
-  },
-  {
-    "id": "6a27c0771994",
-    "title": "CEO Predicts Enterprise AI Surge",
-    "title_cn": "CEO预测企业人工智能将激增",
-    "summary": "MongoDB CEO CJ Desai joined Bloomberg Open Interest to break down how AI could become a massive growth driver for the company. He says that every AI application needs a scalable data layer and reveals that his software company added 2,500 customers last quarter while targeting thousands more in the year ahead. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/ceo-predicts-enterprise-ai-surge-video",
-    "published": "Tue, 02 Jun 2026 16:02:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.367137"
-  },
-  {
-    "id": "f2ec61932303",
-    "title": "Meta’s Rosen, Former Head of Election Integrity, to Depart",
-    "title_cn": "Meta 的前选举诚信负责人罗森即将离职",
-    "summary": "Guy Rosen, Meta Platforms Inc.’s chief information security officer who previously oversaw the company’s election integrity work, is departing in the coming months.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/meta-s-rosen-former-head-of-election-integrity-to-depart",
-    "published": "Tue, 02 Jun 2026 15:05:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.612536"
-  },
-  {
-    "id": "397fc23650a5",
-    "title": "Blue Origin’s Lengthy Launchpad Repair Extends SpaceX Dominance",
-    "title_cn": "蓝色起源漫长的发射台维修扩大了 SpaceX 的主导地位",
-    "summary": "Blue Origin faces a formidable challenge that goes beyond simply replacing the New Glenn rocket it lost in last week’s explosion: rebuilding a destroyed launchpad that took years to construct.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/blue-origin-s-lengthy-launchpad-repair-extends-spacex-dominance",
-    "published": "Tue, 02 Jun 2026 14:44:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.734508"
-  },
-  {
-    "id": "3e4ee246f5c3",
-    "title": "Poland’s Leader Calls for Tech Sovereignty to Counter AI Risks",
-    "title_cn": "波兰领导人呼吁科技主权应对人工智能风险",
-    "summary": "Poland needs to put technology sovereignty at the top of its political agenda to curb artificial intelligence-related risks threatening its security and economy, Prime Minister Donald Tusk said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/poland-s-leader-calls-for-tech-sovereignty-to-counter-ai-risks",
-    "published": "Tue, 02 Jun 2026 14:20:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.853569"
-  },
-  {
-    "id": "ead63c7f6443",
-    "title": "Alphabet to Raise $80 Billion in Equity for AI Spending",
-    "title_cn": "Alphabet 将筹集 800 亿美元股权用于人工智能支出",
-    "summary": "Google parent Alphabet Inc. is raising $80 billion through a package of equity offerings, including an investment deal with Berkshire Hathaway Inc., to help fund ambitious and growing artificial intelligence spending plans.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-01/alphabet-to-raise-80-billion-in-equity-capital-for-ai-spending",
-    "published": "Mon, 01 Jun 2026 20:50:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:38.973980"
-  },
-  {
-    "id": "bc9d4ecb4fdd",
-    "title": "Marvell Soars After Nvidia Chief’s $1 Trillion Stock Call",
-    "title_cn": "Nvidia 首席执行官 1 万亿美元股票认购后 Marvell 股价飙升",
-    "summary": "Marvell Technology Inc. shares surged after Nvidia Corp.’s Jensen Huang predicted the semiconductor and networking company will be the next business to hit a $1 trillion valuation, more than five times its current market capitalization.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company",
-    "published": "Tue, 02 Jun 2026 10:41:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:39.113426"
-  },
-  {
-    "id": "9ea5fbd32d6f",
-    "title": "T-Mobile Wants to Sell a Lifestyle, Not Just Wireless",
-    "title_cn": "T-Mobile 希望销售一种生活方式，而不仅仅是无线",
-    "summary": "Felisha White, a 34-year-old T-Mobile US Inc. customer in New York, stays up late on Monday nights to see what the latest deal drops will be from her wireless provider.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/t-mobile-wants-to-sells-customers-a-lifestyle-not-just-wireless",
-    "published": "Tue, 02 Jun 2026 12:50:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:39.783982"
-  },
-  {
-    "id": "b0c4ba3586a1",
-    "title": "How Lawsuits Alleging Social Media Harms Threaten Big Tech",
-    "title_cn": "指控社交媒体危害的诉讼如何威胁大型科技公司",
-    "summary": "A flood of lawsuits filed in recent years against social media giants claim that by engineering their platforms to be hard to resist, the companies are causing serious harm to young users. In the first case to go to trial, a jury in March found Meta Platforms Inc. and Google negligent in the design and operation of their platforms &mdash; a landmark verdict.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/how-lawsuits-alleging-social-media-harms-threaten-big-tech",
-    "published": "Tue, 02 Jun 2026 13:24:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:39.933148"
-  },
-  {
-    "id": "ff6b99cd6c5e",
-    "title": "Anthropic Offers Mythos Model Access to 150 Additional Groups",
-    "title_cn": "Anthropic 为另外 150 个群体提供 Mythos 模型访问权限",
-    "summary": "Anthropic PBC is allowing 150 additional organizations around the world to access Mythos, an artificial intelligence model aimed at finding cybersecurity vulnerabilities that the company has said was too dangerous to make available to the general public.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/anthropic-offers-mythos-model-access-to-150-additional-groups",
-    "published": "Tue, 02 Jun 2026 13:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.065575"
-  },
-  {
-    "id": "2b008cc12a56",
-    "title": "AI Voice Startup ElevenLabs Targets Warsaw Hub Expansion in Push for CEE Clients",
-    "title_cn": "AI 语音初创公司 ElevenLabs 瞄准华沙中心扩建，以推动中东欧客户",
-    "summary": "ElevenLabs sees Warsaw as its fastest-growing hub as the artificial intelligence voice company chases new customers in central and eastern Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/ai-voice-startup-elevenlabs-targets-warsaw-hub-expansion-in-push-for-cee-clients",
-    "published": "Tue, 02 Jun 2026 12:53:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.195258"
-  },
-  {
-    "id": "e774afb3a2ca",
-    "title": "Alphabet's $80B Equity Raise & Trump Tries to Stop Israel Derailing Iran Deal | The Pulse 6/2/2026",
-    "title_cn": "Alphabet 80B 美元融资和特朗普试图阻止以色列破坏伊朗协议 |脉搏 2026 年 6 月 2 日",
-    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: John O'Toole, Amundi, CIO Solutions Global Head; Mariana Mazzucato, UCL, Economics of Innovation and Public Value Professor & Author, 'The Common Good Economy: A New Compass Author' & Anoush Ehteshami, Durham University, International Relations Professor.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/the-pulse-6-2-2026-video",
-    "published": "Tue, 02 Jun 2026 12:42:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.309331"
-  },
-  {
-    "id": "4cb871559480",
-    "title": "Mariana Mazzucato: CEOs Should Be Contracted to Hit Goals",
-    "title_cn": "Mariana Mazzucato：首席执行官应该签订合同以实现目标",
-    "summary": "There's no lack of ambition to do good, says author Mariana Mazzucato, but the system is designed for us to fail. In her new book, The Common Good Economy: A New Compass, she argues for a goal-oriented economy, with targets written into CEOs' contracts. Mazzucato joined 'The Pulse with Francine Lacqua'. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/mazzucato-ceos-should-be-contracted-to-hit-goals-video",
-    "published": "Tue, 02 Jun 2026 12:32:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.450569"
-  },
-  {
-    "id": "7eabb8975dc4",
-    "title": "Startup Impulse Space Raises $500 Million, Valued at $4 Billion",
-    "title_cn": "Startup Impulse Space 融资 5 亿美元，估值 40 亿美元",
-    "summary": "Impulse Space, a startup backed by billionaire Peter Thiel’s Founders Fund, raised $500 million in a new funding round, the company announced.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/startup-impulse-space-raises-500-million-valued-at-4-billion",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.714351"
-  },
-  {
-    "id": "0f2ba776a517",
-    "title": "Withings Debuts New Smart Scale Marketed Toward GLP-1 Users",
-    "title_cn": "Withings 首次推出面向 GLP-1 用户的新型智能体重秤",
-    "summary": "Withings, the French company that pioneered the category of Wi-Fi bathroom scales, unveiled a new model with advanced body composition scanning abilities that is being marketed toward people on GLP-1 weight loss drugs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/withings-debuts-new-smart-scale-marketed-toward-glp-1-users",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:40.854564"
-  },
-  {
-    "id": "ae7c3e63075d",
-    "title": "US Tries to Stop Israel’s Lebanon Push Derailing Iran Deal",
-    "title_cn": "美国试图阻止以色列在黎巴嫩推动伊朗协议脱轨",
-    "summary": "President Donald Trump is still optimistic the US can reach an interim peace deal with Iran soon, after the Islamic Republic threatened to suspend talks because of Israel’s escalating attacks in Lebanon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-tries-to-stop-israel-s-lebanon-push-derailing-an-iran-deal",
-    "published": "Tue, 02 Jun 2026 08:39:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:41.822052"
+    "fetched_at": "2026-06-02T20:55:51.204223"
   },
   {
     "id": "4627e1b478c4",
-    "title": "Trump Signs AI Cybersecurity Order After Debate Over Its Reach",
-    "title_cn": "在对其影响范围进行争论后，特朗普签署了人工智能网络安全令",
-    "summary": "President Donald Trump ordered US agencies to work with artificial intelligence companies on protecting against AI-enabled cyber attacks under a long-awaited directive that he had postponed last month citing his concern that it risked stifling tech innovation.",
+    "title": "Trump Takes Hands-Off Approach to AI Cybersecurity in New Order",
+    "title_cn": "特朗普以新秩序对人工智能网络安全采取放手态度",
+    "summary": "President Donald Trump outlined a hands-off approach to addressing cybersecurity threats raised by artificial intelligence under an executive order that calls for giving the US government voluntary access to AI models.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-signs-order-on-ai-security-stops-short-of-mandatory-tests",
     "published": "Tue, 02 Jun 2026 15:50:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:42.294516"
+    "fetched_at": "2026-06-02T20:55:51.711220"
   },
   {
-    "id": "0569b11846ab",
-    "title": "White House Correspondents Reschedule Dinner, Up Security",
-    "title_cn": "白宫记者重新安排晚餐时间并加强安保",
-    "summary": "The White House Correspondents’ Association will hold another dinner on July 24, three months after its annual gala was postponed due to a shooting incident at the venue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/white-house-correspondents-reschedule-dinner-bolster-security",
-    "published": "Tue, 02 Jun 2026 16:27:35 GMT",
+    "id": "ed02d82cda1f",
+    "title": "Trump to Drop $1.8 Billion Anti-Weaponization Fund, Blanche Says",
+    "title_cn": "布兰奇称特朗普将放弃 18 亿美元反武器化基金",
+    "summary": "Acting Attorney General Todd Blanche said the Trump administration will drop plans for a $1.8 billion fund to pay victims of alleged government “weaponization” following a backlash from both Democratic and Republican lawmakers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-to-drop-1-8-billion-anti-weaponization-fund-blanche-says",
+    "published": "Tue, 02 Jun 2026 20:40:24 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:42.423453"
+    "fetched_at": "2026-06-02T20:55:51.818334"
   },
   {
-    "id": "7e6840356413",
-    "title": "Stoltenberg: Oljefondet trenger teknologigantene",
-    "title_cn": "斯托尔滕贝格：石油基金需要科技巨头",
-    "summary": "<p>Finansminister Jens Stoltenberg intervjuet for Bloomberg Newsmakers</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/jens-stoltenberg-oljefondet-trenger-teknologigantene",
-    "published": "Tue, 02 Jun 2026 16:41:11 GMT",
+    "id": "00450ffdf38d",
+    "title": "Trump’s Netanyahu Problem Is Latest Key Hurdle to Iran Deal",
+    "title_cn": "特朗普的内塔尼亚胡问题是伊朗协议的最新关键障碍",
+    "summary": "President Donald Trump has spent months projecting confidence that a deal to end the Iran conflict is within reach. Israel’s determination to press ahead with its own objectives underscores his tenuous control over the outcome of the crisis.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-s-netanyahu-problem-is-latest-key-hurdle-to-iran-deal",
+    "published": "Tue, 02 Jun 2026 18:58:30 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:42.555904"
+    "fetched_at": "2026-06-02T20:55:51.935068"
   },
   {
-    "id": "f85a05e4ca95",
-    "title": "Burnham Says Won’t Call Early Election If Replaces Starmer",
-    "title_cn": "伯纳姆表示，如果取代斯塔默，不会提前举行选举",
-    "summary": "Would-be UK prime minister Andy Burnham has ruled out a snap general election if he replaces Keir Starmer this summer, in an effort to tamp down speculation that Britain could be heading for an early vote.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/burnham-says-he-won-t-call-early-election-if-he-replaces-starmer",
-    "published": "Tue, 02 Jun 2026 08:24:18 GMT",
+    "id": "e03e075d03bb",
+    "title": "Israel's Lebanon Push Threatens Iran Deal | Balance of Power: Early Edition 6/2/2026",
+    "title_cn": "以色列对黎巴嫩的推动威胁伊朗协议权力平衡：早期版本 2026 年 6 月 2 日",
+    "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest news from the Trump Administration. On today's show, Council on Foreign Relations Senior Fellow Elisa Ewers, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino and Sabato's Crystal Ball Managing Editor Kyle Kondik. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/balance-of-power-early-edition-6-2-2026-video",
+    "published": "Tue, 02 Jun 2026 20:07:56 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:43.036597"
+    "fetched_at": "2026-06-02T20:55:52.355905"
   },
   {
-    "id": "dedcc8da7c5c",
-    "title": "France Moves Closer to Passing Bill to Help Its Food Industry",
-    "title_cn": "法国即将通过法案以帮助其食品工业",
-    "summary": "France moved closer to passing an emergency bill to help expand livestock farming and tackle rising food imports, as the European agricultural powerhouse tries to revive its food trade balance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/france-moves-closer-to-passing-bill-to-help-its-food-industry",
-    "published": "Tue, 02 Jun 2026 16:31:00 GMT",
+    "id": "a5555ac966ce",
+    "title": "Mexican Teachers Threaten to Disrupt World Cup Over Higher Wages",
+    "title_cn": "墨西哥教师威胁要因提高工资而扰乱世界杯",
+    "summary": "Mexican teachers seeking higher wages are threatening to disrupt World Cup games, piling pressure on organizers already facing questions over airport capacity, traffic congestion and security risks in some host cities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/mexican-teachers-threaten-to-disrupt-world-cup-games",
+    "published": "Tue, 02 Jun 2026 20:07:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:43.179161"
+    "fetched_at": "2026-06-02T20:55:52.470278"
   },
   {
-    "id": "259266792eb9",
-    "title": "Norway’s $2.3 Trillion Fund Needs to Stay Invested in Big Tech, Stoltenberg Says",
-    "title_cn": "斯托尔滕贝格表示，挪威 2.3 万亿美元的基金需要继续投资于大型科技公司",
-    "summary": "<p>Big tech and AI underpin&nbsp;weapons systems, Jens Stoltenberg says in a Bloomberg Newsmakers interview</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/norway-s-2-3-trillion-fund-needs-to-stay-invested-in-big-tech-stoltenberg-says",
-    "published": "Tue, 02 Jun 2026 16:26:44 GMT",
+    "id": "874e0a0eb5f9",
+    "title": "Canada Envoys Visit Venezuela as Carney Weighs Reopening Embassy",
+    "title_cn": "卡尼考虑重新开放大使馆，加拿大特使访问委内瑞拉",
+    "summary": "Canadian diplomats traveled to Venezuela last week as Mark Carney’s government mulls restoring formal ties after the US operation to remove President Nicolás Maduro.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/canada-envoys-visit-venezuela-as-carney-weighs-reopening-embassy",
+    "published": "Tue, 02 Jun 2026 19:23:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:43.301060"
+    "fetched_at": "2026-06-02T20:55:52.598302"
   },
   {
-    "id": "5fab8b3379d1",
-    "title": "Japan’s Takaichi Urges Passage of Vessels in Call With Iran",
-    "title_cn": "日本高市敦促与伊朗通话的船只通过",
-    "summary": "Japanese Prime Minister Sanae Takaichi called for the safe passage of all vessels regardless of nation in her third phone call with Iranian President Masoud Pezeshkian.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/japan-s-takaichi-urges-passage-of-vessels-in-call-with-iran",
-    "published": "Tue, 02 Jun 2026 01:55:20 GMT",
+    "id": "c6f0506c0e0f",
+    "title": "Redistricting in Focus As Six States Hold Primaries",
+    "title_cn": "六个州举行初选，重新选区成为焦点",
+    "summary": "Kyle Kondik, Managing Editor of Sabato's Crystal Ball at University of Virginia's Center for Politics joined Balance of Power as six states with 74 congressional districts hold primaries today.  In California, this is the first election under the state’s revamped congressional map enacted by Democrats last year in response to mid-decade gerrymandering in Texas and other Republican states. California Democrats could win up to 48 districts, a net gain of five that would lift their chances of winning a House majority. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/redistricting-in-focus-as-six-states-hold-primaries",
+    "published": "Tue, 02 Jun 2026 19:06:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:43.924901"
+    "fetched_at": "2026-06-02T20:55:53.027049"
   },
   {
-    "id": "441181333f9d",
-    "title": "Norway Needs to Invest in Big Tech, Stoltenberg Says",
-    "title_cn": "斯托尔滕贝格表示，挪威需要投资大型科技",
-    "summary": "Norway’s $2.3 trillion sovereign wealth fund needs ethics rules that allow it to stay invested in big tech stocks, Finance Minister Jens Stoltenberg said. He speaks to Bloomberg News Editorial Lead for EMEA Jackie Simmons at a Bloomberg Newsmakers event in Oslo. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/norway-needs-to-invest-in-big-tech-stoltenberg-says-video",
-    "published": "Tue, 02 Jun 2026 15:59:09 GMT",
+    "id": "1b549ac685e7",
+    "title": "Mamdani Picks Ex-Transport Chief, Former Budget Director for MTA",
+    "title_cn": "马姆达尼任命 MTA 前运输主管、前预算总监",
+    "summary": "New York City Mayor Zohran Mamdani picked Janette Sadik-Khan, a former transportation official in the Bloomberg administration, and Melanie Hartzog, the city’s former budget director, to the board of the Metropolitan Transportation Authority.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/mamdani-picks-ex-transport-chief-former-budget-director-for-mta",
+    "published": "Tue, 02 Jun 2026 18:44:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:44.080838"
-  },
-  {
-    "id": "c3487a8a49e4",
-    "title": "US Lowers Tariffs on Farm, Industrial Equipment as Costs Soar",
-    "title_cn": "由于成本飙升，美国降低了农业和工业设备的关税",
-    "summary": "The White House announced it will reduce tariffs on imported farm and construction equipment such as harvesters and forklifts, an effort to boost the industrial economy and provide relief for American farmers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-cuts-agricultural-equipment-tariffs-citing-rising-farm-costs",
-    "published": "Tue, 02 Jun 2026 01:30:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:44.769425"
-  },
-  {
-    "id": "3ae2b43ba48d",
-    "title": "Here Are Key Trump Officials Who Have Left the Administration",
-    "title_cn": "以下是已离开政府的特朗普主要官员",
-    "summary": "<p>A running list of officials who have left, why they exited and who replaced them.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/who-has-left-the-trump-administration-so-far-tracking-turnover",
-    "published": "Tue, 02 Jun 2026 16:00:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:44.900907"
-  },
-  {
-    "id": "4213230ba7e4",
-    "title": "Norway’s Stoltenberg Says NATO Is Now More Difficult to Manage",
-    "title_cn": "挪威斯托尔滕贝格表示北约现在更难管理",
-    "summary": "<p>NATO’s task is to keep US and Europe together, but there are limits, Stoltenberg says</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/norway-s-stoltenberg-says-nato-is-now-more-difficult-to-manage",
-    "published": "Tue, 02 Jun 2026 14:31:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:45.016447"
-  },
-  {
-    "id": "fd2f59889be3",
-    "title": "Stoltenberg Weighs In on US-NATO Tensions, Wealth Fund",
-    "title_cn": "斯托尔滕贝格评论美国与北约的紧张局势和财富基金",
-    "summary": "Former NATO chief Jens Stoltenberg says the tensions between the US and its European NATO allies are “more difficult to manage” now compared to when he left the alliance in 2024. Speaking with Bloomberg News Editorial Lead for EMEA Jackie Simmons at a Bloomberg Newsmakers event in Oslo, Stoltenberg also says it was “unacceptable” for the US to threaten Denmark, referring to President Donald Trump’s ambition to take Greenland. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/stoltenberg-weighs-in-on-us-nato-tensions-wealth-fund-video",
-    "published": "Tue, 02 Jun 2026 15:59:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:45.136434"
-  },
-  {
-    "id": "da63dd2a6acb",
-    "title": "Jeff Aronson Doesn't See a US Recession Coming Anytime Soon",
-    "title_cn": "杰夫阿伦森认为美国经济衰退不会很快到来",
-    "summary": "Centerbridge Co-Founder Jeff Aronson says the US economy is \"in reasonably good shape\" and that he doesn't see a recession happening anytime soon. He also discusses the ripple effects war in the Middle East could have on markets if it persists, as well as his views on prediction markets. Aronson sits down with David Rubenstein for the premiere episode of Bloomberg Wealth Season 6. This interview was recorded April 28 in New York. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/jeff-aronson-doesn-t-see-a-us-recession-coming-anytime-soon",
-    "published": "Tue, 02 Jun 2026 15:59:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:45.671005"
-  },
-  {
-    "id": "25449fa495d1",
-    "title": "Rubio Defends Iran War, Ebola Response in Combative Hearing",
-    "title_cn": "卢比奥在战斗听证会上为伊朗战争和埃博拉应对措施辩护",
-    "summary": "Secretary of State Marco Rubio defended the US war effort in Iran, as well as the Trump administration’s global public health strategy amid a worsening Ebola outbreak, as he faced hostile questions from Democrats in a hearing before Congress on Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/rubio-goes-to-capitol-hill-where-questions-on-iran-ebola-await",
-    "published": "Tue, 02 Jun 2026 10:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:46.494286"
+    "fetched_at": "2026-06-02T20:55:53.163581"
   },
   {
     "id": "201073fe8a15",
@@ -1017,7 +947,177 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-taps-pulte-as-acting-director-of-national-intelligence",
     "published": "Tue, 02 Jun 2026 13:11:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:46.842183"
+    "fetched_at": "2026-06-02T20:55:53.301037"
+  },
+  {
+    "id": "68245f4a8471",
+    "title": "Ken Paxton to Meet Trump at White House as Senate Race Heats Up",
+    "title_cn": "随着参议院竞选升温，肯·帕克斯顿将在白宫会见特朗普",
+    "summary": "Texas Attorney General Ken Paxton will meet Tuesday with President Donald Trump at the White House as the Republican Senate nominee tries to consolidate his support and boost fundraising in one of the country’s most competitive midterm races.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/ken-paxton-to-meet-trump-at-white-house-as-senate-race-heats-up",
+    "published": "Tue, 02 Jun 2026 18:28:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:53.424375"
+  },
+  {
+    "id": "0569b11846ab",
+    "title": "Trump Says He’ll Attend Rescheduled Correspondents’ Dinner",
+    "title_cn": "特朗普表示他将参加重新安排的记者晚宴",
+    "summary": "President Donald Trump said he will attend a rescheduled White House Correspondents’ Association dinner on July 24, three months after the annual gala was postponed due to a shooting incident at the venue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/white-house-correspondents-reschedule-dinner-bolster-security",
+    "published": "Tue, 02 Jun 2026 16:27:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:54.043483"
+  },
+  {
+    "id": "f058c38bc710",
+    "title": "US Tries to Stop Israel’s Lebanon Push Derailing Iran Deal",
+    "title_cn": "美国试图阻止以色列在黎巴嫩推动伊朗协议脱轨",
+    "summary": "Elisa Ewers, Senior Fellow for Middle East studies at the Council on Foreign Relations, joined Balance of Power to discuss the recent developments from the Middle East. Ewers said the US naval blockade of Iran can continue for some time but a cost of other military priorities. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/us-tries-to-stop-israel-from-derailing-iran-deal-video",
+    "published": "Tue, 02 Jun 2026 18:08:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:55.295891"
+  },
+  {
+    "id": "c02f15397bd3",
+    "title": "Colombia’s World Cup Jersey Is Now a Symbol of Its Polarized Election",
+    "title_cn": "哥伦比亚世界杯球衣现已成为其两极分化选举的象征",
+    "summary": "The Colombian national team’s football jersey has become the latest symbol in a bitter political battle just days before the start of the World Cup.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/colombia-s-world-cup-jersey-is-now-a-symbol-of-its-polarized-election",
+    "published": "Tue, 02 Jun 2026 17:46:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:55.423087"
+  },
+  {
+    "id": "ae7c3e63075d",
+    "title": "US Tries to Stop Israel’s Lebanon Push Derailing Iran Deal",
+    "title_cn": "美国试图阻止以色列在黎巴嫩推动伊朗协议脱轨",
+    "summary": "President Donald Trump is still optimistic the US can reach an interim peace deal with Iran soon, after the Islamic Republic threatened to suspend talks because of Israel’s escalating attacks in Lebanon.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/trump-tries-to-stop-israel-s-lebanon-push-derailing-an-iran-deal",
+    "published": "Tue, 02 Jun 2026 08:39:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:55.604172"
+  },
+  {
+    "id": "7e6840356413",
+    "title": "Stoltenberg: Oljefondet trenger teknologigantene",
+    "title_cn": "斯托尔滕贝格：石油基金需要科技巨头",
+    "summary": "<p>Finansminister Jens Stoltenberg intervjuet for Bloomberg Newsmakers</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/jens-stoltenberg-oljefondet-trenger-teknologigantene",
+    "published": "Tue, 02 Jun 2026 16:41:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:55.708695"
+  },
+  {
+    "id": "f85a05e4ca95",
+    "title": "Burnham Says Won’t Call Early Election If Replaces Starmer",
+    "title_cn": "伯纳姆表示，如果取代斯塔默，不会提前举行选举",
+    "summary": "Would-be UK prime minister Andy Burnham has ruled out a snap general election if he replaces Keir Starmer this summer, in an effort to tamp down speculation that Britain could be heading for an early vote.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/burnham-says-he-won-t-call-early-election-if-he-replaces-starmer",
+    "published": "Tue, 02 Jun 2026 08:24:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:56.201225"
+  },
+  {
+    "id": "dedcc8da7c5c",
+    "title": "France Moves Closer to Passing Bill to Help Its Food Industry",
+    "title_cn": "法国即将通过法案以帮助其食品工业",
+    "summary": "France moved closer to passing an emergency bill to help expand livestock farming and tackle rising food imports, as the European agricultural powerhouse tries to revive its food trade balance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/france-moves-closer-to-passing-bill-to-help-its-food-industry",
+    "published": "Tue, 02 Jun 2026 16:31:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:56.304487"
+  },
+  {
+    "id": "259266792eb9",
+    "title": "Norway’s $2.3 Trillion Fund Needs to Stay Invested in Big Tech, Stoltenberg Says",
+    "title_cn": "斯托尔滕贝格表示，挪威 2.3 万亿美元的基金需要继续投资于大型科技公司",
+    "summary": "<p>Big tech and AI underpin&nbsp;weapons systems, Jens Stoltenberg says in a Bloomberg Newsmakers interview</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/norway-s-2-3-trillion-fund-needs-to-stay-invested-in-big-tech-stoltenberg-says",
+    "published": "Tue, 02 Jun 2026 16:26:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:56.413133"
+  },
+  {
+    "id": "5fab8b3379d1",
+    "title": "Japan’s Takaichi Urges Passage of Vessels in Call With Iran",
+    "title_cn": "日本高市敦促与伊朗通话的船只通过",
+    "summary": "Japanese Prime Minister Sanae Takaichi called for the safe passage of all vessels regardless of nation in her third phone call with Iranian President Masoud Pezeshkian.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/japan-s-takaichi-urges-passage-of-vessels-in-call-with-iran",
+    "published": "Tue, 02 Jun 2026 01:55:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:56.929957"
+  },
+  {
+    "id": "441181333f9d",
+    "title": "Norway Needs to Invest in Big Tech, Stoltenberg Says",
+    "title_cn": "斯托尔滕贝格表示，挪威需要投资大型科技",
+    "summary": "Norway’s $2.3 trillion sovereign wealth fund needs ethics rules that allow it to stay invested in big tech stocks, Finance Minister Jens Stoltenberg said. He speaks to Bloomberg News Editorial Lead for EMEA Jackie Simmons at a Bloomberg Newsmakers event in Oslo. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/norway-needs-to-invest-in-big-tech-stoltenberg-says-video",
+    "published": "Tue, 02 Jun 2026 15:59:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:57.058466"
+  },
+  {
+    "id": "c3487a8a49e4",
+    "title": "US Lowers Tariffs on Farm, Industrial Equipment as Costs Soar",
+    "title_cn": "由于成本飙升，美国降低了农业和工业设备的关税",
+    "summary": "The White House announced it will reduce tariffs on imported farm and construction equipment such as harvesters and forklifts, an effort to boost the industrial economy and provide relief for American farmers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-cuts-agricultural-equipment-tariffs-citing-rising-farm-costs",
+    "published": "Tue, 02 Jun 2026 01:30:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:58.999534"
+  },
+  {
+    "id": "3ae2b43ba48d",
+    "title": "Here Are Key Trump Officials Who Have Left the Administration",
+    "title_cn": "以下是已离开政府的特朗普主要官员",
+    "summary": "<p>A running list of officials who have left, why they exited and who replaced them.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/who-has-left-the-trump-administration-so-far-tracking-turnover",
+    "published": "Tue, 02 Jun 2026 16:00:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:59.125844"
+  },
+  {
+    "id": "4213230ba7e4",
+    "title": "Norway’s Stoltenberg Says NATO Is Now More Difficult to Manage",
+    "title_cn": "挪威斯托尔滕贝格表示北约现在更难管理",
+    "summary": "<p>NATO’s task is to keep US and Europe together, but there are limits, Stoltenberg says</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/norway-s-stoltenberg-says-nato-is-now-more-difficult-to-manage",
+    "published": "Tue, 02 Jun 2026 14:31:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:59.225586"
+  },
+  {
+    "id": "fd2f59889be3",
+    "title": "Stoltenberg Weighs In on US-NATO Tensions, Wealth Fund",
+    "title_cn": "斯托尔滕贝格评论美国与北约的紧张局势和财富基金",
+    "summary": "Former NATO chief Jens Stoltenberg says the tensions between the US and its European NATO allies are “more difficult to manage” now compared to when he left the alliance in 2024. Speaking with Bloomberg News Editorial Lead for EMEA Jackie Simmons at a Bloomberg Newsmakers event in Oslo, Stoltenberg also says it was “unacceptable” for the US to threaten Denmark, referring to President Donald Trump’s ambition to take Greenland. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/stoltenberg-weighs-in-on-us-nato-tensions-wealth-fund-video",
+    "published": "Tue, 02 Jun 2026 15:59:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:59.364935"
+  },
+  {
+    "id": "da63dd2a6acb",
+    "title": "Jeff Aronson Doesn't See a US Recession Coming Anytime Soon",
+    "title_cn": "杰夫阿伦森认为美国经济衰退不会很快到来",
+    "summary": "Centerbridge Co-Founder Jeff Aronson says the US economy is \"in reasonably good shape\" and that he doesn't see a recession happening anytime soon. He also discusses the ripple effects war in the Middle East could have on markets if it persists, as well as his views on prediction markets. Aronson sits down with David Rubenstein for the premiere episode of Bloomberg Wealth Season 6. This interview was recorded April 28 in New York. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-02/jeff-aronson-doesn-t-see-a-us-recession-coming-anytime-soon",
+    "published": "Tue, 02 Jun 2026 15:59:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:59.485602"
+  },
+  {
+    "id": "25449fa495d1",
+    "title": "Rubio Defends Iran War, Ebola Response in Combative Hearing",
+    "title_cn": "卢比奥在战斗听证会上为伊朗战争和埃博拉应对措施辩护",
+    "summary": "Secretary of State Marco Rubio defended the US war effort in Iran, as well as the Trump administration’s global public health strategy amid a worsening Ebola outbreak, as he faced hostile questions from Democrats in a hearing before Congress on Tuesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-02/rubio-goes-to-capitol-hill-where-questions-on-iran-ebola-await",
+    "published": "Tue, 02 Jun 2026 10:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-02T20:55:59.713961"
   },
   {
     "id": "a03f5bfe0674",
@@ -1027,7 +1127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/us-pushing-for-50-american-content-rule-for-autos-carney-says-mpwrjjpx",
     "published": "Tue, 02 Jun 2026 14:59:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:46.958849"
+    "fetched_at": "2026-06-02T20:56:00.015229"
   },
   {
     "id": "e3ee467d7ca9",
@@ -1037,116 +1137,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-s-rodriguez-to-visit-india-as-war-reshapes-oil-trade",
     "published": "Tue, 02 Jun 2026 14:34:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.102483"
-  },
-  {
-    "id": "48bf14742e58",
-    "title": "Trump Names Pulte as Acting Director of National Intelligence",
-    "title_cn": "特朗普任命普尔特为代理国家情报总监",
-    "summary": "President Donald Trump said he is tapping Bill Pulte, the head of the Federal Housing Finance Agency, as the acting Director of National Intelligence. Pulte will keep running the FHFA as well. Bloomberg's Tyler Kendall reports.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/pulte-named-acting-director-of-national-intelligence-video",
-    "published": "Tue, 02 Jun 2026 13:51:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.229512"
-  },
-  {
-    "id": "e8dc623c5d46",
-    "title": "Netanyahu Maneuvers Between Trump and Voters as Election Looms",
-    "title_cn": "选举临近之际，内塔尼亚胡在特朗普和选民之间进行调动",
-    "summary": "Within hours of US President Donald Trump forcing Prime Minister Benjamin Netanyahu to abandon a plan to bomb south Beirut, Israel’s parliament began preparing for elections &mdash; highlighting the combustible interplay between war and politics facing the premier.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/netanyahu-maneuvers-between-trump-and-voters-as-election-looms",
-    "published": "Tue, 02 Jun 2026 13:46:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.360743"
-  },
-  {
-    "id": "c63c596a6d68",
-    "title": "Israel Defense Exports Set Fresh Record for Fifth Straight Year",
-    "title_cn": "以色列国防出口连续第五年创下新纪录",
-    "summary": "Israel’s defense exports hit a record for a fifth consecutive year, with strong demand from Europe and the Asia-Pacific region driving sales.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/israel-defense-exports-at-record-firms-like-rafael-iai-elbit-see-strong-sales",
-    "published": "Tue, 02 Jun 2026 13:33:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.479387"
-  },
-  {
-    "id": "4cd9e98537af",
-    "title": "UK Murder Case Becomes Flashpoint as Farage Faces Criticism",
-    "title_cn": "法拉奇面临批评，英国谋杀案成为爆发点",
-    "summary": "The murder of an 18-year-old white student in Britain has become a political flashpoint as Reform UK leader Nigel Farage was criticized by senior Labour and Conservative politicians for his response to the case.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/uk-murder-case-becomes-flashpoint-as-starmer-backs-police-probe",
-    "published": "Tue, 02 Jun 2026 08:24:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.625753"
-  },
-  {
-    "id": "9d67ec115106",
-    "title": "Russia Ships Most Oil Since 2022 as Drones Strike Refineries",
-    "title_cn": "无人机袭击炼油厂，俄罗斯自 2022 年以来运送了最多石油",
-    "summary": "<p>Year-to-date flows exceed averages for each year since Moscow’s troops invaded Ukraine in 2022</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/russia-gushes-crude-exports-as-drone-strikes-hobble-refineries",
-    "published": "Tue, 02 Jun 2026 13:13:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:47.755794"
-  },
-  {
-    "id": "6b64631606b4",
-    "title": "Magyar Hopes for Ukraine Deal This Week to Open EU Talks",
-    "title_cn": "马扎尔希望乌克兰本周达成协议以开启欧盟谈判",
-    "summary": "Hungarian Prime Minister Peter Magyar said he hoped to close “technical” talks with Kyiv this week over a minority rights issue that is holding up the start of Ukraine’s formal negotiations to join the European Union.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/magyar-hopes-for-deal-with-ukraine-this-week-to-open-eu-talks",
-    "published": "Tue, 02 Jun 2026 12:09:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:48.080706"
-  },
-  {
-    "id": "ce7180a2cd1c",
-    "title": "Barred From Running Argentina, Kirchner Gets Her Own Pink Palace",
-    "title_cn": "基什内尔被禁止执掌阿根廷，却拥有了自己的粉红宫殿",
-    "summary": "Cristina Kirchner may never return to Argentina’s pink presidential palace. But nearly a year after being barred for life from running for public office, her loyal fans brought the palace to her.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/barred-from-running-argentina-kirchner-gets-her-own-pink-palace",
-    "published": "Tue, 02 Jun 2026 12:50:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:48.213005"
-  },
-  {
-    "id": "2a86ae870753",
-    "title": "At Least 18 Killed in Russian Missile Attack on Ukraine",
-    "title_cn": "俄罗斯导弹袭击乌克兰 至少18人死亡",
-    "summary": "Russia carried out a large-scale drone and missile strike on Ukraine, killing at least 18 people and injuring more than a hundred.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/at-least-nine-killed-in-major-russian-missile-attack-on-ukraine",
-    "published": "Tue, 02 Jun 2026 04:08:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:48.626293"
-  },
-  {
-    "id": "5e7ca0918a71",
-    "title": "What You Need to Know About California's Primary Elections",
-    "title_cn": "关于加州初选您需要了解什么",
-    "summary": "The primary for California governor is underway, and it’s a nail-biter. Eliyahu Kamisher breaks down what you need to know about the election. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/what-you-need-to-know-about-california-s-primary-elections",
-    "published": "Tue, 02 Jun 2026 12:00:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:48.781881"
-  },
-  {
-    "id": "6552d550f947",
-    "title": "Reality TV Star, Ex-Fox News Host Emerge as Serious GOP Contenders in California Primaries",
-    "title_cn": "真人秀明星、前福克斯新闻主持人成为加州初选共和党的有力竞争者",
-    "summary": "Steve Hilton paced the stage at a brewery outside San Francisco with a simple message: California is broken and only an outsider can fix it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-02/california-primary-steve-hilton-spencer-pratt-emerge-as-serious-gop-contenders",
-    "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:48.904836"
-  },
-  {
-    "id": "c8ad4e80bd5e",
-    "title": "Ghana Plans SOE Reforms, Forson Says",
-    "title_cn": "福森表示，加纳计划进行国有企业改革",
-    "summary": "Ghana Finance Minister Cassiel Ato Forson said the government plans reforms of state-owned enterprises. He spoke to Bloomberg's Jennifer Zabasajja in London. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-02/ghana-plans-soe-reforms-forson-says-video",
-    "published": "Tue, 02 Jun 2026 11:25:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-02T17:46:49.032138"
+    "fetched_at": "2026-06-02T20:56:00.138472"
   }
 ]
