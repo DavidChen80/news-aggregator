@@ -1,12 +1,48 @@
 [
   {
+    "id": "c0694a22abb3",
+    "title": "Bloomberg Talks: Delta President Peter Carter (Podcast)",
+    "summary": "Source: Bloomberg, 10:43",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-06/bloomberg-talks-delta-president-peter-carter-podcast",
+    "published": "Sat, 06 Jun 2026 22:25:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-06T22:44:59.570844"
+  },
+  {
+    "id": "db6263acc10c",
+    "title": "US and Iran Exchange Fire, Jet Blue CEO: Never Say Never, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-and-iran-exchange-fire-jet-blue-ceo-never-say-never-more",
+    "published": "Sat, 06 Jun 2026 22:23:30 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-06T22:44:59.570856"
+  },
+  {
+    "id": "bd7c37777006",
+    "title": "French Carriers Sign €20.4 Billion Agreement to Buy Altice France’s SFR",
+    "summary": "A consortium of French phone carriers signed an agreement to buy competitor SFR in a deal valuing the country’s second-largest mobile carrier at €20.4 billion ($23.5 billion).",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-06/french-carriers-in-20-4-billion-deal-to-buy-altice-france-s-sfr",
+    "published": "Sat, 06 Jun 2026 22:20:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-06T22:44:59.570861"
+  },
+  {
+    "id": "59e841b72b29",
+    "title": "Bloomberg Talks: JetBlue CEO Joanna Geraghty (Podcast)",
+    "summary": "Source: Bloomberg, 9:19",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-06/bloomberg-talks-jetblue-ceo-joanna-geraghty-podcast",
+    "published": "Sat, 06 Jun 2026 22:09:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-06T22:44:59.570865"
+  },
+  {
     "id": "d1b6ac832028",
     "title": "US and Iran Exchange Fire, Trump Touts Big AI Meeting, More",
     "summary": "Source: Bloomberg, 6:05",
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-and-iran-exchange-fire-trump-touts-big-ai-meeting-more",
     "published": "Sat, 06 Jun 2026 20:26:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959281"
+    "fetched_at": "2026-06-06T22:44:59.570869"
   },
   {
     "id": "d8c872ec5f81",
@@ -15,7 +51,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/hungary-s-mol-says-it-got-us-extension-to-complete-nis-stake",
     "published": "Sat, 06 Jun 2026 19:59:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959296"
+    "fetched_at": "2026-06-06T22:44:59.570873"
   },
   {
     "id": "deff8a6dc11f",
@@ -24,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/bloomberg-law-taylor-swift-fights-suit-over-hit-album-podcast",
     "published": "Sat, 06 Jun 2026 19:37:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959303"
+    "fetched_at": "2026-06-06T22:44:59.570891"
   },
   {
     "id": "2b4d2baa8a2e",
@@ -33,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-iran-exchange-fire-trump-teases-ai-meeting-more",
     "published": "Sat, 06 Jun 2026 19:01:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959308"
+    "fetched_at": "2026-06-06T22:44:59.570898"
   },
   {
     "id": "2cba43d9dc04",
@@ -42,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-iran-exchange-fire-trump-pledges-lower-costs-to-farmers",
     "published": "Sat, 06 Jun 2026 16:49:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959314"
+    "fetched_at": "2026-06-06T22:44:59.570903"
   },
   {
     "id": "2d1f1002bd97",
@@ -51,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/bloomberg-talks-george-arison-podcast",
     "published": "Sat, 06 Jun 2026 16:12:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959319"
+    "fetched_at": "2026-06-06T22:44:59.570910"
   },
   {
     "id": "8d6f5aa72e74",
@@ -60,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/bloomberg-this-weekend-wh-to-consider-stakes-in-ai-podcast",
     "published": "Sat, 06 Jun 2026 15:36:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959325"
+    "fetched_at": "2026-06-06T22:44:59.570915"
   },
   {
     "id": "2c7c0378dcf2",
@@ -69,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-intercepts-iranian-attacks-mirra-andreeva-wins-french-open",
     "published": "Sat, 06 Jun 2026 15:26:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959334"
+    "fetched_at": "2026-06-06T22:44:59.570919"
   },
   {
     "id": "c8508f2d8aee",
@@ -78,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-06/troubled-lmes-pave-the-way-for-a-165-billion-distressed-debt-opportunity",
     "published": "Sat, 06 Jun 2026 15:00:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959340"
+    "fetched_at": "2026-06-06T22:44:59.570923"
   },
   {
     "id": "69959fe75cf0",
@@ -87,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-fends-off-iran-attacks-trump-vows-good-things-for-farmers",
     "published": "Sat, 06 Jun 2026 14:39:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959350"
+    "fetched_at": "2026-06-06T22:44:59.570926"
   },
   {
     "id": "2b411c51e284",
@@ -96,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-intercepts-iranian-attacks-trump-teases-big-ai-meeting-more",
     "published": "Sat, 06 Jun 2026 13:04:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959355"
+    "fetched_at": "2026-06-06T22:44:59.570930"
   },
   {
     "id": "54dc5a7735db",
@@ -105,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-fends-off-iran-attacks-tech-selloff-tanks-stocks-bitcoin",
     "published": "Sat, 06 Jun 2026 11:59:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959360"
+    "fetched_at": "2026-06-06T22:44:59.570934"
   },
   {
     "id": "02f98ae0181f",
@@ -114,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/us-forces-intercept-iranian-attacks-crude-output-drops-more",
     "published": "Sat, 06 Jun 2026 10:37:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959366"
+    "fetched_at": "2026-06-06T22:44:59.570938"
   },
   {
     "id": "7150536cd6b4",
@@ -123,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-06/bitcoin-and-its-promises-show-their-age-merryn-talks-money",
     "published": "Sat, 06 Jun 2026 04:30:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959371"
+    "fetched_at": "2026-06-06T22:44:59.570942"
   },
   {
     "id": "02a43d79ce91",
@@ -132,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/spacex-and-google-cloud-deal-stocks-routed-more",
     "published": "Sat, 06 Jun 2026 03:33:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959376"
+    "fetched_at": "2026-06-06T22:44:59.570946"
   },
   {
     "id": "d310502ee01a",
@@ -141,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/stocks-routed-space-x-and-google-reach-cloud-deal-more-mq1r48ck",
     "published": "Sat, 06 Jun 2026 02:46:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959381"
+    "fetched_at": "2026-06-06T22:44:59.570950"
   },
   {
     "id": "4412e55f9dd7",
@@ -150,7 +186,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/tech-stocks-rout-spacex-and-google-cloud-deal-more-mq1pkpqv",
     "published": "Sat, 06 Jun 2026 02:02:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959386"
+    "fetched_at": "2026-06-06T22:44:59.570954"
   },
   {
     "id": "4680b789d94b",
@@ -159,7 +195,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-05/deadly-screwworm-pest-revives-old-fears-on-texas-ranches",
     "published": "Fri, 05 Jun 2026 18:01:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959391"
+    "fetched_at": "2026-06-06T22:44:59.570958"
   },
   {
     "id": "2c4edfd31489",
@@ -168,7 +204,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/stocks-routed-space-x-and-google-reach-cloud-deal-more",
     "published": "Sat, 06 Jun 2026 01:02:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959396"
+    "fetched_at": "2026-06-06T22:44:59.570961"
   },
   {
     "id": "9a3190ad0820",
@@ -177,7 +213,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-06/michael-saylor-breaks-bitcoin-btc-pledge-sells-for-first-time-in-four-years",
     "published": "Sat, 06 Jun 2026 01:00:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959401"
+    "fetched_at": "2026-06-06T22:44:59.570965"
   },
   {
     "id": "5e859bdfbc80",
@@ -186,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-06/tech-stocks-rout-spacex-and-google-cloud-deal-more",
     "published": "Sat, 06 Jun 2026 00:05:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959406"
+    "fetched_at": "2026-06-06T22:44:59.570969"
   },
   {
     "id": "ad6879d3422c",
@@ -195,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-05/stocks-routed-space-x-and-google-reach-cloud-deal-more",
     "published": "Fri, 05 Jun 2026 23:11:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959410"
+    "fetched_at": "2026-06-06T22:44:59.570973"
   },
   {
     "id": "453e0f8f653a",
@@ -204,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-05/stock-movers-broadcom-coinbase-humana-podcast",
     "published": "Fri, 05 Jun 2026 22:32:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959418"
+    "fetched_at": "2026-06-06T22:44:59.570978"
   },
   {
     "id": "b684471b471a",
@@ -213,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-05/tech-rout-spacex-google-strike-cloud-deal-more",
     "published": "Fri, 05 Jun 2026 22:24:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959423"
+    "fetched_at": "2026-06-06T22:44:59.570982"
   },
   {
     "id": "a827aec95c6b",
@@ -222,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-05/tech-rout-sends-markets-lower-spacex-google-strike-cloud-deal-mq1ghrg6",
     "published": "Fri, 05 Jun 2026 21:48:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959428"
+    "fetched_at": "2026-06-06T22:44:59.570988"
   },
   {
     "id": "90d290292700",
@@ -231,43 +267,25 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-05/nasdaq-drops-5-amid-rate-hike-fears-evening-briefing-americas",
     "published": "Fri, 05 Jun 2026 21:33:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959433"
+    "fetched_at": "2026-06-06T22:44:59.570991"
   },
   {
-    "id": "30922b7dd9bc",
-    "title": "A Struggling Community's Future Rests on an AI Data Center",
-    "summary": "<p>On today’s Big Take podcast: Meta has plans to build its largest data center yet in rural Louisiana. But will residents reap the benefits of a new neighbor?</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-05/inside-meta-zuckerberg-plans-for-louisiana-ai-data-center-big-take-podcast",
-    "published": "Fri, 05 Jun 2026 21:23:18 GMT",
+    "id": "13d1d607447f",
+    "title": "Delta President on Middle East Flights & Premium Travel",
+    "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on Middle East, Rhiad flights and premium travel.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-06/delta-president-on-middle-east-flights-premium-travel",
+    "published": "Sat, 06 Jun 2026 21:50:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959438"
+    "fetched_at": "2026-06-06T22:44:59.808731"
   },
   {
-    "id": "1c3792c7329e",
-    "title": "Big Take: When Meta AI Comes to Town (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-05/big-take-when-meta-ai-comes-to-town-podcast",
-    "published": "Fri, 05 Jun 2026 21:20:26 GMT",
+    "id": "480078f1af45",
+    "title": "Delta's Peter Carter on Consumer Premium Travel Appetite",
+    "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on consumers \"insatiable appetite\" for premium travel. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-06/delta-s-peter-carter-on-consumer-premium-travel-appetite-video",
+    "published": "Sat, 06 Jun 2026 21:34:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959443"
-  },
-  {
-    "id": "dc85164c469a",
-    "title": "Bloomberg Wall Street Week: June 5th, 2026 (Podcast)",
-    "summary": "Source: Bloomberg, 48:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-05/bloomberg-wall-street-week-june-5th-2026-podcast",
-    "published": "Fri, 05 Jun 2026 21:16:52 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959450"
-  },
-  {
-    "id": "fbe8dfd8d0d8",
-    "title": "Trade Uncertainty Is Poised to Linger Over North America for Years",
-    "summary": "Plus: When it comes to Alberta separatism, skepticism abounds",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-05/usmca-deal-is-unlikely-to-make-the-july-1-2026-deadline",
-    "published": "Fri, 05 Jun 2026 21:16:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:04.959454"
+    "fetched_at": "2026-06-06T22:44:59.808743"
   },
   {
     "id": "79536b402e89",
@@ -276,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/jetblue-ceo-speaks-on-potential-consolidation-at-iata-video",
     "published": "Sat, 06 Jun 2026 21:02:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153623"
+    "fetched_at": "2026-06-06T22:44:59.808752"
   },
   {
     "id": "b6287271e48a",
@@ -285,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/ecb-steps-up-as-g7-s-lead-hawk-with-interest-rate-hike-primed",
     "published": "Sat, 06 Jun 2026 20:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153636"
+    "fetched_at": "2026-06-06T22:44:59.808757"
   },
   {
     "id": "ddeca2fe2688",
@@ -294,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/iata-director-willie-walsh-on-rising-cost-of-jet-fuel-video",
     "published": "Sat, 06 Jun 2026 19:16:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153642"
+    "fetched_at": "2026-06-06T22:44:59.808761"
   },
   {
     "id": "643631f1a795",
@@ -303,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/iata-director-on-air-transport-stagflation-challenges-video",
     "published": "Sat, 06 Jun 2026 19:10:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153649"
+    "fetched_at": "2026-06-06T22:44:59.808765"
   },
   {
     "id": "58cc34d41fc1",
@@ -312,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/doubleline-oaktree-brace-for-potential-ai-pain-credit-weekly",
     "published": "Sat, 06 Jun 2026 19:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153654"
+    "fetched_at": "2026-06-06T22:44:59.808769"
   },
   {
     "id": "600dfa4b2c4b",
@@ -321,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/bloomberg-this-weekend-6-06-2026-video",
     "published": "Sat, 06 Jun 2026 16:19:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153659"
+    "fetched_at": "2026-06-06T22:44:59.808774"
   },
   {
     "id": "049e818ac2e1",
@@ -330,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/fed-s-barr-warns-of-risks-tied-to-looser-wall-street-bank-rules",
     "published": "Sat, 06 Jun 2026 16:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153664"
+    "fetched_at": "2026-06-06T22:44:59.808777"
   },
   {
     "id": "8aa957646200",
@@ -339,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/war-in-iran-approaches-100-day-mark-video",
     "published": "Sat, 06 Jun 2026 15:02:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153669"
+    "fetched_at": "2026-06-06T22:44:59.808782"
   },
   {
     "id": "7d5544da4d74",
@@ -348,7 +366,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/pointed-news-quiz-ai-securities-fraud-movies-video",
     "published": "Sat, 06 Jun 2026 14:43:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153673"
+    "fetched_at": "2026-06-06T22:44:59.808786"
   },
   {
     "id": "349eaacbbc12",
@@ -357,7 +375,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/fifa-prepares-for-world-cup-2026-video",
     "published": "Sat, 06 Jun 2026 14:20:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153678"
+    "fetched_at": "2026-06-06T22:44:59.808790"
   },
   {
     "id": "8f9cbecaaef2",
@@ -366,7 +384,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/frasers-weighs-500-million-bid-for-shopping-center-sky-reports",
     "published": "Sat, 06 Jun 2026 14:19:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153683"
+    "fetched_at": "2026-06-06T22:44:59.808794"
   },
   {
     "id": "67fb818442d8",
@@ -375,7 +393,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/trump-holds-profanity-filled-call-with-netanyahu-video",
     "published": "Sat, 06 Jun 2026 14:05:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153688"
+    "fetched_at": "2026-06-06T22:44:59.808798"
   },
   {
     "id": "98f8a616147a",
@@ -384,7 +402,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/why-protests-are-threatening-bolivia-s-investment-push-video",
     "published": "Sat, 06 Jun 2026 14:03:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153692"
+    "fetched_at": "2026-06-06T22:44:59.808802"
   },
   {
     "id": "e63c15903ad3",
@@ -393,7 +411,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/broadway-shows-eye-london-ny-wooing-with-tax-credits-video",
     "published": "Sat, 06 Jun 2026 13:25:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153698"
+    "fetched_at": "2026-06-06T22:44:59.808805"
   },
   {
     "id": "6993c274394f",
@@ -402,7 +420,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/us-proposes-new-tariffs-over-forced-labor-video",
     "published": "Sat, 06 Jun 2026 13:13:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153703"
+    "fetched_at": "2026-06-06T22:44:59.808809"
   },
   {
     "id": "3a63124d9c79",
@@ -411,7 +429,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/macro-soothsayers-stock-analysts-see-vastly-different-markets",
     "published": "Sat, 06 Jun 2026 13:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153728"
+    "fetched_at": "2026-06-06T22:44:59.808813"
   },
   {
     "id": "c353847db1b5",
@@ -420,7 +438,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-05/raizen-inks-13-billion-out-of-court-debt-deal-with-creditors",
     "published": "Fri, 05 Jun 2026 23:31:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153733"
+    "fetched_at": "2026-06-06T22:44:59.808817"
   },
   {
     "id": "54a261b896ec",
@@ -429,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/knicks-tickets-binge-drinking-cake-in-a-cup-btw-video",
     "published": "Sat, 06 Jun 2026 12:42:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153738"
+    "fetched_at": "2026-06-06T22:44:59.808821"
   },
   {
     "id": "7591e8ac3386",
@@ -438,7 +456,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/us-sanctions-cuba-s-diaz-canel-trump-ramps-up-pressure-video",
     "published": "Sat, 06 Jun 2026 12:38:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153743"
+    "fetched_at": "2026-06-06T22:44:59.808825"
   },
   {
     "id": "ccd67d4a5d5f",
@@ -447,7 +465,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/asia-to-us-container-rates-spike-109-since-iran-war-started",
     "published": "Sat, 06 Jun 2026 12:06:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153748"
+    "fetched_at": "2026-06-06T22:44:59.808828"
   },
   {
     "id": "33e6ca4541b6",
@@ -456,7 +474,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/is-the-dollar-losing-its-luster-video",
     "published": "Sat, 06 Jun 2026 12:03:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153753"
+    "fetched_at": "2026-06-06T22:44:59.808832"
   },
   {
     "id": "cd5ef19c8fc9",
@@ -465,7 +483,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-06/people-inc-adapts-to-ai-us-china-space-race-centers-on-satellites",
     "published": "Sat, 06 Jun 2026 12:00:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153761"
+    "fetched_at": "2026-06-06T22:44:59.808836"
   },
   {
     "id": "dede89f9091f",
@@ -474,7 +492,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/paramount-open-to-divest-kids-tv-assets-in-eu-probe-of-110-billion-warner-deal",
     "published": "Sat, 06 Jun 2026 11:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153766"
+    "fetched_at": "2026-06-06T22:44:59.808840"
   },
   {
     "id": "74b6dc5d8d71",
@@ -483,7 +501,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-05/indonesia-facing-a-crisis-of-confidence-as-markets-divine-prabowo-s-wiles",
     "published": "Fri, 05 Jun 2026 10:30:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153771"
+    "fetched_at": "2026-06-06T22:44:59.808843"
   },
   {
     "id": "ce223addcd5d",
@@ -492,7 +510,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/chris-davis-on-his-biggest-investing-mistakes-video",
     "published": "Sat, 06 Jun 2026 09:01:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153776"
+    "fetched_at": "2026-06-06T22:44:59.808847"
   },
   {
     "id": "e75332f9bf2c",
@@ -501,7 +519,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/charting-the-global-economy-jobs-inflation-feed-rate-hike-bets",
     "published": "Sat, 06 Jun 2026 09:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153780"
+    "fetched_at": "2026-06-06T22:44:59.808851"
   },
   {
     "id": "ba1e0b884958",
@@ -510,7 +528,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-06/china-s-regulator-to-deepen-focus-on-returns-in-fund-overhaul",
     "published": "Sat, 06 Jun 2026 08:40:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153785"
+    "fetched_at": "2026-06-06T22:44:59.808854"
   },
   {
     "id": "372fc327d183",
@@ -519,24 +537,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-06/why-susquehanna-is-building-a-prediction-market-business-video",
     "published": "Sat, 06 Jun 2026 08:10:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153790"
-  },
-  {
-    "id": "9f5d774aa387",
-    "title": "Why Susquehanna Is Building a Prediction Markets Business",
-    "summary": "<p>Creating an asset class for bets on anything.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-06/how-susquehanna-is-expanding-into-prediction-markets",
-    "published": "Sat, 06 Jun 2026 08:00:35 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153795"
-  },
-  {
-    "id": "f1f20cf0cc90",
-    "title": "Odd Lots: Why Susquehanna Builds Prediction Markets (Podcast)",
-    "summary": "Prediction markets that enable you to bet on pretty much everything are everywhere nowadays. But there’s still a big question over whether they can expand to include larger institutional investors like hedge funds. Part of the problem is that a lot of prediction market contracts are illiquid and trading volumes can sometimes be shallow. That’s where trading firm Susquehanna International Group comes in. In this episode, recorded live at New York’s City Winery, we talk to Jeremy Maletz, Susquehan",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-06/odd-lots-why-susquehanna-builds-prediction-markets-podcast",
-    "published": "Sat, 06 Jun 2026 08:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-06T21:32:05.153800"
+    "fetched_at": "2026-06-06T22:44:59.808858"
   }
 ]
