@@ -1,12 +1,84 @@
 [
   {
+    "id": "0972faee9103",
+    "title": "Tech Disruptors: Microsoft on Azure’s AI Data-Center Stack",
+    "summary": "“Every data center will need some part of AI capabilities to run workloads like inference, because it’s just becoming such a fundamental part of all of this cloud technology,” says Alistair Speirs, general manager of Microsoft’s Azure Infrastructure. Speirs joins Bloomberg Intelligence Senior Technology Analyst Anurag Rana on this episode of the Tech Disruptors podcast to discuss how AI infrastructure is reshaping the modern data center, from liquid cooling and dense networking to custom silicon",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/tech-disruptors-microsoft-on-azure-s-ai-data-center-stack",
+    "published": "Tue, 09 Jun 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546896"
+  },
+  {
+    "id": "1e7f21823509",
+    "title": "Talking Transports: DHL on the Ever-Changing Forwarding Markets",
+    "summary": "Global supply chains have become more complex as companies prioritize resilience over efficiency and diversify sourcing beyond single-country strategies. In this episode of the Talking Transports podcast, DHL Global Forwarding CEO Oscar de Bok joins Bloomberg Intelligence senior transportation and logistics analyst Lee Klaskow to discuss how geopolitical disruptions, shifting trade flows and increasing regulatory complexity are reshaping global logistics. De Bok explains how supply chains have e",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/talking-transports-dhl-on-the-ever-changing-forwarding-markets",
+    "published": "Tue, 09 Jun 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546911"
+  },
+  {
+    "id": "b78a621db41e",
+    "title": "Trump Says Peace Talks on Track, Knicks Fall to Spurs, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/trump-says-peace-talks-on-track-knicks-fall-to-spurs-more-mq6kjwpf",
+    "published": "Tue, 09 Jun 2026 11:41:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546918"
+  },
+  {
+    "id": "02a08eb0cfaf",
+    "title": "OpenAI’s IPO Filing Again Pits Sam Altman Against Elon Musk",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/openai-s-ipo-filing-again-pits-sam-altman-against-elon-musk",
+    "published": "Tue, 09 Jun 2026 11:16:56 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546924"
+  },
+  {
+    "id": "1152001500bc",
+    "title": "Stock Movers: NUVL, AAPL, APLD (Podcast)",
+    "summary": "Source: Bloomberg, 4:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/stock-movers-nuvl-aapl-apld-podcast",
+    "published": "Tue, 09 Jun 2026 11:02:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546929"
+  },
+  {
+    "id": "9290237a7df9",
+    "title": "Trump Renews Iran Deal Claims, Knicks Drop Game 3 at MSG, More",
+    "summary": "Source: Bloomberg, 5:07",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/trump-renews-iran-deal-claims-knicks-drop-game-3-at-msg-more",
+    "published": "Tue, 09 Jun 2026 10:23:03 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546935"
+  },
+  {
+    "id": "44c5911ac472",
+    "title": "Paramount’s $110 Billion Warner Takeover Investigated by UK",
+    "summary": "Britain’s merger watchdog has opened a probe into Paramount Skydance Corp.’s $110 billion takeover of Warner Bros. Discovery Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/paramount-s-110-billion-warner-takeover-probed-by-uk-watchdog",
+    "published": "Tue, 09 Jun 2026 10:04:54 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546940"
+  },
+  {
+    "id": "8707c37abb17",
+    "title": "Bloomberg Daybreak: Trump-Iran Deal Claims (Podcast)",
+    "summary": "Source: Bloomberg, 20:26",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-09/bloomberg-daybreak-trump-iran-deal-claims-podcast",
+    "published": "Tue, 09 Jun 2026 10:00:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.546949"
+  },
+  {
     "id": "2a3aed139620",
     "title": "Trump Says Peace Talks on Track, Knicks Fall to Spurs, More",
     "summary": "Source: Bloomberg, 5:10",
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/trump-says-peace-talks-on-track-knicks-fall-to-spurs-more",
     "published": "Tue, 09 Jun 2026 09:31:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207005"
+    "fetched_at": "2026-06-09T12:42:03.546955"
   },
   {
     "id": "4a80a14a2622",
@@ -15,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/stock-movers-gsk-fevertree-seraphim-podcast",
     "published": "Tue, 09 Jun 2026 09:30:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207020"
+    "fetched_at": "2026-06-09T12:42:03.546961"
   },
   {
     "id": "854a10ffb36d",
@@ -24,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/merryn-talks-money-fomo-is-not-an-investment-strategy-podcast",
     "published": "Tue, 09 Jun 2026 09:08:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207026"
+    "fetched_at": "2026-06-09T12:42:03.546966"
   },
   {
     "id": "567d4bd16140",
@@ -33,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/indonesia-surprises-with-rate-hike-to-support-plunging-rupiah",
     "published": "Tue, 09 Jun 2026 09:01:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207032"
+    "fetched_at": "2026-06-09T12:42:03.546971"
   },
   {
     "id": "2e9dd09595b3",
@@ -42,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-09/iconiq-backed-it-startup-ninjaone-hits-12-3-billion-valuation",
     "published": "Tue, 09 Jun 2026 09:00:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207037"
+    "fetched_at": "2026-06-09T12:42:03.546976"
   },
   {
     "id": "1816d46bcf2b",
@@ -51,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/mega-ipo-race-china-prepares-295b-ai-plan-more",
     "published": "Tue, 09 Jun 2026 08:47:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207042"
+    "fetched_at": "2026-06-09T12:42:03.546981"
   },
   {
     "id": "04e7fef0fa83",
@@ -60,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/stock-movers-wpp-gsk-monte-paschi-podcast",
     "published": "Tue, 09 Jun 2026 08:05:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207048"
+    "fetched_at": "2026-06-09T12:42:03.546986"
   },
   {
     "id": "3368f6b42133",
@@ -69,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-files-for-ipo-gsk-s-nuvalent-deal-more",
     "published": "Tue, 09 Jun 2026 07:28:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207057"
+    "fetched_at": "2026-06-09T12:42:03.546991"
   },
   {
     "id": "826b0a0258d6",
@@ -78,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-joins-ipo-rush-stocks-extend-rebound-more",
     "published": "Tue, 09 Jun 2026 07:17:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207062"
+    "fetched_at": "2026-06-09T12:42:03.546997"
   },
   {
     "id": "8206ba74d9df",
@@ -87,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/gsk-agrees-to-buy-nuvalent-for-10-6-billion-in-cancer-drug-push",
     "published": "Tue, 09 Jun 2026 07:16:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207068"
+    "fetched_at": "2026-06-09T12:42:03.547001"
   },
   {
     "id": "2667874cb6b3",
@@ -96,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-09/iceye-valuation-jumps-to-10-billion-in-funding-round-led-by-general-atlantic",
     "published": "Tue, 09 Jun 2026 06:45:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207073"
+    "fetched_at": "2026-06-09T12:42:03.547007"
   },
   {
     "id": "569a6d3e32c4",
@@ -105,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/open-ai-files-for-an-ipo-as-rivals-race-to-the-market",
     "published": "Tue, 09 Jun 2026 06:04:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207078"
+    "fetched_at": "2026-06-09T12:42:03.547011"
   },
   {
     "id": "b6692538aec3",
@@ -114,7 +186,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/bloomberg-daybreak-europe-openai-joins-ipo-bonanza-podcast",
     "published": "Tue, 09 Jun 2026 05:43:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207083"
+    "fetched_at": "2026-06-09T12:42:03.547016"
   },
   {
     "id": "cff1783693a1",
@@ -123,7 +195,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-joins-ipo-bonanza-iran-israel-to-ease-strikes-more",
     "published": "Tue, 09 Jun 2026 05:42:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207088"
+    "fetched_at": "2026-06-09T12:42:03.547021"
   },
   {
     "id": "51089ac25171",
@@ -132,16 +204,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-08/iran-and-israel-exchange-missile-attacks-imperiling-peace-talks",
     "published": "Mon, 08 Jun 2026 05:32:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207093"
+    "fetched_at": "2026-06-09T12:42:03.547026"
   },
   {
     "id": "c83eab8a3a09",
-    "title": "What Rolling Back Brexit Would Mean for the UK Economy",
+    "title": "What Reversing Brexit Would Mean for the UK Economy",
     "summary": "<p>Keir Starmer’s Labour government wants to get closer to Europe, but must choose from a range of options.</p>",
     "link": "https://www.bloomberg.com/news/features/2026-06-09/what-rolling-back-brexit-vote-would-mean-for-the-uk-economy",
     "published": "Tue, 09 Jun 2026 04:00:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207098"
+    "fetched_at": "2026-06-09T12:42:03.547034"
   },
   {
     "id": "d9cc4b763172",
@@ -150,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-09/how-the-uk-s-options-for-rebuilding-ties-with-europe-stack-up",
     "published": "Tue, 09 Jun 2026 04:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207102"
+    "fetched_at": "2026-06-09T12:42:03.547039"
   },
   {
     "id": "b9b914be02d3",
@@ -159,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-ipo-gets-underway-apple-unveils-new-ai-platforms-more",
     "published": "Tue, 09 Jun 2026 03:34:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207107"
+    "fetched_at": "2026-06-09T12:42:03.547044"
   },
   {
     "id": "859702604d89",
@@ -168,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-06-08/jakarta-mansion-left-to-rot-epitomizes-legal-system-risking-indonesia-s-economy",
     "published": "Mon, 08 Jun 2026 23:03:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207113"
+    "fetched_at": "2026-06-09T12:42:03.547050"
   },
   {
     "id": "80de7e941140",
@@ -177,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-files-for-ipo-apple-unveils-next-generation-ai-more",
     "published": "Tue, 09 Jun 2026 02:54:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207118"
+    "fetched_at": "2026-06-09T12:42:03.547054"
   },
   {
     "id": "0f0db2f6b8dd",
@@ -186,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/nifty-swings-rise-as-iran-war-drags-on",
     "published": "Tue, 09 Jun 2026 02:46:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207122"
+    "fetched_at": "2026-06-09T12:42:03.547062"
   },
   {
     "id": "7e706754dc74",
@@ -195,151 +267,151 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-09/bloomberg-daybreak-asia-chip-stock-rebound-podcast",
     "published": "Tue, 09 Jun 2026 02:06:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207127"
-  },
-  {
-    "id": "06aea0624f93",
-    "title": "OpenAI Files Confidentially for IPO, Apple Unveils Siri AI, More",
-    "summary": "Source: Bloomberg, 7:07",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-files-confidentially-for-ipo-apple-unveils-siri-ai-more",
-    "published": "Tue, 09 Jun 2026 01:46:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207132"
-  },
-  {
-    "id": "49573e6249e9",
-    "title": "OpenAI's IPO Push, Apple Unveils New AI Platform, More",
-    "summary": "Source: Bloomberg, 7:07",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-s-ipo-push-apple-unveils-new-ai-platform-more",
-    "published": "Tue, 09 Jun 2026 00:52:41 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207140"
-  },
-  {
-    "id": "8a8239fcf005",
-    "title": "OpenAI IPO Gets Underway, Apple's AI Reboot, More",
-    "summary": "Source: Bloomberg, 7:07",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-09/openai-ipo-gets-underway-apple-s-ai-reboot-more",
-    "published": "Tue, 09 Jun 2026 00:03:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207145"
-  },
-  {
-    "id": "2b6fc00c6d2f",
-    "title": "OpenAI Confidentially Files for IPO, Apple Introduces Siri AI",
-    "summary": "Source: Bloomberg, 6:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-08/openai-confidentially-files-for-ipo-apple-introduces-siri-ai",
-    "published": "Mon, 08 Jun 2026 23:14:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207150"
-  },
-  {
-    "id": "d5b445b8fab0",
-    "title": "SpaceX IPO Is Well Oversubscribed With $10 Billion Orders",
-    "summary": "SpaceX’s initial public offering is well oversubscribed with multiple institutional investors placing orders for about $10 billion or more of shares, according to people familiar with the matter, as demand builds for a potentially record-setting debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed",
-    "published": "Mon, 08 Jun 2026 15:49:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207155"
-  },
-  {
-    "id": "b66e925ad6ef",
-    "title": "One Nation Tops Poll, OpenAI Primes Stock Market Debut",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-08/one-nation-tops-poll-air-new-zealand-cuts-flights-lng-plant-strikes",
-    "published": "Mon, 08 Jun 2026 22:36:35 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207160"
-  },
-  {
-    "id": "844e3f874995",
-    "title": "OpenAI Filed Confidentially for IPO, Apple’s AI Reboot, More",
-    "summary": "Source: Bloomberg, 6:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-08/openai-filed-confidentially-for-ipo-apple-s-ai-reboot-more",
-    "published": "Mon, 08 Jun 2026 22:25:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207164"
-  },
-  {
-    "id": "cd5a4e4f7624",
-    "title": "AI-Obsessed Amazon Pulls Off a History-Making Debt Deal in Canada",
-    "summary": "Also: Red flags for the stock market",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-08/ai-obsessed-amazon-pulls-off-a-history-making-debt-deal-in-canada",
-    "published": "Mon, 08 Jun 2026 21:39:28 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.207169"
-  },
-  {
-    "id": "44ad77aef4ea",
-    "title": "China’s Trade Imbalance With EU Swells as Imports Slip Again",
-    "summary": "China’s imports from the European Union dropped for the first time in three months, again swelling a trade imbalance that’s put it on a collision course with the bloc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-s-trade-imbalance-with-eu-swells-with-imports-in-new-slump",
-    "published": "Tue, 09 Jun 2026 09:26:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343826"
-  },
-  {
-    "id": "b5661a49cd9b",
-    "title": "StoneX Plans to Deepen India Presence Beyond First Trading Desk",
-    "summary": "StoneX Group Inc. plans to expand into base metals and agricultural commodities after setting up its first precious metals trading desk in India in June, according to top executives, deepening its presence in the fast-growing economy after serving it for years from overseas hubs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/stonex-plans-to-deepen-india-presence-beyond-first-trading-desk",
-    "published": "Tue, 09 Jun 2026 09:37:44 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343841"
-  },
-  {
-    "id": "87ce92ce601b",
-    "title": "ECB 'At a Minimum' Is Going to Hike Twice, BNP Paribas Says",
-    "summary": "Sam Lynton-Brown, head of global macro strategy at BNP Paribas, speaks on Blomberg Television about the outlook for Federal Reserve and European Central Bank policy. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-09/ecb-at-a-minimum-is-going-to-hike-twice-bnp-paribas-video",
-    "published": "Tue, 09 Jun 2026 09:29:59 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343847"
-  },
-  {
-    "id": "5b4c8a23f9c6",
-    "title": "Intesa’s Messina Braces for Bidding War Over Monte Paschi",
-    "summary": "Intesa Sanpaolo SpA Chief Executive Officer Carlo Messina signaled he’s prepared to address any counterbids for Banca Monte dei Paschi di Siena SpA, after unveiling an offer that valued the world’s oldest bank at more than €30 billion ($35 billion).",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/intesa-ceo-braces-for-potential-bidding-war-over-monte-paschi",
-    "published": "Tue, 09 Jun 2026 08:57:53 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343853"
-  },
-  {
-    "id": "e8f72e4b75b8",
-    "title": "German Industry Output Sees First Gain Since Iran War Began",
-    "summary": "German industrial production grew for the first time since war broke out in Iran, fueling hope that Europe’s largest economy is weathering the jump in energy costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/german-industrial-output-rises-for-first-time-since-war-began",
-    "published": "Tue, 09 Jun 2026 06:08:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343858"
-  },
-  {
-    "id": "2c59c7549b4a",
-    "title": "Bond Backed by French SME Loans Looks to Open a New Debt Market",
-    "summary": "French state-backed lender Bpifrance SACA is selling a new type of bond backed by small company loans, looking to end a more than decade-long regulatory impasse over European Secured Notes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/bond-backed-by-french-sme-loans-looks-to-open-a-new-debt-market",
-    "published": "Tue, 09 Jun 2026 09:18:29 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343864"
+    "fetched_at": "2026-06-09T12:42:03.547066"
   },
   {
     "id": "2dc9f7307cf6",
     "title": "Stocks Climb as AI-Led Rebound Enters Day Two: Markets Wrap",
-    "summary": "A recovery in the artificial-intelligence trade entered a second day in a cautiously risk-on session, with oil prices also falling as hostilities in the Middle East eased.",
+    "summary": "A recovery in the artificial-intelligence trade carried into a second day, with oil prices falling as hostilities in the Middle East eased.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-08/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 08 Jun 2026 22:11:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343869"
+    "fetched_at": "2026-06-09T12:42:03.773074"
   },
   {
-    "id": "725afc422c8e",
-    "title": "Uber-Backed Wayve Eyes Stake Sale on the UK’s New Private Market",
-    "summary": "Wayve Technologies Ltd., the UK-based autonomous driving software startup, is considering letting investors sell shares through the country’s new private securities market, according to people familiar with the matter, in what would be the first major endorsement of the novel system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/uber-backed-wayve-eyes-stake-sale-on-the-uk-s-new-private-market",
-    "published": "Tue, 09 Jun 2026 09:17:01 GMT",
+    "id": "24a9bc42ee27",
+    "title": "BNP Sees Three Fed Rate Hikes Starting in December",
+    "summary": "Guneet Dhingra, head of US rates strategy at BNP Paribas, discusses the inflation risks he sees in markets and explains how the firm came to expect three rate hikes coming from the Federal Reserve. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-09/bnp-sees-three-fed-rate-hikes-starting-in-december-video",
+    "published": "Tue, 09 Jun 2026 12:24:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343874"
+    "fetched_at": "2026-06-09T12:42:03.773088"
+  },
+  {
+    "id": "e1bf6fb5f7a1",
+    "title": "Trump Says Peace Talks on Track After Israel-Iran Clash Ends",
+    "summary": "US President Donald Trump renewed his claims of momentum toward ending the conflict with Iran, after brokering a halt to hostilities between Israel and the Islamic Republic and easing tensions that had threatened to derail broader peace efforts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/trump-says-peace-talks-on-track-after-israel-iran-clashes-end",
+    "published": "Tue, 09 Jun 2026 05:56:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773094"
+  },
+  {
+    "id": "7738189f2553",
+    "title": "Monroe’s Koenig Warns 401(k) Cash Risks More Private Market Pain",
+    "summary": "The potential flow of 401(k) retirement money into private markets risks putting managers under pressure to invest quickly and may end up exacerbating demand for redemptions, said Monroe Capital’s chief Ted Koenig.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/monroe-s-ted-koenig-warns-401k-cash-risks-more-private-market-redemptions",
+    "published": "Tue, 09 Jun 2026 12:12:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773100"
+  },
+  {
+    "id": "ae1cf28d01e5",
+    "title": "BP CEO Shakes Up Structure in Push Back to Oil and Gas",
+    "summary": "New BP Plc Chief Executive Officer Meg O’Neill reorganized the oil giant’s leadership and reporting structures in an overhaul that cements the company’s focus on oil and gas as it tries to move beyond recent boardroom drama.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/bp-ceo-shakes-up-structure-in-push-back-to-oil-and-gas",
+    "published": "Tue, 09 Jun 2026 12:09:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773105"
+  },
+  {
+    "id": "47e959403f0b",
+    "title": "US Small-Business Optimism Falls to Lowest Since 2024",
+    "summary": "An index of US small business optimism fell in May to the lowest level since October 2024, erasing almost all of the gains seen since President Donald Trump was elected for a second term.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/us-small-business-optimism-falls-to-lowest-since-october-2024",
+    "published": "Tue, 09 Jun 2026 10:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773110"
+  },
+  {
+    "id": "4b55cea89f10",
+    "title": "Goldman Sachs Says EU Bank M&amp;A Rationale Is Rising With Profits",
+    "summary": "The rationale for mergers and acquisitions among European banks is rising even in the face of hurdles to cross-border tie ups, according to one of the region’s top financials deal-makers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/goldman-sachs-says-eu-bank-m-a-rationale-is-rising-with-profits",
+    "published": "Tue, 09 Jun 2026 12:04:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773116"
+  },
+  {
+    "id": "bfd562e2f102",
+    "title": "World's Hottest Space Stock Posts Rally That Dwarfs All Rivals",
+    "summary": "<p>Shares of Satellogic, which builds satellites in Uruguay, are&nbsp;up more than 250% this year.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-06-09/world-s-hottest-space-stock-posts-rally-that-dwarfs-all-rivals",
+    "published": "Tue, 09 Jun 2026 12:00:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773121"
+  },
+  {
+    "id": "c4c2d1dc22a7",
+    "title": "US Premarket Movers for June 9, 2026",
+    "summary": "S&amp;P 500 Index futures are up 0.4% at 7:51 a.m. in New York as a rebound in AI-linked names continues.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/us-stock-futures-today-applied-digital-ceco-nuvalent-perrigo",
+    "published": "Tue, 09 Jun 2026 11:56:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773126"
+  },
+  {
+    "id": "5f9bc00c05f2",
+    "title": "Big Oil Balks at Trump’s Invitation to Drill in Alaska’s Arctic Wildlife Refuge",
+    "summary": "The specter of shifting politics deters drillers from taking up new licenses.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/big-oil-balks-at-trump-s-invitation-to-drill-in-alaska-s-arctic-wildlife-refuge",
+    "published": "Tue, 09 Jun 2026 11:53:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773131"
+  },
+  {
+    "id": "7318582dbd91",
+    "title": "Smucker Profit Tops Expectations, Buoyed by Coffee Prices",
+    "summary": "Jelly and coffee maker JM Smucker Co. posted fourth-quarter profits that beat Wall Street expectations as higher prices helped boost the packaged food company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/smucker-profit-tops-expectations-buoyed-by-coffee-prices",
+    "published": "Tue, 09 Jun 2026 11:24:44 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773136"
+  },
+  {
+    "id": "25b2c6830387",
+    "title": "Copper Advances as Mideast Tensions Ease and Stocks Climb",
+    "summary": "Copper rose along with some other industrial metals as tensions eased in the Middle East, boosting risk appetite.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/copper-holds-gain-with-easing-iran-tensions-china-data-in-focus",
+    "published": "Tue, 09 Jun 2026 02:41:51 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773141"
+  },
+  {
+    "id": "d2f116390c29",
+    "title": "Goldman, Barclays Traders Warn of Market Risks After Friday Rout",
+    "summary": "A selloff on Friday whipsawed investors used to seeing momentum stocks go nowhere but up. They shouldn’t be quick to disregard it as a one-off.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/goldman-barclays-traders-warn-of-market-risks-after-friday-rout",
+    "published": "Tue, 09 Jun 2026 11:36:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773146"
+  },
+  {
+    "id": "0d78053a1ece",
+    "title": "Iran War Derails Saudi Contractor’s $799 Million Riyadh Listing",
+    "summary": "Saudi Arabia’s Mutlaq Al-Ghowairi Contracting Co. has postponed plans for an initial public offering, due in part to concerns over the impact of the Iran war, in the latest blow to regional capital markets activity.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/saudi-arabia-contractor-mgc-said-to-postpone-799-million-riyadh-ipo",
+    "published": "Tue, 09 Jun 2026 06:00:41 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773151"
+  },
+  {
+    "id": "9b99ce6f8e3e",
+    "title": "Kuwait Offers Oil to Asian Buyers for First Time Since War",
+    "summary": "Kuwait is offering to sell its crude to refiners in Asia for the first time since the Iran war started, the latest indication of rising oil flows through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/kuwait-offers-oil-to-asian-buyers-for-first-time-since-war-began",
+    "published": "Tue, 09 Jun 2026 09:55:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773156"
+  },
+  {
+    "id": "4a4ab9b1d06d",
+    "title": "SpaceX IPO Oversubscribed With More Than $10 Billion Orders | The Opening Trade 6/9/2026",
+    "summary": "Sources tell Bloomberg that SpaceX’s initial public offering is well oversubscribed with multiple institutional investors placing orders for about $10 billion or more of shares. Elon Musk's company is leading a race to list against both OpenAI and Anthropic. \n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards and Tom Mackenzie. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-09/the-opening-trade-6-9-2026-video",
+    "published": "Tue, 09 Jun 2026 11:16:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-09T12:42:03.773161"
   },
   {
     "id": "0214bae03610",
@@ -348,195 +420,114 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-09/indonesia-delivers-off-cycle-rate-hike-to-temper-market-rout",
     "published": "Tue, 09 Jun 2026 05:32:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343879"
+    "fetched_at": "2026-06-09T12:42:03.773166"
   },
   {
-    "id": "cccd8ccfb5f8",
-    "title": "Colombia’s Beleaguered Oil Sector Eyeing Comeback in Venezuela",
-    "summary": "In a reversal of fortune, oil companies in Colombia, where outgoing president Gustavo Petro has all but barred exploration for the last four years, are scoping out Venezuela.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/colombia-s-beleaguered-oil-sector-eyeing-comeback-in-venezuela",
-    "published": "Tue, 09 Jun 2026 09:15:00 GMT",
+    "id": "da526654cd7e",
+    "title": "Stocks Extend Rally in AI-Led Rebound; Trump Says Peace Talks on Track | Bloomberg Brief 6/9/2026",
+    "summary": "US stocks enter a second day of recovery led by AI. Oil falls as President Trump claims that a US-Iran peace deal is close to fruition. China is preparing to spend around $295 billion over the next five years on building data centers across the country. Henrietta Pacquement of Allspring Global Investment looks at the Fed's rate path. Wei Li of BlackRock discusses how AI is reshaping markets. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-09/bloomberg-brief-6-9-2026-video",
+    "published": "Tue, 09 Jun 2026 11:07:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343884"
+    "fetched_at": "2026-06-09T12:42:03.773170"
   },
   {
-    "id": "721ccf75ff23",
-    "title": "Brookfield, GIP Defy War to Advance $7.5 Billion Kuwait Deal",
-    "summary": "BlackRock Inc.’s Global Infrastructure Partners and Brookfield Asset Management Ltd. are among private equity firms shortlisted to buy a stake in a Kuwaiti pipeline network, indicating sustained interest for marquee Gulf assets despite a monthslong war that’s impacted regional production and roiled energy markets globally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/brookfield-gip-defy-war-to-advance-7-5-billion-kuwait-deal",
-    "published": "Tue, 09 Jun 2026 09:14:45 GMT",
+    "id": "d638e8a72c71",
+    "title": "South Africa Targets Key Mining Registry by End of March",
+    "summary": "South Africa expects to fully launch a long-awaited database of mineral rights within 10 months, according to a senior official.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/south-africa-targets-key-mining-registry-by-end-of-march",
+    "published": "Tue, 09 Jun 2026 11:02:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343889"
+    "fetched_at": "2026-06-09T12:42:03.773175"
   },
   {
-    "id": "6fc8dede1d08",
-    "title": "India’s Top Bank in $1 Billion Funding for Sun Pharma’s US Deal",
-    "summary": "State Bank of India plans to join a group of global lenders in funding Sun Pharmaceutical Industries Ltd.’s $12 billion overseas acquisition, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/india-s-top-bank-in-1-billion-funding-for-sun-pharma-s-us-deal",
-    "published": "Tue, 09 Jun 2026 09:06:56 GMT",
+    "id": "81f6633d6362",
+    "title": "CoreWeave Plans European Investor Calls For Potential Debt Sale",
+    "summary": "CoreWeave Inc. is to hold calls with European high-yield investors on Tuesday as the AI infrastructure provider considers financing transactions that may include dollar and euro bonds.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/coreweave-plans-european-investor-calls-for-potential-debt-sale",
+    "published": "Tue, 09 Jun 2026 11:00:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343894"
+    "fetched_at": "2026-06-09T12:42:03.773180"
   },
   {
-    "id": "6215b64d6c1a",
-    "title": "Oil Falls as Israel-Iran Attacks Halt and China Slashes Imports",
-    "summary": "Oil declined after Israel and Iran agreed to stop attacking each other following a flare-up in violence, while new data shed a light on the extent of a drop in Chinese imports.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-08/latest-oil-market-news-and-analysis-for-june-9",
-    "published": "Mon, 08 Jun 2026 22:07:27 GMT",
+    "id": "10d46f81225a",
+    "title": "Oil Prices Are Wrong, Says JPMorgan’s Jack Caffrey",
+    "summary": "Jack Caffrey, equity portfolio manager at JPMorgan Asset Management, examines the impact of oil prices on equity markets and what that means for both short-term traders and long-term investors. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-09/oil-prices-are-wrong-says-jpmorgan-s-jack-caffrey-video",
+    "published": "Tue, 09 Jun 2026 10:49:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343898"
+    "fetched_at": "2026-06-09T12:42:03.773184"
   },
   {
-    "id": "fa6a237fab5a",
-    "title": "Ukraine Estimates $11 Billion in Farm Losses From Russia Strikes",
-    "summary": "Ukraine’s agricultural sector suffered direct losses of more than $11 billion as Russian drone strikes intensified sharply at the end of last year, according to Deputy Economy Minister Taras Vysotskyi.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/ukraine-estimates-11-billion-in-farm-losses-from-russia-strikes",
-    "published": "Tue, 09 Jun 2026 09:05:52 GMT",
+    "id": "e386a3e67b6b",
+    "title": "Crop and Fertilizer Markets Wipe Out Iran War Risk Premium",
+    "summary": "The Iran war risk premium that swept through crop and fertilizer markets is rapidly evaporating as fears of prolonged supply disruptions fade, easing one of the biggest threats to food inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/crop-and-fertilizer-markets-wipe-out-iran-war-risk-premium",
+    "published": "Tue, 09 Jun 2026 10:42:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343903"
+    "fetched_at": "2026-06-09T12:42:03.773189"
   },
   {
-    "id": "29f60717ee0c",
-    "title": "Intesa's Offer for Paschi Is the Only 'Real' One, CEO Messina Says",
-    "summary": "Intesa Sanpaolo CEO Carlo Messina discusses the lender's offer to buy Italian rival Banca Monte dei Paschi for €30.6 billion ($35.3 billion). \"The only real offer now in the market is the Intesa Sanpaolo offer,\" Messina tells Bloomberg's Francine Lacqua, calling Banco BPM's proposal of a merger of equals merely a \"love letter.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-09/digi-carlo-messina-on-paschi-offer",
-    "published": "Tue, 09 Jun 2026 09:05:50 GMT",
+    "id": "19658a837828",
+    "title": "Sugar Swings as Traders Weigh Brazil Output Against Deficit Risk",
+    "summary": "Sugar futures fluctuated in New York as traders weighed ample Brazilian supplies against mounting El Niño risks that could tighten global supplies later this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/sugar-swings-as-traders-weigh-brazil-output-against-deficit-risk",
+    "published": "Tue, 09 Jun 2026 10:27:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343908"
+    "fetched_at": "2026-06-09T12:42:03.773193"
   },
   {
-    "id": "7841ead79d75",
-    "title": "Trump Gets Booed at NBA Finals",
-    "summary": "President Donald Trump attended the highly anticipated New York Knicks playoff in Madison Square Garden, drawing a heightened security presence and boos from the crowd. Annmarie Hordern has more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-09/trump-gets-booed-at-nba-finals-video",
-    "published": "Tue, 09 Jun 2026 08:59:29 GMT",
+    "id": "1a8e45c724c7",
+    "title": "Blackstone Is Buying Up SRTs as Banks Rush to Hedge Loan Risks",
+    "summary": "Blackstone Inc. is pushing forward in the fast-growing market for significant risk transfers as banks hedge possible losses in their swelling loan books.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/blackstone-is-buying-up-srts-as-banks-rush-to-hedge-loan-risks",
+    "published": "Tue, 09 Jun 2026 10:23:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343913"
+    "fetched_at": "2026-06-09T12:42:03.773198"
   },
   {
-    "id": "3d8f9f2ee6d4",
-    "title": "Treasury Market Is Telling Kevin Warsh Rates Need to Be Higher",
-    "summary": "The $31 trillion Treasury market has an unequivocal message for Kevin Warsh’s Federal Reserve: Interest rates aren’t high enough.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/treasury-market-is-telling-kevin-warsh-rates-need-to-be-higher",
-    "published": "Tue, 09 Jun 2026 07:30:00 GMT",
+    "id": "3759c7983f02",
+    "title": "Philippines’ PLDT Seeks Up to $400 Million From REIT Listing",
+    "summary": "Top Philippine telecoms firm PLDT Inc. plans to raise between $300 million and $400 million from the listing of a real estate investment trust for its data center business amid a global wave of investor interest in technology and artificial intelligence assets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/philippines-pldt-seeks-up-to-400-million-from-reit-listing",
+    "published": "Tue, 09 Jun 2026 10:08:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343918"
+    "fetched_at": "2026-06-09T12:42:03.773208"
   },
   {
-    "id": "ff8591425cbf",
-    "title": "Emerging-Market Stocks Rise Most in Two Months on AI Dip-Buying",
-    "summary": "Emerging-market stocks rebounded, led by South Korea, as investors snapped up artificial intelligence shares at lower prices after Monday’s selloff. Developing-nation currencies advanced after Iran and Israel paused hostilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/emerging-market-stocks-rise-most-in-two-months-on-ai-dip-buying",
-    "published": "Tue, 09 Jun 2026 08:52:22 GMT",
+    "id": "a6d927c0ee35",
+    "title": "Telemundo, Fox Aim for Viewer Records With World Cup in the US",
+    "summary": "The start of the FIFA World Cup is just two days away, but for Comcast Corp.’s Telemundo, it’s been more than two years in the making. The Miami-based television network, which holds the Spanish-language rights to the tournament in the US, has long been preparing to lure in viewers with the idea that “soccer is more fun en Español.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/telemundo-fox-aim-for-viewer-records-with-world-cup-in-the-us",
+    "published": "Tue, 09 Jun 2026 10:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343922"
+    "fetched_at": "2026-06-09T12:42:03.773212"
   },
   {
-    "id": "678314cc3cc1",
-    "title": "Citi’s Chew Sees Aggressive Short-Selling Positions in US Stocks",
-    "summary": "Traders are aggressively building short-selling positions in US stocks, while bullish wagers on the tech sector remain stretched, putting the market at risk, according to Citigroup Inc. strategists.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/citi-s-chew-sees-aggressive-short-selling-positions-in-us-stocks",
-    "published": "Tue, 09 Jun 2026 08:49:04 GMT",
+    "id": "6707492a0008",
+    "title": "Markets Prepare for Arrival of Musk’s AI-Infused Space Conglomerate",
+    "summary": "Markets prepare to welcome Elon Musk’s multiplanetary, AI-infused version of General Electric.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-09/markets-prepare-for-arrival-of-musk-s-ai-infused-space-conglomerate",
+    "published": "Tue, 09 Jun 2026 09:59:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343927"
+    "fetched_at": "2026-06-09T12:42:03.773217"
   },
   {
-    "id": "90ece444083e",
-    "title": "Maybank Handles $4.9 Billion of Deals for Johor Zone",
-    "summary": "Malayan Banking Bhd said the Johor-Singapore special economic zone will drive further expansion, with Malaysia’s biggest lender having facilitated about 20 billion ringgit ($4.9 billion) in financing and investments in the area in the past couple of years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/maybank-handles-4-9-billion-deals-for-singapore-malaysia-hub",
-    "published": "Tue, 09 Jun 2026 01:41:37 GMT",
+    "id": "44ad77aef4ea",
+    "title": "China’s Trade Imbalance With EU Swells as Imports Slip Again",
+    "summary": "China’s imports from the European Union dropped for the first time in three months, again swelling a trade imbalance that’s put it on a collision course with the bloc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/china-s-trade-imbalance-with-eu-swells-with-imports-in-new-slump",
+    "published": "Tue, 09 Jun 2026 09:26:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343932"
+    "fetched_at": "2026-06-09T12:42:03.773222"
   },
   {
-    "id": "b6f541f780ab",
-    "title": "Indonesia May Hike Rate Again to Shield Currency, Analysts Say",
-    "summary": "Indonesia may raise interest rate again to shield the rupiah and curb market volatility, according to analysts, after the central bank’s surprise tightening on Tuesday helped the currency rebound from record lows and boosted stocks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/indonesia-may-hike-rate-again-to-shield-currency-analysts-say",
-    "published": "Tue, 09 Jun 2026 08:44:49 GMT",
+    "id": "b5661a49cd9b",
+    "title": "StoneX Plans to Deepen India Presence Beyond First Trading Desk",
+    "summary": "StoneX Group Inc. plans to expand into base metals and agricultural commodities after setting up its first precious metals trading desk in India in June, according to top executives, deepening its presence in the fast-growing economy after serving it for years from overseas hubs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-09/stonex-plans-to-deepen-india-presence-beyond-first-trading-desk",
+    "published": "Tue, 09 Jun 2026 09:37:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343937"
-  },
-  {
-    "id": "367b2a94717f",
-    "title": "South Korea Steps Up FX Policing to Defend Won After Slide",
-    "summary": "South Korea is set to crack down on speculative foreign-exchange trading, with regulators planning on-site inspections and investigations into suspected market-disruptive activities, the finance ministry said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/korea-readies-on-site-fx-inspections-to-curb-won-speculation-mq698foo",
-    "published": "Tue, 09 Jun 2026 06:24:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343942"
-  },
-  {
-    "id": "283de1797d93",
-    "title": "Intesa CEO Says Monte Paschi Could Open Path to European Deals",
-    "summary": "Intesa Sanpaolo SpA Chief Executive Officer Carlo Messina said a successful takeover on Banca Monte dei Paschi di Siena SpA would position his bank to engage in deals across Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/intesa-ceo-says-monte-paschi-could-open-path-to-european-deals",
-    "published": "Tue, 09 Jun 2026 08:33:55 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343946"
-  },
-  {
-    "id": "48c517508f98",
-    "title": "Gold Steadies After Israel and Iran Agree to End Missile Strikes",
-    "summary": "Gold was steady after Israel and Iran agreed to end attacks that had jeopardized talks to end the war in the Middle East.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-08/gold-steadies-after-israel-and-iran-agree-to-end-missile-strikes",
-    "published": "Mon, 08 Jun 2026 23:19:17 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343952"
-  },
-  {
-    "id": "72236dd9cfdb",
-    "title": "Leveraged ETF Goes Haywire in Korea With Wrong-Way 40% Moves",
-    "summary": "A leveraged exchange-traded fund tracking SK Hynix Inc. deviated sharply from the underlying stock’s move for a second day, underscoring the risk of investing in such products that have attracted strong retail interest.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-08/korean-leveraged-etf-misfires-jumps-50-even-as-sk-hynix-slumps",
-    "published": "Mon, 08 Jun 2026 09:42:59 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343956"
-  },
-  {
-    "id": "cb9d551d7d09",
-    "title": "Korean Stocks Jump 8% as Chip Shares Rebound After AI Selloff",
-    "summary": "Memory chipmaker shares led a rebound in South Korean stocks, demonstrating investors aren’t quite ready to throw in the towel on the artificial intelligence boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/korean-stocks-jump-8-as-chip-shares-rebound-after-ai-selloff",
-    "published": "Tue, 09 Jun 2026 04:42:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343961"
-  },
-  {
-    "id": "e40254e76822",
-    "title": "Giant Oil Supertanker Orders Eclipse Record Set in 2008",
-    "summary": "The world’s shipowners have placed orders for a record number of new oil supertankers, surpassing a boom back in 2008 that ultimately led to a glut and a collapse in rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-08/giant-oil-supertanker-orders-eclipse-record-set-in-2008",
-    "published": "Mon, 08 Jun 2026 16:11:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343966"
-  },
-  {
-    "id": "25b2c6830387",
-    "title": "Copper Resumes Gains as Mideast Tensions Ease, Stocks Rebound",
-    "summary": "Copper resumed its advance along with other industrial metals as tensions eased in the Middle East, boosting risk appetite.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/copper-holds-gain-with-easing-iran-tensions-china-data-in-focus",
-    "published": "Tue, 09 Jun 2026 02:41:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343971"
-  },
-  {
-    "id": "5590673b2d34",
-    "title": "AI Rally Remains Supported After Friday Pullback: 3-Minutes MLIV",
-    "summary": "Anna Edwards, Tom Mackenzie and Adam Linton break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-09/ai-rally-remains-supported-after-friday-pullback-mliv-video",
-    "published": "Tue, 09 Jun 2026 08:05:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343975"
-  },
-  {
-    "id": "3344e9ba0fae",
-    "title": "Basque Region Raising €500 Million Bond for Industrial Strategy",
-    "summary": "The Basque government is raising €500 million ($577 million) from bonds to support the Spanish region’s industrial investment strategy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-09/basque-region-raising-500-million-bond-for-industrial-strategy",
-    "published": "Tue, 09 Jun 2026 08:01:56 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-09T09:54:59.343980"
+    "fetched_at": "2026-06-09T12:42:03.773227"
   }
 ]
