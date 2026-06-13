@@ -1,5 +1,35 @@
 [
   {
+    "id": "3c4a35b51b9f",
+    "title": "<strong>Anjney Midha's Plan to Radically Lower the Price of Compute</strong>",
+    "title_cn": "<strong>Anjney Midha 计划大幅降低计算价格</strong>",
+    "summary": "<p><strong>A conversation with the founder of AMP PBC about turning GPUs into a utility.</strong></p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/anjney-midha-s-plan-to-radically-lower-the-price-of-compute",
+    "published": "Sat, 13 Jun 2026 08:00:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:15.850649"
+  },
+  {
+    "id": "056782792001",
+    "title": "Odd Lots: Midha’s Plan to Lower the Price of Compute (Podcast)",
+    "title_cn": "奇怪的事情：Midha 降低计算价格的计划（播客）",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-13/odd-lots-midha-s-plan-to-lower-the-price-of-compute-podcast",
+    "published": "Sat, 13 Jun 2026 08:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:15.947717"
+  },
+  {
+    "id": "16498530ad2f",
+    "title": "Anthropic Blocks Top AI Models for All After US Bans Foreign Use",
+    "title_cn": "美国禁止外国使用后，人类阻止了所有人使用顶级人工智能模型",
+    "summary": "Anthropic PBC said it is disabling all customer access to its Fable 5 and Mythos 5 artificial intelligence models in order to comply with a Trump administration directive to prevent foreign nationals from accessing the advanced systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+    "published": "Sat, 13 Jun 2026 00:59:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:16.064370"
+  },
+  {
     "id": "f3397eee8235",
     "title": "What Birth Rates and Oil Prices Have in Common",
     "title_cn": "出生率和石油价格有什么共同点",
@@ -7,7 +37,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/what-falling-birth-rates-and-oil-prices-have-in-common-merryn-talks-money",
     "published": "Sat, 13 Jun 2026 04:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:48.995081"
+    "fetched_at": "2026-06-13T08:32:16.166792"
   },
   {
     "id": "1bb171252bdd",
@@ -17,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-us-kills-tren-de-aragua-leader-spacex-historic-ipo-more",
     "published": "Sat, 13 Jun 2026 03:33:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.108284"
+    "fetched_at": "2026-06-13T08:32:16.273510"
   },
   {
     "id": "15303304e0f3",
@@ -27,17 +57,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/trump-denies-defrauding-us-court-to-create-1-8-billion-fund",
     "published": "Sat, 13 Jun 2026 02:53:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.210382"
-  },
-  {
-    "id": "16498530ad2f",
-    "title": "Anthropic Pulls Mythos, Fable Models as US Bans Foreign Access",
-    "title_cn": "随着美国禁止外国访问，人择法拉开了神话、寓言模型的序幕",
-    "summary": "Anthropic PBC said it is complying with a Trump administration directive to suspend foreign nationals from access to its Fable 5 and Mythos 5 artificial intelligence models, and is subsequently disabling the tools for all users including those in the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-    "published": "Sat, 13 Jun 2026 00:59:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.341280"
+    "fetched_at": "2026-06-13T08:32:16.383384"
   },
   {
     "id": "4e8fb65afa90",
@@ -47,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-says-us-kills-tren-de-aragua-leader-spacex-ipo-more",
     "published": "Sat, 13 Jun 2026 02:42:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.461663"
+    "fetched_at": "2026-06-13T08:32:16.466564"
   },
   {
     "id": "e1ec45c04572",
@@ -57,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-us-kills-tren-de-aragua-leader-spacex-ipo-more",
     "published": "Sat, 13 Jun 2026 02:11:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.636467"
+    "fetched_at": "2026-06-13T08:32:16.636431"
   },
   {
     "id": "02ef63747ed9",
@@ -67,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/spacex-closes-19-higher-in-debut-us-deal-will-reopen-hormuz",
     "published": "Sat, 13 Jun 2026 01:11:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.750192"
+    "fetched_at": "2026-06-13T08:32:16.720988"
   },
   {
     "id": "a5392c3fa6e9",
@@ -77,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/singapore-rolls-out-19th-century-cooling-technology-to-beat-heat",
     "published": "Sat, 13 Jun 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:49.858288"
+    "fetched_at": "2026-06-13T08:32:16.828379"
   },
   {
     "id": "f69e238ee67c",
@@ -87,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/spacex-ipo-us-vows-interim-deal-will-reopen-hormuz-more",
     "published": "Sat, 13 Jun 2026 00:04:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.010164"
+    "fetched_at": "2026-06-13T08:32:16.918160"
   },
   {
     "id": "1342ce7d14b5",
@@ -97,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/historic-spacex-ipo-us-vows-interim-deal-will-reopen-strait-more",
     "published": "Fri, 12 Jun 2026 23:06:56 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.123053"
+    "fetched_at": "2026-06-13T08:32:17.006618"
   },
   {
     "id": "e9ea9d15987f",
@@ -107,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-law-immigration-latest-lawyers-ai-use-podcast",
     "published": "Fri, 12 Jun 2026 22:37:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.236014"
+    "fetched_at": "2026-06-13T08:32:17.155960"
   },
   {
     "id": "e58ffe0e62c8",
@@ -117,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-talks-gary-gensler-podcast",
     "published": "Fri, 12 Jun 2026 22:21:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.411023"
+    "fetched_at": "2026-06-13T08:32:17.310780"
   },
   {
     "id": "a9690a2b977d",
@@ -127,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/paramount-purchase-of-warner-bros-cleared-by-justice-department",
     "published": "Fri, 12 Jun 2026 20:41:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.518151"
+    "fetched_at": "2026-06-13T08:32:17.464833"
   },
   {
     "id": "21a8288da32f",
@@ -137,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-hot-pursuit-audi-s-new-supercar-podcast",
     "published": "Fri, 12 Jun 2026 22:12:05 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.636168"
+    "fetched_at": "2026-06-13T08:32:17.561560"
   },
   {
     "id": "982b92a45b07",
@@ -147,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/spacex-ipo-us-vows-interim-deal-will-reopen-hormuz-more",
     "published": "Fri, 12 Jun 2026 22:11:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.805021"
+    "fetched_at": "2026-06-13T08:32:17.697323"
   },
   {
     "id": "415bd986c493",
@@ -157,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/fifa-world-cup-kicks-off-in-toronto-with-close-canada-bosnia-game",
     "published": "Fri, 12 Jun 2026 22:02:56 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:50.915182"
+    "fetched_at": "2026-06-13T08:32:17.778034"
   },
   {
     "id": "c979e10a8b87",
@@ -167,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/spacex-debut-brings-trillionaire-musk-full-circle-evening-briefing-americas",
     "published": "Fri, 12 Jun 2026 21:45:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.024769"
+    "fetched_at": "2026-06-13T08:32:17.876048"
   },
   {
     "id": "504cbdf283e3",
@@ -177,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/spacex-closes-19-higher-in-debut-us-iran-near-peace-deal",
     "published": "Fri, 12 Jun 2026 20:57:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.193385"
+    "fetched_at": "2026-06-13T08:32:17.974611"
   },
   {
     "id": "f95de4405690",
@@ -187,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/stock-movers-spacex-roku-ufo-podcast",
     "published": "Fri, 12 Jun 2026 20:42:58 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.351336"
+    "fetched_at": "2026-06-13T08:32:18.078400"
   },
   {
     "id": "dca3374901ed",
@@ -197,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-ipo-spcx-prepares-for-debut-after-75-billion-ipo-smashes-record",
     "published": "Fri, 12 Jun 2026 09:00:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.443056"
+    "fetched_at": "2026-06-13T08:32:18.232336"
   },
   {
     "id": "6dcfd5b65476",
@@ -207,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-wall-street-week-june-12th-2026-podcast",
     "published": "Fri, 12 Jun 2026 20:24:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.599070"
+    "fetched_at": "2026-06-13T08:32:18.335445"
   },
   {
     "id": "05c0bb9ee27d",
@@ -217,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-tech-spacex-goes-public-podcast",
     "published": "Fri, 12 Jun 2026 20:23:14 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.704695"
+    "fetched_at": "2026-06-13T08:32:18.432432"
   },
   {
     "id": "1ef304c129f0",
@@ -227,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/stocks-close-higher-spacex-historic-ipo-us-closer-to-iran-deal",
     "published": "Fri, 12 Jun 2026 20:22:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.863897"
+    "fetched_at": "2026-06-13T08:32:18.597603"
   },
   {
     "id": "1514310169e0",
@@ -237,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-businessweek-daily-spacex-trades-on-nasdaq-podcast",
     "published": "Fri, 12 Jun 2026 20:20:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:51.956131"
+    "fetched_at": "2026-06-13T08:32:18.739535"
   },
   {
     "id": "2ef0a1684c75",
@@ -247,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-businessweek-daily-paying-for-college-podcast",
     "published": "Fri, 12 Jun 2026 20:13:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.067678"
+    "fetched_at": "2026-06-13T08:32:18.834144"
   },
   {
     "id": "ba26e63da4af",
@@ -257,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-s-mega-ipo-sets-records-makes-musk-trillionaire",
     "published": "Fri, 12 Jun 2026 20:09:25 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.163707"
+    "fetched_at": "2026-06-13T08:32:18.937626"
   },
   {
     "id": "8a5afbc28f85",
@@ -267,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-daybreak-weekend-fed-decision-preview-podcast",
     "published": "Fri, 12 Jun 2026 20:09:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.268613"
+    "fetched_at": "2026-06-13T08:32:19.029851"
   },
   {
     "id": "944772029f7d",
@@ -277,27 +297,47 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-12/big-take-spacex-and-the-largest-ipo-in-history-podcast",
     "published": "Fri, 12 Jun 2026 20:08:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.369590"
+    "fetched_at": "2026-06-13T08:32:19.197876"
   },
   {
-    "id": "0194ee19bb07",
-    "title": "Week Ahead: Kroger, Carmax, and DraftKings (Podcast)",
-    "title_cn": "未来一周：Kroger、Carmax 和 DraftKings（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-12/week-ahead-kroger-carmax-and-draftkings-podcast",
-    "published": "Fri, 12 Jun 2026 19:58:44 GMT",
+    "id": "e7aafd8b1792",
+    "title": "Switzerland Asks If 10 Million People Is Where to Draw the Line",
+    "title_cn": "瑞士询问1000万人口的界限在哪里",
+    "summary": "A Swiss plebiscite this weekend on whether to impose a population ceiling is offering voters a choice that threatens to become their most consequential yet of the current century.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/switzerland-asks-if-10-million-people-is-where-to-draw-the-line",
+    "published": "Sat, 13 Jun 2026 07:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.474039"
+    "fetched_at": "2026-06-13T08:32:19.741576"
   },
   {
-    "id": "8a53f75e6bf4",
-    "title": "Bloomberg Money: 06/12/2026 (Podcast)",
-    "title_cn": "彭博财经：2026 年 6 月 12 日（播客）",
-    "summary": "Source: Bloomberg, 45:10",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-12/bloomberg-money-06-12-2026-podcast",
-    "published": "Fri, 12 Jun 2026 19:47:33 GMT",
+    "id": "68e91b07efcd",
+    "title": "US Strikes Iranian Drones While Talks Continue for Interim Deal",
+    "title_cn": "美国打击伊朗无人机，同时继续进行临时协议谈判",
+    "summary": "The US shot down Iranian drones near the Strait of Hormuz as talks continued for an interim peace deal to reopen the strategic waterway, adding to uncertainty over when an agreement can be reached.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
+    "published": "Sat, 13 Jun 2026 06:49:51 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.583600"
+    "fetched_at": "2026-06-13T08:32:19.889355"
+  },
+  {
+    "id": "c0cc4fbca415",
+    "title": "Korean Media Giant JoongAng’s JTBC Defaults, Downgraded to Junk",
+    "title_cn": "韩国媒体巨头 JoongAng 的 JTBC 违约，评级下调至垃圾级",
+    "summary": "JTBC Co. Ltd., the broadcaster owned by South Korea’s media giant JoongAng Group, defaulted on securitized loans and was downgraded to junk by a local ratings firm, triggering a series of rating cuts across the conglomerate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/korean-media-giant-joongang-s-jtbc-defaults-downgraded-to-junk",
+    "published": "Sat, 13 Jun 2026 05:56:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:19.993846"
+  },
+  {
+    "id": "769824c19c74",
+    "title": "Geely to Shut Some Units, Focus on HK-Listed Arm, Chairman Says",
+    "title_cn": "吉利董事长称将关闭部分业务，专注于香港上市业务",
+    "summary": "China’s Zhejiang Geely Holding Group will streamline its structure by shutting down or merging some entities and concentrate resources around its Hong Kong-listed arm, in a bid to improve governance, Chairman Li Shufu said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/geely-to-shut-some-units-focus-on-hk-listed-arm-chairman-says",
+    "published": "Sat, 13 Jun 2026 05:10:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:20.128520"
   },
   {
     "id": "c5ad0bd7d325",
@@ -307,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-13/challenges-and-opportunities-of-investing-in-african-startups",
     "published": "Sat, 13 Jun 2026 05:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.847304"
+    "fetched_at": "2026-06-13T08:32:20.211102"
   },
   {
     "id": "d59ec1c05923",
@@ -317,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/trump-says-us-killed-tren-de-aragua-leader-nino-guerrero",
     "published": "Sat, 13 Jun 2026 01:29:04 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:52.959284"
+    "fetched_at": "2026-06-13T08:32:20.297388"
   },
   {
     "id": "c08b603eb277",
@@ -327,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/china-rebukes-us-over-military-labeling-of-its-top-firms",
     "published": "Sat, 13 Jun 2026 02:31:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.067402"
+    "fetched_at": "2026-06-13T08:32:20.372151"
   },
   {
     "id": "632fb3b7dec5",
@@ -337,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/inside-spacex-and-elon-musk-s-75-billion-ipo-video",
     "published": "Fri, 12 Jun 2026 23:32:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.234131"
+    "fetched_at": "2026-06-13T08:32:20.508022"
   },
   {
     "id": "7c9558f69171",
@@ -347,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-06-13/inside-the-spacex-ipo-why-elon-musk-raced-to-take-spacex-public",
     "published": "Sat, 13 Jun 2026 01:46:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.344341"
+    "fetched_at": "2026-06-13T08:32:20.606009"
   },
   {
     "id": "42daf6d0bb61",
@@ -357,7 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/from-sydney-to-london-traders-ready-to-watch-spacex-s-debut",
     "published": "Fri, 12 Jun 2026 13:01:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.453435"
+    "fetched_at": "2026-06-13T08:32:20.692615"
   },
   {
     "id": "ade07abe3107",
@@ -367,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/cftc-considers-blocking-cme-s-24-7-oil-contract-bid",
     "published": "Fri, 12 Jun 2026 22:51:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.547009"
+    "fetched_at": "2026-06-13T08:32:20.792035"
   },
   {
     "id": "efbe085e3375",
@@ -377,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/knicks-team-sacrifices-success-inspire-new-york-video",
     "published": "Fri, 12 Jun 2026 22:21:48 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.726673"
+    "fetched_at": "2026-06-13T08:32:20.897482"
   },
   {
     "id": "f5a70f2efdcd",
@@ -387,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/what-to-know-about-spacex-s-record-breaking-ipo",
     "published": "Fri, 12 Jun 2026 22:16:11 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:53.905349"
+    "fetched_at": "2026-06-13T08:32:20.977400"
   },
   {
     "id": "3ac92cf63b59",
@@ -397,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-sparks-surge-in-space-industry-investment-video",
     "published": "Fri, 12 Jun 2026 22:13:13 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.019285"
+    "fetched_at": "2026-06-13T08:32:21.069416"
   },
   {
     "id": "03ebc51c80d4",
@@ -407,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-money-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 20:25:03 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.199258"
+    "fetched_at": "2026-06-13T08:32:21.159447"
   },
   {
     "id": "eded5a42c76a",
@@ -417,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/nyc-comptroller-s-concerns-over-spacex-index-inclusion-video",
     "published": "Fri, 12 Jun 2026 21:15:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.373323"
+    "fetched_at": "2026-06-13T08:32:21.246102"
   },
   {
     "id": "704314637b88",
@@ -427,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/look-ahead-retail-sales-fmoc-nba-finals-video",
     "published": "Fri, 12 Jun 2026 21:04:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.479883"
+    "fetched_at": "2026-06-13T08:32:21.353950"
   },
   {
     "id": "0eb027d8da1a",
@@ -437,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/masters-in-business-with-jean-eric-salata-video",
     "published": "Fri, 12 Jun 2026 21:15:13 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.650410"
+    "fetched_at": "2026-06-13T08:32:21.438825"
   },
   {
     "id": "6477bace5f0e",
@@ -447,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/knicks-win-triggered-record-loss-for-susquehanna-sports-traders",
     "published": "Fri, 12 Jun 2026 21:13:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.742255"
+    "fetched_at": "2026-06-13T08:32:21.531518"
   },
   {
     "id": "616d3cccbc36",
@@ -457,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/matt-holt-said-to-near-12-billion-deal-for-ensemble-health",
     "published": "Fri, 12 Jun 2026 20:34:14 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:54.847389"
+    "fetched_at": "2026-06-13T08:32:21.630765"
   },
   {
     "id": "f469d710e43f",
@@ -467,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-whips-musk-fans-into-frenzy-video",
     "published": "Fri, 12 Jun 2026 19:24:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.005483"
+    "fetched_at": "2026-06-13T08:32:21.734690"
   },
   {
     "id": "182737bcd028",
@@ -477,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/ice-cube-ready-to-take-big3-to-the-next-level-video",
     "published": "Fri, 12 Jun 2026 20:55:24 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.108696"
+    "fetched_at": "2026-06-13T08:32:21.826105"
   },
   {
     "id": "4adc1a4777a3",
@@ -487,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/chevron-ceo-wirth-on-energy-market-volatility-video",
     "published": "Fri, 12 Jun 2026 20:51:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.203275"
+    "fetched_at": "2026-06-13T08:32:21.920043"
   },
   {
     "id": "4d7ba0c05cbf",
@@ -497,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/rival-space-stocks-tumble-as-investors-race-toward-musk-s-ipo",
     "published": "Fri, 12 Jun 2026 15:40:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.323725"
+    "fetched_at": "2026-06-13T08:32:22.012396"
   },
   {
     "id": "810ef7b0ebb7",
@@ -507,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/energy-market-leaders-on-navigating-risk-video",
     "published": "Fri, 12 Jun 2026 20:49:04 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.428742"
+    "fetched_at": "2026-06-13T08:32:22.107040"
   },
   {
     "id": "217469f8bee5",
@@ -517,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/bloombergnef-global-energy-market-outlook-video",
     "published": "Fri, 12 Jun 2026 20:46:45 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.519739"
+    "fetched_at": "2026-06-13T08:32:22.219399"
   },
   {
     "id": "c07b2f8e95f4",
@@ -527,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/us-energy-secretary-wright-on-america-s-energy-strategy-video",
     "published": "Fri, 12 Jun 2026 20:45:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.637017"
+    "fetched_at": "2026-06-13T08:32:22.309195"
   },
   {
     "id": "4367d8255ae7",
@@ -537,57 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12",
     "published": "Thu, 11 Jun 2026 22:04:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.741343"
-  },
-  {
-    "id": "f0b77d7f86bf",
-    "title": "SpaceX, Tesla Merger A 'Forgone Conclusion,' Says Ross Gerber",
-    "title_cn": "罗斯·格伯 (Ross Gerber) 表示，SpaceX 与特斯拉的合并已是“已成定局”",
-    "summary": "Ross Gerber, president and CEO of Gerber Kawasaki Wealth & Investment Management, said that he feels a that a merger to combine SpaceX and Tesla is a 'forgone conclusion' and that he believes its been propping up Tesla's stock as people wait for an opportunity to own SpaceX.  Gerber says that despite some concerns about Musk's complete control over both companies, he feels that investors know what they are getting into putting their money in his hands and that investors who have a problem with it shouldn't buy the stock. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-tesla-merger-a-forgone-conclusion-says-gerber-video",
-    "published": "Fri, 12 Jun 2026 20:33:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.861934"
-  },
-  {
-    "id": "ea4f4f233988",
-    "title": "All Eyes on SpaceX | Closing Bell",
-    "title_cn": "所有人的目光都聚焦在 SpaceX 上结束钟声",
-    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-12/all-eyes-on-spacex-closing-bell-video",
-    "published": "Fri, 12 Jun 2026 20:25:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:55.971873"
-  },
-  {
-    "id": "5f55ac166370",
-    "title": "‘Manic Impulsiveness’ Drives SpaceX-Fueled Retail Risk Complex",
-    "title_cn": "“狂躁的冲动”推动了 SpaceX 推动的零售风险复合体",
-    "summary": "Wall Street just spent the week ricocheting between the macro and the mania.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street",
-    "published": "Fri, 12 Jun 2026 20:25:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.195476"
-  },
-  {
-    "id": "81b48316a681",
-    "title": "Stocks Climb on US-Iran Optimism as SpaceX Debuts: Markets Wrap",
-    "title_cn": "随着 SpaceX 首次亮相，美国和伊朗的乐观情绪推动股市上涨：市场结束",
-    "summary": "Hopes for a diplomatic breakthrough that would end the war in Iran extended a slide in oil prices while lifting stocks, with Wall Street’s enthusiasm also fueled by SpaceX’s strong trading debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-11/asian-stocks-to-gain-as-trump-signals-us-iran-deal-markets-wrap",
-    "published": "Thu, 11 Jun 2026 22:03:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.299973"
-  },
-  {
-    "id": "abd98c765737",
-    "title": "Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check",
-    "title_cn": "Tether 以太币价值的短暂翻转让加密货币面临现实检验",
-    "summary": "For a few hours last weekend, Tether’s USDT stablecoin became more valuable than Ether.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value",
-    "published": "Fri, 12 Jun 2026 11:05:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.417574"
+    "fetched_at": "2026-06-13T08:32:22.403288"
   },
   {
     "id": "1c779e8671e2",
@@ -597,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
     "published": "Sat, 13 Jun 2026 00:27:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.683851"
+    "fetched_at": "2026-06-13T08:32:22.625206"
   },
   {
     "id": "a9be6e5fc4a5",
@@ -607,7 +597,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/wall-street-week-google-s-ai-bet-world-cup-backlash-video",
     "published": "Fri, 12 Jun 2026 23:14:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.787054"
+    "fetched_at": "2026-06-13T08:32:22.771847"
   },
   {
     "id": "9b538ad923d5",
@@ -617,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/the-close-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 22:31:58 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:56.889915"
+    "fetched_at": "2026-06-13T08:32:22.860973"
   },
   {
     "id": "642afff5fcd6",
@@ -627,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/class-v-group-founder-analyzes-unique-spacex-s-ipo-video",
     "published": "Fri, 12 Jun 2026 21:54:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.152734"
+    "fetched_at": "2026-06-13T08:32:23.039760"
   },
   {
     "id": "dbd0697e4663",
@@ -637,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/tom-mueller-on-spacex-s-rise-and-space-economy-video",
     "published": "Fri, 12 Jun 2026 21:42:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.240296"
+    "fetched_at": "2026-06-13T08:32:23.132826"
   },
   {
     "id": "af62a2b24e79",
@@ -647,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-leaves-billions-on-the-table-video",
     "published": "Fri, 12 Jun 2026 21:24:35 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.342569"
+    "fetched_at": "2026-06-13T08:32:23.342700"
   },
   {
     "id": "3595a64d0cc1",
@@ -657,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-s-wall-street-debut-breaks-records-video",
     "published": "Fri, 12 Jun 2026 20:36:23 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.548258"
+    "fetched_at": "2026-06-13T08:32:23.510269"
   },
   {
     "id": "c9960531b689",
@@ -667,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio",
     "published": "Fri, 12 Jun 2026 20:19:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.751563"
+    "fetched_at": "2026-06-13T08:32:23.708850"
   },
   {
     "id": "2679f972abf1",
@@ -677,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-and-tesla-will-merge-merz-says-video",
     "published": "Fri, 12 Jun 2026 19:56:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:57.923098"
+    "fetched_at": "2026-06-13T08:32:23.784052"
   },
   {
     "id": "1cf1f813c08c",
@@ -687,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-rented-out-computing-after-own-teams-had-trouble-using-it",
     "published": "Fri, 12 Jun 2026 18:30:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.043680"
+    "fetched_at": "2026-06-13T08:32:23.871876"
   },
   {
     "id": "c9e004158914",
@@ -697,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/open-interest-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 17:58:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.147627"
+    "fetched_at": "2026-06-13T08:32:23.980977"
   },
   {
     "id": "f6171d843775",
@@ -707,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-shares-surge-after-ipo-making-musk-a-trillionaire-video",
     "published": "Fri, 12 Jun 2026 17:51:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.315597"
+    "fetched_at": "2026-06-13T08:32:24.064247"
   },
   {
     "id": "36cdd7597b0b",
@@ -717,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-tech-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 17:50:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.493371"
+    "fetched_at": "2026-06-13T08:32:24.158196"
   },
   {
     "id": "20f2860f6a16",
@@ -727,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/why-final-fantasy-vii-revelation-took-only-three-years-to-make",
     "published": "Fri, 12 Jun 2026 17:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.585476"
+    "fetched_at": "2026-06-13T08:32:24.290114"
   },
   {
     "id": "b2d0dd1b544d",
@@ -737,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/putin-vows-to-expand-starlink-rival-with-aim-to-step-up-attacks",
     "published": "Fri, 12 Jun 2026 16:44:55 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.693712"
+    "fetched_at": "2026-06-13T08:32:24.385032"
   },
   {
     "id": "0d72ac7a4e50",
@@ -747,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/the-four-biggest-issues-facing-the-music-industry-in-2026",
     "published": "Fri, 12 Jun 2026 16:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.800733"
+    "fetched_at": "2026-06-13T08:32:24.537659"
   },
   {
     "id": "6dbf7cecf795",
@@ -757,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/elon-musk-is-the-world-s-first-trillionaire-video",
     "published": "Fri, 12 Jun 2026 16:25:13 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:58.895244"
+    "fetched_at": "2026-06-13T08:32:24.624513"
   },
   {
     "id": "50025c28f93d",
@@ -767,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-begins-trading-on-the-nasdaq-after-record-ipo-video",
     "published": "Fri, 12 Jun 2026 16:16:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.010284"
+    "fetched_at": "2026-06-13T08:32:24.706694"
   },
   {
     "id": "3de37d622075",
@@ -777,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/uk-retail-investors-took-just-0-5-of-spacex-s-75-billion-ipo",
     "published": "Fri, 12 Jun 2026 09:54:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.118739"
+    "fetched_at": "2026-06-13T08:32:24.799440"
   },
   {
     "id": "697819da97ae",
@@ -787,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/opinion-spacex-isn-t-in-the-s-p-500-that-s-good-video",
     "published": "Fri, 12 Jun 2026 16:08:52 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.230647"
+    "fetched_at": "2026-06-13T08:32:24.881481"
   },
   {
     "id": "a0fc9a9c1013",
@@ -797,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-options-to-begin-trading-on-tuesday-after-ipo",
     "published": "Fri, 12 Jun 2026 16:04:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.328773"
+    "fetched_at": "2026-06-13T08:32:24.978830"
   },
   {
     "id": "de2746af5c95",
@@ -807,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-11/founders-fund-andreessen-set-for-record-returns-from-spacex-ipo",
     "published": "Thu, 11 Jun 2026 20:27:48 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.435682"
+    "fetched_at": "2026-06-13T08:32:25.074890"
   },
   {
     "id": "c63a44ecb9f3",
@@ -817,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/elon-musk-talks-spacex-future-and-history-on-ipo-day-video",
     "published": "Fri, 12 Jun 2026 15:21:28 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.549532"
+    "fetched_at": "2026-06-13T08:32:25.165079"
   },
   {
     "id": "a6db6fbf321d",
@@ -827,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/musk-rings-nasdaq-bell-before-spacex-begins-trading-video",
     "published": "Fri, 12 Jun 2026 15:20:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.641409"
+    "fetched_at": "2026-06-13T08:32:25.261951"
   },
   {
     "id": "0e85f12b710e",
@@ -837,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/duke-s-harvey-on-why-spacex-ipo-could-distort-fund-flows-video",
     "published": "Fri, 12 Jun 2026 14:51:35 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.745654"
+    "fetched_at": "2026-06-13T08:32:25.348249"
   },
   {
     "id": "4124f13f94c0",
@@ -847,7 +837,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-11/adobe-s-cfo-departs-leaving-company-seeking-top-executives",
     "published": "Thu, 11 Jun 2026 20:22:51 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.852840"
+    "fetched_at": "2026-06-13T08:32:25.441614"
   },
   {
     "id": "64e879060b69",
@@ -857,7 +847,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-will-triple-revenue-in-two-years-kennedy-says-video",
     "published": "Fri, 12 Jun 2026 13:39:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:05:59.940229"
+    "fetched_at": "2026-06-13T08:32:25.536610"
+  },
+  {
+    "id": "cdcf38009a63",
+    "title": "The Pope Appears to Spain’s Pedro Sánchez in His Moment of Need",
+    "title_cn": "教皇在西班牙佩德罗·桑切斯需要的时刻出现",
+    "summary": "Pedro Sánchez is having a come-to-Jesus moment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/the-pope-appears-to-spain-s-pedro-sanchez-in-his-moment-of-need",
+    "published": "Sat, 13 Jun 2026 07:00:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:25.777657"
+  },
+  {
+    "id": "5fd6540b56a7",
+    "title": "Indian Air Force Aircraft Involved in Landing Accident",
+    "title_cn": "印度空军飞机发生迫降事故",
+    "summary": "An Indian Air Force An-32 aircraft was involved in an accident while landing at Jorhat in Assam on Saturday, the Air Force said in a post on X.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/indian-air-force-aircraft-involved-in-landing-accident",
+    "published": "Sat, 13 Jun 2026 07:45:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:25.870299"
+  },
+  {
+    "id": "b7c18ce0c7ad",
+    "title": "Burnham Plans Swift Power Grab as Starmer’s Premiership Teeters",
+    "title_cn": "伯纳姆计划在斯塔默的英超摇摇欲坠之际迅速夺取权力",
+    "summary": "Another disastrous week for Keir Starmer has left Andy Burnham a step closer to replacing him as prime minister this summer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-13/burnham-plans-swift-power-grab-as-starmer-s-premiership-teeters",
+    "published": "Sat, 13 Jun 2026 05:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-13T08:32:26.203646"
   },
   {
     "id": "6d90466bc480",
@@ -867,7 +887,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/us-iran-edge-toward-interim-peace-deal-that-will-reopen-hormuz",
     "published": "Fri, 12 Jun 2026 14:59:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.249915"
+    "fetched_at": "2026-06-13T08:32:26.367679"
   },
   {
     "id": "15b3c5068ba8",
@@ -877,7 +897,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/icc-orders-another-health-check-for-ex-philippine-leader-duterte",
     "published": "Sat, 13 Jun 2026 02:30:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.354573"
+    "fetched_at": "2026-06-13T08:32:26.500276"
   },
   {
     "id": "be73ea7ec49f",
@@ -887,7 +907,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/balance-of-power-late-edition-06-12-2026-video",
     "published": "Fri, 12 Jun 2026 23:54:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.534487"
+    "fetched_at": "2026-06-13T08:32:26.588950"
   },
   {
     "id": "c5b8f097091c",
@@ -897,7 +917,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/inside-trump-s-white-house-ufc-arena-video",
     "published": "Fri, 12 Jun 2026 22:26:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.633950"
+    "fetched_at": "2026-06-13T08:32:26.673100"
   },
   {
     "id": "03adc1131e31",
@@ -907,7 +927,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/gavito-questions-loom-over-iran-agreement-video",
     "published": "Fri, 12 Jun 2026 22:18:30 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.722669"
+    "fetched_at": "2026-06-13T08:32:26.812996"
   },
   {
     "id": "f81bce6e52fc",
@@ -917,7 +937,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/gensler-flags-risks-in-spacex-debut-video",
     "published": "Fri, 12 Jun 2026 22:12:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:00.924636"
+    "fetched_at": "2026-06-13T08:32:26.984660"
   },
   {
     "id": "7a2f8a4ef25b",
@@ -927,7 +947,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/proposed-us-iran-deal-hinges-on-risky-plan-of-sequenced-rewards",
     "published": "Fri, 12 Jun 2026 22:11:55 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.019427"
+    "fetched_at": "2026-06-13T08:32:27.079238"
   },
   {
     "id": "82727801a448",
@@ -937,7 +957,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/bloomberg-businessweek-daily-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 22:06:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.139980"
+    "fetched_at": "2026-06-13T08:32:27.179698"
   },
   {
     "id": "65b731b3eedf",
@@ -947,7 +967,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-12/us-iran-deal-would-still-leave-questions-high-gas-prices",
     "published": "Fri, 12 Jun 2026 20:23:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.257119"
+    "fetched_at": "2026-06-13T08:32:27.274978"
   },
   {
     "id": "ffb4f2cb0dca",
@@ -957,7 +977,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/balance-of-power-6-12-2026-video",
     "published": "Fri, 12 Jun 2026 19:44:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.366578"
+    "fetched_at": "2026-06-13T08:32:27.365693"
   },
   {
     "id": "882507fba6f4",
@@ -967,7 +987,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/europe-girds-for-drastic-cuts-to-us-nato-wartime-contributions",
     "published": "Fri, 12 Jun 2026 18:30:15 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.482118"
+    "fetched_at": "2026-06-13T08:32:27.516528"
   },
   {
     "id": "fd3e87dd8158",
@@ -977,7 +997,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/imf-is-said-to-agree-loan-deal-for-kyiv-despite-missed-condition",
     "published": "Fri, 12 Jun 2026 12:37:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.572281"
+    "fetched_at": "2026-06-13T08:32:27.605247"
   },
   {
     "id": "9accbe10bc92",
@@ -987,7 +1007,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-begins-trading-after-record-ipo-video",
     "published": "Fri, 12 Jun 2026 18:03:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.682921"
+    "fetched_at": "2026-06-13T08:32:27.696863"
   },
   {
     "id": "bbbd497be5b8",
@@ -997,7 +1017,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/trump-taps-wall-street-adult-in-the-room-to-quell-dc-uproar",
     "published": "Fri, 12 Jun 2026 17:35:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.803329"
+    "fetched_at": "2026-06-13T08:32:27.798096"
   },
   {
     "id": "e08ebb39c87c",
@@ -1007,7 +1027,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/canada-france-agree-to-deepen-defense-ties-share-classified-data",
     "published": "Fri, 12 Jun 2026 17:24:05 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:01.912110"
+    "fetched_at": "2026-06-13T08:32:27.881452"
   },
   {
     "id": "fd52bca51429",
@@ -1017,7 +1037,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/iran-likely-added-russian-made-missiles-as-it-rebuilt-arsenal",
     "published": "Fri, 12 Jun 2026 17:02:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.010739"
+    "fetched_at": "2026-06-13T08:32:27.970921"
   },
   {
     "id": "9a9321ac589f",
@@ -1027,7 +1047,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/south-africa-s-ramaphosa-seeks-to-halt-impeachment-proceedings",
     "published": "Fri, 12 Jun 2026 16:04:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.223950"
+    "fetched_at": "2026-06-13T08:32:28.199277"
   },
   {
     "id": "3be5a4e0d1bb",
@@ -1037,7 +1057,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/starmer-vows-to-fight-on-after-defense-chief-s-resignation",
     "published": "Fri, 12 Jun 2026 12:22:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.328908"
+    "fetched_at": "2026-06-13T08:32:28.311826"
   },
   {
     "id": "8d93a19e92eb",
@@ -1047,7 +1067,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/un-atomic-watchdog-will-prioritize-iran-as-potential-deal-looms",
     "published": "Fri, 12 Jun 2026 15:44:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.433743"
+    "fetched_at": "2026-06-13T08:32:28.410004"
   },
   {
     "id": "c23fda109d37",
@@ -1057,7 +1077,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/romanian-premier-nominee-s-prospects-dim-after-second-party-snub",
     "published": "Fri, 12 Jun 2026 15:43:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.550489"
+    "fetched_at": "2026-06-13T08:32:28.509647"
   },
   {
     "id": "2d82cdbc2f55",
@@ -1067,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/judge-rejects-doj-assurance-weaponization-fund-is-defunct",
     "published": "Fri, 12 Jun 2026 14:57:23 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.670628"
+    "fetched_at": "2026-06-13T08:32:28.603532"
   },
   {
     "id": "ec7152049ea6",
@@ -1077,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/india-summons-us-diplomat-second-time-over-gulf-ship-strikes",
     "published": "Fri, 12 Jun 2026 10:08:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.773385"
+    "fetched_at": "2026-06-13T08:32:28.679251"
   },
   {
     "id": "c1add03ebef5",
@@ -1087,56 +1107,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-12/rhode-island-joins-tax-the-rich-push-with-new-millionaire-levy",
     "published": "Fri, 12 Jun 2026 15:07:38 GMT",
     "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.867308"
-  },
-  {
-    "id": "be2af9e36081",
-    "title": "US-Iran Deal Slowed by Web of Go-Betweens Facilitating Talks",
-    "title_cn": "美伊协议因中间人促进谈判而放缓",
-    "summary": "President Trump has repeatedly said the US and Iran are on the cusp of a deal to end their conflict. The reality has proved more elusive &mdash; in part because of the nature of the negotiations themselves.\n\nThe latest confusion came as Trump claimed a deal was imminent on Thursday, saying an agreement could be signed as early as this weekend. By Friday, the president was posting on social media that “there is no such thing as dealing in good faith” with Tehran.\n\nWe get analysis from Harrison Mann, former US Army Major and Middle East Intelligence Analyst & Associate Director for Win Without War. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-12/us-iran-deal-slowed-by-web-of-go-betweens-aiding-talks-video",
-    "published": "Fri, 12 Jun 2026 14:54:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:06:02.955702"
-  },
-  {
-    "id": "4ef6cc724f87",
-    "title": "US-Iran Deal Slowed by Web of Go-Betweens Facilitating Talks",
-    "title_cn": "美伊协议因中间人促进谈判而放缓",
-    "summary": "President Donald Trump has repeatedly said the US and Iran are on the cusp of a deal to end their conflict. The reality has proved more elusive &mdash; in part because of the nature of the negotiations themselves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/trump-s-iran-deal-slowed-by-couriers-in-complex-peace-process",
-    "published": "Fri, 12 Jun 2026 00:07:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:06:03.069622"
-  },
-  {
-    "id": "668c522ad3c5",
-    "title": "Kazakh Ruling Party Offers Merger With New Pro-President Group",
-    "title_cn": "哈萨克斯坦执政党提议与新的亲总统集团合并",
-    "summary": "Kazakhstan’s ruling Amanat party proposed to merge with a newly-formed grouping as President Kassym-Jomart Tokayev continues to remodel the political system in Central Asia’s largest oil producer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/kazakh-ruling-party-offers-merger-with-new-pro-president-group",
-    "published": "Fri, 12 Jun 2026 14:10:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:06:03.172644"
-  },
-  {
-    "id": "59cb9406dd8d",
-    "title": "US Ships Escort Oil Tankers Through Hormuz at Night, Burgum Says",
-    "title_cn": "布尔古姆称，美国船只夜间护送油轮通过霍尔木兹海峡",
-    "summary": "US forces are helping move millions of barrels through the Strait of Hormuz under the cover of darkness, sometimes escorting more than 20 ships per night out of the vital waterway, US Interior Secretary Doug Burgum said Friday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/us-ships-escort-oil-tankers-through-hormuz-at-night-burgum-says",
-    "published": "Fri, 12 Jun 2026 13:33:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:06:03.274032"
-  },
-  {
-    "id": "d9effd47c304",
-    "title": "Chile Seeks Venezuela Diplomatic Reset to Advance Migration Plans",
-    "title_cn": "智利寻求委内瑞拉外交重置以推进移民计划",
-    "summary": "Chile’s foreign affairs minister is eager to resume full diplomatic relations with Venezuela before the government’s term ends in 2030 to facilitate the return of tens of thousands of undocumented immigrants. The ball is now in Venezuela’s court, he said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-12/chile-is-seeking-a-diplomatic-reset-with-venezuela-to-deport-migrants",
-    "published": "Fri, 12 Jun 2026 13:17:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-13T05:06:03.384094"
+    "fetched_at": "2026-06-13T08:32:28.764292"
   }
 ]
