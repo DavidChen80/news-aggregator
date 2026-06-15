@@ -1,5 +1,75 @@
 [
   {
+    "id": "1d7fa5fd658f",
+    "title": "Singapore Home Sales Drop on Lack of Launches in Quiet Period",
+    "title_cn": "新加坡房屋销售因安静时期缺乏推出而下降",
+    "summary": "Singapore home sales fell in May from the previous month as developers held back new projects ahead of the traditionally quieter mid-year period, when families travel for the school holidays.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/singapore-home-sales-drop-on-lack-of-launches-in-quiet-period",
+    "published": "Mon, 15 Jun 2026 04:19:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:28.385105"
+  },
+  {
+    "id": "c21918ea3794",
+    "title": "US-Iran Agree to Deal, Hormuz Set to Reopen, More",
+    "title_cn": "美国与伊朗达成协议，霍尔木兹海峡将重新开放，等等",
+    "summary": "Source: Bloomberg, 5:30",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-15/us-iran-agree-to-deal-hormuz-set-to-reopen-more",
+    "published": "Mon, 15 Jun 2026 03:37:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:28.478523"
+  },
+  {
+    "id": "e168c301f49f",
+    "title": "US-Iran Reach Interim Deal, Paves Way for Hormuz Reopening",
+    "title_cn": "美伊达成临时协议，为霍尔木兹重新开放铺平道路",
+    "summary": "Source: Bloomberg, 5:30",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-15/us-iran-reach-interim-deal-paves-way-for-hormuz-reopening",
+    "published": "Mon, 15 Jun 2026 02:55:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:28.635232"
+  },
+  {
+    "id": "afe1c4e25edc",
+    "title": "US-Iran Peace Deal May Keep Rally in India Stocks, Rupee Going",
+    "title_cn": "美伊和平协议可能令印度股市继续上涨，卢比走高",
+    "summary": "The rupee has emerged as Asia’s best performer over the past month.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/india-rupee-nifty-to-extend-gains-as-hormuz-set-to-open-on-us-iran-peace-deal",
+    "published": "Mon, 15 Jun 2026 02:47:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:28.791567"
+  },
+  {
+    "id": "4e84daba3178",
+    "title": "US-Iran Reach Deal, Includes Reopening Hormuz, More",
+    "title_cn": "美国与伊朗达成协议，包括重新开放霍尔木兹海峡等",
+    "summary": "Source: Bloomberg, 5:26",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-15/us-iran-reach-deal-includes-reopening-hormuz-more",
+    "published": "Mon, 15 Jun 2026 01:49:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:28.944796"
+  },
+  {
+    "id": "353947107897",
+    "title": "Bloomberg Daybreak Asia: US-Iran Agree to Deal (Podcast)",
+    "title_cn": "彭博黎明亚洲：美国与伊朗同意达成协议（播客）",
+    "summary": "Source: Bloomberg, 18:50",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-15/bloomberg-daybreak-asia-us-iran-agree-to-deal-podcast",
+    "published": "Mon, 15 Jun 2026 01:24:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:29.039603"
+  },
+  {
+    "id": "ca4530050153",
+    "title": "US and Iran Agree to Deal, Strait of Hormuz to Open, More",
+    "title_cn": "美国和伊朗同意达成协议，霍尔木兹海峡开放，更多",
+    "summary": "Source: Bloomberg, 5:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-15/us-and-iran-agree-to-deal-strait-of-hormuz-to-open-more",
+    "published": "Mon, 15 Jun 2026 00:45:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:29.143029"
+  },
+  {
     "id": "2149e3d2a332",
     "title": "Iran Deal to be Signed on Friday, Hormuz to Reopen, More",
     "title_cn": "伊朗协议将于周五签署，霍尔木兹将重新开放，更多",
@@ -7,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-15/iran-deal-to-be-signed-on-friday-hormuz-to-reopen-more",
     "published": "Mon, 15 Jun 2026 00:01:35 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:56.677716"
+    "fetched_at": "2026-06-15T05:39:29.299252"
   },
   {
     "id": "89d520c930cf",
@@ -17,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/us-iran-reach-deal-strait-of-hormuz-to-reopen-more",
     "published": "Sun, 14 Jun 2026 22:52:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:56.960219"
+    "fetched_at": "2026-06-15T05:39:29.465718"
   },
   {
     "id": "8845eceb4f1e",
@@ -27,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/us-iran-deal-woodside-eyed-by-exxon-rba-rates-shark-attack",
     "published": "Sun, 14 Jun 2026 22:50:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:57.060314"
+    "fetched_at": "2026-06-15T05:39:29.616334"
   },
   {
     "id": "f05389532ee9",
@@ -37,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/us-and-iran-reach-a-peace-deal-to-reopen-strait-of-hormuz-more",
     "published": "Sun, 14 Jun 2026 22:14:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:57.157975"
+    "fetched_at": "2026-06-15T05:39:29.777017"
   },
   {
     "id": "25a53628de7b",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/xi-swaps-fighter-jets-for-diplomatic-hardball-to-squeeze-taiwan",
     "published": "Sun, 14 Jun 2026 22:00:15 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:57.296690"
+    "fetched_at": "2026-06-15T05:39:29.940692"
   },
   {
     "id": "dac101b9842f",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/mideast-war-us-iran-reach-peace-pact-to-end-war-pakistan-pm-says",
     "published": "Sun, 14 Jun 2026 21:43:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:57.442487"
+    "fetched_at": "2026-06-15T05:39:30.105618"
   },
   {
     "id": "4be69dffc8a9",
@@ -67,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/pakistan-says-us-and-iran-have-reached-a-peace-deal-more",
     "published": "Sun, 14 Jun 2026 21:29:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:57.598706"
+    "fetched_at": "2026-06-15T05:39:30.197234"
   },
   {
     "id": "6d5a54298e2e",
@@ -77,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/wsj-trump-says-iran-deal-is-imminent-skydiving-plane-crash",
     "published": "Sun, 14 Jun 2026 21:17:54 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.020496"
+    "fetched_at": "2026-06-15T05:39:30.291642"
   },
   {
     "id": "51a65b653e71",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/missouri-plane-crash-trump-urges-restraint-after-beirut-strikes",
     "published": "Sun, 14 Jun 2026 20:14:34 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.422094"
+    "fetched_at": "2026-06-15T05:39:30.418246"
   },
   {
     "id": "7b19b0f81e4e",
@@ -97,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/ai-starts-to-help-resolve-shortage-of-accountants-survey-shows",
     "published": "Sun, 14 Jun 2026 20:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.511899"
+    "fetched_at": "2026-06-15T05:39:30.565770"
   },
   {
     "id": "7de1c64f9076",
@@ -107,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/12-people-killed-in-mo-plane-crash-us-iran-close-to-deal-more",
     "published": "Sun, 14 Jun 2026 18:39:44 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.583938"
+    "fetched_at": "2026-06-15T05:39:30.730530"
   },
   {
     "id": "4ddf6f228dd5",
@@ -117,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/trump-calls-for-restraint-after-beirut-strikes-no-deal-signing",
     "published": "Sun, 14 Jun 2026 17:35:56 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.742554"
+    "fetched_at": "2026-06-15T05:39:30.887235"
   },
   {
     "id": "b772cd0aa2f1",
@@ -127,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/bloomberg-this-weekend-trump-eyes-sunday-deal-podcast",
     "published": "Sun, 14 Jun 2026 15:04:32 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.838744"
+    "fetched_at": "2026-06-15T05:39:30.991142"
   },
   {
     "id": "eaf3292333a8",
@@ -137,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/iran-says-no-deal-by-trump-s-sunday-timeline-knicks-win-more",
     "published": "Sun, 14 Jun 2026 14:44:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:58.915701"
+    "fetched_at": "2026-06-15T05:39:31.150067"
   },
   {
     "id": "58a0f85b4aa6",
@@ -147,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/merryn-talks-money-the-uk-market-s-hidden-winners-podcast",
     "published": "Sun, 14 Jun 2026 14:02:14 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:59.325163"
+    "fetched_at": "2026-06-15T05:39:31.319150"
   },
   {
     "id": "5f77a80b3b14",
@@ -157,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/knicks-win-nba-title-trump-iran-deal-to-be-signed-today-more-mqdtcnlj",
     "published": "Sun, 14 Jun 2026 13:21:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:17:59.466484"
+    "fetched_at": "2026-06-15T05:39:31.457325"
   },
   {
     "id": "8d91e40aa21c",
@@ -167,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-14/what-s-happening-in-em-diverging-rate-outlooks-podcast",
     "published": "Sun, 14 Jun 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:00.157516"
+    "fetched_at": "2026-06-15T05:39:31.545714"
   },
   {
     "id": "b1477ba849b1",
@@ -177,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/trump-eyes-sunday-iran-deal-tehran-still-reviewing-text-more",
     "published": "Sun, 14 Jun 2026 12:06:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:00.257302"
+    "fetched_at": "2026-06-15T05:39:31.690790"
   },
   {
     "id": "a1f06d005b1f",
@@ -187,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/venezuelan-crime-boss-s-demise-creates-opening-for-mining-boost",
     "published": "Sun, 14 Jun 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:00.417054"
+    "fetched_at": "2026-06-15T05:39:31.856063"
   },
   {
     "id": "d8273a482fa6",
@@ -197,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/knicks-win-nba-title-trump-iran-deal-to-be-signed-today-more",
     "published": "Sun, 14 Jun 2026 10:50:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:00.567835"
+    "fetched_at": "2026-06-15T05:39:31.949615"
   },
   {
     "id": "737bd0cc2413",
@@ -207,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/knicks-win-nba-title-trump-us-iran-deal-to-be-signed-today",
     "published": "Sun, 14 Jun 2026 10:37:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.019843"
+    "fetched_at": "2026-06-15T05:39:32.107177"
   },
   {
     "id": "b16d18773bf9",
@@ -217,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-14/trump-iran-deal-to-be-signed-sunday-anthropic-shuts-mythos-more",
     "published": "Sun, 14 Jun 2026 00:39:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.119522"
+    "fetched_at": "2026-06-15T05:39:32.210986"
   },
   {
     "id": "ad56050c4fc9",
@@ -227,377 +297,377 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-says-he-ll-sign-iran-deal-sunday-to-reopen-hormuz-more-mqcz8alm",
     "published": "Sat, 13 Jun 2026 23:18:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.240300"
-  },
-  {
-    "id": "56c99a19fb55",
-    "title": "Trump: Deal to Be Signed Sunday, Mythos Access Shut Down, More",
-    "title_cn": "特朗普：协议将于周日签署，Mythos 访问被关闭等等",
-    "summary": "Source: Bloomberg, 6:04",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-deal-to-be-signed-sunday-mythos-access-shut-down-more-mqcw8xyn",
-    "published": "Sat, 13 Jun 2026 21:55:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.736694"
-  },
-  {
-    "id": "16498530ad2f",
-    "title": "Anthropic Shuts Down Mythos Access After Sweeping US Order",
-    "title_cn": "Anthropic 横扫美国订单后关闭 Mythos 访问",
-    "summary": "Anthropic PBC has disabled access to its most advanced artificial intelligence models, including Mythos, following an unprecedented order by the Trump administration to keep the technology out of the hands of all foreign nationals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-    "published": "Sat, 13 Jun 2026 00:59:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.885783"
-  },
-  {
-    "id": "6ecc4a8ac6c2",
-    "title": "Brazilian Bank Apologizes for Mistaken Liquidation Alert",
-    "title_cn": "巴西银行为错误的清算警报道歉",
-    "summary": "Nu Holdings Ltd. co-founder Cristina Junqueira apologized to Nubank customers who received an app alert telling them the bank had been liquidated, saying a software programmer inadvertently caused the faulty notification.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/brazilian-bank-apologizes-for-liquidation-alert-sent-by-mistake",
-    "published": "Sat, 13 Jun 2026 16:39:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:01.978561"
-  },
-  {
-    "id": "85d7ec722cb9",
-    "title": "Trump Says He’ll Sign Iran Deal Sunday to Reopen Hormuz, More",
-    "title_cn": "特朗普表示他将于周日签署伊朗协议以重新开放霍尔木兹海峡等",
-    "summary": "Source: Bloomberg, 5:42",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-says-he-ll-sign-iran-deal-sunday-to-reopen-hormuz-more",
-    "published": "Sat, 13 Jun 2026 20:28:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.083260"
-  },
-  {
-    "id": "f9dfb9f64aac",
-    "title": "Trump: Deal to Be Signed Sunday, Mythos Access Shut Down, More",
-    "title_cn": "特朗普：协议将于周日签署，Mythos 访问被关闭等等",
-    "summary": "Source: Bloomberg, 5:13",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-deal-to-be-signed-sunday-mythos-access-shut-down-more",
-    "published": "Sat, 13 Jun 2026 18:56:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.228941"
-  },
-  {
-    "id": "86ac4953748f",
-    "title": "Trump Says He’ll Sign Iran Deal to Reopen Hormuz Sunday, More",
-    "title_cn": "特朗普表示他将在周日签署伊朗协议以重新开放霍尔木兹海峡",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-13/trump-says-he-ll-sign-iran-deal-to-reopen-hormuz-sunday-more",
-    "published": "Sat, 13 Jun 2026 17:22:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.350017"
-  },
-  {
-    "id": "1f49d6b84df3",
-    "title": "How Kalshi’s Lopes Lara Turned Kylie Jenner Gossip Into Billions",
-    "title_cn": "卡尔希 (Kalshi) 的洛佩斯·拉拉 (Lopes Lara) 如何将凯莉·詹纳 (Kylie Jenner) 的八卦变成数十亿美元",
-    "summary": "<p>The firm’s co-founder talks about the celebrity buzz that sparked her interest in prediction markets, the legal battles her firm faces and Jay-Z’s&nbsp;advice.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-06-13/how-kalshi-s-lopes-lara-turned-kylie-jenner-gossip-into-billions",
-    "published": "Sat, 13 Jun 2026 14:00:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.458111"
-  },
-  {
-    "id": "37fcafb9f821",
-    "title": "Japan, Korean Stocks Gain on Strait of Hormuz Reopening Hopes",
-    "title_cn": "日本和韩国股市因霍尔木兹海峡重新开放的希望而上涨",
-    "summary": "Japanese and Korean stocks gained after oil prices fell as Donald Trump said the US and Iran will sign a peace deal later this week to reopen the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/japanese-stocks-set-to-rise-after-us-iran-peace-deal-reached",
-    "published": "Sun, 14 Jun 2026 23:09:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.688093"
-  },
-  {
-    "id": "0142a746547e",
-    "title": "Indonesia Awaits MSCI Verdict That Risks $13 Billion Outflows",
-    "title_cn": "印度尼西亚等待 MSCI 裁决，可能导致 130 亿美元资金外流",
-    "summary": "Indonesia faces a crucial test this month when MSCI Inc. decides whether to follow through with a downgrade, with investors already questioning the resilience of the world’s worst-performing equity market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/indonesia-awaits-msci-verdict-that-risks-13-billion-outflows",
-    "published": "Mon, 15 Jun 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.765414"
-  },
-  {
-    "id": "3682c0975b08",
-    "title": "US and Iran Agree to Deal Halting War",
-    "title_cn": "美国和伊朗同意达成停止战争协议",
-    "summary": "The US and Iran reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for negotiations on the fate of Iran's nuclear program. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/us-and-iran-agree-to-deal-halting-war-video",
-    "published": "Sun, 14 Jun 2026 23:49:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:02.932074"
-  },
-  {
-    "id": "9582e914e667",
-    "title": "Yen Short Bets Jump to Nine-Year High as Carry Trade Revives",
-    "title_cn": "随着套利交易复苏，日元空头头寸跃升至九年高点",
-    "summary": "Speculators have boosted their bets against the yen to a nine-year high, signaling the revival of the yen carry trade despite intervention risks and a potential rate hike by the Bank of Japan on Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/yen-short-bets-jump-to-nine-year-high-as-carry-trade-revives",
-    "published": "Sun, 14 Jun 2026 23:47:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.126695"
-  },
-  {
-    "id": "604742fcca64",
-    "title": "ASX Faces $14.5 Million Fine Over Misleading Chess Statement",
-    "title_cn": "澳大利亚证券交易所因误导性国际象棋声明面临 1450 万澳元罚款",
-    "summary": "ASX Ltd. admitted that a 2022 statement about its clearing and settlement system replacement was misleading and will face a A$20.5 million ($14.5 million) penalty, Australia’s securities regulator said, resolving legal proceedings tied to the project.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/asic-says-asx-agrees-to-pay-fine-over-misleading-chess-statement",
-    "published": "Sun, 14 Jun 2026 22:15:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.212637"
+    "fetched_at": "2026-06-15T05:39:32.355050"
   },
   {
     "id": "beb08bcde979",
-    "title": "Oil Slumps as US-Iran Deal May Allow Strait of Hormuz to Reopen",
-    "title_cn": "美伊协议可能允许霍尔木兹海峡重新开放，油价暴跌",
-    "summary": "Oil tumbled after the US and Iran agreed to a peace deal to end the war in the Middle East, potentially allowing the Strait of Hormuz to reopen.",
+    "title": "Crude Tumbles as Trump Says Iran Deal Will ‘Let the Oil Flow!’",
+    "title_cn": "特朗普称伊朗协议将“让石油流动！”原油价格暴跌",
+    "summary": "Oil sank after the US and Iran agreed to an interim deal to end their months-long war, potentially allowing the Strait of Hormuz to reopen and easing a supply crunch that has rattled global energy markets.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/latest-oil-market-news-and-analysis-for-june-15",
     "published": "Sun, 14 Jun 2026 22:01:15 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.315371"
+    "fetched_at": "2026-06-15T05:39:32.886727"
+  },
+  {
+    "id": "3d1359e3e635",
+    "title": "Swiss Pragmatism Holds as Disputed Population Cap Rejected",
+    "title_cn": "瑞士实用主义依然存在，有争议的人口上限被拒绝",
+    "summary": "Swiss voters opted to play it safe on Sunday, rejecting an unprecedented proposal to cap the country’s population at 10 million people as economic risks overcame elevated concerns about immigration.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/switzerland-s-10-million-population-cap-rejected-as-pragmatism-prevails",
+    "published": "Mon, 15 Jun 2026 04:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:32.970645"
+  },
+  {
+    "id": "b8bf71b69fca",
+    "title": "Billionaire Gina Rinehart Made ‘Significant’ SpaceX Investment",
+    "title_cn": "亿万富翁吉娜·莱因哈特对 SpaceX 进行了“重大”投资",
+    "summary": "Australia’s richest person Gina Rinehart said she made “a significant investment” in SpaceX, as her mining company laid out ambitions to work with Elon Musk’s rocket and satellite company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/billionaire-gina-rinehart-made-significant-spacex-investment",
+    "published": "Mon, 15 Jun 2026 05:30:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.147723"
+  },
+  {
+    "id": "cd03353a243a",
+    "title": "Shipowners Seek Clarity on Hormuz Deal as Waiting Flotillas Grow",
+    "title_cn": "随着等待船队的增加，船东寻求霍尔木兹协议的明确性",
+    "summary": "A US-Iran deal intended to reopen the Strait of Hormuz within days has been met with caution by shipowners and traders, with almost all saying they would need more details in order to assess whether safe transits are possible after months of false starts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/shipowners-seek-clarity-on-hormuz-deal-as-600-vessels-eye-exit",
+    "published": "Mon, 15 Jun 2026 02:36:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.299531"
+  },
+  {
+    "id": "0e2b9efd794b",
+    "title": "Inflation Worries Keep Markets Wary Even After Iran Peace Deal",
+    "title_cn": "即使在伊朗和平协议达成后，通胀担忧仍令市场保持警惕",
+    "summary": "Bonds and stocks rallied on Monday after a US-Iran interim deal eased nerves, though market participants warned against celebrating too soon as the conflict’s economic fallout remains unresolved.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/inflation-worries-keep-markets-wary-even-after-iran-peace-deal",
+    "published": "Mon, 15 Jun 2026 05:14:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.464040"
+  },
+  {
+    "id": "6ffa36fab6fc",
+    "title": "London Gold Market Weighs Earlier Auction to Suit Asian Traders",
+    "title_cn": "伦敦黄金市场考虑提前拍卖以适应亚洲交易者",
+    "summary": "The London Bullion Market Association is considering moving its morning gold auction to an earlier time to accommodate traders in Asia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/london-gold-market-weighs-earlier-auction-to-suit-asian-traders",
+    "published": "Mon, 15 Jun 2026 05:13:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.656693"
+  },
+  {
+    "id": "6ccf5b28844d",
+    "title": "Global Funds Retreat From Japan’s Long Bonds on Slow BOJ",
+    "title_cn": "由于日本央行行动缓慢，全球资金从日本长期债券撤退",
+    "summary": "Little more than a year after Japan finally offered yields high enough to lure global fund managers back to its government bond market, many are starting to retreat.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/global-funds-retreat-from-japan-s-long-bonds-as-boj-goes-slow",
+    "published": "Sun, 14 Jun 2026 20:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.816202"
+  },
+  {
+    "id": "004afd787ab7",
+    "title": "Eyre: US Iran Deal Will Not Lead to a new Middle East",
+    "title_cn": "艾尔：美国伊朗协议不会导致新中东",
+    "summary": "US and Iran have reached an interim agreement to reopen the Strait of Hormuz paving the way for talks on Tehran's nuclear program and an end to a war that has engulfed the Middle East. Alan Eyre, Former Senior US Diplomat and Distinguished Diplomatic Fellow at Middle East Institute spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East and Africa on what this deal will bring to the region. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/eyre-us-iran-deal-will-not-lead-to-a-new-middle-east-video",
+    "published": "Mon, 15 Jun 2026 05:09:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:33.961778"
+  },
+  {
+    "id": "7b16ffffcb90",
+    "title": "What the US-Iran Peace Deal Means for the Strait of Hormuz",
+    "title_cn": "美伊和平协议对霍尔木兹海峡意味着什么",
+    "summary": "No region of the world produces more oil and gas than the countries straddling the Persian Gulf. Most of this energy can only be exported aboard tankers that cross the Strait of Hormuz &mdash; a waterway that’s effectively been closed for more than three months since the US and Israel started a war against Iran in late February.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/strait-of-hormuz-what-the-us-iran-interim-peace-deal-means-for-oil-and-shipping",
+    "published": "Mon, 15 Jun 2026 05:02:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.142344"
+  },
+  {
+    "id": "9969350a26a1",
+    "title": "How the IMF's Kristalina Georgieva Hires Top Talent",
+    "title_cn": "国际货币基金组织的克里斯塔利娜·格奥尔基耶娃如何聘用顶尖人才",
+    "summary": "IMF Managing Director Kristalina Georgieva tells Francine Lacqua the interview question she asks every candidate, reflects on a career setback that ultimately changed her life, and shares what keeps her up at night as she prepares for the next global shock. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/how-the-imf-s-kristalina-georgieva-hires-top-talent",
+    "published": "Mon, 15 Jun 2026 05:00:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.224242"
+  },
+  {
+    "id": "7583a876db9e",
+    "title": "K-Content Powerhouse JoongAng Group Seeks Court Rehabilitation",
+    "title_cn": "韩国内容巨头中央集团寻求法院平反",
+    "summary": "The holding company of South Korea’s JoongAng Group, a sprawling media conglomerate and K-Content powerhouse behind hits like Netflix smash Culinary Class Wars, filed for court rehabilitation, signaling a deepening liquidity crunch.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/korea-media-giant-seeks-rehabilitation-after-broadcaster-default",
+    "published": "Mon, 15 Jun 2026 01:19:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.307912"
+  },
+  {
+    "id": "f1a856bf500b",
+    "title": "US and Iran Reach Deal to Reopen Hormuz",
+    "title_cn": "美国和伊朗达成协议重新开放霍尔木兹",
+    "summary": "The US and Iran said they reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for 60 days of negotiations on the fate of Tehran’s nuclear program. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-reach-deal-to-reopen-hormuz-video",
+    "published": "Mon, 15 Jun 2026 04:52:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.455929"
   },
   {
     "id": "67bc7f2276e8",
-    "title": "US Futures Climb, Oil Falls on Iran Peace Deal: Markets Wrap",
-    "title_cn": "伊朗和平协议推动美国期货上涨，油价下跌：市场总结",
-    "summary": "US equity futures climbed, oil slumped and the dollar fell after the US and Iran said they had reached a deal to reopen the Strait of Hormuz.",
+    "title": "Stocks Rally With Bonds as Iran Deal Spurs Relief: Markets Wrap",
+    "title_cn": "伊朗协议刺激救济，股市随债券上涨：市场总结",
+    "summary": "Global stocks and bonds rallied while oil slumped to a three-month low after the US and Iran reached a deal to reopen the Strait of Hormuz, sparking a relief rally across markets as concerns over energy-supply disruptions eased.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/us-futures-climb-oil-falls-on-iran-peace-deal-markets-wrap",
     "published": "Sun, 14 Jun 2026 22:06:25 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.427131"
+    "fetched_at": "2026-06-15T05:39:34.608421"
   },
   {
-    "id": "b7f8b386c1fe",
-    "title": "World Cup’s Smooth Start Eases Concerns for Host Nations, FIFA",
-    "title_cn": "世界杯的顺利开局缓解了主办国和国际足联的担忧",
-    "summary": "All the concerns about this World Cup, spanning extreme heat to transportation headaches and record ticket prices, failed to tarnish the opening days of the tournament. Bloomberg reporters are on the ground. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/world-cup-s-smooth-start-eases-concerns-for-host-nations-video",
-    "published": "Sun, 14 Jun 2026 23:06:58 GMT",
+    "id": "7480a1b4ddff",
+    "title": "Treasuries Rally as Traders Trim Fed Hike Bets After Iran Deal",
+    "title_cn": "伊朗协议后，交易员削减美联储加息押注，国债上涨",
+    "summary": "Treasuries advanced across the curve as investors dialed back expectations for Federal Reserve interest-rate hikes following news of a deal to halt the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/treasuries-rally-as-traders-trim-fed-hike-bets-after-iran-deal",
+    "published": "Mon, 15 Jun 2026 00:59:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.502477"
+    "fetched_at": "2026-06-15T05:39:34.715780"
   },
   {
-    "id": "fb241b783880",
-    "title": "UK, France, Germany Ready to Lift Relevant Iran Sanctions",
-    "title_cn": "英法德准备解除伊朗相关制裁",
-    "summary": "“We are prepared to lift relevant sanctions in response to clear, verifiable steps by Iran on its nuclear programme,” according to a joint statement from the leaders of the UK, France, Germany and Italy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/uk-france-germany-ready-to-lift-relevant-sanctions",
-    "published": "Sun, 14 Jun 2026 23:02:22 GMT",
+    "id": "01627f48f6c5",
+    "title": "Philippines’ Marcos Calls for Special Congress Session Amid Deadlock",
+    "title_cn": "菲律宾马科斯呼吁在僵局中召开特别国会会议",
+    "summary": "Philippine President Ferdinand Marcos Jr. called Congress to a special session on June 17 to pass priority legislative measures, hoping lawmakers will set aside political distractions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/philippines-marcos-calls-for-special-congress-session-amid-deadlock",
+    "published": "Mon, 15 Jun 2026 04:31:32 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.598042"
+    "fetched_at": "2026-06-15T05:39:34.803316"
+  },
+  {
+    "id": "68ee7fe70b45",
+    "title": "Hormuz Halt Forces Middle East Trade Into Huge Rewiring",
+    "title_cn": "霍尔木兹封锁迫使中东贸易进行大规模重组",
+    "summary": "In the wake of the 12-day US-Israel and Iran war a year ago, Siemens Energy AG sent a person driving from Saudi Arabia’s Red Sea port of Jeddah across the Arabian peninsula to the industrial hub of Dammam to study an alternative route in case the crucial Strait of Hormuz was shut down.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/iran-s-strait-of-hormuz-closure-turns-desert-roads-into-vital-trade-routes",
+    "published": "Mon, 15 Jun 2026 04:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.884926"
+  },
+  {
+    "id": "15fa904add45",
+    "title": "Cement, Textile Stocks Biggest Winners From Pakistan Budget",
+    "title_cn": "水泥、纺织股成为巴基斯坦预算的最大赢家",
+    "summary": "The government’s move to lower taxes on certain sectors including cement and textiles is likely to support related shares as Pakistan looks to balance growth and compliance with its promises to the International Monetary Fund.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/cement-textile-stocks-biggest-winners-from-pakistan-budget",
+    "published": "Mon, 15 Jun 2026 04:25:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:34.979080"
+  },
+  {
+    "id": "0374b508b9e3",
+    "title": "LBMA Says Gold's Status as a Safe Haven Still Holds",
+    "title_cn": "伦敦金银市场协​​会 (LBMA) 表示黄金的避风港地位仍然成立",
+    "summary": "London Bullion Market Association CEO Ruth Crowell thinks the narrative of gold's status as a safe haven still holds. She adds that it's important to measure safe haven status in years rather than weeks or months. She speaks with Paul Allen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/lbma-says-gold-s-status-as-a-safe-haven-still-holds-video",
+    "published": "Mon, 15 Jun 2026 04:20:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:35.134750"
+  },
+  {
+    "id": "e80efde00558",
+    "title": "Lubrizol Aims to Double India Rev. Over Next 5 Years",
+    "title_cn": "路博润的目标是在未来 5 年内将印度收入翻一番",
+    "summary": "Lubrizol Corp. President & CEO Rebecca Liebert expects to double its revenues in India over the next five years, and says the company has put a lot of investment in this market to enable that growth. She speaks with Paul Allen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/lubrizol-aims-to-double-india-rev-over-next-5-years-video",
+    "published": "Mon, 15 Jun 2026 04:18:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:35.245974"
+  },
+  {
+    "id": "613aa9c025e9",
+    "title": "Failed SpaceX IPO Allocation Prompts Korea to Widen Mirae Review",
+    "title_cn": "SpaceX IPO分配失败促使韩国扩大未来审查范围",
+    "summary": "South Korea’s financial watchdog has expanded an inspection of Mirae Asset Securities Co. to examine the brokerage’s failure to secure an allocation of SpaceX shares in the company’s initial public offering, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/failed-spacex-ipo-allocation-prompts-wider-mirae-review-in-korea",
+    "published": "Mon, 15 Jun 2026 03:42:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:35.331859"
   },
   {
     "id": "5cf8f905422f",
-    "title": "LNG Tanker Heads Toward Hormuz as Deal Raises Hopes of Reopening",
-    "title_cn": "液化天然气油轮驶向霍尔木兹，协议增加了重新开放的希望",
+    "title": "LNG Tanker Heads Toward Hormuz as Deal Lifts Reopening Hopes",
+    "title_cn": "液化天然气油轮驶向霍尔木兹，协议解除了重新开启的希望",
     "summary": "A liquefied natural gas tanker that has been trapped in the Persian Gulf for over three months appears to be heading toward the Strait of Hormuz, just as the US and Iran say they have reached a deal to reopen the waterway.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/lng-tanker-heads-toward-hormuz-as-deal-raises-hopes-of-reopening",
     "published": "Sun, 14 Jun 2026 22:56:13 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.702059"
+    "fetched_at": "2026-06-15T05:39:35.494459"
   },
   {
-    "id": "20f5d9ce2e18",
-    "title": "Trump Says Hormuz Strait to Open Friday Upon Deal Signing",
-    "title_cn": "特朗普称霍尔木兹海峡将于周五开放",
-    "summary": "President Trump says the Strait of Hormuz will be “opening” on Friday upon the signing of the deal with Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-says-hormuz-strait-to-open-friday-upon-deal-signing",
-    "published": "Sun, 14 Jun 2026 22:31:38 GMT",
+    "id": "c529f0f46f2c",
+    "title": "Warsh Is Inheriting a Rates-Mountain Breakdown",
+    "title_cn": "沃什正在继承利率山的崩溃",
+    "summary": "<p>We’re going from a steady descent&nbsp;on interest rates to a potentially wild ride.</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-06-15/warsh-is-inheriting-a-rates-mountain-breakdown",
+    "published": "Mon, 15 Jun 2026 04:00:18 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.801154"
+    "fetched_at": "2026-06-15T05:39:35.638734"
   },
   {
     "id": "ccc477116ee3",
-    "title": "Stock Market Moves On From SpaceX to Focus On Iran Deal, Fed",
+    "title": "Stock Market Moves On From SpaceX to Focus on Iran Deal, Fed",
     "title_cn": "美联储：股市从 SpaceX 转向关注伊朗交易",
     "summary": "After SpaceX and its bankers pulled off the largest-ever IPO without a hitch last week, investors are returning their focus back to Earth.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/stock-market-moves-on-from-spacex-with-iran-deal-fed-in-focus",
     "published": "Sun, 14 Jun 2026 22:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:03.993263"
+    "fetched_at": "2026-06-15T05:39:35.742349"
   },
   {
-    "id": "a9d769257390",
-    "title": "Bailey Defends BOE Gilt Sales After Criticism From Farage",
-    "title_cn": "法拉奇批评后，贝利为英国央行金边债券销售辩护",
-    "summary": "Governor Andrew Bailey defended the Bank of England’s buying and selling of UK government bonds following criticism of the policy, including from Nigel Farage’s populist Reform UK party.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/bailey-defends-boe-gilt-sales-after-criticism-from-farage",
-    "published": "Sun, 14 Jun 2026 22:02:00 GMT",
+    "id": "0f32fcb02ab4",
+    "title": "CSIS' Cahill on US-Iran Deal Impact on Energy",
+    "title_cn": "CSIS 的卡希尔谈美伊协议对能源的影响",
+    "summary": "Ben Cahill, non-resident senior associate for the Energy Security and Climate Change Program at CSIS, says even though the US and Iran were able to come to an agreement to halt the ongoing war and reopen the strait of Hormuz, energy markets \"are not quite out of the woods yet\", and there is still room for prices to run up even after the MOU is signed. He speaks with Shery Ahn and Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/csis-cahill-on-us-iran-deal-impact-on-energy",
+    "published": "Mon, 15 Jun 2026 03:49:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.158687"
+    "fetched_at": "2026-06-15T05:39:35.842694"
   },
   {
-    "id": "f49b73862ae1",
-    "title": "Bond Funds Chase Australian Debt on Peak RBA Interest Rate Bets",
-    "title_cn": "债券基金押注澳大利亚央行利率峰值追逐澳大利亚债务",
-    "summary": "Local and global bond funds are snapping up Australian debt as economic strains signal the end of the Reserve Bank’s hiking cycle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/bond-funds-chase-australian-debt-on-peak-rba-interest-rate-bets",
-    "published": "Sun, 14 Jun 2026 21:00:00 GMT",
+    "id": "688a370e4dd3",
+    "title": "'Proud Moment for Pakistan': Finance Minister on US-Iran Agreement",
+    "title_cn": "“巴基斯坦的骄傲时刻”：财政部长谈美伊协议",
+    "summary": "Pakistani Finance Minister Muhammad Aurangzeb speaks with Bloomberg Television about the \"critical role\" his country has played in facilitating an interim agreement between the US and Iran. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/-proud-moment-for-pakistan-aurangzeb-on-us-iran-deal-video",
+    "published": "Mon, 15 Jun 2026 03:46:36 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.236295"
+    "fetched_at": "2026-06-15T05:39:35.931574"
   },
   {
-    "id": "f83ff92bf211",
-    "title": "Japan’s Top Bond-Trading Regional Bank Buys JGBs After Decade",
-    "title_cn": "日本最大的债券交易区域银行十年后购买日本国债",
-    "summary": "The Japanese regional bank with the best recent record for trading bonds has started buying Japanese government debt for the first time in a decade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/japan-s-top-bond-trading-regional-bank-buys-jgbs-after-decade",
-    "published": "Sun, 14 Jun 2026 21:00:00 GMT",
+    "id": "9cca254f3712",
+    "title": "Pakistan Says It's in 'Very Good Place on Fiscal Side'",
+    "title_cn": "巴基斯坦称其“财政状况非常好”",
+    "summary": "Pakistan Finance Minister Muhammad Aurangzeb believes the country is in a 'very good place on the fiscal side'. He speaks with Paul Allen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/pakistan-says-it-s-in-very-good-place-on-fiscal-side-video",
+    "published": "Mon, 15 Jun 2026 03:45:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.376652"
+    "fetched_at": "2026-06-15T05:39:36.024714"
   },
   {
-    "id": "2636505acfda",
-    "title": "Hong Kong Issuers Seek to Boost Trading in Overlooked Stocks",
-    "title_cn": "香港发行人寻求促进被忽视股票的交易",
-    "summary": "Hong Kong stock issuers are looking to boost trading in some stocks suffering from thin volumes, which they say is hurting the ability of companies to access financing through follow-on offerings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/hong-kong-issuers-seek-to-boost-trading-in-overlooked-stocks",
-    "published": "Sun, 14 Jun 2026 21:00:00 GMT",
+    "id": "2539519b468d",
+    "title": "Stocks Rally, Oil Falls on Long-Awaited Iran Peace Deal | The Asia Trade 6/15/2026",
+    "title_cn": "期待已久的伊朗和平协议推动股市上涨，油价下跌亚洲贸易 6/15/2026",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/the-asia-trade-6-15-2026-video",
+    "published": "Mon, 15 Jun 2026 03:41:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.471104"
+    "fetched_at": "2026-06-15T05:39:36.175178"
   },
   {
-    "id": "6ccf5b28844d",
-    "title": "Global Funds Retreat From Japan’s Long Bonds as BOJ Goes Slow",
-    "title_cn": "由于日本央行行动缓慢，全球资金从日本长期债券撤退",
-    "summary": "Little more than a year since Japan finally offered yields high enough to lure global bond managers back to its debt market, many are starting to retreat.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/global-funds-retreat-from-japan-s-long-bonds-as-boj-goes-slow",
-    "published": "Sun, 14 Jun 2026 20:30:00 GMT",
+    "id": "68c8a34a8db2",
+    "title": "Korea, US Agree Cooperation on Won Weakness, Seoul Official Says",
+    "title_cn": "首尔官员表示，韩美就韩元疲弱问题达成合作协议",
+    "summary": "South Korea and the US agreed to maintain close cooperation in addressing the won’s weakness, according to Korea’s top foreign-exchange official.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/korea-us-agree-cooperation-on-won-weakness-seoul-official-says",
+    "published": "Mon, 15 Jun 2026 03:27:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.573377"
+    "fetched_at": "2026-06-15T05:39:36.262284"
   },
   {
-    "id": "719793516571",
-    "title": "Lazard Undercuts Rival Centerview in Battle for Venezuela Deal",
-    "title_cn": "Lazard 在委内瑞拉交易中削弱竞争对手 Centerview",
-    "summary": "Investment bank Lazard Inc. is making a late bid to dislodge rival Centerview Partners as Venezuela’s financial adviser, offering to oversee one of the largest-ever sovereign debt restructurings for a sharply lower fee.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/lazard-offers-to-undercut-rival-investment-bank-for-historic-venezuela-deal",
-    "published": "Sun, 14 Jun 2026 13:30:00 GMT",
+    "id": "3a2effcfb612",
+    "title": "US and Iran Reach Deal to Halt the War, Reopen Hormuz",
+    "title_cn": "美国和伊朗达成协议停止战争并重新开放霍尔木兹海峡",
+    "summary": "The US and Iran reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for negotiations on the fate of Iran's nuclear program. Bloomberg's Abeer Abu Omar has the latest. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-15/us-and-iran-reach-deal-to-halt-the-war-reopen-hormuz-video",
+    "published": "Mon, 15 Jun 2026 03:00:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.674883"
+    "fetched_at": "2026-06-15T05:39:36.371037"
   },
   {
-    "id": "b71173720da7",
-    "title": "SpaceX and OpenAI Are Ending Wall Street’s Era of Stock Scarcity",
-    "title_cn": "SpaceX 和 OpenAI 正在结束华尔街股票稀缺的时代",
-    "summary": "<p>The stock&nbsp;market is starting to expand again after years of shrinking &mdash; and potentially at a scale not seen since the dot-com era.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
-    "published": "Sun, 14 Jun 2026 19:00:17 GMT",
+    "id": "0595e831c508",
+    "title": "Gold Rises After US and Iran Agree Deal That Would Reopen Hormuz",
+    "title_cn": "美国和伊朗同意重新开放霍尔木兹海峡后金价上涨",
+    "summary": "Gold rose after the US and Iran announced an interim deal to end hostilities and reopen the Strait of Hormuz, easing global inflation fears and potentially tempering expectations for interest-rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/gold-advances-at-open-after-us-and-iran-reach-peace-agreement",
+    "published": "Sun, 14 Jun 2026 22:13:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.775976"
+    "fetched_at": "2026-06-15T05:39:36.681924"
   },
   {
-    "id": "3172ccfb3615",
-    "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
-    "title_cn": "伊朗战争100天后美联储和英国央行保持警惕",
-    "summary": "For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal",
-    "published": "Sat, 13 Jun 2026 20:00:00 GMT",
+    "id": "128bb93cbc85",
+    "title": "Hong Kong’s Leader Dodges Questions on Potential Second Term",
+    "title_cn": "香港领导人回避有关潜在第二任期的问题",
+    "summary": "Hong Kong Chief Executive John Lee remained non-committal about seeking a second term, deflecting questions regarding his political future ahead of the city’s leadership selection next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/hong-kong-leader-says-he-s-yet-to-consider-possible-second-term",
+    "published": "Mon, 15 Jun 2026 04:26:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:04.859411"
+    "fetched_at": "2026-06-15T05:39:37.199900"
   },
   {
-    "id": "32e733472689",
-    "title": "Bloomberg This Weekend 6/14/2026",
-    "title_cn": "彭博社本周末 2026 年 6 月 14 日",
-    "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Sportico Deputy Editor Eben Novy- Williams, Fmr. Deputy National Security Advisor Jon Finer, New York Times Opinion Columnist Nicholas Kristkof, Maryland Rep. Johnny Olszewski, USA Today White House Correspondent Francesca Chambers, Associated Press Deputy Washington Bureau Chief Zeke Miller and Journalist and “Drayton and Mackenzie” Author Alexander Starritt. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/bloomberg-this-weekend-6-14-2026-video",
-    "published": "Sun, 14 Jun 2026 17:01:19 GMT",
+    "id": "a05e08305efa",
+    "title": "South African Firms Face Pressure Due to Anti-Immigrant Protests",
+    "title_cn": "南非公司因反移民抗议而面临压力",
+    "summary": "South African companies with operations across Africa are facing mounting pressure as anti-immigrant protests in the continent’s largest economy trigger diplomatic tensions and calls for action against their businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/south-african-firms-face-pressure-due-to-anti-immigrant-protests",
+    "published": "Mon, 15 Jun 2026 04:45:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:05.013803"
+    "fetched_at": "2026-06-15T05:39:37.301938"
   },
   {
-    "id": "fbb6373677c3",
-    "title": "IDC, Vision Near Deal to Save Century-Old African Sugar Mills",
-    "title_cn": "IDC，愿景接近达成拯救百年非洲糖厂的协议",
-    "summary": "Tycoon-backed Vision Group is in talks with South Africa’s Industrial Development Corp. to take an equity stake in sugar refiner Tongaat Hulett in exchange for additional funding, Vision Group shareholder and consortium member Robert Gumede said in an interview.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/idc-vision-near-deal-to-save-century-old-african-sugar-mills",
-    "published": "Sun, 14 Jun 2026 16:39:13 GMT",
+    "id": "505a2a793f13",
+    "title": "Anthropic Block Marks US Reversal, Warning to Silicon Valley",
+    "title_cn": "人择区块标志着美国的逆转，对硅谷的警告",
+    "summary": "The extraordinary move by the US to bar foreign access to Anthropic PBC’s best AI models underscores the Trump administration’s newfound willingness to exert control over a pivotal industry. It also reminds Silicon Valley that it’s working with an imperfectly understood technology with uncertain impact.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/anthropic-block-marks-us-reversal-warning-to-silicon-valley",
+    "published": "Mon, 15 Jun 2026 04:25:20 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:05.111270"
+    "fetched_at": "2026-06-15T05:39:37.405681"
   },
   {
-    "id": "80fbd7d414c8",
-    "title": "Switzerland Rejects Proposal to Cap Population at 10 Million",
-    "title_cn": "瑞士拒绝人口上限为 1000 万的提议",
-    "summary": "Switzerland rejected a proposal to cap its population at 10 million people, as warnings about economic damage if the radical measure was introduced outweighed concerns about immigration.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows",
-    "published": "Sun, 14 Jun 2026 10:01:22 GMT",
+    "id": "13bc68e374b2",
+    "title": "Macron’s G7 Legacy Hangs on Fickle AI Funding and Data Centers",
+    "title_cn": "马克龙的七国集团遗产取决于变化无常的人工智能资金和数据中心",
+    "summary": "With less than a year left in office, Emmanuel Macron wants to be remembered as the French president who put Europe back in the technology race.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/macron-s-g7-legacy-hangs-on-fickle-ai-funding-and-data-centers",
+    "published": "Mon, 15 Jun 2026 04:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:05.933059"
+    "fetched_at": "2026-06-15T05:39:37.565091"
   },
   {
-    "id": "fb05d5ecd2ec",
-    "title": "New Yorkers Celebrate Knicks’ First NBA Title in 53 Years",
-    "title_cn": "纽约人庆祝尼克斯队 53 年来首次夺得 NBA 冠军",
-    "summary": "New Yorkers poured into the streets after the Knicks secured the NBA championship, dancing and screaming as chants of “Let’s Go Knicks” echoed throughout the city.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/new-yorkers-celebrate-knicks-first-nba-title-in-53-years-video",
-    "published": "Sun, 14 Jun 2026 15:47:38 GMT",
+    "id": "15fa33b540de",
+    "title": "新SiriはアップルAI危機を救えるか、実機を試して見えた7つの改善例－Power On",
+    "title_cn": "新的 Siri 能否拯救苹果的人工智能危机？实际设备测试后发现的 7 项改进 - 开机",
+    "summary": "アップルの新Siriは2年遅れで登場したものの、実用性が十分な水準に達し、AI戦略立て直しの足掛かりとなりつつある。",
+    "link": "https://www.bloomberg.com/jp/news/newsletters/2026-06-15/TGNKC0RKV2VT00",
+    "published": "Mon, 15 Jun 2026 03:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:06.033880"
+    "fetched_at": "2026-06-15T05:39:37.669751"
   },
   {
-    "id": "88a96c65d13d",
-    "title": "Approachable Luxury Father's Day Gifts",
-    "title_cn": "平易近人的奢华父亲节礼物",
-    "summary": "Bloomberg Pursuit's global luxury editor Chris Rovzner joins David Gura and Christina Ruffini on Bloomberg This Weekend to emphasize the importance of choosing gifts that feel personal and useful rather than obligatory this Father's Day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/approachable-luxury-father-s-day-gifts-video",
-    "published": "Sun, 14 Jun 2026 15:38:46 GMT",
+    "id": "d192aa090863",
+    "title": "Top Banks Rush to Fill Chief AI Roles as Talent Jumps to Rivals",
+    "title_cn": "随着人才涌向竞争对手，顶级银行纷纷填补首席人工智能职位",
+    "summary": "Banks from Sydney to London are racing to fill the senior role of chief AI officer, a job that barely existed a year ago. Those in the position, however, say it might not be around for long.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/top-banks-rush-to-fill-chief-ai-roles-as-talent-jumps-to-rivals",
+    "published": "Mon, 15 Jun 2026 02:36:54 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:06.146243"
+    "fetched_at": "2026-06-15T05:39:37.836794"
   },
   {
-    "id": "34a2ddad010f",
-    "title": "G7 Summit Delayed Amid Absence of US President",
-    "title_cn": "七国集团峰会因美国总统缺席而推迟",
-    "summary": "Bloomberg News Chief Europe Correspondent Oliver Crook joins Bloomberg This Weekend from the G7 summit in Évian, France. Crook tells hosts David Gura and Christina Ruffini how the original start date of the summit was changed due to Trump's schedule conflict, he will be attending a UFC fight and his own birthday celebrations. This underscores ongoing tensions and the complicated relationship between the US and European allies. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/g7-summit-delayed-amid-absence-of-us-president-video",
-    "published": "Sun, 14 Jun 2026 15:31:07 GMT",
+    "id": "fb3c490193bf",
+    "title": "Activist Palliser Urges Taiwan Firm WUS to Privatize, Lift Value",
+    "title_cn": "活动人士 Palliser 敦促台湾公司 WUS 私有化，提升价值",
+    "summary": "Activist hedge fund Palliser Capital is urging Taiwanese company WUS Printed Circuit Co. to enhance shareholder value, including through a potential privatization, according to documents viewed by Bloomberg News.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/activist-palliser-urges-taiwan-firm-wus-to-privatize-lift-value",
+    "published": "Mon, 15 Jun 2026 02:01:11 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:06.770087"
-  },
-  {
-    "id": "eb65f545bd14",
-    "title": "Questions Raised Over Costs of UFC Event at White House",
-    "title_cn": "关于白宫 UFC 赛事费用的问题",
-    "summary": "Co-host of Bloomberg's Balance of Power Joe Mathieu joins Bloomberg This Weekend and discusses with hosts David Gura and Christina public concern of the financial burden from hosting a large UFC event on the White House South Lawn. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/questions-raised-over-costs-of-ufc-event-at-white-house-video",
-    "published": "Sun, 14 Jun 2026 15:19:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.141869"
-  },
-  {
-    "id": "f129fc3c954f",
-    "title": "Tehran Hesitates and US Remains Silent on Terms of Deal",
-    "title_cn": "德黑兰犹豫不决，美国对交易条款保持沉默",
-    "summary": "Bloomberg News Senior White House Reporter Josh Wingrove joins Bloomberg This Weekend to discuss how with no in-person meetings occurring between the US and Iran, there is much uncertainty on both sides. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/tehran-hesitates-and-us-remains-silent-on-terms-of-deal-video",
-    "published": "Sun, 14 Jun 2026 15:18:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.246522"
-  },
-  {
-    "id": "a4f5cbf617d1",
-    "title": "The Save Our Bacon Act Targets Pig Welfare in Pork Industry",
-    "title_cn": "《拯救我们的培根法案》以猪肉行业的生猪福利为目标",
-    "summary": "New York Times opinion columnist Nicholas Kristof joins Bloomberg This Weekend to discuss with hosts David Gura and Christina Ruffini a new legislative effort called the \"Save Our Bacon\" act. The act is in response to a recent ruling on animal welfare standards and aims to address the treatment of pregnant sows in the pork industry. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/save-our-bacon-act-targets-pig-welfare-in-pork-industry-video",
-    "published": "Sun, 14 Jun 2026 14:50:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.332660"
-  },
-  {
-    "id": "fe1e7cd8bbf6",
-    "title": "Rep. Olszewski Expresses Skepticism Over Iran MOU Details",
-    "title_cn": "众议员奥尔谢夫斯基对伊朗谅解备忘录细节表示怀疑",
-    "summary": "Democratic member of the Foreign Affairs Committee Rep. Johnny Olszewski joins David Gura and Christina Ruffini on Bloomberg This Weekend and expresses his skepticism about the finalization of a deal with Tehran, noting Iran's own uncertainty about signing the agreement. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-14/rep-olszewski-skeptical-over-iran-mou-details-video",
-    "published": "Sun, 14 Jun 2026 14:42:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.415728"
+    "fetched_at": "2026-06-15T05:39:37.928023"
   },
   {
     "id": "84099d1a8ac3",
@@ -607,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/jack-ma-backed-ant-set-for-high-stakes-overhaul-of-billion-user-alipay-app",
     "published": "Sun, 14 Jun 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.706569"
+    "fetched_at": "2026-06-15T05:39:38.015303"
   },
   {
     "id": "890baf8ecce7",
@@ -617,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/south-korea-s-floundering-movie-business-turns-to-ai-for-help",
     "published": "Sun, 14 Jun 2026 23:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.824791"
+    "fetched_at": "2026-06-15T05:39:38.104687"
   },
   {
     "id": "cfdbc43b2be2",
@@ -627,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models",
     "published": "Sun, 14 Jun 2026 17:02:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:07.984013"
+    "fetched_at": "2026-06-15T05:39:38.204348"
   },
   {
     "id": "418ecc7338cb",
@@ -637,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
     "published": "Sun, 14 Jun 2026 14:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:08.090589"
+    "fetched_at": "2026-06-15T05:39:38.298871"
   },
   {
     "id": "4493b1f5d261",
@@ -647,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat",
     "published": "Sun, 14 Jun 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:08.821107"
+    "fetched_at": "2026-06-15T05:39:38.387450"
   },
   {
     "id": "777010ec21a9",
@@ -657,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-14/how-google-is-reinventing-search-with-ai-video",
     "published": "Sun, 14 Jun 2026 12:05:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:08.914072"
+    "fetched_at": "2026-06-15T05:39:38.481618"
   },
   {
     "id": "a41fc7ebb4aa",
@@ -667,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/ai-led-job-losses-bite-for-london-s-coders-lawyers-and-analysts",
     "published": "Sun, 14 Jun 2026 10:55:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:09.011580"
+    "fetched_at": "2026-06-15T05:39:38.579131"
   },
   {
     "id": "857260048f3e",
@@ -677,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/uk-to-ban-under-16s-from-social-media-including-ai-chatbots-tiktok",
     "published": "Sun, 14 Jun 2026 09:21:12 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:09.105430"
+    "fetched_at": "2026-06-15T05:39:38.651707"
   },
   {
     "id": "28225f5060fe",
@@ -687,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
     "published": "Sun, 14 Jun 2026 07:33:34 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:09.263128"
+    "fetched_at": "2026-06-15T05:39:38.744233"
   },
   {
     "id": "56105a23ec36",
@@ -697,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-meet-japan-s-takaichi-as-fighter-jet-funding-sputters",
     "published": "Sun, 14 Jun 2026 05:02:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:09.346039"
+    "fetched_at": "2026-06-15T05:39:38.902772"
   },
   {
     "id": "f3ca4895abd1",
@@ -707,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
     "published": "Sat, 13 Jun 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:09.997625"
+    "fetched_at": "2026-06-15T05:39:38.996354"
   },
   {
     "id": "ea76ead43483",
@@ -717,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-13/why-the-us-is-investing-in-quantum-computing-video",
     "published": "Sat, 13 Jun 2026 14:05:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:10.085592"
+    "fetched_at": "2026-06-15T05:39:39.095645"
   },
   {
     "id": "599cb7763a09",
@@ -727,27 +797,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
     "published": "Sat, 13 Jun 2026 12:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:10.188247"
-  },
-  {
-    "id": "1c779e8671e2",
-    "title": "OpenAI Probed by Coalition of State Attorneys General",
-    "title_cn": "OpenAI 受到州总检察长联盟的调查",
-    "summary": "OpenAI is under investigation by a coalition of state attorneys general who requested information from the artificial intelligence company on a wide range of topics.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-    "published": "Sat, 13 Jun 2026 00:27:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:10.287948"
+    "fetched_at": "2026-06-15T05:39:39.166745"
   },
   {
     "id": "7e1e54d07058",
-    "title": "US and Iran Agree to Deal Halting War That Shook Middle East",
-    "title_cn": "美国和伊朗同意达成停止震惊中东的战争协议",
-    "summary": "The US and Iran said they reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for 60 days of negotiations on the fate of the country’s nuclear program.",
+    "title": "US and Iran Agree to Halt War, Restart Middle East Oil Shipments",
+    "title_cn": "美国和伊朗同意停止战争，重启中东石油运输",
+    "summary": "The US and Iran said they reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for 60 days of negotiations on the fate of Tehran’s nuclear program.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/pakistan-says-us-and-iran-have-reached-a-peace-deal",
     "published": "Sun, 14 Jun 2026 21:26:14 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:11.226254"
+    "fetched_at": "2026-06-15T05:39:39.932082"
+  },
+  {
+    "id": "7e05efc0c28f",
+    "title": "Trump Leaves the Hard Part for Later in Long-Awaited Iran Deal",
+    "title_cn": "特朗普将期待已久的伊朗协议中的困难部分留到稍后处理",
+    "summary": "The US and Iran needed more than two months of fitful, strained negotiations to agree on a deal to halt their fighting and reopen the Strait of Hormuz. Now comes the hard part.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/trump-leaves-the-hard-part-for-later-in-long-awaited-iran-deal",
+    "published": "Mon, 15 Jun 2026 01:58:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:40.026041"
+  },
+  {
+    "id": "1ad108c1c9ea",
+    "title": "Trump Hosts UFC Fights at White House for 80th Birthday",
+    "title_cn": "特朗普在白宫举办 UFC 比赛庆祝 80 岁生日",
+    "summary": "Donald Trump will head to France for what will likely be contentious discussions with world leaders this week, but first he celebrated his 80th birthday by watching a sport that’s more brutal and bloody than politics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-to-enjoy-brutal-ufc-fighting-for-80th-birthday-celebration",
+    "published": "Sun, 14 Jun 2026 15:32:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:40.115301"
   },
   {
     "id": "270b6550dbea",
@@ -757,17 +837,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/kyiv-comes-under-russian-attack-hours-after-putin-trump-call",
     "published": "Sun, 14 Jun 2026 23:47:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:11.696752"
+    "fetched_at": "2026-06-15T05:39:40.214350"
   },
   {
     "id": "4176212de2f9",
-    "title": "US and Iran Reach Agreement to Reopen Strait of Hormuz",
-    "title_cn": "美国和伊朗达成协议重新开放霍尔木兹海峡",
+    "title": "US and Iran Reach Deal to Halt the War, Reopen Hormuz",
+    "title_cn": "美国和伊朗达成协议停止战争并重新开放霍尔木兹海峡",
     "summary": "An F-35B Lighting II takes off from the flight deck of America-class amphibious assault ship USS Tripoli on May 13, 2026.",
     "link": "https://www.bloomberg.com/news/live-blog/2026-06-14/us-and-iran-reach-peace-deal",
     "published": "Sun, 14 Jun 2026 22:21:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:11.988659"
+    "fetched_at": "2026-06-15T05:39:40.311114"
   },
   {
     "id": "b4bdcda436cb",
@@ -777,7 +857,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/iran-s-deputy-foreign-minister-confirms-deal-reached-with-us",
     "published": "Sun, 14 Jun 2026 22:03:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.087025"
+    "fetched_at": "2026-06-15T05:39:40.403090"
   },
   {
     "id": "9593b9750068",
@@ -787,17 +867,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-confirm-social-media-ban-for-uk-teens-ahead-of-g7",
     "published": "Sun, 14 Jun 2026 21:42:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.185248"
-  },
-  {
-    "id": "1ad108c1c9ea",
-    "title": "Trump Hosts Brutal UFC Fights at White House for 80th Birthday",
-    "title_cn": "特朗普在白宫举办残酷的 UFC 比赛庆祝 80 岁生日",
-    "summary": "Donald Trump will head to France for what will likely be contentious discussions with world leaders this week, but first he’ll celebrate his 80th birthday by watching a sport that’s more brutal and bloody than politics.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-to-enjoy-brutal-ufc-fighting-for-80th-birthday-celebration",
-    "published": "Sun, 14 Jun 2026 15:32:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.406228"
+    "fetched_at": "2026-06-15T05:39:40.503168"
   },
   {
     "id": "eaf1455a08ff",
@@ -807,7 +877,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/takaichi-calls-uk-a-near-alliance-despite-fighter-jet-program-uncertainty",
     "published": "Sun, 14 Jun 2026 12:31:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.663114"
+    "fetched_at": "2026-06-15T05:39:40.585223"
   },
   {
     "id": "24af1d2d8932",
@@ -817,7 +887,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-ties-spy-powers-extension-to-controversial-voter-id-bill",
     "published": "Sun, 14 Jun 2026 19:44:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.747375"
+    "fetched_at": "2026-06-15T05:39:40.679451"
   },
   {
     "id": "1063693f73c0",
@@ -827,7 +897,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/iran-pushes-differing-versions-of-deal-as-us-sticks-to-timeline",
     "published": "Sun, 14 Jun 2026 17:28:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.830203"
+    "fetched_at": "2026-06-15T05:39:40.775562"
   },
   {
     "id": "338982c5514d",
@@ -837,7 +907,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/senator-mcconnell-hospitalized-for-second-time-this-year",
     "published": "Sun, 14 Jun 2026 18:34:47 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:12.939604"
+    "fetched_at": "2026-06-15T05:39:40.873346"
   },
   {
     "id": "836bde096f04",
@@ -847,7 +917,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-speaks-with-putin-zelenskyy-even-as-peace-talks-on-hold",
     "published": "Sun, 14 Jun 2026 16:40:10 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.137273"
+    "fetched_at": "2026-06-15T05:39:41.083556"
+  },
+  {
+    "id": "80fbd7d414c8",
+    "title": "Switzerland Rejects Proposal to Cap Population at 10 Million",
+    "title_cn": "瑞士拒绝人口上限为 1000 万的提议",
+    "summary": "Switzerland rejected a proposal to cap its population at 10 million people, as warnings about economic damage if the radical measure was introduced outweighed concerns about immigration.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-14/swiss-population-cap-vote-too-close-to-call-projection-shows",
+    "published": "Sun, 14 Jun 2026 10:01:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-15T05:39:41.176610"
   },
   {
     "id": "253d9d2d0c00",
@@ -857,7 +937,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-tells-israel-to-stop-lebanon-strikes-as-iran-deal-at-risk",
     "published": "Sun, 14 Jun 2026 14:52:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.317713"
+    "fetched_at": "2026-06-15T05:39:41.262247"
   },
   {
     "id": "8a99e52c2162",
@@ -867,7 +947,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-14/nyc-mayor-mamdani-on-knicks-first-nba-title-in-53-years-video",
     "published": "Sun, 14 Jun 2026 15:45:58 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.410787"
+    "fetched_at": "2026-06-15T05:39:41.363134"
   },
   {
     "id": "041826cfb390",
@@ -877,7 +957,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/south-africa-steps-up-migrant-arrests-as-violent-protests-flare",
     "published": "Sun, 14 Jun 2026 14:22:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.507702"
+    "fetched_at": "2026-06-15T05:39:41.488589"
   },
   {
     "id": "6c13f93a8499",
@@ -887,7 +967,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/trump-eyes-sunday-iran-deal-but-tehran-says-still-reviewing-text",
     "published": "Sun, 14 Jun 2026 11:46:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.605047"
+    "fetched_at": "2026-06-15T05:39:41.629147"
   },
   {
     "id": "c71b42b041b0",
@@ -897,7 +977,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/why-mexico-s-new-election-law-worries-democracy-advocates",
     "published": "Sun, 14 Jun 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.701589"
+    "fetched_at": "2026-06-15T05:39:41.764645"
   },
   {
     "id": "cd00940e6bc4",
@@ -907,7 +987,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/italy-s-far-right-group-futuro-nazionale-becomes-party-in-fresh-threat-to-meloni",
     "published": "Sun, 14 Jun 2026 12:46:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.824459"
+    "fetched_at": "2026-06-15T05:39:41.849890"
   },
   {
     "id": "46f2de41e7cd",
@@ -917,7 +997,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/breakaway-somalia-region-s-president-makes-first-israel-visit",
     "published": "Sun, 14 Jun 2026 12:35:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:13.900806"
+    "fetched_at": "2026-06-15T05:39:41.933352"
   },
   {
     "id": "956e72ecb7f0",
@@ -927,7 +1007,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/israel-bombs-beirut-citing-hezbollah-drones-as-us-iran-near-deal",
     "published": "Sun, 14 Jun 2026 11:40:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:14.512575"
+    "fetched_at": "2026-06-15T05:39:42.019559"
   },
   {
     "id": "583b54428663",
@@ -937,7 +1017,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/streeting-pledges-global-talent-drive-north-sea-investment-plan",
     "published": "Sun, 14 Jun 2026 10:38:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:14.606175"
+    "fetched_at": "2026-06-15T05:39:42.124959"
   },
   {
     "id": "ca2f298f9df3",
@@ -947,7 +1027,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/ukraine-targets-oil-storage-facility-deep-inside-russian-territory",
     "published": "Sun, 14 Jun 2026 09:32:11 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:14.712981"
+    "fetched_at": "2026-06-15T05:39:42.203939"
   },
   {
     "id": "6a867d0e6632",
@@ -957,7 +1037,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/uk-royal-marines-board-russian-shadow-fleet-oil-tanker-in-english-channel",
     "published": "Sun, 14 Jun 2026 08:40:11 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:15.211949"
+    "fetched_at": "2026-06-15T05:39:42.463735"
   },
   {
     "id": "fd80b795f0dd",
@@ -967,7 +1047,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-13/trump-says-deal-with-iran-to-reopen-hormuz-to-be-signed-sunday",
     "published": "Sat, 13 Jun 2026 16:51:32 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:15.315202"
+    "fetched_at": "2026-06-15T05:39:42.547407"
   },
   {
     "id": "88cdb36bdd28",
@@ -977,26 +1057,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-14/romanian-president-swaps-premier-nominees-to-try-to-form-cabinet",
     "published": "Sun, 14 Jun 2026 06:21:23 GMT",
     "source": "International",
-    "fetched_at": "2026-06-15T00:18:15.419908"
-  },
-  {
-    "id": "685ab03c33ec",
-    "title": "Diplomacy Is No Longer a Safe Space for UK’s Wounded Premier",
-    "title_cn": "对于受伤的英国首相来说，外交不再是安全的空间",
-    "summary": "Keir Starmer’s trip to the Group of Seven summit has looked for weeks like it would at best be one last hurrah on the world stage for a leading advocate for European security dogged by political troubles at home.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-14/diplomacy-is-no-longer-a-safe-space-for-uk-s-wounded-premier",
-    "published": "Sun, 14 Jun 2026 06:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:15.719922"
-  },
-  {
-    "id": "e71cfe7e231d",
-    "title": "Trump to Meet Mideast Partners on Sidelines of G7 in France",
-    "title_cn": "特朗普将在法国七国集团峰会期间会见中东合作伙伴",
-    "summary": "President Donald Trump will meet with US partners in the Middle East at the Group of Seven leaders’ summit in France, underscoring the outsized role the war in Iran continues to play as European allies grapple with the global economic fallout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-13/trump-to-meet-with-mideast-partners-on-sidelines-of-g7-in-france",
-    "published": "Sat, 13 Jun 2026 15:30:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-15T00:18:15.820624"
+    "fetched_at": "2026-06-15T05:39:42.688571"
   }
 ]
