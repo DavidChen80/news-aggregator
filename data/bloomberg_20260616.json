@@ -1,12 +1,219 @@
 [
   {
+    "id": "6c85adb4c845",
+    "title": "US and Iran Prepare to Sign Deal, Both Claim Victory",
+    "summary": "Get Caught Up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/leaders-meeting-in-evian-for-g7-focused-on-iran-deal-hormuz-opening",
+    "published": "Tue, 16 Jun 2026 16:06:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806415"
+  },
+  {
+    "id": "dc5fc4fc6a0a",
+    "title": "L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO",
+    "summary": "L3Harris Technologies Inc., one of the largest US defense contractors, has selected banks to lead the initial public offering for Axyv, its missile unit, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/l3harris-missile-arm-axyv-picks-jpmorgan-morgan-stanley-for-ipo",
+    "published": "Tue, 16 Jun 2026 15:41:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806430"
+  },
+  {
+    "id": "939d4185249c",
+    "title": "US and Iran Near Deal Signing, FBI Stops UFC Attack Plot, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-and-iran-near-deal-signing-fbi-stops-ufc-attack-plot-more",
+    "published": "Tue, 16 Jun 2026 15:32:35 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806436"
+  },
+  {
+    "id": "869435996579",
+    "title": "Italian Coffee Machine Maker Risks Falling Behind in Sector’s ‘Fourth Wave’",
+    "summary": "Fitch downgraded Evoca’s credit rating after its 2025 revenue dropped 16%",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/coffee-machine-maker-evoca-risks-falling-behind-in-sector-s-fourth-wave",
+    "published": "Tue, 16 Jun 2026 15:30:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806442"
+  },
+  {
+    "id": "747f38c8c504",
+    "title": "Stock Movers: SpaceX, Rackspace Technology, Netflix (Podcast)",
+    "summary": "Source: Bloomberg, 2:47",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-spacex-rackspace-technology-netflix-podcast",
+    "published": "Tue, 16 Jun 2026 15:15:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806447"
+  },
+  {
+    "id": "8f042953d9a3",
+    "title": "Bloomberg Surveillance TV: June 16th, 2026 (Podcast)",
+    "summary": "Source: Bloomberg, 21:32",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-surveillance-tv-june-16th-2026-podcast",
+    "published": "Tue, 16 Jun 2026 15:06:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806453"
+  },
+  {
+    "id": "62b3224d3567",
+    "title": "Bloomberg Surveillance: US Prepares for Iran Deal (Podcast)",
+    "summary": "Source: Bloomberg, 30:10",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-surveillance-us-prepares-for-iran-deal-podcast",
+    "published": "Tue, 16 Jun 2026 14:49:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806458"
+  },
+  {
+    "id": "5ef529035303",
+    "title": "The Deal: The Knicks and NYC’s Economy (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/the-deal-the-knicks-and-nyc-s-economy-podcast",
+    "published": "Tue, 16 Jun 2026 14:44:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806467"
+  },
+  {
+    "id": "66517b58fd82",
+    "title": "Stock Movers: Dave & Buster's, Western Digital, SpaceX (Podcast)",
+    "summary": "Source: Bloomberg, 3:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-dave-buster-s-western-digital-spacex-podcast",
+    "published": "Tue, 16 Jun 2026 14:31:44 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806473"
+  },
+  {
+    "id": "87ab376e6fd4",
+    "title": "Trump Preps for Deal Signing, SpaceX Rivals Amazon's Value, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-preps-for-deal-signing-spacex-rivals-amazon-s-value-more",
+    "published": "Tue, 16 Jun 2026 14:31:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806485"
+  },
+  {
+    "id": "3c43881e3c8d",
+    "title": "Missile Defense, and Sales, Are All About Timing",
+    "summary": "European arms consortium Eurosam just happens to be rolling out its advanced SAMP/T NG system at exactly the right moment: the continent and the US are feuding, and Patriot missiles are scarce.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/missile-defense-and-sales-are-all-about-timing",
+    "published": "Tue, 16 Jun 2026 14:08:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806490"
+  },
+  {
+    "id": "cfe72dc54311",
+    "title": "Stock Movers: Yum! Brands, Dave & Buster's, Robinhood (Podcast)",
+    "summary": "Source: Bloomberg, 3:25",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-yum-brands-dave-buster-s-robinhood-podcast",
+    "published": "Tue, 16 Jun 2026 13:43:58 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806495"
+  },
+  {
+    "id": "0aff7e2e10e8",
+    "title": "Stocks Open Mixed, Trump Touts Iran Deal, SpaceX Aims at Amazon",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/stocks-open-mixed-trump-touts-iran-deal-spacex-aims-at-amazon",
+    "published": "Tue, 16 Jun 2026 13:39:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806501"
+  },
+  {
+    "id": "2cf06b6f561e",
+    "title": "How Kevin Warsh May Impact Rates Markets: Macro Man Podcast",
+    "summary": "Source: Bloomberg, 6:15",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/how-kevin-warsh-may-impact-rates-markets-macro-man-podcast",
+    "published": "Tue, 16 Jun 2026 13:30:28 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806505"
+  },
+  {
+    "id": "f4e63093858b",
+    "title": "SpaceX Investors at US Brokers Got at Least One IPO Share",
+    "summary": "Customers at some of the largest retail brokerage firms in the US each received at least a single share in SpaceX’s $86.2 billion IPO, underscoring how the offering was designed to give individual investors a sizable role.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-investors-at-us-retail-brokers-got-at-least-one-ipo-share",
+    "published": "Mon, 15 Jun 2026 23:52:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806510"
+  },
+  {
+    "id": "83a712db0374",
+    "title": "Foreign Arms Sales Inflaming an African Civil War",
+    "summary": "Global efforts are building to expose the networks accused of fueling what’s been dubbed the world’s worst humanitarian crisis.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/foreign-arms-sales-fueling-civil-war-next-africa",
+    "published": "Tue, 16 Jun 2026 13:02:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806515"
+  },
+  {
+    "id": "04191399189b",
+    "title": "EU Lawmakers Back US Trade Deal Despite Trump Threat to French Wine",
+    "summary": "Member states are expected to rubber-stamp the agreement this month",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/eu-lawmakers-back-eu-us-trade-deal-despite-trump-threat-to-french-wine",
+    "published": "Tue, 16 Jun 2026 13:00:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806520"
+  },
+  {
+    "id": "b28f3fce4508",
+    "title": "Inside Active: Morgan Stanley’s Rogers on Consistent Growth",
+    "summary": "Growth investing has faced no shortage of challenges over the past decade, from shifting interest-rate regimes and benchmark concentration, to the rise of AI and unprecedented flows into passive strategies. In this episode of Inside Active, host David Cohne, mutual fund and active management analyst at Bloomberg Intelligence, speaks with Doug Rogers, managing director at Morgan Stanley and portfolio manager on funds including the Eaton Vance Growth Fund (ELCIX) and Eaton Vance Focused Growth Opp",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/inside-active-morgan-stanley-s-rogers-on-consistent-growth",
+    "published": "Tue, 16 Jun 2026 13:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806525"
+  },
+  {
+    "id": "1bb783b6c7bf",
+    "title": "Trump Talks Deal in France, SpaceX Rises for Third Day, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-talks-deal-in-france-spacex-rises-for-third-day-more",
+    "published": "Tue, 16 Jun 2026 12:58:04 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806530"
+  },
+  {
+    "id": "594dca22d85a",
+    "title": "Olympique Lyonnais Spends a Second Summer in Survival Mode",
+    "summary": "The French football club again needs to convince regulators it is financially secure.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/olympique-lyonnais-spends-a-second-summer-in-survival-mode",
+    "published": "Tue, 16 Jun 2026 12:44:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806535"
+  },
+  {
+    "id": "ce82ffc20eff",
+    "title": "Vanguards of Healthcare: Bristol Myers Maps Oncology’s Next Act",
+    "summary": "“Neuroscience is what oncology was 20 years ago,” says Cristian Massacesi, Chief Medical Officer and Head of Development at Bristol Myers Squibb. Massacesi joins Bloomberg Intelligence pharmaceuticals analyst Sam Fazeli to discuss Bristol Myers’ push into neuroscience, including Alzheimer’s therapies aimed at tau, a protein tied to brain tangles in the disease. They also explore the company’s oncology pipeline, including PD-L1/VEGF bispecifics, next-generation antibody-drug conjugates and advanc",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/vanguards-of-healthcare-bristol-myers-maps-oncology-s-next-act",
+    "published": "Tue, 16 Jun 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806539"
+  },
+  {
+    "id": "a6e52488b018",
+    "title": "Talking Transports: Autumn Transport’s Focus on Bulk Freight",
+    "summary": "Many trucking companies have endured a prolonged freight downturn, but specialized bulk carriers are experiencing a different cycle. In this episode of the Talking Transports podcast, Autumn Transport CEO Julie Andrich joins Bloomberg Intelligence senior transportation and logistics analyst Lee Klaskow to discuss how the company’s focus on food, feed, agricultural and industrial bulk freight has insulated it from much of the volatility affecting traditional truckload markets. Andrich explains ho",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/talking-transports-autumn-transport-s-focus-on-bulk-freight",
+    "published": "Tue, 16 Jun 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806544"
+  },
+  {
+    "id": "9cfa7a6dac9d",
+    "title": "Trump Touts Deal at G7, SpaceX's $60 Billion Takeover, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-touts-deal-at-g7-spacex-s-60-billion-takeover-more",
+    "published": "Tue, 16 Jun 2026 11:41:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:03.806549"
+  },
+  {
     "id": "5f47179e2e53",
     "title": "India’s Zee Seeks Shareholder Trust, Former Glory With Fundraise",
     "summary": "As rivals splurge on content and distribution, Zee will need to keep pace.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/india-s-zee-seeks-shareholder-trust-with-240-million-fundraise",
     "published": "Tue, 16 Jun 2026 11:35:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227307"
+    "fetched_at": "2026-06-16T16:14:03.806554"
   },
   {
     "id": "e6c305043434",
@@ -15,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/trump-at-odds-with-allies-over-details-of-hormuz-deal",
     "published": "Tue, 16 Jun 2026 11:18:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227322"
+    "fetched_at": "2026-06-16T16:14:03.806559"
   },
   {
     "id": "c12d75238272",
@@ -24,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-spacex-novo-nordisk-dave-busters-podcast",
     "published": "Tue, 16 Jun 2026 11:09:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227328"
+    "fetched_at": "2026-06-16T16:14:03.806564"
   },
   {
     "id": "334702d276e0",
@@ -33,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-and-iran-prepare-for-deal-signing-spacex-soars-more",
     "published": "Tue, 16 Jun 2026 10:22:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227334"
+    "fetched_at": "2026-06-16T16:14:03.806569"
   },
   {
     "id": "d14f4689e76b",
@@ -42,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-daybreak-us-at-odds-with-allies-podcast",
     "published": "Tue, 16 Jun 2026 09:40:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227340"
+    "fetched_at": "2026-06-16T16:14:03.806574"
   },
   {
     "id": "0eed405b2df7",
@@ -51,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/china-s-retail-sales-fall-for-first-time-since-covid-in-new-worry-for-economy",
     "published": "Tue, 16 Jun 2026 09:35:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227345"
+    "fetched_at": "2026-06-16T16:14:03.806579"
   },
   {
     "id": "70003e97bf7b",
@@ -60,483 +267,267 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-rathbones-stmicro-porsche-podcast",
     "published": "Tue, 16 Jun 2026 09:32:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227351"
+    "fetched_at": "2026-06-16T16:14:03.806586"
   },
   {
-    "id": "197c5503694e",
-    "title": "US at Odds With Allies on Hormuz, SpaceX Stock Jumps Again, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-at-odds-with-allies-on-hormuz-spacex-stock-jumps-again-more",
-    "published": "Tue, 16 Jun 2026 09:29:48 GMT",
+    "id": "80e08f3f7718",
+    "title": "Oil Falls to Three-Month Low as US-Iran Deal Set to Add Supply",
+    "summary": "Oil headed for its longest run of declines this year as the US-Iran deal to reopen the Strait of Hormuz boosted expectations for a revival in supply, with leading Wall Street banks reducing their price forecasts and key market gauges tumbling.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/latest-oil-market-news-and-analysis-for-june-16",
+    "published": "Mon, 15 Jun 2026 22:01:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227360"
+    "fetched_at": "2026-06-16T16:14:04.106178"
   },
   {
-    "id": "97d94cc7fb65",
-    "title": "US & Allies Hormuz Split, Fresh Russia Sanctions, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-allies-hormuz-split-fresh-russia-sanctions-more",
-    "published": "Tue, 16 Jun 2026 08:45:54 GMT",
+    "id": "89dd3ac40af3",
+    "title": "Stanford's Wallace Says US Recession Is Not a Certainty",
+    "summary": "Stanford Management Company CEO Rob Wallace discusses his views on the US economy, and the challenges of managing a $50 billion portfolio for Stanford University's endowment. He joins David Rubenstein on this week's episode of Bloomberg Wealth. The interview was recorded April 9 in Palo Alto, CA.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/stanford-s-wallace-says-us-recession-is-not-a-certainty",
+    "published": "Tue, 16 Jun 2026 16:04:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227367"
+    "fetched_at": "2026-06-16T16:14:04.106193"
   },
   {
-    "id": "2ee7216ff0ab",
-    "title": "Stock Movers: Unicredit, Rathbones, Rheinmetall (Podcast)",
-    "summary": "Source: Bloomberg, 4:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/stock-movers-unicredit-rathbones-rheinmetall-podcast",
-    "published": "Tue, 16 Jun 2026 08:15:00 GMT",
+    "id": "90c53f314b56",
+    "title": "Binance Prepares for EU Exit With Local License in Limbo",
+    "summary": "Binance Holdings Ltd. is preparing to stop providing its services in the European Union, as a deadline to receive a license to operate in the bloc draws near and the crypto exchange has yet to receive approval from Greece’s financial regulator.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/binance-prepares-for-eu-exit-with-local-license-in-limbo",
+    "published": "Tue, 16 Jun 2026 14:17:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227398"
+    "fetched_at": "2026-06-16T16:14:04.106198"
   },
   {
-    "id": "395a79e67b85",
-    "title": "US at Odds With Allies on Hormuz, China Economy Stalls, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-at-odds-with-allies-on-hormuz-china-economy-stalls-more",
-    "published": "Tue, 16 Jun 2026 07:42:38 GMT",
+    "id": "fce189cfdffd",
+    "title": "S&amp;P 500 Slips as Semiconductor Stocks Take a Breather; SpaceX Extends Gains",
+    "summary": "US stocks fell Tuesday, led lower by declines for technology companies after recent big gains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/us-futures-waver-as-oil-drops-on-iran-hope-spacex-extends-gains",
+    "published": "Tue, 16 Jun 2026 11:50:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227405"
+    "fetched_at": "2026-06-16T16:14:04.106204"
   },
   {
-    "id": "e4a4dd6ffeaf",
-    "title": "Thames Water Nears Nationalisation As Minister Warns Rescue Deal Not Enough",
-    "summary": "Thames Water nears temporary nationalisation; Rathbones pauses some onboarding",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/thames-water-nears-temporary-nationalisation-as-uk-minister-doubts-rescue-deal",
-    "published": "Tue, 16 Jun 2026 07:20:28 GMT",
+    "id": "3071c3668df3",
+    "title": "JPMorgan Markets Debt for Long Lake’s $6.3 Billion Amex GBT Deal",
+    "summary": "JP Morgan Chase &amp; Co. has begun marketing a debt package to help fund Long Lake Management Inc’s. $6.3 billion acquisition of Global Business Travel Group Inc., the travel platform spun out of American Express Co., adding to a recent pickup in leveraged-buyout financings coming to market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/jpmorgan-markets-debt-for-long-lake-s-6-3-billion-amex-gbt-deal",
+    "published": "Tue, 16 Jun 2026 15:45:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227410"
-  },
-  {
-    "id": "10bcea5b3b17",
-    "title": "India’s Pharma Billionaire Eyes Crown of World’s Top Insulin Supplier",
-    "summary": "Indian drugmaker Biocon Ltd. is aiming to become the world’s top supplier of insulin in the coming years, its co-founder Kiran Mazumdar-Shaw said, by capturing growing demand for the critical drug while Big Pharma shifts its focus to other medicines.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/pharma-billionaire-eyes-crown-of-world-s-top-insulin-supplier",
-    "published": "Tue, 16 Jun 2026 07:11:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227416"
-  },
-  {
-    "id": "35d8fb989e7b",
-    "title": "US & Allies Split on Hormuz, BOJ Rate Hike, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/us-allies-split-on-hormuz-boj-rate-hike-more",
-    "published": "Tue, 16 Jun 2026 06:53:56 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227421"
-  },
-  {
-    "id": "95ae84bd1917",
-    "title": "The US Is at Odds With European Allies Over the State of the Iran War",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/the-us-is-at-odds-with-european-allies-over-the-state-of-the-iran-war",
-    "published": "Tue, 16 Jun 2026 06:12:20 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227427"
-  },
-  {
-    "id": "53edce5ad9f7",
-    "title": "Bloomberg Daybreak Europe: Hormuz Reality Check (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-daybreak-europe-hormuz-reality-check-podcast",
-    "published": "Tue, 16 Jun 2026 05:51:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227432"
-  },
-  {
-    "id": "e73933773a5a",
-    "title": "Europe’s Hormuz Doubts, Fatal B-52 Bomber Crash",
-    "summary": "Source: Bloomberg, 7:58",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/europe-s-hormuz-doubts-fatal-b-52-bomber-crash",
-    "published": "Tue, 16 Jun 2026 05:48:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227437"
-  },
-  {
-    "id": "6e22639e3881",
-    "title": "Bloomberg Law: Weaponization Fund & SBF's Appeal Fails (Podcast)",
-    "summary": "Source: Bloomberg, 28:21",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-law-weaponization-fund-sbf-s-appeal-fails-podcast",
-    "published": "Tue, 16 Jun 2026 03:25:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227442"
-  },
-  {
-    "id": "4d4cbf423e16",
-    "title": "Trump: Hormuz to Open Friday, B-52 Bomber Crash, More",
-    "summary": "Source: Bloomberg, 6:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-hormuz-to-open-friday-b-52-bomber-crash-more",
-    "published": "Tue, 16 Jun 2026 03:23:23 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227447"
-  },
-  {
-    "id": "d6e37a92a63c",
-    "title": "China Home Prices Fall at Faster Pace in Setback to Revival",
-    "summary": "China’s home prices fell at a quicker pace in May, halting green shoots seen at the start of the year that had raised hopes of a recovery.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/china-home-prices-fall-at-faster-pace-in-setback-to-revival",
-    "published": "Tue, 16 Jun 2026 01:37:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227452"
-  },
-  {
-    "id": "3954d68c2068",
-    "title": "Global Funds Pile Into India Bonds as Oil Cools",
-    "summary": "Lower crude prices improves inflation outlook and eases pressure on current account deficit.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/foreign-inflows-into-india-bonds-at-15-month-high-as-oil-cools-on-peace-deal",
-    "published": "Tue, 16 Jun 2026 02:47:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227457"
-  },
-  {
-    "id": "08b4c87c3b5e",
-    "title": "Trump Hormuz Optimism, Eight Dead in B-52 Bomber Crash, More",
-    "summary": "Source: Bloomberg, 6:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-hormuz-optimism-eight-dead-in-b-52-bomber-crash-more",
-    "published": "Tue, 16 Jun 2026 02:34:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227462"
-  },
-  {
-    "id": "cf6a12d50901",
-    "title": "Bloomberg Daybreak Asia: US-Iran Deal Reaction (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/bloomberg-daybreak-asia-us-iran-deal-reaction-podcast",
-    "published": "Tue, 16 Jun 2026 02:20:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227471"
-  },
-  {
-    "id": "6e85ffeb0b70",
-    "title": "Trump Optimistic on Hormuz Reopening, B-52 Crash in California",
-    "summary": "Source: Bloomberg, 6:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-optimistic-on-hormuz-reopening-b-52-crash-in-california",
-    "published": "Tue, 16 Jun 2026 01:47:35 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227476"
-  },
-  {
-    "id": "1ad0cde17241",
-    "title": "Trump: Hormuz to Open Friday, B-52 Crash at CA Base, More",
-    "summary": "Source: Bloomberg, 6:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-16/trump-hormuz-to-open-friday-b-52-crash-at-ca-base-more",
-    "published": "Tue, 16 Jun 2026 00:49:17 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227480"
-  },
-  {
-    "id": "15a0f38b6e71",
-    "title": "Trump Says Hormuz to Reopen, B-52 Bomber Crash, More",
-    "summary": "Source: Bloomberg, 6:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-15/trump-says-hormuz-to-reopen-b-52-bomber-crash-more",
-    "published": "Mon, 15 Jun 2026 23:58:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227485"
-  },
-  {
-    "id": "f4e63093858b",
-    "title": "SpaceX Investors at US Retail Brokers Got at Least One IPO Share",
-    "summary": "Customers at some of the largest retail brokerage firms in the US each received at least a single share in SpaceX’s $86.2 billion IPO, underscoring how the offering was designed to give individual investors a sizable role.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-15/spacex-investors-at-us-retail-brokers-got-at-least-one-ipo-share",
-    "published": "Mon, 15 Jun 2026 23:52:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227490"
-  },
-  {
-    "id": "d0486be7bda9",
-    "title": "Trump Hails Iran Deal, B-52 Bomber Crashes in California, More",
-    "summary": "Source: Bloomberg, 6:29",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-15/trump-hails-iran-deal-b-52-bomber-crashes-in-california-more",
-    "published": "Mon, 15 Jun 2026 23:07:28 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227495"
-  },
-  {
-    "id": "4eb30f33a3d2",
-    "title": "Gina Rinehart’s SpaceX Investment, KPMG Pauses Government Bids",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-15/gina-rinehart-buys-spacex-kpmg-to-pause-government-contract-bids",
-    "published": "Mon, 15 Jun 2026 22:47:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227500"
-  },
-  {
-    "id": "8afcf640de96",
-    "title": "Trump Insists Hormuz Will Open Friday, B-52 Bomber Crash, More",
-    "summary": "Source: Bloomberg, 6:19",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-15/trump-insists-hormuz-will-open-friday-b-52-bomber-crash-more",
-    "published": "Mon, 15 Jun 2026 22:17:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.227505"
+    "fetched_at": "2026-06-16T16:14:04.106210"
   },
   {
     "id": "05e4766a84d2",
     "title": "SpaceX Set to Overtake Amazon in Value as It Soars for Third Day",
-    "summary": "SpaceX shares surged in premarket trading, putting the firm on track to overtake Amazon.com Inc. as the fifth largest publicly traded company in the world just days after its blockbuster debut.",
+    "summary": "SpaceX jumped for a third straight day on Tuesday, putting it on track to overtake Amazon.com Inc. in value and briefly making it the world’s fourth largest stock ahead of Microsoft Corp.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-spcx-stock-set-for-more-than-50-jump-in-just-three-sessions",
     "published": "Tue, 16 Jun 2026 08:09:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325282"
+    "fetched_at": "2026-06-16T16:14:04.106220"
+  },
+  {
+    "id": "f91be5dd48e9",
+    "title": "A Billion Dollars of Leveraged SpaceX Bets Hit ETFs in One Day",
+    "summary": "Leveraged bets on SpaceX generated more than $1 billion of trading volume on their first day, as investors rushed to amplify wagers on the biggest IPO in history, underscoring the extraordinary retail appetite surrounding Elon Musk’s newest public company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/a-billion-dollars-of-leveraged-spacex-bets-hit-etfs-in-one-day",
+    "published": "Tue, 16 Jun 2026 15:38:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-06-16T16:14:04.106225"
   },
   {
     "id": "ba64ca2f4c67",
-    "title": "Stocks Drift After Three-Day Rally; SpaceX Surges: Markets Wrap",
-    "summary": "US stocks paused after a three-day rally with investors shifting their focus to a raft of central bank decisions this week. SpaceX continued to surge, on track for a more than 50% jump since going public.",
+    "title": "S&amp;P 500 Rally Falters Before Fed as SpaceX Surges: Markets Wrap",
+    "summary": "A rally that sent stocks to the brink of all-time highs faltered on the eve of the first Federal Reserve rate decision under Kevin Warsh, with a another slide in oil prices driving bond yields lower.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-15/oil-holds-losses-after-iran-deal-spurs-stock-rally-markets-wrap",
     "published": "Mon, 15 Jun 2026 22:06:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325293"
+    "fetched_at": "2026-06-16T16:14:04.106230"
   },
   {
-    "id": "ce7044b1258f",
-    "title": "Nike Can’t Afford to Lose This World Cup",
-    "summary": "Nike has the star power and home advantage. But with its turnaround moving slowly, the World Cup may matter more to Nike than Adidas, explains Bloomberg Opinion columnist Andrea Felsted. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-16/opinion-nike-can-t-afford-to-lose-this-world-cup-video",
-    "published": "Tue, 16 Jun 2026 11:19:57 GMT",
+    "id": "7335dfd340b0",
+    "title": "World Cup Exposes Growing Global Prediction Market Rift",
+    "summary": "This year’s World Cup is the first since prediction markets like Kalshi and Polymarket exploded to popularity as a new way to bet on sports.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/world-cup-exposes-growing-global-rift-over-prediction-markets",
+    "published": "Tue, 16 Jun 2026 13:25:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325299"
+    "fetched_at": "2026-06-16T16:14:04.106235"
   },
   {
-    "id": "12420d9d6fc0",
-    "title": "Hormuz Reopening Seen Unleashing Pent-Up Gulf Grain Demand",
-    "summary": "An interim US-Iran deal to end their months-long war and potentially fully reopen the Strait of Hormuz is likely to trigger a rush of grain imports to nations in the Persian Gulf after months of reliance on longer, less efficient routes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/hormuz-reopening-seen-unleashing-pent-up-gulf-grain-demand",
-    "published": "Tue, 16 Jun 2026 11:12:16 GMT",
+    "id": "8ae01eb589dc",
+    "title": "Debt Chiefs Tout Benefits of Hedge Fund Growth in Bond Markets",
+    "summary": "Some sovereign debt chiefs are warming up to the growing footprint of hedge funds in government bond markets, casting these investors as potentially beneficial participants rather than a source of risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/debt-chiefs-tout-benefits-of-hedge-fund-growth-in-bond-markets",
+    "published": "Tue, 16 Jun 2026 15:18:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325305"
+    "fetched_at": "2026-06-16T16:14:04.106240"
   },
   {
-    "id": "361f788a2d60",
-    "title": "Bondholders Forced to Reckon With $4 Billion Tax Threat in Bitter Credit Feud",
-    "summary": "Patrick Drahi was running out of options to save his debt-ridden telecom empire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/bondholders-forced-to-reckon-with-4-billion-tax-threat-in-bitter-credit-feud",
-    "published": "Tue, 16 Jun 2026 11:12:11 GMT",
+    "id": "2318ffef1f15",
+    "title": "Wall Street Stares Down Crypto-Style Trading All Day, Every Day",
+    "summary": "<p>Traditional finance firms are starting to embrace&nbsp;round-the-clock trading for a range of assets in a way that has disrupted schedules in crypto for years.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-06-16/wall-street-stares-down-crypto-style-trading-all-day-every-day",
+    "published": "Tue, 16 Jun 2026 15:17:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325311"
+    "fetched_at": "2026-06-16T16:14:04.106245"
   },
   {
-    "id": "2e862b9d46a3",
-    "title": "1MDB Theft Made Attila the Hun Look Like ‘Choirboy,’ Judge Says",
-    "summary": "The judge who convicted former Malaysian Prime Minister Najib Razak over the 1MDB scandal said the plunder of the sovereign wealth fund was so vast that it eclipsed the exploits of Attila the Hun, one of history’s most notorious conquerors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/1mdb-theft-made-attila-the-hun-look-like-choirboy-judge-says",
-    "published": "Tue, 16 Jun 2026 11:07:28 GMT",
+    "id": "b866fbb80ddc",
+    "title": "Brightline Bondholders Grant Two-Week Extension on Debt Payment",
+    "summary": "Brightline Trains Florida LLC, the struggling $6 billion private railroad between Miami and Orlando, struck a deal with holders of $985 million of municipal bonds to extend a debt payment due Monday through the end of the month, according to a securities filing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/brightline-bondholders-grant-two-week-extension-on-debt-payment",
+    "published": "Tue, 16 Jun 2026 15:12:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325316"
+    "fetched_at": "2026-06-16T16:14:04.106249"
   },
   {
-    "id": "716ce8183846",
-    "title": "Dolce &amp; Gabbana Weighs Sale of Milan Properties to Raise Cash",
-    "summary": "Dolce &amp; Gabbana is negotiating with lenders over the potential sale of real estate assets in Milan as part of an effort to raise liquidity and refinance debt, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/dolce-gabbana-weighs-sale-of-milan-properties-to-raise-cash",
-    "published": "Tue, 16 Jun 2026 11:03:50 GMT",
+    "id": "7ce92bf4bf8f",
+    "title": "Wells Fargo Boosts S&amp;P 500 Year-End Target as US-Iran Deal Nears",
+    "summary": "A combination of easing macroeconomic worries, improving sentiment and interest-rate hike expectations that are priced in will enable US stocks to move higher, according to Wells Fargo Securities LLC.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/wells-fargo-boosts-s-p-500-year-end-target-as-us-iran-deal-nears",
+    "published": "Tue, 16 Jun 2026 15:12:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325321"
+    "fetched_at": "2026-06-16T16:14:04.106254"
   },
   {
-    "id": "778ddd69aefa",
-    "title": "Middle East Oil Collapses as Contango Returns on Supply Hope",
-    "summary": "Middle Eastern crude markets have collapsed, as the US-Iran agreement to reopen the Strait of Hormuz spurs optimism around an increase in flows from the oil-rich region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/middle-east-oil-markets-weaken-on-optimism-over-increased-supply",
-    "published": "Tue, 16 Jun 2026 02:55:45 GMT",
+    "id": "0f345ff73790",
+    "title": "Nvidia’s New Bonds Are Trading Actively After $25 Billion Sale",
+    "summary": "Initial trading volume has been strong for Nvidia Corp.’s new bonds, though prices have remained near where the $25 billion of debt was sold at.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/nvidia-s-new-bonds-are-trading-actively-after-25-billion-sale",
+    "published": "Tue, 16 Jun 2026 15:09:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325326"
+    "fetched_at": "2026-06-16T16:14:04.106259"
   },
   {
-    "id": "8021ed24ec07",
-    "title": "Verizon Debuts New Plan, Loyalty Program in Battle for Customers",
-    "summary": "The freebies competition is heating up among US wireless carriers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/verizon-debuts-new-plan-loyalty-program-in-battle-for-customers",
-    "published": "Tue, 16 Jun 2026 11:00:00 GMT",
+    "id": "41784a85f4cf",
+    "title": "France's Confavreux on Iran Deal, Hormuz, Tech, Digital Tax",
+    "summary": "French Foreign Ministry spokesman Pascal Confavreux speaks with Bloomberg's Tyler Kendall on the sidelines of the G7 gathering in Evian, France. He discusses the deal with Iran, including the reopening of the Strait of Hormuz, as well as tolls concerns and incentives. He also addresses technology, AI, and France's digital services tax. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/france-s-confavreux-on-iran-deal-strait-of-hormuz-video",
+    "published": "Tue, 16 Jun 2026 15:07:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325331"
+    "fetched_at": "2026-06-16T16:14:04.106264"
   },
   {
-    "id": "5b789bfce166",
-    "title": "Qatar Plans to Rapidly Restart LNG Output After Hormuz Opens",
-    "summary": "Qatar is planning to rapidly boost liquefied natural gas production once the Strait of Hormuz reopens, aiming to restore most of its export capacity within two months, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/qatar-plans-to-rapidly-restart-lng-production-after-hormuz-opens",
-    "published": "Tue, 16 Jun 2026 07:11:46 GMT",
+    "id": "ecafb9c944e8",
+    "title": "US Offers Conditional $500 Million Loan for Rare-Earths Plant",
+    "summary": "Mining startup Phoenix Tailings Inc. received a conditional commitment for $500 million in long-term debt financing from the Pentagon’s Office of Strategic Capital to help build a domestic rare-earth processing facility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/us-offers-conditional-500-million-loan-for-rare-earths-plant",
+    "published": "Tue, 16 Jun 2026 15:05:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325336"
+    "fetched_at": "2026-06-16T16:14:04.106268"
   },
   {
-    "id": "eaeec2dd1fee",
-    "title": "Biocon's Mazumdar-Shaw Says Firm On Track To Be Top Insulin Maker",
-    "summary": "Biocon Executive Chairperson Kiran Mazumdar-Shaw says she is confident that the company's investment and capacity expansion in Insulin will make the company the top hub for the drug in the next five years. She speaks in an exclusive conversation with Bloomberg's Haslinda Amin. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-16/founder-biocon-aiming-to-become-top-insulin-maker-video",
-    "published": "Tue, 16 Jun 2026 01:40:53 GMT",
+    "id": "e76594b01fa4",
+    "title": "Biofuels Are Key to Preventing Sharp Drop in Farmland, S&amp;P Says",
+    "summary": "Expanding biofuel demand is a “powerful catalyst” to restore profitability to American farms, according to a new study, as harvests balloon and lawmakers consider broadening the market for corn-based ethanol.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/biofuels-are-key-to-preventing-sharp-drop-in-farmland-s-p-says",
+    "published": "Tue, 16 Jun 2026 15:02:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325341"
+    "fetched_at": "2026-06-16T16:14:04.106273"
   },
   {
-    "id": "7602e549db74",
-    "title": "Empty Tankers Entering Gulf Via Hormuz Are Key for Energy Market",
-    "summary": "The transit of empty ships through the Strait of Hormuz into the energy-rich Persian Gulf is being eagerly watched by the market, which would indicate increasing confidence in the outlook for a sustained peace deal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/empty-tankers-entering-gulf-via-hormuz-is-key-for-energy-market",
-    "published": "Tue, 16 Jun 2026 10:46:29 GMT",
+    "id": "de46e9e1c56d",
+    "title": "Essar Signs $500 Million IRH Deal to Buy Oil, Sell Stanlow Fuels",
+    "summary": "Essar Group’s energy unit has tied up with International Resources Holding’s trading arm to source crude for its Stanlow refinery in the UK and market products in a deal worth $500 million.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/essar-signs-500-million-irh-deal-to-buy-oil-sell-stanlow-fuels",
+    "published": "Tue, 16 Jun 2026 14:58:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325347"
+    "fetched_at": "2026-06-16T16:14:04.106278"
   },
   {
-    "id": "93e0780e4fe3",
-    "title": "EBA Eyes Bigger Role for Banks in Setting Key Capital Buffer",
-    "summary": "Europe’s top banking regulator said watchdogs should rely more on banks to calculate how big of a safety cushion they need on top of their minimum capital requirements.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/eba-eyes-bigger-role-for-banks-in-setting-key-capital-buffer",
-    "published": "Tue, 16 Jun 2026 10:44:22 GMT",
+    "id": "43548297f5b4",
+    "title": "Gold Advances as Trump Touts Reopening of Hormuz This Week",
+    "summary": "Gold rose after US President Donald Trump said the Strait of Hormuz could reopen on Friday, a development that would ease an energy and inflation shock that has roiled global markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-15/gold-holds-gain-as-trump-touts-reopening-of-hormuz-this-week",
+    "published": "Mon, 15 Jun 2026 22:35:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325351"
+    "fetched_at": "2026-06-16T16:14:04.106283"
   },
   {
-    "id": "20e9ea68cb03",
-    "title": "SpaceX Shares Surge, US & Iran Prepare for Deal Signing | The Opening Trade 6/16/2026",
-    "summary": "The US and Iran are preparing to formally sign their interim peace deal in Switzerland on Friday, with both sides claiming victory and oil traders and shippers unsure over how quickly the Strait of Hormuz will be reopened.\n\nSpaceX shares surged in premarket trading, putting the stock on track to extend a rally following its blockbuster debut last week.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-16/the-opening-trade-6-16-2026-video",
-    "published": "Tue, 16 Jun 2026 10:43:07 GMT",
+    "id": "0eaca51b91c8",
+    "title": "SpaceX Options Trading Starts Strong as Traders Chase Musk Mania",
+    "summary": "Space Exploration Technologies Corp. options were among the most heavily traded among US companies on Tuesday, helping to spur an early 17% gain in the rocket maker in its third day of trading.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/spacex-options-trading-starts-strong-as-traders-chase-musk-mania",
+    "published": "Tue, 16 Jun 2026 14:48:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325357"
+    "fetched_at": "2026-06-16T16:14:04.106288"
   },
   {
-    "id": "ba6ca9f9fd8b",
-    "title": "The Prospect of a Quieter Fed Could Roil Bond Prices",
-    "summary": "Warsh has hinted at less communication from THE central bank.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-16/the-prospect-of-a-quieter-fed-could-roil-bond-prices",
-    "published": "Tue, 16 Jun 2026 10:35:14 GMT",
+    "id": "11ba8afb7381",
+    "title": "Trump Says Iran Deal Includes 99.9% of What He Wants",
+    "summary": "President Donald Trump says the peace deal with Iran includes \"99.9% of what he wants.\" Speaking at the Group of Seven summit in France, Trump said the deal will prevent Iran from ever having a nuclear weapon. The deal is set to be signed on Friday in Switzerland. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/trump-says-iran-deal-includes-99-9-of-what-he-wants-video",
+    "published": "Tue, 16 Jun 2026 14:48:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325361"
+    "fetched_at": "2026-06-16T16:14:04.106292"
   },
   {
-    "id": "6d283f260c50",
-    "title": "SBI Plans Indian Rupee Deposits in Sri Lanka to Support Trade",
-    "summary": "State Bank of India is planning to introduce Indian rupee-denominated deposits in Sri Lanka, a move aimed at encouraging wider use of the currency in trade and investment between the neighboring nations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/sbi-plans-indian-rupee-deposits-in-sri-lanka-to-support-trade",
-    "published": "Tue, 16 Jun 2026 10:34:47 GMT",
+    "id": "6ad74c301ac6",
+    "title": "Vanderbilt University to Sell Up to $430 Million of Muni Bonds",
+    "summary": "Vanderbilt University is planning to sell up to $430 million of tax-exempt bonds to pay for capital projects.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/vanderbilt-university-to-sell-up-to-430-million-of-muni-bonds",
+    "published": "Tue, 16 Jun 2026 14:45:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325366"
+    "fetched_at": "2026-06-16T16:14:04.106297"
   },
   {
-    "id": "9a4d7c1bf101",
-    "title": "Glencore, Trafigura Said Set to Invest in Merdeka’s HK Listing",
-    "summary": "Glencore Plc, Mercuria Energy Group and Trafigura Group are among key investors planning to buy shares in the Hong Kong listing of Indonesian gold miner PT Merdeka Gold Resources, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/glencore-trafigura-said-set-to-invest-in-merdeka-s-hk-listing",
-    "published": "Tue, 16 Jun 2026 10:24:57 GMT",
+    "id": "e36852d7f938",
+    "title": "Ex-Tory Treasurer Merges Advisory Firm Fenchurch With Broadhaven Capital",
+    "summary": "Fenchurch Advisory Partners, the London-based advisory boutique focused on the financial services industry, has agreed to merge with Broadhaven Capital Partners to accelerate its expansion into the US market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/ex-tory-treasurer-merges-advisory-firm-fenchurch-with-broadhaven-capital",
+    "published": "Tue, 16 Jun 2026 14:00:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325389"
+    "fetched_at": "2026-06-16T16:14:04.106302"
   },
   {
-    "id": "1fc2e16977f4",
-    "title": "Don’t Get Overexcited on Oil Price Moderation, AIB’s Hunt Says",
-    "summary": "The global economy still faces multiple risks even as the US and Iran agree to halt the war in the Middle East, the head of Irish bank AIB Group Plc warned.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/don-t-get-overexcited-on-oil-price-moderation-aib-s-hunt-says",
-    "published": "Tue, 16 Jun 2026 10:15:24 GMT",
+    "id": "962e7f96ec54",
+    "title": "Yum to Sell Pizza Hut; Dave & Buster’s Sinks | Stock Movers",
+    "summary": "On this episode of Stock Movers with Alexis Christoforous:\n\n- Yum! Brands (YUM) agreed to sell its struggling Pizza Hut chain for $2.7 billion to a private equity firm and its China business. LongRange Capital will acquire Pizza Hut ex-China for $1.5 billion, Yum said in a statement Tuesday. Yum China Holdings Inc. will buy the rest of the business for $1.2 billion. The transactions are expected to close in the third quarter.\n\n- Dave & Buster’s (PLAY) shares tumble after the operator of restaurant and entertainment facilities reported comparable sales for the first quarter that missed the average analyst estimate. Research firm Benchmark downgraded the stock, citing a lack of confidence that same-store sales will stabilize/eventually turn positive this year. \n\n- Robinhood Markets (HOOD) shares are up after it said it is reducing its full-time employee workforce by 10%, and also closing a small number of open roles. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/yum-brands-gains-dave-buster-s-sinks-stock-movers-video",
+    "published": "Tue, 16 Jun 2026 14:33:06 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325395"
+    "fetched_at": "2026-06-16T16:14:04.106307"
   },
   {
-    "id": "91db377bac0d",
-    "title": "Turkey Seeks Higher Oil Flows Via Iraq Pipeline to Renew Deal",
-    "summary": "Turkey is seeking higher oil flows through a crucial pipeline that runs through its territory from northern Iraq in order to renew a contract that expires in a little over a month, according to a Turkish official with direct knowledge of the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/turkey-seeks-higher-oil-flows-via-iraq-pipeline-to-renew-deal",
-    "published": "Tue, 16 Jun 2026 10:00:36 GMT",
+    "id": "654d01274a32",
+    "title": "Yum! Will Sell Struggling Pizza Hut for $2.7 Billion",
+    "summary": "Yum! Brands is selling the chain to private equity firm LongRange Capital. The deal is expected to close in the third quarter. Yum! will now focus more on its better-performing Taco Bell and KFC chains. Michael Halen of Bloomberg Intelligence is on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-16/yum-will-sell-struggling-pizza-hut-for-2-7-billion-video",
+    "published": "Tue, 16 Jun 2026 14:19:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325400"
+    "fetched_at": "2026-06-16T16:14:04.106312"
   },
   {
-    "id": "ff45aaae51b7",
-    "title": "Riksbank Rate Seen Steady With Norway on Edge: Decision Guide",
-    "summary": "Sweden and Norway face contrasting economic risks, but the two Nordic neighbors are still likely to emerge with the same outcome of no change for borrowing costs this week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/riksbank-rate-seen-steady-with-norway-on-edge-decision-guide",
-    "published": "Tue, 16 Jun 2026 10:00:00 GMT",
+    "id": "e33ea2d2eb8c",
+    "title": "CSN Cement Sale Faces Questions as Holcim Resists Huaxin Bid",
+    "summary": "Huaxin Cement Co.’s bid for the cement unit of Brazil’s Cia. Siderurgia Nacional is facing resistance from one of the Chinese company’s key shareholders, Holcim Ltd., according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/csn-cement-sale-faces-questions-as-holcim-resists-huaxin-bid",
+    "published": "Tue, 16 Jun 2026 13:41:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325405"
+    "fetched_at": "2026-06-16T16:14:04.106317"
   },
   {
-    "id": "0b07ce3dcb18",
-    "title": "Warsh Wants Less Fed Talk, Risking More Market Surprises",
-    "summary": "Former Federal Reserve Chair Ben Bernanke famously said monetary policy is 98% talk and only 2% action. Kevin Warsh wants to shake up the mix.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/warsh-wants-less-fed-talk-risking-more-market-surprises",
-    "published": "Tue, 16 Jun 2026 10:00:00 GMT",
+    "id": "cb608ceadbf7",
+    "title": "US Housing Starts Drop to the Weakest Pace Since 2020",
+    "summary": "New residential construction in the US slowed to the weakest pace in six years, driven by a steep decline in apartment projects.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/us-housing-starts-drop-to-the-weakest-pace-since-2020",
+    "published": "Tue, 16 Jun 2026 12:34:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325410"
+    "fetched_at": "2026-06-16T16:14:04.106321"
   },
   {
-    "id": "b2093a965d5d",
-    "title": "Blackstone Grows Asset-Based Lending With New Unit, Taps Garlick",
-    "summary": "Blackstone Inc. rolled out a platform to lend against physical assets like inventory and equipment, as alternative asset managers increasingly muscle into territory long dominated by banks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/blackstone-grows-asset-based-lending-with-new-unit-taps-garlick",
-    "published": "Tue, 16 Jun 2026 10:00:00 GMT",
+    "id": "49583ced00dd",
+    "title": "ECB’s Lane Says Inflation Is in the Pipeline Despite Iran Deal",
+    "summary": "The European Central Bank must be prepared for inflation that’s been unleashed by the conflict in the Middle East but is yet to be felt, according to Chief Economist Philip Lane.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/ecb-s-lane-says-inflation-is-in-the-pipeline-despite-iran-deal",
+    "published": "Tue, 16 Jun 2026 13:55:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325415"
+    "fetched_at": "2026-06-16T16:14:04.106326"
   },
   {
-    "id": "c227c0c4ccf0",
-    "title": "Reeves Says Her Plans Will Make UK Less Reliant on Bond Markets",
-    "summary": "Chancellor of the Exchequer Rachel Reeves said her ambition is to balance the budget in 2029, a more demanding target than her current fiscal rules as she pledged to make Britain less at the mercy of the bond markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/reeves-says-her-plans-will-make-uk-less-reliant-on-bond-markets",
-    "published": "Tue, 16 Jun 2026 09:58:25 GMT",
+    "id": "77325f8d5e1d",
+    "title": "Race to Turn AI Compute Into a Commodity Spurs New Crypto Boom",
+    "summary": "Ethan Vera thought Luxor Technology’s future was helping Bitcoin miners buy and sell mining hardware.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-16/race-to-turn-ai-compute-into-a-commodity-spurs-new-crypto-boom",
+    "published": "Tue, 16 Jun 2026 13:52:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325419"
-  },
-  {
-    "id": "62cc1a474a31",
-    "title": "Thames Water Edges Closer to Nationalization With Rescue in Doubt",
-    "summary": "Thames Water moved closer to temporary nationalization after a senior government minister said a rescue deal put forward by creditors wasn’t sufficient.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/thames-edges-closer-to-nationalization-with-rescue-deal-in-doubt",
-    "published": "Tue, 16 Jun 2026 07:19:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325424"
-  },
-  {
-    "id": "85492822dafa",
-    "title": "German Investor Outlook Jumps With Iran Resolution in Sight",
-    "summary": "German investor optimism improved more than anticipated on hopes that a swift end to the Iran war will ease pressure on Europe’s largest economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/german-investor-outlook-jumps-with-iran-resolution-in-sight",
-    "published": "Tue, 16 Jun 2026 09:05:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325429"
-  },
-  {
-    "id": "cd74ca27bf40",
-    "title": "Jeff Currie Says Hormuz Flows May Not Normalize Until End of the Year",
-    "summary": "Jeff Currie, executive co-chairman at Abaxx Markets, says “the uncertainty remains quite high” around the Strait of Hormuz as maintaining the US-Iran ceasefire will be challenging. Currie looks at what the interim agreement means for the global oil market, what’s behind the oil price drop, and how quickly Gulf nations can restore production. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-16/currie-hormuz-flows-may-not-normalize-until-year-s-end-video",
-    "published": "Tue, 16 Jun 2026 09:38:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325434"
-  },
-  {
-    "id": "8ca5ad67eb17",
-    "title": "Taiwan Frees Life Insurers to Deploy Capital in AI Projects",
-    "summary": "Taiwan is easing regulations to give life insurers flexibility to invest in artificial intelligence projects, part of an ongoing campaign by authorities to redirect a larger slice of the industry’s $1 trillion asset pool back home.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/taiwan-frees-life-insurers-to-deploy-capital-in-ai-projects",
-    "published": "Tue, 16 Jun 2026 09:35:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325439"
-  },
-  {
-    "id": "a4d6d9eb9515",
-    "title": "Emerging Stocks Near Record High on Tech Gains, Lower Oil Prices",
-    "summary": "Emerging-market stocks climbed for a third day, holding near a record high, as crude prices fell further and the tech rally extended.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/emerging-stocks-near-record-high-on-tech-gains-lower-oil-prices",
-    "published": "Tue, 16 Jun 2026 09:34:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325444"
-  },
-  {
-    "id": "14ebe780f40e",
-    "title": "AI Stock Rally Is in Boom Phase Not Euphoria, BofA Survey Shows",
-    "summary": "The boom in artificial-intelligence stocks looks set to run further, according to a Bank of America Corp. survey, which found the majority of investors believe that the fear of missing out is continuing to drive the trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-16/ai-stock-rally-is-in-boom-phase-not-euphoria-bofa-survey-shows",
-    "published": "Tue, 16 Jun 2026 09:29:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325449"
-  },
-  {
-    "id": "d60273391754",
-    "title": "Bonds Extend Rally as Oil Falls to Lowest Since March",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-06-16/ftse-100-live-pound-gilts-iran-trump-oil-prices-hormuz-g7-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
-    "published": "Tue, 16 Jun 2026 05:45:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-06-16T11:35:58.325454"
+    "fetched_at": "2026-06-16T16:14:04.106331"
   }
 ]
