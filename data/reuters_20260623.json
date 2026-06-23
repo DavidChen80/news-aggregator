@@ -1,5 +1,85 @@
 [
   {
+    "id": "1d5e62c1dc2b",
+    "title": "Former BoE Governor King Talks Alan Greenspan's Legacy (Podcast)",
+    "title_cn": "英国央行前行长金谈论艾伦·格林斯潘的遗产（播客）",
+    "summary": "Source: Bloomberg, 14:48",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/former-boe-governor-king-talks-alan-greenspan-s-legacy-podcast",
+    "published": "Tue, 23 Jun 2026 12:46:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:09.691261"
+  },
+  {
+    "id": "48bd23b3eedf",
+    "title": "Sweep's Rachel Delacour on Climate Policy Uncertainty (Podcast)",
+    "title_cn": "Sweep 的 Rachel Delacour 谈气候政策的不确定性（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/sweep-s-rachel-delacour-on-climate-policy-uncertainty-podcast",
+    "published": "Tue, 23 Jun 2026 12:04:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:10.057459"
+  },
+  {
+    "id": "f3ef53d14c9d",
+    "title": "Talking Transports: AIT on Freight Forwarding’s Next Phase",
+    "title_cn": "谈论运输：AIT 探讨货运代理的下一阶段",
+    "summary": "Global supply chains remain under pressure from geopolitical disruptions, tight airfreight capacity and shifting sourcing strategies. In this episode of the Talking Transports podcast, AIT Worldwide Logistics Chairman and CEO Vaughn Moore joins Bloomberg Intelligence’s Senior Transportation and Logistics Analyst Lee Klaskow to discuss how freight forwarders are helping customers navigate an increasingly complex environment. Moore explains why airfreight markets remain constrained by capacity rat",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/talking-transports-ait-on-freight-forwarding-s-next-phase",
+    "published": "Tue, 23 Jun 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:10.428728"
+  },
+  {
+    "id": "c0908eb2d73c",
+    "title": "Iran Says $12 Billion to Be Unfrozen, NYC Primary, More",
+    "title_cn": "伊朗称将解冻 120 亿美元、纽约市初选等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/iran-says-12-billion-to-be-unfrozen-nyc-primary-more",
+    "published": "Tue, 23 Jun 2026 11:42:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:12.009672"
+  },
+  {
+    "id": "c5a73061b0e7",
+    "title": "Stock Movers: MU, SPCX, IBM (Podcast)",
+    "title_cn": "库存推动者：MU、SPCX、IBM（播客）",
+    "summary": "Source: Bloomberg, 4:18",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/stock-movers-mu-spcx-ibm-podcast",
+    "published": "Tue, 23 Jun 2026 11:03:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:12.829657"
+  },
+  {
+    "id": "f95d6b06f97c",
+    "title": "Tech Stocks Are Set for Another Tumble as Nasdaq Futures Slide",
+    "title_cn": "随着纳斯达克期货下滑，科技股将再次暴跌",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/tech-stocks-are-set-for-another-tumble-as-nasdaq-futures-slide",
+    "published": "Tue, 23 Jun 2026 10:58:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:12.930224"
+  },
+  {
+    "id": "5598e702c5b9",
+    "title": "Iran Says $12 Billion to Be Unfrozen, Greenspan's Legacy, More",
+    "title_cn": "伊朗表示将解冻 120 亿美元、格林斯潘的遗产等",
+    "summary": "Source: Bloomberg, 5:42",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-23/iran-says-12-billion-to-be-unfrozen-greenspan-s-legacy-more",
+    "published": "Tue, 23 Jun 2026 10:20:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:13.319152"
+  },
+  {
+    "id": "7c5e54107aa0",
+    "title": "Billionaire Gautam Adani Met Donald Trump Jr. in India While Facing US Bribery Charges",
+    "title_cn": "亿万富翁高塔姆·阿达尼在印度会见小唐纳德·特朗普，同时面临美国的贿赂指控",
+    "summary": "When Donald Trump Jr. was in India last November for a trip that included a wedding and a wildlife sanctuary tour, he made an unpublicized stop in the bustling city of Ahmedabad in the Western state of Gujarat.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-gautam-adani-met-donald-trump-jr-while-facing-us-bribery-charges",
+    "published": "Tue, 23 Jun 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:13.429153"
+  },
+  {
     "id": "fbb8b0f845ec",
     "title": "Bloomberg Daybreak: Greenspan's Legacy (Podcast)",
     "title_cn": "彭博黎明：格林斯潘的遗产（播客）",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/bloomberg-daybreak-greenspan-s-legacy-podcast",
     "published": "Tue, 23 Jun 2026 09:40:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.156958"
+    "fetched_at": "2026-06-23T12:48:14.147631"
   },
   {
     "id": "984918aff1f7",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/global-tech-stocks-plunge-most-since-march-in-test-of-ai-driven-rally",
     "published": "Tue, 23 Jun 2026 09:36:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.269345"
+    "fetched_at": "2026-06-23T12:48:14.266496"
   },
   {
     "id": "db0ce4bdd1a7",
@@ -27,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/iran-talks-proceed-stocks-hit-by-tech-selloff-more",
     "published": "Tue, 23 Jun 2026 09:24:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.381466"
+    "fetched_at": "2026-06-23T12:48:14.649296"
   },
   {
     "id": "c2e70fa418b4",
@@ -37,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/stock-movers-nokia-heineken-signify-podcast",
     "published": "Tue, 23 Jun 2026 09:18:20 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.492480"
+    "fetched_at": "2026-06-23T12:48:15.010894"
   },
   {
     "id": "a6b1e669efe1",
@@ -47,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/uk-s-next-potential-leader-spacex-s-downward-arc-more",
     "published": "Tue, 23 Jun 2026 08:37:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.668895"
+    "fetched_at": "2026-06-23T12:48:15.358099"
   },
   {
     "id": "8b6dca941409",
@@ -57,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/stock-movers-stmicro-heineken-signify-podcast",
     "published": "Tue, 23 Jun 2026 08:32:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:00.826841"
+    "fetched_at": "2026-06-23T12:48:15.648215"
   },
   {
     "id": "00b4df3e5074",
@@ -67,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/uk-s-burnham-poised-for-power-iran-s-oil-waiver-more",
     "published": "Tue, 23 Jun 2026 07:28:44 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.015040"
+    "fetched_at": "2026-06-23T12:48:15.760947"
   },
   {
     "id": "724ae0882224",
@@ -77,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/ftse-100-stock-bunzl-upgrades-growth-outlook-amid-pressure-from-activist-elliott",
     "published": "Tue, 23 Jun 2026 07:23:32 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.199522"
+    "fetched_at": "2026-06-23T12:48:15.876685"
   },
   {
     "id": "c30d436ad20f",
@@ -87,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/burnham-poised-for-power-in-uk-after-starmer-steps-aside",
     "published": "Tue, 23 Jun 2026 07:14:12 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.291164"
+    "fetched_at": "2026-06-23T12:48:15.988722"
   },
   {
     "id": "52ee1af04fc2",
@@ -97,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/uk-labour-look-for-new-leader-spacex-s-fall-more",
     "published": "Tue, 23 Jun 2026 06:41:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.391528"
+    "fetched_at": "2026-06-23T12:48:16.214510"
   },
   {
     "id": "3ba4b7591074",
@@ -107,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/bangkok-s-patchwork-rail-system-faces-overhaul-under-new-plan",
     "published": "Tue, 23 Jun 2026 06:07:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.579082"
+    "fetched_at": "2026-06-23T12:48:16.347885"
   },
   {
     "id": "1210f76e3f81",
@@ -117,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/bloomberg-daybreak-europe-burnham-poised-for-power-podcast",
     "published": "Tue, 23 Jun 2026 05:55:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.745904"
+    "fetched_at": "2026-06-23T12:48:16.451309"
   },
   {
     "id": "40bc8eb86236",
@@ -127,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/burnham-poised-for-power-us-grants-iran-oil-waiver-more",
     "published": "Tue, 23 Jun 2026 05:31:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.852507"
+    "fetched_at": "2026-06-23T12:48:16.569109"
   },
   {
     "id": "e8b1b3e1266c",
@@ -137,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets",
     "published": "Tue, 23 Jun 2026 04:35:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:01.958544"
+    "fetched_at": "2026-06-23T12:48:16.682896"
   },
   {
     "id": "78d9fc1b6c6a",
@@ -147,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/greeks-get-priced-out-of-summer-beach-vacations-after-recovering-from-crisis",
     "published": "Tue, 23 Jun 2026 04:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:02.062391"
+    "fetched_at": "2026-06-23T12:48:16.786883"
   },
   {
     "id": "ee925b331c85",
@@ -157,17 +237,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/nissan-shareholders-vote-out-influential-director-at-meeting",
     "published": "Tue, 23 Jun 2026 03:32:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:02.476244"
+    "fetched_at": "2026-06-23T12:48:16.911226"
   },
   {
     "id": "3a38ca9394e7",
     "title": "US Authorizes Iran Oil Sales, SpaceX Falls for Third Day, More",
-    "title_cn": "美国授权伊朗石油销售、SpaceX 连续第三天下跌等",
+    "title_cn": "美国授权伊朗石油销售、SpaceX 连续第三天下跌等等",
     "summary": "Source: Bloomberg, 6:15",
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/us-authorizes-iran-oil-sales-spacex-falls-for-third-day-more-mqq30r5l",
     "published": "Tue, 23 Jun 2026 03:25:45 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:02.593792"
+    "fetched_at": "2026-06-23T12:48:17.022917"
   },
   {
     "id": "a94b74a714a8",
@@ -177,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/bloomberg-law-etan-patz-murder-conviction-scotus-podcast",
     "published": "Tue, 23 Jun 2026 03:09:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:02.719030"
+    "fetched_at": "2026-06-23T12:48:17.135627"
   },
   {
     "id": "0e2586f0bcc1",
@@ -187,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/seasonal-tailwinds-may-lift-battered-indian-it-shares",
     "published": "Tue, 23 Jun 2026 02:46:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:02.914090"
+    "fetched_at": "2026-06-23T12:48:17.285180"
   },
   {
     "id": "c6bcf7058ff8",
@@ -197,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/us-waives-iran-oil-sanctions-spacex-slips-for-third-day-more",
     "published": "Tue, 23 Jun 2026 02:32:04 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.070518"
+    "fetched_at": "2026-06-23T12:48:17.395281"
   },
   {
     "id": "7d2dec2ee619",
@@ -207,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/amazon-ordered-by-nlrb-judge-to-collectively-bargain-at-san-francisco-warehouse",
     "published": "Tue, 23 Jun 2026 02:10:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.174128"
+    "fetched_at": "2026-06-23T12:48:17.529774"
   },
   {
     "id": "cde9043c8ca9",
@@ -217,287 +297,37 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-23/bloomberg-daybreak-asia-iran-oil-waiver-podcast",
     "published": "Tue, 23 Jun 2026 01:53:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.281357"
+    "fetched_at": "2026-06-23T12:48:17.637178"
   },
   {
-    "id": "a09218b45e04",
-    "title": "US Authorizes Iran Oil Sales, SpaceX Falls for Third Day, More",
-    "title_cn": "美国授权伊朗石油销售、SpaceX 连续第三天下跌等",
-    "summary": "Source: Bloomberg, 6:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-23/us-authorizes-iran-oil-sales-spacex-falls-for-third-day-more",
-    "published": "Tue, 23 Jun 2026 01:44:26 GMT",
+    "id": "0dc17c383eae",
+    "title": "Citi’s Moore Says ‘Can’t Wait Too Long’ on Market Pullbacks",
+    "title_cn": "花旗摩尔表示市场回调“不能等太久”",
+    "summary": "“If you want to be longer risk, you can’t wait too long,” says Kate Moore, CIO at Citi Wealth, as she sees market pullbacks creating an opportunity to deploy capital during inflationary periods. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/citi-s-moore-says-can-t-wait-too-long-on-pullbacks-video",
+    "published": "Tue, 23 Jun 2026 12:40:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.395861"
-  },
-  {
-    "id": "084a7bebaff6",
-    "title": "US Grants Iran Oil Waiver, SpaceX Shares Tumble, More",
-    "title_cn": "美国授予伊朗石油豁免，SpaceX 股价暴跌等",
-    "summary": "Source: Bloomberg, 6:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-23/us-grants-iran-oil-waiver-spacex-shares-tumble-more",
-    "published": "Tue, 23 Jun 2026 00:48:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.574513"
-  },
-  {
-    "id": "2554155bcb57",
-    "title": "US Eases Sanctions on Iran Oil, SpaceX Shares Decline, More",
-    "title_cn": "美国放松对伊朗石油制裁、SpaceX 股价下跌等",
-    "summary": "Source: Bloomberg, 6:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-22/us-eases-sanctions-on-iran-oil-spacex-shares-decline-more",
-    "published": "Mon, 22 Jun 2026 23:58:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.684346"
-  },
-  {
-    "id": "15fa97d274d8",
-    "title": "US Iran Oil Waiver, SpaceX Falls for Third Day, More",
-    "title_cn": "美国伊朗石油豁免、SpaceX 连续第三天下跌等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-22/us-iran-oil-waiver-spacex-falls-for-third-day-more",
-    "published": "Mon, 22 Jun 2026 23:12:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.806853"
-  },
-  {
-    "id": "6080a83d37df",
-    "title": "WiseTech Founder Denies Human Trafficking",
-    "title_cn": "慧咨科技创始人否认人口贩卖",
-    "summary": "Good morning from a very chilly Melbourne. SpaceX’s stock has come back to earth with a thud, tumbling 23% in just three days and wiping more than $600 billion off its market value. The selloff comes as the company prepares its first-ever investment-grade bond sale to help fund its growing AI ambitions.- Keira Wright, Australian Energy Reporter",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/wisetech-founder-denies-human-trafficking-spacex-australia-briefing",
-    "published": "Mon, 22 Jun 2026 23:06:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:03.908008"
-  },
-  {
-    "id": "9ffa4718d60b",
-    "title": "US-Iran Cite Progress, US Waives Iran Oil Sanctions, More",
-    "title_cn": "美伊关系取得进展、美国放弃伊朗石油制裁等",
-    "summary": "Source: Bloomberg, 6:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-22/us-iran-cite-progress-us-waives-iran-oil-sanctions-more",
-    "published": "Mon, 22 Jun 2026 22:19:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.025153"
-  },
-  {
-    "id": "11980e6d4df6",
-    "title": "SpaceX Keeps Falling, Takes Market Down With It",
-    "title_cn": "SpaceX 持续下跌，市场也随之下跌",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/elon-musk-s-spacex-ipo-party-may-be-thinning-out-evening-briefing-americas",
-    "published": "Mon, 22 Jun 2026 22:05:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.154589"
-  },
-  {
-    "id": "b7fece017a3e",
-    "title": "SpaceX Plunges Ahead of Expected AI Bond Binge",
-    "title_cn": "SpaceX 股价在预期的人工智能债券热潮中暴跌",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-22/spacex-slumps-ahead-of-expected-ai-bond-binge",
-    "published": "Mon, 22 Jun 2026 21:45:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.277628"
-  },
-  {
-    "id": "e356c9c4eb63",
-    "title": "ECB’s Lane Sees Danger Inflation Will Top 2% for Some Time",
-    "title_cn": "欧洲央行莱恩认为通胀将在一段时间内达到 2% 的危险",
-    "summary": "European Central Bank officials are facing the risk that inflation will hover above their goal “for quite some time,” according to Chief Economist Philip Lane.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-lane-sees-danger-inflation-will-top-2-for-quite-some-time",
-    "published": "Tue, 23 Jun 2026 08:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.549186"
-  },
-  {
-    "id": "44fffff86543",
-    "title": "Stocks Hit by Tech Selloff as Korean Shares Plunge: Markets Wrap",
-    "title_cn": "韩国股市暴跌，科技股遭遇抛售：市场总结",
-    "summary": "A selloff cascaded across global markets as investors turned jittery about high-flying tech stocks and frothy valuations. South Korea’s Kospi Index plunged 10% from a record high.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
-    "published": "Mon, 22 Jun 2026 22:09:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.722169"
+    "fetched_at": "2026-06-23T12:48:17.993374"
   },
   {
     "id": "9ae064393cca",
-    "title": "Oil Edges Lower as Iran Waiver Signals Peace Talks Progress",
-    "title_cn": "伊朗豁免标志着和平谈判取得进展，油价小幅走低",
-    "summary": "Oil edged lower as traders gauged signs of progress toward an agreement to end the Iran war, which included a US waiver allowing some sales of crude and fuels from the Islamic Republic.",
+    "title": "Oil Steadies While Tankers Openly Enter Hormuz After Peace Deal",
+    "title_cn": "和平协议后油轮公开进入霍尔木兹，油价稳定",
+    "summary": "Oil steadied while tankers become more overt in transiting the Strait of Hormuz following an agreement between Iran and the US to end their conflict.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/latest-oil-market-news-and-analysis-for-july-23",
     "published": "Mon, 22 Jun 2026 22:02:23 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:04.919770"
+    "fetched_at": "2026-06-23T12:48:18.125934"
   },
   {
-    "id": "748e3bfdf872",
-    "title": "Gold Slumps as Tech Selloff Reverberates Through Global Markets",
-    "title_cn": "科技股抛售席卷全球市场，金价暴跌",
-    "summary": "Gold slumped toward $4,000 an ounce and silver plunged as much as 5% as a broad selloff swept through financial markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks",
-    "published": "Mon, 22 Jun 2026 23:19:25 GMT",
+    "id": "ff12168604e3",
+    "title": "North Sea Crude Weakens as Mideast Oil Floods Back to Market",
+    "title_cn": "随着中东石油泛滥重返市场，北海原油走弱",
+    "summary": "Key indicators in the North Sea crude market are showing signs of weakness as a wave of Middle Eastern oil heads to Europe, fueling concerns about a supply glut following the reopening of the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/north-sea-crude-weakens-as-mideast-oil-floods-back-to-market",
+    "published": "Tue, 23 Jun 2026 12:35:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.031154"
-  },
-  {
-    "id": "f1f96ca135ff",
-    "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push",
-    "title_cn": "据说布里斯托在政府推动下接近贝里航空交易",
-    "summary": "Bristow Group Inc. is nearing an acquisition of privately held Berry Aviation Inc. as it seeks to expand in the government services sector, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/bristow-is-said-to-near-berry-aviation-deal-in-government-push",
-    "published": "Tue, 23 Jun 2026 09:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.213343"
-  },
-  {
-    "id": "2981611201d9",
-    "title": "High Frequency Traders Expand Push Into Currency Options Market",
-    "title_cn": "高频交易员扩大进军货币期权市场",
-    "summary": "High-speed trading firms are making fresh inroads into the currency options market, with IMC Trading and Susquehanna International Group expanding globally and Optiver Holding pursuing more complex offerings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/high-frequency-traders-expand-push-into-currency-options-market",
-    "published": "Tue, 23 Jun 2026 09:13:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.325161"
-  },
-  {
-    "id": "df7534bd5615",
-    "title": "Euro Hits August Low as Lagarde’s Rates Talk Diverges From Fed",
-    "title_cn": "拉加德的利率言论与美联储分歧，欧元触及八月低点",
-    "summary": "The euro fell to its lowest level since August after weak economic data and dovish comments from European Central Bank President Christine Lagarde prompted traders to pare back their bets on interest-rate hikes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/euro-hits-august-low-as-lagarde-s-rates-talk-diverges-from-fed",
-    "published": "Tue, 23 Jun 2026 09:05:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.428121"
-  },
-  {
-    "id": "b366b4f420a0",
-    "title": "Yen Intervention Risk Rises After Katayama-Bessent Talks",
-    "title_cn": "片山-贝森特会谈后日元干预风险上升",
-    "summary": "Currency traders are on high alert for intervention after further weakness in the yen and a call between Japanese Finance Minister Satsuki Katayama and US Treasury Secretary Scott Bessent.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/yen-intervention-risk-rises-on-reports-of-katayama-bessent-talks",
-    "published": "Mon, 22 Jun 2026 23:55:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.591548"
-  },
-  {
-    "id": "d896af0ec1d9",
-    "title": "Sturgeon’s Estranged Husband Gets 5 Years for Embezzlement",
-    "title_cn": "斯特金分居的丈夫因贪污罪被判五年徒刑",
-    "summary": "The Scottish National Party’s former chief executive &mdash; who’s also the estranged husband of ex-leader Nicola Sturgeon &mdash; was sentenced to five years and three months in prison after admitting to embezzling more than £400,000 ($529,000).",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/sturgeon-s-estranged-husband-sentenced-over-400-000-snp-fraud",
-    "published": "Tue, 23 Jun 2026 08:55:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.690096"
-  },
-  {
-    "id": "498845a36c01",
-    "title": "Monte Paschi CEO Lovaglio Says He Welcomes Interest in Bank",
-    "title_cn": "Monte Paschi 首席执行官 Lovaglio 表示欢迎对该银行的兴趣",
-    "summary": "Banca Monte dei Paschi di Siena SpA Chief Executive Officer Luigi Lovaglio said he’s pleased with the competing proposals for his bank as they show the value created in its turnaround, and plans to assess all options in the interest of stakeholders.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/monte-paschi-ceo-lovaglio-says-he-welcomes-interest-in-bank",
-    "published": "Tue, 23 Jun 2026 06:58:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:05.854631"
-  },
-  {
-    "id": "4494d59e6c97",
-    "title": "AllianzGI Gets $744 Million for Latest APAC Private Credit Fund",
-    "title_cn": "AllianzGI 为最新亚太地区私人信贷基金筹集 7.44 亿美元",
-    "summary": "Allianz Global Investors secured $744 Million in commitments for the first close of its latest private credit fund targeting investments in the Asia Pacific, underscoring sustained investor interest for the asset class in the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/allianzgi-gets-744-million-for-latest-apac-private-credit-fund",
-    "published": "Tue, 23 Jun 2026 08:48:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.025177"
-  },
-  {
-    "id": "1a3726974057",
-    "title": "Hormuz Traffic Picks Up as More Tankers Broadcast Crossings",
-    "title_cn": "随着更多油轮广播过境点，霍尔木兹交通量增加",
-    "summary": "More ships are openly signaling their intention to traverse the Strait of Hormuz, pointing to growing confidence among shipowners and traders about sending vessels through the chokepoint as tensions ease.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/hormuz-traffic-picks-up-as-more-tankers-cross-with-open-signals",
-    "published": "Tue, 23 Jun 2026 07:39:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.126744"
-  },
-  {
-    "id": "23ea519c441b",
-    "title": "Porsche CEO Sticks to Profit Outlook, Promises Leaner Lineup",
-    "title_cn": "保时捷首席执行官坚持盈利前景，承诺精简阵容",
-    "summary": "Porsche AG confirmed its profit outlook for the year as the 911 maker pushes to become leaner to revive margins battered by US tariffs and weak demand in China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/porsche-ceo-promises-leaner-lineup-as-profit-pressure-mounts",
-    "published": "Tue, 23 Jun 2026 06:19:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.237952"
-  },
-  {
-    "id": "2017361b4f95",
-    "title": "CATL Debuts Battery Storage System Using Sodium, Not Lithium",
-    "title_cn": "CATL推出使用钠而不是锂的电池存储系统",
-    "summary": "Contemporary Amperex Technology Co. Ltd. has launched a new sodium battery storage system, slated for initial delivery in China this September, as the battery giant aims to further ramp up sodium battery capacity amid growing energy storage needs from data centers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/catl-debuts-battery-storage-system-using-new-sodium-technology",
-    "published": "Tue, 23 Jun 2026 02:32:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.425945"
-  },
-  {
-    "id": "0af81daf1c93",
-    "title": "SoftBank-Backed Car Marketplace Carro Is Said to Explore US IPO",
-    "title_cn": "软银支持的汽车市场 Carro 据称将探索美国 IPO",
-    "summary": "Used-car marketplace Carro is considering filing confidentially for an initial public offering in the US as soon as this month, people familiar with the matter said, testing investor appetite for Southeast Asian startups.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/softbank-backed-car-marketplace-carro-is-said-to-explore-us-ipo",
-    "published": "Tue, 23 Jun 2026 08:41:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.531370"
-  },
-  {
-    "id": "517fe257e397",
-    "title": "ECB’s Escrivá Says Oil Starting to Ripple Through Other Sectors",
-    "title_cn": "欧洲央行行长埃斯克里瓦表示，石油开始波及其他行业",
-    "summary": "European Central Bank Governing Council member Jose Luis Escrivá said high oil prices are feeding through to other parts of the economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-escriva-says-oil-starting-to-ripple-through-other-sectors",
-    "published": "Tue, 23 Jun 2026 08:38:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.652837"
-  },
-  {
-    "id": "85ef0fe0619c",
-    "title": "Gold Bulls Gut Outlooks as Deutsche Bank Follows Goldman’s Cut",
-    "title_cn": "德意志银行跟随高盛降息，黄金多头担忧前景",
-    "summary": "Deutsche Bank AG reduced gold price forecasts by as much as 22%, as investors become more wary about the outlook for US monetary policy and investment demand for the precious metal dries up.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view",
-    "published": "Tue, 23 Jun 2026 04:06:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.783350"
-  },
-  {
-    "id": "6be87910fc9d",
-    "title": "Chinese Stocks in Hong Kong Extend Slump to Enter Bear Market",
-    "title_cn": "香港中概股延续跌势进入熊市",
-    "summary": "Chinese equities in Hong Kong entered a bear market as sentiment soured on tepid consumer spending and fading confidence in e-commerce firms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/china-stocks-in-hong-kong-eye-bear-market-on-spending-woes",
-    "published": "Tue, 23 Jun 2026 05:30:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:06.914421"
-  },
-  {
-    "id": "6b6291b070fe",
-    "title": "Indonesia Orders Miners to Provide More Coal Amid Blackouts",
-    "title_cn": "印度尼西亚命令矿工在停电期间提供更多煤炭",
-    "summary": "Indonesia’s energy ministry directed miners to urgently boost domestic coal supplies just before the country was hit by rolling blackouts, the latest strain on President Prabowo Subianto’s administration following a week of protests.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/indonesia-orders-miners-to-provide-more-coal-amid-blackouts",
-    "published": "Tue, 23 Jun 2026 08:14:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.028568"
-  },
-  {
-    "id": "5d5918f11b78",
-    "title": "Iran Rushes to Woo Asia’s Top Oil Importers After US Waiver",
-    "title_cn": "美国豁免后伊朗急于吸引亚洲最大石油进口国",
-    "summary": "Iran is racing to court some of Asia’s largest oil buyers as a 60-day US sanctions waiver takes effect, a temporary lifeline that should allow Tehran to resume exports and begin clearing a backlog of cargoes on the water, even as peace talks continue.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-rushes-to-woo-asia-s-largest-oil-importers-after-us-waiver",
-    "published": "Tue, 23 Jun 2026 04:34:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.150780"
+    "fetched_at": "2026-06-23T12:48:18.232089"
   },
   {
     "id": "29facec86638",
@@ -507,147 +337,277 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/heineken-names-rafael-oliveira-as-ceo-to-lead-turnaround",
     "published": "Tue, 23 Jun 2026 06:08:52 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.288953"
+    "fetched_at": "2026-06-23T12:48:18.359143"
   },
   {
-    "id": "2be550b571a3",
-    "title": "Euro-Zone Business Activity Shows Resilience to Iran War Fallout",
-    "title_cn": "欧元区商业活动显示出对伊朗战争影响的韧性",
-    "summary": "Business activity in the euro area shrank less than anticipated in June, feeding optimism that the region’s economy can weather faster inflation and the jolt to confidence dealt by the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/euro-zone-business-activity-shows-resilience-to-iran-war-fallout",
-    "published": "Tue, 23 Jun 2026 08:00:00 GMT",
+    "id": "44fffff86543",
+    "title": "Stocks Get Hit by Tech Losses as AI Worries Spread: Markets Wrap",
+    "title_cn": "随着人工智能担忧蔓延，股市受到科技股下跌的打击：市场总结",
+    "summary": "Global stocks slumped, with Nasdaq 100 futures falling 2.9%, as concerns about frothy valuations ignited a fresh bout of volatility following a two-month surge in risky assets. South Korea’s Kospi Index plunged 10% from a record high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
+    "published": "Mon, 22 Jun 2026 22:09:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.406193"
+    "fetched_at": "2026-06-23T12:48:18.475328"
   },
   {
-    "id": "2366df4dea38",
-    "title": "IG4 Says It Can Buy All Raizen Debt in Cash to Gain Control",
-    "title_cn": "IG4表示可以用现金购买所有Raizen债务以获得控制权",
-    "summary": "Private equity firm IG4 Capital said it has enough capital to buy Raizen SA debt entirely in cash if needed as it seeks to acquire enough of the troubled sugar and ethanol producer’s obligations to end up with a 50.1% equity stake.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ig4-says-it-can-buy-all-raizen-debt-in-cash-to-gain-control",
-    "published": "Tue, 23 Jun 2026 08:00:00 GMT",
+    "id": "4fc52f713833",
+    "title": "SpaceX’s Quickfire Investment-Grade Rating Brings Out Skeptics",
+    "title_cn": "SpaceX 的 Quickfire 投资级评级引发质疑",
+    "summary": "When Moody’s Ratings first evaluated Nvidia Corp. almost a decade ago, it settled on a Baa1 investment-grade rating, taking comfort in its relatively light debt load and more than $1 billion of free cash flow after 16 years as a public company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/-a-lot-of-leeway-spacex-s-high-grade-debt-brings-out-skeptics",
+    "published": "Tue, 23 Jun 2026 00:57:51 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.501887"
+    "fetched_at": "2026-06-23T12:48:18.607353"
   },
   {
-    "id": "b126c7dd592a",
-    "title": "Korean Stocks Tumble 10% as Extreme Volatility Rattles Investors",
-    "title_cn": "极度波动令投资者不安，韩国股市暴跌 10%",
-    "summary": "South Korean stocks tumbled from a record high as investors sold off chip heavyweights, delivering another outsized swing that has become a feature of the world’s best‑performing market this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/korean-stocks-fall-more-than-4-from-record-high-on-tech-selloff",
-    "published": "Tue, 23 Jun 2026 02:32:02 GMT",
+    "id": "6fb80c4b8e17",
+    "title": "‘Looking Over Our Shoulder:’ Traders Are Loading Up on VIX Calls",
+    "title_cn": "“警惕我们的肩膀”：交易员正在大量买入 VIX 指数",
+    "summary": "Summer is officially here for US stock traders. Recession odds aren’t alarming. The US and Iran are negotiating. Corporate America’s profits are at record highs. And trade policy? Not too much of a worry &mdash; at least for now.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/-looking-over-our-shoulder-traders-are-loading-up-on-vix-calls",
+    "published": "Tue, 23 Jun 2026 12:06:52 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.657980"
+    "fetched_at": "2026-06-23T12:48:18.713631"
   },
   {
-    "id": "635388734c61",
-    "title": "Nomura Joins Sony in Powering Big Week for Japan Bond Sales",
-    "title_cn": "野村证券与索尼一起为日本债券销售大周提供动力",
-    "summary": "Nomura Holdings Inc. and Sony Group Corp. are leading a slew of deals from Asia in global bond markets on Tuesday, in what is shaping up to be one of the biggest weeks this year for Japanese issuance overseas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/nomura-joins-sony-in-powering-big-week-for-japanese-bond-sales",
-    "published": "Tue, 23 Jun 2026 05:15:48 GMT",
+    "id": "b9d4155a07c4",
+    "title": "Iran’s Race to Secure New Oil Buyers Won’t Be Easy",
+    "title_cn": "伊朗争取新石油买家的竞赛并不容易",
+    "summary": "Tehran has just a couple of months to offer its crude far and wide, and the market dynamics aren’t in its favor.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/iran-s-race-to-secure-new-oil-buyers-won-t-be-easy",
+    "published": "Tue, 23 Jun 2026 11:51:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.832574"
+    "fetched_at": "2026-06-23T12:48:18.822571"
   },
   {
-    "id": "265661a9fcc3",
-    "title": "Ziemba: Iran Looking to Monetize & Weaponize Hormuz",
-    "title_cn": "Ziemba：伊朗希望将霍尔木兹海峡货币化并武器化",
-    "summary": "Oil steadied after falling more than 3% in previous sessions following early progress in peace talks over the Iran war. A US waiver allows some sales from Iran, offering them a crucial economic lifeline. Rachel Ziemba, Founder of Ziemba Insights spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East and Africa on the energy markets response to the US-Iran talks. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/ziemba-iran-looking-to-monetize-weaponize-hormuz-video",
-    "published": "Tue, 23 Jun 2026 07:44:00 GMT",
+    "id": "97973b7d2c37",
+    "title": "US Premarket Movers for June 23, 2026",
+    "title_cn": "2026 年 6 月 23 日美国盘前走势",
+    "summary": "S&amp;P 500 Index futures fall 1.3% as of 7:41 a.m. in New York amid a global selloff in technology stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-today-amd-coreweave-micron-nvidia-tesla",
+    "published": "Tue, 23 Jun 2026 11:48:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:07.981985"
+    "fetched_at": "2026-06-23T12:48:18.926337"
   },
   {
-    "id": "743dd63e1a59",
-    "title": "Horizons Middle East & Africa 6/23/2026",
-    "title_cn": "中东和非洲地平线 6/23/2026",
-    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/horizons-middle-east-africa-6-23-2026-video",
-    "published": "Tue, 23 Jun 2026 07:38:32 GMT",
+    "id": "d632d23490f3",
+    "title": "Tesla Stockholders Bet on SpaceX Merger as Musk’s Real Endgame",
+    "title_cn": "特斯拉股东押注 SpaceX 合并是马斯克的真正结局",
+    "summary": "It’s been a challenging year for Tesla Inc. shareholders, losing almost 10% while watching Elon Musk’s SpaceX complete the biggest initial public offering ever and immediately become the most valuable entity in the newly minted trillionaire’s collection.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tesla-stockholders-bet-on-spacex-merger-as-musk-s-real-endgame",
+    "published": "Tue, 23 Jun 2026 11:42:35 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:08.086690"
+    "fetched_at": "2026-06-23T12:48:19.060079"
   },
   {
-    "id": "b8a90cea9b3d",
-    "title": "Aluminum Leads Tumble in Metals as Tech Selloff Fuels Bear Mood",
-    "title_cn": "科技股抛售加剧悲观情绪，铝铅价格暴跌",
-    "summary": "Aluminum tumbled by more than 4%, and other metals posted sharp declines, after a bearish turn for equities weighed on sentiment in commodities markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/aluminum-falls-as-peace-talk-progress-points-to-returning-supply",
-    "published": "Tue, 23 Jun 2026 02:55:53 GMT",
+    "id": "a1e0a35cee61",
+    "title": "Iran President Visits Pakistan After Historic Deal With US",
+    "title_cn": "伊朗总统在与美国达成历史性协议后访问巴基斯坦",
+    "summary": "Iranian President Masoud Pezeshkian arrived in Islamabad on Tuesday for talks with Pakistani officials about how to deepen the relationship between the two countries following the US-Iran truce that Pakistan helped mediate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-president-to-visit-pakistan-following-historic-deal-with-us",
+    "published": "Tue, 23 Jun 2026 06:43:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:08.184233"
+    "fetched_at": "2026-06-23T12:48:19.171332"
   },
   {
-    "id": "bdb7d1de74aa",
-    "title": "IFM Investors Passes 50% Stake in Deal Target Atlas Arteria",
-    "title_cn": "IFM 投资者持有交易目标 Atlas Arteria 50% 的股份",
-    "summary": "IFM Investors has passed the 50% threshold in its holdings of Australia-listed toll road operator Atlas Arteria Ltd. and extended its takeover bid.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ifm-investors-nears-50-stake-in-atlas-arteria-as-deadline-looms",
-    "published": "Tue, 23 Jun 2026 00:29:41 GMT",
+    "id": "5a30c5d1e4f9",
+    "title": "Stocks Hit by Global Tech Selloff | Bloomberg Brief 6/23/2026",
+    "title_cn": "全球科技股遭遇抛售 | 股票彭博简报 2026 年 6 月 23 日",
+    "summary": "US equity futures slump amid a global tech rout. South Korea's Kospi Index fell 10% from a record high as investors sell off chip heavyweights such as Samsung and SK Hynix. Amy Wu Silverman of RBC Capital Markets and Kevin Mahn of Hennion and Walsh Asset Management discuss the AI-related volatility in markets.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-brief-6-23-2026-video",
+    "published": "Tue, 23 Jun 2026 11:27:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:08.296992"
+    "fetched_at": "2026-06-23T12:48:19.288080"
   },
   {
-    "id": "579bd52fdae3",
-    "title": "Kalshi Adds India to Restricted List After Prediction Market Ban",
-    "title_cn": "Kalshi 在预测市场禁令后将印度添加到限制名单中",
-    "summary": "Kalshi Inc. has added India to its list of restricted jurisdictions, weeks after the country’s technology ministry warned that prediction markets platforms were illegal and moved to curb access to such sites.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/kalshi-adds-india-to-restricted-list-after-prediction-market-ban",
-    "published": "Tue, 23 Jun 2026 07:19:10 GMT",
+    "id": "17f48f41cec1",
+    "title": "Japan Is Running Out of Options on Yen, TD’s Bharadwaj Says",
+    "title_cn": "TD的Bharadwaj表示，日本已经没有日元选择了",
+    "summary": "Jayati Bharadwaj, head of FX strategy at TD Securities, discusses the potential for yen intervention as the currency trades near its weakest level in four decades against the dollar. She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/japan-is-running-out-of-options-on-yen-td-s-bharadwaj-video",
+    "published": "Tue, 23 Jun 2026 11:24:05 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:08.401425"
+    "fetched_at": "2026-06-23T12:48:19.422410"
   },
   {
-    "id": "1802407e6763",
-    "title": "The Growing Crisis for America's Child Abuse Investigators",
-    "title_cn": "美国虐待儿童调查人员面临的日益严重的危机",
-    "summary": "With the proliferation of AI-generated abuse material, police and investigators aren't getting the robust mental health support they need.",
-    "link": "https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement/",
-    "published": "Tue, 23 Jun 2026 09:45:16 GMT",
+    "id": "e079710b24f5",
+    "title": "Emerging Market Stocks Fall on Korea Selloff; Currencies Weaken",
+    "title_cn": "韩国抛售导致新兴市场股市下跌；货币走弱",
+    "summary": "A selloff in South Korea’s technology giants dragged the gauge of emerging-market equities down, while most developing-nations’ currencies weakened as global risk sentiment worsened.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/emerging-market-stocks-fall-on-korea-selloff-currencies-weaken",
+    "published": "Tue, 23 Jun 2026 11:20:58 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:08.608551"
+    "fetched_at": "2026-06-23T12:48:19.545049"
   },
   {
-    "id": "f7654692baa6",
-    "title": "European Stocks Drop as Korea Tech Rout Ripples Through Markets",
-    "title_cn": "韩国科技股溃败席卷市场，欧洲股市下跌",
-    "summary": "European stocks were swept up in a selloff in technology firms that started in Korea and rippled through global markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools",
-    "published": "Tue, 23 Jun 2026 07:15:07 GMT",
+    "id": "449768b69b50",
+    "title": "Zerodha’s Kamath Sees Energy Transition Stocks as Key India Bet",
+    "title_cn": "Zerodha 的卡马斯将能源转型股票视为印度的关键赌注",
+    "summary": "Energy transition has become a key investment theme for Nikhil Kamath, co-founder of Zerodha Broking Ltd., as the US-Iran war reinforces the sector’s importance and creates opportunities across its value chain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/zerodha-s-kamath-sees-energy-transition-stocks-as-key-india-bet",
+    "published": "Tue, 23 Jun 2026 11:01:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:09.045636"
+    "fetched_at": "2026-06-23T12:48:19.651453"
   },
   {
-    "id": "1919508c72ab",
-    "title": "Stocks Hit by Tech Selloff as Korean Shares Plunge",
-    "title_cn": "韩国股市暴跌，科技股遭遇抛售",
-    "summary": "A selloff in technology stocks is dragging global equities lower, led by a retreat in chipmakers that have been at the forefront of an unprecedented AI-driven rally, as Neil Campling reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/stocks-hit-by-tech-selloff-as-korean-shares-plunge-video",
-    "published": "Tue, 23 Jun 2026 09:21:52 GMT",
+    "id": "4ac995abf56d",
+    "title": "Billionaire Pharma Heir Leaves Riches to Mystery Charity",
+    "title_cn": "亿万富翁制药继承人将财富留给神秘慈善机构",
+    "summary": "One of the billionaire heirs behind French drugmaker Ipsen SA has left his $4 billion fortune to a Luxembourg charity and an offshore trust, clouding the outlook for the company’s long-term control and ownership.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-french-pharma-heir-leaves-riches-to-mystery-charity",
+    "published": "Tue, 23 Jun 2026 06:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:09.153395"
+    "fetched_at": "2026-06-23T12:48:19.758247"
   },
   {
-    "id": "2dd578155c83",
-    "title": "Why SpaceX Shares Are Under Pressure",
-    "title_cn": "为什么 SpaceX 的股价面临压力",
-    "summary": "Less than two weeks after the year’s most hotly anticipated IPO, investors are questioning the remaining upside of a company that seeks to raise billions in investor-grade debt as the AI trade stalls and other major offerings from OpenAI and Anthropic loom. Bloomberg's Charlie Wells discusses on \"The Pulse with Francine Lacqua.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/why-spacex-shares-are-under-pressure-video",
-    "published": "Tue, 23 Jun 2026 09:17:58 GMT",
+    "id": "c94c73f4e1e1",
+    "title": "Digital Euro Clears Key Hurdle to Rollout in EU Parliament",
+    "title_cn": "数字欧元清除了欧盟议会推出的关键障碍",
+    "summary": "European Union lawmakers cleared the way for talks on the legal framework that will underpin the digital euro, a project deemed vital to the bloc’s monetary independence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/digital-euro-clears-key-hurdle-to-rollout-in-eu-parliament",
+    "published": "Tue, 23 Jun 2026 10:17:43 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:09.267065"
+    "fetched_at": "2026-06-23T12:48:19.861158"
   },
   {
-    "id": "7639c19d482c",
-    "title": "EU to Escalate Meta Probe Into Addictive Design That Hooks Kids",
-    "title_cn": "欧盟将对吸引儿童的成瘾设计升级元调查",
-    "summary": "The European Union is set to ramp up an investigation into Meta Platforms Inc. that alleges its products are addictive to children, as the bloc increases regulatory pressure on the US social media company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids",
-    "published": "Tue, 23 Jun 2026 09:12:34 GMT",
+    "id": "462c2b4c4114",
+    "title": "Tech Stock Selloff Spreads to Europe | The Opening Trade 6/23/2026",
+    "title_cn": "科技股抛售蔓延至欧洲开盘交易 2026 年 6 月 23 日",
+    "summary": "A selloff cascaded across global markets as investors turned jittery about high-flying tech stocks and frothy valuations. South Korea’s Kospi Index plunged 10% from a record high.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Anna Edwards, Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/the-opening-trade-6-23-2026-video",
+    "published": "Tue, 23 Jun 2026 10:42:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:09.387976"
+    "fetched_at": "2026-06-23T12:48:19.973004"
+  },
+  {
+    "id": "b25208ccb524",
+    "title": "SpaceX Rout Continues as Tech Selloff Hits Stocks | The Pulse 6/23/2026",
+    "title_cn": "科技股遭遇抛售，SpaceX 继续溃败脉搏 2026 年 6 月 23 日",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Ludovic Subran, Allianz CIO & Chief Economist; Victoria Honeyman, University of Leeds Professor of British Politics; Antony Jenkins, 10x Banking CEO & Founder (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/the-pulse-6-23-2026-video",
+    "published": "Tue, 23 Jun 2026 10:39:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.087805"
+  },
+  {
+    "id": "fcf7837432cf",
+    "title": "NYC Votes in Lively Primaries, With Suburban Race Key to House",
+    "title_cn": "纽约市初选投票热闹非凡，郊区竞选成为众议院的关键",
+    "summary": "New York City is living through the noisiest Congressional primary season in a generation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ny-democratic-primaries-2026-suburban-race-key-to-us-house",
+    "published": "Tue, 23 Jun 2026 10:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.213907"
+  },
+  {
+    "id": "17fb92e85ced",
+    "title": "Tech Losses Pile Up as Investors Focus on AI Risks",
+    "title_cn": "随着投资者关注人工智能风险，科技损失不断增加",
+    "summary": "Investors are focusing on AI risks and potential interest rate hikes.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/tech-losses-pile-up-as-investors-focus-on-ai-risks",
+    "published": "Tue, 23 Jun 2026 10:06:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.344551"
+  },
+  {
+    "id": "e356c9c4eb63",
+    "title": "ECB’s Lane Sees Danger Inflation Will Top 2% for Some Time",
+    "title_cn": "欧洲央行莱恩认为通胀将在一段时间内达到 2% 的危险",
+    "summary": "European Central Bank officials are facing the risk that inflation will hover above their goal “for quite some time,” according to Chief Economist Philip Lane.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-lane-sees-danger-inflation-will-top-2-for-quite-some-time",
+    "published": "Tue, 23 Jun 2026 08:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.482231"
+  },
+  {
+    "id": "748e3bfdf872",
+    "title": "Gold Slumps as Tech Selloff Reverberates Through Global Markets",
+    "title_cn": "科技股抛售席卷全球市场，金价暴跌",
+    "summary": "Gold slumped toward $4,000 an ounce and silver plunged as much as 5% as a broad selloff swept through financial markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/gold-steadies-as-us-and-iran-flag-early-progress-in-peace-talks",
+    "published": "Mon, 22 Jun 2026 23:19:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.598024"
+  },
+  {
+    "id": "f1f96ca135ff",
+    "title": "Bristow Is Said to Near Berry Aviation Deal in Government Push",
+    "title_cn": "据说布里斯托在政府推动下接近贝里航空交易",
+    "summary": "Bristow Group Inc. is nearing an acquisition of privately held Berry Aviation Inc. as it seeks to expand in the government services sector, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/bristow-is-said-to-near-berry-aviation-deal-in-government-push",
+    "published": "Tue, 23 Jun 2026 09:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.720273"
+  },
+  {
+    "id": "2981611201d9",
+    "title": "High Frequency Traders Expand Push Into Currency Options Market",
+    "title_cn": "高频交易员扩大进军货币期权市场",
+    "summary": "High-speed trading firms are making fresh inroads into the currency options market, with IMC Trading and Susquehanna International Group expanding globally and Optiver Holding pursuing more complex offerings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/high-frequency-traders-expand-push-into-currency-options-market",
+    "published": "Tue, 23 Jun 2026 09:13:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.821418"
+  },
+  {
+    "id": "df7534bd5615",
+    "title": "Euro Hits August Low as Lagarde’s Rates Talk Diverges From Fed",
+    "title_cn": "拉加德的利率言论与美联储分歧，欧元触及八月低点",
+    "summary": "The euro fell to its lowest level since August after weak economic data and dovish comments from European Central Bank President Christine Lagarde prompted traders to pare back their bets on interest-rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/euro-hits-august-low-as-lagarde-s-rates-talk-diverges-from-fed",
+    "published": "Tue, 23 Jun 2026 09:05:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:20.919736"
+  },
+  {
+    "id": "b366b4f420a0",
+    "title": "Yen Intervention Risk Rises After Katayama-Bessent Talks",
+    "title_cn": "片山-贝森特会谈后日元干预风险上升",
+    "summary": "Currency traders are on high alert for intervention after further weakness in the yen and a call between Japanese Finance Minister Satsuki Katayama and US Treasury Secretary Scott Bessent.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-22/yen-intervention-risk-rises-on-reports-of-katayama-bessent-talks",
+    "published": "Mon, 22 Jun 2026 23:55:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.040683"
+  },
+  {
+    "id": "d896af0ec1d9",
+    "title": "Sturgeon’s Estranged Husband Gets 5 Years for Embezzlement",
+    "title_cn": "斯特金分居的丈夫因贪污罪被判五年徒刑",
+    "summary": "The Scottish National Party’s former chief executive &mdash; who’s also the estranged husband of ex-leader Nicola Sturgeon &mdash; was sentenced to five years and three months in prison after admitting to embezzling more than £400,000 ($529,000).",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/sturgeon-s-estranged-husband-sentenced-over-400-000-snp-fraud",
+    "published": "Tue, 23 Jun 2026 08:55:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.168227"
+  },
+  {
+    "id": "498845a36c01",
+    "title": "Monte Paschi CEO Lovaglio Says He Welcomes Interest in Bank",
+    "title_cn": "Monte Paschi 首席执行官 Lovaglio 表示欢迎对该银行的兴趣",
+    "summary": "Banca Monte dei Paschi di Siena SpA Chief Executive Officer Luigi Lovaglio said he’s pleased with the competing proposals for his bank as they show the value created in its turnaround, and plans to assess all options in the interest of stakeholders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/monte-paschi-ceo-lovaglio-says-he-welcomes-interest-in-bank",
+    "published": "Tue, 23 Jun 2026 06:58:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.286069"
+  },
+  {
+    "id": "4494d59e6c97",
+    "title": "AllianzGI Gets $744 Million for Latest APAC Private Credit Fund",
+    "title_cn": "AllianzGI 为最新亚太地区私人信贷基金筹集 7.44 亿美元",
+    "summary": "Allianz Global Investors secured $744 Million in commitments for the first close of its latest private credit fund targeting investments in the Asia Pacific, underscoring sustained investor interest for the asset class in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/allianzgi-gets-744-million-for-latest-apac-private-credit-fund",
+    "published": "Tue, 23 Jun 2026 08:48:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.393080"
+  },
+  {
+    "id": "b9c5f903e058",
+    "title": "SpaceX Shares Fluctuate Near $2 Trillion Mark After 3-Day Rout",
+    "title_cn": "三天暴跌后 SpaceX 股价波动近 2 万亿美元",
+    "summary": "SpaceX shares turned positive in premarket trading, erasing an initial decline that would have represented a fourth straight day of losses for the Elon Musk-led rocket and satellite company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion",
+    "published": "Tue, 23 Jun 2026 08:41:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.740976"
   },
   {
     "id": "e29939316cb5",
@@ -657,7 +617,147 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-stock-futures-tumble-as-megacap-tech-rout-hits-asian-peers",
     "published": "Tue, 23 Jun 2026 06:16:28 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:09.906300"
+    "fetched_at": "2026-06-23T12:48:21.862388"
+  },
+  {
+    "id": "8ee11906be34",
+    "title": "Games Industry Faces More Painful Months Ahead",
+    "title_cn": "游戏行业未来几个月将面临更多痛苦",
+    "summary": "The world’s biggest games publisher is discussing axing some investments",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/tencent-and-microsoft-add-to-painful-adjustment-for-games-industry",
+    "published": "Tue, 23 Jun 2026 11:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:21.986321"
+  },
+  {
+    "id": "29ca4c06edca",
+    "title": "Gracias’ Valor to Raise $2.5 Billion Fund Amid SpaceX Win",
+    "title_cn": "Gracias’ Valor 将在 SpaceX 获胜之际筹集 25 亿美元资金",
+    "summary": "Antonio Gracias’ Valor Equity Partners, a venture capital firm that’s long-been allied with Elon Musk, is raising about $2.5 billion to invest in startups and build on its success as a backer of the newly public SpaceX.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/gracias-valor-to-raise-2-5-billion-fund-amid-spacex-win",
+    "published": "Tue, 23 Jun 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.110172"
+  },
+  {
+    "id": "35309ee267ea",
+    "title": "Abu Dhabi’s MGX Raises About $50 Billion to Accelerate AI Deals",
+    "title_cn": "阿布扎比的 MGX 筹集约 500 亿美元以加速人工智能交易",
+    "summary": "Abu Dhabi’s MGX has raised close to $50 billion from regional and global investors to accelerate spending on artificial intelligence infrastructure and technology, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/abu-dhabi-s-mgx-raises-about-50-billion-to-accelerate-ai-deals",
+    "published": "Tue, 23 Jun 2026 10:57:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.208800"
+  },
+  {
+    "id": "e0a305cf92ed",
+    "title": "Julian Emanuel Remains Bullish as Tech Selloff Deepens",
+    "title_cn": "随着科技股抛售加深，朱利安·伊曼纽尔仍然看涨",
+    "summary": "Julian Emanuel, chief equity and quantitative strategist at Evercore ISI, says earnings and price have simply caught up to each other in some of the Mag 7 stocks as he explains why he remains bullish amid a global tech selloff. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/julian-emanuel-remains-bullish-as-tech-selloff-deepens-video",
+    "published": "Tue, 23 Jun 2026 10:54:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.318339"
+  },
+  {
+    "id": "95999160d2db",
+    "title": "Getty Just Became an AI Company. It Now Has to Perform Like One",
+    "title_cn": "盖蒂刚刚成为一家人工智能公司。它现在必须表现得像一个",
+    "summary": "The stock-image giant tried home-grown AI before its tie-up with OpenAI.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/getty-images-stock-soars-145-after-openai-content-licensing-deal",
+    "published": "Tue, 23 Jun 2026 10:30:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.436233"
+  },
+  {
+    "id": "c29c4f854f5b",
+    "title": "Masayoshi Son Dismisses Musk’s Orbital Data Centers Idea",
+    "title_cn": "孙正义驳斥了马斯克的轨道数据中心想法",
+    "summary": "SoftBank founder Masayoshi Son predicted that the AI race will be clinched by computing resources on Earth as he said there’s little merit to building data centers in space, as championed by Elon Musk. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/masayoshi-son-dismisses-musk-s-orbital-data-centers-video",
+    "published": "Tue, 23 Jun 2026 10:19:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.544613"
+  },
+  {
+    "id": "155d8853b185",
+    "title": "Oracle Slashed 21,000 in 12 Months as AI Replaces Some Roles",
+    "title_cn": "AI 取代部分角色 Oracle 12 个月内裁员 21,000 人",
+    "summary": "Oracle Corp. reduced its workforce by a wider scale than previously known, cutting 21,000 employees in the past 12 months. The reductions include jobs that were eliminated by the use of artificial intelligence. Neil Campling reports on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/oracle-slashed-21-000-in-12-months-as-ai-replaces-roles-video",
+    "published": "Tue, 23 Jun 2026 10:11:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.667995"
+  },
+  {
+    "id": "8735975ed19c",
+    "title": "BBVA Offloads AI Risk With $2 Billion Infrastructure-Linked SRT",
+    "title_cn": "BBVA 通过 20 亿美元的基础设施相关 SRT 降低人工智能风险",
+    "summary": "BBVA SA is close to completing a significant risk transfer to hedge some of its rapidly-expanding portfolio of artificial intelligence-related lending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/bbva-offloads-ai-risk-with-2-billion-infrastructure-linked-srt",
+    "published": "Tue, 23 Jun 2026 10:05:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.784732"
+  },
+  {
+    "id": "c0313ffb7255",
+    "title": "Google Taps Employee Alumni Network With AI Startup Incubator",
+    "title_cn": "谷歌通过人工智能初创企业孵化器利用员工校友网络",
+    "summary": "Alphabet Inc.’s Google is backing a new incubator for former employees building artificial intelligence startups, deepening its ties with one of Silicon Valley’s largest and most influential alumni groups.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/google-taps-employee-alumni-network-with-ai-startup-incubator",
+    "published": "Tue, 23 Jun 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:22.898895"
+  },
+  {
+    "id": "1802407e6763",
+    "title": "The Growing Crisis for America's Child Abuse Investigators",
+    "title_cn": "美国虐待儿童调查人员面临的日益严重的危机",
+    "summary": "With the proliferation of AI-generated abuse material, police and investigators aren't getting the robust mental health support they need.",
+    "link": "https://www.bloomberg.com/features/2026-ai-mental-health-crisis-law-enforcement/",
+    "published": "Tue, 23 Jun 2026 09:45:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:23.010221"
+  },
+  {
+    "id": "f7654692baa6",
+    "title": "European Stocks Drop as Korea Tech Rout Ripples Through Markets",
+    "title_cn": "韩国科技股溃败席卷市场，欧洲股市下跌",
+    "summary": "European stocks were swept up in a selloff in technology firms that started in Korea and rippled through global markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/tech-firms-lead-european-stocks-lower-as-ai-momentum-cools",
+    "published": "Tue, 23 Jun 2026 07:15:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:23.150573"
+  },
+  {
+    "id": "1919508c72ab",
+    "title": "Stocks Hit by Tech Selloff as Korean Shares Plunge",
+    "title_cn": "韩国股市暴跌，科技股遭遇抛售",
+    "summary": "A selloff in technology stocks is dragging global equities lower, led by a retreat in chipmakers that have been at the forefront of an unprecedented AI-driven rally, as Neil Campling reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/stocks-hit-by-tech-selloff-as-korean-shares-plunge-video",
+    "published": "Tue, 23 Jun 2026 09:21:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:23.262919"
+  },
+  {
+    "id": "2dd578155c83",
+    "title": "Why SpaceX Shares Are Under Pressure",
+    "title_cn": "为什么 SpaceX 的股价面临压力",
+    "summary": "Less than two weeks after the year’s most hotly anticipated IPO, investors are questioning the remaining upside of a company that seeks to raise billions in investor-grade debt as the AI trade stalls and other major offerings from OpenAI and Anthropic loom. Bloomberg's Charlie Wells discusses on \"The Pulse with Francine Lacqua.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/why-spacex-shares-are-under-pressure-video",
+    "published": "Tue, 23 Jun 2026 09:17:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:23.367150"
+  },
+  {
+    "id": "7639c19d482c",
+    "title": "EU to Escalate Meta Probe Into Addictive Design That Hooks Kids",
+    "title_cn": "欧盟将对吸引儿童的成瘾设计升级元调查",
+    "summary": "The European Union is set to ramp up an investigation into Meta Platforms Inc. that alleges its products are addictive to children, as the bloc increases regulatory pressure on the US social media company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/eu-to-escalate-meta-probe-into-addictive-design-that-hooks-kids",
+    "published": "Tue, 23 Jun 2026 09:12:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:23.472785"
   },
   {
     "id": "77a823410e10",
@@ -667,17 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/allianz-sees-markets-pricing-darwinian-effect-of-ai-video",
     "published": "Tue, 23 Jun 2026 08:53:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.012336"
-  },
-  {
-    "id": "b9c5f903e058",
-    "title": "SpaceX Rout Set to Push Market Value Below $2 Trillion",
-    "title_cn": "SpaceX 惨败将使市值跌破 2 万亿美元",
-    "summary": "SpaceX shares extended declines in premarket trading, a day after the company saw the second-largest single-session drop in market value on record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/spacex-rout-set-to-push-market-value-below-2-trillion",
-    "published": "Tue, 23 Jun 2026 08:41:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.117947"
+    "fetched_at": "2026-06-23T12:48:23.588401"
   },
   {
     "id": "c83fd550d6a3",
@@ -687,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/korean-stocks-fall-10-from-record-video",
     "published": "Tue, 23 Jun 2026 07:55:53 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.214633"
+    "fetched_at": "2026-06-23T12:48:23.702333"
   },
   {
     "id": "45cefb21f440",
@@ -697,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/prosus-develops-openclaw-rival-to-avoid-europe-privacy-concerns",
     "published": "Tue, 23 Jun 2026 07:20:04 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.308516"
+    "fetched_at": "2026-06-23T12:48:23.813422"
   },
   {
     "id": "8b6a3fd6a0bf",
@@ -707,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/insight-with-haslinda-amin-6-23-2026-video",
     "published": "Tue, 23 Jun 2026 06:10:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.482822"
+    "fetched_at": "2026-06-23T12:48:23.925110"
   },
   {
     "id": "d13a399b58ee",
@@ -717,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-biggest-equity-fund-makes-contrarian-bet-on-it-stocks",
     "published": "Tue, 23 Jun 2026 00:27:03 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.592896"
+    "fetched_at": "2026-06-23T12:48:24.052248"
   },
   {
     "id": "7c44eaf9abe8",
@@ -727,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/masa-son-dismisses-musk-s-space-data-center-as-an-ai-race-winner",
     "published": "Tue, 23 Jun 2026 04:16:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.700855"
+    "fetched_at": "2026-06-23T12:48:24.173426"
   },
   {
     "id": "03dde9662791",
@@ -737,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/billionaire-sex-for-visa-claim-at-wisetech-tests-investor-limits",
     "published": "Tue, 23 Jun 2026 05:02:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:10.793365"
+    "fetched_at": "2026-06-23T12:48:24.282983"
   },
   {
     "id": "057b17f25ece",
@@ -747,7 +837,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/the-hidden-costs-of-leveraged-etfs-video",
     "published": "Tue, 23 Jun 2026 04:16:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:11.083291"
+    "fetched_at": "2026-06-23T12:48:24.529497"
   },
   {
     "id": "c73271db28f6",
@@ -757,7 +847,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/europe-sees-6-billion-reasons-for-new-levy-on-online-shoppers",
     "published": "Tue, 23 Jun 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:11.208707"
+    "fetched_at": "2026-06-23T12:48:24.655846"
   },
   {
     "id": "8b7576cb469d",
@@ -767,7 +857,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-to-share-rocket-tech-to-hasten-development-of-space-firms",
     "published": "Tue, 23 Jun 2026 03:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:11.366153"
+    "fetched_at": "2026-06-23T12:48:24.759394"
   },
   {
     "id": "9b8fcc72ba6f",
@@ -777,7 +867,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/qualcomm-is-said-to-near-deal-for-ai-chip-startup-modular",
     "published": "Mon, 22 Jun 2026 21:03:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:12.622124"
+    "fetched_at": "2026-06-23T12:48:24.868825"
   },
   {
     "id": "5f373a03314b",
@@ -787,97 +877,137 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-22/wisetech-says-founder-white-denies-human-trafficking-involvement",
     "published": "Mon, 22 Jun 2026 22:48:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:12.850035"
+    "fetched_at": "2026-06-23T12:48:25.117403"
   },
   {
-    "id": "9817aa680da6",
-    "title": "Internet Stocks Will Be Next Area of AI Cycle, Standard Chartered Says",
-    "title_cn": "渣打银行表示，互联网股票将成为人工智能周期的下一个领域",
-    "summary": "Standard Chartered's Daniel Lam says the US equities market is \"probably going to have a little bit of mild correction, not a lot, or stay around the current levels.\" He also tells Bloomberg Television that \"the next area of this AI cycle is going to be the internet stocks.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/internet-stocks-will-be-next-area-of-ai-cycle-stanchart-video",
-    "published": "Tue, 23 Jun 2026 01:04:24 GMT",
+    "id": "1335ee39695b",
+    "title": "Merz Backs Pension Plan That Channels €30 Billion to Markets",
+    "title_cn": "默茨支持向市场输送 300 亿欧元的养老金计划",
+    "summary": "Chancellor Friedrich Merz said Germany will consider a new mandatory pension contribution that would funnel at least €30 billion ($34.2 billion) a year into a capital-market fund as part of a broad effort to shore up the country’s retirement system.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/merz-says-he-ll-push-ahead-with-plan-to-raise-german-pension-age",
+    "published": "Tue, 23 Jun 2026 07:50:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.042910"
+    "fetched_at": "2026-06-23T12:48:25.528719"
   },
   {
-    "id": "91209a63396e",
-    "title": "SpaceX Fall Continues, Erasing Billions in Market Value",
-    "title_cn": "SpaceX 持续下跌，市值蒸发数十亿",
-    "summary": "SpaceX shares slipped for a third straight day, shedding hundreds of billions of dollars in market value, after the company said it is selling investment-grade bonds for the first time. Bloomberg's Anthony Stephens and Norah Mulinda break down the latest developments. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-23/spacex-fall-continues-erasing-billions-in-market-value-video",
-    "published": "Tue, 23 Jun 2026 00:40:26 GMT",
+    "id": "44b76ed3e471",
+    "title": "Trump Says Iran’s Unfrozen Funds to Remain Under US Control",
+    "title_cn": "特朗普称伊朗未冻结资金仍处于美国控制之下",
+    "summary": "President Donald Trump said Iran will only be able to use funds released from frozen accounts to purchase food and medical supplies from the US, addressing a major hurdle in peace negotiations that both sides say are making progress.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-says-12-billion-to-be-unfrozen-ahead-of-rubio-s-gulf-tour",
+    "published": "Tue, 23 Jun 2026 08:30:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.149180"
+    "fetched_at": "2026-06-23T12:48:25.641147"
   },
   {
-    "id": "7914f8b1a956",
-    "title": "Gas Stations Accused of Using AI to Boost California Prices",
-    "title_cn": "加油站被指控利用人工智能推高加州油价",
-    "summary": "A group of California consumers claimed in a lawsuit that gas station owners including Walmart Inc., Marathon Petroleum Corp., BP Plc and 7-Eleven Inc. are using artificial intelligence to illegally manipulate pump prices in the state that already has the highest rates in the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/gas-stations-accused-of-using-ai-to-inflate-prices-in-california",
-    "published": "Mon, 22 Jun 2026 16:32:38 GMT",
+    "id": "2e8425fcb7b9",
+    "title": "Meloni Considers Calling Italian Election as Soon as April",
+    "title_cn": "梅洛尼考虑最早在四月举行意大利大选",
+    "summary": "Prime Minister Giorgia Meloni is weighing the possibility of holding Italy’s next general election as soon as April, months ahead of the legal deadline before the end of 2027, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/meloni-is-considering-calling-italian-election-as-soon-as-april",
+    "published": "Tue, 23 Jun 2026 11:51:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.241308"
+    "fetched_at": "2026-06-23T12:48:25.767936"
   },
   {
-    "id": "fdea0a330c45",
-    "title": "Tech Selloff Drags Stocks Lower | The Close 6/22/2026",
-    "title_cn": "科技股抛售拖累股市走低收盘价 2026 年 6 月 22 日",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Wells Fargo Global Investment Strategist Veronica Willis, US Bank Chief Product Officer, Business Banking Shruti Patel, Susquehanna Senior Equity Research Analyst, Tech Hardware Mehdi Hosseini, Former Fed Governor & Monetary Policy Analytics Chairman Laurence Meyer, Bokeh Capital Partners Founder & Chief Investment Officer Kim Forrest, Former Kansas City Fed President Thomas Hoenig, JPM Alternatives Strategist Aaron Mulvihill, Weil, Gotshal & Manges Entertainment, Sports & Media Head Tom Ara, Cotopaxi CEO Lindsay Shumlas, & NFL Hall of Famer Terrell Owens & Syntilay CEO Ben Weiss. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/the-close-6-22-2026-video",
-    "published": "Mon, 22 Jun 2026 22:25:24 GMT",
+    "id": "08445e4f6dd9",
+    "title": "Why Anti-Migrant Attacks Are Flaring in South Africa",
+    "title_cn": "为什么反移民袭击在南非愈演愈烈",
+    "summary": "South Africa has seen a wave of xenophobic attacks and demonstrations against the presence of undocumented migrants in recent months. There are mounting concerns that the violence could escalate, particularly as protesters demand that these foreign nationals leave the country by June 30.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/south-africa-anti-migrant-backlash-what-s-driving-protests-xenophobic-attacks",
+    "published": "Tue, 23 Jun 2026 12:30:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.342603"
+    "fetched_at": "2026-06-23T12:48:25.893113"
   },
   {
-    "id": "bda88ccdf3e0",
-    "title": "Oracle Cut 21,000 Jobs in 12 Months, Says AI Replaced Some Roles",
-    "title_cn": "甲骨文在 12 个月内裁员 21,000 人，称人工智能取代了部分角色",
-    "summary": "Oracle Corp. reduced its workforce by 21,000 employees in the past 12 months, a wider scale than previously known, including those whose jobs were eliminated by the use of artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/oracle-layoffs-fueled-by-ai-reduces-workforce-by-21-000",
-    "published": "Mon, 22 Jun 2026 22:00:49 GMT",
+    "id": "f29371f976c8",
+    "title": "Burnham to Flesh Out Economic Plan as Chancellor Pick Looms",
+    "title_cn": "伯纳姆将在财政大臣人选临近之际充实经济计划",
+    "summary": "Andy Burnham is under pressure to outline an economic plan for the UK following his sudden and spectacular rise toward the pinnacle of British politics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/burnham-to-flesh-out-economic-plan-with-chancellor-pick-looming",
+    "published": "Tue, 23 Jun 2026 08:15:45 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.451733"
+    "fetched_at": "2026-06-23T12:48:26.006084"
   },
   {
-    "id": "b9b6cd5e8ff1",
-    "title": "Vimeo Parent Bending Spoons, Backers Seek $1.62 Billion in IPO",
-    "title_cn": "Vimeo 母公司 Bending Spoon 及其支持者寻求 16.2 亿美元的 IPO",
-    "summary": "Bending Spoons SpA, which acquires struggling software businesses, and some of its backers are seeking to raise as much as $1.62 billion in an initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/vimeo-parent-bending-spoons-backers-seek-1-62-billion-in-ipo",
-    "published": "Mon, 22 Jun 2026 21:40:10 GMT",
+    "id": "a8ae82216d80",
+    "title": "Romania in Last-Ditch Push to Form Cabinet After Vote Fails",
+    "title_cn": "投票失败后罗马尼亚正在最后努力组建内阁",
+    "summary": "The Romanian president will make a final push for a pro-European Union government after his candidate failed to win a vote of confidence, prolonging a political deadlock that is stalling key reforms for crucial EU funding.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/romania-in-last-ditch-attempt-to-form-cabinet-after-vote-fails",
+    "published": "Tue, 23 Jun 2026 08:09:23 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.552593"
+    "fetched_at": "2026-06-23T12:48:26.114794"
   },
   {
-    "id": "dad114c44ef9",
-    "title": "Media Consolidation in Its ‘Middle Innings’: Tom Ara",
-    "title_cn": "媒体整合的“中局”：汤姆·阿拉",
-    "summary": "Tom Ara, Weil, Gotshal & Manges Entertainment, Sport & Media Head, discusses significant mergers and acquisitions in Hollywood during the first half of 2026. Highlighted deals include Fox's $22 billion investment in Roku and Paramount's $110 billion acquisition of Warner Brothers Discovery. Ara explains that the market has shifted from a cautious stance last year to a more confident environment, leading to increased capital deployment and ongoing consolidation in the entertainment sector. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/media-consolidation-in-its-middle-innings-tom-ara-video",
-    "published": "Mon, 22 Jun 2026 21:05:15 GMT",
+    "id": "c66ad61e679f",
+    "title": "Reeves Says UK Defense Plan to Come Before NATO Summit",
+    "title_cn": "里夫斯表示英国国防计划将在北约峰会之前提出",
+    "summary": "UK Chancellor of the Exchequer Rachel Reeves vowed to publish the country’s long-delayed defense investment plan before a NATO summit next month, brushing away accusations that it will provide an inadequate increase in spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/reeves-says-uk-defense-plan-will-be-published-before-nato-summit",
+    "published": "Tue, 23 Jun 2026 11:30:13 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.678327"
+    "fetched_at": "2026-06-23T12:48:26.224418"
   },
   {
-    "id": "0474be594483",
-    "title": "Getty Images Surges 145% After Announcing OpenAI Deal",
-    "title_cn": "宣布与 OpenAI 达成交易后，Getty Images 股价飙升 145%",
-    "summary": "Shares of stock-photo company Getty Images Holdings Inc. soared as much as 145% on Monday after it announced a licensing deal with OpenAI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
-    "published": "Mon, 22 Jun 2026 09:31:20 GMT",
+    "id": "899429b003ff",
+    "title": "Eskom CEO Says Grid Asset Separation Requires Sustainability",
+    "title_cn": "Eskom首席执行官表示电网资产分离需要可持续性",
+    "summary": "The head of South Africa’s state power utility Eskom Holdings SOC Ltd. said a government plan to spin off its transmission assets needs to be implemented in way that is sustainable for the company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/eskom-ceo-says-grid-asset-separation-requires-sustainability",
+    "published": "Tue, 23 Jun 2026 11:41:05 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.793464"
+    "fetched_at": "2026-06-23T12:48:26.347279"
   },
   {
-    "id": "8162ba89239d",
-    "title": "SpaceX Falls for Third Day, Erases $600 Billion in Market Value",
-    "title_cn": "SpaceX 连续第三天下跌，市值蒸发 6000 亿美元",
-    "summary": "SpaceX shares slipped for a third straight day, shedding hundreds of billions of dollars in market value, after the Elon Musk-led company said it is selling investment-grade bonds for the first time, part of what’s expected to be a massive borrowing spree to fund its artificial-intelligence ambitions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens",
-    "published": "Mon, 22 Jun 2026 08:52:07 GMT",
+    "id": "250613f57a87",
+    "title": "Andy Burnham Needs Bold Ideas Says Ex-BOE Governor King",
+    "title_cn": "前英国央行行长金表示安迪·伯纳姆需要大胆的想法",
+    "summary": "Andy Burnham is under pressure to outline an economic plan for the UK following his sudden and spectacular rise toward the pinnacle of British politics. Bloomberg understands the Labour leadership hopeful will give a set-piece speech on the economy next week as he seeks to lay out his stall ahead of that contest. Former Bank of England Governor Mervyn King was asked by Caroline Hepker and Lizzy Burden how the potential next Prime Minister should be thinking about the economy. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-23/andy-burnham-needs-bold-ideas-says-ex-boe-governor-king-video",
+    "published": "Tue, 23 Jun 2026 11:35:58 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:13.965623"
+    "fetched_at": "2026-06-23T12:48:26.464482"
+  },
+  {
+    "id": "eb43909fb961",
+    "title": "German Funds Industry Backs Merz’s €30 Billion Pension Overhaul",
+    "title_cn": "德国基金业支持默茨 300 亿欧元的养老金改革",
+    "summary": "Germany’s fund industry welcomed plans by Chancellor Friedrich Merz for a reform of the retirement system that would require employees to invest part of their income in capital markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/german-funds-industry-backs-merz-s-30-billion-pension-overhaul",
+    "published": "Tue, 23 Jun 2026 11:16:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:26.590725"
+  },
+  {
+    "id": "2e178b003d57",
+    "title": "Mamdani’s Effort to Shape Democratic Politics Gets Its First Test",
+    "title_cn": "马姆达尼塑造民主政治的努力首次受到考验",
+    "summary": "In today’s NY primaries, the mayor seeks to unseat some incumbents",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/mamdani-s-effort-to-shape-democratic-politics-gets-its-first-test",
+    "published": "Tue, 23 Jun 2026 11:11:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:26.726401"
+  },
+  {
+    "id": "14c94e58145b",
+    "title": "Spain’s Sanchez Holds Firm as Graft Cases Reach His Family",
+    "title_cn": "西班牙桑切斯家人面临贪污案，但他态度坚定",
+    "summary": "Spanish Prime Minister Pedro Sánchez remains unyielding against the growing pile of corruption charges that have reached his household &mdash; and are increasing the political risks for his Socialist Party heading into an election year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/spain-s-sanchez-holds-firm-as-graft-cases-reach-his-family",
+    "published": "Tue, 23 Jun 2026 10:07:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:26.845632"
+  },
+  {
+    "id": "bd6479598f0e",
+    "title": "Kushner Resort-Inspired ‘Hysteria’ Dismissed by Albanian Leader",
+    "title_cn": "库什纳度假村引发的“歇斯底里”被阿尔巴尼亚领导人驳回",
+    "summary": "Albanian Prime Minister Edi Rama said that his government won’t withdraw its support for two luxury resort projects backed by Jared Kushner’s investment company despite weeks of daily protests against them.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/-hysteria-won-t-make-albania-leader-scrap-kushner-resort-plans",
+    "published": "Tue, 23 Jun 2026 10:44:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-23T12:48:26.970761"
   },
   {
     "id": "87fbad30528c",
@@ -887,7 +1017,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-23/a-poisoned-chalice-awaits-the-next-leader-of-the-uk",
     "published": "Tue, 23 Jun 2026 10:00:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:14.224587"
+    "fetched_at": "2026-06-23T12:48:27.103454"
   },
   {
     "id": "4d631f9c4e52",
@@ -897,17 +1027,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/turkish-officials-expect-syrian-leader-visit-around-nato-summit",
     "published": "Tue, 23 Jun 2026 09:39:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:14.339568"
-  },
-  {
-    "id": "1335ee39695b",
-    "title": "Merz Plans to Channel Billions Into Markets With Pension Reform",
-    "title_cn": "默茨计划通过养老金改革将数十亿美元引入市场",
-    "summary": "Germany is looking at a new mandatory pension contribution that would funnel billions into capital markets as part of a broad effort to shore up the country’s retirement system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/merz-says-he-ll-push-ahead-with-plan-to-raise-german-pension-age",
-    "published": "Tue, 23 Jun 2026 07:50:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:14.816632"
+    "fetched_at": "2026-06-23T12:48:27.332930"
   },
   {
     "id": "d7b0a5c83a54",
@@ -917,7 +1037,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/hungary-approves-anti-graft-law-to-satisfy-eu-funds-criteria",
     "published": "Tue, 23 Jun 2026 09:29:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:14.962862"
+    "fetched_at": "2026-06-23T12:48:27.436293"
   },
   {
     "id": "dafc0ad0b3da",
@@ -927,7 +1047,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/czech-president-turns-to-court-to-contest-nato-summit-exclusion",
     "published": "Tue, 23 Jun 2026 09:25:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.056484"
+    "fetched_at": "2026-06-23T12:48:27.547397"
   },
   {
     "id": "1900cfe0b71c",
@@ -937,7 +1057,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-06-23/cuba-after-communism-rosa-maria-paya-plans-trump-friendly-transition",
     "published": "Tue, 23 Jun 2026 09:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.157029"
+    "fetched_at": "2026-06-23T12:48:27.677414"
   },
   {
     "id": "91a77cadbd8e",
@@ -947,37 +1067,17 @@
     "link": "https://www.bloomberg.com/news/features/2026-06-23/cuba-disidente-rosa-maria-paya-presenta-planes-para-la-isla",
     "published": "Tue, 23 Jun 2026 09:00:15 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.269338"
+    "fetched_at": "2026-06-23T12:48:27.783806"
   },
   {
-    "id": "44b76ed3e471",
-    "title": "Iran Says $12 Billion to Be Unfrozen Ahead of Rubio’s Gulf Tour",
-    "title_cn": "伊朗表示将在卢比奥海湾之行之前解冻120亿美元",
-    "summary": "Iran said $12 billion of its frozen funds were set to be released as part of ongoing talks with the US, with the two sides broadly signaling progress in negotiations to formally end their war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-says-12-billion-to-be-unfrozen-ahead-of-rubio-s-gulf-tour",
-    "published": "Tue, 23 Jun 2026 08:30:29 GMT",
+    "id": "5d5918f11b78",
+    "title": "Iran Rushes to Woo Asia’s Top Oil Importers After US Waiver",
+    "title_cn": "美国豁免后伊朗急于吸引亚洲最大石油进口国",
+    "summary": "Iran is racing to court some of Asia’s largest oil buyers as a 60-day US sanctions waiver takes effect, a temporary lifeline that should allow Tehran to resume exports and begin clearing a backlog of cargoes on the water, even as peace talks continue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-23/iran-rushes-to-woo-asia-s-largest-oil-importers-after-us-waiver",
+    "published": "Tue, 23 Jun 2026 04:34:44 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.366122"
-  },
-  {
-    "id": "f29371f976c8",
-    "title": "Burnham to Flesh Out Economic Plan With Chancellor Pick Looming",
-    "title_cn": "伯纳姆将在财政大臣人选临近的情况下充实经济计划",
-    "summary": "Andy Burnham is under pressure to outline an economic plan for the UK following his sudden and spectacular rise toward the pinnacle of British politics.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/burnham-to-flesh-out-economic-plan-with-chancellor-pick-looming",
-    "published": "Tue, 23 Jun 2026 08:15:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.454984"
-  },
-  {
-    "id": "a8ae82216d80",
-    "title": "Romania in Last-Ditch Attempt to Form Cabinet After Vote Fails",
-    "title_cn": "投票失败后罗马尼亚组建内阁的最后努力",
-    "summary": "The Romanian president will make a final push for a pro-European Union government after his candidate failed to win a vote of confidence, prolonging a political deadlock that is stalling key reforms for crucial EU funding.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/romania-in-last-ditch-attempt-to-form-cabinet-after-vote-fails",
-    "published": "Tue, 23 Jun 2026 08:09:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:15.718367"
+    "fetched_at": "2026-06-23T12:48:27.896900"
   },
   {
     "id": "7e9c7655842c",
@@ -987,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-22/former-fed-chairman-alan-greenspan-dies-at-100-video",
     "published": "Mon, 22 Jun 2026 12:16:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:16.144957"
+    "fetched_at": "2026-06-23T12:48:28.014363"
   },
   {
     "id": "2e53a4e6c9d5",
@@ -997,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/burnham-poised-to-succeed-starmer-as-uk-prime-minister-video",
     "published": "Tue, 23 Jun 2026 07:10:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:16.691203"
+    "fetched_at": "2026-06-23T12:48:28.126531"
   },
   {
     "id": "b549d7dac063",
@@ -1007,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-trade-chief-greer-in-india-to-resolve-trade-pact-hurdles",
     "published": "Tue, 23 Jun 2026 06:54:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:16.815583"
+    "fetched_at": "2026-06-23T12:48:28.257747"
   },
   {
     "id": "8fc78fa03485",
@@ -1017,7 +1117,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/daybreak-europe-6-23-2026-video",
     "published": "Tue, 23 Jun 2026 06:49:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:16.930637"
+    "fetched_at": "2026-06-23T12:48:28.377536"
   },
   {
     "id": "2b484f58b7fb",
@@ -1027,7 +1127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/india-and-china-say-ties-are-moving-toward-improvement",
     "published": "Tue, 23 Jun 2026 02:28:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.354232"
+    "fetched_at": "2026-06-23T12:48:28.610470"
   },
   {
     "id": "8f6d3a9c8db0",
@@ -1037,7 +1137,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-23/what-comes-next-for-hormuz-oil-flows-video",
     "published": "Tue, 23 Jun 2026 05:11:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.455808"
+    "fetched_at": "2026-06-23T12:48:28.728368"
   },
   {
     "id": "3129c64966df",
@@ -1047,7 +1147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/historical-tensions-mar-ukraine-reconstruction-push-in-poland",
     "published": "Tue, 23 Jun 2026 04:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.552860"
+    "fetched_at": "2026-06-23T12:48:28.827125"
   },
   {
     "id": "ba81280c84d8",
@@ -1057,106 +1157,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-23/australia-s-pm-rejects-far-right-call-for-monocultural-society",
     "published": "Tue, 23 Jun 2026 04:01:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.706912"
-  },
-  {
-    "id": "83e61034b661",
-    "title": "Russia’s Wiki Warfare Tries to Distort Reality, Documents Show",
-    "title_cn": "文件显示，俄罗斯的维基战争试图扭曲现实",
-    "summary": "<p>Leaked files reveal&nbsp;the Social Design Agency’s&nbsp;efforts to control the information that underpins search engines and AI chatbots.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-06-23/leaked-files-show-russia-s-plan-to-influence-ai-and-search-results",
-    "published": "Tue, 23 Jun 2026 04:01:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.816987"
-  },
-  {
-    "id": "7d152a3e9ca6",
-    "title": "US Gives Philippines Underwater Vehicles as China Feud Persists",
-    "title_cn": "中美争端持续，美国向菲律宾提供水下航行器",
-    "summary": "The US said it provided four underwater vehicles to the Philippine military, as Washington boosts its longtime ally’s capability to counter Beijing’s actions in the South China Sea.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/us-gives-philippines-underwater-vehicles-as-china-feud-persists",
-    "published": "Tue, 23 Jun 2026 03:17:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:17.932034"
-  },
-  {
-    "id": "b73d94c6cb50",
-    "title": "North Korea’s Kim Wants More Nuclear Forces After US-Iran War",
-    "title_cn": "美伊战争后，朝鲜金正恩希望拥有更多核力量",
-    "summary": "Kim Jong Un called for North Korea to boost its nuclear capabilities “with increasing speed” and said the “bloody situation” in the Middle East makes his nuclear push the “most correct and unique way” to defend the country, state media reported.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/north-korea-s-kim-wants-more-nuclear-forces-after-us-iran-war",
-    "published": "Tue, 23 Jun 2026 03:05:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.095007"
-  },
-  {
-    "id": "5135269c3250",
-    "title": "LA Defeats DOJ Suit Claiming Sanctuary City Policy Fueled Riots",
-    "title_cn": "洛杉矶击败司法部诉讼，声称庇护城市政策引发骚乱",
-    "summary": "Los Angeles won a court order dismissing a Trump administration lawsuit claiming its sanctuary city ordinance helped fuel riots during 2025 protests against the president’s deportation crackdown.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/la-defeats-doj-suit-claiming-sanctuary-city-policy-fueled-riots",
-    "published": "Tue, 23 Jun 2026 02:53:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.205298"
-  },
-  {
-    "id": "5613009eb2e9",
-    "title": "Removals Begin at Intelligence Office Under Trump Loyalist Pulte",
-    "title_cn": "特朗普忠诚者普尔特领导下的情报办公室开始被清除",
-    "summary": "A wave of staff reductions at the Office of the Director of National Intelligence began on Monday, according to a person familiar with the matter, days after Bill Pulte, a staunch loyalist to President Donald Trump, became acting director.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/removals-begin-at-intelligence-office-under-trump-loyalist-pulte",
-    "published": "Tue, 23 Jun 2026 01:36:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.304807"
-  },
-  {
-    "id": "a8b8bbd2f686",
-    "title": "Iran Oil Waiver Offers Lifeline to Tehran as Talks Proceed",
-    "title_cn": "随着谈判的进行，伊朗石油豁免为德黑兰提供了生命线",
-    "summary": "The US issued a 60-day license allowing Iran to sell oil on the international market, giving Tehran an economic lifeline as the two adversaries continued talks for a permanent peace deal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-vance-hails-good-day-of-talks-as-us-waives-oil-sanctions",
-    "published": "Mon, 22 Jun 2026 14:24:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.423961"
-  },
-  {
-    "id": "aa134d93d20c",
-    "title": "Migrant Families Separated, Re-Jailed by Trump Freed by Judge",
-    "title_cn": "被特朗普拆散、重新监禁的移民家庭被法官释放",
-    "summary": "A federal judge ordered the immediate release of several immigrants who were separated from family members by the Trump administration in 2018 and later detained again by US officials.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-23/migrant-families-separated-re-jailed-by-trump-freed-by-judge",
-    "published": "Tue, 23 Jun 2026 01:28:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.539955"
-  },
-  {
-    "id": "37ac5386c52d",
-    "title": "Bolivia Plans Push Into Morales Stronghold as Blockades Fade",
-    "title_cn": "随着封锁的解除，玻利维亚计划挺进莫拉莱斯要塞",
-    "summary": "Bolivian security forces are preparing to enter the Chapare region, where former President Evo Morales has remained since late 2024, protected by thousands of supporters while evading arrest and encouraging more than 50 days of road blockades that disrupted the economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/bolivia-plans-push-into-morales-stronghold-as-blockades-recede",
-    "published": "Mon, 22 Jun 2026 18:35:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.658611"
-  },
-  {
-    "id": "f89efb3dcdbd",
-    "title": "White House Set to Host Weapons Makers Amid US Stockpile Worry",
-    "title_cn": "由于美国库存担忧，白宫将接待武器制造商",
-    "summary": "The White House is set to host a meeting of defense contractors this week to push for more robust munitions production, with stockpiles under strain after nearly four months of war with Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-22/white-house-set-to-host-weapons-makers-amid-stockpile-concerns",
-    "published": "Mon, 22 Jun 2026 19:57:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.763569"
-  },
-  {
-    "id": "9dccaec631a8",
-    "title": "Trump on Iran Negotiations: “We’re Doing Very Well” | Balance of Power: Late Edition 06/22/2026",
-    "title_cn": "特朗普谈伊朗谈判：“我们做得很好”|权力平衡：最新版 06/22/2026",
-    "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Israel's Ambassador to the United Nations Danny Danon says Israel is \"very comfortable\" with the US representing its interests in Iran negotiations, touting a \"strong alliance\" with Washington even amid questions about public strains between President Trump and Prime Minister Benjamin Netanyahu. Joe Twyman, Co-founder and Director at DeltaPoll, says the economy and cost of living, not Epstein-related controversy, will likely be seen as the issue that brought Starmer down after the UK Prime Minister resigned. Representative Dan Goldman (D-NY), a member of the House Judiciary and Homeland Security Committees, discusses New York Mayor Zohran Mamdani's endorsement of his opponent, Brad Lander, ahead of Tuesday's primary, saying Democrats broadly agree that life is \"way too expensive\" for most Americans. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-22/balance-of-power-late-edition-06-22-2026-video",
-    "published": "Mon, 22 Jun 2026 23:40:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-23T10:06:18.867392"
+    "fetched_at": "2026-06-23T12:48:28.935176"
   }
 ]
