@@ -1,5 +1,75 @@
 [
   {
+    "id": "14a15b76641f",
+    "title": "Stock Movers: Apple, SanDisk, Strategy (Podcast)",
+    "title_cn": "股票走势：苹果、SanDisk、Strategy（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/stock-movers-apple-sandisk-strategy-podcast",
+    "published": "Thu, 25 Jun 2026 19:17:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:54.016002"
+  },
+  {
+    "id": "6b060a6626cf",
+    "title": "Bloomberg Tech: Micron, Qualcomm Show Strong AI Demand (Podcast)",
+    "title_cn": "彭博科技：美光、高通表现出强劲的人工智能需求（播客）",
+    "summary": "Source: Bloomberg, 44:55",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/bloomberg-tech-micron-qualcomm-show-strong-ai-demand-podcast",
+    "published": "Thu, 25 Jun 2026 19:16:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:54.768158"
+  },
+  {
+    "id": "61b76a457da8",
+    "title": "Balance of Power: Trump Spars With Disaffected Senate (Podcast)",
+    "title_cn": "权力平衡：特朗普与心怀不满的参议院发生争执（播客）",
+    "summary": "Source: Bloomberg, 36:45",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/balance-of-power-trump-spars-with-disaffected-senate-podcast",
+    "published": "Thu, 25 Jun 2026 18:42:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:55.647931"
+  },
+  {
+    "id": "a26f0ea4b47e",
+    "title": "US: Iran Attacks Ship in Hormuz, Supreme Court Rulings, More",
+    "title_cn": "美国：伊朗袭击霍尔木兹船只、最高法院裁决等",
+    "summary": "Source: Bloomberg, 5:43",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/us-iran-attacks-ship-in-hormuz-supreme-court-rulings-more",
+    "published": "Thu, 25 Jun 2026 18:30:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:56.373442"
+  },
+  {
+    "id": "37eed064a2bf",
+    "title": "Markets Wrap: Gilts, Gold and AI’s Price Tag (Podcast)",
+    "title_cn": "市场总结：金边债券、黄金和人工智能的价格标签（播客）",
+    "summary": "Source: Bloomberg, 16:37",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/markets-wrap-gilts-gold-and-ai-s-price-tag-podcast",
+    "published": "Thu, 25 Jun 2026 18:13:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:56.871837"
+  },
+  {
+    "id": "d0dfd7c98a3a",
+    "title": "There’s a SpaceX Treasury Company",
+    "title_cn": "有一家 SpaceX 财务公司",
+    "summary": "<p>SPV-cubed, hedge fund AI bots, monthly liquidity, SpaceTeslaX and a big lint roller.</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-06-25/there-s-a-spacex-treasury-company",
+    "published": "Thu, 25 Jun 2026 17:40:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:57.017265"
+  },
+  {
+    "id": "769e0a53c627",
+    "title": "Major Supreme Court Rulings, Rubio Rejects Hormuz Tolls, More",
+    "title_cn": "最高法院的主要裁决、卢比奥拒绝霍尔木兹海峡通行费等等",
+    "summary": "Source: Bloomberg, 5:58",
+    "link": "https://www.bloomberg.com/news/audio/2026-06-25/major-supreme-court-rulings-rubio-rejects-hormuz-tolls-more",
+    "published": "Thu, 25 Jun 2026 17:34:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:30:57.311152"
+  },
+  {
     "id": "98476fc2ed1d",
     "title": "Bloomberg Talks: Jim Farley (Podcast)",
     "title_cn": "彭博社谈话：吉姆·法利（播客）",
@@ -7,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/bloomberg-talks-jim-farley-podcast",
     "published": "Thu, 25 Jun 2026 17:29:37 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:29.814558"
+    "fetched_at": "2026-06-25T19:30:57.822320"
   },
   {
     "id": "d3f11eb09a02",
@@ -17,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-backs-off-another-amazon-who-s-the-boss-case",
     "published": "Thu, 25 Jun 2026 17:17:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:29.966864"
+    "fetched_at": "2026-06-25T19:30:57.990466"
   },
   {
     "id": "d1f8d2fd94a7",
@@ -27,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/judge-blocks-trump-s-order-to-impose-new-limits-on-mail-voting",
     "published": "Thu, 25 Jun 2026 13:33:51 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:30.907782"
+    "fetched_at": "2026-06-25T19:30:58.159564"
   },
   {
     "id": "006d345a76fd",
@@ -37,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/bloomberg-intelligence-micron-surges-after-forecast-podcast",
     "published": "Thu, 25 Jun 2026 16:50:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:31.065587"
+    "fetched_at": "2026-06-25T19:30:58.824818"
   },
   {
     "id": "30eeb0f16a37",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/bloomberg-surveillance-tv-june-25th-2026-podcast",
     "published": "Thu, 25 Jun 2026 16:34:55 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:31.811476"
+    "fetched_at": "2026-06-25T19:30:59.242462"
   },
   {
     "id": "135102e90a33",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/supreme-court-rules-on-immigration-bayer-venezuela-quake-more",
     "published": "Thu, 25 Jun 2026 16:27:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:31.954754"
+    "fetched_at": "2026-06-25T19:30:59.542714"
   },
   {
     "id": "55e2e60c5ea7",
@@ -67,17 +137,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/wall-street-deepens-texas-bet-as-morgan-stanley-eyes-dallas-tower",
     "published": "Thu, 25 Jun 2026 16:25:11 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:32.115522"
+    "fetched_at": "2026-06-25T19:30:59.686360"
   },
   {
     "id": "bf97d370a3e5",
     "title": "Credit Edge: Amundi Flags Risk of AI Crowding Out (Podcast)",
     "title_cn": "信用优势：东方汇理银行指出人工智能挤出风险（播客）",
-    "summary": "Further acceleration in AI debt issuance has the potential to steer demand away from government bonds, according to Amundi, Europe’s largest asset manager. “At some point it could have a crowding effect, but we are not there yet,” Gregoire Pesques, the firm’s chief investment officer for global fixed income, tells Bloomberg News’ James Crombie and Bloomberg Intelligence’s Tolu Alamutu in the latest Credit Edge podcast. “It’s a risk that we monitor,” says Pesques, whose company has $2.5 trillion",
+    "summary": "Further acceleration in AI debt issuance has the potential to steer demand away from government bonds, according to Amundi, Europe’s largest asset manager. “At some point it could have a crowding effect, but we are not there yet,” Gregoire Pesques, the firm’s chief investment officer for global fixed income, tells Bloomberg News’ James Crombie and Bloomberg Intelligence’s Tolu Alamutu in the latest Credit Edge podcast. “It’s a risk that we monitor,” says Pesques, whose company has $2.7 trillion",
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/credit-edge-amundi-flags-risk-of-ai-crowding-out-podcast",
     "published": "Thu, 25 Jun 2026 16:09:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:32.780835"
+    "fetched_at": "2026-06-25T19:31:00.274951"
   },
   {
     "id": "ef9e26c7d34f",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/europe-s-intense-heat-wave-continues-to-break-records",
     "published": "Thu, 25 Jun 2026 16:03:25 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:32.938541"
+    "fetched_at": "2026-06-25T19:31:00.416653"
   },
   {
     "id": "746124b0f2f6",
@@ -97,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/burnham-s-honeymoon-and-headaches-in-the-heat-wave",
     "published": "Thu, 25 Jun 2026 16:00:40 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.118230"
+    "fetched_at": "2026-06-25T19:31:00.582092"
   },
   {
     "id": "1ab2c59ca230",
@@ -107,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/bloomberg-surveillance-pce-reaction-podcast",
     "published": "Thu, 25 Jun 2026 15:51:02 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.274652"
+    "fetched_at": "2026-06-25T19:31:00.730586"
   },
   {
     "id": "07bd44beefff",
@@ -117,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/supreme-court-on-tps-bayer-guns-venezuela-quake-rescue-more",
     "published": "Thu, 25 Jun 2026 15:38:32 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.458271"
+    "fetched_at": "2026-06-25T19:31:01.762931"
   },
   {
     "id": "6ca74135609f",
@@ -127,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/stock-movers-apple-trip-com-wendy-s-podcast",
     "published": "Thu, 25 Jun 2026 15:16:01 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.620560"
+    "fetched_at": "2026-06-25T19:31:02.102322"
   },
   {
     "id": "5e8dcad5a2b3",
@@ -137,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/stock-movers-micron-dell-bio-techne-podcast",
     "published": "Thu, 25 Jun 2026 14:46:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.770135"
+    "fetched_at": "2026-06-25T19:31:02.245265"
   },
   {
     "id": "8849bcfe006d",
@@ -147,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/major-supreme-court-rulings-venezuela-quake-aftermath-more",
     "published": "Thu, 25 Jun 2026 14:33:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:33.940882"
+    "fetched_at": "2026-06-25T19:31:02.388393"
   },
   {
     "id": "711d4c467442",
@@ -157,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/stock-movers-ibm-mkc-dri-podcast",
     "published": "Thu, 25 Jun 2026 13:49:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.126403"
+    "fetched_at": "2026-06-25T19:31:02.539126"
   },
   {
     "id": "581b3dd2820b",
@@ -167,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/bankers-easily-ace-us-stress-tests-they-despise",
     "published": "Thu, 25 Jun 2026 13:46:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.291568"
+    "fetched_at": "2026-06-25T19:31:02.684476"
   },
   {
     "id": "011f105e77d2",
@@ -177,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/stocks-up-on-micron-surge-venezuela-quake-apple-raises-prices",
     "published": "Thu, 25 Jun 2026 13:39:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.474216"
+    "fetched_at": "2026-06-25T19:31:02.836084"
   },
   {
     "id": "9bea5d490954",
@@ -187,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/eu-divided-over-proposed-car-emission-rules",
     "published": "Thu, 25 Jun 2026 13:08:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.654319"
+    "fetched_at": "2026-06-25T19:31:02.982692"
   },
   {
     "id": "995cee6c48df",
@@ -197,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/next-africa-dangote-refinery-s-40-billion-ipo-could-rewrite-funding-models",
     "published": "Thu, 25 Jun 2026 13:00:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.821354"
+    "fetched_at": "2026-06-25T19:31:03.146147"
   },
   {
     "id": "1514230a6ad6",
@@ -207,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/venezuela-quake-death-toll-rises-us-inflation-climbs-more",
     "published": "Thu, 25 Jun 2026 12:58:34 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:34.970127"
+    "fetched_at": "2026-06-25T19:31:03.299449"
   },
   {
     "id": "71a42ae8c4d1",
@@ -217,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/germany-s-145-billion-m-a-heatwave",
     "published": "Thu, 25 Jun 2026 12:54:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.006333"
+    "fetched_at": "2026-06-25T19:31:03.454447"
   },
   {
     "id": "3d8c4b7fb270",
@@ -227,127 +297,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-06-25/tuc-general-secretary-paul-nowak-talks-andy-burnham-podcast",
     "published": "Thu, 25 Jun 2026 12:03:21 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.172670"
+    "fetched_at": "2026-06-25T19:31:03.623149"
   },
   {
-    "id": "e21201a36b6d",
-    "title": "Vanguards of Healthcare: Citizen Health’s AI Advocate",
-    "title_cn": "医疗保健先锋：Citizen Health 的人工智能倡导者",
-    "summary": "“The number one thing that results in a better outcome for someone who is sick is actually, ‘Do you have an advocate on your side?’” says Farid Vij, co-founder and CEO of Citizen Health. Vij joins Bloomberg Intelligence analyst Jonathan Palmer to explain how Citizen Health is building an AI-powered advocate for patients with rare and complex diseases. He discusses the company’s mission to aggregate longitudinal health data, support caregivers, accelerate research and create a future where person",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/vanguards-of-healthcare-citizen-health-s-ai-advocate",
-    "published": "Thu, 25 Jun 2026 12:00:00 GMT",
+    "id": "99f1aafa41f8",
+    "title": "Moderna's Flu Vaccine Moves Closer to FDA Approval",
+    "title_cn": "Moderna 的流感疫苗距离 FDA 批准又近了一步",
+    "summary": "The FDA advisory committee recommended Moderna's flu vaccine for approval. Moderna CEO Stéphane Bancel tells Romaine Bostick and Katie Greifeld he is cautiously optimistic that the agency will follow the guidance. A final decision by the FDA is expected by August 5 which is just in time for the next flu season. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/moderna-cautiously-optimistic-on-flu-vaccine-approval-video",
+    "published": "Thu, 25 Jun 2026 18:31:17 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.318192"
-  },
-  {
-    "id": "a8fb6988faf4",
-    "title": "Macro Matters: Huw Worthington on ECB, Gilts and Rate Outlook",
-    "title_cn": "宏观问题：Huw Worthington 谈欧洲央行、英国国债和利率前景",
-    "summary": "Bloomberg Intelligence Chief European Rates Strategist Huw Worthington joins Ira Jersey on this Macro Matters edition of the FICC Focus podcast to discuss the latest moves from the European Central Bank, the Bank of England and global rate markets. Worthington explains why the ECB’s recent rate hike may already look too aggressive now that oil and gas prices have fallen back, and why the market may be overpricing further tightening if euro-area inflation undershoots target in 2027 and 2028. The",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/macro-matters-huw-worthington-on-ecb-gilts-and-rate-outlook",
-    "published": "Thu, 25 Jun 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.467324"
-  },
-  {
-    "id": "0c28a350ef10",
-    "title": "UK Business Lobby Boss Haviland Talks Andy Burnham (Podcast)",
-    "title_cn": "英国商业大厅老板哈维兰与安迪·伯纳姆交谈（播客）",
-    "summary": "Source: Bloomberg, 16:52",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/uk-business-lobby-boss-haviland-talks-andy-burnham-podcast",
-    "published": "Thu, 25 Jun 2026 11:48:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.629655"
-  },
-  {
-    "id": "b77c79731496",
-    "title": "Deadly Quakes in Venezuela, Micron Buoys AI Trade, More",
-    "title_cn": "委内瑞拉致命地震、美光科技提振人工智能贸易等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/deadly-quakes-in-venezuela-micron-buoys-ai-trade-more",
-    "published": "Thu, 25 Jun 2026 11:38:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.786799"
-  },
-  {
-    "id": "d311b08fd2d9",
-    "title": "Venezuela Gets Rocked by Massive Back-to-Back Earthquakes",
-    "title_cn": "委内瑞拉连续发生大规模地震",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/venezuela-rocked-by-back-to-back-earthquakes",
-    "published": "Thu, 25 Jun 2026 11:15:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:36.956163"
-  },
-  {
-    "id": "6ccfff1ba0ae",
-    "title": "Stock Movers: MU, BABA, WEN (Podcast)",
-    "title_cn": "库存推动者：MU、BABA、WEN（播客）",
-    "summary": "Source: Bloomberg, 4:21",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/stock-movers-mu-baba-wen-podcast",
-    "published": "Thu, 25 Jun 2026 11:02:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:37.122283"
-  },
-  {
-    "id": "313b69234dcc",
-    "title": "Senate Rejects Iran War Resolution, Oil Erases Gains, More",
-    "title_cn": "参议院否决伊朗战争决议，油价抹去涨幅等",
-    "summary": "Source: Bloomberg, 6:04",
-    "link": "https://www.bloomberg.com/news/audio/2026-06-25/senate-rejects-iran-war-resolution-oil-erases-gains-more",
-    "published": "Thu, 25 Jun 2026 10:23:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:37.276335"
-  },
-  {
-    "id": "a7ef4b87a850",
-    "title": "Stellantis, Nissan in Talks to Buy Assets From Troubled Marelli",
-    "title_cn": "Stellantis 与日产正在洽谈从陷入困境的马瑞利购买资产",
-    "summary": "Stellantis NV and Nissan Motor Co. are in talks to take over some of the assets of Marelli Holdings Co., the global auto-parts maker that’s mired in a challenging reorganization in bankruptcy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/stellantis-nissan-in-talks-to-buy-assets-from-troubled-marelli",
-    "published": "Thu, 25 Jun 2026 17:22:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:37.648722"
-  },
-  {
-    "id": "c50f329dbda1",
-    "title": "Hertz Heads for Record Weekly Drop on Funding Plan, Profit Guide",
-    "title_cn": "赫兹的融资计划和利润指南每周跌幅创历史新高",
-    "summary": "A record-setting rout in Hertz Global Holdings Inc. stock is continuing for a second day.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hertz-heads-for-record-weekly-drop-on-funding-plan-profit-guide",
-    "published": "Thu, 25 Jun 2026 17:16:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:37.817437"
-  },
-  {
-    "id": "aefa5b55cb30",
-    "title": "Stocks Whipsaw as Micron Surges While Apple Sinks: Markets Wrap",
-    "title_cn": "美光科技股价飙升而苹果股价下跌：市场收尾",
-    "summary": "A renewed wave of tech volatility gripped Wall Street, with a selloff in megacaps overshadowing gains in other corners of the stock market that were buoyed by signs the economy is in good shape.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
-    "published": "Wed, 24 Jun 2026 22:04:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:37.979836"
-  },
-  {
-    "id": "c1d1f16dedf8",
-    "title": "UNC-Chapel Hill Chancellor on Adding Students, Athletics",
-    "title_cn": "北卡罗来纳大学教堂山分校校长谈增加学生和体育",
-    "summary": "UNC-Chapel Hill Chancellor Lee Roberts discusses student growth, funding, college sports and a potential new stadium. He speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/unc-chapel-hill-chancellor-on-adding-students-athletics-video",
-    "published": "Thu, 25 Jun 2026 17:07:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.160810"
-  },
-  {
-    "id": "bb7afe534597",
-    "title": "Macflation Is Officially Here",
-    "title_cn": "麦克通胀正式到来",
-    "summary": "Gadget prices inflate.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/macflation-is-officially-here",
-    "published": "Thu, 25 Jun 2026 17:05:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.310485"
+    "fetched_at": "2026-06-25T19:31:04.043898"
   },
   {
     "id": "e9e49badcdfd",
@@ -357,207 +317,187 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/ships-appear-to-u-turn-while-trying-to-exit-hormuz-by-oman-route",
     "published": "Thu, 25 Jun 2026 14:48:38 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.470628"
-  },
-  {
-    "id": "e19926f59535",
-    "title": "Hetts: Ignore PEs, Watch Earnings",
-    "title_cn": "Hetts：忽略私募股权投资，关注盈利",
-    "summary": "AI stocks may be stealing the spotlight, but Janus Henderson's Adam Hetts says investors are missing the bigger story. He joined Bloomberg Open Interest to explain why earnings, and not valuations, are driving markets, why sticky inflation isn't a dealbreaker, and why the rally is expanding well beyond Big Tech. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/hetts-ignore-pes-watch-earnings-video",
-    "published": "Thu, 25 Jun 2026 16:37:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.639136"
-  },
-  {
-    "id": "75102365693c",
-    "title": "Apple Shares Sink After Sweeping Price Hikes Hit iPads and Macs",
-    "title_cn": "iPad 和 Mac 价格大幅上涨后苹果股价下跌",
-    "summary": "Apple Inc. shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages",
-    "published": "Thu, 25 Jun 2026 12:39:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.804268"
-  },
-  {
-    "id": "5433d12f8531",
-    "title": "Gold Steadies Near $4,000 as Traders Weigh Interest-Rate Outlook",
-    "title_cn": "交易员权衡利率前景，金价稳定在 4,000 美元附近",
-    "summary": "Gold steadied after the release of US economic data, as traders slightly pulled back on expectations for interest rate hikes. Suki Cooper, Global Head: Commodities Research at Standard Chartered Bank, discusses her outlook on the precious metals space and why central banks are buying gold amid the pullback. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/gold-steadies-near-4k-as-traders-weigh-rate-outlook-video",
-    "published": "Thu, 25 Jun 2026 16:25:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:38.972143"
-  },
-  {
-    "id": "fe1ff630b62f",
-    "title": "Chipmakers Rally With Traders Piling In After Micron Results",
-    "title_cn": "美光业绩公布后，芯片制造商股价上涨，交易员纷纷买入",
-    "summary": "Semiconductor stocks surged on Thursday as Micron Technology Inc.’s strong results underscored how artificial intelligence remains a major vector for growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth",
-    "published": "Wed, 24 Jun 2026 21:18:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.139207"
-  },
-  {
-    "id": "13cf81b9319a",
-    "title": "SpaceX Credit Derivatives Start to Trade After Debut Bond Sale",
-    "title_cn": "首次债券发售后 SpaceX 信用衍生品开始交易",
-    "summary": "Credit-default swaps tied to Elon Musk’s SpaceX have begun actively trading after the company sold high-grade bonds this week for the first time, according to people familiar with the matter, allowing investors to hedge against potential losses or to speculate on the creditworthiness of the firm.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/spacex-credit-derivatives-start-to-trade-after-debut-bond-sale",
-    "published": "Thu, 25 Jun 2026 16:05:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.321496"
-  },
-  {
-    "id": "c9cde4f852a1",
-    "title": "China Raises €5 Billion in Record Euro Bond Sale",
-    "title_cn": "中国发行创纪录的欧元债券筹集了50亿欧元",
-    "summary": "China sold €5 billion ($5.7 billion) of euro-denominated bonds, its biggest ever deal in the currency and the second in seven months.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/china-starts-marketing-record-5-7-billion-euro-sovereign-bonds",
-    "published": "Thu, 25 Jun 2026 00:51:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.494626"
-  },
-  {
-    "id": "ec4b04c3c8c5",
-    "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High",
-    "title_cn": "通胀创三年新高 美国消费者支出回升",
-    "summary": "US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years, suggesting Americans are powering through the fallout from the Iran war.\nRob Sockin, Chief US Economist at PGIM Credit, reacts to the PCE data and explains how the Fed might react to the numbers. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/us-consumer-spending-picks-up-despite-higher-inflation-video",
-    "published": "Thu, 25 Jun 2026 16:01:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.639538"
-  },
-  {
-    "id": "65915695a5f5",
-    "title": "Stocks Climb Even as Apple Price Hikes Offset Chipmaker Strength",
-    "title_cn": "尽管苹果股价上涨抵消了芯片制造商的实力，但股市仍在上涨",
-    "summary": "Stocks solidified gains in the middle of a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-tech-stocks-set-to-rally-as-micron-outlook-fuels-ai-optimism",
-    "published": "Thu, 25 Jun 2026 09:41:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.791068"
+    "fetched_at": "2026-06-25T19:31:04.187202"
   },
   {
     "id": "ed5432f77fba",
-    "title": "Oil Rises as Traders Assess Pace of Hormuz Reopening, Safety",
-    "title_cn": "随着交易商评估霍尔木兹重新开放的步伐和安全性，油价上涨",
-    "summary": "Oil rose as traders closely monitored shipments through the Strait of Hormuz following an incident involving a cargo ship off the Omani coast, renewing concerns about the safety of the key shipping corridor.",
+    "title": "Oil Gains as Ship Attack Raises Concern About Hormuz Reopening",
+    "title_cn": "船舶袭击引发对霍尔木兹重新开放的担忧，石油价格上涨",
+    "summary": "Oil rose as traders closely monitored shipments through the Strait of Hormuz after a vessel was struck by a projectile in the key shipping corridor off the Omani coast, renewing concerns about the safety for passing cargoes amid the US and Iran’s peace negotiations.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/latest-oil-market-news-and-analysis-for-june-25",
     "published": "Wed, 24 Jun 2026 22:02:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:39.929695"
+    "fetched_at": "2026-06-25T19:31:04.316444"
   },
   {
-    "id": "63afb8430643",
-    "title": "Bloomberg Surveillance 6/25/2026",
-    "title_cn": "彭博社监测 2026 年 6 月 25 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/bloomberg-surveillance-6-25-2026-video",
-    "published": "Thu, 25 Jun 2026 15:55:29 GMT",
+    "id": "25d4151042fa",
+    "title": "Endless Shrimp Deal Was Scheme to Squeeze Red Lobster, Suit Says",
+    "title_cn": "诉讼称，无尽的虾交易是为了压榨红龙虾的计划",
+    "summary": "Red Lobster’s $20 all-you-can-eat shrimp deal wasn’t just a badly designed promotion that inadvertently helped tip the iconic American restaurant chain into bankruptcy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/endless-shrimp-deal-was-scheme-to-squeeze-red-lobster-suit-says",
+    "published": "Thu, 25 Jun 2026 18:58:45 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.075546"
+    "fetched_at": "2026-06-25T19:31:04.468532"
   },
   {
-    "id": "180dfac83e60",
-    "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
-    "title_cn": "匈牙利国债收益率逼近英国国债，亲欧盟立场推动涨势",
-    "summary": "Hungary’s bonds have rallied so much that yields are approaching those in the UK, the latest sign that investors are backing the new government’s plans to fix the economy and join the euro region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk",
-    "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+    "id": "dff303cf636e",
+    "title": "SpaceX Sale Shows Funding Across Equity, Credit: Hjort",
+    "title_cn": "SpaceX 出售显示股权融资，图片来源：Hjort",
+    "summary": "Viktor Hjort, global head of credit strategy & desks analysts at BNP Paribas, and Stephanie Doyle, fixed income portfolio manager at JPMorgan Asset Management, join Katie Greifeld on \"Bloomberg Real Yield.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/spacex-sale-shows-funding-across-equity-credit-hjort-video",
+    "published": "Thu, 25 Jun 2026 18:53:44 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.244998"
+    "fetched_at": "2026-06-25T19:31:04.646613"
   },
   {
-    "id": "067c4cace394",
-    "title": "Airfares Are Staying High Even as the Jet Fuel Crisis Fades",
-    "title_cn": "尽管航空燃油危机消退，机票价格仍居高不下",
-    "summary": "A historic jet fuel crisis is now fading as prices fall globally, but US passengers are yet to see the benefit with airfares still elevated.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/airfares-are-staying-high-even-as-the-jet-fuel-crisis-fades",
-    "published": "Thu, 25 Jun 2026 15:30:55 GMT",
+    "id": "003039d381d0",
+    "title": "Ford CEO Says Human Workers Are Making a Difference",
+    "title_cn": "福特首席执行官表示人类工人正在发挥作用",
+    "summary": "Ford Motor Co. Chief Executive Officer Jim Farley talks about how human workers are making all the difference on the factory floors. He speaks on \"Bloomberg Open Interest.\" \n\nCorrection: Ford is aiming to cut $1 billion in costs this year. \nThe caption has been updated to reflect the correct savings figure on controllable costs. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ford-ceo-says-human-workers-are-making-a-difference-video",
+    "published": "Thu, 25 Jun 2026 17:51:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.413480"
+    "fetched_at": "2026-06-25T19:31:04.803414"
+  },
+  {
+    "id": "62ccbd1b25f5",
+    "title": "Fans Sit at Center of World Cup | Sports City",
+    "title_cn": "球迷坐在世界杯中心|体育城",
+    "summary": "Bloomberg's Randall Williams looks at how ticket prices keep many fans out of the World Cup, but they're still spending millions of dollars on the tournament.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/fans-sit-at-center-of-world-cup-sports-city-video",
+    "published": "Thu, 25 Jun 2026 18:44:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:04.947163"
+  },
+  {
+    "id": "9dca16904551",
+    "title": "Memory is a Structural Story for AI: Lovell",
+    "title_cn": "记忆是人工智能的结构故事：洛弗尔",
+    "summary": "Nadia Lovell, Head of Global Equity Strategy at UBS Global Wealth, says memory is a stickier, structural story for AI and has longer legs to go within the trade. She speaks to Bloomberg's Matt Miller and Dani Burger on \"Open Interest.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/memory-is-a-structural-story-for-ai-lovell-video",
+    "published": "Thu, 25 Jun 2026 18:43:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:05.095976"
   },
   {
     "id": "3391d06f1b4c",
-    "title": "Trump Requests $11.1 Billion in New Aid for Struggling Farmers",
-    "title_cn": "特朗普请求为陷入困境的农民提供 111 亿美元的新援助",
+    "title": "Trump Seeks $11.1 Billion in New Aid for Struggling Farmers",
+    "title_cn": "特朗普寻求为陷入困境的农民提供 111 亿美元的新援助",
     "summary": "President Donald Trump had a surprise for the farmers he invited for dinner at the White House later Thursday: a request to Congress for $11.1 billion in assistance that would amount to the second bailout of the year for the beleaguered agriculture sector.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-requests-11-1-billion-in-new-aid-for-struggling-farmers",
     "published": "Thu, 25 Jun 2026 15:29:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.561219"
+    "fetched_at": "2026-06-25T19:31:05.244081"
   },
   {
-    "id": "98bd9419546c",
-    "title": "How the 1994 World Cup Changed the Business of Football Forever",
-    "title_cn": "1994 年世界杯如何永远改变了足球行业",
-    "summary": "The World Cup had been an enormously popular event with surprisingly limited commercial significance; the 1990 tournament in Italy, for instance, lost money for broadcasters. Then the World Cup came to the US in 1994 and everything changed.\n\nOn this episode of the Odd Lots podcast, Joey D’Urso, author of More Than A Shirt, joins Tracy Alloway and Joe Weisenthal to discuss how advertisements and sponsorships by American corporations like McDonalds and General Motors in the 1994 World Cup changed the business of the sport forever.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/how-the-1994-world-cup-changed-the-business-of-football-video-mqtnggcl",
-    "published": "Thu, 25 Jun 2026 15:21:07 GMT",
+    "id": "aefa5b55cb30",
+    "title": "Stocks Whipsaw as Micron Surges While Apple Sinks: Markets Wrap",
+    "title_cn": "美光科技股价飙升而苹果股价下跌：市场收尾",
+    "summary": "A renewed wave of tech volatility gripped Wall Street, with a selloff in megacaps tempering optimism in other corners of the stock market that were buoyed by signs the economy is in good shape.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/us-stock-futures-surge-on-micron-s-strong-forecast-markets-wrap",
+    "published": "Wed, 24 Jun 2026 22:04:22 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.721109"
+    "fetched_at": "2026-06-25T19:31:05.380663"
   },
   {
-    "id": "10a3c030a00b",
-    "title": "US Airline Stocks Erase Pandemic-Era Losses as Oil Prices Ease",
-    "title_cn": "随着油价下跌，美国航空股消除了大流行时期的损失",
-    "summary": "A popular gauge of the US airline industry has finally recovered from pandemic-era losses after six years, as progress on a peace deal between US and Iran pushed oil prices lower and eased the pressure on carriers’ profitability.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-airline-stocks-erase-pandemic-era-losses-as-oil-prices-ease",
-    "published": "Thu, 25 Jun 2026 15:12:47 GMT",
+    "id": "07b2b78df269",
+    "title": "Ares Private Credit Fund Caps Redemptions After 14% Seek to Exit",
+    "title_cn": "Ares 私人信贷基金在 14% 寻求退出后限制赎回",
+    "summary": "Bloomberg's Nabila Ahmed and James Crombie joins Katie Greifeld on \"Bloomberg Real Yield.\" Ares Management curbed withdrawals from one of its private credit funds for the second consecutive quarter after redemption requests rose to 14.4%, the latest sign that the $1.8 trillion industry remains under pressure.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ares-private-credit-fund-caps-redemptions-after-14-video",
+    "published": "Thu, 25 Jun 2026 18:40:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:40.892285"
+    "fetched_at": "2026-06-25T19:31:05.522745"
   },
   {
-    "id": "69311ded426d",
-    "title": "Three New ETFs to Watch",
-    "title_cn": "值得关注的三只新 ETF",
-    "summary": "<p>The SpaceX IPO set off a predictable&nbsp;frenzy&mdash;we look at who may lead the pack. Also, betting against AI, high-yield bonds, plus bonus mentions.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/new-etfs-to-watch-2x-spacex-3x-ai-plus-bonds-and-bitcoin",
-    "published": "Thu, 25 Jun 2026 15:08:18 GMT",
+    "id": "65915695a5f5",
+    "title": "Stocks Drift as Apple Price Hikes Offset Chipmaker Strength",
+    "title_cn": "苹果股价上涨抵消了芯片制造商的实力",
+    "summary": "Stocks meandered through a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-tech-stocks-set-to-rally-as-micron-outlook-fuels-ai-optimism",
+    "published": "Thu, 25 Jun 2026 09:41:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.054800"
+    "fetched_at": "2026-06-25T19:31:05.678784"
   },
   {
-    "id": "ed142dffd494",
-    "title": "Private Credit Arbitrage Trade Gets Momentum as Redemptions Rise",
-    "title_cn": "随着赎回增加，私人信贷套利交易获得动力",
-    "summary": "On paper, it seems like a no-brainer trade: Cash out of one private credit fund at 100% of net asset value and plow the money back into a similar vehicle that’s trading at a substantially discounted price.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/private-credit-s-big-arbitrage-trade-gains-backing-from-advisers",
-    "published": "Thu, 25 Jun 2026 11:10:00 GMT",
+    "id": "b9414f2e4fc7",
+    "title": "Treasuries Volatility Will Go Higher: Marden",
+    "title_cn": "马登：国债波动性将会更高",
+    "summary": "Adam Marden, co-portfolio manager of the dynamic global bond strategy at T. Rowe Price, and Deirdre Dunn, head of global rates at Citi, join Katie Greifeld on \"Bloomberg Real Yield.\" Treasuries gained after the Federal Reserve’s favored inflation gauge rose less than estimated, damping expectations for an interest-rate hike in the months ahead. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/treasuries-volatility-will-go-higher-marden-video",
+    "published": "Thu, 25 Jun 2026 18:36:31 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.233069"
+    "fetched_at": "2026-06-25T19:31:05.817015"
   },
   {
-    "id": "cc96da3e1d27",
-    "title": "CME Plans Wind Derivatives Launch for US, Europe, Australia",
-    "title_cn": "芝商所计划在美国、欧洲和澳大利亚推出风能衍生品",
-    "summary": "The Chicago Mercantile Exchange plans to launch wind derivatives across three continents, according to a person familiar with the matter, as the role of renewable energy in power generation grows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/cme-plans-to-launch-wind-derivatives-for-us-europe-australia",
-    "published": "Thu, 25 Jun 2026 08:29:44 GMT",
+    "id": "365bb31c48cd",
+    "title": "We Have Seen Peak Inflation: Stuart Paul",
+    "title_cn": "我们已经看到通货膨胀峰值：斯图尔特·保罗",
+    "summary": "Bloomberg Economics' Stuart Paul joins Scarlet Fu on \"Bloomberg Real Yield.\" US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years, suggesting Americans are powering through the fallout from the Iran war. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/we-have-seen-peak-inflation-stuart-paul-video",
+    "published": "Thu, 25 Jun 2026 18:32:39 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.396171"
+    "fetched_at": "2026-06-25T19:31:05.962920"
   },
   {
-    "id": "f94f6eeb9de4",
-    "title": "Billionaire Adani to Invest $2.1 Billion to Build Airport Cities",
-    "title_cn": "亿万富翁阿达尼将投资 21 亿美元建设机场城市",
-    "summary": "Billionaire Gautam Adani’s airport unit will invest 200 billion rupees ($2.1 billion) to build integrated cities across its network as the ports-to-power conglomerate expands into non-aviation businesses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/billionaire-adani-to-invest-2-1-billion-to-build-airport-cities",
-    "published": "Thu, 25 Jun 2026 14:56:04 GMT",
+    "id": "f6d965c01fae",
+    "title": "Trump Seeks $88 Billion for Iran War",
+    "title_cn": "特朗普为伊朗战争寻求880亿美元",
+    "summary": "President Donald Trump asked Congress to pass a supplemental spending package to backfill the cost of the war in Iran and respond to public health crises abroad. Steve Ellis, President of Taxpayers for Common Sense joins Balance of Power to discuss the supplemental funding request.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/trump-seeks-88-billion-for-iran-war-video",
+    "published": "Thu, 25 Jun 2026 18:31:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.560609"
+    "fetched_at": "2026-06-25T19:31:06.115308"
   },
   {
-    "id": "7d6e11b988e7",
-    "title": "Rio Tinto in Talks With Vitol Over Venture to Cut Freight Costs",
-    "title_cn": "力拓与维多就合资降低货运成本进行谈判",
-    "summary": "Rio Tinto Group is in talks with oil-trading giant Vitol Group about setting up a freight and logistics joint venture, less than five months after ending talks to buy rival miner and trader Glencore Plc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/rio-tinto-in-talks-with-vitol-over-venture-to-cut-freight-costs",
-    "published": "Thu, 25 Jun 2026 14:52:58 GMT",
+    "id": "ceb3365303aa",
+    "title": "We Need to Help Ukraine Ends This War Says Hutchinson",
+    "title_cn": "哈钦森表示，我们需要帮助乌克兰结束这场战争",
+    "summary": "Kay Bailey Hutchison, Former US Ambassador to NATO & Former Texas Senator (R) joined Balance of Power to discuss the recent meeting between NATO's Rutte and Trump yesterday.  NATO Secretary General Mark Rutte met with President Donald Trump in the Oval Office to ease Trump's anger over alliance nations' reluctance to help with the campaign against Iran. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/we-need-to-help-ukraine-ends-this-war-says-hutchinson-video",
+    "published": "Thu, 25 Jun 2026 18:26:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.710303"
+    "fetched_at": "2026-06-25T19:31:06.257887"
+  },
+  {
+    "id": "25fafc2964ad",
+    "title": "Copper Climbs as Dip-Buying and AI Rally Offset Rate Concerns",
+    "title_cn": "逢低买入和人工智能反弹抵消了利率担忧，铜价上涨",
+    "summary": "Copper rallied from a seven-week low as signs of consumer buying and a rebound in global stock markets bolstered sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/copper-climbs-as-lower-dollar-ai-rally-counter-rate-concerns",
+    "published": "Thu, 25 Jun 2026 04:00:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:06.421103"
+  },
+  {
+    "id": "57ea3a1ad4c6",
+    "title": "S&amp;P 500 Earnings Will Soon Be Eclipsed. Blame Canada",
+    "title_cn": "标准普尔 500 指数的盈利很快就会黯然失色。指责加拿大",
+    "summary": "US firms just put a lid on one of the best earnings seasons in years, posting 28% profit growth. They may be upstaged by their Canadian neighbors in the next reporting period as the first half comes to a close.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/blockbuster-s-p-500-earnings-will-soon-be-eclipsed-blame-canada",
+    "published": "Thu, 25 Jun 2026 12:00:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:06.569536"
+  },
+  {
+    "id": "797b8e801df3",
+    "title": "NYC ‘Classical Christian’ School Wins UWS Campus for $33 Million",
+    "title_cn": "纽约市“古典基督教”学校以 3300 万美元赢得 UWS 校园",
+    "summary": "Geneva School of Manhattan &mdash; an institution that describes itself as a “classical Christian school” &mdash; is acquiring the former Upper West Side home of a bankrupt private school for $33.2 million.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/nyc-classical-christian-school-wins-uws-campus-for-33-million",
+    "published": "Thu, 25 Jun 2026 18:06:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:06.722686"
+  },
+  {
+    "id": "f3965ef07904",
+    "title": "Fire Breaks Out at Delta Air Lines Refinery in Pennsylvania",
+    "title_cn": "宾夕法尼亚州达美航空炼油厂发生火灾",
+    "summary": "A fire broke out at Delta Air Lines Inc.’s refinery in Trainer, Pennsylvania, on Thursday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/fire-breaks-out-at-delta-air-lines-dal-refinery-in-pennsylvania",
+    "published": "Thu, 25 Jun 2026 17:40:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:06.881001"
   },
   {
     "id": "cbbdfe25ca18",
@@ -567,207 +507,97 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/treasuries-climb-as-benign-us-inflation-eases-bets-on-a-fed-hike",
     "published": "Thu, 25 Jun 2026 12:51:09 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:41.880107"
+    "fetched_at": "2026-06-25T19:31:07.016511"
   },
   {
-    "id": "5968194c1d18",
-    "title": "Braskem Seeks Emergency Protection as Debt Talks Hit Snags",
-    "title_cn": "债务谈判遇到障碍，布拉斯科姆寻求紧急保护",
-    "summary": "Brazilian petrochemical giant Braskem SA filed for emergency protection against creditors as talks with for an out-of-court solution to its mounting debt woes hit snags.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/braskem-seeks-emergency-protection-as-debt-talks-hit-snags",
-    "published": "Thu, 25 Jun 2026 12:13:28 GMT",
+    "id": "445eef79b4ee",
+    "title": "Figma Unveils Full-Stack Canvas for the AI Era",
+    "title_cn": "Figma 推出人工智能时代的全栈 Canvas",
+    "summary": "Collaborative design firm Figma unveiled a platform overhaul for the AI era at its annual Config conference in San Francisco, transforming its workspace into what it calls an \"intelligent canvas\" for full-stack digital creation. Figma co-founder and CEO Dylan Field joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/figma-unveils-full-stack-canvas-for-the-ai-era-video",
+    "published": "Thu, 25 Jun 2026 17:42:07 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:42.068240"
+    "fetched_at": "2026-06-25T19:31:07.175161"
   },
   {
-    "id": "6d1cc45b4745",
-    "title": "JPM’s Lake Exits, Resetting the Race to Succeed Dimon",
-    "title_cn": "摩根大通的莱克退出，重新启动戴蒙接班人的竞争",
-    "summary": "JPMorgan Chase & Co. named Troy Rohrbaugh and Doug Petno co-presidents after the retirement of consumer banking chief Marianne Lake. Katherine Doherty reports on Bloomberg Television. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/jpm-s-lake-exits-resetting-the-race-to-succeed-dimon-video",
-    "published": "Thu, 25 Jun 2026 14:33:40 GMT",
+    "id": "84ac05415617",
+    "title": "Darden Posts Weak Outlook as Olive Garden Sales Disappoint",
+    "title_cn": "由于橄榄园销售令人失望，达顿商学院前景黯淡",
+    "summary": "Darden Restaurants Inc. posted a cautious overall profit outlook as same-store sales at Olive Garden trailed expectations, raising questions about demand that overshadowed better-than-expected earnings.\nMichael Halen, Bloomberg Intelligence Senior Restaurant and Foodservice Analyst, breaks down the earnings and gives his outlook for the broader food service industry. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/darden-posts-weak-outlook-olive-garden-sales-disappoint-video",
+    "published": "Thu, 25 Jun 2026 17:29:03 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:42.225399"
+    "fetched_at": "2026-06-25T19:31:07.326922"
   },
   {
-    "id": "1dde101a7587",
-    "title": "Ford CEO Jim Farley Says Culture Change Brought Quality Improvements",
-    "title_cn": "福特首席执行官吉姆·法利表示文化变革带来了质量提升",
-    "summary": "Ford CEO Jim Farley says that a culture change at the automaker lead to Ford becoming a \"four-year overnight success.\" Farley also says American workers are beating the likes of Toyota and Hyundai in terms of vehicle quality. Farley spoke with Bloomberg's Matthew Miller.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ford-ceo-culture-change-brought-quality-improvements-video",
-    "published": "Thu, 25 Jun 2026 14:13:39 GMT",
+    "id": "a7ef4b87a850",
+    "title": "Stellantis, Nissan in Talks to Buy Assets From Troubled Marelli",
+    "title_cn": "Stellantis 与日产正在洽谈从陷入困境的马瑞利购买资产",
+    "summary": "Stellantis NV and Nissan Motor Co. are in talks to take over some of the assets of Marelli Holdings Co., the global auto-parts maker that’s mired in a challenging reorganization in bankruptcy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/stellantis-nissan-in-talks-to-buy-assets-from-troubled-marelli",
+    "published": "Thu, 25 Jun 2026 17:22:06 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:42.404680"
+    "fetched_at": "2026-06-25T19:31:07.482691"
   },
   {
-    "id": "a3ca033a90f6",
-    "title": "Apple Raises Prices on Some Products by $500",
-    "title_cn": "Apple 将部分产品价格提高 500 美元",
-    "summary": "Apple customers may experience sticker shock next time they look to buy one of many products. The company is raising prices of Macs, iPads, home devices, and the Vision Pro to offset cost hikes caused by a shortage of memory chips and storage. Prices for iPhone, Apple Watch and AirPods stay the same. Mark Gurman reports. (This video has been edited with an updated graphic which reflects the new price of the iPad Pro is $1,199.) (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-some-products-by-500-video",
-    "published": "Thu, 25 Jun 2026 14:25:25 GMT",
+    "id": "dd94bb77c1ea",
+    "title": "H.B. Fuller Agrees to Acquire UK-Listed AMS for £659 Million",
+    "title_cn": "H.B.富勒同意以 6.59 亿英镑收购英国上市公司 AMS",
+    "summary": "H.B. Fuller Co. agreed to acquire Advanced Medical Solutions Group Plc, a British maker of tissue-healing medical products, for £659 million ($870 million).",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-agrees-to-acquire-uk-medtech-ams-for-659-million",
+    "published": "Thu, 25 Jun 2026 06:57:44 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:42.720747"
+    "fetched_at": "2026-06-25T19:31:07.630722"
   },
   {
-    "id": "be1fc4f0947c",
-    "title": "Bob Sloan's Market Positioning Warning",
-    "title_cn": "鲍勃·斯隆的市场定位警告",
-    "summary": "Markets may be near record highs, but Bob Sloan, S3 Partners Founder & Managing Partner says the real story is happening beneath the surface. He joins Bloomberg Open Interest to explain why passive investors are fueling AI stocks higher while hedge funds quietly sell into the rally and why tracking investor positioning may be just as important as earnings or valuations. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/bob-sloan-s-market-positioning-warning-video",
-    "published": "Thu, 25 Jun 2026 16:45:46 GMT",
+    "id": "c50f329dbda1",
+    "title": "Hertz Heads for Record Weekly Drop on Funding Plan, Profit Guide",
+    "title_cn": "赫兹的融资计划和利润指南每周跌幅创历史新高",
+    "summary": "A record-setting rout in Hertz Global Holdings Inc. stock is continuing for a second day.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hertz-heads-for-record-weekly-drop-on-funding-plan-profit-guide",
+    "published": "Thu, 25 Jun 2026 17:16:46 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:42.861544"
+    "fetched_at": "2026-06-25T19:31:07.773310"
   },
   {
-    "id": "9a442e8f70b9",
-    "title": "Sonos Cuts 3% of Staff Across User Experience, Product Teams",
-    "title_cn": "Sonos 在用户体验和产品团队方面裁员 3%",
-    "summary": "Sonos Inc. made cuts across its user experience, product and design teams, citing a need to streamline the organization and operate more efficiently.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams",
-    "published": "Thu, 25 Jun 2026 15:21:47 GMT",
+    "id": "b8b2dd9c8331",
+    "title": "Michael Saylor’s Misfiring Funding Model Jolts Bitcoin Traders",
+    "title_cn": "迈克尔·塞勒 (Michael Saylor) 失败的融资模式震惊了比特币交易者",
+    "summary": "Fears that Michael Saylor’s Bitcoin buying machine is beginning to seize up are spilling across the crypto market, fueling the latest leg of Bitcoin’s selloff and exposing cracks in one of the financial structures that has underpinned demand for the world’s largest cryptocurrency over the past two years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/michael-saylor-s-misfiring-funding-model-jolts-bitcoin-traders",
+    "published": "Thu, 25 Jun 2026 17:13:29 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:43.027485"
+    "fetched_at": "2026-06-25T19:31:07.938215"
   },
   {
-    "id": "a30db3eff43e",
-    "title": "Micron's AI Pricing Power Explained",
-    "title_cn": "美光科技的人工智能定价能力解释",
-    "summary": "Micron's pricing power may have permanently changed the semiconductor industry. D.A. Davidson analyst Gil Luria joined Bloomberg Open Interest to explain why AI has turned memory into a strategic asset and how Apple could actually emerge stronger despite rising chip costs. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-s-ai-pricing-power-explained-video",
-    "published": "Thu, 25 Jun 2026 16:36:49 GMT",
+    "id": "c1d1f16dedf8",
+    "title": "UNC-Chapel Hill Chancellor on Adding Students, Athletics",
+    "title_cn": "北卡罗来纳大学教堂山分校校长谈增加学生和体育",
+    "summary": "UNC-Chapel Hill Chancellor Lee Roberts discusses student growth, funding, college sports and a potential new stadium. He speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/unc-chapel-hill-chancellor-on-adding-students-athletics-video",
+    "published": "Thu, 25 Jun 2026 17:07:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:43.200585"
+    "fetched_at": "2026-06-25T19:31:08.061317"
   },
   {
-    "id": "e64e7ca22198",
-    "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line",
-    "title_cn": "苹果将​​放弃高端 M6 Mac 芯片，转而采用专注于 AI 的 M7 系列",
-    "summary": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ahead to a new artificial intelligence-focused chip generation for its next top-end processors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
-    "published": "Thu, 25 Jun 2026 16:35:34 GMT",
+    "id": "bb7afe534597",
+    "title": "Macflation Is Officially Here",
+    "title_cn": "麦克通胀正式到来",
+    "summary": "Gadget prices inflate.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/macflation-is-officially-here",
+    "published": "Thu, 25 Jun 2026 17:05:27 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:43.361227"
+    "fetched_at": "2026-06-25T19:31:08.215776"
   },
   {
-    "id": "aaffa8a7cbd6",
-    "title": "IBM Rallies on New Chip; McCormick Moves on Guidance | Stock Movers",
-    "title_cn": "IBM 推出新芯片，股价上涨；麦考密克继续指导|库存搬运工",
-    "summary": "On this episode of Stock Movers:\n\n- IBM (IBM) shares gained in premarket trading on Thursday after the technology giant unveiled the world’s first sub-1 nanometer (nm) chip technology.\n- McCormick (MKC) is moving after it reported second-quarter profit that beat estimates, buoyed by higher prices and a tariff refund, and reaffirmed its full-year guidance.\n- Darden Restaurants (DRI) shares fell after its same-store sales at Olive Garden trailed expectations, raising questions about demand at the company’s largest chain and overshadowing better-than-expected earnings. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ibm-rallies-on-new-chip-mccormick-moves-on-guidance-video",
-    "published": "Thu, 25 Jun 2026 15:55:43 GMT",
+    "id": "e19926f59535",
+    "title": "Hetts: Ignore PEs, Watch Earnings",
+    "title_cn": "Hetts：忽略私募股权投资，关注盈利",
+    "summary": "AI stocks may be stealing the spotlight, but Janus Henderson's Adam Hetts says investors are missing the bigger story. He joined Bloomberg Open Interest to explain why earnings, and not valuations, are driving markets, why sticky inflation isn't a dealbreaker, and why the rally is expanding well beyond Big Tech. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/hetts-ignore-pes-watch-earnings-video",
+    "published": "Thu, 25 Jun 2026 16:37:04 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:43.825279"
-  },
-  {
-    "id": "15a58012fb47",
-    "title": "DeepSeek Plans to Double Staff Across All Departments",
-    "title_cn": "DeepSeek 计划将所有部门的员工人数增加一倍",
-    "summary": "China’s DeepSeek, fresh off agreements for a blockbuster fundraising, said it is working to at least double the size of all departments, as it steps up efforts to compete with domestic rivals and global leaders such as OpenAI and Anthropic PBC.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76",
-    "published": "Thu, 25 Jun 2026 14:32:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:43.999951"
-  },
-  {
-    "id": "63aac05e2dce",
-    "title": "Trump Sons Invested in Private Fund Making Millions on Microcaps",
-    "title_cn": "特朗普儿子投资私募基金，通过微型股赚了数百万美元",
-    "summary": "A fund that includes President Donald Trump’s eldest sons among its investors has booked hundreds of millions of dollars in paper profits through a lucrative playbook that involves taking stakes in a steady stream of small, thinly traded public companies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
-    "published": "Thu, 25 Jun 2026 15:23:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.146153"
-  },
-  {
-    "id": "d53524ef1ee4",
-    "title": "Data Center Surge Brings Risk for States and Munis, Moody’s Says",
-    "title_cn": "穆迪表示，数据中心激增给各州和市政机构带来风险",
-    "summary": "A flood of data center projects with their heavy power and water demands are introducing credit risks for state and local governments, according to Moody’s Ratings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/data-center-surge-brings-risk-for-states-and-munis-moody-s-says",
-    "published": "Thu, 25 Jun 2026 15:10:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.296472"
-  },
-  {
-    "id": "dc6a0899a088",
-    "title": "Nvidia Wants to Make Humanoid AI Robots Safer Around Humans",
-    "title_cn": "Nvidia 希望使人形人工智能机器人在人类身边更加安全",
-    "summary": "Humanoid robots are getting smarter and moving closer to the real world. But before they can work alongside humans, Nvidia says they need something even more important: the ability to recognize danger and react in an instant. Bloomberg's Ed Ludlow speaks with Deepu Talla, Vice President of Robotics and Edge AI at Nvidia, about the technology designed to make that possible. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video",
-    "published": "Thu, 25 Jun 2026 15:06:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.475659"
-  },
-  {
-    "id": "dc4c5ec713f4",
-    "title": "Cerebras On Track for Record Two-Day Loss as Outlook Disappoints",
-    "title_cn": "由于前景令人失望，Cerebras 有望创纪录的两天亏损",
-    "summary": "Cerebras Systems Inc. shares tumbled Thursday &mdash; and were on track for a record two-session loss &mdash; after the chipmaker gave a disappointing annual sales outlook.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/cerebras-cbrs-on-track-for-record-two-day-loss-as-outlook-disappoints",
-    "published": "Thu, 25 Jun 2026 14:58:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.631813"
-  },
-  {
-    "id": "da2657a82daa",
-    "title": "Qualcomm Jumps on $15 billion Data Center Sales Projection",
-    "title_cn": "高通数据中心销售额预计将达到 150 亿美元",
-    "summary": "Qualcomm Inc. shares jumped after the chipmaker forecast annual sales of more than $15 billion from artificial intelligence components in data centers by fiscal 2029.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029",
-    "published": "Wed, 24 Jun 2026 20:54:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.798143"
-  },
-  {
-    "id": "c73c9485295b",
-    "title": "Samsung Joins With US Battery Startup Seeking Pentagon Cash",
-    "title_cn": "三星与美国电池初创公司合作寻求五角大楼现金",
-    "summary": "Samsung SDI Co. has agreed to provide $20 million and engineering support to Forge Nano Inc., a US battery startup aiming to build cells for the US defense and aerospace industries at a new plant in North Carolina.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds",
-    "published": "Thu, 25 Jun 2026 11:15:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:44.963312"
-  },
-  {
-    "id": "1de975f62fc8",
-    "title": "SK Hynix, Micron Solidify the Memory Chip as Runaway Star of AI",
-    "title_cn": "SK 海力士、美光巩固内存芯片，成为人工智能领域的明星",
-    "summary": "With back-to-back announcements this week, SK Hynix Inc. and Micron Technology Inc. have solidified the memory chip market as the hottest part of the AI industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai",
-    "published": "Thu, 25 Jun 2026 01:38:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.121818"
-  },
-  {
-    "id": "707cba07f8df",
-    "title": "Micron Shares Soar After AI-Fueled Forecast Shatters Projections",
-    "title_cn": "人工智能推动的预测打破预测后，美光股价飙升",
-    "summary": "Micron Technology Inc. shares surged after the largest US maker of computer memory chips issued a quarterly sales forecast that crushed Wall Street estimates, signaling that an AI-fueled growth run remains strong.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand",
-    "published": "Wed, 24 Jun 2026 20:05:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.297723"
-  },
-  {
-    "id": "4b289096fb0c",
-    "title": "Apple Raises Prices on Macs, iPads, Home Devices",
-    "title_cn": "苹果提高 Mac、iPad 和家用设备的价格",
-    "summary": "Apple is raising prices on several products to offset cost hikes caused by a shortage of memory chips and storage. Prices are going up for the MacBook Neo, MacBook Pro, MacBook Air, iPad Air and iPad Pro. Price hikes are global and vary by product.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-macs-ipads-home-devices-video",
-    "published": "Thu, 25 Jun 2026 13:34:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.460478"
-  },
-  {
-    "id": "6d2bb0a5e6f5",
-    "title": "Bloomberg Tech San Francisco 2026 Highlights",
-    "title_cn": "彭博科技旧金山 2026 年亮点",
-    "summary": "Led by Bloomberg's Emily Chang and Tom Giles, Bloomberg Tech 2026 brought together the leading CEOs, investors, and innovators who are harnessing technology to change the world around us. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-24/bloomberg-tech-san-francisco-2026-highlights-video",
-    "published": "Wed, 24 Jun 2026 15:11:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.644978"
+    "fetched_at": "2026-06-25T19:31:08.359884"
   },
   {
     "id": "a6d232bc3e66",
@@ -777,7 +607,277 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-neocloud-iren-adds-name-to-nba-s-golden-state-warriors-jersey",
     "published": "Thu, 25 Jun 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.806493"
+    "fetched_at": "2026-06-25T19:31:08.739657"
+  },
+  {
+    "id": "8e7ad07c14e3",
+    "title": "Microsoft Raises Xbox Prices for Third Time in 13 Months",
+    "title_cn": "微软 13 个月内第三次提高 Xbox 价格",
+    "summary": "Microsoft Corp. announced a third substantial price increase for the company’s current-generation Xbox video-game consoles in a glaring example of the component shortage crisis that has universally driven up the cost of consumer tech products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-raises-xbox-console-prices-for-third-time-in-13-months",
+    "published": "Thu, 25 Jun 2026 17:16:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:08.880601"
+  },
+  {
+    "id": "e66e80bbb028",
+    "title": "Google to Lose High-Profile AI Staffers to Rival Anthropic",
+    "title_cn": "谷歌将因竞争对手 Anthropic 流失人工智能高级员工",
+    "summary": "Two leading AI researchers at Google are planning to leave for rival Anthropic, according to sources, adding to a series of high-profile departures that risk undercutting the search giant’s position in AI. Bloomberg's Julia Love joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/google-loses-top-ai-talent-to-anthropic-video",
+    "published": "Thu, 25 Jun 2026 17:59:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.015813"
+  },
+  {
+    "id": "00cd5ec9975e",
+    "title": "Waymo Registers German Entity for Future European Expansion",
+    "title_cn": "Waymo 注册德国实体以实现未来欧洲扩张",
+    "summary": "Waymo is planning to offer its driverless robotaxis in Germany, the latest move by the Alphabet Inc. unit to expand outside the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/waymo-registers-german-entity-for-future-european-expansion",
+    "published": "Thu, 25 Jun 2026 17:51:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.153192"
+  },
+  {
+    "id": "df6a58eddc24",
+    "title": "AI Sales Start to Justify Data-Center Spending Boom, Report Says",
+    "title_cn": "报告称，人工智能销售开始证明数据中心支出繁荣是合理的",
+    "summary": "Revenue from AI has reached a tipping point, showing that the hundreds of billions of dollars tech companies are spending on it may be economically sustainable, according to a report from research firm Exponential View. Azeem Azhar, founder of Exponential View, joins Ed Ludlow on \"Bloomberg Tech\" to discuss the findings of this report. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ai-sales-start-to-justify-data-center-spending-boom-video",
+    "published": "Thu, 25 Jun 2026 17:51:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.308127"
+  },
+  {
+    "id": "5c079c6cbbb3",
+    "title": "Qualcomm CEO on Data Center Chips, Adding Meta as a Customer",
+    "title_cn": "高通首席执行官谈数据中心芯片，添加 Meta 作为客户",
+    "summary": "Qualcomm says its expansion into chips for data centers will produce “billions” in revenue in the fiscal year that begins in October, suggesting the company is gaining a foothold in the booming market for AI gear. Qualcomm CEO Cristiano Amon joins Bloomberg's Ed Ludlow and Romaine Bostick on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/qualcomm-ceo-on-data-center-chips-video",
+    "published": "Thu, 25 Jun 2026 17:39:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.481713"
+  },
+  {
+    "id": "714b3877483a",
+    "title": "Apple Raises Prices, Micron Rallies | Bloomberg Tech 6/25/2026",
+    "title_cn": "苹果提高价格，美光股价上涨彭博科技 2026 年 6 月 25 日",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Micron's blowout AI-fueled forecast shattering Wall Street's projections, and Qualcomm CEO Cristiano Amon joins to weigh in on the company's own earnings and strong annual sales forecast. Plus, Apple raises prices on some hardware, an extreme measure in direct response to the memory and storage crunch.\n\nCorrection: This video has been edited with an updated graphic which reflects the new price of the iPad Pro is $1,199. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/bloomberg-tech-6-25-2026-video",
+    "published": "Thu, 25 Jun 2026 17:38:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.635426"
+  },
+  {
+    "id": "6134ba9c8cbf",
+    "title": "Apple's Sweeping Price Hikes Hit iPads and Macs",
+    "title_cn": "苹果iPad和Mac大幅涨价",
+    "summary": "Apple shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage. Ed Ludlow explains.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-s-sweeping-price-hikes-hit-ipads-and-macs-video",
+    "published": "Thu, 25 Jun 2026 17:36:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.783493"
+  },
+  {
+    "id": "a71b85e5ad65",
+    "title": "Apple Hikes Prices to Counter Memory Shortages",
+    "title_cn": "苹果提高价格以应对内存短缺",
+    "summary": "Apple raised prices of Macs, iPads, home devices, and the Vision Pro to offset cost hikes caused by a shortage of memory chips and storage. Bloomberg's consumer tech lead Mark Gurman joins Ed Ludlow on \"Bloomberg Tech.\"\n\nCorrection: This video has been edited with an updated graphic which reflects the new price of the iPad Pro is $1,199. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-hikes-prices-to-counter-memory-shortages-video",
+    "published": "Thu, 25 Jun 2026 17:33:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:09.926643"
+  },
+  {
+    "id": "a3ca033a90f6",
+    "title": "Apple Raises Prices on Some Products by $500",
+    "title_cn": "Apple 将部分产品价格提高 500 美元",
+    "summary": "Apple customers may experience sticker shock next time they look to buy one of many products. The company is raising prices of Macs, iPads, home devices, and the Vision Pro to offset cost hikes caused by a shortage of memory chips and storage. Prices for iPhone, Apple Watch and AirPods stay the same. Mark Gurman reports. (This video has been edited with an updated graphic which reflects the new price of the iPad Pro is $1,199.) (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-some-products-by-500-video",
+    "published": "Thu, 25 Jun 2026 14:25:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.199366"
+  },
+  {
+    "id": "be1fc4f0947c",
+    "title": "Bob Sloan's Market Positioning Warning",
+    "title_cn": "鲍勃·斯隆的市场定位警告",
+    "summary": "Markets may be near record highs, but Bob Sloan, S3 Partners Founder & Managing Partner says the real story is happening beneath the surface. He joins Bloomberg Open Interest to explain why passive investors are fueling AI stocks higher while hedge funds quietly sell into the rally and why tracking investor positioning may be just as important as earnings or valuations. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/bob-sloan-s-market-positioning-warning-video",
+    "published": "Thu, 25 Jun 2026 16:45:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.337708"
+  },
+  {
+    "id": "9a442e8f70b9",
+    "title": "Sonos Cuts 3% of Staff Across User Experience, Product Teams",
+    "title_cn": "Sonos 在用户体验和产品团队方面裁员 3%",
+    "summary": "Sonos Inc. made cuts across its user experience, product and design teams, citing a need to streamline the organization and operate more efficiently.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sonos-cuts-3-of-staff-across-user-experience-product-teams",
+    "published": "Thu, 25 Jun 2026 15:21:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.488356"
+  },
+  {
+    "id": "a30db3eff43e",
+    "title": "Micron's AI Pricing Power Explained",
+    "title_cn": "美光科技的人工智能定价能力解释",
+    "summary": "Micron's pricing power may have permanently changed the semiconductor industry. D.A. Davidson analyst Gil Luria joined Bloomberg Open Interest to explain why AI has turned memory into a strategic asset and how Apple could actually emerge stronger despite rising chip costs. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/micron-s-ai-pricing-power-explained-video",
+    "published": "Thu, 25 Jun 2026 16:36:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.638114"
+  },
+  {
+    "id": "e64e7ca22198",
+    "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line",
+    "title_cn": "苹果将​​放弃高端 M6 Mac 芯片，转而采用专注于 AI 的 M7 系列",
+    "summary": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ahead to a new artificial intelligence-focused chip generation for its next top-end processors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+    "published": "Thu, 25 Jun 2026 16:35:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.798278"
+  },
+  {
+    "id": "75102365693c",
+    "title": "Apple Shares Sink After Sweeping Price Hikes Hit iPads and Macs",
+    "title_cn": "iPad 和 Mac 价格大幅上涨后苹果股价下跌",
+    "summary": "Apple Inc. shares fell after it raised prices of all Macs, iPads, home devices and the Vision Pro on Thursday, seeking to offset cost hikes caused by an unprecedented shortage of memory chips and storage.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-raises-mac-and-ipad-prices-to-counter-memory-shortages",
+    "published": "Thu, 25 Jun 2026 12:39:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:10.991445"
+  },
+  {
+    "id": "fe1ff630b62f",
+    "title": "Chipmakers Rally With Traders Piling In After Micron Results",
+    "title_cn": "美光业绩公布后，芯片制造商股价上涨，交易员纷纷买入",
+    "summary": "Semiconductor stocks surged on Thursday as Micron Technology Inc.’s strong results underscored how artificial intelligence remains a major vector for growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-and-qualcomm-lift-chipmakers-amid-rapid-ai-growth",
+    "published": "Wed, 24 Jun 2026 21:18:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.131470"
+  },
+  {
+    "id": "aaffa8a7cbd6",
+    "title": "IBM Rallies on New Chip; McCormick Moves on Guidance | Stock Movers",
+    "title_cn": "IBM 推出新芯片，股价上涨；麦考密克继续指导|库存搬运工",
+    "summary": "On this episode of Stock Movers:\n\n- IBM (IBM) shares gained in premarket trading on Thursday after the technology giant unveiled the world’s first sub-1 nanometer (nm) chip technology.\n- McCormick (MKC) is moving after it reported second-quarter profit that beat estimates, buoyed by higher prices and a tariff refund, and reaffirmed its full-year guidance.\n- Darden Restaurants (DRI) shares fell after its same-store sales at Olive Garden trailed expectations, raising questions about demand at the company’s largest chain and overshadowing better-than-expected earnings. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/ibm-rallies-on-new-chip-mccormick-moves-on-guidance-video",
+    "published": "Thu, 25 Jun 2026 15:55:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.278476"
+  },
+  {
+    "id": "15a58012fb47",
+    "title": "DeepSeek Plans to Double Staff Across All Departments",
+    "title_cn": "DeepSeek 计划将所有部门的员工人数增加一倍",
+    "summary": "China’s DeepSeek, fresh off agreements for a blockbuster fundraising, said it is working to at least double the size of all departments, as it steps up efforts to compete with domestic rivals and global leaders such as OpenAI and Anthropic PBC.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/deepseek-plans-to-double-staff-across-all-departments-mqtlpz76",
+    "published": "Thu, 25 Jun 2026 14:32:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.441110"
+  },
+  {
+    "id": "63aac05e2dce",
+    "title": "Trump Sons Invested in Private Fund Making Millions on Microcaps",
+    "title_cn": "特朗普儿子投资私募基金，通过微型股赚了数百万美元",
+    "summary": "A fund that includes President Donald Trump’s eldest sons among its investors has booked hundreds of millions of dollars in paper profits through a lucrative playbook that involves taking stakes in a steady stream of small, thinly traded public companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-sons-invested-in-private-fund-making-millions-on-microcaps",
+    "published": "Thu, 25 Jun 2026 15:23:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.592710"
+  },
+  {
+    "id": "d53524ef1ee4",
+    "title": "Data Center Surge Brings Risk for States and Munis, Moody’s Says",
+    "title_cn": "穆迪表示，数据中心激增给各州和市政机构带来风险",
+    "summary": "A flood of data center projects with their heavy power and water demands are introducing credit risks for state and local governments, according to Moody’s Ratings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/data-center-surge-brings-risk-for-states-and-munis-moody-s-says",
+    "published": "Thu, 25 Jun 2026 15:10:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.772339"
+  },
+  {
+    "id": "dc6a0899a088",
+    "title": "Nvidia Wants to Make Humanoid AI Robots Safer Around Humans",
+    "title_cn": "Nvidia 希望使人形人工智能机器人在人类身边更加安全",
+    "summary": "Humanoid robots are getting smarter and moving closer to the real world. But before they can work alongside humans, Nvidia says they need something even more important: the ability to recognize danger and react in an instant. Bloomberg's Ed Ludlow speaks with Deepu Talla, Vice President of Robotics and Edge AI at Nvidia, about the technology designed to make that possible. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/nvidia-wants-to-make-humanoid-ai-robots-safer-for-humans-video",
+    "published": "Thu, 25 Jun 2026 15:06:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:11.903581"
+  },
+  {
+    "id": "dc4c5ec713f4",
+    "title": "Cerebras On Track for Record Two-Day Loss as Outlook Disappoints",
+    "title_cn": "由于前景令人失望，Cerebras 有望创纪录的两天亏损",
+    "summary": "Cerebras Systems Inc. shares tumbled Thursday &mdash; and were on track for a record two-session loss &mdash; after the chipmaker gave a disappointing annual sales outlook.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/cerebras-cbrs-on-track-for-record-two-day-loss-as-outlook-disappoints",
+    "published": "Thu, 25 Jun 2026 14:58:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.067256"
+  },
+  {
+    "id": "da2657a82daa",
+    "title": "Qualcomm Jumps on $15 billion Data Center Sales Projection",
+    "title_cn": "高通数据中心销售额预计将达到 150 亿美元",
+    "summary": "Qualcomm Inc. shares jumped after the chipmaker forecast annual sales of more than $15 billion from artificial intelligence components in data centers by fiscal 2029.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/qualcomm-projects-data-center-chip-sales-of-15-billion-by-2029",
+    "published": "Wed, 24 Jun 2026 20:54:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.209458"
+  },
+  {
+    "id": "c73c9485295b",
+    "title": "Samsung Joins With US Battery Startup Seeking Pentagon Cash",
+    "title_cn": "三星与美国电池初创公司合作寻求五角大楼现金",
+    "summary": "Samsung SDI Co. has agreed to provide $20 million and engineering support to Forge Nano Inc., a US battery startup aiming to build cells for the US defense and aerospace industries at a new plant in North Carolina.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/samsung-teams-up-with-us-battery-startup-eyeing-defense-funds",
+    "published": "Thu, 25 Jun 2026 11:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.361285"
+  },
+  {
+    "id": "1de975f62fc8",
+    "title": "SK Hynix, Micron Solidify the Memory Chip as Runaway Star of AI",
+    "title_cn": "SK 海力士、美光巩固内存芯片，成为人工智能领域的明星",
+    "summary": "With back-to-back announcements this week, SK Hynix Inc. and Micron Technology Inc. have solidified the memory chip market as the hottest part of the AI industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/sk-hynix-micron-solidify-memory-chips-as-runaway-stars-of-ai",
+    "published": "Thu, 25 Jun 2026 01:38:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.525163"
+  },
+  {
+    "id": "707cba07f8df",
+    "title": "Micron Shares Soar After AI-Fueled Forecast Shatters Projections",
+    "title_cn": "人工智能推动的预测打破预测后，美光股价飙升",
+    "summary": "Micron Technology Inc. shares surged after the largest US maker of computer memory chips issued a quarterly sales forecast that crushed Wall Street estimates, signaling that an AI-fueled growth run remains strong.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-24/micron-sales-forecast-tops-estimates-on-insatiable-memory-demand",
+    "published": "Wed, 24 Jun 2026 20:05:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.669907"
+  },
+  {
+    "id": "4b289096fb0c",
+    "title": "Apple Raises Prices on Macs, iPads, Home Devices",
+    "title_cn": "苹果提高 Mac、iPad 和家用设备的价格",
+    "summary": "Apple is raising prices on several products to offset cost hikes caused by a shortage of memory chips and storage. Prices are going up for the MacBook Neo, MacBook Pro, MacBook Air, iPad Air and iPad Pro. Price hikes are global and vary by product.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/apple-raises-prices-on-macs-ipads-home-devices-video",
+    "published": "Thu, 25 Jun 2026 13:34:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.833575"
+  },
+  {
+    "id": "6d2bb0a5e6f5",
+    "title": "Bloomberg Tech San Francisco 2026 Highlights",
+    "title_cn": "彭博科技旧金山 2026 年亮点",
+    "summary": "Led by Bloomberg's Emily Chang and Tom Giles, Bloomberg Tech 2026 brought together the leading CEOs, investors, and innovators who are harnessing technology to change the world around us. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-24/bloomberg-tech-san-francisco-2026-highlights-video",
+    "published": "Wed, 24 Jun 2026 15:11:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:12.967819"
   },
   {
     "id": "a741a9530fc6",
@@ -787,107 +887,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/for-4-500-a-week-ai-can-tutor-your-kids-in-the-hamptons",
     "published": "Thu, 25 Jun 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:45.962000"
+    "fetched_at": "2026-06-25T19:31:13.152179"
   },
   {
-    "id": "bf48f67f4584",
-    "title": "EU Held Talks With White House on Anthropic After Mythos Cutoff",
-    "title_cn": "欧盟与白宫就神话切断后的人择问题举行会谈",
-    "summary": "The European Union held discussions with the Trump administration on access to Anthropic PBC’s most advanced artificial intelligence models after the US restricted foreign nationals from accessing the technology earlier this month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/eu-held-talks-with-white-house-on-anthropic-after-mythos-cutoff",
-    "published": "Thu, 25 Jun 2026 12:51:53 GMT",
+    "id": "fd922d49dd7b",
+    "title": "US Army Bases to Host Critical Minerals Plants in Onshoring Push",
+    "title_cn": "美国陆军基地将在岸上建设关键矿产工厂",
+    "summary": "The US Army will allow several companies to build critical minerals processing plants at military bases around the country as part of a Trump administration push for more domestic production.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-army-bases-to-host-critical-minerals-plants-in-onshoring-push",
+    "published": "Thu, 25 Jun 2026 19:20:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.130171"
-  },
-  {
-    "id": "cfea22c75295",
-    "title": "This $5 Billion Startup Is Putting Humanoid Robots To Work",
-    "title_cn": "这家价值 50 亿美元的初创公司正在将人形机器人投入工作",
-    "summary": "A $5 billion startup is putting humanoid robots to work in Texas. Joshua Brustein explains what it could mean for the potential of a machine-powered future.\n\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/this-5-billion-startup-is-putting-humanoid-robots-to-work",
-    "published": "Thu, 25 Jun 2026 12:00:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.285710"
-  },
-  {
-    "id": "f348b65d24ee",
-    "title": "BofA’s Raedler Says Defensives Ready to Roar if AI Trade Falters",
-    "title_cn": "美国银行的雷德勒表示，如果人工智能贸易陷入困境，防御者已准备好咆哮",
-    "summary": "Investors should switch their focus to defensive sectors if the artificial intelligence trade starts to unravel, according to Sebastian Raedler, head of European equity strategy at Bank of America Corp.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/bofa-s-raedler-says-defensives-ready-to-roar-if-ai-trade-falters",
-    "published": "Thu, 25 Jun 2026 11:24:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.424115"
-  },
-  {
-    "id": "90a2f58f8430",
-    "title": "AI Revenue Starts to Exceed a Key Infrastructure Cost But Not By Much",
-    "title_cn": "人工智能收入开始超过关键基础设施成本，但幅度不大",
-    "summary": "Google and Amazon will need to sustain premium pricing and strong user growth if they are to recoup their investments",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/ai-revenue-hits-25-billion-topping-depreciation-for-meta-alphabet-microsoft",
-    "published": "Thu, 25 Jun 2026 11:13:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.571767"
-  },
-  {
-    "id": "c977d05d0105",
-    "title": "OpenAI, Anthropic and SpaceX Are Shaking Up VC Fundraising",
-    "title_cn": "OpenAI、Anthropic 和 SpaceX 正在重组风险投资融资",
-    "summary": "The potential for big gains allows firms to raise record amounts of money",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/spacex-openai-and-anthropic-spur-record-vc-funding",
-    "published": "Thu, 25 Jun 2026 11:02:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.723183"
-  },
-  {
-    "id": "6adebbd24662",
-    "title": "A Veteran Apple Designer Reimagines the Golf Cart",
-    "title_cn": "一位资深的苹果设计师重新设计了高尔夫球车",
-    "summary": "<p>Julian Hoenig’s Amble is dreaming up next-generation course cruisers &mdash; and aiming far beyond the fairway.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/golf-carts-get-apple-design-treatment-from-julian-hoenig-at-amble",
-    "published": "Thu, 25 Jun 2026 11:00:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:46.868747"
-  },
-  {
-    "id": "c51896f067bf",
-    "title": "US Customs Ramps Up AI Investment in Push to Sharpen Enforcement",
-    "title_cn": "美国海关加大人工智能投资以加强执法",
-    "summary": "US customs authorities, under pressure to improve enforcement of President Donald Trump’s trade war, are increasingly turning to artificial intelligence to catch tariff dodgers and spot illicit goods before cargo even reaches the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-customs-ramps-up-ai-investment-in-push-to-sharpen-enforcement",
-    "published": "Thu, 25 Jun 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:47.017703"
-  },
-  {
-    "id": "3100bff02733",
-    "title": "AI Sales Start to Justify Data-Center Spending Boom, Report Says",
-    "title_cn": "报告称，人工智能销售开始证明数据中心支出繁荣是合理的",
-    "summary": "Revenue from artificial intelligence has reached a tipping point, showing that the hundreds of billions of dollars tech companies are spending on it may be economically sustainable, according to a report from research firm Exponential View.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout",
-    "published": "Thu, 25 Jun 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:47.193309"
-  },
-  {
-    "id": "7dd211ae14f1",
-    "title": "Guild: Memory Chip Spending Can Be Underestimated",
-    "title_cn": "Guild：内存芯片支出可能被低估",
-    "summary": "Stephanie Guild, Robinhood CIO, joins Bloomberg’s Vonnie Quinn on “Bloomberg Brief” to break down the ramifications of Micron’s strong AI-driven earnings report, and how energy costs, computer memory, and supporting infrastructure are often overlooked elements in the AI trade.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/guild-memory-chip-spending-can-be-underestimated-video",
-    "published": "Thu, 25 Jun 2026 10:25:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:47.366012"
-  },
-  {
-    "id": "94429a13b5b4",
-    "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
-    "title_cn": "霍尔木兹海峡重新开放增加供应，布伦特石油抹去了战时收益",
-    "summary": "Brent oil erased all of its wartime gains after flows through the Strait of Hormuz ramped up following progress on a US-Iran peace deal. Bloomberg's Rob Barnett joins to discuss. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-06-25/brent-oil-erases-gains-as-hormuz-reopening-boosts-supply-video",
-    "published": "Thu, 25 Jun 2026 14:56:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:47.716275"
+    "fetched_at": "2026-06-25T19:31:13.577634"
   },
   {
     "id": "6a6031b5e53a",
@@ -897,47 +907,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/rubio-rejects-hormuz-tolls-after-touring-anxious-gulf-nations",
     "published": "Thu, 25 Jun 2026 16:04:33 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:48.285300"
+    "fetched_at": "2026-06-25T19:31:13.732688"
   },
   {
-    "id": "41259af048e0",
-    "title": "Supreme Court Lets Trump End Protected Status for Haitians",
-    "title_cn": "最高法院允许特朗普终止对海地人的保护地位",
-    "summary": "The US Supreme Court ruled that President Donald Trump has broad power to end legal protections for people from crisis-ridden countries in a decision that opens 350,000 Haitians and 7,000 Syrians to the prospect of deportation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/supreme-court-lets-trump-s-dhs-revoke-deportation-protections",
-    "published": "Thu, 25 Jun 2026 14:26:51 GMT",
+    "id": "feae367f9d9e",
+    "title": "Carney Defends Condo-Buying Plan Panned by Critics as Bailout",
+    "title_cn": "卡尼为被批评者批评为救助的公寓购买计划辩护",
+    "summary": "Prime Minister Mark Carney sought to explain a government plan to acquire vacant condos and convert them into affordable housing, which was slammed as a bailout for real estate developers after he announced it last week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/carney-defends-condo-buying-plan-panned-by-critics-as-bailout",
+    "published": "Thu, 25 Jun 2026 18:55:28 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:49.066681"
+    "fetched_at": "2026-06-25T19:31:13.890565"
   },
   {
-    "id": "8701d05762f3",
-    "title": "Foreign Policy Gap Leaves Burnham Exposed to Global Crises",
-    "title_cn": "外交政策差距使伯纳姆面临全球危机",
-    "summary": "In his final weeks as Britain’s prime minister, Keir Starmer, has repeatedly warned how “dangerous and volatile” the world is becoming. Andy Burnham is on a collision course with it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/uk-foreign-policy-gap-leaves-burnham-exposed-to-global-crises",
-    "published": "Thu, 25 Jun 2026 04:00:00 GMT",
+    "id": "f5d719a51bdc",
+    "title": "Bayer Win in Supreme Court Roundup Case Is No ‘Silver Bullet’",
+    "title_cn": "拜耳在最高法院综述案中获胜并不是“银弹”",
+    "summary": "After years of legal setbacks that have cost billions of dollars over its top-selling Roundup weedkiller, Bayer AG finally got a resounding win in the biggest court of all.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/bayer-win-in-supreme-court-roundup-case-is-no-silver-bullet",
+    "published": "Thu, 25 Jun 2026 18:23:54 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:49.224182"
-  },
-  {
-    "id": "39676b05f7a3",
-    "title": "Reform Donor Seals UK Return to Build ‘War Chest’ for Farage",
-    "title_cn": "改革捐助者印证英国重返为法拉奇建立“战争基金”",
-    "summary": "Crypto entrepreneur Ben Delo has consummated his UK return from Hong Kong, clearing the Reform donor’s path to bankroll Nigel Farage’s right-wing party as the nation cracks down on offshore political finance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/reform-donor-seals-uk-return-to-build-war-chest-for-farage",
-    "published": "Thu, 25 Jun 2026 16:13:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:49.387151"
-  },
-  {
-    "id": "c8975cd50023",
-    "title": "London Faces Huge Financial Cost Because of Extreme Heat",
-    "title_cn": "伦敦因酷热而面临巨大的财务成本",
-    "summary": "London’s efforts to deal with rising temperatures come at a considerable financial cost that will require the city to turn to private investors for help, the mayor of the UK capital said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/london-faces-huge-financial-cost-tied-to-rising-heat-mayor-says",
-    "published": "Thu, 25 Jun 2026 12:42:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:50.047257"
+    "fetched_at": "2026-06-25T19:31:14.050850"
   },
   {
     "id": "7602c3404d5a",
@@ -947,7 +937,117 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/supreme-court-bolsters-right-to-carry-by-voiding-hawaii-gun-law",
     "published": "Thu, 25 Jun 2026 14:06:59 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:50.841494"
+    "fetched_at": "2026-06-25T19:31:14.204356"
+  },
+  {
+    "id": "10cf116298b6",
+    "title": "IMO to Pause Persian Gulf Ship Evacuation Plan After Attack",
+    "title_cn": "国际海事组织将在袭击后暂停波斯湾船舶撤离计划",
+    "summary": "The International Maritime Organization, the UN’s global shipping regulator, said it was pausing its evacuation operations in the Strait of Hormuz after an attack on a vessel.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/imo-to-pause-persian-gulf-ship-evacuation-plan-after-attack",
+    "published": "Thu, 25 Jun 2026 18:06:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:14.323005"
+  },
+  {
+    "id": "7c4358627743",
+    "title": "Rare US Municipal Bankruptcy Can Advance After Judge Ruling",
+    "title_cn": "法官裁决后，罕见的美国市政破产可以推进",
+    "summary": "The bankruptcy case of a small Washington State city can move forward, a US bankruptcy court judge ruled, rejecting a legal challenge by a developer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/rare-us-municipal-bankruptcy-can-advance-after-judge-ruling",
+    "published": "Thu, 25 Jun 2026 17:52:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:14.473259"
+  },
+  {
+    "id": "ded19cff86b1",
+    "title": "Venezuela to Tap Its Money at IMF for Quake Reconstruction",
+    "title_cn": "委内瑞拉将向国际货币基金组织提供资金用于地震重建",
+    "summary": "Venezuela will use some of the reserve assets it holds at the International Monetary Fund as part of reconstruction efforts after being hit by back-to-back earthquakes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/venezuela-to-tap-its-money-at-imf-for-quake-reconstruction",
+    "published": "Thu, 25 Jun 2026 17:44:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:14.629901"
+  },
+  {
+    "id": "4abd0e68b55d",
+    "title": "Carney Seeks More Diplomatic Engagement With Iran and Venezuela",
+    "title_cn": "卡尼寻求与伊朗和委内瑞拉进行更多外交接触",
+    "summary": "Prime Minister Mark Carney said Canada should move toward more diplomatic engagement with Iran and Venezuela, as a lack of resources on the ground restricts its ability to help Canadians during crises.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/carney-seeks-more-diplomatic-engagement-with-iran-and-venezuela",
+    "published": "Thu, 25 Jun 2026 17:34:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:14.793664"
+  },
+  {
+    "id": "94429a13b5b4",
+    "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply",
+    "title_cn": "霍尔木兹海峡重新开放增加供应，布伦特石油抹去了战时收益",
+    "summary": "Brent oil erased all of its wartime gains after flows through the Strait of Hormuz ramped up following progress on a US-Iran peace deal. Bloomberg's Rob Barnett joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-06-25/brent-oil-erases-gains-as-hormuz-reopening-boosts-supply-video",
+    "published": "Thu, 25 Jun 2026 14:56:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:14.943522"
+  },
+  {
+    "id": "41259af048e0",
+    "title": "Supreme Court Lets Trump End Protected Status for Haitians",
+    "title_cn": "最高法院允许特朗普终止对海地人的保护地位",
+    "summary": "The US Supreme Court ruled that President Donald Trump has broad power to end legal protections for people from crisis-ridden countries in a decision that opens 350,000 Haitians and 7,000 Syrians to the prospect of deportation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/supreme-court-lets-trump-s-dhs-revoke-deportation-protections",
+    "published": "Thu, 25 Jun 2026 14:26:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.242573"
+  },
+  {
+    "id": "8701d05762f3",
+    "title": "Foreign Policy Gap Leaves Burnham Exposed to Global Crises",
+    "title_cn": "外交政策差距使伯纳姆面临全球危机",
+    "summary": "In his final weeks as Britain’s prime minister, Keir Starmer, has repeatedly warned how “dangerous and volatile” the world is becoming. Andy Burnham is on a collision course with it.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/uk-foreign-policy-gap-leaves-burnham-exposed-to-global-crises",
+    "published": "Thu, 25 Jun 2026 04:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.396791"
+  },
+  {
+    "id": "39676b05f7a3",
+    "title": "Reform Donor Seals UK Return to Build ‘War Chest’ for Farage",
+    "title_cn": "改革捐助者印证英国重返为法拉奇建立“战争基金”",
+    "summary": "Crypto entrepreneur Ben Delo has consummated his UK return from Hong Kong, clearing the Reform donor’s path to bankroll Nigel Farage’s right-wing party as the nation cracks down on offshore political finance.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/reform-donor-seals-uk-return-to-build-war-chest-for-farage",
+    "published": "Thu, 25 Jun 2026 16:13:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.536891"
+  },
+  {
+    "id": "c8975cd50023",
+    "title": "London Faces Huge Financial Cost Because of Extreme Heat",
+    "title_cn": "伦敦因酷热而面临巨大的财务成本",
+    "summary": "London’s efforts to deal with rising temperatures come at a considerable financial cost that will require the city to turn to private investors for help, the mayor of the UK capital said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/london-faces-huge-financial-cost-tied-to-rising-heat-mayor-says",
+    "published": "Thu, 25 Jun 2026 12:42:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.692092"
+  },
+  {
+    "id": "180dfac83e60",
+    "title": "Hungary Yields Approach UK Gilts as Pro-EU Turn Fuels Rally",
+    "title_cn": "匈牙利国债收益率逼近英国国债，亲欧盟立场推动涨势",
+    "summary": "Hungary’s bonds have rallied so much that yields are approaching those in the UK, the latest sign that investors are backing the new government’s plans to fix the economy and join the euro region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/hungary-s-bond-rally-means-yields-are-now-trading-close-to-uk",
+    "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.832930"
+  },
+  {
+    "id": "2084283f1c09",
+    "title": "EU Seeks Stronger Liquidity Safeguards in Carbon Reform",
+    "title_cn": "欧盟寻求在碳改革中加强流动性保障",
+    "summary": "The European Union plans to make its flagship carbon market more resilient by introducing dynamic controls on the supply of emission permits, with the aim of preserving liquidity and preventing price spikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/eu-seeks-stronger-liquidity-safeguards-in-carbon-market-reform",
+    "published": "Thu, 25 Jun 2026 12:48:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-06-25T19:31:15.963080"
   },
   {
     "id": "42229db9f407",
@@ -957,7 +1057,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/india-says-us-trade-deal-hinges-on-competitive-edge-over-peers",
     "published": "Thu, 25 Jun 2026 15:22:56 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:50.994182"
+    "fetched_at": "2026-06-25T19:31:16.109415"
   },
   {
     "id": "e8b1df78e9b5",
@@ -967,17 +1067,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/swedish-opposition-sees-bank-tax-helping-households-spend-more",
     "published": "Thu, 25 Jun 2026 09:20:41 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:51.934918"
+    "fetched_at": "2026-06-25T19:31:16.264394"
   },
   {
     "id": "88449d2e29ca",
-    "title": "Venezuela’s Snitching App Used For Earthquake Search and Rescue",
+    "title": "Venezuela’s Snitching App Used for Earthquake Search and Rescue",
     "title_cn": "委内瑞拉用于地震搜索和救援的告密应用程序",
     "summary": "A Venezuelan mobile application for snitching on dissidents is being repurposed as a search and rescue tool after Wednesday’s devastating earthquakes.",
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/venezuela-s-snitching-app-used-for-earthquake-search-and-rescue",
     "published": "Thu, 25 Jun 2026 14:34:42 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:52.084517"
+    "fetched_at": "2026-06-25T19:31:16.407056"
   },
   {
     "id": "a3475e588a19",
@@ -987,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-seeks-ai-partnership-with-eu-on-regulation-supply-chains",
     "published": "Thu, 25 Jun 2026 14:27:16 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:52.242676"
+    "fetched_at": "2026-06-25T19:31:16.554087"
   },
   {
     "id": "ac924aa639cd",
@@ -997,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/burnham-would-make-better-uk-premier-than-farage-britons-say",
     "published": "Thu, 25 Jun 2026 10:33:57 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:52.935862"
+    "fetched_at": "2026-06-25T19:31:16.696382"
   },
   {
     "id": "715c78066438",
@@ -1007,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/drones-target-russian-city-with-three-rosneft-oil-refineries",
     "published": "Thu, 25 Jun 2026 09:22:54 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:53.112694"
+    "fetched_at": "2026-06-25T19:31:16.850983"
   },
   {
     "id": "866aa1397d85",
@@ -1017,7 +1117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-24/ny-s-mta-chief-rejects-trump-deal-on-penn-station-renovation",
     "published": "Wed, 24 Jun 2026 21:32:49 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:53.269333"
+    "fetched_at": "2026-06-25T19:31:17.023616"
   },
   {
     "id": "c8561a175d2b",
@@ -1027,7 +1127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/italy-and-france-balk-at-eu-proposal-to-ban-ex-russian-soldiers",
     "published": "Thu, 25 Jun 2026 13:38:50 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:53.437157"
+    "fetched_at": "2026-06-25T19:31:17.170366"
   },
   {
     "id": "6b41a5084800",
@@ -1037,7 +1137,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/taiwan-tabletop-drill-simulates-maritime-quarantine-by-chinese-forces",
     "published": "Thu, 25 Jun 2026 09:49:34 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:53.972485"
+    "fetched_at": "2026-06-25T19:31:17.316005"
   },
   {
     "id": "badac4b7afce",
@@ -1047,7 +1147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/property-mogul-with-ties-to-rachel-reeves-left-uk-before-tax-hit",
     "published": "Thu, 25 Jun 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.123561"
+    "fetched_at": "2026-06-25T19:31:17.461675"
   },
   {
     "id": "fa05cd37a676",
@@ -1057,7 +1157,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/-mad-as-a-murder-hornet-trump-squabbles-with-disaffected-senate",
     "published": "Thu, 25 Jun 2026 01:43:08 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.296140"
+    "fetched_at": "2026-06-25T19:31:17.624935"
   },
   {
     "id": "ae02a60cda0d",
@@ -1067,7 +1167,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-25/kenyan-police-block-roads-before-anniversary-march-video",
     "published": "Thu, 25 Jun 2026 12:17:26 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.461869"
+    "fetched_at": "2026-06-25T19:31:17.780639"
   },
   {
     "id": "763a08dfbdc3",
@@ -1077,76 +1177,6 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-06-25/trump-s-clashes-with-republicans-hinder-affordability-efforts",
     "published": "Thu, 25 Jun 2026 11:50:03 GMT",
     "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.619256"
-  },
-  {
-    "id": "667423b9cf37",
-    "title": "Europe Lauds Ukraine’s Newfound Strength as Aid Payouts Begin",
-    "title_cn": "随着援助支出的开始，欧洲赞扬乌克兰新发现的实力",
-    "summary": "European Union officials hailed Ukraine’s progress in fighting off Russia’s invasion as the bloc began disbursing aid from its €90 billion ($102 billion) loan and held out the prospect for more investment in the war-torn country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/europe-lauds-ukraine-s-newfound-strength-as-aid-payouts-begin",
-    "published": "Thu, 25 Jun 2026 11:15:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.787339"
-  },
-  {
-    "id": "962a11c7a90d",
-    "title": "Conservatives Urge Overturn of Trump’s Biofuel Blending Quotas",
-    "title_cn": "保守派敦促推翻特朗普的生物燃料混合配额",
-    "summary": "Nearly three dozen conservatives &mdash; including longtime allies of President Donald Trump &mdash; are pushing the House to overturn biofuel-blending quotas imposed by his administration, arguing they are stoking consumer costs before an election set to hinge on economic concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/conservatives-urge-overturn-of-trump-s-biofuel-blending-quotas",
-    "published": "Thu, 25 Jun 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:54.940113"
-  },
-  {
-    "id": "349004221514",
-    "title": "Europe Defense Sector Has ‘Long Way to Go’, German Minister Says",
-    "title_cn": "德国部长表示欧洲国防部门“还有很长的路要走”",
-    "summary": "Germany’s decision to scrap a €10 billion ($11.4 billion) warship purchase and the demise of a joint fighter-jet project with France show that Europe’s defense industry needs to catch up with the continent’s ambitions for a military buildup, a senior German defense official said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/german-defense-sector-has-long-way-to-go-deputy-minister-says",
-    "published": "Thu, 25 Jun 2026 09:16:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:55.253532"
-  },
-  {
-    "id": "e5cff683da5b",
-    "title": "Burnham Team Looks at Treasury Breakup and BOE Reforms",
-    "title_cn": "伯纳姆团队研究财政部拆分和英国央行改革",
-    "summary": "Influential figures in Andy Burnham’s entourage have urged the would-be prime minister to break up the Treasury to refocus the government’s agenda on growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-24/burnham-team-looks-at-treasury-breakup-and-boe-reforms",
-    "published": "Wed, 24 Jun 2026 16:18:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:55.425245"
-  },
-  {
-    "id": "a70fa67750c0",
-    "title": "US Protests China Visa Rules by Snubbing APEC Meet in Macau",
-    "title_cn": "美国拒绝在澳门举行的亚太经合组织会议，抗议中国签证规定",
-    "summary": "The US has decided against sending senior officials to an Asia-Pacific Economic Cooperation meeting in Macau, blaming what it called China’s “discriminatory” visa rules on American diplomats.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-protests-china-s-visa-rules-by-snubbing-apec-meeting-in-macau",
-    "published": "Thu, 25 Jun 2026 02:19:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:55.579708"
-  },
-  {
-    "id": "e40127b8635d",
-    "title": "Japan Unveils Multi-Year Framework as Part of Budget Reform",
-    "title_cn": "日本公布多年框架作为预算改革的一部分",
-    "summary": "Japan will create a new multi-year framework to finance policies aimed at boosting its growth potential as part of Prime Minister Sanae Takaichi’s overhaul of the country’s budgeting process.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/japan-unveils-multi-year-framework-as-part-of-budget-reform",
-    "published": "Thu, 25 Jun 2026 10:05:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:55.764136"
-  },
-  {
-    "id": "4d9c1072f569",
-    "title": "Macron Says French Navy Boards Shadow Fleet Tanker Off Sicily",
-    "title_cn": "马克龙称法国海军在西西里岛附近登上影子舰队油轮",
-    "summary": "France’s navy boarded another oil tanker in the Mediterranean as Europe seeks to crack down on Russian shadow-fleet ships used to export sanctioned crude.",
-    "link": "https://www.bloomberg.com/news/articles/2026-06-25/macron-says-french-navy-boards-shadow-fleet-tanker-off-sicily",
-    "published": "Thu, 25 Jun 2026 10:28:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-06-25T17:31:55.956538"
+    "fetched_at": "2026-06-25T19:31:17.904446"
   }
 ]
