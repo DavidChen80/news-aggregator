@@ -1,5 +1,95 @@
 [
   {
+    "id": "a263aa2d9649",
+    "title": "Bloomberg Businessweek Daily: Prediction Markets (Podcast)",
+    "title_cn": "彭博商业周刊日报：预测市场（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-businessweek-daily-prediction-markets-podcast",
+    "published": "Wed, 01 Jul 2026 21:54:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:25.727627"
+  },
+  {
+    "id": "f96e2b25057f",
+    "title": "Bloomberg Businessweek Daily: Bending Spoons Debuts (Podcast)",
+    "title_cn": "彭博商业周刊日报：弯曲勺子首次亮相（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-businessweek-daily-bending-spoons-debuts-podcast",
+    "published": "Wed, 01 Jul 2026 21:40:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:25.858377"
+  },
+  {
+    "id": "b6530d61efba",
+    "title": "BYD Set to Dethrone Tesla as Global EV Leader on June Shipments",
+    "title_cn": "比亚迪六月出货量将取代特斯拉成为全球电动汽车领导者",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/ev-news-byd-set-to-dethrone-tesla-in-sales-of-fully-electric-vehicles",
+    "published": "Wed, 01 Jul 2026 21:30:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.028579"
+  },
+  {
+    "id": "ab0a90ea119d",
+    "title": "US Won't Renew USMCA, Meta Plans Cloud Business, More",
+    "title_cn": "美国不会续签 USMCA，Meta 计划云业务等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-won-t-renew-usmca-meta-plans-cloud-business-more-mr2k90g7",
+    "published": "Wed, 01 Jul 2026 21:01:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.168748"
+  },
+  {
+    "id": "990fab59a3c4",
+    "title": "Meta Plans a Cloud Business in Challenge to Industry Rivals",
+    "title_cn": "Meta规划云业务挑战行业竞争对手",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/meta-plans-a-cloud-business-in-challenge-to-industry-rivals",
+    "published": "Wed, 01 Jul 2026 21:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.341175"
+  },
+  {
+    "id": "7c4093e09f79",
+    "title": "Asia Centric: Why Global Capital Is Pouring Into Japan Stocks",
+    "title_cn": "以亚洲为中心：为何全球资本涌入日本股市",
+    "summary": "What’s driving Japan’s historic bull market? And why are global investors finally returning to Tokyo after years on the sidelines? According to Goldman Sachs, it’s a rare convergence of factors including the global AI trade, inflation, corporate governance reform and an evolving macroeconomic landscape.",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/asia-centric-why-global-capital-is-pouring-into-japan-stocks",
+    "published": "Wed, 01 Jul 2026 21:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.486280"
+  },
+  {
+    "id": "0b14a00071a0",
+    "title": "Big Take: AI Is Everywhere – Especially The Midterms (Podcast)",
+    "title_cn": "大观点：人工智能无处不在——尤其是期中考试（播客）",
+    "summary": "Source: Bloomberg, 17:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/big-take-ai-is-everywhere-especially-the-midterms-podcast",
+    "published": "Wed, 01 Jul 2026 20:47:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.619396"
+  },
+  {
+    "id": "9de2abe108fe",
+    "title": "Stock Movers: Meta, Coreweave, Bending Spoons (Podcast)",
+    "title_cn": "Stock Movers：Meta、Coreweave、Bending Spoons（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-01/stock-movers-meta-coreweave-bending-spoons-podcast",
+    "published": "Wed, 01 Jul 2026 20:28:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.728618"
+  },
+  {
+    "id": "704d4fde9af0",
+    "title": "Electric Bike Rental Firm Lime Up 4% After $174 Million IPO",
+    "title_cn": "电动自行车租赁公司 Lime 首次公开募股 1.74 亿美元后股价上涨 4%",
+    "summary": "The operator of Lime electric scooters and bikes gained 4% after the company and some of its shareholders raised $174 million in an initial public offering.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/electric-bike-rental-firm-lime-rises-8-after-174-million-ipo",
+    "published": "Wed, 01 Jul 2026 16:04:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:26.848443"
+  },
+  {
     "id": "9480378226fc",
     "title": "AOL Owner Bending Spoons Jumps 40% After $1.68 Billion IPO",
     "title_cn": "AOL 所有者 Bending Spoon 在 16.8 亿美元 IPO 后股价跃升 40%",
@@ -7,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo",
     "published": "Wed, 01 Jul 2026 16:47:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:20.426559"
+    "fetched_at": "2026-07-01T22:04:26.966685"
   },
   {
     "id": "c0eb4ee8e0cc",
@@ -17,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/markets-close-lower-us-decides-against-renewing-usmca-more",
     "published": "Wed, 01 Jul 2026 20:07:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:21.803668"
+    "fetched_at": "2026-07-01T22:04:27.107852"
   },
   {
     "id": "9dd7f36e9359",
@@ -27,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-talks-luca-ferrari-podcast",
     "published": "Wed, 01 Jul 2026 19:48:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:22.117096"
+    "fetched_at": "2026-07-01T22:04:27.289324"
   },
   {
     "id": "2d885ca0fd2d",
@@ -37,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/the-deal-lisa-bhathal-merage-podcast",
     "published": "Wed, 01 Jul 2026 19:47:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:24.213675"
+    "fetched_at": "2026-07-01T22:04:27.420447"
   },
   {
     "id": "9037d1a843d0",
@@ -47,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-talks-zoe-yujnovich-podcast",
     "published": "Wed, 01 Jul 2026 19:26:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:25.301974"
+    "fetched_at": "2026-07-01T22:04:27.529704"
   },
   {
     "id": "2513077bd0d4",
@@ -57,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/stock-movers-bending-spoons-nike-meta-podcast",
     "published": "Wed, 01 Jul 2026 19:10:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:26.417001"
+    "fetched_at": "2026-07-01T22:04:27.698164"
   },
   {
     "id": "b10226c59c31",
@@ -67,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/balance-of-power-iran-wraps-up-doha-meetings-podcast",
     "published": "Wed, 01 Jul 2026 19:10:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:27.796604"
+    "fetched_at": "2026-07-01T22:04:27.808440"
   },
   {
     "id": "006f8b5eba66",
@@ -77,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-talks-ivan-espinosa-podcast",
     "published": "Wed, 01 Jul 2026 19:08:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:28.339385"
+    "fetched_at": "2026-07-01T22:04:27.932104"
   },
   {
     "id": "dd7a9944fed2",
@@ -87,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-firing-power-ripples-through-us-agencies-after-court-win",
     "published": "Wed, 01 Jul 2026 19:02:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:28.482528"
+    "fetched_at": "2026-07-01T22:04:28.051397"
   },
   {
     "id": "9cd433f9217c",
@@ -97,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-doesn-t-renew-usmca-meta-plans-cloud-business-more",
     "published": "Wed, 01 Jul 2026 19:01:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:29.404798"
+    "fetched_at": "2026-07-01T22:04:28.180079"
   },
   {
     "id": "e031bf05f411",
@@ -107,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/big-tech-s-carbon-emissions-spike-with-runaway-growth-of-ai",
     "published": "Wed, 01 Jul 2026 18:57:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:29.539634"
+    "fetched_at": "2026-07-01T22:04:28.296606"
   },
   {
     "id": "850b9f00838d",
@@ -117,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-won-t-renew-usmca-meta-plans-cloud-business-more-mr2dsusi",
     "published": "Wed, 01 Jul 2026 18:00:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:30.188207"
+    "fetched_at": "2026-07-01T22:04:28.424646"
   },
   {
     "id": "96f63e01eb9f",
@@ -127,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/spacex-bondholders-face-huge-key-person-risk-on-their-elon-musk-trip-podcast",
     "published": "Wed, 01 Jul 2026 18:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:30.877349"
+    "fetched_at": "2026-07-01T22:04:28.544513"
   },
   {
     "id": "2d93efb598a0",
@@ -137,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/finance-app-network-maker-plaid-is-said-to-consider-us-ipo",
     "published": "Wed, 01 Jul 2026 17:45:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:31.038784"
+    "fetched_at": "2026-07-01T22:04:28.667026"
   },
   {
     "id": "388a0a5aeca8",
@@ -147,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-intelligence-nike-sees-weakness-persisting-podcast",
     "published": "Wed, 01 Jul 2026 17:37:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:32.163223"
+    "fetched_at": "2026-07-01T22:04:29.266480"
   },
   {
     "id": "d9ac4f7fdae6",
@@ -157,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/carroll-seeks-5-5-million-payout-after-trump-abuse-appeal-fails",
     "published": "Wed, 01 Jul 2026 00:34:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:32.298185"
+    "fetched_at": "2026-07-01T22:04:29.881682"
   },
   {
     "id": "5265714f1f85",
@@ -167,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-tech-meta-eyes-new-ai-cloud-business-podcast",
     "published": "Wed, 01 Jul 2026 17:32:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:32.915649"
+    "fetched_at": "2026-07-01T22:04:30.010597"
   },
   {
     "id": "1c88ab45d9f8",
@@ -177,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-won-t-renewing-usmca-warsh-vows-price-stability-more",
     "published": "Wed, 01 Jul 2026 17:14:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:33.604753"
+    "fetched_at": "2026-07-01T22:04:30.127809"
   },
   {
     "id": "2e7e74e492fe",
@@ -187,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/euro-area-inflation-risks-are-now-less-pronounced",
     "published": "Wed, 01 Jul 2026 17:11:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:33.742299"
+    "fetched_at": "2026-07-01T22:04:30.253820"
   },
   {
     "id": "01cb440c9fb2",
@@ -197,7 +287,7 @@
     "link": "https://www.bloomberg.com/opinion/newsletters/2026-07-01/egg-libor-was-also-manipulated",
     "published": "Wed, 01 Jul 2026 17:07:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:33.864014"
+    "fetched_at": "2026-07-01T22:04:30.393798"
   },
   {
     "id": "ae8229d55233",
@@ -207,97 +297,107 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/the-great-rotation-leaves-ai-behind-as-the-bubble-peaks",
     "published": "Wed, 01 Jul 2026 16:39:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:34.828005"
+    "fetched_at": "2026-07-01T22:04:30.588375"
   },
   {
-    "id": "6e9233bc6032",
-    "title": "US Won't Renew USMCA, Meta Plans Cloud Business, More",
-    "title_cn": "美国不会续签 USMCA，Meta 计划云业务等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-won-t-renew-usmca-meta-plans-cloud-business-more",
-    "published": "Wed, 01 Jul 2026 16:27:46 GMT",
+    "id": "b8579daf03bd",
+    "title": "Cboe Seeks to List Prediction Market Type Options on Earnings Metrics",
+    "title_cn": "芝加哥期权交易所寻求列出盈利指标的预测市场类型选项",
+    "summary": "Cboe Global Markets Inc. is seeking US regulatory approval to list all-or-nothing options tied to corporate earnings results, allowing traders to wager on figures ranging from SpaceX revenue and Nvidia data-center sales to JPMorgan Chase &amp; Co.’s credit-loss provisions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/cboe-seeks-to-list-prediction-market-type-options-on-earnings-metrics",
+    "published": "Wed, 01 Jul 2026 21:53:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:34.978274"
+    "fetched_at": "2026-07-01T22:04:30.996265"
   },
   {
-    "id": "4a0547f50963",
-    "title": "Bloomberg Surveillance TV: July 1st, 2026 (Podcast)",
-    "title_cn": "彭博监控电视：2026 年 7 月 1 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/bloomberg-surveillance-tv-july-1st-2026-podcast",
-    "published": "Wed, 01 Jul 2026 16:13:33 GMT",
+    "id": "51df874e76e6",
+    "title": "Hikers Turn to AllTrails App to Navigate Nature",
+    "title_cn": "徒步旅行者使用 AllTrails 应用程序探索大自然",
+    "summary": "AllTrails CEO Liz Hamren is joined by Bloomberg's Adam Thompson to discuss how to navigate the summer hiking season and break down how to visit the most popular national parks but still beat the crowds. \nHamren said that a key feature to figuring out the right hike is looking at the latest community input on trail difficulty and conditions that can make a big difference in the experience.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/hikers-turn-to-alltrails-app-to-navigate-nature-video",
+    "published": "Wed, 01 Jul 2026 21:32:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:35.864706"
+    "fetched_at": "2026-07-01T22:04:31.116820"
   },
   {
-    "id": "704d4fde9af0",
-    "title": "Electric Bike Rental Firm Lime Rises 8% After $174 Million IPO",
-    "title_cn": "电动自行车租赁公司 Lime 首次公开募股 1.74 亿美元后股价上涨 8%",
-    "summary": "The operator of Lime electric scooters and bikes gained 8% after the company and some of its shareholders raised $174 million in an initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/electric-bike-rental-firm-lime-rises-8-after-174-million-ipo",
-    "published": "Wed, 01 Jul 2026 16:04:49 GMT",
+    "id": "86fe2df96b49",
+    "title": "Meta Platforms Getting Into Cloud Infrastructure Business | Closing Bell",
+    "title_cn": "元平台进军云基础设施业务|结束钟声",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Katie Greifeld, Bailey Lipschultz, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/meta-platforms-getting-into-cloud-infrastructure-business-closing-bell",
+    "published": "Wed, 01 Jul 2026 21:20:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:36.011148"
+    "fetched_at": "2026-07-01T22:04:31.241265"
   },
   {
-    "id": "1966d4fe263b",
-    "title": "US Decides Against Renewing USMCA",
-    "title_cn": "美国决定不再续签USMCA",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/us-decides-against-renewing-usmca",
-    "published": "Wed, 01 Jul 2026 15:40:51 GMT",
+    "id": "294f9ede6052",
+    "title": "Chuck E. Cheese CEO Highlights Growth in Birthday Party Business",
+    "title_cn": "Chuck E. Cheese 首席执行官强调生日派对业务的增长",
+    "summary": "Scott Drake, CEO of Chuck E. Cheese, discussed the company's strategy to connect with customers through family-friendly, clean, and safe entertainment options. He highlighted the success of the $99 birthday party offering, introduced in 2004, which has driven nearly 40% growth in birthday celebrations. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/chuck-e-cheese-ceo-on-growth-in-birthday-party-business-video",
+    "published": "Wed, 01 Jul 2026 21:17:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:36.803211"
+    "fetched_at": "2026-07-01T22:04:31.349603"
   },
   {
-    "id": "355d406960d9",
-    "title": "Stock Movers: Klarna, Meta, Alcoa (Podcast)",
-    "title_cn": "库存推动者：Klarna、Meta、Alcoa（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/stock-movers-klarna-meta-alcoa-podcast",
-    "published": "Wed, 01 Jul 2026 15:28:34 GMT",
+    "id": "e64af7b3231d",
+    "title": "Japan's $13 Billion Global Anime Merchandise Goal",
+    "title_cn": "日本的全球动漫商品销售额达到 130 亿美元的目标",
+    "summary": "Anime has become a global entertainment powerhouse, attracting billions of dollars in investment and fans worldwide. Now, companies including Marubeni are targeting the fast-growing $13 billion merchandise market. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/japan-s-13illion-global-anime-merchandise-goal",
+    "published": "Wed, 01 Jul 2026 21:01:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:37.858672"
+    "fetched_at": "2026-07-01T22:04:31.473385"
   },
   {
-    "id": "2f3f0db4aa30",
-    "title": "Trump Hails Qatar Meetings, Warsh Vows Price Stability, More",
-    "title_cn": "特朗普赞扬卡塔尔会议，沃什誓言稳定价格等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/trump-hails-qatar-meetings-warsh-vows-price-stability-more",
-    "published": "Wed, 01 Jul 2026 15:15:53 GMT",
+    "id": "122853056cfc",
+    "title": "South Korean Banks Expand Trading Floors for 24-Hour Won Market",
+    "title_cn": "韩国银行扩大 24 小时韩元市场交易大厅",
+    "summary": "South Korea’s biggest lenders are boosting trading desks in London and Seoul to prepare for the won’s round-the-clock trading starting next week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/south-korean-banks-expand-trading-floors-for-24-hour-won-market",
+    "published": "Wed, 01 Jul 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:37.995604"
+    "fetched_at": "2026-07-01T22:04:31.656794"
   },
   {
-    "id": "cbf90452cdba",
-    "title": "Stock Movers: Salesforce, General Mills, Nike (Podcast)",
-    "title_cn": "库存推动者：Salesforce、通用磨坊、耐克（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/stock-movers-salesforce-general-mills-nike-podcast",
-    "published": "Wed, 01 Jul 2026 14:44:24 GMT",
+    "id": "a8cc31bfb7d1",
+    "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
+    "title_cn": "【今早5篇】精选上班前必读新闻",
+    "summary": "メタのクラウド事業、ウォーシュ議長講演、カカクコム買収提案、米経済指標、北米貿易協定",
+    "link": "https://www.bloomberg.com/jp/news/newsletters/2026-07-01/THIKWFVTTCZU00",
+    "published": "Wed, 01 Jul 2026 20:57:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:38.135912"
+    "fetched_at": "2026-07-01T22:04:31.787428"
   },
   {
-    "id": "9d836cedae98",
-    "title": "England’s World Cup Wins Set Up a Chance for Andy Burnham’s Economy",
-    "title_cn": "英格兰世界杯的胜利为安迪·伯纳姆的经济带来了机会",
-    "summary": "The country is getting help from everywhere right now including pub receipts from England’s footballing wins.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/can-england-s-world-cup-wins-help-andy-burnham-reboot-the-uk-economy",
-    "published": "Wed, 01 Jul 2026 14:40:15 GMT",
+    "id": "8a476e25782f",
+    "title": "REalloys Announces Partnership to Operate on US Army Base",
+    "title_cn": "REalloys 宣布建立合作伙伴关系，在美国陆军基地开展业务",
+    "summary": "REalloys CEO Lipi Sternheim said that members of the US military could be actively involved in working with his company to mine rare earth minerals after the announcement of a deal to let REalloy mine on US Army bases. \nSternheim said that the partnership with the Army shows how 'strategically important' rare earth metals are to the United States.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/realloys-announces-deal-to-operate-on-us-army-base-video",
+    "published": "Wed, 01 Jul 2026 20:52:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:38.285860"
+    "fetched_at": "2026-07-01T22:04:31.906227"
   },
   {
-    "id": "ab9bf55fef19",
-    "title": "Trump Praises Iran Talks, Warsh Vows Price Stability, More",
-    "title_cn": "特朗普赞扬伊朗谈判，沃什誓言稳定价格等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-01/trump-praises-iran-talks-warsh-vows-price-stability-more",
-    "published": "Wed, 01 Jul 2026 14:33:31 GMT",
+    "id": "d3dd9e35381d",
+    "title": "Emerging-Market Currencies Erase 2026 Gains as Dollar Advances",
+    "title_cn": "随着美元升值，新兴市场货币抹去了 2026 年的涨幅",
+    "summary": "A gauge for emerging-market currencies fell Wednesday, erasing its gains for this year as speculation over higher US interest rates fueled a resurgence in the dollar.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/emerging-market-currencies-erase-2026-gains-as-dollar-advances",
+    "published": "Wed, 01 Jul 2026 11:20:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:38.444513"
+    "fetched_at": "2026-07-01T22:04:32.015317"
+  },
+  {
+    "id": "eed67a0f2634",
+    "title": "M&amp;A Volume to Stay Strong in Second Half, Says Sullivan’s Sawyer",
+    "title_cn": "沙利文的索耶表示下半年并购量将保持强劲",
+    "summary": "The variety, range and scope of deals in the market suggests transaction volumes will continue to remain strong in the second half, according to Melissa Sawyer, head of global mergers and acquisitions at Sullivan &amp; Cromwell.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/m-a-volume-to-stay-strong-in-second-half-says-sullivan-s-sawyer",
+    "published": "Wed, 01 Jul 2026 20:36:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:32.137731"
   },
   {
     "id": "6ee69604e761",
@@ -307,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/golden-seeds-looks-to-close-gender-gap-in-investments-video",
     "published": "Wed, 01 Jul 2026 20:17:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:38.895390"
+    "fetched_at": "2026-07-01T22:04:32.370254"
   },
   {
     "id": "733e17391bd1",
@@ -317,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/asian-stocks-eye-gains-as-us-posts-stellar-quarter-markets-wrap",
     "published": "Tue, 30 Jun 2026 22:09:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.044335"
+    "fetched_at": "2026-07-01T22:04:32.481524"
   },
   {
     "id": "ac367e9c7439",
@@ -327,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-stocks-decline-as-traders-await-warsh-comments-fresh-data",
     "published": "Wed, 01 Jul 2026 13:03:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.190795"
+    "fetched_at": "2026-07-01T22:04:32.613484"
   },
   {
     "id": "2c856ba19d08",
@@ -337,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/the-sec-doesn-t-want-to-pick-winners-in-the-etf-industry",
     "published": "Wed, 01 Jul 2026 20:04:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.495297"
+    "fetched_at": "2026-07-01T22:04:32.867577"
   },
   {
     "id": "a0b0b68349d4",
@@ -347,17 +447,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/tankmaker-knds-postpones-its-ipo-citing-market-conditions",
     "published": "Wed, 01 Jul 2026 19:00:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.644489"
+    "fetched_at": "2026-07-01T22:04:32.992530"
   },
   {
     "id": "fdb9d3f437eb",
-    "title": "Musk Meme Traders Rush Back Into Tesla When the Stock Hits $420",
-    "title_cn": "当特斯拉股价触及 420 美元时，马斯克表情包交易员纷纷涌入特斯拉",
+    "title": "Tesla ‘Magic Number’ $420 Sends Musk Bros Piling Into the Stock",
+    "title_cn": "特斯拉“神奇数字”420美元促使马斯克兄弟纷纷买入该股",
     "summary": "Crossing $420 gets Tesla Inc. investors excited.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420",
     "published": "Wed, 01 Jul 2026 19:41:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.780891"
+    "fetched_at": "2026-07-01T22:04:33.104831"
   },
   {
     "id": "53d19fbf0c51",
@@ -367,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/headline-telecom-shakeup-comcast-verizon-make-deals-video",
     "published": "Wed, 01 Jul 2026 18:56:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:39.916928"
+    "fetched_at": "2026-07-01T22:04:33.251495"
   },
   {
     "id": "3b493fb5c11f",
@@ -377,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/michael-burry-s-short-call-dents-caterpillar-s-ai-fueled-rally",
     "published": "Wed, 01 Jul 2026 19:32:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.201733"
+    "fetched_at": "2026-07-01T22:04:33.371611"
   },
   {
     "id": "155d341e15c2",
@@ -387,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/big-bank-calls-unleash-trading-frenzy-in-us-funding-rate-futures",
     "published": "Wed, 01 Jul 2026 19:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.338314"
+    "fetched_at": "2026-07-01T22:04:33.491771"
   },
   {
     "id": "3d8a8bc3b2d2",
@@ -397,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/business-of-sports-seahawks-for-sale-nba-in-vegas-video",
     "published": "Wed, 01 Jul 2026 19:29:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.499595"
+    "fetched_at": "2026-07-01T22:04:33.614098"
   },
   {
     "id": "03101098ecd6",
@@ -407,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/data-center-build-out-supports-high-valuations-bilicic-video",
     "published": "Wed, 01 Jul 2026 19:14:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.645588"
+    "fetched_at": "2026-07-01T22:04:33.729866"
   },
   {
     "id": "6e933ea5550a",
@@ -417,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/gold-steadies-as-us-iran-peace-talks-frame-inflation-outlook",
     "published": "Tue, 30 Jun 2026 23:57:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.805969"
+    "fetched_at": "2026-07-01T22:04:33.855545"
   },
   {
     "id": "f5aa05e6595f",
@@ -427,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
     "published": "Tue, 30 Jun 2026 22:04:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:40.931957"
+    "fetched_at": "2026-07-01T22:04:33.977205"
   },
   {
     "id": "51ee7007859e",
@@ -437,17 +537,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/new-zealand-house-prices-near-three-year-low-on-iran-war-worries",
     "published": "Wed, 01 Jul 2026 19:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.059854"
+    "fetched_at": "2026-07-01T22:04:34.099137"
   },
   {
     "id": "f84b7abfab82",
     "title": "Dealmakers 'Unlock the Magic' with Care Bears Sale",
-    "title_cn": "交易撮合者通过“爱心小熊”促销活动“释放魔力”",
+    "title_cn": "交易撮合者通过爱心小熊促销“释放魔力”",
     "summary": "Jeff Collins, Managing Partner at Cloverlay, joins Dani Burger on \"Bloomberg Deals.\" IVEST Consumer Partners and Cloverlay announced the sale of Care Bears to Authentic Brands Group. They discuss the deal and the value of intellectual property. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/dealmakers-unlock-the-magic-with-care-bears-sale-video",
     "published": "Wed, 01 Jul 2026 18:49:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.210869"
+    "fetched_at": "2026-07-01T22:04:34.221060"
   },
   {
     "id": "992c7bc35e49",
@@ -457,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/shell-shuffles-energy-trading-bosses-as-david-wells-retires",
     "published": "Wed, 01 Jul 2026 18:45:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.354019"
+    "fetched_at": "2026-07-01T22:04:34.349515"
   },
   {
     "id": "342f2d83588d",
@@ -467,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/m-a-environment-healthy-top-m-a-firm-video",
     "published": "Wed, 01 Jul 2026 18:45:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.486287"
+    "fetched_at": "2026-07-01T22:04:34.491196"
   },
   {
     "id": "1b55ac04ece7",
@@ -477,107 +577,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/robinhood-rolls-out-perpetual-futures-tied-to-commodities-etfs",
     "published": "Wed, 01 Jul 2026 18:45:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.613676"
+    "fetched_at": "2026-07-01T22:04:34.600777"
   },
   {
-    "id": "f63a5de25722",
-    "title": "Blackstone Offloads Stakes in Trio of Virginia Data Centers",
-    "title_cn": "Blackstone 出售弗吉尼亚三个数据中心的股份",
-    "summary": "Bloomberg's Anthony Hughes joins Dani Burger on \"Bloomberg Deals.\" Blackstone  is selling its stakes in a trio of data centers across Northern Virginia for $3.5 billion, cashing out of part of a bet it made less than three years ago. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/blackstone-offloads-stakes-in-trio-of-data-centers-video",
-    "published": "Wed, 01 Jul 2026 18:37:31 GMT",
+    "id": "7304ff6eeb81",
+    "title": "Apple Seeks to Buy Chinese-Made Memory Chips by Lobbying US",
+    "title_cn": "苹果试图通过游说美国购买中国制造的存储芯片",
+    "summary": "Apple Inc. is in negotiations to purchase chips from two Chinese semiconductor makers on a Pentagon blacklist to help reduce the impact of a global memory shortage that’s forced the company to raise prices across its product line.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push",
+    "published": "Wed, 01 Jul 2026 19:54:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.738903"
-  },
-  {
-    "id": "3366baefed7e",
-    "title": "USMCA Was a Great Success Story For North America Says Timmons",
-    "title_cn": "蒂蒙斯表示，USMCA 对北美来说是一个巨大的成功故事",
-    "summary": "The US won’t renew its trade deal with Canada and Mexico, choosing instead to conduct annual reviews of the pact in a decision that risks adding uncertainty for companies producing goods across North America. Jay Timmons, president and CEO of the National Association of Manufacturers joined Balance of Power and said the US trade deal with Canada and Mexico was a \"great success story.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/usmca-was-a-great-success-story-says-timmons-video",
-    "published": "Wed, 01 Jul 2026 18:36:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:41.880393"
-  },
-  {
-    "id": "c2b584c75b3c",
-    "title": "Wall Street Worries Less Fed Talk Will Spur Market Volatility",
-    "title_cn": "华尔街担心美联储讲话减少将刺激市场波动",
-    "summary": "It’s only been a few weeks since Kevin Warsh took the helm of the Federal Reserve, but analysts are already concerned that one of his key promises &mdash; a quieter central bank &mdash; will lead to more volatility in the market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/wall-street-worries-less-fed-talk-will-spur-market-volatility",
-    "published": "Wed, 01 Jul 2026 18:34:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.018464"
-  },
-  {
-    "id": "67b3eb79047b",
-    "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
-    "title_cn": "特朗普报告 2025 年加密货币收益至少为 14 亿美元",
-    "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure. Patrick McHenry, former Republican Congressman from North Carolina, Bloomberg Contributor, former House Financial Services Committee Chairman joins to discuss Trump's financial disclosures as well as Speaker Johnson sending the House on recess.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/trump-reports-at-least-1-4b-in-2025-crypto-earnings-video",
-    "published": "Wed, 01 Jul 2026 18:30:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.170978"
-  },
-  {
-    "id": "aab42f519784",
-    "title": "ECB Views Splinter on Next Rate Move as Inflation Sinks With Oil",
-    "title_cn": "随着石油价格下跌，欧洲央行认为下一步利率走势将出现分歧",
-    "summary": "Just three weeks after the European Central Bank unanimously raised interest rates in response to the Iran war, there’s no consensus on what to do next.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ecb-views-splinter-on-next-rate-move-as-inflation-sinks-with-oil",
-    "published": "Wed, 01 Jul 2026 18:20:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.305080"
-  },
-  {
-    "id": "b8891ae64c4c",
-    "title": "Arabica Coffee Surges With Funds Taking Bullish Stance",
-    "title_cn": "阿拉比卡咖啡因资金看涨而飙升",
-    "summary": "Arabica coffee futures climbed for a third straight day in New York with investors seen turning increasingly bullish amid uncertainties related to production at top exporter Brazil.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/coffee-sugar-extend-rally-as-adverse-weather-fuels-supply-fears",
-    "published": "Wed, 01 Jul 2026 12:04:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.436143"
-  },
-  {
-    "id": "3dafb1a77a3b",
-    "title": "Exxon to Change Name for First Time in Decades After Redomicile",
-    "title_cn": "埃克森美孚迁址数十年来首次更名",
-    "summary": "Exxon Mobil Corp. will begin trading as ExxonMobil Holdings Corp. after redomiciling in Texas, the first name change since the Mobil mega merger more than 25 years ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/exxon-to-change-name-for-first-time-in-decades-after-redomicile",
-    "published": "Wed, 01 Jul 2026 18:08:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.585475"
-  },
-  {
-    "id": "f9fa07003324",
-    "title": "US Aluminum Smelter Idled Since 2024 to Restart as Trump Looks to Revive Industry",
-    "title_cn": "特朗普希望重振工业，自 2024 年以来闲置的美国铝冶炼厂将重新启动",
-    "summary": "An idled aluminum smelter in Missouri will restart production before the end of this year, helping to boost output of the metal amid the Trump administration’s push to revive the domestic industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/aluminum-smelter-idled-since-2024-to-restart-in-us-after-trump-tariffs",
-    "published": "Wed, 01 Jul 2026 14:54:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.730634"
-  },
-  {
-    "id": "8f44aa5a4a58",
-    "title": "US Crude Grades Shed Iran War Premium as Energy Crisis Eases",
-    "title_cn": "随着能源危机缓解，美国原油等级下降了伊朗战争溢价",
-    "summary": "Key US oil grades have slumped to trade at a discount again as a gush of crude flows through the Strait of Hormuz and a recent spike in demand for American exports fades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-crude-grades-shed-iran-war-premium-as-energy-crisis-eases",
-    "published": "Wed, 01 Jul 2026 17:59:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:42.871457"
-  },
-  {
-    "id": "583f3c2c4d99",
-    "title": "ECB’s Stournaras Sees Smaller Likelihood of Further Rate Hike",
-    "title_cn": "欧洲央行行长斯托纳拉斯认为进一步加息的可能性较小",
-    "summary": "The unexpectedly large fall in energy prices alongside slowing euro-zone inflation suggest the European Central Bank may not have to add to June’s interest-rate increase, Governing Council member Yannis Stournaras said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ecb-s-stournaras-sees-smaller-likelihood-of-further-rate-hike",
-    "published": "Wed, 01 Jul 2026 17:38:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:43.191774"
+    "fetched_at": "2026-07-01T22:04:35.212531"
   },
   {
     "id": "9b51b54cd719",
@@ -587,17 +597,97 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/alibiba-payment-firm-will-pay-600-million-to-resolve-us-probe",
     "published": "Wed, 01 Jul 2026 18:55:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:43.575651"
+    "fetched_at": "2026-07-01T22:04:35.346991"
   },
   {
-    "id": "7304ff6eeb81",
-    "title": "Apple Seeks to Buy Chinese-Made Memory Chips With Lobbying Push",
-    "title_cn": "苹果寻求通过游说购买中国制造的存储芯片",
-    "summary": "Apple Inc. is in negotiations to purchase chips from two Chinese semiconductor makers on a Pentagon blacklist to help reduce the impact of a global memory shortage that’s forced the company to raise prices across its product line.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push",
-    "published": "Wed, 01 Jul 2026 19:54:48 GMT",
+    "id": "7042d4f79f37",
+    "title": "Nuclear Firm First in US to Produce Power From Advanced Reactor",
+    "title_cn": "美国第一家利用先进反应堆发电的核公司",
+    "summary": "Valar Atomics Inc., a California-based nuclear startup, generated power from an advanced reactor to run an Nvidia Corp. AI chip. While just a trickle of electricity was produced, it’s the first time a next-gen reactor has done so in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor",
+    "published": "Wed, 01 Jul 2026 21:14:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:43.715256"
+    "fetched_at": "2026-07-01T22:04:35.456321"
+  },
+  {
+    "id": "946c9acf1e85",
+    "title": "One Leveraged ETF Is Reshaping Trading in World's Top AI Memory Stock",
+    "title_cn": "一只杠杆 ETF 正在重塑全球顶级人工智能存储股票的交易",
+    "summary": "<p>A Hong Kong fund tied to SK Hynix has grown so large that it's beginning to move the stock it was built to track.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-01/how-a-13-billion-leveraged-etf-drives-volatility-in-a-key-ai-memory-stock",
+    "published": "Wed, 01 Jul 2026 21:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:35.563940"
+  },
+  {
+    "id": "623ae380d2f2",
+    "title": "AI Money and Anxiety Are Powering This Election Cycle",
+    "title_cn": "人工智能货币和焦虑正在推动这个选举周期",
+    "summary": "<p>AI is sparking nervousness among voters. AI money is funding the candidates. And AI is generating the campaign ads. On today’s Big Take podcast, how the first AI election mirrors the anxieties of our era.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/anthropic-splits-from-pack-in-race-to-shape-first-ai-election-big-take-podcas",
+    "published": "Wed, 01 Jul 2026 20:50:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:35.673480"
+  },
+  {
+    "id": "7f15c4ea879a",
+    "title": "ByteDance construye en Brasil su mayor complejo de centros de datos fuera de China",
+    "title_cn": "字节跳动在巴西建设中国以外最大的数据中心综合体",
+    "summary": "<p>El centro de datos de US$39.000&nbsp;millones&nbsp;del creador de TikTok es el fruto más reciente de los esfuerzos de Lula por atraer&nbsp;inversión china.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/china-impulsa-centros-de-datos-en-brasil-con-inversion-millonaria-de-bytedance",
+    "published": "Wed, 01 Jul 2026 20:50:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:35.798098"
+  },
+  {
+    "id": "a2908a7af27b",
+    "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027",
+    "title_cn": "Apple 准备推出 2027 年新款 iPad Pro 和重新设计的入门级 MacBook Pro",
+    "summary": "Apple Inc. is preparing an upgraded iPad Pro line and a redesigned entry-level MacBook Pro for next year, adding to a slate of several other major new products planned for the iPhone’s 20th anniversary year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027",
+    "published": "Wed, 01 Jul 2026 20:47:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:35.932618"
+  },
+  {
+    "id": "a55909f6b675",
+    "title": "Northern Ireland Riots Stoked by Social Media Accounts From US, UK",
+    "title_cn": "美国、英国社交媒体账户引发北爱尔兰骚乱",
+    "summary": "Researchers found that 30% of accounts that amplified inflammatory statements in days after knife attack were based in the US.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/northern-ireland-riots-stoked-by-social-media-accounts-from-us-uk",
+    "published": "Wed, 01 Jul 2026 20:46:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:36.041571"
+  },
+  {
+    "id": "0869b045e654",
+    "title": "Musk Ally Gracias Eyes Bets in AI, Energy After SpaceX Windfall",
+    "title_cn": "继 SpaceX 意外之财后，马斯克盟友格雷西亚斯着眼于人工智能和能源领域",
+    "summary": "Antonio Gracias, a long-time SpaceX board member, is looking for more investments in artificial intelligence, energy and space after bets in Elon Musk’s company netted his fund nearly $100 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/musk-ally-gracias-eyes-bets-in-ai-energy-after-spacex-windfall",
+    "published": "Wed, 01 Jul 2026 20:25:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:36.155719"
+  },
+  {
+    "id": "c1df16dc33e7",
+    "title": "What the Saga Over Anthropic’s Mythos Tells Us About the Cyber Risks From AI",
+    "title_cn": "关于人类神话的传奇故事告诉我们关于人工智能的网络风险",
+    "summary": "Anthropic PBC has said its Mythos artificial intelligence model is so good at finding vulnerabilities in software and computer systems that it can’t be released to the general public. The AI giant has released Mythos to a small number of partner organizations because if a tool this powerful fell into the wrong hands, Anthropic said, it could help attackers more easily steal data or disrupt critical infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-30/what-the-saga-over-anthropic-s-mythos-tells-us-about-the-cyber-risks-from-ai",
+    "published": "Tue, 30 Jun 2026 08:52:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:36.262183"
+  },
+  {
+    "id": "fac8600e1ed8",
+    "title": "Bloomberg Deals 7/1/2026",
+    "title_cn": "彭博社优惠 7/1/2026",
+    "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Sullivan & Cromwell Global head of M&amp;A Melissa Sawyer, Cloverlay Managing Partner Jeff Collins, Lazard Managing Director George Bilicic, Kirkland & Ellis Executive Committee Member Andre Calder, and PC Partners Credit Founder Ted Goldthorpe. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-deals-7-1-2026-video",
+    "published": "Wed, 01 Jul 2026 20:03:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:36.519698"
   },
   {
     "id": "5ff36774c3ab",
@@ -607,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/we-re-looking-at-smaller-firms-bc-s-goldthorpe-video",
     "published": "Wed, 01 Jul 2026 19:29:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.004024"
+    "fetched_at": "2026-07-01T22:04:36.753448"
   },
   {
     "id": "acd46197913a",
@@ -617,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/aol-owner-bending-spoons-jumps-after-1-68-billion-ipo-video",
     "published": "Wed, 01 Jul 2026 19:09:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.151876"
+    "fetched_at": "2026-07-01T22:04:36.881985"
   },
   {
     "id": "08838eefea47",
@@ -627,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
     "published": "Wed, 01 Jul 2026 04:00:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.300882"
+    "fetched_at": "2026-07-01T22:04:36.992382"
   },
   {
     "id": "0135a7d5b49c",
@@ -637,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-06-15/the-race-to-build-data-centers-in-space-video",
     "published": "Mon, 15 Jun 2026 19:00:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.439666"
+    "fetched_at": "2026-07-01T22:04:37.104630"
   },
   {
     "id": "3af965ded352",
@@ -647,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-tech-7-01-2026-video",
     "published": "Wed, 01 Jul 2026 17:02:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.801639"
+    "fetched_at": "2026-07-01T22:04:37.339297"
   },
   {
     "id": "0feb3f3c4562",
@@ -657,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/what-s-behind-the-us-dollar-s-explosive-rally-video",
     "published": "Wed, 01 Jul 2026 17:01:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:44.946698"
+    "fetched_at": "2026-07-01T22:04:37.476074"
   },
   {
     "id": "04512e0ed0f8",
@@ -667,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-27/wall-street-bets-billions-on-power-firms-as-ai-boom-drives-ipo-rush",
     "published": "Sat, 27 Jun 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.089984"
+    "fetched_at": "2026-07-01T22:04:37.574203"
   },
   {
     "id": "d6641eb778d1",
@@ -677,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/marlinspike-raises-fund-for-defense-industrial-startups-video",
     "published": "Wed, 01 Jul 2026 16:45:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.238435"
+    "fetched_at": "2026-07-01T22:04:37.703658"
   },
   {
     "id": "990db8433169",
@@ -687,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/uber-backed-lime-raises-174-million-in-public-debut-video",
     "published": "Wed, 01 Jul 2026 16:43:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.369331"
+    "fetched_at": "2026-07-01T22:04:37.884703"
   },
   {
     "id": "00c47f35ce80",
@@ -697,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-lifts-export-restrictions-on-anthropic-s-fable-5-video-mr2azjde",
     "published": "Wed, 01 Jul 2026 16:41:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.497117"
+    "fetched_at": "2026-07-01T22:04:37.993498"
   },
   {
     "id": "23b80c36e4ad",
@@ -707,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo",
     "published": "Wed, 01 Jul 2026 13:04:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.658263"
+    "fetched_at": "2026-07-01T22:04:38.142487"
   },
   {
     "id": "7e7a50a179fd",
@@ -717,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/opinion-inside-meta-s-900-million-india-gamble-video",
     "published": "Wed, 01 Jul 2026 16:02:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.812872"
+    "fetched_at": "2026-07-01T22:04:38.265743"
   },
   {
     "id": "9a6afac66c13",
@@ -727,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/private-equity-bets-on-ai-growth-video",
     "published": "Wed, 01 Jul 2026 15:40:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:45.942388"
+    "fetched_at": "2026-07-01T22:04:38.400688"
   },
   {
     "id": "707d19200265",
@@ -737,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-wealth-rick-wurster-video",
     "published": "Wed, 01 Jul 2026 13:09:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.092888"
+    "fetched_at": "2026-07-01T22:04:38.513232"
   },
   {
     "id": "0a66038403a2",
@@ -747,7 +837,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-01/national-grid-s-big-bet-on-us-ai-power-firm-video",
     "published": "Wed, 01 Jul 2026 15:25:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.210917"
+    "fetched_at": "2026-07-01T22:04:38.642015"
   },
   {
     "id": "f95a1e78e381",
@@ -757,237 +847,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/whatsapp-s-new-feature-has-defenses-against-scams-meta-says",
     "published": "Wed, 01 Jul 2026 15:25:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.343814"
+    "fetched_at": "2026-07-01T22:04:38.765713"
   },
   {
-    "id": "2a5b355db8ec",
-    "title": "Meta Cloud Business; NASA Lunar Lander Contracts | Stock Movers",
-    "title_cn": "元云业务；美国宇航局月球着陆器合同|库存搬运工",
-    "summary": "On this episode of Stock Movers:\n\n- Space companies including FireFly Aerospace (FLY) Intuitive Machines (LUNR) and Voyager Technologies (VOYG) shares are moving on news that NASA selected three companies to send robotic landers to the moon as part of efforts to establish a lunar base before the end of the decade. The agency announced awards to Astrobotic Technology Inc., Firefly Aerospace Inc., and Intuitive Machines Inc. to send landers to the moon.\n- General Mills (GIS) shares are moving after it posted fourth-quarter profit that beat Wall Street expectations, lifted by higher prices.\n- Meta Platforms Inc. (META) gained on reports that the company is developing plans for a cloud infrastructure business that will sell access to AI computing power and models. The company is also considering selling access to “raw” computing capacity, according to people familiar with the matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/meta-cloud-business-nasa-lunar-lander-contracts-video",
-    "published": "Wed, 01 Jul 2026 15:23:45 GMT",
+    "id": "efc870ef2d0a",
+    "title": "Trump’s Nuclear Watchdog to Ditch 50-Year-Old Radiation Guidance",
+    "title_cn": "特朗普的核监管机构将放弃已有 50 年历史的辐射指南",
+    "summary": "The US Nuclear Regulatory Commission plans to scrap guidance on radiation exposure for power plant workers that’s been in place since the mid-1970s.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-s-nuclear-watchdog-to-ditch-50-year-old-radiation-guidance",
+    "published": "Wed, 01 Jul 2026 21:48:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.491020"
-  },
-  {
-    "id": "2126b13ecd13",
-    "title": "Meta Is Planning Cloud Business to Take on Amazon, Google",
-    "title_cn": "Meta 正在计划云业务挑战亚马逊和谷歌",
-    "summary": "Meta Platforms is developing plans to build a cloud infrastructure business that would sell access to AI computing power and models. It would take on industry leaders like Amazon Web Services, Microsoft Azure and Google Cloud. Mandeep Singh of Bloomberg Intelligence has details. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/meta-is-planning-cloud-business-to-sell-ai-compute-power-video",
-    "published": "Wed, 01 Jul 2026 15:20:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.617756"
-  },
-  {
-    "id": "34b55fda9d0f",
-    "title": "Nissan CEO on Autonomous Driving, Making Cars in US",
-    "title_cn": "日产首席执行官谈自动驾驶、在美国制造汽车",
-    "summary": "Nissan Motor Co. President and CEO Ivan Espinosa talks about the future of autonomous driving, investing in the US and how tariffs are making it harder to sell Mexican-made cars in the US. Those cars are being tariffed at a 25% rate. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/nissan-ceo-on-autonomous-driving-making-cars-in-us-video",
-    "published": "Wed, 01 Jul 2026 14:57:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.769106"
-  },
-  {
-    "id": "88a6161662c8",
-    "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power",
-    "title_cn": "Meta 正在规划云业务以销售 AI 算力",
-    "summary": "Meta Platforms Inc. is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, setting up a new vector of competition with industry leaders like Amazon Web Services, Microsoft Azure and Google Cloud.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-    "published": "Wed, 01 Jul 2026 12:35:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:46.917013"
-  },
-  {
-    "id": "536da1c5c4f1",
-    "title": "Video Search Startup Raises $100 Million From Amazon and VCs",
-    "title_cn": "视频搜索初创公司从亚马逊和风险投资公司筹集了 1 亿美元",
-    "summary": "Twelve Labs Co. is raising $100 million from investors including Amazon.com Inc., NEA Management Co. and Naver Ventures, boosting its efforts to develop artificial intelligence that can quickly search and analyze troves of video.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/video-search-startup-raises-100-million-from-amazon-vc-funds",
-    "published": "Wed, 01 Jul 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.087214"
-  },
-  {
-    "id": "1936e7169065",
-    "title": "Krafton Agrees to Pay ‘Subnautica 2’ Bonuses as Developer’s CEO Resigns",
-    "title_cn": "随着开发商首席执行官辞职，Krafton 同意支付《深海迷航 2》奖金",
-    "summary": "<p>After being fired over a $250 million payout dispute&nbsp;and then reinstated, Unknown Worlds Entertainment boss Ted Gill is leaving again</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/krafton-agrees-to-pay-subnautica-2-bonuses-as-developer-s-ceo-resigns",
-    "published": "Wed, 01 Jul 2026 14:18:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.244468"
-  },
-  {
-    "id": "02f3b97d0a12",
-    "title": "Uber Shakes Up AI Data Labeling Business, Dismissing Top Leaders",
-    "title_cn": "Uber 重组人工智能数据标签业务，解雇高层领导",
-    "summary": "Uber Technologies Inc. has dismissed two tech leaders at its nascent AI data labeling business, shaking up a key division that the ride-hail company has positioned as a key growth driver.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/uber-shakes-up-ai-data-labeling-business-dismissing-top-leaders",
-    "published": "Wed, 01 Jul 2026 14:10:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.411783"
-  },
-  {
-    "id": "4fd4249dc843",
-    "title": "Lagarde Says Risks to Inflation, Growth More Broadly Balanced",
-    "title_cn": "拉加德称通胀风险，增长更广泛平衡",
-    "summary": "European Central Bank President Christine Lagarde said risks to euro-area inflation and growth have become more broadly balanced during the ECB's annual retreat in Sintra, Portugal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/lagarde-says-risks-to-inflation-growth-more-balanced-video",
-    "published": "Wed, 01 Jul 2026 13:59:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.554890"
-  },
-  {
-    "id": "e40a81252129",
-    "title": "Sony to End Production of Physical PlayStation Discs in 2028",
-    "title_cn": "索尼将于 2028 年停止生产 PlayStation 实体光盘",
-    "summary": "Sony Group Corp. will end production of physical discs for its PlayStation video-game consoles starting in January 2028, going all in on a digital approach that will require consumers to download titles from the company’s online storefront moving forward.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/sony-to-end-production-of-physical-playstation-discs-in-2028",
-    "published": "Wed, 01 Jul 2026 13:12:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.685848"
-  },
-  {
-    "id": "38d44b963772",
-    "title": "Google Told to Pay Klarna Nearly $2 Billion in Shopping Spat",
-    "title_cn": "谷歌被要求向克拉纳支付近 20 亿美元的购物纠纷",
-    "summary": "Alphabet Inc.’s Google was ordered to pay almost $2 billion to Klarna Group Plc’s Pricerunner unit in a dispute over the search-engine giant’s abuse of power in the market for comparison shopping services.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/google-ordered-to-pay-klarna-nearly-2-billion-in-antitrust-suit",
-    "published": "Wed, 01 Jul 2026 11:42:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:47.829289"
-  },
-  {
-    "id": "0bed834c2e7a",
-    "title": "Why Trump Is Both a Boost and a Burden for Republicans",
-    "title_cn": "为什么特朗普对共和党来说既是推动也是负担",
-    "summary": "The president is downplaying cost of living concerns that polls show are vexing Americans.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/why-trump-is-both-a-boost-and-a-burden-for-midterm-republicans",
-    "published": "Wed, 01 Jul 2026 20:22:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:48.826480"
-  },
-  {
-    "id": "110061fd99a3",
-    "title": "California’s Return to Office Mandate for 90,000 State Workers Sets Up Union Clash",
-    "title_cn": "加州要求 9 万名州政府工作人员重返办公室引发工会冲突",
-    "summary": "The pandemic-era workweek is finally coming to an end for tens of thousands of California state workers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/return-to-office-mandate-for-california-state-workers-sets-up-union-clash",
-    "published": "Wed, 01 Jul 2026 14:06:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:48.957109"
-  },
-  {
-    "id": "4801da367030",
-    "title": "Vance Says US Is Worried About 'Nuclear Issue' With Iran",
-    "title_cn": "万斯表示美国担心与伊朗的“核问题”",
-    "summary": "The US is “worried about the nuclear issue” and will “start talking about that” with Iran, Vice President JD Vance says. He says talks with Iran in Doha are going very well, but it's also \"still pretty early.\" He spoke to reporters in Virginia. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/vance-says-us-is-worried-about-nuclear-issue-with-iran-video",
-    "published": "Wed, 01 Jul 2026 19:55:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:49.101049"
-  },
-  {
-    "id": "18fb8d829e80",
-    "title": "US Sanctions Two Brazilians, Four Firms Linked to Drug Cartel",
-    "title_cn": "美国制裁两名巴西人和四家与贩毒集团有关的公司",
-    "summary": "The US Treasury Department sanctioned two Brazilian nationals, three Brazilian companies and one Portuguese company for allegedly helping launder proceeds for Latin America’s largest criminal organization.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-sanctions-brazilians-companies-linked-to-latin-america-s-biggest-drug-cartel",
-    "published": "Wed, 01 Jul 2026 16:00:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:49.393324"
-  },
-  {
-    "id": "edef92463b8b",
-    "title": "Iran Wraps Up Doha Meetings | Balance of Power 7/1/2026",
-    "title_cn": "伊朗结束多哈会议|权力平衡 7/1/2026",
-    "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest from the Trump Administration. On today's show, Rebelle Communications Founder Laura Fink, Push Digital Vice President T.W. Arrighi, former Republican Congressman Patrick McHenry and National Association of Manufacturers President Jay Timmons. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/balance-of-power-7-1-2026-video",
-    "published": "Wed, 01 Jul 2026 18:51:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:49.527942"
-  },
-  {
-    "id": "c102f17cf23b",
-    "title": "US Decides Against Renewing USMCA, Shifting to Rolling Talks",
-    "title_cn": "美国决定不再续签USMCA，转向滚动谈判",
-    "summary": "The US won’t renew its trade deal with Canada and Mexico, choosing instead to conduct annual reviews of the pact in a decision that risks adding uncertainty for companies producing goods across North America.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-decides-against-renewing-usmca-shifting-to-rolling-talks",
-    "published": "Wed, 01 Jul 2026 15:30:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:49.838065"
-  },
-  {
-    "id": "aac218a84acb",
-    "title": "Ex-CIA Director Brennan Alleges ‘Vindictive’ DOJ Criminal Probe",
-    "title_cn": "前中央情报局局长布伦南声称司法部刑事调查具有“报复性”",
-    "summary": "Former CIA Director John Brennan sued the Trump administration, asking a federal judge to ensure government records are preserved in case he’s criminally indicted so he can seek to prove the charges are “vindictive.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ex-cia-director-brennan-alleges-vindictive-doj-criminal-probe",
-    "published": "Wed, 01 Jul 2026 18:06:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:49.971362"
-  },
-  {
-    "id": "8d16fb5c7ea8",
-    "title": "US Decides Against Renewing USMCA, Shifting to Rolling Talks",
-    "title_cn": "美国决定不再续签USMCA，转向滚动谈判",
-    "summary": "The US decided against renewing its trade deal with Canada and Mexico, US Trade Representative Jamieson Greer said, choosing instead to conduct annual reviews of the pact in a move that risks adding uncertainty for companies producing goods across North America.\nThe US-Mexico-Canada Agreement, or USMCA, will remain in force for another a decade provided no one country decides to exit. Annual reviews instead of a longer-term renewal open the door to years of contentious negotiations. Bloomberg National Security Reporter Nick Wadhams says this change is because Trump wants to change the deal.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-decides-against-renewing-usmca-video",
-    "published": "Wed, 01 Jul 2026 17:12:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.262395"
-  },
-  {
-    "id": "c3450c69dc1e",
-    "title": "US Agents Nab Member of Group That Brought Hasan Piker to Cuba",
-    "title_cn": "美国特工抓获将哈桑·皮克带到古巴的组织成员",
-    "summary": "A Cuban national accused of being part of a sprawling influence network that brought US political streamer Hasan Piker to Havana has been detained along with his family and will be deported.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-agents-nab-member-of-group-that-brought-hasan-piker-to-cuba",
-    "published": "Wed, 01 Jul 2026 17:01:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.404511"
-  },
-  {
-    "id": "7220059ff4c4",
-    "title": "UN, Strapped for Cash, Warns Time Running Out to Make Payments",
-    "title_cn": "现金短缺的联合国警告付款时间已所剩无几",
-    "summary": "The United Nations only has enough funds to operate through the end of August, according to the official in charge of its budget, as major contributors including the US and China have yet to pay what they owe in full.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/un-strapped-for-cash-warns-time-running-out-to-make-payments",
-    "published": "Wed, 01 Jul 2026 17:00:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.539112"
-  },
-  {
-    "id": "3c29135d710e",
-    "title": "Slovakia to Revive Aluminum Plant That Was Once a Top Producer",
-    "title_cn": "斯洛伐克将重振曾经是顶级生产商的铝厂",
-    "summary": "Slovakia is set to revive primary aluminum production at a plant that was once one of Europe’s biggest producers of the metal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/slovakia-to-revive-aluminum-plant-that-was-once-a-top-producer",
-    "published": "Wed, 01 Jul 2026 16:51:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.662662"
-  },
-  {
-    "id": "a9a363f04a1d",
-    "title": "US Won't Renew USMCA Trade Deal",
-    "title_cn": "美国不会续签USMCA贸易协议",
-    "summary": "The US decided against renewing its trade deal with Canada and Mexico, choosing instead to conduct annual reviews of the pact. That's according to US Trade Representative Jamieson Greer, who spoke to Bloomberg News on Wednesday. The USMCA will stay in tact for another decade, unless a country decides to exit. Bloomberg's Jeff Mason reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-won-t-renew-usmca-trade-deal-video",
-    "published": "Wed, 01 Jul 2026 16:44:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.801083"
-  },
-  {
-    "id": "273a76f6fa29",
-    "title": "USDA to Fund $500 Million to ‘Fast Track’ Fertilizer Plants",
-    "title_cn": "美国农业部将资助 5 亿美元用于“快速通道”化肥厂",
-    "summary": "The US Department of Agriculture will invest $500 million in new and existing fertilizer facilities to “fast track” more production in America, Agriculture Secretary Brooke Rollins said in a press conference Wednesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/usda-to-invest-500-million-to-fast-track-us-fertilizer-plants",
-    "published": "Wed, 01 Jul 2026 15:39:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:50.967784"
+    "fetched_at": "2026-07-01T22:04:41.750330"
   },
   {
     "id": "412fc8bb2a48",
@@ -997,7 +867,177 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-hails-meetings-in-qatar-on-iran-as-talks-set-to-continue",
     "published": "Wed, 01 Jul 2026 13:26:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.112122"
+    "fetched_at": "2026-07-01T22:04:41.879312"
+  },
+  {
+    "id": "d9b1dbf1e804",
+    "title": "DHS Secretary Says Haiti, Syria Migrants Must Self-Deport Now",
+    "title_cn": "国土安全部部长表示海地和叙利亚移民现在必须自行驱逐出境",
+    "summary": "Haitians and Syrians who lost Temporary Protected Status under last week’s Supreme Court ruling have no legal path to remain in the US and must leave now or face forced removal, Homeland Security Secretary Markwayne Mullin said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/dhs-secretary-says-haiti-syria-migrants-must-self-deport-now",
+    "published": "Wed, 01 Jul 2026 21:43:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.098853"
+  },
+  {
+    "id": "c102f17cf23b",
+    "title": "US Decides Against Renewing USMCA, Shifting to Rolling Talks",
+    "title_cn": "美国决定不再续签USMCA，转向滚动谈判",
+    "summary": "The US won’t renew its trade deal with Canada and Mexico, choosing instead to conduct annual reviews of the pact in a decision that risks adding uncertainty for companies producing goods across North America.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-decides-against-renewing-usmca-shifting-to-rolling-talks",
+    "published": "Wed, 01 Jul 2026 15:30:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.220855"
+  },
+  {
+    "id": "54731bda658c",
+    "title": "Warsh Signals Optimism on US Growth Potential |Bloomberg Businessweek Daily 7/1/2026",
+    "title_cn": "沃什表示对美国增长潜力持乐观态度 |《彭博商业周刊》日报 7/1/2026",
+    "summary": "Today, Bloomberg's Mike McKee discusses comments made by Kevin Warsh about the direction the Fed will take under his leadership. Then Bloomberg campaign finance reporter Bill Allison breaks down the billions in crypto investments revealed in President Trump's annual financial disclosure. Plus, REAlloys CEO Lipi Sternheim discusses his company's partnership with the US government to mine rare earths on US army bases. Finally, Bending Spoons CEO Luca Ferrari is joined by Bloomberg's Bailey Lipschultz to discuss the web company's $1.68 billion IPO. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/bloomberg-businessweek-daily-7-1-2026-video",
+    "published": "Wed, 01 Jul 2026 20:28:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.474182"
+  },
+  {
+    "id": "e3427428aa7f",
+    "title": "Trump Draws Parallels to Roosevelt During US 250th Anniversary Celebrations",
+    "title_cn": "特朗普在美国建国250周年庆典期间将其与罗斯福相提并论",
+    "summary": "President Donald Trump linked himself to the legacy of Theodore Roosevelt, a swashbuckling Republican predecessor, despite stark policy differences, at an event Wednesday in North Dakota.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-embraces-roosevelt-a-president-he-sees-as-kindred-spirit",
+    "published": "Wed, 01 Jul 2026 20:25:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.595948"
+  },
+  {
+    "id": "0bed834c2e7a",
+    "title": "Why Trump Is Both a Boost and a Burden for Republicans",
+    "title_cn": "为什么特朗普对共和党来说既是推动也是负担",
+    "summary": "The president is downplaying cost of living concerns that polls show are vexing Americans.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-01/why-trump-is-both-a-boost-and-a-burden-for-midterm-republicans",
+    "published": "Wed, 01 Jul 2026 20:22:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.715484"
+  },
+  {
+    "id": "110061fd99a3",
+    "title": "California’s Return to Office Mandate for 90,000 State Workers Sets Up Union Clash",
+    "title_cn": "加州要求 9 万名州政府工作人员重返办公室引发工会冲突",
+    "summary": "The pandemic-era workweek is finally coming to an end for tens of thousands of California state workers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/return-to-office-mandate-for-california-state-workers-sets-up-union-clash",
+    "published": "Wed, 01 Jul 2026 14:06:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.834303"
+  },
+  {
+    "id": "4801da367030",
+    "title": "Vance Says US Is Worried About 'Nuclear Issue' With Iran",
+    "title_cn": "万斯表示美国担心与伊朗的“核问题”",
+    "summary": "The US is “worried about the nuclear issue” and will “start talking about that” with Iran, Vice President JD Vance says. He says talks with Iran in Doha are going very well, but it's also \"still pretty early.\" He spoke to reporters in Virginia. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/vance-says-us-is-worried-about-nuclear-issue-with-iran-video",
+    "published": "Wed, 01 Jul 2026 19:55:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:43.984675"
+  },
+  {
+    "id": "18fb8d829e80",
+    "title": "US Sanctions Two Brazilians, Four Firms Linked to Drug Cartel",
+    "title_cn": "美国制裁两名巴西人和四家与贩毒集团有关的公司",
+    "summary": "The US Treasury Department sanctioned two Brazilian nationals, three Brazilian companies and one Portuguese company for allegedly helping launder proceeds for Latin America’s largest criminal organization.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-sanctions-brazilians-companies-linked-to-latin-america-s-biggest-drug-cartel",
+    "published": "Wed, 01 Jul 2026 16:00:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.229325"
+  },
+  {
+    "id": "edef92463b8b",
+    "title": "Iran Wraps Up Doha Meetings | Balance of Power 7/1/2026",
+    "title_cn": "伊朗结束多哈会议|权力平衡 7/1/2026",
+    "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest from the Trump Administration. On today's show, Rebelle Communications Founder Laura Fink, Push Digital Vice President T.W. Arrighi, former Republican Congressman Patrick McHenry and National Association of Manufacturers President Jay Timmons. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/balance-of-power-7-1-2026-video",
+    "published": "Wed, 01 Jul 2026 18:51:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.340173"
+  },
+  {
+    "id": "aac218a84acb",
+    "title": "Ex-CIA Director Brennan Alleges ‘Vindictive’ DOJ Criminal Probe",
+    "title_cn": "前中央情报局局长布伦南声称司法部刑事调查具有“报复性”",
+    "summary": "Former CIA Director John Brennan sued the Trump administration, asking a federal judge to ensure government records are preserved in case he’s criminally indicted so he can seek to prove the charges are “vindictive.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/ex-cia-director-brennan-alleges-vindictive-doj-criminal-probe",
+    "published": "Wed, 01 Jul 2026 18:06:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.604468"
+  },
+  {
+    "id": "f9fa07003324",
+    "title": "US Aluminum Smelter Idled Since 2024 to Restart as Trump Looks to Revive Industry",
+    "title_cn": "特朗普希望重振工业，自 2024 年以来闲置的美国铝冶炼厂将重新启动",
+    "summary": "An idled aluminum smelter in Missouri will restart production before the end of this year, helping to boost output of the metal amid the Trump administration’s push to revive the domestic industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/aluminum-smelter-idled-since-2024-to-restart-in-us-after-trump-tariffs",
+    "published": "Wed, 01 Jul 2026 14:54:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.715847"
+  },
+  {
+    "id": "8d16fb5c7ea8",
+    "title": "US Decides Against Renewing USMCA, Shifting to Rolling Talks",
+    "title_cn": "美国决定不再续签USMCA，转向滚动谈判",
+    "summary": "The US decided against renewing its trade deal with Canada and Mexico, US Trade Representative Jamieson Greer said, choosing instead to conduct annual reviews of the pact in a move that risks adding uncertainty for companies producing goods across North America.\nThe US-Mexico-Canada Agreement, or USMCA, will remain in force for another a decade provided no one country decides to exit. Annual reviews instead of a longer-term renewal open the door to years of contentious negotiations. Bloomberg National Security Reporter Nick Wadhams says this change is because Trump wants to change the deal.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-decides-against-renewing-usmca-video",
+    "published": "Wed, 01 Jul 2026 17:12:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.830500"
+  },
+  {
+    "id": "c3450c69dc1e",
+    "title": "US Agents Nab Member of Group That Brought Hasan Piker to Cuba",
+    "title_cn": "美国特工抓获将哈桑·皮克带到古巴的组织成员",
+    "summary": "A Cuban national accused of being part of a sprawling influence network that brought US political streamer Hasan Piker to Havana has been detained along with his family and will be deported.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-agents-nab-member-of-group-that-brought-hasan-piker-to-cuba",
+    "published": "Wed, 01 Jul 2026 17:01:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:44.951544"
+  },
+  {
+    "id": "7220059ff4c4",
+    "title": "UN, Strapped for Cash, Warns Time Running Out to Make Payments",
+    "title_cn": "现金短缺的联合国警告付款时间已所剩无几",
+    "summary": "The United Nations only has enough funds to operate through the end of August, according to the official in charge of its budget, as major contributors including the US and China have yet to pay what they owe in full.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/un-strapped-for-cash-warns-time-running-out-to-make-payments",
+    "published": "Wed, 01 Jul 2026 17:00:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:45.081196"
+  },
+  {
+    "id": "3c29135d710e",
+    "title": "Slovakia to Revive Aluminum Plant That Was Once a Top Producer",
+    "title_cn": "斯洛伐克将重振曾经是顶级生产商的铝厂",
+    "summary": "Slovakia is set to revive primary aluminum production at a plant that was once one of Europe’s biggest producers of the metal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/slovakia-to-revive-aluminum-plant-that-was-once-a-top-producer",
+    "published": "Wed, 01 Jul 2026 16:51:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:45.192839"
+  },
+  {
+    "id": "a9a363f04a1d",
+    "title": "US Won't Renew USMCA Trade Deal",
+    "title_cn": "美国不会续签USMCA贸易协议",
+    "summary": "The US decided against renewing its trade deal with Canada and Mexico, choosing instead to conduct annual reviews of the pact. That's according to US Trade Representative Jamieson Greer, who spoke to Bloomberg News on Wednesday. The USMCA will stay in tact for another decade, unless a country decides to exit. Bloomberg's Jeff Mason reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-01/us-won-t-renew-usmca-trade-deal-video",
+    "published": "Wed, 01 Jul 2026 16:44:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:45.314793"
+  },
+  {
+    "id": "273a76f6fa29",
+    "title": "USDA to Fund $500 Million to ‘Fast Track’ Fertilizer Plants",
+    "title_cn": "美国农业部将资助 5 亿美元用于“快速通道”化肥厂",
+    "summary": "The US Department of Agriculture will invest $500 million in new and existing fertilizer facilities to “fast track” more production in America, Agriculture Secretary Brooke Rollins said in a press conference Wednesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-01/usda-to-invest-500-million-to-fast-track-us-fertilizer-plants",
+    "published": "Wed, 01 Jul 2026 15:39:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-01T22:04:45.435902"
   },
   {
     "id": "2f63baaae377",
@@ -1007,7 +1047,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/asylum-seekers-sue-over-ice-requiring-more-tracking-devices",
     "published": "Wed, 01 Jul 2026 16:28:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.252107"
+    "fetched_at": "2026-07-01T22:04:45.554795"
   },
   {
     "id": "2768cc0a44f2",
@@ -1017,7 +1057,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage",
     "published": "Wed, 01 Jul 2026 16:24:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.388916"
+    "fetched_at": "2026-07-01T22:04:45.662183"
   },
   {
     "id": "9bb8535a221a",
@@ -1027,7 +1067,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/house-speaker-asks-trump-to-let-jones-act-shipping-waiver-expire",
     "published": "Wed, 01 Jul 2026 16:08:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.544521"
+    "fetched_at": "2026-07-01T22:04:45.801141"
   },
   {
     "id": "d4af77bf3af8",
@@ -1037,7 +1077,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/ships-cross-hormuz-in-convoy-formation-as-gulf-oil-keeps-flowing",
     "published": "Wed, 01 Jul 2026 16:05:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.710035"
+    "fetched_at": "2026-07-01T22:04:45.931939"
   },
   {
     "id": "9453e6070ec9",
@@ -1047,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/white-house-adds-pandemic-response-staff-as-ebola-cases-rise",
     "published": "Wed, 01 Jul 2026 16:01:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.854521"
+    "fetched_at": "2026-07-01T22:04:46.044157"
   },
   {
     "id": "7fa830a17ae7",
@@ -1057,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/colombia-s-incoming-finance-minister-pledges-fiscal-austerity",
     "published": "Wed, 01 Jul 2026 15:36:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:51.990965"
+    "fetched_at": "2026-07-01T22:04:46.162982"
   },
   {
     "id": "34a5e78ce7b5",
@@ -1067,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/trump-personnel-office-looks-to-crack-down-on-agencies-staffing",
     "published": "Wed, 01 Jul 2026 15:35:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.112625"
+    "fetched_at": "2026-07-01T22:04:46.273076"
   },
   {
     "id": "fca70e143193",
@@ -1077,56 +1117,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-01/ukraine-s-missiles-now-have-almost-half-of-russia-within-reach",
     "published": "Wed, 01 Jul 2026 04:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.253359"
-  },
-  {
-    "id": "22253d740ff3",
-    "title": "US Sees NATO With Benefits for Countries That Spend More on Arms",
-    "title_cn": "美国认为北约将为那些在军备上花费更多的国家带来好处",
-    "summary": "The US floated the idea of granting political and economic benefits to NATO allies that spend more on defense, raising the prospect of a two-tier alliance just before leaders gather for an annual summit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-sees-nato-with-benefits-for-countries-that-spend-more-on-arms",
-    "published": "Wed, 01 Jul 2026 15:26:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.433667"
-  },
-  {
-    "id": "a58d4a5176e0",
-    "title": "Takaichi Lands in India to Boost Ties as China Tensions Rise",
-    "title_cn": "随着中国紧张局势升级，高市登陆印度以促进两国关系",
-    "summary": "Japanese Prime Minister Sanae Takaichi arrived in India Wednesday for a three-day trip to deepen economic ties and strengthen security cooperation with counterpart Narendra Modi as the two Asian powers seek to wean off dependence on China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/takaichi-heads-to-india-to-bolster-ties-as-china-tensions-deepen",
-    "published": "Wed, 01 Jul 2026 05:41:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.567506"
-  },
-  {
-    "id": "087add8e20ee",
-    "title": "Funds Run My Money, I Don’t Get Involved Says Trump (Q&A)",
-    "title_cn": "特朗普说，基金管理我的钱，我不参与（问答）",
-    "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure. “I’ve made a lot of money before I became president, and they invest my money, and I don’t talk to them,” he said when he spoke to reporters before boarding AF1 (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/funds-run-my-money-i-don-t-get-involved-trump-q-a-video",
-    "published": "Wed, 01 Jul 2026 14:51:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.713065"
-  },
-  {
-    "id": "ac9ff16ff5c4",
-    "title": "Starmer Suggests Budget Buffer Can Absorb Defense Spend Gap",
-    "title_cn": "斯塔默建议预算缓冲可以吸收国防支出缺口",
-    "summary": "Prime Minister Keir Starmer suggested there’s room in the next UK budget to absorb a £4.7 billion ($6.2 billion) gap in spending that was revealed in the country’s defense investment plan, published on Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-01/starmer-suggests-uk-budget-headroom-can-absorb-defense-spend-gap",
-    "published": "Wed, 01 Jul 2026 11:41:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:52.894034"
-  },
-  {
-    "id": "bdd72afa822f",
-    "title": "Fed Chairman Warsh Says Inflation Risks Have Come Down, Vows to Be Independent",
-    "title_cn": "美联储主席沃什称通胀风险已下降，誓言保持独立",
-    "summary": "Federal Reserve Chairman Kevin Warsh said price risks have come down in recent weeks, and the central bank will deliver price stability. “Prices are too high, and I don’t think I’m the only one on this stage that’s recommitted to deliver price stability,\" Warsh said on Wednesday at the European Central Bank’s annual Forum on Central Banking in Sintra, Portugal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-01/fed-chairman-warsh-says-inflation-risks-have-come-down-video",
-    "published": "Wed, 01 Jul 2026 14:11:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-01T20:25:53.022553"
+    "fetched_at": "2026-07-01T22:04:46.403164"
   }
 ]
