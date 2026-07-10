@@ -1,5 +1,85 @@
 [
   {
+    "id": "037be531f112",
+    "title": "Canada’s Latest Jobs Data Contains Hints the Labor Market Is Healing",
+    "title_cn": "加拿大最新就业数据暗示劳动力市场正在复苏",
+    "summary": "Plus: Omers nets almost a 60% return on sports",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/canada-unemployment-rate-falls-to-6-5-as-job-market-improves",
+    "published": "Fri, 10 Jul 2026 21:30:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:26.774225"
+  },
+  {
+    "id": "b8b3a1c15f46",
+    "title": "Shionogi-Backed Apnimed Files for IPO to Fund Sleep Apnea Drug",
+    "title_cn": "Shionogi 支持的 Apnimed 申请首次公开募股，为睡眠呼吸暂停药物提供资金",
+    "summary": "Apnimed Inc. filed for a US initial public offering, as its oral drug to treat obstructive sleep apnea moves closer to being commercialized.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/shionogi-backed-apnimed-files-for-ipo-to-fund-sleep-apnea-drug",
+    "published": "Fri, 10 Jul 2026 21:27:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:26.911774"
+  },
+  {
+    "id": "4b4cfcce4fe3",
+    "title": "Now Is the Time for Carry Trades, Goldman Says",
+    "title_cn": "高盛表示现在是套利交易的时候",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/now-is-the-time-for-carry-trades-goldman-says-evening-briefing-americas",
+    "published": "Fri, 10 Jul 2026 21:24:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:27.033738"
+  },
+  {
+    "id": "172a6e92ad74",
+    "title": "Stock Movers: Meta, PSKY, Forte Biosciences (Podcast)",
+    "title_cn": "库存推动者：Meta、PSKY、Forte Biosciences（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-meta-psky-forte-biosciences-podcast",
+    "published": "Fri, 10 Jul 2026 21:16:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:27.663381"
+  },
+  {
+    "id": "d7baa421f2b7",
+    "title": "Apple Sues OpenAI, Iran Cease Fire Ends But Talks Continue, More",
+    "title_cn": "苹果起诉 OpenAI，伊朗停火结束但谈判仍在继续",
+    "summary": "Source: Bloomberg, 4:59",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/apple-sues-openai-iran-cease-fire-ends-but-talks-continue-more",
+    "published": "Fri, 10 Jul 2026 21:04:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:28.093214"
+  },
+  {
+    "id": "35d7ccbf617d",
+    "title": "Bloomberg Talks: Gary Gensler (Podcast)",
+    "title_cn": "彭博社谈话：加里·詹斯勒（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-gary-gensler-podcast",
+    "published": "Fri, 10 Jul 2026 21:02:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:29.254053"
+  },
+  {
+    "id": "d0108d83dad1",
+    "title": "Stock Movers: SK Hynix, CrowdStrike, WD-40 (Podcast)",
+    "title_cn": "库存推动者：SK Hynix、CrowdStrike、WD-40（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-sk-hynix-crowdstrike-wd-40-podcast",
+    "published": "Fri, 10 Jul 2026 20:49:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:29.707053"
+  },
+  {
+    "id": "96cbfe7d1436",
+    "title": "Bloomberg Businessweek Daily: The Financial Check Up (Podcast)",
+    "title_cn": "彭博商业周刊日报：财务检查（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-businessweek-daily-the-financial-check-up-podcast",
+    "published": "Fri, 10 Jul 2026 20:48:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:30.593568"
+  },
+  {
     "id": "e2ca720c0deb",
     "title": "Bloomberg Wall Street Week: July 10th, 2026 (Podcast)",
     "title_cn": "彭博华尔街周刊：2026 年 7 月 10 日（播客）",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-wall-street-week-july-10th-2026-podcast",
     "published": "Fri, 10 Jul 2026 20:20:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.368504"
+    "fetched_at": "2026-07-10T21:36:31.484186"
   },
   {
     "id": "f54db8f27d9f",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/stocks-close-modestly-higher-cease-fire-ends-but-talks-continue",
     "published": "Fri, 10 Jul 2026 20:07:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.456665"
+    "fetched_at": "2026-07-10T21:36:32.503037"
   },
   {
     "id": "c402b38d53de",
@@ -27,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering",
     "published": "Fri, 10 Jul 2026 13:56:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.559709"
+    "fetched_at": "2026-07-10T21:36:32.620196"
   },
   {
     "id": "bedb2177c218",
@@ -37,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/men-s-wearhouse-owner-tailored-brands-files-publicly-for-us-ipo",
     "published": "Fri, 10 Jul 2026 20:06:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.653395"
+    "fetched_at": "2026-07-10T21:36:32.751337"
   },
   {
     "id": "22025dbf323a",
@@ -47,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/at-wimbledon-finals-zverev-sinner-noskova-muchova-make-bank-not-so-others",
     "published": "Fri, 10 Jul 2026 19:40:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.780630"
+    "fetched_at": "2026-07-10T21:36:32.891760"
   },
   {
     "id": "06760dc4ab8c",
@@ -57,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/big-take-the-grueling-economics-of-tennis-podcast",
     "published": "Fri, 10 Jul 2026 19:33:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:00.901843"
+    "fetched_at": "2026-07-10T21:36:33.329308"
   },
   {
     "id": "75c56c4c7f9e",
@@ -67,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-money-july-10th-2026-podcast",
     "published": "Fri, 10 Jul 2026 19:18:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.070750"
+    "fetched_at": "2026-07-10T21:36:34.553486"
   },
   {
     "id": "457451e39482",
@@ -77,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-carolyn-tisch-blodgett-podcast",
     "published": "Fri, 10 Jul 2026 19:14:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.162360"
+    "fetched_at": "2026-07-10T21:36:35.212324"
   },
   {
     "id": "857dc4b5e9b3",
@@ -87,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/balance-of-power-trump-says-iran-ceasefire-is-over-podcast",
     "published": "Fri, 10 Jul 2026 19:12:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.269697"
+    "fetched_at": "2026-07-10T21:36:35.725237"
   },
   {
     "id": "d61de471d02d",
@@ -97,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-cease-fire-is-over-sk-hynix-chip-shortages-will-persist",
     "published": "Fri, 10 Jul 2026 19:06:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.375308"
+    "fetched_at": "2026-07-10T21:36:36.256975"
   },
   {
     "id": "bebc4b0946f5",
@@ -107,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-oracle-sk-hyix-meta-podcast",
     "published": "Fri, 10 Jul 2026 19:05:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.490170"
+    "fetched_at": "2026-07-10T21:36:37.359532"
   },
   {
     "id": "076134458019",
@@ -117,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-daybreak-weekend-us-cpi-preview-podcast",
     "published": "Fri, 10 Jul 2026 18:30:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.600085"
+    "fetched_at": "2026-07-10T21:36:38.384810"
   },
   {
     "id": "b840cfc73eff",
@@ -127,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/week-ahead-jpmorgan-chase-united-airlines-netflix-podcast",
     "published": "Fri, 10 Jul 2026 18:22:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.693310"
+    "fetched_at": "2026-07-10T21:36:38.912051"
   },
   {
     "id": "8fe0e83693b7",
@@ -137,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-cease-fire-over-sk-hynix-has-bigger-us-investment-plan-mrf93nln",
     "published": "Fri, 10 Jul 2026 18:10:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.851361"
+    "fetched_at": "2026-07-10T21:36:39.669544"
   },
   {
     "id": "039303a72adc",
@@ -147,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-says-iran-cease-fire-is-over-sk-hynix-rallies-in-us-debut",
     "published": "Fri, 10 Jul 2026 17:23:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:01.978615"
+    "fetched_at": "2026-07-10T21:36:39.947149"
   },
   {
     "id": "404235bfb5c9",
@@ -157,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-tech-sk-hynix-starts-trading-on-nasdaq-podcast",
     "published": "Fri, 10 Jul 2026 17:15:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.079063"
+    "fetched_at": "2026-07-10T21:36:40.712067"
   },
   {
     "id": "15bbc3c24345",
@@ -167,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-intelligence-sk-hynix-adrs-jump-on-us-debut-podcast",
     "published": "Fri, 10 Jul 2026 17:04:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.182226"
+    "fetched_at": "2026-07-10T21:36:41.836083"
   },
   {
     "id": "a9d51bcd9928",
@@ -177,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/ryanair-travel-nightmare-unfolds-over-greece",
     "published": "Fri, 10 Jul 2026 16:54:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.280991"
+    "fetched_at": "2026-07-10T21:36:41.958061"
   },
   {
     "id": "2c700b9b44b6",
@@ -187,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/why-rogers-bought-larry-tanenbaum-s-mlse-stake-and-what-s-next-for-sports-empire",
     "published": "Fri, 10 Jul 2026 16:40:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.399387"
+    "fetched_at": "2026-07-10T21:36:42.085126"
   },
   {
     "id": "56bd9fee59d6",
@@ -197,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-cease-fire-over-sk-hynix-has-bigger-us-investment-plan",
     "published": "Fri, 10 Jul 2026 16:39:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.497555"
+    "fetched_at": "2026-07-10T21:36:42.207308"
   },
   {
     "id": "6da3581bd383",
@@ -207,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/the-date-is-set-for-farage-versus-the-count-the-readout",
     "published": "Fri, 10 Jul 2026 16:35:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.595901"
+    "fetched_at": "2026-07-10T21:36:42.353114"
   },
   {
     "id": "ee16cfa762d1",
@@ -217,277 +297,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-business-of-sports-us-world-cup-dream-ends-podcast",
     "published": "Fri, 10 Jul 2026 16:24:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.695062"
-  },
-  {
-    "id": "a67d008ecb9b",
-    "title": "Carmakers Defeat Most Allegations in UK Dieselgate Class Action",
-    "title_cn": "汽车制造商击败了英国柴油门集体诉讼中的大部分指控",
-    "summary": "Car manufacturers including Mercedes-Benz Group AG, Ford Motor Co. and Renault SA largely won a case over allegations they manipulated vehicles to cheat on emissions tests, after a London court rejected most of the claims in the closely-watched class action case.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/carmakers-defeat-most-allegations-in-uk-dieselgate-class-action",
-    "published": "Fri, 10 Jul 2026 15:04:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.791088"
-  },
-  {
-    "id": "8a3c5dbfb406",
-    "title": "Miner ERG Weighs Breakup to Split Assets Between Its Owners",
-    "title_cn": "矿商 ERG 考虑拆分并在其所有者之间分割资产",
-    "summary": "The owners of Eurasian Resources Group are considering splitting the mining group into two businesses, in an overhaul that would separate its Kazakh and international operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/miner-erg-weighs-breakup-to-split-assets-between-its-owners",
-    "published": "Fri, 10 Jul 2026 16:13:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:02.889056"
-  },
-  {
-    "id": "ba6ae91ebccc",
-    "title": "Bloomberg Surveillance TV: July 10th, 2026 (Podcast)",
-    "title_cn": "彭博监控电视：2026 年 7 月 10 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-surveillance-tv-july-10th-2026-podcast",
-    "published": "Fri, 10 Jul 2026 16:07:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.051325"
-  },
-  {
-    "id": "94c2c4c55cd0",
-    "title": "Bloomberg Tech: Chey Tae-won (Podcast)",
-    "title_cn": "彭博科技：Chey Tae-won（播客）",
-    "summary": "Source: Bloomberg, 30:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-tech-chey-tae-won-podcast",
-    "published": "Fri, 10 Jul 2026 16:06:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.151600"
-  },
-  {
-    "id": "c72a1960ee79",
-    "title": "Sports Gambling ETF",
-    "title_cn": "体育博彩ETF",
-    "summary": "<p>Also an insider trader and a chicken-to-AI pivot.</p>",
-    "link": "https://www.bloomberg.com/opinion/newsletters/2026-07-10/sports-gambling-etf",
-    "published": "Fri, 10 Jul 2026 15:59:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.300176"
-  },
-  {
-    "id": "c0e30ac8096a",
-    "title": "Trump Says Iran Cease Fire is Over, SK Hynix Trading in US, More",
-    "title_cn": "特朗普称伊朗停火已经结束，SK海力士在美国交易等",
-    "summary": "Source: Bloomberg, 3:52",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-says-iran-cease-fire-is-over-sk-hynix-trading-in-us-more",
-    "published": "Fri, 10 Jul 2026 15:56:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.388486"
-  },
-  {
-    "id": "1b3d683ba6e3",
-    "title": "Stock Movers: Meta, Robinhood, Delta (Podcast)",
-    "title_cn": "库存推动者：Meta、Robinhood、Delta（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-meta-robinhood-delta-podcast",
-    "published": "Fri, 10 Jul 2026 15:47:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.501265"
-  },
-  {
-    "id": "d91caeda33f5",
-    "title": "Delayed Xbox Layoffs Leave Employees Scared And Nervous",
-    "title_cn": "Xbox 延迟裁员让员工感到害怕和紧张",
-    "summary": "Xbox cut 1,600 jobs this week and plans to cut another 1,600 over the next 12 months, leaving remaining staff on tenterhooks",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/delayed-xbox-layoffs-leave-employees-scared-and-nervous",
-    "published": "Fri, 10 Jul 2026 15:45:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.594563"
-  },
-  {
-    "id": "29dbce6f693c",
-    "title": "'Moana,' Rolling Stones, Retail Spending: Look Ahead",
-    "title_cn": "《莫阿娜》、滚石乐队、零售支出：展望未来",
-    "summary": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the new released live action Moana movie, the new Rolling Stones album \"Foreign Tongues,\" June CPI, PPI, and retail sails. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
-    "published": "Fri, 10 Jul 2026 20:18:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:03.823704"
-  },
-  {
-    "id": "bb5639db5b9b",
-    "title": "S&amp;P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
-    "title_cn": "SK 海力士首次亮相，标准普尔 500 指数在盈利前上涨：市场总结",
-    "summary": "Wall Street traders drove stocks higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 09 Jul 2026 22:08:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.271646"
-  },
-  {
-    "id": "af5ee50fed52",
-    "title": "Youth Sports Cost Debate Rekindled After US Soccer Exit",
-    "title_cn": "美国足球退出后青少年体育费用争论重新燃起",
-    "summary": "Bloomberg's Randall Williams joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the growing cost of youth sports for American families, which has become a $40 billion-a-year private industry. The high cost is listed as a factor in why US Soccer can't take the next step on the world stage. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/youth-sports-cost-debate-rekindled-after-us-soccer-exit-video",
-    "published": "Fri, 10 Jul 2026 19:52:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.572571"
-  },
-  {
-    "id": "e10626dfe2df",
-    "title": "Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path",
-    "title_cn": "由于交易员考虑伊朗和利率走势，金价将面临每周下跌",
-    "summary": "Gold headed for a weekly loss as investors assessed renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/gold-steadies-as-traders-weigh-mideast-fighting-rate-outlook",
-    "published": "Thu, 09 Jul 2026 23:03:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.678829"
-  },
-  {
-    "id": "d2f7c8bd8e49",
-    "title": "Households All-In On Equities: Cameron Dawson",
-    "title_cn": "家庭全押股票：Cameron Dawson",
-    "summary": "Cameron Dawson, CEO of NewEdge Wealth, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss financial planning and allocating personal portfolios.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/households-all-in-on-equities-cameron-dawson-video",
-    "published": "Fri, 10 Jul 2026 19:39:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.774848"
-  },
-  {
-    "id": "9d76d56c4578",
-    "title": "ING Weighs Venezuela Commodity Deals as Client Requests Rise",
-    "title_cn": "随着客户需求增加，ING 评估委内瑞拉大宗商品交易",
-    "summary": "ING Groep, one of the top financiers of commodity trading, is fielding “a lot” of calls from clients to support Venezuelan natural resource deals as the country revamps exports after years of US sanctions, its new Americas commodity finance head said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/ing-weighs-venezuela-commodity-deals-as-client-requests-rise",
-    "published": "Thu, 09 Jul 2026 17:00:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.852570"
-  },
-  {
-    "id": "c6133c8148b2",
-    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
-    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!,” Trump said Friday on social media. Trita Parsi, Executive Vice President at the Quincy Institute for Responsible Statecraft joined to discuss also saying the track record of the US in the region, particularly in terms of democratizing countries, is abysmal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-iran-ceasefire-over-but-talks-to-continue-video",
-    "published": "Fri, 10 Jul 2026 18:46:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:04.942947"
-  },
-  {
-    "id": "0c64aebe2a24",
-    "title": "Oil Eases as US, Iran Continue Talks After Renewed Fighting",
-    "title_cn": "美国和伊朗在重新爆发战斗后继续谈判，油价下跌",
-    "summary": "Oil prices slipped as the US and Iran appear set to continue talks following a flare-up in attacks that strained their ceasefire and deterred tanker traffic through the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
-    "published": "Thu, 09 Jul 2026 22:04:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.056182"
-  },
-  {
-    "id": "6a29520a7ef6",
-    "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
-    "title_cn": "越来越多的美国人签署婚前协议，即使他们并不富有",
-    "summary": "Bloomberg's Nikki Waller joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, 'Strangers,' has riveted readers with the tale of her marriage’s sudden implosion and aftermath. They also discuss the rising popularity of prenups has been driven by changing financial dynamics of marriage. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-getting-prenups-even-if-they-aren-t-rich-video",
-    "published": "Fri, 10 Jul 2026 19:06:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.162278"
-  },
-  {
-    "id": "6e201a04177c",
-    "title": "Exxon Supports SEC Proposal to End Mandatory Quarterly Reports",
-    "title_cn": "埃克森美孚支持 SEC 终止强制性季度报告的提案",
-    "summary": "ExxonMobil Holdings Corp. supports a US Securities and Exchange Commission proposal to replace quarterly financial reporting with semiannual disclosures, bucking the trend among most respondents the regulator’s request for comments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/exxon-supports-sec-proposal-to-end-mandatory-quarterly-reports",
-    "published": "Fri, 10 Jul 2026 19:04:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.259325"
-  },
-  {
-    "id": "8652ac4d5a76",
-    "title": "Prediction Market Bets Surge on World Cup Mania",
-    "title_cn": "预测市场对世界杯狂热的投注激增",
-    "summary": "Rabid interest in the World Cup has helped to drive more than $3 billion of wagers on a prediction market backed by Robinhood Markets Inc. and Susquehanna International Group, which launched just a few months ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/robinhood-backed-prediction-market-bets-surge-on-world-cup-mania",
-    "published": "Fri, 10 Jul 2026 13:12:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.352362"
-  },
-  {
-    "id": "9ff0e56ac2ff",
-    "title": "Headline: Trust Breakdown Between Fed, Consumer Inflation: Kroszner",
-    "title_cn": "标题：美联储与消费者通胀之间的信任崩溃：克罗兹纳",
-    "summary": "Randy Kroszner, University of Chicago Booth School professor of economics and former Fed Governor, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\"\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trust-breakdown-between-fed-inflation-kroszner-video",
-    "published": "Fri, 10 Jul 2026 19:00:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.459204"
-  },
-  {
-    "id": "66c3ec01ba39",
-    "title": "SK Hynix's US Debut, Trump Accounts: Money Roundtable",
-    "title_cn": "SK海力士美国首秀，特朗普账目：金钱圆桌会议",
-    "summary": "Bloomberg's Katie Greifeld, David Gura, and Mandeep Singh join Scarlet Fu and Tom Keene on \"Bloomberg Money.\" The discuss the US trading debut of SK Hynix, the rollout of Trump accounts, and the escalation seen this week in the US-Iran conflict.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-s-us-debut-trump-accounts-money-roundtable-video",
-    "published": "Fri, 10 Jul 2026 18:44:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.553469"
-  },
-  {
-    "id": "8b659dac529b",
-    "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
-    "title_cn": "由 Arini、贝莱德、Sculptor 领导的阿斯顿·马丁贷款集团",
-    "summary": "Aston Martin creditors led by Arini Capital Management, BlackRock Inc. and Sculptor Capital have joined forces in an effort to stop the distressed British luxury carmaker from pursuing any debt deal they fear could erode their standing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
-    "published": "Fri, 10 Jul 2026 18:34:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.647582"
-  },
-  {
-    "id": "49a046b7be55",
-    "title": "Trump Says Ceasefire With Iran Is Over",
-    "title_cn": "特朗普称与伊朗的停火已经结束",
-    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. James Jeffrey, former US ambassador to Iraq and Turkey, talks about Trump's objectives in Iran and why the US is targeting infrastructure. He speaks on \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video",
-    "published": "Fri, 10 Jul 2026 18:26:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.764085"
-  },
-  {
-    "id": "76426575e5e7",
-    "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
-    "title_cn": "特朗普不会签署住房法案，但会允许其成为法律",
-    "summary": "President Donald Trump said he would not sign a bipartisan housing bill in protest over lawmakers declining to approve a separate voter-ID bill he has prioritized. Bloomberg's Tyler Kendall joins to discuss. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-he-won-t-sign-housing-bill-video",
-    "published": "Fri, 10 Jul 2026 18:25:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.862255"
-  },
-  {
-    "id": "f0bd60431b58",
-    "title": "Aluminum Declines as EGA Restarts Key Alumina Refinery in UAE",
-    "title_cn": "EGA 重启阿联酋主要氧化铝精炼厂，铝价下跌",
-    "summary": "Aluminum fell after Emirates Global Aluminium said it restarted a key alumina plant in Abu Dhabi that was attacked in the early stages of the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/copper-heads-for-weekly-gain-as-traders-look-past-iran-flare-up",
-    "published": "Fri, 10 Jul 2026 02:05:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:05.974797"
-  },
-  {
-    "id": "967f1e83f105",
-    "title": "Nasdaq Says SK Hynix Bonanza Opens Path to More Foreign Listings",
-    "title_cn": "纳斯达克表示 SK 海力士 Bonanza 为更多海外上市开辟了道路",
-    "summary": "Nasdaq Inc. President Nelson Griggs said SK Hynix Inc.’s blockbuster listing is spurring other international companies to consider the US for either initial public offerings or the sales of American depositary receipts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/nasdaq-says-sk-hynix-bonanza-opens-path-to-more-foreign-listings",
-    "published": "Fri, 10 Jul 2026 17:45:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.063575"
-  },
-  {
-    "id": "dca6bf86fc3e",
-    "title": "BHP Explores Sale of Chilean Desalination Plant, Power Lines",
-    "title_cn": "必和必拓探索出售智利海水淡化厂和输电线",
-    "summary": "BHP Group is exploring the sale of a desalination plant in Chile, along with its electricity transmission assets, extending a strategy of monetizing infrastructure as the world’s biggest miner concentrates capital on its core copper business, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/bhp-explores-sale-of-chilean-desalination-plant-power-lines",
-    "published": "Fri, 10 Jul 2026 17:42:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.184100"
+    "fetched_at": "2026-07-10T21:36:43.306428"
   },
   {
     "id": "66003cfd49b0",
@@ -497,77 +307,287 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/corn-steadies-ahead-of-key-us-supply-report-as-heat-threats-ease",
     "published": "Fri, 10 Jul 2026 04:07:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.309659"
+    "fetched_at": "2026-07-10T21:36:43.853794"
   },
   {
-    "id": "7d95041a3a7e",
-    "title": "SK Chairman Promises ‘Much, Much Bigger’ US Investment Plan",
-    "title_cn": "SK董事长承诺“规模更大”的美国投资计划",
-    "summary": "SK Group Chairman Chey Tae-won, fresh off a landmark US stock offering for the conglomerate’s memory-chip business, said he has an ambitious plan to invest more money in America.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan",
-    "published": "Fri, 10 Jul 2026 15:22:02 GMT",
+    "id": "09e4f2f8a7a9",
+    "title": "A Hidden-Debt Scandal Derails Senegal's Infrastructure Dream",
+    "title_cn": "隐藏债务丑闻破坏了塞内加尔的基础设施梦想",
+    "summary": "<p>Unfinished railway is emblematic of the country’s fiscal strains.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/senegal-s-hidden-debt-crisis-puts-infrastructure-boom-at-risk-worries-investors",
+    "published": "Fri, 10 Jul 2026 04:00:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.430252"
+    "fetched_at": "2026-07-10T21:36:43.977961"
   },
   {
-    "id": "6cea26cc39b8",
-    "title": "Sports Bet Pays Off as Omers Reaps Nearly 60% Gain on MLSE",
-    "title_cn": "体育投注获得回报，Omers 在 MLSE 上获得近 60% 的收益",
-    "summary": "Ontario’s pension fund for government workers generated a return of close to 60% in less than three years on a bet tied to Toronto’s major league sports teams, vindicating an investment that was initially viewed as pricey.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/omers-scores-50-gain-on-toronto-sports-bet-as-rogers-buys-rest-of-mlse",
-    "published": "Fri, 10 Jul 2026 14:48:45 GMT",
+    "id": "44d87c6da174",
+    "title": "片山氏のGPIF発言、全東信の破産ショック、物価の権威が利上げ予測─1週間のニュース5選",
+    "title_cn": "片山先生GPIF言论、善都信破产冲击、价格权威预测加息——本周5新闻",
+    "summary": "マーケットで話題になったニュースから、1週間を振り返る五つのトピックを厳選して紹介します。",
+    "link": "https://www.bloomberg.com/jp/news/newsletters/2026-07-10/THZ901N3N09800",
+    "published": "Fri, 10 Jul 2026 21:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.525844"
+    "fetched_at": "2026-07-10T21:36:44.098743"
   },
   {
-    "id": "9f6f7d66afdd",
-    "title": "Stocks Waver as SK Hynix Makes US Debut | Open Interest 7/10/2026",
-    "title_cn": "SK 海力士在美国上市，股价波动 |未平仓合约 7/10/2026",
-    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" SK Hynix makes Wall Street history with the biggest-ever U.S. debut by a foreign company. Delta beats earnings expectations, but shares fluctuate on a cloudy outlook. And earnings season ramps up next week, with Wall Street's biggest banks set to report another blockbuster quarter. Emily Roland of Manulife John Hancock Investments, John Stoltzfus of Oppenheimer Asset Management, and Di Zhou of Thornburg Investment Management weigh in as traders hold off on making big bets ahead of the weekend. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/open-interest-7-10-2026-video",
-    "published": "Fri, 10 Jul 2026 16:21:28 GMT",
+    "id": "c09ccb96b0b4",
+    "title": "The Grueling Economics of Tennis",
+    "title_cn": "网球的残酷经济学",
+    "summary": "Some of the world’s top tennis players will face off at the Wimbledon finals this weekend. The players who make it to Centre Court have already achieved a bigger feat: a career as a tennis player. On today’s Big Take podcast, Bloomberg’s Hannah Miller and The Athletic’s Matt Futterman break down what sets tennis apart from other sports and the challenges the tournaments and players face to stay profitable. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-grueling-economics-of-tennis-video",
+    "published": "Fri, 10 Jul 2026 20:55:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.610914"
+    "fetched_at": "2026-07-10T21:36:44.215748"
   },
   {
-    "id": "1d2bddc609c3",
-    "title": "Traders Hedge for FX Volatility Return Amid Fed Uncertainty",
-    "title_cn": "在美联储的不确定性中，交易员对冲外汇波动性回报",
-    "summary": "Currency traders are starting to buy protection against bigger exchange-rate swings after months of calm, as banks warn that shifting Federal Reserve expectations and elevated geopolitical tensions could be about to jolt markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/traders-hedge-for-fx-volatility-return-as-fed-uncertainty-builds",
-    "published": "Fri, 10 Jul 2026 10:09:13 GMT",
+    "id": "4a325dbe048a",
+    "title": "Seeing Signs of AI Fatigue: CreditSights Global Head of Strategy",
+    "title_cn": "看到人工智能疲劳的迹象：CreditSights 全球战略主管",
+    "summary": "CreditSights Global Head of Strategy Winnie Cisar discusses the tech sector and what to expect from AI. She speaks with Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/seeing-signs-of-ai-fatigue-creditsights-cisar-video",
+    "published": "Fri, 10 Jul 2026 20:53:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.757007"
+    "fetched_at": "2026-07-10T21:36:44.331527"
   },
   {
-    "id": "6e42465de3a1",
-    "title": "Sports Investing Made Accessible for Everyone",
-    "title_cn": "让每个人都能参与体育投资",
-    "summary": "Marques Colston, former wide receiver for the New Orleans Saints, discusses the focus of his private sports venture 'The Champion Fund,' and his efforts to make sports investing accessible to all. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sports-investing-made-accessible-for-everyone-video",
-    "published": "Fri, 10 Jul 2026 16:06:58 GMT",
+    "id": "afa92cbdc65d",
+    "title": "Meta Shares Gain Most Since April 2025 | Closing Bell",
+    "title_cn": "Meta 股价自 2025 年 4 月以来涨幅最大 |结束钟声",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Isabelle Lee. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/meta-shares-gain-most-since-april-2025-closing-bell-video",
+    "published": "Fri, 10 Jul 2026 20:47:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:06.971377"
+    "fetched_at": "2026-07-10T21:36:44.450638"
   },
   {
-    "id": "b86ee526e21c",
-    "title": "The Stock Market and a “Phenomena of our Lifetimes”",
-    "title_cn": "股票市场和“我们一生的现象”",
-    "summary": "Something big has changed in the makeup of the US economy.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/the-stock-market-and-a-phenomena-of-our-lifetimes",
-    "published": "Fri, 10 Jul 2026 16:04:29 GMT",
+    "id": "51ac0a5e581f",
+    "title": "Gotham FC Announces Move to Etihad Stadium in 2028",
+    "title_cn": "哥谭足球俱乐部宣布 2028 年迁至阿提哈德球场",
+    "summary": "Gotham FC governor Carolyn Tisch-Blodgett is joined by Bloomberg's Vanessa Perdomo-Maglione to discuss the NWSL club's historic move to Etihad Stadium in Queens in 2028. Tisch-Blodgett said that its the 'duty' of the league and every team to take excitement from global events like the World Cup and translate it into 'lifelong fandom.' (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/gotham-fc-announces-move-to-etihad-stadium-in-2028-video",
+    "published": "Fri, 10 Jul 2026 20:45:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.072354"
+    "fetched_at": "2026-07-10T21:36:44.573539"
   },
   {
-    "id": "0aaf5d265a77",
-    "title": "Bloomberg Surveillance 7/10/2026",
-    "title_cn": "彭博社监测 2026 年 7 月 10 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-surveillance-7-10-2026-video",
-    "published": "Fri, 10 Jul 2026 16:00:08 GMT",
+    "id": "8efe0bd13090",
+    "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
+    "title_cn": "越来越多的美国人签署婚前协议，即使他们并不富有",
+    "summary": "Bloomberg's Nikki Waller joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, 'Strangers,' has riveted readers with the tale of her marriage’s sudden implosion and aftermath. They also discuss the rising popularity of prenups has been driven by changing financial dynamics of marriage. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-are-getting-prenups-video",
+    "published": "Fri, 10 Jul 2026 20:40:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.172814"
+    "fetched_at": "2026-07-10T21:36:44.746538"
+  },
+  {
+    "id": "2f50479b9a9f",
+    "title": "US Stock Futures Slip After Tech Rally, SK Hynix Starts Trading",
+    "title_cn": "科技股上涨后美国股指期货下跌，SK 海力士开始交易",
+    "summary": "US equities posted gains for a second consecutive week, even as investors digested the record US listing of South Korea’s SK Hynix Inc. and renewed tensions in Iran ahead of second-quarter earnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-stock-futures-slip-after-tech-rally-sk-hynix-starts-trading",
+    "published": "Fri, 10 Jul 2026 11:53:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:44.883450"
+  },
+  {
+    "id": "b2db54ac92ba",
+    "title": "Hit Memoir \"Strangers\" Spurs Marital Money Rethink",
+    "title_cn": "热门回忆录《陌生人》促使人们重新思考婚姻金钱",
+    "summary": "Scarlet Fu and Tom Keene discuss their must-read book on this weeks edition of \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, \"Strangers,\" has riveted readers with the tale of her marriage’s sudden implosion and aftermath.  It has also spurred some of them to open the books on their marital finances.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/hit-memoir-strangers-spurs-marital-money-rethink-video",
+    "published": "Fri, 10 Jul 2026 20:31:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.023222"
+  },
+  {
+    "id": "66fe142a8a52",
+    "title": "AI Echoes the Dot-Com Market Split as Iran Threat Creeps Back",
+    "title_cn": "随着伊朗威胁卷土重来，人工智能与互联网市场的分裂相呼应",
+    "summary": "It was a split-screen week on Wall Street.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/ai-echoes-the-dot-com-market-split-as-iran-threat-creeps-back",
+    "published": "Fri, 10 Jul 2026 20:23:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.139584"
+  },
+  {
+    "id": "29dbce6f693c",
+    "title": "'Moana,' Rolling Stones, Retail Spending: Look Ahead",
+    "title_cn": "《莫阿娜》、滚石乐队、零售支出：展望未来",
+    "summary": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the new released live action Moana movie, the new Rolling Stones album \"Foreign Tongues,\" June CPI, PPI, and retail sails. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/-moana-rolling-stones-retail-spending-look-ahead-video",
+    "published": "Fri, 10 Jul 2026 20:18:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.265207"
+  },
+  {
+    "id": "bb5639db5b9b",
+    "title": "S&amp;P 500 Rises Before Earnings as SK Hynix Debuts: Markets Wrap",
+    "title_cn": "SK 海力士首次亮相，标准普尔 500 指数在盈利前上涨：市场总结",
+    "summary": "Wall Street traders drove stocks higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 09 Jul 2026 22:08:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.379924"
+  },
+  {
+    "id": "af5ee50fed52",
+    "title": "Youth Sports Cost Debate Rekindled After US Soccer Exit",
+    "title_cn": "美国足球退出后青少年体育费用争论重新燃起",
+    "summary": "Bloomberg's Randall Williams joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the growing cost of youth sports for American families, which has become a $40 billion-a-year private industry. The high cost is listed as a factor in why US Soccer can't take the next step on the world stage. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/youth-sports-cost-debate-rekindled-after-us-soccer-exit-video",
+    "published": "Fri, 10 Jul 2026 19:52:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.809866"
+  },
+  {
+    "id": "e10626dfe2df",
+    "title": "Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path",
+    "title_cn": "由于交易员考虑伊朗和利率走势，金价将面临每周下跌",
+    "summary": "Gold headed for a weekly loss as investors assessed renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/gold-steadies-as-traders-weigh-mideast-fighting-rate-outlook",
+    "published": "Thu, 09 Jul 2026 23:03:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:45.924857"
+  },
+  {
+    "id": "d2f7c8bd8e49",
+    "title": "Households All-In On Equities: Cameron Dawson",
+    "title_cn": "家庭全押股票：Cameron Dawson",
+    "summary": "Cameron Dawson, CEO of NewEdge Wealth, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss financial planning and allocating personal portfolios.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/households-all-in-on-equities-cameron-dawson-video",
+    "published": "Fri, 10 Jul 2026 19:39:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.024417"
+  },
+  {
+    "id": "9d76d56c4578",
+    "title": "ING Weighs Venezuela Commodity Deals as Client Requests Rise",
+    "title_cn": "随着客户需求增加，ING 评估委内瑞拉大宗商品交易",
+    "summary": "ING Groep, one of the top financiers of commodity trading, is fielding “a lot” of calls from clients to support Venezuelan natural resource deals as the country revamps exports after years of US sanctions, its new Americas commodity finance head said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/ing-weighs-venezuela-commodity-deals-as-client-requests-rise",
+    "published": "Thu, 09 Jul 2026 17:00:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.161206"
+  },
+  {
+    "id": "c6133c8148b2",
+    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
+    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
+    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!,” Trump said Friday on social media. Trita Parsi, Executive Vice President at the Quincy Institute for Responsible Statecraft joined to discuss also saying the track record of the US in the region, particularly in terms of democratizing countries, is abysmal. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-iran-ceasefire-over-but-talks-to-continue-video",
+    "published": "Fri, 10 Jul 2026 18:46:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.301396"
+  },
+  {
+    "id": "0c64aebe2a24",
+    "title": "Oil Eases as US, Iran Continue Talks After Renewed Fighting",
+    "title_cn": "美国和伊朗在重新爆发战斗后继续谈判，油价下跌",
+    "summary": "Oil prices slipped as the US and Iran appear set to continue talks following a flare-up in attacks that strained their ceasefire and deterred tanker traffic through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
+    "published": "Thu, 09 Jul 2026 22:04:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.404107"
+  },
+  {
+    "id": "6a29520a7ef6",
+    "title": "More Americans Are Getting Prenups, Even If They Aren't Rich",
+    "title_cn": "越来越多的美国人签署婚前协议，即使他们并不富有",
+    "summary": "Bloomberg's Nikki Waller joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Belle Burden’s blockbuster memoir, 'Strangers,' has riveted readers with the tale of her marriage’s sudden implosion and aftermath. They also discuss the rising popularity of prenups has been driven by changing financial dynamics of marriage. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/more-americans-getting-prenups-even-if-they-aren-t-rich-video",
+    "published": "Fri, 10 Jul 2026 19:06:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.537194"
+  },
+  {
+    "id": "6e201a04177c",
+    "title": "Exxon Supports SEC Proposal to End Mandatory Quarterly Reports",
+    "title_cn": "埃克森美孚支持 SEC 终止强制性季度报告的提案",
+    "summary": "ExxonMobil Holdings Corp. supports a US Securities and Exchange Commission proposal to replace quarterly financial reporting with semiannual disclosures, bucking the trend among most respondents the regulator’s request for comments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/exxon-supports-sec-proposal-to-end-mandatory-quarterly-reports",
+    "published": "Fri, 10 Jul 2026 19:04:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.670731"
+  },
+  {
+    "id": "8652ac4d5a76",
+    "title": "Prediction Market Bets Surge on World Cup Mania",
+    "title_cn": "预测市场对世界杯狂热的投注激增",
+    "summary": "Rabid interest in the World Cup has helped to drive more than $3 billion of wagers on a prediction market backed by Robinhood Markets Inc. and Susquehanna International Group, which launched just a few months ago.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/robinhood-backed-prediction-market-bets-surge-on-world-cup-mania",
+    "published": "Fri, 10 Jul 2026 13:12:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.793731"
+  },
+  {
+    "id": "9ff0e56ac2ff",
+    "title": "Headline: Trust Breakdown Between Fed, Consumer Inflation: Kroszner",
+    "title_cn": "标题：美联储与消费者通胀之间的信任崩溃：克罗兹纳",
+    "summary": "Randy Kroszner, University of Chicago Booth School professor of economics and former Fed Governor, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\"\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trust-breakdown-between-fed-inflation-kroszner-video",
+    "published": "Fri, 10 Jul 2026 19:00:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:46.897529"
+  },
+  {
+    "id": "66c3ec01ba39",
+    "title": "SK Hynix's US Debut, Trump Accounts: Money Roundtable",
+    "title_cn": "SK海力士美国首秀，特朗普账目：金钱圆桌会议",
+    "summary": "Bloomberg's Katie Greifeld, David Gura, and Mandeep Singh join Scarlet Fu and Tom Keene on \"Bloomberg Money.\" The discuss the US trading debut of SK Hynix, the rollout of Trump accounts, and the escalation seen this week in the US-Iran conflict.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-s-us-debut-trump-accounts-money-roundtable-video",
+    "published": "Fri, 10 Jul 2026 18:44:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.023888"
+  },
+  {
+    "id": "8b659dac529b",
+    "title": "Aston Martin Lender Group Led by Arini, BlackRock, Sculptor",
+    "title_cn": "由 Arini、贝莱德、Sculptor 领导的阿斯顿·马丁贷款集团",
+    "summary": "Aston Martin creditors led by Arini Capital Management, BlackRock Inc. and Sculptor Capital have joined forces in an effort to stop the distressed British luxury carmaker from pursuing any debt deal they fear could erode their standing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/aston-martin-lender-group-led-by-arini-blackrock-sculptor",
+    "published": "Fri, 10 Jul 2026 18:34:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.152655"
+  },
+  {
+    "id": "49a046b7be55",
+    "title": "Trump Says Ceasefire With Iran Is Over",
+    "title_cn": "特朗普称与伊朗的停火已经结束",
+    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. James Jeffrey, former US ambassador to Iraq and Turkey, talks about Trump's objectives in Iran and why the US is targeting infrastructure. He speaks on \"Balance of Power.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video",
+    "published": "Fri, 10 Jul 2026 18:26:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.293328"
+  },
+  {
+    "id": "76426575e5e7",
+    "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
+    "title_cn": "特朗普不会签署住房法案，但会允许其成为法律",
+    "summary": "President Donald Trump said he would not sign a bipartisan housing bill in protest over lawmakers declining to approve a separate voter-ID bill he has prioritized. Bloomberg's Tyler Kendall joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-he-won-t-sign-housing-bill-video",
+    "published": "Fri, 10 Jul 2026 18:25:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.405700"
+  },
+  {
+    "id": "1e9b9178bc75",
+    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
+    "title_cn": "美国放宽对阿联酋的出口限制，为人工智能芯片销售打开大门",
+    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a broad range of advanced technologies including semiconductors needed to boost its artificial intelligence ambitions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
+    "published": "Fri, 10 Jul 2026 16:21:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.855614"
+  },
+  {
+    "id": "b73aa230fd0c",
+    "title": "Apple Sues OpenAI for Trade Secret Theft",
+    "title_cn": "苹果起诉 OpenAI 窃取商业秘密",
+    "summary": "Apple sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products. Apple alleges that OpenAI encouraged Apple employees to share information, components, drawings and other materials related to upcoming products. Mark Gurman reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/apple-sues-openai-for-trade-secret-theft-video",
+    "published": "Fri, 10 Jul 2026 21:04:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:47.956160"
   },
   {
     "id": "282a646852fe",
@@ -577,17 +597,27 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/lumen-completes-acquisition-alkira-video",
     "published": "Fri, 10 Jul 2026 19:17:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.498037"
+    "fetched_at": "2026-07-10T21:36:48.070219"
+  },
+  {
+    "id": "761ca83f990b",
+    "title": "Apple Sues OpenAI for Trade Secret Theft in Blockbuster Case",
+    "title_cn": "苹果在重磅案件中起诉 OpenAI 盗窃商业秘密",
+    "summary": "Apple Inc. sued OpenAI for trade secret theft, accusing the artificial intelligence startup and its hardware chief of engaging in a coordinated campaign to steal information about upcoming products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case",
+    "published": "Fri, 10 Jul 2026 20:30:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:48.195764"
   },
   {
     "id": "de240b3735d4",
-    "title": "SK Hynix CEO Expects Memory Crunch to Last Into Next Decade",
-    "title_cn": "SK 海力士首席执行官预计内存短缺将持续到下一个十年",
+    "title": "SK Hynix CEO Expects Memory Crunch to Last Beyond 2030",
+    "title_cn": "SK 海力士首席执行官预计内存短缺将持续到 2030 年之后",
     "summary": "The memory-chip shortages that are roiling the computer, car and device markets will probably persist beyond 2030, according to SK Hynix Inc. Chief Executive Officer Kwak Noh-Jung.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade",
     "published": "Fri, 10 Jul 2026 17:42:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.607885"
+    "fetched_at": "2026-07-10T21:36:48.456785"
   },
   {
     "id": "9276abbad850",
@@ -597,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-tech-7-10-2026-video",
     "published": "Fri, 10 Jul 2026 17:36:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.688291"
+    "fetched_at": "2026-07-10T21:36:48.586562"
   },
   {
     "id": "12cab140543e",
@@ -607,7 +637,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/nasdaq-sees-sk-listing-growing-foreign-ipo-pipeline-video",
     "published": "Fri, 10 Jul 2026 16:55:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.807284"
+    "fetched_at": "2026-07-10T21:36:48.710929"
+  },
+  {
+    "id": "7d95041a3a7e",
+    "title": "SK Chairman Promises ‘Much, Much Bigger’ US Investment Plan",
+    "title_cn": "SK董事长承诺“规模更大”的美国投资计划",
+    "summary": "SK Group Chairman Chey Tae-won, fresh off a landmark US stock offering for the conglomerate’s memory-chip business, said he has an ambitious plan to invest more money in America.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan",
+    "published": "Fri, 10 Jul 2026 15:22:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:48.827612"
   },
   {
     "id": "58c65c002d89",
@@ -617,17 +657,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
     "published": "Fri, 10 Jul 2026 16:35:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:07.991482"
-  },
-  {
-    "id": "1e9b9178bc75",
-    "title": "US Eases Export Curbs on UAE, Opening Door for AI Chip Sales",
-    "title_cn": "美国放宽对阿联酋的出口限制，为人工智能芯片销售打开大门",
-    "summary": "The Trump administration plans to ease export restrictions on the United Arab Emirates, clearing the way for the Gulf state to buy a wide range of advanced technologies including commercial satellites and semiconductors used for artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
-    "published": "Fri, 10 Jul 2026 16:21:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.078074"
+    "fetched_at": "2026-07-10T21:36:48.964195"
   },
   {
     "id": "71a5a28962f5",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video",
     "published": "Fri, 10 Jul 2026 16:10:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.180419"
+    "fetched_at": "2026-07-10T21:36:49.098656"
   },
   {
     "id": "ead2676bc15d",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments",
     "published": "Fri, 10 Jul 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.262050"
+    "fetched_at": "2026-07-10T21:36:49.214807"
   },
   {
     "id": "003c24e7e300",
@@ -657,7 +687,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/thornburg-s-di-zhou-sees-memory-supercycle-video",
     "published": "Fri, 10 Jul 2026 15:59:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.369696"
+    "fetched_at": "2026-07-10T21:36:49.327405"
+  },
+  {
+    "id": "d91caeda33f5",
+    "title": "Delayed Xbox Layoffs Leave Employees Scared And Nervous",
+    "title_cn": "Xbox 延迟裁员让员工感到害怕和紧张",
+    "summary": "Xbox cut 1,600 jobs this week and plans to cut another 1,600 over the next 12 months, leaving remaining staff on tenterhooks",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/delayed-xbox-layoffs-leave-employees-scared-and-nervous",
+    "published": "Fri, 10 Jul 2026 15:45:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:49.455066"
   },
   {
     "id": "8d7b980911b5",
@@ -667,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-much-much-bigger-us-investment-plan-video",
     "published": "Fri, 10 Jul 2026 15:38:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.589006"
+    "fetched_at": "2026-07-10T21:36:49.580476"
   },
   {
     "id": "56d8ee10410e",
@@ -677,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-company-may-offer-memory-as-a-service",
     "published": "Fri, 10 Jul 2026 15:18:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.696637"
+    "fetched_at": "2026-07-10T21:36:49.693163"
   },
   {
     "id": "5ef38c050e40",
@@ -687,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-some-confidence-demand-will-grow-video",
     "published": "Fri, 10 Jul 2026 15:21:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.798398"
+    "fetched_at": "2026-07-10T21:36:49.809001"
   },
   {
     "id": "712932f5d432",
@@ -697,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
     "published": "Thu, 09 Jul 2026 23:00:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:08.912124"
+    "fetched_at": "2026-07-10T21:36:49.916890"
   },
   {
     "id": "8fbc7ca6c764",
@@ -707,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video",
     "published": "Fri, 10 Jul 2026 15:08:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.022696"
+    "fetched_at": "2026-07-10T21:36:50.039988"
   },
   {
     "id": "7335be5da56d",
@@ -717,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video",
     "published": "Fri, 10 Jul 2026 15:05:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.112602"
+    "fetched_at": "2026-07-10T21:36:50.160046"
   },
   {
     "id": "21faccdae441",
@@ -727,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-calls-sk-hynix-us-debut-a-dream-come-true-video",
     "published": "Fri, 10 Jul 2026 15:03:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.210355"
+    "fetched_at": "2026-07-10T21:36:50.290291"
   },
   {
     "id": "586c24d097c0",
@@ -737,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/semiconductor-stocks-are-overbought-lisa-shalett-warns-video",
     "published": "Fri, 10 Jul 2026 14:21:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.330321"
+    "fetched_at": "2026-07-10T21:36:50.413645"
   },
   {
     "id": "d17b304b4a81",
@@ -747,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/morgan-stanley-sees-pressure-rising-on-chipmakers-pricing-power",
     "published": "Fri, 10 Jul 2026 14:13:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.449726"
+    "fetched_at": "2026-07-10T21:36:50.516970"
   },
   {
     "id": "0915ace1cfed",
@@ -757,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
     "published": "Fri, 10 Jul 2026 11:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.556052"
+    "fetched_at": "2026-07-10T21:36:50.625807"
   },
   {
     "id": "c986486bff88",
@@ -767,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/europe-s-space-race-bloomberg-tech-europe-7-10-2026-video",
     "published": "Fri, 10 Jul 2026 09:18:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.638551"
+    "fetched_at": "2026-07-10T21:36:50.798470"
   },
   {
     "id": "c1819676e726",
@@ -777,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/raytheon-and-rheinmetall-anchor-ai-training-effort-for-uk-army",
     "published": "Fri, 10 Jul 2026 12:48:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.728474"
+    "fetched_at": "2026-07-10T21:36:50.939404"
   },
   {
     "id": "f274ebece9c8",
@@ -787,7 +827,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/eu-escalates-meta-probe-over-addictive-design-that-hooks-children",
     "published": "Fri, 10 Jul 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.834150"
+    "fetched_at": "2026-07-10T21:36:51.099354"
   },
   {
     "id": "0374460b5fbb",
@@ -797,7 +837,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/novogratz-morphs-galaxy-into-ai-landlord-one-gigawatt-at-a-time",
     "published": "Fri, 10 Jul 2026 12:01:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:09.933320"
+    "fetched_at": "2026-07-10T21:36:51.219453"
   },
   {
     "id": "c199b5c8eb06",
@@ -807,7 +847,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/echostar-bulls-say-it-offers-traders-discounted-spacex-exposure",
     "published": "Fri, 10 Jul 2026 12:00:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.039616"
+    "fetched_at": "2026-07-10T21:36:51.332105"
   },
   {
     "id": "59b805c2892d",
@@ -817,107 +857,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/wayve-staff-sold-stock-at-10-discount-on-lse-s-pisces-exchange",
     "published": "Thu, 09 Jul 2026 18:22:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.145988"
+    "fetched_at": "2026-07-10T21:36:51.441847"
   },
   {
-    "id": "4ce3abde1b00",
-    "title": "SK Hynix Is Making History With Its US Debut",
-    "title_cn": "SK 海力士在美国首次亮相创造历史",
-    "summary": "The memory chipmaker represents a pure-play bet on the AI boom",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/sk-hynix-us-offering-represents-a-pure-play-ai-boom-bet",
-    "published": "Fri, 10 Jul 2026 11:02:01 GMT",
+    "id": "fe5545e23657",
+    "title": "US Demands Iran Declare Strait of Hormuz Open to All Ships",
+    "title_cn": "美国要求伊朗宣布霍尔木兹海峡对所有船只开放",
+    "summary": "The US is demanding that Iran issue a public statement that all channels of the Strait of Hormuz are open to shipping and that they will not attack transiting civilian vessels, according to senior administration officials.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-demands-iran-declare-strait-of-hormuz-open-to-all-shipping",
+    "published": "Fri, 10 Jul 2026 21:09:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.254808"
+    "fetched_at": "2026-07-10T21:36:51.889186"
   },
   {
-    "id": "ddd8eb03c88d",
-    "title": "‘Ziplink Is Now Froggle’: The Story Behind the Fake AI Ads That Went Viral",
-    "title_cn": "“Ziplink 现在是 Froggle”：病毒式传播的虚假人工智能广告背后的故事",
-    "summary": "<p>The surge in tech campaigns on public transit is spurring satirists from New York to London to create their own versions.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways",
-    "published": "Fri, 10 Jul 2026 11:00:20 GMT",
+    "id": "7a9acef4272d",
+    "title": "Platner Quits Maine Race as Democrats Seek Quick Replacement",
+    "title_cn": "普拉特纳退出缅因州竞选，民主党寻求快速替代者",
+    "summary": "Graham Platner officially withdrew his US Senate candidacy on Friday, setting up an unprecedented competition among Maine Democrats to replace him.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/platner-quits-maine-race-as-democrats-seek-quick-replacement",
+    "published": "Fri, 10 Jul 2026 21:03:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.364357"
+    "fetched_at": "2026-07-10T21:36:52.019432"
   },
   {
-    "id": "902fe7f67b8c",
-    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
-    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. His administration quickly moved to add additional pressure on Tehran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-iran-ceasefire-over-but-talks-on-deal-to-continue",
-    "published": "Fri, 10 Jul 2026 14:37:00 GMT",
+    "id": "c01b735dccbd",
+    "title": "Mali, Algeria Agree to Reopen Airspace After Months of Tensions",
+    "title_cn": "马里和阿尔及利亚在数月紧张局势后同意重新开放领空",
+    "summary": "Mali and Algeria agreed to reopen their airspace to civilian and military aircraft and return ambassadors to their posts, signaling an easing of yearlong tensions between the northern African nations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/mali-algeria-agree-to-reopen-airspace-after-months-of-tensions",
+    "published": "Fri, 10 Jul 2026 21:12:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.548288"
+    "fetched_at": "2026-07-10T21:36:52.159714"
   },
   {
-    "id": "e61eb4d5773e",
-    "title": "US Sanctions Supreme Leader’s Network as Iran Ceasefire Frays",
-    "title_cn": "伊朗停火协议破裂，美国制裁最高领袖网络",
-    "summary": "The US imposed sanctions on Iranian financier Ali Ansari, accusing him of managing a global network of assets for Supreme Leader Mojtaba Khamenei and other senior regime figures, the latest fracture in the truce between Washington and Tehran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-sanctions-iran-supreme-leader-network-as-ceasefire-frays",
-    "published": "Fri, 10 Jul 2026 19:41:44 GMT",
+    "id": "fed47d649725",
+    "title": "SK Hynix Climbs in US Debut, CEO Says Memory Crunch to Last |Bloomberg Businessweek Daily 7/10/2026",
+    "title_cn": "SK 海力士在美国首次亮相，首席执行官表示内存短缺将持续下去 |彭博商业周刊日报 7/10/2026",
+    "summary": "Today Bloomberg Tech host Ed Ludlow details his conversation with SK Hynix CEO Kwak Noh-Jung as the South Korean memory chip maker makes its US debut. Then, Bloomberg White House and Washington correspondent discusses President Trump's dismissal of two Democrat members of the US Election Assistance Commission and the latest from the MidEast. Plus, Bloomberg senior editor Nina Trentmann is joined by Lumen CFO Chris Stansbury on providing AI infrastructure. Finally, Bloomberg 'Business of Sports' Host Vanessa Perdomo-Maglione is joined by Gotham FC governor Carolyn Tisch-Blodgett on the NWSL club's move to Queens and capitalizing on World Cup excitement. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-businessweek-daily-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 20:58:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.650824"
-  },
-  {
-    "id": "45981efbb529",
-    "title": "Trump Says Ceasefire With Iran Is Over",
-    "title_cn": "特朗普称与伊朗的停火已经结束",
-    "summary": "James Jeffrey, former US ambassador to Iraq and Turkey, said a new US blockade of Iran and bombing of its railways would cripple Iran's economy and military capabilities. President Trump says the ceasefire is over, but both sides are still talking. Jeffrey speaks on \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video-mrfa4sa1",
-    "published": "Fri, 10 Jul 2026 18:39:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.737827"
-  },
-  {
-    "id": "9222ac69c955",
-    "title": "Senators Say They Have Deal With Trump on Russia Sanctions Bill",
-    "title_cn": "参议员表示他们与特朗普就俄罗斯制裁法案达成协议",
-    "summary": "A bipartisan group of senators said they have an agreement with the Trump administration to move ahead with new Russian sanctions legislation, raising the prospect of more US economic pressure on the Kremlin to halt its war in Ukraine.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/senators-say-they-have-deal-with-trump-on-russia-sanctions-bill",
-    "published": "Fri, 10 Jul 2026 18:29:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.849450"
-  },
-  {
-    "id": "16ff3c0c19d4",
-    "title": "Mexico Readies $4 Billion in Financing to Back Energy Projects",
-    "title_cn": "墨西哥准备提供 40 亿美元融资支持能源项目",
-    "summary": "Mexican finance officials are exploring the possibility of creating an umbrella-financing package for renewable-energy projects that could be supported by more than $4 billion from development bank Banco Nacional de Obras y Servicios Publicos, the bank’s head said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/mexico-readies-4-billion-in-financing-to-back-energy-projects",
-    "published": "Fri, 10 Jul 2026 18:23:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:10.954614"
-  },
-  {
-    "id": "bc33f84c82ec",
-    "title": "The Shattering of the Middle East’s Most Unlikely Friendship",
-    "title_cn": "中东最不可能的友谊的破裂",
-    "summary": "<p>Israeli tech titan Eyal Waldman and Palestinian&nbsp;tycoon Bashar Masri were best pals. The Hamas attack and Israel’s response made them bitter enemies.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-07-10/israel-palestine-conflict-shatters-unlikely-friendship-that-bridged-borders",
-    "published": "Fri, 10 Jul 2026 09:00:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.146950"
-  },
-  {
-    "id": "a493097e0616",
-    "title": "Here’s Who Could Replace Graham Platner on the Maine Ballot",
-    "title_cn": "谁可以取代缅因州选票上的格雷厄姆·普拉特纳",
-    "summary": "Maine Democrat Graham Platner’s withdrawal from the race for a US Senate seat unleashed a scramble by a handful of candidates who have little time to build support ahead of a convention the party is planning before a July 27 deadline to confirm a name on the ballot.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/here-is-who-could-replace-graham-platner-on-the-maine-ballot",
-    "published": "Thu, 09 Jul 2026 21:57:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.246374"
-  },
-  {
-    "id": "ff3aafe19702",
-    "title": "New York City Stares Down a Care Crisis as Haitian TPS Ends",
-    "title_cn": "海地 TPS 结束后纽约市面临护理危机",
-    "summary": "The end of US work authorizations for hundreds of thousands of Haitians is threatening to leave short-staffed nursing homes, hospitals and home-care agencies with even fewer caregivers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/as-haitian-tps-expires-new-york-city-stares-down-a-care-crisis",
-    "published": "Fri, 10 Jul 2026 14:58:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.340253"
+    "fetched_at": "2026-07-10T21:36:52.290420"
   },
   {
     "id": "0a69d4045185",
@@ -927,7 +907,107 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/platner-exit-leaves-maine-democrats-with-no-obvious-frontrunner",
     "published": "Thu, 09 Jul 2026 21:44:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.435729"
+    "fetched_at": "2026-07-10T21:36:52.422512"
+  },
+  {
+    "id": "769527bc0549",
+    "title": "Here Are the Week’s Winners and Losers",
+    "title_cn": "这是本周的赢家和输家",
+    "summary": "A NATO summit and a World Cup controversy dominated headlines.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/from-nato-to-world-cup-here-are-the-week-s-winners-and-losers",
+    "published": "Fri, 10 Jul 2026 20:45:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:52.539430"
+  },
+  {
+    "id": "6579a1e713c0",
+    "title": "Trump Says Iran Ceasefire Is Over | Balance of Power 7/10/2026",
+    "title_cn": "特朗普表示伊朗停火已经结束权力平衡 7/10/2026",
+    "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondent Joe Mathieu discusses the latest from DC. On today's show, former US Ambassador to Iraq James Jeffrey, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino and Quincy Institute for Responsible Statecraft Executive Vice President Trita Parsi. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/balance-of-power-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 20:32:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:52.674170"
+  },
+  {
+    "id": "902fe7f67b8c",
+    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
+    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
+    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. His administration quickly moved to add additional pressure on Tehran.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-iran-ceasefire-over-but-talks-on-deal-to-continue",
+    "published": "Fri, 10 Jul 2026 14:37:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:52.820724"
+  },
+  {
+    "id": "e61eb4d5773e",
+    "title": "US Sanctions Supreme Leader’s Network as Iran Ceasefire Frays",
+    "title_cn": "伊朗停火协议破裂，美国制裁最高领袖网络",
+    "summary": "The US imposed sanctions on Iranian financier Ali Ansari, accusing him of managing a global network of assets for Supreme Leader Mojtaba Khamenei and other senior regime figures, the latest fracture in the truce between Washington and Tehran.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-sanctions-iran-supreme-leader-network-as-ceasefire-frays",
+    "published": "Fri, 10 Jul 2026 19:41:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:52.960293"
+  },
+  {
+    "id": "45981efbb529",
+    "title": "Trump Says Ceasefire With Iran Is Over",
+    "title_cn": "特朗普称与伊朗的停火已经结束",
+    "summary": "James Jeffrey, former US ambassador to Iraq and Turkey, said a new US blockade of Iran and bombing of its railways would cripple Iran's economy and military capabilities. President Trump says the ceasefire is over, but both sides are still talking. Jeffrey speaks on \"Balance of Power.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video-mrfa4sa1",
+    "published": "Fri, 10 Jul 2026 18:39:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.110860"
+  },
+  {
+    "id": "9222ac69c955",
+    "title": "Senators Say They Have Deal With Trump on Russia Sanctions Bill",
+    "title_cn": "参议员表示他们与特朗普就俄罗斯制裁法案达成协议",
+    "summary": "A bipartisan group of senators said they have an agreement with the Trump administration to move ahead with new Russian sanctions legislation, raising the prospect of more US economic pressure on the Kremlin to halt its war in Ukraine.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/senators-say-they-have-deal-with-trump-on-russia-sanctions-bill",
+    "published": "Fri, 10 Jul 2026 18:29:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.248768"
+  },
+  {
+    "id": "16ff3c0c19d4",
+    "title": "Mexico Readies $4 Billion in Financing to Back Energy Projects",
+    "title_cn": "墨西哥准备提供 40 亿美元融资支持能源项目",
+    "summary": "Mexican finance officials are exploring the possibility of creating an umbrella-financing package for renewable-energy projects that could be supported by more than $4 billion from development bank Banco Nacional de Obras y Servicios Publicos, the bank’s head said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/mexico-readies-4-billion-in-financing-to-back-energy-projects",
+    "published": "Fri, 10 Jul 2026 18:23:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.371338"
+  },
+  {
+    "id": "bc33f84c82ec",
+    "title": "The Shattering of the Middle East’s Most Unlikely Friendship",
+    "title_cn": "中东最不可能的友谊的破裂",
+    "summary": "<p>Israeli tech titan Eyal Waldman and Palestinian&nbsp;tycoon Bashar Masri were best pals. The Hamas attack and Israel’s response made them bitter enemies.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-10/israel-palestine-conflict-shatters-unlikely-friendship-that-bridged-borders",
+    "published": "Fri, 10 Jul 2026 09:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.513387"
+  },
+  {
+    "id": "a493097e0616",
+    "title": "Here’s Who Could Replace Graham Platner on the Maine Ballot",
+    "title_cn": "谁可以取代缅因州选票上的格雷厄姆·普拉特纳",
+    "summary": "Maine Democrat Graham Platner’s withdrawal from the race for a US Senate seat unleashed a scramble by a handful of candidates who have little time to build support ahead of a convention the party is planning before a July 27 deadline to confirm a name on the ballot.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/here-is-who-could-replace-graham-platner-on-the-maine-ballot",
+    "published": "Thu, 09 Jul 2026 21:57:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.652523"
+  },
+  {
+    "id": "ff3aafe19702",
+    "title": "New York City Stares Down a Care Crisis as Haitian TPS Ends",
+    "title_cn": "海地 TPS 结束后纽约市面临护理危机",
+    "summary": "The end of US work authorizations for hundreds of thousands of Haitians is threatening to leave short-staffed nursing homes, hospitals and home-care agencies with even fewer caregivers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/as-haitian-tps-expires-new-york-city-stares-down-a-care-crisis",
+    "published": "Fri, 10 Jul 2026 14:58:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T21:36:53.771171"
   },
   {
     "id": "543329ba14a5",
@@ -937,7 +1017,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/uk-police-arrest-man-on-suspicion-of-murdering-former-minister",
     "published": "Fri, 10 Jul 2026 17:29:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.521243"
+    "fetched_at": "2026-07-10T21:36:53.882856"
   },
   {
     "id": "e153db3bff20",
@@ -947,7 +1027,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/top-senate-democrats-call-for-probes-into-trump-crypto-earnings",
     "published": "Fri, 10 Jul 2026 17:16:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.626527"
+    "fetched_at": "2026-07-10T21:36:54.002298"
   },
   {
     "id": "839ed33ceb86",
@@ -957,7 +1037,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/mexico-peru-open-door-to-restoring-relations-after-bitter-political-fight",
     "published": "Fri, 10 Jul 2026 16:55:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.716442"
+    "fetched_at": "2026-07-10T21:36:54.113502"
   },
   {
     "id": "eeb03e21a7f3",
@@ -967,17 +1047,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/ukraine-says-it-hit-two-russian-refineries-slew-of-fuel-tankers",
     "published": "Fri, 10 Jul 2026 16:37:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.907436"
+    "fetched_at": "2026-07-10T21:36:54.360721"
   },
   {
     "id": "47454c446188",
     "title": "Congo Tax Agency Seals Glencore Mine Offices in Payment Dispute",
-    "title_cn": "刚果税务局因付款纠纷查封嘉能可矿山办公室",
+    "title_cn": "刚果税务局因付款纠纷查封嘉能可矿山办事处",
     "summary": "Tax authorities in the Democratic Republic of Congo sealed off offices belonging to a Glencore Plc-owned copper mine, escalating a row over payments allegedly owed to the state.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/congo-tax-agency-seals-glencore-mine-offices-in-payment-dispute",
     "published": "Fri, 10 Jul 2026 15:55:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:11.988146"
+    "fetched_at": "2026-07-10T21:36:54.498052"
   },
   {
     "id": "66d94982fc01",
@@ -987,7 +1067,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/dhs-wants-to-create-its-own-round-the-clock-deportation-airline",
     "published": "Fri, 10 Jul 2026 15:27:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.077089"
+    "fetched_at": "2026-07-10T21:36:54.641053"
   },
   {
     "id": "95bfe054c002",
@@ -997,7 +1077,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/iran-supreme-leader-to-hold-memorial-ceremony-for-slain-father-mrf1pwnj",
     "published": "Fri, 10 Jul 2026 14:43:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.182678"
+    "fetched_at": "2026-07-10T21:36:54.749787"
   },
   {
     "id": "f3bfdd1eb17d",
@@ -1007,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/qatar-blocks-defense-joint-venture-between-vw-and-israeli-firm",
     "published": "Fri, 10 Jul 2026 13:02:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.320637"
+    "fetched_at": "2026-07-10T21:36:54.864452"
   },
   {
     "id": "0eefd6c36b5d",
@@ -1017,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/reform-decries-smear-campaign-after-fresh-finance-probe-report",
     "published": "Fri, 10 Jul 2026 14:00:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.421149"
+    "fetched_at": "2026-07-10T21:36:54.994135"
   },
   {
     "id": "da99239b8373",
@@ -1027,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-he-won-t-sign-housing-bill-keeps-focus-on-voter-id",
     "published": "Fri, 10 Jul 2026 13:25:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.520346"
+    "fetched_at": "2026-07-10T21:36:55.111325"
   },
   {
     "id": "597375d8d9af",
@@ -1037,7 +1117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/hungary-unveils-agency-to-recover-lost-orban-era-assets",
     "published": "Fri, 10 Jul 2026 13:57:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.611991"
+    "fetched_at": "2026-07-10T21:36:55.244752"
   },
   {
     "id": "8e90ad2cd33a",
@@ -1047,17 +1127,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/german-lawmakers-approve-health-bill-raising-drugmaker-rebates",
     "published": "Fri, 10 Jul 2026 09:27:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.710630"
+    "fetched_at": "2026-07-10T21:36:55.361083"
   },
   {
     "id": "913ce812def6",
     "title": "Erdogan’s NATO Gift of Revolvers Runs Into Europe’s Gun Laws",
     "title_cn": "埃尔多安向北约赠送的左轮手枪违反欧洲枪支法",
-    "summary": "Turkish President Recep Tayyip Erdogan’s parting gift to the NATO leaders he hosted this week was a revolver, and an accidental expose of squeamish European attitudes to firearms.",
+    "summary": "Turkish President Recep Tayyip Erdogan’s parting gift to the NATO leaders he hosted this week was a revolver, and an accidental exposé of squeamish European attitudes to firearms.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/guns-gifted-to-nato-leaders-trigger-travel-faux-pas-after-summit",
     "published": "Fri, 10 Jul 2026 13:15:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.808488"
+    "fetched_at": "2026-07-10T21:36:55.475515"
   },
   {
     "id": "f4da6fd92a84",
@@ -1067,66 +1147,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/turkey-egypt-block-lgbtq-cruise-entry-over-moral-values",
     "published": "Fri, 10 Jul 2026 13:10:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T20:27:12.913836"
-  },
-  {
-    "id": "c40b23cf8856",
-    "title": "Burnham Clears Final Hurdle to Becoming Next UK Premier",
-    "title_cn": "伯纳姆扫清了成为下一任英国首相的最后障碍",
-    "summary": "Andy Burnham will replace Keir Starmer as Britain’s next prime minister, after securing the support of enough Labour MPs to prevent a rival challenger.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/burnham-set-to-become-next-uk-premier-with-majority-of-mp-votes",
-    "published": "Thu, 09 Jul 2026 19:33:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.022167"
-  },
-  {
-    "id": "6122eabbe48b",
-    "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes",
-    "title_cn": "美国表示，尽管发生霍尔木兹小规模冲突，伊朗谈判仍将继续",
-    "summary": "Talks between the US and Iran over a permanent peace deal are continuing, according to a American official, despite two days of clashes that threatened to shatter an already fragile ceasefire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/us-says-iran-technical-talks-to-continue-despite-recent-strikes",
-    "published": "Thu, 09 Jul 2026 23:18:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.102728"
-  },
-  {
-    "id": "2bedf374ad86",
-    "title": "Hundreds Of Labour MP's Back Andy Burnham For PM",
-    "title_cn": "数百名工党议员支持安迪·伯纳姆竞选总理",
-    "summary": "Andy Burnham's path to becoming the next UK prime minister looks certain after a vast majority of Labour MPs formally nominated him to be the next party leader. At the end of the first day of the party's leadership contest to replace Keir Starmer, 322 of 403 Labour members of Parliament voted for Burnham. Responding to the confirmation of the vote number, Burnham said he was \"deeply grateful\" for the support he's received from party colleagues, saying it \"reflects a shared belief that Britain needs a new approach to politics.\" Bloomberg Opinion's Rosa Prince joins Caroline hepker and Rachel Evans on Daybreak Europe to discuss.' (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/hundreds-of-labour-mp-s-back-andy-burnham-for-pm-video",
-    "published": "Fri, 10 Jul 2026 11:52:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.222302"
-  },
-  {
-    "id": "7611033a624f",
-    "title": "China Again Warns Russia Not to Use Nuclear Arms Against Ukraine",
-    "title_cn": "中国再次警告俄罗斯不要对乌克兰使用核武器",
-    "summary": "China has again told Russia not to even consider using a nuclear weapon against Ukraine, according to President Volodymyr Zelenskyy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-again-warns-russia-not-to-use-nuclear-arms-against-ukraine",
-    "published": "Fri, 10 Jul 2026 11:48:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.318391"
-  },
-  {
-    "id": "d961290a2f28",
-    "title": "Falling Israel Support Shapes US Political Battles Ahead",
-    "title_cn": "以色列支持率下降影响美国未来的政治斗争",
-    "summary": "Americans’ shifting views are influencing foreign policy debates in both parties",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/falling-israel-support-shapes-us-political-battles-ahead",
-    "published": "Fri, 10 Jul 2026 11:18:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.423085"
-  },
-  {
-    "id": "fbc59a3ddab7",
-    "title": "EU to Allow Ukraine to Buy UK Weapons With its €60 Billion Loan",
-    "title_cn": "欧盟允许乌克兰用600亿欧元贷款购买英国武器",
-    "summary": "The European Union is set to allow Ukraine to purchase British weapons with the €60 billion ($69 billion) it’s loaning the war-torn nation for defense procurement.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/eu-to-allow-ukraine-to-buy-uk-weapons-with-its-60-billion-loan",
-    "published": "Fri, 10 Jul 2026 10:56:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T20:27:13.512014"
+    "fetched_at": "2026-07-10T21:36:55.595169"
   }
 ]
