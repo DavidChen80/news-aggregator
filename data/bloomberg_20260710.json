@@ -1,12 +1,174 @@
 [
   {
+    "id": "ee1fb870640c",
+    "title": "Merryn Talks Money:Markets Wrap: Oil Rises, Tech Slows (Podcast)",
+    "summary": "Source: Bloomberg, 15:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/merryn-talks-money-markets-wrap-oil-rises-tech-slows-podcast",
+    "published": "Fri, 10 Jul 2026 11:51:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105531"
+  },
+  {
+    "id": "6506e7a81c6a",
+    "title": "Iran Talks Continue Despite Skirmishes, SK Hynix’s US Listing",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/iran-talks-continue-despite-skirmishes-sk-hynix-s-us-listing",
+    "published": "Fri, 10 Jul 2026 11:41:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105546"
+  },
+  {
+    "id": "3c391ab65847",
+    "title": "Climate Chaos Forces Private Equity Risk Rethink",
+    "summary": "Investment firms step up due diligence as heatwaves and floods pose fresh threats to returns",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/climate-chaos-forces-private-equity-risk-rethink",
+    "published": "Fri, 10 Jul 2026 11:20:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105552"
+  },
+  {
+    "id": "ecb7383a0a72",
+    "title": "Trump Fires Democrats on Election Commission Before Midterms",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/trump-fires-democrats-on-election-commission-before-midterms",
+    "published": "Fri, 10 Jul 2026 11:14:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105558"
+  },
+  {
+    "id": "c44ce6099e6d",
+    "title": "Here's Why Defense Spending Isn't Delivering (Podcast)",
+    "summary": "Source: Bloomberg, 10:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/here-s-why-defense-spending-isn-t-delivering-podcast",
+    "published": "Fri, 10 Jul 2026 11:05:24 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105563"
+  },
+  {
+    "id": "4d2384fb2e66",
+    "title": "Stock Movers: DAL, VOD, EZJ (Podcast)",
+    "summary": "Source: Bloomberg, 4:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-dal-vod-ezj-podcast",
+    "published": "Fri, 10 Jul 2026 11:03:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105569"
+  },
+  {
+    "id": "a78c0deebee8",
+    "title": "One Man’s Quest to Save a Legendary Mustard",
+    "summary": "Colman’s fiery English mustard eyes revival after a McCormick deal.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/colman-s-mustard-eyes-revival-after-unilever-mccormick-deal",
+    "published": "Fri, 10 Jul 2026 11:00:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105574"
+  },
+  {
+    "id": "a6f11bf81ff5",
+    "title": "Iran Talks to Continue Despite Clashes, SK Hynix Debuts, More",
+    "summary": "Source: Bloomberg, 6:01",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/iran-talks-to-continue-despite-clashes-sk-hynix-debuts-more",
+    "published": "Fri, 10 Jul 2026 10:29:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105583"
+  },
+  {
+    "id": "5a65de6238cd",
+    "title": "Marine Le Pen Bets on the Politics of Ankle Tags",
+    "summary": "The far-right leader doubtless senses it’s her last shot at a presidency she’s already tried and failed to win three times.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/le-pen-is-betting-on-the-depth-of-feeling-against-the-french-political-center",
+    "published": "Fri, 10 Jul 2026 10:28:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105589"
+  },
+  {
+    "id": "53ab616e4f05",
+    "title": "AI Fuels Startup Boom Across the US",
+    "summary": "<p>The number of new firms projected&nbsp;within 12 months&nbsp;is 24% higher than a year ago in some sectors</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-10/ai-powered-entrepreneurs-set-to-launch-record-number-of-new-businesses",
+    "published": "Fri, 10 Jul 2026 10:00:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105595"
+  },
+  {
+    "id": "3a9e14e7a463",
+    "title": "NATO Summit Generates Billions in Nordic Defense Deals",
+    "summary": "Including a $5 billion contract with Sweden’s Saab",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/nato-summit-generates-billions-in-nordic-defense-deals",
+    "published": "Fri, 10 Jul 2026 10:00:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105600"
+  },
+  {
+    "id": "0222ed10d2fb",
+    "title": "State of Distressed Debt: C Street CEO Henes on Board Dynamics",
+    "summary": "To illustrate how uniquely challenging the restructuring experience is for the unacquainted, C Street Advisory Group founder and CEO Jon Henes recalled a client CEO’s sentiment after complex, hardball restructuring negotiations: “Every time we walk into a room ... I feel like I’m in one big game of poker. Except you know what your cards are and you know what my cards are and you know what everybody in the room’s cards are and so do they. The only person who doesn’t know what anybody’s cards are",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/state-of-distressed-debt-c-street-ceo-henes-on-board-dynamics",
+    "published": "Fri, 10 Jul 2026 10:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105605"
+  },
+  {
+    "id": "784f037d3342",
+    "title": "Bloomberg Daybreak: US-Iran Talks Continue (Podcast)",
+    "summary": "Source: Bloomberg, 15:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-daybreak-us-iran-talks-continue-podcast",
+    "published": "Fri, 10 Jul 2026 09:39:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105611"
+  },
+  {
+    "id": "eacdc0fe6605",
+    "title": "SoftBank Said to Consider Buying Stake in Retailer Seven &amp; i",
+    "summary": "SoftBank Corp. and PayPay Corp. are considering buying a stake worth several hundred billion yen in Seven &amp; i Holdings Co., people familiar with the matter said, in a deal that would unite Japan’s dominant payments operator with its biggest convenience store operator.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/softbank-considers-stake-in-seven-i-to-boost-ai-payments",
+    "published": "Fri, 10 Jul 2026 08:49:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105616"
+  },
+  {
+    "id": "97a8717e85da",
+    "title": "Japan Moves to Boost Yen With Call for Pension Funds to Buy Local",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/japan-moves-to-boost-sickly-yen-with-call-for-pension-funds-to-buy-local",
+    "published": "Fri, 10 Jul 2026 09:28:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105621"
+  },
+  {
+    "id": "3cd02378e6e5",
+    "title": "US Says Iran Talks to Continue, SK Hynix to Debut in US, More",
+    "summary": "Source: Bloomberg, 6:11",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-says-iran-talks-to-continue-sk-hynix-to-debut-in-us-more",
+    "published": "Fri, 10 Jul 2026 09:24:45 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105626"
+  },
+  {
+    "id": "4e4b1b2773e6",
+    "title": "Stock Movers: EasyJet, Vodafone, Randstad (Podcast)",
+    "summary": "Source: Bloomberg, 4:20",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-easyjet-vodafone-randstad-podcast",
+    "published": "Fri, 10 Jul 2026 09:13:27 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105631"
+  },
+  {
+    "id": "ae6e1d7c9d17",
+    "title": "How World Cup Stars Pushing 40 Are Defying Their Biological Clocks",
+    "summary": "<p>Run until you drop is out, as sophisticated training adds years to elite careers</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/messi-ronaldo-modric-defy-their-biological-clocks-as-stars-push-middle-age",
+    "published": "Fri, 10 Jul 2026 09:00:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.105637"
+  },
+  {
     "id": "4621e2805348",
     "title": "EasyJet Bidding War, JP Morgan AI Beats 60/40 Portfolio, More",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/easyjet-bidding-war-jp-morgan-ai-beats-60-40-portfolio-more",
     "published": "Fri, 10 Jul 2026 08:31:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761697"
+    "fetched_at": "2026-07-10T11:57:01.105642"
   },
   {
     "id": "889f5f063259",
@@ -15,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/hong-kong-s-wharf-seeking-sale-of-1-billion-singapore-malls",
     "published": "Fri, 10 Jul 2026 08:23:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761714"
+    "fetched_at": "2026-07-10T11:57:01.105647"
   },
   {
     "id": "7bc2608a2925",
@@ -24,7 +186,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-easyjet-arcelormittal-st-james-s-place-podcast",
     "published": "Fri, 10 Jul 2026 08:14:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761721"
+    "fetched_at": "2026-07-10T11:57:01.105652"
   },
   {
     "id": "ceeb6abc0928",
@@ -33,7 +195,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/burnham-approaches-pm-role-easyjet-rival-bid-more",
     "published": "Fri, 10 Jul 2026 07:30:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761726"
+    "fetched_at": "2026-07-10T11:57:01.105657"
   },
   {
     "id": "ddf251d57d5d",
@@ -42,7 +204,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z",
     "published": "Thu, 09 Jul 2026 20:43:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761732"
+    "fetched_at": "2026-07-10T11:57:01.105662"
   },
   {
     "id": "897c18bffea9",
@@ -51,7 +213,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/apollo-makes-rival-bid-for-easyjet-topping-castlelake-offer",
     "published": "Fri, 10 Jul 2026 07:17:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761738"
+    "fetched_at": "2026-07-10T11:57:01.105667"
   },
   {
     "id": "75c8f7daa20a",
@@ -60,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-sk-hynix-hua-hong-softbank-podcast",
     "published": "Fri, 10 Jul 2026 07:08:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761744"
+    "fetched_at": "2026-07-10T11:57:01.105672"
   },
   {
     "id": "7edba0e96085",
@@ -69,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/burnham-set-to-be-pm-easyjet-accepts-apollo-offer-more",
     "published": "Fri, 10 Jul 2026 06:32:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761754"
+    "fetched_at": "2026-07-10T11:57:01.105677"
   },
   {
     "id": "067497a787f8",
@@ -78,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-daybreak-europe-burnham-s-uk-coronation-podcast",
     "published": "Fri, 10 Jul 2026 05:45:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761760"
+    "fetched_at": "2026-07-10T11:57:01.105686"
   },
   {
     "id": "cf571bbc4e7a",
@@ -87,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/burnham-set-to-be-uk-pm-us-iran-talks-to-continue-more",
     "published": "Fri, 10 Jul 2026 05:42:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761766"
+    "fetched_at": "2026-07-10T11:57:01.105693"
   },
   {
     "id": "43d1878bb181",
@@ -96,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/us-iran-technical-talks-continue-despite-fresh-clashes",
     "published": "Fri, 10 Jul 2026 05:36:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761772"
+    "fetched_at": "2026-07-10T11:57:01.105698"
   },
   {
     "id": "2bb2cf6bf0a6",
@@ -105,349 +267,88 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/why-micron-and-sk-hynix-depend-on-japan-s-ai-supply-chain",
     "published": "Fri, 10 Jul 2026 05:03:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761777"
+    "fetched_at": "2026-07-10T11:57:01.105704"
   },
   {
-    "id": "b0a0bdc887d8",
-    "title": "Trump’s Mood Shift Gives Zelenskyy a Boost",
-    "summary": "Ukraine’s president had a good trip to the NATO summit in Ankara.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/trump-s-mood-shift-gives-zelenskyy-a-boost-at-nato-in-turkey",
-    "published": "Fri, 10 Jul 2026 04:30:01 GMT",
+    "id": "66003cfd49b0",
+    "title": "Corn Drops as Heat Threat Eases Ahead of Key US Supply Report",
+    "summary": "Corn futures fell for a third day as the immediate threat of extreme heat in the US eased. Traders are also awaiting the US Department of Agriculture’s WASDE report, due later Friday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/corn-steadies-ahead-of-key-us-supply-report-as-heat-threats-ease",
+    "published": "Fri, 10 Jul 2026 04:07:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761783"
+    "fetched_at": "2026-07-10T11:57:01.417862"
   },
   {
-    "id": "8b0dae3ea0bc",
-    "title": "China’s Missile Test From Submarine Raises Alarm in East Asia",
-    "summary": "The episode raised worries among neighbors but Beijing was mostly sending a message to the US",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/china-s-missile-test-from-submarine-raises-alarm-in-east-asia",
-    "published": "Fri, 10 Jul 2026 03:59:35 GMT",
+    "id": "2b9351488392",
+    "title": "Inflation Is a Tailwind for European, Morgan Stanley Says",
+    "summary": "European equities stand to benefit from higher inflation, according to Morgan Stanley’s Marina Zavolock, who says the market underestimates the region’s exposure to sectors that profit from rising prices. \"We have a lot of real asset exposure, we have banks exposure,” Zavolock, the firm’s chief European equity strategist, tells Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/inflation-is-tailwind-for-europe-stocks-morgan-stanley-video",
+    "published": "Fri, 10 Jul 2026 11:31:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761789"
-  },
-  {
-    "id": "b426952d683f",
-    "title": "US-Iran Talks to Continue, US Share Sale High for SK Hynix, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-iran-talks-to-continue-us-share-sale-high-for-sk-hynix-more",
-    "published": "Fri, 10 Jul 2026 03:33:07 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761794"
-  },
-  {
-    "id": "6632ac69fbdc",
-    "title": "India’s ONGC Approves Project to Expand Strategic Crude Reserves",
-    "summary": "India’s state-owned Oil and Natural Gas Corp. approved an expansion of the country’s strategic oil reserves, highlighting a push to strengthen energy resilience following the shock of the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/india-s-ongc-approves-project-to-expand-strategic-crude-reserves",
-    "published": "Fri, 10 Jul 2026 03:20:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761799"
-  },
-  {
-    "id": "28c3da9b08fe",
-    "title": "MiniMax Joins China AI Fundraising Rush With $2 Billion Deal",
-    "summary": "MiniMax Group Inc. is joining a rush by Chinese technology companies to tap markets for funding aimed at the artificial intelligence buildout, looking to raise as much as $2 billion from selling new shares and convertible bonds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/minimax-seeks-1-9-billion-from-share-sale-convertible-bond",
-    "published": "Thu, 09 Jul 2026 16:08:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761805"
-  },
-  {
-    "id": "d2b122ff61d9",
-    "title": "Bloomberg Daybreak Asia: SK Hynix Raises $26.5B (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-daybreak-asia-sk-hynix-raises-26-5b-podcast",
-    "published": "Fri, 10 Jul 2026 02:57:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761810"
-  },
-  {
-    "id": "e0fbd4eb9146",
-    "title": "Rupee May be Tested as RBI Unwinds Bearish Dollar Bets",
-    "summary": "Short dollar forward positions ballooned to $106.7 billion in May.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/india-s-rbi-faces-challenge-of-unwinding-record-bearish-dollar-bets",
-    "published": "Fri, 10 Jul 2026 02:46:05 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761816"
-  },
-  {
-    "id": "95b2f796e235",
-    "title": "US-Iran Technical Talks to Continue, SK Hynix Raises $26.5B",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-iran-technical-talks-to-continue-sk-hynix-raises-26-5b",
-    "published": "Fri, 10 Jul 2026 02:43:02 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761822"
-  },
-  {
-    "id": "22c886a89c8d",
-    "title": "US-Iran Talks to Continue, Record US Listing for SK Hynix, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-iran-talks-to-continue-record-us-listing-for-sk-hynix-more",
-    "published": "Fri, 10 Jul 2026 02:20:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761828"
-  },
-  {
-    "id": "b83df4c38275",
-    "title": "US-Iran Talks to Continue, Record US Listing for Hynix, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-iran-talks-to-continue-record-us-listing-for-hynix-more",
-    "published": "Fri, 10 Jul 2026 01:41:44 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761833"
-  },
-  {
-    "id": "4dab7e6c141e",
-    "title": "Seven &amp; i Falls as Guidance Seen Boosted by Short-Term Gains",
-    "summary": "Seven &amp; i Holdings Co. dropped the most in three months after analysts said the retailer’s upgraded profit outlook was boosted by temporary gains, not improved performance in its core business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/seven-i-raises-profit-outlook-bolstering-turnaround-hopes",
-    "published": "Thu, 09 Jul 2026 06:42:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761838"
-  },
-  {
-    "id": "95dda170a4af",
-    "title": "US Says Iran Technical Talks to Continue, SK Hynix Raises $26.5B",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/us-says-iran-technical-talks-to-continue-sk-hynix-raises-26-5b",
-    "published": "Fri, 10 Jul 2026 00:51:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761843"
-  },
-  {
-    "id": "71466c131b95",
-    "title": "Prabowo’s Clampdown on Indonesian Tycoons Fuels Capital Flight",
-    "summary": "<p>High-net-worth individuals say they fear the president may turn to more forceful measures to extract their money.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-07-10/indonesia-s-high-net-worth-individuals-move-money-offshore-on-prabowo-s-wealth-c",
-    "published": "Fri, 10 Jul 2026 00:00:23 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761848"
-  },
-  {
-    "id": "c452063bec8d",
-    "title": "US Says Iran Technical Talks to Continue, SK Hynix US Pricing",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-09/us-says-iran-technical-talks-to-continue-sk-hynix-us-pricing",
-    "published": "Thu, 09 Jul 2026 23:54:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761853"
-  },
-  {
-    "id": "6ba64e566617",
-    "title": "Modi Receives Rockstar Welcome in Melbourne, Seals Deals With Albanese",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-09/modi-s-australian-visit-westpac-s-ai-chief-rest-job-cuts-australia-briefing",
-    "published": "Thu, 09 Jul 2026 23:36:02 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761858"
-  },
-  {
-    "id": "6a731aa8e4f2",
-    "title": "<strong>A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil</strong>",
-    "summary": "<p><strong>At least $1.6 billion worth of Moscow’s diesel, fuel oil and other products has been funneled from Indonesia’s tiny Karimun into major markets across the region.</strong><br />\n&nbsp;</p>",
-    "link": "https://www.bloomberg.com/graphics/2026-indonesia-russia-oil-asia-hub/",
-    "published": "Thu, 09 Jul 2026 23:00:21 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761863"
-  },
-  {
-    "id": "724e414bca39",
-    "title": "Everybody's Business: 404, Fun Not Found (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-09/everybody-s-business-404-fun-not-found-podcast",
-    "published": "Thu, 09 Jul 2026 22:44:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761872"
-  },
-  {
-    "id": "2aaaf9a1bad9",
-    "title": "Warsh Names Members for Task Force, SK Hynix US Price Offering",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-09/warsh-names-members-for-task-force-sk-hynix-us-price-offering",
-    "published": "Thu, 09 Jul 2026 22:43:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.761877"
-  },
-  {
-    "id": "e7908cc1738c",
-    "title": "UK’s Lendable Raises Debt Backed by Personal-Loan Portfolio",
-    "summary": "UK digital lender Lendable Ltd. is raising £500 million ($671 million) by selling securities backed by a portfolio of personal loans, a deal that would support its ambitions to push further into lending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/uk-fintech-lendable-pledges-personal-loans-to-raise-500-million",
-    "published": "Thu, 09 Jul 2026 16:28:59 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912302"
-  },
-  {
-    "id": "519fd31e1cbf",
-    "title": "Shapoorji Refinancing Kickoff Eases Investor Debt Concerns",
-    "summary": "India’s Shapoorji Pallonji Group has kicked off a planned 255-billion-rupee ($2.7 billion) refinancing with the sale of local-currency bonds, helping restore confidence among investors after months of uncertainty over the group’s ability to refinance looming debt maturities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/india-s-shapoorji-starts-2-7-billion-refinancing-to-tackle-debt",
-    "published": "Thu, 09 Jul 2026 13:44:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912335"
-  },
-  {
-    "id": "57691ccf792e",
-    "title": "Iran War Forces Japan to Rethink Its Love For Plastic",
-    "summary": "Japan loves plastic. But the war in Iran is forcing it to rethink its love for the cheap material and the feasibility of individually wrapping every product.\n\nAlice French explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/iran-war-forces-japan-to-rethink-its-love-for-plastic-video",
-    "published": "Fri, 10 Jul 2026 08:26:08 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912342"
-  },
-  {
-    "id": "f07b80ff12a2",
-    "title": "Senegal’s Political Rupture Raises Risk of Debt Reprofile, Says Citibank",
-    "summary": "Citigroup Inc. said the political rupture between Senegal’s president and his former premier has increased the likelihood of a debt reprofiling rather than a restructuring.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/senegal-s-political-rupture-raises-risk-of-debt-reprofile-says-citibank",
-    "published": "Thu, 09 Jul 2026 15:03:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912348"
-  },
-  {
-    "id": "3d1379efcd01",
-    "title": "Japan Long Bonds Rally: 3-Minutes MLIV",
-    "summary": "Guy Johnson, Lizzy Burden and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/japan-long-bonds-rally-3-minutes-mliv-video",
-    "published": "Fri, 10 Jul 2026 08:18:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912354"
-  },
-  {
-    "id": "45ad1b9e7dec",
-    "title": "Dewji: Plans to Process and Refine Graphite in Tanzania",
-    "summary": "MeTL President and CEO Mohammed Dewji has told Bloomberg he aims to invest hundreds of millions of dollars in refining graphite in Tanzania. The billionaire business tycoon spoke to our chief Africa correspondent Jennifer Zabasajja about the plan. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/dewji-plans-to-process-and-refine-graphite-in-tanzania-video",
-    "published": "Fri, 10 Jul 2026 08:17:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912359"
-  },
-  {
-    "id": "5de274c1976e",
-    "title": "Ziemba: Alternates Pipelines as Hormuz Pressure Remains",
-    "summary": "Risks around the Strait of Hormuz remain elevated as U.S.-Iran tensions pressure a fragile truce. Ziemba Insights founder Rachel Ziemba tells Abeer Abu Omar on Horizons Middle East and Africa that she sees more commitment to alternative pipeline routes ahead. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/ziemba-alternates-pipelines-as-hormuz-pressure-remains-video",
-    "published": "Fri, 10 Jul 2026 08:12:53 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912364"
+    "fetched_at": "2026-07-10T11:57:01.417874"
   },
   {
     "id": "bb5639db5b9b",
-    "title": "Stocks Slip as Traders Trim Risk Before Weekend: Markets Wrap",
-    "summary": "Stocks fell as traders reduced exposure ahead of the weekend, with a fragile truce in the Middle East keeping geopolitical risk in focus.",
+    "title": "Stocks Steady as Weekend Caution Curbs Risk Taking: Markets Wrap",
+    "summary": "Stocks held steady as traders held off on big bets ahead of the weekend, with the fragile truce in the Middle East keeping geopolitical risk front of mind.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 09 Jul 2026 22:08:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912369"
+    "fetched_at": "2026-07-10T11:57:01.417883"
   },
   {
-    "id": "1ccea9c2293e",
-    "title": "UAE’s Oil Output Hit Record High in June, IEA Says",
-    "summary": "The United Arab Emirates boosted crude oil production to an all-time high last month, the most compelling evidence yet of how Abu Dhabi responded more boldly than any of its Persian Gulf neighbors to disruption caused by the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uae-s-oil-output-hit-record-high-in-june-iea-says",
-    "published": "Fri, 10 Jul 2026 08:00:52 GMT",
+    "id": "2b0c1db9683d",
+    "title": "SMFG Said to Weigh Strategy for India Assets Including Yes Bank",
+    "summary": "Sumitomo Mitsui Financial Group Inc. is evaluating its India strategy as it looks for ways to consolidate its presence in one of the world’s fastest-growing banking markets, people with knowledge of the matter said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/smfg-said-to-weigh-strategy-for-india-assets-including-yes-bank",
+    "published": "Fri, 10 Jul 2026 11:12:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912374"
+    "fetched_at": "2026-07-10T11:57:01.417889"
   },
   {
-    "id": "3989f1ca8693",
-    "title": "The Korean Levered ETFs Shaking Markets All Around the World",
-    "summary": "<p>Barclays's Alexander Altmann explains the exploding demand.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/what-are-levered-etfs-and-why-are-they-so-popular-now",
-    "published": "Fri, 10 Jul 2026 08:00:22 GMT",
+    "id": "105ff56b14bc",
+    "title": "BioOrbit CEO on Developing Cancer Treatments in Zero Gravity",
+    "summary": "Katie King, cofounder and CEO of BioOrbit, discussed the company's recent milestone in producing protein crystals in space. BioOrbit launched a record-breaking mission to the International Space Station, achieving the largest scale production of protein crystals in a microgravity environment by one to two orders of magnitude. \nKing spoke to Bloomberg's Tom Mackenzie. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bioorbit-develops-cancer-treatments-in-zero-gravity-video",
+    "published": "Fri, 10 Jul 2026 11:06:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912379"
+    "fetched_at": "2026-07-10T11:57:01.417895"
   },
   {
-    "id": "e19aa1763455",
-    "title": "Odd Lots: Korea’s Levered ETFs Shake Up Global Markets (Podcast)",
-    "summary": "Retail participation in the stock market is booming. And of course the biggest story in markets is the AI trade, which has created an incredible amount of demand for chips and memory. These two broad themes have come together in the form of leveraged, single-stock ETFs. And while these products are popular in the US, the scale coming out of Korea is enormous. It’s a good week to talk about this intersection, because some of the biggest stories of the week include Samsung’s earnings and SK Hynix’",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/odd-lots-korea-s-levered-etfs-shake-up-global-markets-podcast",
-    "published": "Fri, 10 Jul 2026 08:00:00 GMT",
+    "id": "0915ace1cfed",
+    "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
+    "summary": "In the weeks leading up to SpaceX’s monster IPO, many Wall Street pros feared the deal represented an existential threat for Elon Musk’s other giant, Tesla Inc. But after a month in the stock market, the outcome is far from clear.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
+    "published": "Fri, 10 Jul 2026 11:00:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912384"
+    "fetched_at": "2026-07-10T11:57:01.417900"
   },
   {
-    "id": "f0bd60431b58",
-    "title": "Copper Heads for Weekly Gain as Traders Look Past Iran Flare-Up",
-    "summary": "Copper was on track for its second straight weekly gain as investors looked past potential demand headwinds presented by the mid-week resurgence in fighting in the Middle East.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/copper-heads-for-weekly-gain-as-traders-look-past-iran-flare-up",
-    "published": "Fri, 10 Jul 2026 02:05:06 GMT",
+    "id": "975b0bf6836d",
+    "title": "Europe Must Increase Space Autonomy: ESA's Aschbacher",
+    "summary": "The man who oversees Europe's space agenda says the continent needs to do much more as it pursues greater autonomy in orbit.\nEurope is trailing the US in efforts to develop a space economy, underscored by SpaceX's mega IPO in June. Josef Aschbacher, Director General of the European Space Agency, spoke to Bloomberg's Tom Mackenzie.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/europe-must-increase-space-autonomy-esa-s-aschbacher-video",
+    "published": "Fri, 10 Jul 2026 10:59:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912390"
+    "fetched_at": "2026-07-10T11:57:01.417905"
   },
   {
-    "id": "fe163c951a1d",
-    "title": "Yuan Gains as PBOC Sets Fix Below 6.8 for First Time Since 2023",
-    "summary": "The yuan advanced after China’s central bank signaled its comfort with the currency’s strength by setting the daily reference rate below 6.80 per dollar for the first time since 2023.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/pboc-sets-fixing-below-6-8-per-dollar-for-first-time-since-2023-mre95kva",
-    "published": "Fri, 10 Jul 2026 01:23:54 GMT",
+    "id": "7dbb78dc0a1f",
+    "title": "China Vanke Says First-Half Loss May Widen to $2.2 Billion",
+    "summary": "China Vanke Co. said its first-half loss could reach $2.2 billion due to low gross margins on property development projects and asset impairment charges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-vanke-says-first-half-loss-may-widen-to-2-2-billion",
+    "published": "Fri, 10 Jul 2026 10:56:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912395"
+    "fetched_at": "2026-07-10T11:57:01.417909"
   },
   {
-    "id": "54c470ec6c28",
-    "title": "Japan’s Top Pension Fund Likely to Brush Off Political Pressure",
-    "summary": "Japan’s biggest public pension fund will likely ignore Finance Minister Satsuki Katayama’s call to boost domestic investment, at least in the short run, because of strict rules governing asset allocation and its public mandate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/japan-s-top-pension-fund-likely-to-brush-off-political-pressure",
-    "published": "Fri, 10 Jul 2026 07:45:11 GMT",
+    "id": "2a5d5ed2e1bd",
+    "title": "Elon Musk is an Inspiration: The Exploration Company's Huby",
+    "summary": "Hélène Huby, Founder and CEO of The Exploration Company, says Elon Musk serves as an inspiration for her work to develop reusable rockets from Europe. The Exploration Company is one of several companies leading efforts to boost Europe's space sovereignty. Huby spoke to Bloomberg's Tom Mackenzie.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/musk-is-an-inspiration-the-exploration-company-s-huby-video",
+    "published": "Fri, 10 Jul 2026 10:49:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912400"
-  },
-  {
-    "id": "c9361302dd78",
-    "title": "Drone Startup Helsing Alters Staff Stock Plan Before Round",
-    "summary": "European defense startup Helsing has overhauled its internal share program, alienating some staff as the company finalizes its biggest funding round to date.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/dronemaker-helsing-alters-staff-stock-plan-before-funding-round",
-    "published": "Thu, 09 Jul 2026 15:32:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912405"
-  },
-  {
-    "id": "245362cfa4d2",
-    "title": "Japan Long Bonds Rise as Katayama Urges More Pension Investment",
-    "summary": "Japan’s long-term bond yields fell after Finance Minister Satsuki Katayama said the government wants to encourage pension funds, including the Government Pension Investment Fund, to increase investment in domestic financial assets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/japan-s-long-bonds-yen-rise-on-push-for-more-gpif-investment",
-    "published": "Fri, 10 Jul 2026 01:47:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912410"
-  },
-  {
-    "id": "253075b12313",
-    "title": "India’s Wartime Buying Spree Leaves Behind Cooking Gas Glut",
-    "summary": "India’s frenzied efforts to counter disruptions in cooking gas supplies over the past months, while cargoes remained trapped in the Persian Gulf, has left state-run fuel retailers with the opposite problem &mdash; more than they can sell.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/india-s-wartime-buying-spree-leaves-behind-a-cooking-gas-surplus",
-    "published": "Thu, 09 Jul 2026 10:33:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912420"
-  },
-  {
-    "id": "5c8720b1a936",
-    "title": "Vanguard Buys Inflation-Protected Bonds on an Oil-Market Oddity",
-    "summary": "Unusual moves in an oil-market gauge are prompting Vanguard Asset Management Ltd. to buy insurance against stickier-than-expected US inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/vanguard-buys-inflation-protected-bonds-on-an-oil-market-oddity",
-    "published": "Fri, 10 Jul 2026 07:15:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912425"
-  },
-  {
-    "id": "695ffd45b770",
-    "title": "Spain’s Joint Debt Proposal Queried by Largest EU Economies",
-    "summary": "A Spanish bid to boost joint debt issuance by the European Union was met with skepticism from some of the bloc’s top economies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/spain-s-joint-debt-proposal-questioned-by-eu-s-largest-economies",
-    "published": "Thu, 09 Jul 2026 17:12:44 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912430"
-  },
-  {
-    "id": "24b07eef6816",
-    "title": "EasyJet Gets £5.7 Billion Apollo Bid Gatecrashing Castlelake",
-    "summary": "EasyJet Plc received a fresh offer from private equity firm Apollo Global Management for 715 pence a share that beats a rival proposal from Castlelake LP, a surprise twist in the takeover saga that sets up a possible bidding war between the two US investment funds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/easyjet-gets-rival-offer-from-apollo-that-beats-castlelake-bid",
-    "published": "Fri, 10 Jul 2026 06:07:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912435"
+    "fetched_at": "2026-07-10T11:57:01.417914"
   },
   {
     "id": "14ea3c6372e6",
@@ -456,78 +357,186 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/bayer-sells-3-4-billion-stake-in-contraceptives-arm-to-apollo",
     "published": "Fri, 10 Jul 2026 06:14:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912440"
+    "fetched_at": "2026-07-10T11:57:01.417919"
   },
   {
-    "id": "014283afa26b",
-    "title": "India Power Giant Seeks Uranium Assets Overseas in Nuclear Push",
-    "summary": "India’s largest power producer is seeking to invest in overseas uranium mines to secure supplies needed to fuel 30 gigawatts of nuclear power capacity it plans to build over the next two decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/india-power-giant-seeks-uranium-assets-overseas-in-nuclear-push",
-    "published": "Fri, 10 Jul 2026 07:02:14 GMT",
+    "id": "72a3dace97da",
+    "title": "Korea's SK Hynix to Make US Debut; Japan Urges Pensions to Invest More at Home | The Pulse 7/10/2026",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Marina Zavolock, Morgan Stanley Chief European Equity Strategist; Phoenix Kalen, SocGen CIB Global Head of Emerging Markets Research ; Carlos Cuerpo, Spanish Economy Minister   (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-pulse-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 10:31:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912445"
+    "fetched_at": "2026-07-10T11:57:01.417924"
   },
   {
-    "id": "a18c21e4031b",
-    "title": "EU Banks Urged to Pool Buying Power in Deals With US Tech Giants",
-    "summary": "Banks and finance firms should combine their buying power to avoid losing out in negotiations with US tech giants, according to raft of Dutch proposals aimed at tackling Europe’s over-dependence on foreign providers of critical services such as AI and cloud computing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/eu-banks-urged-to-pool-buying-power-in-deals-with-us-tech-giants",
-    "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "id": "46538ab4a844",
+    "title": "SK Hynix’s US Trading Debut, EasyJet Gets £5.7 Billion Apollo Bid | The Opening Trade 7/10/2026",
+    "summary": "SK Hynix raised $26.5 billion in its American depositary receipt offering, as the South Korean memory chipmaker powered through volatility to deliver the largest ever US first-time share sale by a foreign company. SK Hynix’s ADR offering joins a rush of tech giants tapping the market’s deep pools of capital to fund the buildout of AI infrastructure.\n\nEasyJet received a fresh offer from private equity firm Apollo Global Management for 715 pence a share that beats a rival proposal from Castlelake, a surprise twist in the takeover saga that sets up a possible bidding war between the two US investment funds.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Guy Johnson and Lizzy Burden. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-opening-trade-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 10:27:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912450"
+    "fetched_at": "2026-07-10T11:57:01.417930"
   },
   {
-    "id": "64fc8d0a8b7f",
-    "title": "South Africa Economy Nears ‘Escape Velocity,’ Standard Bank Says",
-    "summary": "South African economic growth is on an upswing as the nation chips away at the bottlenecks that have held it back for years, said Standard Bank Group Ltd.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/south-africa-economy-nears-escape-velocity-standard-bank-says",
-    "published": "Fri, 10 Jul 2026 06:56:57 GMT",
+    "id": "26707bf9d23b",
+    "title": "Milky Mist Said to Launch $213 Million India IPO This Month",
+    "summary": "Milky Mist Dairy Food Ltd. is gearing up to launch its 20.35 billion rupees ($213 million) initial public offering as early as July, according to people familiar with the matter, paving the way for what is expected to be India’s largest dairy-sector IPO.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/milky-mist-said-to-launch-213-million-india-ipo-this-month",
+    "published": "Fri, 10 Jul 2026 10:20:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912455"
+    "fetched_at": "2026-07-10T11:57:01.417935"
   },
   {
-    "id": "1cac2b079130",
-    "title": "Congo Ebola Responders Stay on Strike as Africa CDC Pushes to Resolve Pay Dispute",
-    "summary": "Africa Centres for Disease Control and Prevention is working with the Democratic Republic of Congo to speed overdue payments to striking Ebola responders as the labor dispute threatens efforts to contain the world’s fastest-growing outbreak of the deadly disease.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/africa-cdc-urges-congo-to-pay-striking-ebola-workers",
-    "published": "Thu, 09 Jul 2026 15:33:05 GMT",
+    "id": "d7ffcdb535fa",
+    "title": "Belle Burden’s Strangers Is Sparking a Financial Revolution",
+    "summary": "Belle Burden’s hit memoir about how she nearly lost control of her fortune during her divorce is pushing women across the US to take a harder look at their financial lives. Bloomberg's Abha Bhattarai has more. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/belle-burden-s-memoir-is-sparking-a-financial-revolution-video",
+    "published": "Fri, 10 Jul 2026 10:15:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912460"
+    "fetched_at": "2026-07-10T11:57:01.417940"
   },
   {
     "id": "e10626dfe2df",
-    "title": "Gold Steadies as Traders Weigh Mideast Tensions and Rate Outlook",
-    "summary": "Gold steadied, as investors assessed the fallout from renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation.",
+    "title": "Gold Heads for Weekly Loss as Traders Consider Iran, Rates Path",
+    "summary": "Gold headed for a weekly loss as investors assessed the fallout from renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/gold-steadies-as-traders-weigh-mideast-fighting-rate-outlook",
     "published": "Thu, 09 Jul 2026 23:03:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912465"
+    "fetched_at": "2026-07-10T11:57:01.417945"
+  },
+  {
+    "id": "1d2bddc609c3",
+    "title": "Traders Hedge for FX Volatility Return as Fed Uncertainty Builds",
+    "summary": "Currency traders are starting to buy protection against bigger exchange-rate swings after months of calm, as banks warn that shifting Federal Reserve expectations and elevated geopolitical tensions could be about to jolt markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/traders-hedge-for-fx-volatility-return-as-fed-uncertainty-builds",
+    "published": "Fri, 10 Jul 2026 10:09:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417950"
+  },
+  {
+    "id": "f844da131434",
+    "title": "South Africa’s Absa Faces Deeper Slide as Analysts Turn Cautious",
+    "summary": "A selloff in Absa Group Ltd. shares may have further to run as the South African lender’s disappointing earnings guidance causes once-bullish analysts to turn cautious on the stock.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/south-africa-s-absa-faces-deeper-slide-as-analysts-turn-cautious",
+    "published": "Fri, 10 Jul 2026 10:05:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417955"
+  },
+  {
+    "id": "310c5f0bdd89",
+    "title": "Pfizer Vaccine Dispute Hits Polish, Romania Air Traffic Agencies",
+    "summary": "Poland and Romania’s legal battles with Pfizer Inc. over unused Covid-19 vaccine purchases are spilling into the funding of the eastern European nations’ air traffic agencies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/pfizer-vaccine-dispute-hits-polish-romania-air-traffic-agencies",
+    "published": "Fri, 10 Jul 2026 10:03:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417960"
+  },
+  {
+    "id": "101892735b63",
+    "title": "BMW, Volkswagen Sales Decline on Worsening Slump in China",
+    "summary": "BMW AG and Volkswagen AG’s vehicle sales fell in the second quarter due to a worsening decline in China, where mounting competition from domestic rivals and a property crisis is stifling demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/bmw-s-car-sales-decline-after-30-plunge-in-china",
+    "published": "Fri, 10 Jul 2026 08:57:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417965"
+  },
+  {
+    "id": "411e95045ef8",
+    "title": "Europe’s Earnings Momentum Is Taking Off, and That’s Unusual",
+    "summary": "After two years of almost uninterrupted downgrades, analysts are now raising European earnings estimates at the fastest pace since mid-2024.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/europe-s-earnings-momentum-is-taking-off-and-that-s-unusual",
+    "published": "Fri, 10 Jul 2026 09:59:26 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417970"
+  },
+  {
+    "id": "a4471a289b76",
+    "title": "Leveraged Bets on SK Hynix to Multiply After US Debut",
+    "summary": "ETF issuers have at least a half dozen products ready to launch next week.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/leveraged-bets-on-sk-hynix-to-multiply-after-us-debut",
+    "published": "Fri, 10 Jul 2026 09:59:16 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417975"
+  },
+  {
+    "id": "1981cb026cb0",
+    "title": "The Battle Sweeping Through Wall Street",
+    "summary": "Shifting market dynamics have raised an existential question: Does diversification, the cornerstone of portfolio management, still make sense when the world is undergoing seismic changes? Bloomberg Opinion columnist Shuli Ren explains. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/opinion-the-battle-sweeping-through-wall-street-video",
+    "published": "Fri, 10 Jul 2026 09:57:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417980"
+  },
+  {
+    "id": "92b2d0bf8e9c",
+    "title": "JPMorgan, Citi Bankers Join Hong Kong Exchange Listing Panel",
+    "summary": "JPMorgan Chase &amp; Co.’s Nelly Pai and Citigroup Inc.’s Alexander Schrantz are joining the Hong Kong stock exchange panel responsible for approving initial public offerings as the city sharpens its scrutiny of deal quality.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/jpmorgan-citi-bankers-to-join-hong-kong-exchange-listing-panel",
+    "published": "Fri, 10 Jul 2026 01:24:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.417985"
   },
   {
     "id": "0c64aebe2a24",
-    "title": "Oil Steadies at End of Volatile Week as US and Iran Keep Talking",
-    "summary": "Oil steadied at the end of a bumpy week, as talks between the US and Iran continued despite a flare-up in fighting that drove a steep drop in traffic through the Strait of Hormuz.",
+    "title": "Oil Steadies as US-Iran Continue Talks After Renewed Fighting",
+    "summary": "Oil steadied as the US and Iran continued talks despite a flare-up in fighting that strained their ceasefire and deterred tanker traffic through the Strait of Hormuz.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
     "published": "Thu, 09 Jul 2026 22:04:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912469"
+    "fetched_at": "2026-07-10T11:57:01.417990"
   },
   {
-    "id": "5c22cb82cd07",
-    "title": "MiniMax Joins China AI Fundraising Rush | The China Show 7/10/2026",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Haidi Stroud-Watts and Stephen Engle give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/the-china-show-7-10-2026-video",
-    "published": "Fri, 10 Jul 2026 06:27:13 GMT",
+    "id": "881a6a0658ad",
+    "title": "Spain’s Cuerpo Touts US Business Ties to Diffuse Trump Tensions",
+    "summary": "Spain is striving to strengthen business links with the US, despite tensions with Donald Trump, according to Economy and Trade Minister Carlos Cuerpo.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/spain-s-cuerpo-touts-us-business-ties-to-diffuse-trump-tensions",
+    "published": "Fri, 10 Jul 2026 09:34:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912474"
+    "fetched_at": "2026-07-10T11:57:01.417995"
   },
   {
-    "id": "ca3786c462b9",
-    "title": "Volkswagen Plans to Cut Model Lineup by as Much as 50%",
-    "summary": "Volkswagen plans to cut its sprawling model lineup by as much as 50% as part of a savings push. It comes after a supervisory board meeting stopped short of agreeing on deeper workforce reductions at the German automaker. Bloomberg's Elisabeth Behrmann reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/volkswagen-plans-to-cut-model-lineup-by-as-much-as-50-video",
-    "published": "Fri, 10 Jul 2026 06:23:18 GMT",
+    "id": "f0bd60431b58",
+    "title": "Aluminum Declines as EGA Restarts Key Alumina Refinery in UAE",
+    "summary": "Aluminum fell after Emirates Global Aluminium said it restarted a key alumina plant in Abu Dhabi that was attacked in the early stages of the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/copper-heads-for-weekly-gain-as-traders-look-past-iran-flare-up",
+    "published": "Fri, 10 Jul 2026 02:05:06 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-10T08:51:17.912479"
+    "fetched_at": "2026-07-10T11:57:01.417999"
+  },
+  {
+    "id": "1ccea9c2293e",
+    "title": "UAE’s Oil Output Surged to Record High in June, IEA Says",
+    "summary": "The United Arab Emirates boosted crude oil production to an all-time high last month, the most compelling evidence yet of how Abu Dhabi responded more boldly than any of its Persian Gulf neighbors to disruption caused by the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uae-s-oil-output-hit-record-high-in-june-iea-says",
+    "published": "Fri, 10 Jul 2026 08:00:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.418004"
+  },
+  {
+    "id": "af6705feb5e7",
+    "title": "Carry Trades Face Best Conditions Since 2000, Goldman Says",
+    "summary": "Carry trades &mdash; one of the most widely-used strategies in the $9.5 trillion-per-day currency market &mdash; are seeing the most compelling backdrop in more than two decades, according to Goldman Sachs Group Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/carry-trades-face-best-conditions-since-2000-goldman-sachs-says",
+    "published": "Fri, 10 Jul 2026 05:00:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.418009"
+  },
+  {
+    "id": "10820bc11930",
+    "title": "Apollo Approaches Record Spend With EasyJet and Bayer Deals",
+    "summary": "Apollo Global Management Inc. is on course for a record year of acquisitions at a time when many of its private equity peers are struggling to deploy capital.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/apollo-approaches-record-spend-with-easyjet-bayer-deals",
+    "published": "Fri, 10 Jul 2026 09:01:30 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.418014"
+  },
+  {
+    "id": "946c87c12688",
+    "title": "Cantor Opens Milan Office in Push to Land More European Deals",
+    "summary": "Cantor Fitzgerald LP is setting up an investment banking office in Milan and hired veteran banker Clarence Nahan to lead its expansion across Southern Europe, as the Wall Street firm sees untapped advisory opportunities in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/cantor-opens-milan-office-in-push-to-land-more-european-deals",
+    "published": "Fri, 10 Jul 2026 09:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-10T11:57:01.418019"
   }
 ]
