@@ -1,5 +1,75 @@
 [
   {
+    "id": "076134458019",
+    "title": "Bloomberg Daybreak Weekend: US CPI Preview (Podcast)",
+    "title_cn": "彭博黎明周末：美国 CPI 预览（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-daybreak-weekend-us-cpi-preview-podcast",
+    "published": "Fri, 10 Jul 2026 18:30:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:52.444321"
+  },
+  {
+    "id": "b840cfc73eff",
+    "title": "Week Ahead: JPMorgan Chase, United Airlines, Netflix (Podcast)",
+    "title_cn": "未来一周：摩根大通、联合航空、Netflix（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/week-ahead-jpmorgan-chase-united-airlines-netflix-podcast",
+    "published": "Fri, 10 Jul 2026 18:22:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:53.323034"
+  },
+  {
+    "id": "8fe0e83693b7",
+    "title": "Trump: Cease Fire Over, SK Hynix Has Bigger US Investment Plan",
+    "title_cn": "特朗普：停火，SK海力士有更大的美国投资计划",
+    "summary": "Source: Bloomberg, 4:42",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-cease-fire-over-sk-hynix-has-bigger-us-investment-plan-mrf93nln",
+    "published": "Fri, 10 Jul 2026 18:10:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:53.689048"
+  },
+  {
+    "id": "c402b38d53de",
+    "title": "SK Hynix Climbs 15% After Record $26.5 Billion US Offering",
+    "title_cn": "SK 海力士在美国发行创纪录的 265 亿美元股票后股价上涨 15%",
+    "summary": "SK Hynix Inc.’s American depositary receipts jumped 15% above their offering price, after the South Korean memory chipmaker raised $26.5 billion in the largest-ever US listing by a foreign company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering",
+    "published": "Fri, 10 Jul 2026 13:56:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:53.829102"
+  },
+  {
+    "id": "039303a72adc",
+    "title": "Trump Says Iran Cease Fire is Over, SK Hynix Rallies in US Debut",
+    "title_cn": "特朗普称伊朗停火已经结束，SK海力士在美国首秀上涨",
+    "summary": "Source: Bloomberg, 4:35",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-says-iran-cease-fire-is-over-sk-hynix-rallies-in-us-debut",
+    "published": "Fri, 10 Jul 2026 17:23:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:54.326124"
+  },
+  {
+    "id": "404235bfb5c9",
+    "title": "Bloomberg Tech: SK Hynix Starts Trading on Nasdaq (Podcast)",
+    "title_cn": "彭博科技：SK 海力士开始在纳斯达克交易（播客）",
+    "summary": "Source: Bloomberg, 43:57",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-tech-sk-hynix-starts-trading-on-nasdaq-podcast",
+    "published": "Fri, 10 Jul 2026 17:15:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:56.365013"
+  },
+  {
+    "id": "15bbc3c24345",
+    "title": "Bloomberg Intelligence: SK Hynix ADRs Jump on US Debut (Podcast)",
+    "title_cn": "彭博资讯：SK 海力士美国存托凭证在美国上市后大幅上涨（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-intelligence-sk-hynix-adrs-jump-on-us-debut-podcast",
+    "published": "Fri, 10 Jul 2026 17:04:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:45:57.547063"
+  },
+  {
     "id": "a9d51bcd9928",
     "title": "Ryanair Travel Nightmare Unfolds Over Greece",
     "title_cn": "瑞安航空旅行噩梦在希腊上演",
@@ -7,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/ryanair-travel-nightmare-unfolds-over-greece",
     "published": "Fri, 10 Jul 2026 16:54:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:37.991039"
+    "fetched_at": "2026-07-10T18:45:58.241141"
   },
   {
     "id": "2c700b9b44b6",
@@ -17,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/why-rogers-bought-larry-tanenbaum-s-mlse-stake-and-what-s-next-for-sports-empire",
     "published": "Fri, 10 Jul 2026 16:40:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.107049"
+    "fetched_at": "2026-07-10T18:45:58.376037"
   },
   {
     "id": "56bd9fee59d6",
@@ -27,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-cease-fire-over-sk-hynix-has-bigger-us-investment-plan",
     "published": "Fri, 10 Jul 2026 16:39:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.231817"
+    "fetched_at": "2026-07-10T18:45:58.493782"
   },
   {
     "id": "6da3581bd383",
@@ -37,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/the-date-is-set-for-farage-versus-the-count-the-readout",
     "published": "Fri, 10 Jul 2026 16:35:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.342178"
+    "fetched_at": "2026-07-10T18:45:58.599243"
   },
   {
     "id": "ee16cfa762d1",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-business-of-sports-us-world-cup-dream-ends-podcast",
     "published": "Fri, 10 Jul 2026 16:24:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.467790"
+    "fetched_at": "2026-07-10T18:45:59.194611"
   },
   {
     "id": "a67d008ecb9b",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/carmakers-defeat-most-allegations-in-uk-dieselgate-class-action",
     "published": "Fri, 10 Jul 2026 15:04:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.562064"
+    "fetched_at": "2026-07-10T18:45:59.646267"
   },
   {
     "id": "8a3c5dbfb406",
@@ -67,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/miner-erg-weighs-breakup-to-split-assets-between-its-owners",
     "published": "Fri, 10 Jul 2026 16:13:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.700498"
+    "fetched_at": "2026-07-10T18:45:59.804172"
   },
   {
     "id": "ba6ae91ebccc",
@@ -77,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-surveillance-tv-july-10th-2026-podcast",
     "published": "Fri, 10 Jul 2026 16:07:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:38.816737"
+    "fetched_at": "2026-07-10T18:45:59.927022"
   },
   {
     "id": "94c2c4c55cd0",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-tech-chey-tae-won-podcast",
     "published": "Fri, 10 Jul 2026 16:06:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.007706"
+    "fetched_at": "2026-07-10T18:46:01.295867"
   },
   {
     "id": "c72a1960ee79",
@@ -97,7 +167,7 @@
     "link": "https://www.bloomberg.com/opinion/newsletters/2026-07-10/sports-gambling-etf",
     "published": "Fri, 10 Jul 2026 15:59:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.119146"
+    "fetched_at": "2026-07-10T18:46:02.588629"
   },
   {
     "id": "c0e30ac8096a",
@@ -107,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/trump-says-iran-cease-fire-is-over-sk-hynix-trading-in-us-more",
     "published": "Fri, 10 Jul 2026 15:56:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.250048"
+    "fetched_at": "2026-07-10T18:46:03.752842"
   },
   {
     "id": "1b3d683ba6e3",
@@ -117,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-meta-robinhood-delta-podcast",
     "published": "Fri, 10 Jul 2026 15:47:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.359046"
+    "fetched_at": "2026-07-10T18:46:04.645694"
   },
   {
     "id": "d91caeda33f5",
@@ -127,7 +197,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/delayed-xbox-layoffs-leave-employees-scared-and-nervous",
     "published": "Fri, 10 Jul 2026 15:45:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.606078"
+    "fetched_at": "2026-07-10T18:46:04.772100"
   },
   {
     "id": "f2aacb8e362b",
@@ -137,17 +207,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-chey-tae-won-podcast-mrf3rqgu",
     "published": "Fri, 10 Jul 2026 15:40:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.770816"
-  },
-  {
-    "id": "c402b38d53de",
-    "title": "SK Hynix ADRs Surge 14% After Record $26.5 Billion US Offering",
-    "title_cn": "SK 海力士美国存托凭证 (ADR) 在创纪录的 265 亿美元美国发行后飙升 14%",
-    "summary": "SK Hynix Inc.’s American depositary receipts surged 14% above their offering price, after the South Korean memory chipmaker raised $26.5 billion in the largest-ever US listing by a foreign company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-indicated-to-climb-17-after-26-5-billion-adr-offering",
-    "published": "Fri, 10 Jul 2026 13:56:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.885857"
+    "fetched_at": "2026-07-10T18:46:05.526374"
   },
   {
     "id": "f17f6173e040",
@@ -157,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-chey-tae-won-podcast",
     "published": "Fri, 10 Jul 2026 15:36:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:39.996140"
+    "fetched_at": "2026-07-10T18:46:05.658587"
   },
   {
     "id": "d71b62dbe862",
@@ -167,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-marques-colston-podcast",
     "published": "Fri, 10 Jul 2026 15:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:40.190609"
+    "fetched_at": "2026-07-10T18:46:06.845271"
   },
   {
     "id": "fc65200f23fb",
@@ -177,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-surveillance-markets-and-ai-podcast",
     "published": "Fri, 10 Jul 2026 15:03:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:40.308793"
+    "fetched_at": "2026-07-10T18:46:08.135701"
   },
   {
     "id": "60866a71a54b",
@@ -187,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/bloomberg-talks-george-noble-podcast",
     "published": "Fri, 10 Jul 2026 15:02:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.179156"
+    "fetched_at": "2026-07-10T18:46:09.211541"
   },
   {
     "id": "8a868ff045ed",
@@ -197,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/money-stuff-podcast-paid-in-eggs",
     "published": "Fri, 10 Jul 2026 14:57:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.289927"
+    "fetched_at": "2026-07-10T18:46:10.039746"
   },
   {
     "id": "b0f6fd1c6fad",
@@ -207,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-10/sk-hynix-indicated-to-climb-21-trump-says-iran-ceasefire-over",
     "published": "Fri, 10 Jul 2026 14:47:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.430372"
+    "fetched_at": "2026-07-10T18:46:11.232066"
   },
   {
     "id": "8413d994cda9",
@@ -217,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/memo-details-why-the-us-stopped-making-pennies",
     "published": "Fri, 10 Jul 2026 14:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.542886"
+    "fetched_at": "2026-07-10T18:46:11.354044"
   },
   {
     "id": "6595712807b8",
@@ -227,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/ai-data-center-power-hunt-pushes-facilities-into-tornado-zones",
     "published": "Fri, 10 Jul 2026 14:03:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.682181"
+    "fetched_at": "2026-07-10T18:46:11.485787"
   },
   {
     "id": "ec4b76c331c7",
@@ -237,67 +297,77 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/stocks-high-at-open-sk-hynix-to-debut-trump-on-housing-more",
     "published": "Fri, 10 Jul 2026 13:51:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.831145"
+    "fetched_at": "2026-07-10T18:46:11.599461"
   },
   {
-    "id": "8a91acfed9bf",
-    "title": "Vista-Backed Finastra Looks Past Divestitures for Next Deal Moves",
-    "title_cn": "Vista 支持的 Finastra 考虑通过资产剥离进行下一步交易",
-    "summary": "CEO Chris Walters took over 18 months ago and says the slimmed down company is now focused on lending and payments.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/vista-backed-finastra-looks-past-divestitures-for-next-deal-moves",
-    "published": "Fri, 10 Jul 2026 13:46:13 GMT",
+    "id": "49a046b7be55",
+    "title": "Trump Says Ceasefire With Iran Is Over",
+    "title_cn": "特朗普表示与伊朗的停火已经结束",
+    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. James Jeffrey, former US ambassador to Iraq and Turkey, talks about Trump's objectives in Iran and why the US is targeting infrastructure. He speaks on \"Balance of Power.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video",
+    "published": "Fri, 10 Jul 2026 18:26:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:41.959168"
+    "fetched_at": "2026-07-10T18:46:12.116251"
   },
   {
-    "id": "f407f2885f5a",
-    "title": "Stock Movers: DAL, EZJ, WDFC (Podcast)",
-    "title_cn": "库存推动者：DAL、EZJ、WDFC（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-10/stock-movers-dal-ezj-wdfc-podcast",
-    "published": "Fri, 10 Jul 2026 13:37:49 GMT",
+    "id": "76426575e5e7",
+    "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
+    "title_cn": "特朗普不会签署住房法案，但会允许其成为法律",
+    "summary": "President Donald Trump said he would not sign a bipartisan housing bill in protest over lawmakers declining to approve a separate voter-ID bill he has prioritized. Bloomberg's Tyler Kendall joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-he-won-t-sign-housing-bill-video",
+    "published": "Fri, 10 Jul 2026 18:25:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:42.076444"
+    "fetched_at": "2026-07-10T18:46:12.672956"
   },
   {
-    "id": "eacdc0fe6605",
-    "title": "SoftBank Said to Consider Buying Stake in Retailer Seven &amp; i",
-    "title_cn": "软银表示考虑购买零售商七号和六号的股份我",
-    "summary": "SoftBank Corp. and PayPay Corp. are considering buying a stake worth several hundred billion yen in Seven &amp; i Holdings Co., people familiar with the matter said, in a deal that would unite Japan’s dominant payments operator with its biggest convenience store operator.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/softbank-considers-stake-in-seven-i-to-boost-ai-payments",
-    "published": "Fri, 10 Jul 2026 08:49:18 GMT",
+    "id": "f0bd60431b58",
+    "title": "Aluminum Declines as EGA Restarts Key Alumina Refinery in UAE",
+    "title_cn": "EGA 重启阿联酋主要氧化铝精炼厂，铝价下跌",
+    "summary": "Aluminum fell after Emirates Global Aluminium said it restarted a key alumina plant in Abu Dhabi that was attacked in the early stages of the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/copper-heads-for-weekly-gain-as-traders-look-past-iran-flare-up",
+    "published": "Fri, 10 Jul 2026 02:05:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:42.500948"
+    "fetched_at": "2026-07-10T18:46:12.844294"
   },
   {
-    "id": "9c75516178b1",
-    "title": "Cautious Shoppers Are Getting Their Retail Fix With Shrunken-Sized Finds",
-    "title_cn": "谨慎的购物者正在通过缩小尺寸的商品来解决零售问题",
-    "summary": "Tiny bags and miniature appliances are finding wide appeal.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/cautious-shoppers-are-seeking-out-mini-sized-merchandise",
-    "published": "Fri, 10 Jul 2026 13:12:42 GMT",
+    "id": "bb5639db5b9b",
+    "title": "Stocks Eke Out Gains as SK Hynix Rallies in Debut: Markets Wrap",
+    "title_cn": "SK 海力士首次亮相，股市继续上涨：市场结束",
+    "summary": "Wall Street traders drove stocks mildly higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market parsing the latest geopolitical developments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 09 Jul 2026 22:08:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:42.645953"
+    "fetched_at": "2026-07-10T18:46:12.976551"
   },
   {
-    "id": "6be3d2cf6818",
-    "title": "Hidden Debt Crisis Derails Senegal’s Growth Story",
-    "title_cn": "隐性债务危机破坏塞内加尔的增长故事",
-    "summary": "The saga has become a source of political tension between its two top leaders.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/next-africa-hidden-debt-crisis-derails-senegal-s-growth-story",
-    "published": "Fri, 10 Jul 2026 13:00:10 GMT",
+    "id": "967f1e83f105",
+    "title": "Nasdaq Says SK Hynix Bonanza Opens Path to More Foreign Listings",
+    "title_cn": "纳斯达克表示 SK 海力士 Bonanza 为更多海外上市开辟了道路",
+    "summary": "Nasdaq Inc. President Nelson Griggs said SK Hynix Inc.’s blockbuster listing is spurring other international companies to consider the US for either initial public offerings or the sales of American depositary receipts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/nasdaq-says-sk-hynix-bonanza-opens-path-to-more-foreign-listings",
+    "published": "Fri, 10 Jul 2026 17:45:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:42.755437"
+    "fetched_at": "2026-07-10T18:46:13.298655"
   },
   {
-    "id": "3176db2447a9",
-    "title": "Spain Renews Push for More Joint EU Debt",
-    "title_cn": "西班牙再次推动更多欧盟联合债务",
-    "summary": "Germany leads nations opposed to additional common borrowing",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/spain-pushes-joint-debt-plan-in-brussels-but-meets-resistance",
-    "published": "Fri, 10 Jul 2026 13:00:01 GMT",
+    "id": "dca6bf86fc3e",
+    "title": "BHP Explores Sale of Chilean Desalination Plant, Power Lines",
+    "title_cn": "必和必拓探索出售智利海水淡化厂和输电线",
+    "summary": "BHP Group is exploring the sale of a desalination plant in Chile, along with its electricity transmission assets, extending a strategy of monetizing infrastructure as the world’s biggest miner concentrates capital on its core copper business, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/bhp-explores-sale-of-chilean-desalination-plant-power-lines",
+    "published": "Fri, 10 Jul 2026 17:42:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:42.875833"
+    "fetched_at": "2026-07-10T18:46:13.413864"
+  },
+  {
+    "id": "66003cfd49b0",
+    "title": "Wheat Soars as Ukraine Attacks on Russia Seen as Export Risk",
+    "title_cn": "乌克兰袭击俄罗斯被视为出口风险，小麦价格飙升",
+    "summary": "Wheat prices jumped Friday as traders weighed potential shipping disruptions following Ukraine’s attacks on top exporter Russia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/corn-steadies-ahead-of-key-us-supply-report-as-heat-threats-ease",
+    "published": "Fri, 10 Jul 2026 04:07:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:13.527578"
   },
   {
     "id": "7d95041a3a7e",
@@ -307,17 +377,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-he-has-much-much-bigger-us-investment-plan",
     "published": "Fri, 10 Jul 2026 15:22:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.168775"
+    "fetched_at": "2026-07-10T18:46:13.646253"
   },
   {
     "id": "6cea26cc39b8",
     "title": "Sports Bet Pays Off as Omers Reaps Nearly 60% Gain on MLSE",
     "title_cn": "体育投注获得回报，Omers 在 MLSE 上获得近 60% 的收益",
-    "summary": "Ontario’s pension fund for government workers generated a return of close to 60% in less than three years on an bet tied to Toronto’s major league sports teams, vindicating an investment that was initially viewed as pricey.",
+    "summary": "Ontario’s pension fund for government workers generated a return of close to 60% in less than three years on a bet tied to Toronto’s major league sports teams, vindicating an investment that was initially viewed as pricey.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/omers-scores-50-gain-on-toronto-sports-bet-as-rogers-buys-rest-of-mlse",
     "published": "Fri, 10 Jul 2026 14:48:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.330008"
+    "fetched_at": "2026-07-10T18:46:13.773254"
   },
   {
     "id": "0c64aebe2a24",
@@ -327,17 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/latest-oil-market-news-and-analysis-for-july-10",
     "published": "Thu, 09 Jul 2026 22:04:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.428803"
-  },
-  {
-    "id": "bb5639db5b9b",
-    "title": "Stocks Eke Out Gains as SK Hynix Rallies in Debut: Markets Wrap",
-    "title_cn": "SK 海力士首次亮相，股市继续上涨：市场结束",
-    "summary": "Wall Street traders drove stocks mildly higher in the countdown to the earnings season, with SK Hynix Inc. jumping in its debut and the market also parsing the latest geopolitical developments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 09 Jul 2026 22:08:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.542894"
+    "fetched_at": "2026-07-10T18:46:13.902545"
   },
   {
     "id": "9f6f7d66afdd",
@@ -347,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/open-interest-7-10-2026-video",
     "published": "Fri, 10 Jul 2026 16:21:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.658706"
+    "fetched_at": "2026-07-10T18:46:14.036727"
   },
   {
     "id": "1d2bddc609c3",
@@ -357,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/traders-hedge-for-fx-volatility-return-as-fed-uncertainty-builds",
     "published": "Fri, 10 Jul 2026 10:09:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.750826"
+    "fetched_at": "2026-07-10T18:46:14.206982"
   },
   {
     "id": "6e42465de3a1",
@@ -367,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sports-investing-made-accessible-for-everyone-video",
     "published": "Fri, 10 Jul 2026 16:06:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:48.985629"
+    "fetched_at": "2026-07-10T18:46:14.453838"
   },
   {
     "id": "b86ee526e21c",
@@ -377,17 +437,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/the-stock-market-and-a-phenomena-of-our-lifetimes",
     "published": "Fri, 10 Jul 2026 16:04:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.182284"
+    "fetched_at": "2026-07-10T18:46:14.567810"
   },
   {
-    "id": "66003cfd49b0",
-    "title": "Wheat Surges as Traders Assess Ukraine Attacks on Russia",
-    "title_cn": "交易商评估乌克兰对俄罗斯的袭击，小麦价格飙升",
-    "summary": "Wheat prices jumped Friday as traders weighed potential shipping disruptions following Ukraine’s attacks on top wheat exporter Russia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/corn-steadies-ahead-of-key-us-supply-report-as-heat-threats-ease",
-    "published": "Fri, 10 Jul 2026 04:07:17 GMT",
+    "id": "0aaf5d265a77",
+    "title": "Bloomberg Surveillance 7/10/2026",
+    "title_cn": "彭博社监测 2026 年 7 月 10 日",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-surveillance-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 16:00:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.303230"
+    "fetched_at": "2026-07-10T18:46:14.698105"
   },
   {
     "id": "f52758077521",
@@ -397,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/delta-travel-demand-withstands-fuel-costs-video",
     "published": "Fri, 10 Jul 2026 15:47:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.444429"
+    "fetched_at": "2026-07-10T18:46:14.825425"
   },
   {
     "id": "2f50479b9a9f",
@@ -407,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-stock-futures-slip-after-tech-rally-sk-hynix-starts-trading",
     "published": "Fri, 10 Jul 2026 11:53:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.542115"
+    "fetched_at": "2026-07-10T18:46:14.962008"
   },
   {
     "id": "712932f5d432",
@@ -417,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/jpmorgan-builds-ai-agents-that-beat-60-40-portfolio-in-backtests",
     "published": "Thu, 09 Jul 2026 23:00:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.770581"
+    "fetched_at": "2026-07-10T18:46:15.086667"
   },
   {
     "id": "d012ace5cf4f",
@@ -427,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-open-to-issuing-more-us-shares-sk-group-chairman-says",
     "published": "Fri, 10 Jul 2026 15:12:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:49.867292"
+    "fetched_at": "2026-07-10T18:46:15.208480"
   },
   {
     "id": "02a9130a9214",
@@ -437,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/cazetv-febre-da-copa-e-alvo-de-escrutinio-por-bets-video",
     "published": "Fri, 10 Jul 2026 15:04:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.002412"
+    "fetched_at": "2026-07-10T18:46:15.322206"
   },
   {
     "id": "d5e9442d38ff",
@@ -447,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/delta-up-on-profit-guidance-easyjet-moves-on-apollo-bid-video",
     "published": "Fri, 10 Jul 2026 14:57:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.117648"
+    "fetched_at": "2026-07-10T18:46:15.445378"
   },
   {
     "id": "24b07eef6816",
@@ -457,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/easyjet-gets-rival-offer-from-apollo-that-beats-castlelake-bid",
     "published": "Fri, 10 Jul 2026 06:07:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.231132"
+    "fetched_at": "2026-07-10T18:46:15.578104"
   },
   {
     "id": "fe2f1fcc02dd",
@@ -467,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/europeans-are-changing-saving-habits-to-invest-more-ing-says",
     "published": "Fri, 10 Jul 2026 14:48:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.354052"
+    "fetched_at": "2026-07-10T18:46:15.709630"
   },
   {
     "id": "5abddc49fd9b",
@@ -477,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/americans-are-stuck-in-a-rut-and-a-lack-of-fun-might-be-to-blame",
     "published": "Fri, 10 Jul 2026 14:39:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.799876"
+    "fetched_at": "2026-07-10T18:46:15.843997"
   },
   {
     "id": "e10626dfe2df",
@@ -487,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/gold-steadies-as-traders-weigh-mideast-fighting-rate-outlook",
     "published": "Thu, 09 Jul 2026 23:03:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:50.928044"
+    "fetched_at": "2026-07-10T18:46:15.972896"
   },
   {
     "id": "faab91deb79f",
@@ -497,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/cencosud-shares-tumble-as-strategic-plan-yet-to-boost-earnings",
     "published": "Fri, 10 Jul 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.060793"
+    "fetched_at": "2026-07-10T18:46:16.098936"
   },
   {
     "id": "d17b304b4a81",
@@ -507,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/morgan-stanley-sees-pressure-rising-on-chipmakers-pricing-power",
     "published": "Fri, 10 Jul 2026 14:13:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.211381"
+    "fetched_at": "2026-07-10T18:46:16.232900"
   },
   {
     "id": "df290242e718",
@@ -517,67 +577,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/la-dette-cachee-freine-le-developpement-du-senegal-next-africa",
     "published": "Fri, 10 Jul 2026 14:00:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.324494"
+    "fetched_at": "2026-07-10T18:46:16.364237"
   },
   {
-    "id": "0915ace1cfed",
-    "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
-    "title_cn": "SpaceX 首次公开募股一个月后，特斯拉股价保持坚挺",
-    "summary": "In the weeks leading up to SpaceX’s monster IPO, many Wall Street pros feared the deal represented an existential threat for Elon Musk’s other giant, Tesla Inc. But after a month in the stock market, the outcome is far from clear.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
-    "published": "Fri, 10 Jul 2026 11:00:01 GMT",
+    "id": "de240b3735d4",
+    "title": "SK Hynix CEO Expects Memory Crunch to Last Into Next Decade",
+    "title_cn": "SK 海力士首席执行官预计内存短缺将持续到下一个十年",
+    "summary": "The memory-chip shortages that are roiling the computer, car and device markets will probably persist beyond 2030, according to SK Hynix Inc. Chief Executive Officer Kwak Noh-Jung.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-chief-expects-memory-shortage-to-last-into-next-decade",
+    "published": "Fri, 10 Jul 2026 17:42:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.494901"
+    "fetched_at": "2026-07-10T18:46:17.086132"
   },
   {
-    "id": "8652ac4d5a76",
-    "title": "Prediction Market Bets Surge on World Cup Mania",
-    "title_cn": "预测市场对世界杯狂热的投注激增",
-    "summary": "Rabid interest in the World Cup has helped to drive more than $3 billion of wagers on a prediction market backed by Robinhood Markets Inc. and Susquehanna International Group, which launched just a few months ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/robinhood-backed-prediction-market-bets-surge-on-world-cup-mania",
-    "published": "Fri, 10 Jul 2026 13:12:33 GMT",
+    "id": "9276abbad850",
+    "title": "SK Hynix Starts Trading on Nasdaq, Opens 14% Above Offer Price | Bloomberg Tech 7/10/2026",
+    "title_cn": "SK 海力士开始在纳斯达克交易，开盘价较发行价高出 14% |彭博科技 2026 年 7 月 10 日",
+    "summary": "Ed Ludlow sits down for an interview with SK Group Chairman Chey Tae-won from the Nasdaq to discuss SK Hynix's US listing, the biggest-ever by a foreign company. Meanwhile, Bloomberg’s David Gura takes a look at SK Hynix shares as they start trading on the Nasdaq, and dives deeper into the listing's impact on the rest of the US chip sector. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-tech-7-10-2026-video",
+    "published": "Fri, 10 Jul 2026 17:36:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.628357"
-  },
-  {
-    "id": "e42b12781c9c",
-    "title": "SK Hynix Set to Make Record-Setting US Debut",
-    "title_cn": "SK 海力士将在美国首秀创纪录",
-    "summary": "SK Hynix Inc. raised $26.5 billion in its American depositary share offering, the largest ever US first-time share sale by a foreign company. Bloomberg's Ed Ludlow reports.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-set-to-make-record-setting-us-debut-video",
-    "published": "Fri, 10 Jul 2026 13:11:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.767611"
-  },
-  {
-    "id": "d3b910be31e5",
-    "title": "Retail Traders Chase Shiny Objects But Refuse to Bet on S&amp;P 500",
-    "title_cn": "零售交易商追逐闪亮的物品但拒绝押注标准普尔 500 指数",
-    "summary": "Retail traders, some of the staunchest supporters of the stock market this decade, are showing signs of waning conviction.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/retail-traders-chase-shiny-objects-but-refuse-to-bet-on-s-p-500",
-    "published": "Fri, 10 Jul 2026 12:59:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:51.885333"
-  },
-  {
-    "id": "dda30c64355d",
-    "title": "AlphaQuest Founder Lost Control at Quant Fund, Investor Alleges",
-    "title_cn": "投资者称 AlphaQuest 创始人失去了对量化基金的控制",
-    "summary": "AlphaQuest founder Nigol Koulajian admitted losing control of trading at his $2 billion quantitative hedge fund before announcing plans to shut it down, an institutional investor claimed in a lawsuit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/alphaquest-founder-lost-control-at-quant-fund-investor-alleges",
-    "published": "Fri, 10 Jul 2026 12:48:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.001908"
-  },
-  {
-    "id": "e795ebafce23",
-    "title": "Macro Hedge Fund Deem Raised $1 Billion From Abu Dhabi’s ADIC",
-    "title_cn": "宏观对冲基金 Deem 从阿布扎比 ADIC 筹集 10 亿美元",
-    "summary": "Asfandyar Nadeem’s hedge fund has received about $1 billion in new capital from an Abu Dhabi investor, amid a surge in appetite for macro strategies and as the Gulf city accelerates its drive to become a key backer of the industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uae-macro-hedge-fund-deem-raised-1-billion-from-abu-dhabi-s-adic",
-    "published": "Fri, 10 Jul 2026 12:48:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.104149"
+    "fetched_at": "2026-07-10T18:46:18.032558"
   },
   {
     "id": "12cab140543e",
@@ -587,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/nasdaq-sees-sk-listing-growing-foreign-ipo-pipeline-video",
     "published": "Fri, 10 Jul 2026 16:55:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.459534"
+    "fetched_at": "2026-07-10T18:46:18.181533"
   },
   {
     "id": "58c65c002d89",
@@ -597,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-hynix-adrs-surge-after-record-26-billion-us-offering-video",
     "published": "Fri, 10 Jul 2026 16:35:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.675951"
+    "fetched_at": "2026-07-10T18:46:18.427870"
   },
   {
     "id": "1e9b9178bc75",
@@ -607,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/us-eases-export-curbs-on-uae-opening-door-for-ai-chip-sales",
     "published": "Fri, 10 Jul 2026 16:21:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.782332"
+    "fetched_at": "2026-07-10T18:46:18.565852"
   },
   {
     "id": "71a5a28962f5",
@@ -617,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-on-sk-hynix-debut-ai-demand-and-us-plans-video",
     "published": "Fri, 10 Jul 2026 16:10:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:52.918798"
+    "fetched_at": "2026-07-10T18:46:18.667305"
   },
   {
     "id": "ead2676bc15d",
@@ -627,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/egba-seeks-probe-of-walletto-over-unlicensed-gambling-payments",
     "published": "Fri, 10 Jul 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:53.056060"
+    "fetched_at": "2026-07-10T18:46:18.800142"
   },
   {
     "id": "003c24e7e300",
@@ -637,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/thornburg-s-di-zhou-sees-memory-supercycle-video",
     "published": "Fri, 10 Jul 2026 15:59:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:53.173086"
+    "fetched_at": "2026-07-10T18:46:18.921768"
   },
   {
     "id": "8d7b980911b5",
@@ -647,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-much-much-bigger-us-investment-plan-video",
     "published": "Fri, 10 Jul 2026 15:38:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:53.400995"
+    "fetched_at": "2026-07-10T18:46:19.156085"
   },
   {
     "id": "56d8ee10410e",
@@ -657,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/sk-chairman-says-company-may-offer-memory-as-a-service",
     "published": "Fri, 10 Jul 2026 15:18:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:53.679496"
+    "fetched_at": "2026-07-10T18:46:19.275846"
   },
   {
     "id": "5ef38c050e40",
@@ -667,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-has-some-confidence-demand-will-grow-video",
     "published": "Fri, 10 Jul 2026 15:21:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:53.781398"
+    "fetched_at": "2026-07-10T18:46:19.396422"
   },
   {
     "id": "8fbc7ca6c764",
@@ -677,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/gov-action-vital-for-ai-entrepreneurs-says-pelgo-ceo-video",
     "published": "Fri, 10 Jul 2026 15:08:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.026783"
+    "fetched_at": "2026-07-10T18:46:19.632686"
   },
   {
     "id": "7335be5da56d",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/ai-bust-would-be-worse-than-dot-com-bubble-says-noble-video",
     "published": "Fri, 10 Jul 2026 15:05:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.152496"
+    "fetched_at": "2026-07-10T18:46:19.753648"
   },
   {
     "id": "21faccdae441",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/sk-chairman-calls-sk-hynix-us-debut-a-dream-come-true-video",
     "published": "Fri, 10 Jul 2026 15:03:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.291129"
+    "fetched_at": "2026-07-10T18:46:19.881116"
   },
   {
     "id": "586c24d097c0",
@@ -707,7 +727,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/semiconductor-stocks-are-overbought-lisa-shalett-warns-video",
     "published": "Fri, 10 Jul 2026 14:21:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.401642"
+    "fetched_at": "2026-07-10T18:46:20.040296"
+  },
+  {
+    "id": "0915ace1cfed",
+    "title": "A Month After SpaceX IPO, Tesla’s Stock Keeps Holding Its Ground",
+    "title_cn": "SpaceX 首次公开募股一个月后，特斯拉股价保持坚挺",
+    "summary": "In the weeks leading up to SpaceX’s monster IPO, many Wall Street pros feared the deal represented an existential threat for Elon Musk’s other giant, Tesla Inc. But after a month in the stock market, the outcome is far from clear.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/a-month-after-spacex-ipo-tesla-s-stock-keeps-holding-its-ground",
+    "published": "Fri, 10 Jul 2026 11:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:20.280946"
   },
   {
     "id": "c986486bff88",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/europe-s-space-race-bloomberg-tech-europe-7-10-2026-video",
     "published": "Fri, 10 Jul 2026 09:18:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.761971"
+    "fetched_at": "2026-07-10T18:46:20.394118"
   },
   {
     "id": "c1819676e726",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/raytheon-and-rheinmetall-anchor-ai-training-effort-for-uk-army",
     "published": "Fri, 10 Jul 2026 12:48:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:54.897194"
+    "fetched_at": "2026-07-10T18:46:20.528730"
   },
   {
     "id": "f274ebece9c8",
@@ -737,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/eu-escalates-meta-probe-over-addictive-design-that-hooks-children",
     "published": "Fri, 10 Jul 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.019615"
+    "fetched_at": "2026-07-10T18:46:20.661399"
   },
   {
     "id": "0374460b5fbb",
@@ -747,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/novogratz-morphs-galaxy-into-ai-landlord-one-gigawatt-at-a-time",
     "published": "Fri, 10 Jul 2026 12:01:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.163269"
+    "fetched_at": "2026-07-10T18:46:20.790184"
   },
   {
     "id": "c199b5c8eb06",
@@ -757,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/echostar-bulls-say-it-offers-traders-discounted-spacex-exposure",
     "published": "Fri, 10 Jul 2026 12:00:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.257919"
+    "fetched_at": "2026-07-10T18:46:20.946731"
   },
   {
     "id": "59b805c2892d",
@@ -767,7 +797,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/wayve-staff-sold-stock-at-10-discount-on-lse-s-pisces-exchange",
     "published": "Thu, 09 Jul 2026 18:22:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.369636"
+    "fetched_at": "2026-07-10T18:46:21.094567"
   },
   {
     "id": "4ce3abde1b00",
@@ -777,7 +807,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/sk-hynix-us-offering-represents-a-pure-play-ai-boom-bet",
     "published": "Fri, 10 Jul 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.508294"
+    "fetched_at": "2026-07-10T18:46:21.228719"
   },
   {
     "id": "ddd8eb03c88d",
@@ -787,7 +817,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/comedians-create-fake-companies-to-mock-ai-ads-on-new-york-london-subways",
     "published": "Fri, 10 Jul 2026 11:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.613631"
+    "fetched_at": "2026-07-10T18:46:21.366629"
   },
   {
     "id": "4299d1dab035",
@@ -797,227 +827,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/sovereign-ai-may-soon-mean-state-owned-models-as-us-eyes-stake-in-openai",
     "published": "Fri, 10 Jul 2026 10:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.714471"
+    "fetched_at": "2026-07-10T18:46:21.484491"
   },
   {
-    "id": "c649e614ce76",
-    "title": "Big Tech Doubles Debt Load to $350 Billion in AI Spending Spree",
-    "title_cn": "大型科技公司在人工智能方面的支出狂潮，债务负担翻了一番，达到 3500 亿美元",
-    "summary": "The largest builders of artificial intelligence data centers have doubled their debt load in the last five years, turning to borrowing to finance an unprecedented spending spree they claim is needed to transform the economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/big-tech-doubles-debt-load-to-350-billion-in-ai-spending-spree",
-    "published": "Fri, 10 Jul 2026 10:30:00 GMT",
+    "id": "bc33f84c82ec",
+    "title": "The Shattering of the Middle East’s Most Unlikely Friendship",
+    "title_cn": "中东最不可能的友谊的破裂",
+    "summary": "<p>Israeli tech titan Eyal Waldman and Palestinian&nbsp;tycoon Bashar Masri were best pals. The Hamas attack and Israel’s response made them bitter enemies.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-10/israel-palestine-conflict-shatters-unlikely-friendship-that-bridged-borders",
+    "published": "Fri, 10 Jul 2026 09:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.854430"
-  },
-  {
-    "id": "00654723007c",
-    "title": "Spain's Cuerpo: 'Window Of Opportunity' For Joint EU Debt",
-    "title_cn": "西班牙库尔波：欧盟联合债务的“机会之窗”",
-    "summary": "Spanish Economy Minister Carlos Cuerpo said he sees a chance to revisit the idea of joint borrowing within the European Union, despite initial skepticism to a proposal he made on the subject this week from member states such as Germany and the Netherlands. Cuerpo made the comments in an exclusive interview with Bloomberg Television's Oliver Crook on Friday. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/cuerpo-window-of-opportunity-for-joint-eu-debt-video",
-    "published": "Fri, 10 Jul 2026 09:50:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:55.968466"
-  },
-  {
-    "id": "839ed33ceb86",
-    "title": "Mexico, Peru Open Door To Restoring Relations After Bitter Political Fight",
-    "title_cn": "墨西哥和秘鲁在激烈的政治斗争后打开恢复关系的大门",
-    "summary": "Keiko Fujimori’s looming inauguration as Peru’s next president is opening a path to repair the Andean nation’s relationship with Mexico, after Lima broke off diplomatic relations last year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/mexico-peru-open-door-to-restoring-relations-after-bitter-political-fight",
-    "published": "Fri, 10 Jul 2026 16:55:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:56.357833"
-  },
-  {
-    "id": "47454c446188",
-    "title": "Congo Tax Agency Seals Glencore Mine Offices in Payment Dispute",
-    "title_cn": "刚果税务局因付款纠纷查封嘉能可矿山办公室",
-    "summary": "Tax authorities in the Democratic Republic of Congo sealed off offices belonging to a Glencore Plc-owned copper mine, escalating a row over payments allegedly owed to the state.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/congo-tax-agency-seals-glencore-mine-offices-in-payment-dispute",
-    "published": "Fri, 10 Jul 2026 15:55:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:56.591957"
-  },
-  {
-    "id": "902fe7f67b8c",
-    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
-    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-iran-ceasefire-over-but-talks-on-deal-to-continue",
-    "published": "Fri, 10 Jul 2026 14:37:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:56.708811"
-  },
-  {
-    "id": "66d94982fc01",
-    "title": "DHS to Create Its Own Airline for Round-The-Clock Deportations",
-    "title_cn": "国土安全部将创建自己的航空公司，提供全天候驱逐出境服务",
-    "summary": "The US government is moving ahead with plans to create its own fleet of government-owned aircraft to bolster deportations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/dhs-wants-to-create-its-own-round-the-clock-deportation-airline",
-    "published": "Fri, 10 Jul 2026 15:27:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:56.820289"
-  },
-  {
-    "id": "3acbc56cafcc",
-    "title": "UK Police Launch Murder Inquiry After Death of Former Conservative Lawmaker",
-    "title_cn": "英国警方在前保守党议员去世后展开谋杀案调查",
-    "summary": "Police launch murder inquiry after death of Ann WiddecombeBy David Hughes, Press Association Political Editor",
-    "link": "https://www.bloomberg.com/en/news/thp/2026-07-10/police-launch-murder-inquiry-after-death-of-ann-widdecombe-mrf2lbo2",
-    "published": "Fri, 10 Jul 2026 15:07:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:56.932579"
-  },
-  {
-    "id": "ff3aafe19702",
-    "title": "New York City Stares Down a Care Crisis as Haitian TPS Expires",
-    "title_cn": "海地 TPS 到期后，纽约市面临护理危机",
-    "summary": "The end of US work authorizations for hundreds of thousands of Haitians is threatening to leave short-staffed nursing homes, hospitals and home-care agencies with even fewer caregivers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/as-haitian-tps-expires-new-york-city-stares-down-a-care-crisis",
-    "published": "Fri, 10 Jul 2026 14:58:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.052141"
-  },
-  {
-    "id": "95bfe054c002",
-    "title": "Iran Supreme Leader to Hold Memorial Ceremony for Slain Father",
-    "title_cn": "伊朗最高领袖将为遇害父亲举行追悼会",
-    "summary": "Iran’s Supreme Leader Mojtaba Khamenei will hold a memorial ceremony for his predecessor and father Ali Khamenei on Friday, his office said, sparking speculation that the Islamic Republic’s top official could make his first public appearance since the war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/iran-supreme-leader-to-hold-memorial-ceremony-for-slain-father-mrf1pwnj",
-    "published": "Fri, 10 Jul 2026 14:43:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.206895"
-  },
-  {
-    "id": "f3bfdd1eb17d",
-    "title": "Qatar Blocks Defense Joint Venture Between VW, Israeli Firm",
-    "title_cn": "卡塔尔阻止大众与以色列公司之间的国防合资企业",
-    "summary": "Qatar’s sovereign wealth fund vetoed a deal for Volkswagen AG to make vehicles supporting Israel’s Iron Dome mobile air-defense system, a plan intended to save hundreds of jobs at one of the German car manufacturer’s sites.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/qatar-blocks-defense-joint-venture-between-vw-and-israeli-firm",
-    "published": "Fri, 10 Jul 2026 13:02:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.313652"
-  },
-  {
-    "id": "0eefd6c36b5d",
-    "title": "Reform UK Decries ‘Smear Campaign’ After Fresh Finance Probe Report",
-    "title_cn": "改革英国谴责新金融调查报告后的“抹黑运动”",
-    "summary": "Reform UK’s deputy leader Richard Tice said his party was being subjected to a “smear campaign” after a newspaper reported that London police are investigating a £500,000 ($671,000) donation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/reform-decries-smear-campaign-after-fresh-finance-probe-report",
-    "published": "Fri, 10 Jul 2026 14:00:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.426391"
-  },
-  {
-    "id": "da99239b8373",
-    "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
-    "title_cn": "特朗普不会签署住房法案，但将允许其成为法律",
-    "summary": "President Donald Trump said he would not sign a bipartisan housing bill in protest over lawmakers declining to approve a separate voter-ID bill he has prioritized.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-he-won-t-sign-housing-bill-keeps-focus-on-voter-id",
-    "published": "Fri, 10 Jul 2026 13:25:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.549078"
-  },
-  {
-    "id": "597375d8d9af",
-    "title": "Hungary Unveils Agency to Recover Lost Orban-Era Assets",
-    "title_cn": "匈牙利成立机构以追回丢失的欧尔班时代资产",
-    "summary": "Hungary’s government unveiled plans for a new investigative authority with the power to prosecute suspects and recover misappropriated public assets, fulfilling one of Prime Minister Peter Magyar’s key anti-corruption pledges.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/hungary-unveils-agency-to-recover-lost-orban-era-assets",
-    "published": "Fri, 10 Jul 2026 13:57:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:57.688862"
-  },
-  {
-    "id": "8e90ad2cd33a",
-    "title": "German Lawmakers Approve Health Bill With Drug-Price Cuts",
-    "title_cn": "德国立法者批准医疗法案并降低药品价格",
-    "summary": "German lawmakers approved a comprehensive overhaul of the country’s statutory health-insurance system that forces drug-price reductions on pharmaceutical companies as part of a wider drive to cut billions of euros in costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/german-lawmakers-approve-health-bill-raising-drugmaker-rebates",
-    "published": "Fri, 10 Jul 2026 09:27:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:58.126659"
-  },
-  {
-    "id": "913ce812def6",
-    "title": "Erdogan’s NATO Gift of Revolvers Runs Into Europe’s Gun Laws",
-    "title_cn": "埃尔多安向北约赠送的左轮手枪违反欧洲枪支法",
-    "summary": "Turkish President Recep Tayyip Erdogan’s parting gift to the NATO leaders he hosted this week was a revolver, and an accidental expose of squeamish European attitudes to firearms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/guns-gifted-to-nato-leaders-trigger-travel-faux-pas-after-summit",
-    "published": "Fri, 10 Jul 2026 13:15:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:58.257549"
-  },
-  {
-    "id": "f4da6fd92a84",
-    "title": "Turkey, Egypt Block LGBTQ Cruise Entry Over ‘Moral Values’",
-    "title_cn": "土耳其、埃及以“道德价值观”为由阻止 LGBTQ 邮轮入境",
-    "summary": "Turkey and Egypt have blocked a cruise ship carrying more than 1,900 LGBTQ tourists from entering their ports, with the former citing a supposed threat to Turkish society.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/turkey-egypt-block-lgbtq-cruise-entry-over-moral-values",
-    "published": "Fri, 10 Jul 2026 13:10:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:58.376506"
-  },
-  {
-    "id": "0a69d4045185",
-    "title": "Democrats Rush to Replace Platner as GOP Rejoices Over Divisions",
-    "title_cn": "共和党因分歧而欢欣鼓舞，民主党人急于更换普拉特纳",
-    "summary": "Graham Platner’s political demise has set off an unprecedented scramble to find a replacement to take on Republican incumbent Senator Susan Collins, with at least six Democrats entering the wide-open field and less than four months until the November midterms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/platner-exit-leaves-maine-democrats-with-no-obvious-frontrunner",
-    "published": "Thu, 09 Jul 2026 21:44:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:58.650474"
-  },
-  {
-    "id": "c40b23cf8856",
-    "title": "Burnham Clears Final Hurdle to Becoming Next UK Premier",
-    "title_cn": "伯纳姆扫清了成为下一任英国首相的最后障碍",
-    "summary": "Andy Burnham will replace Keir Starmer as Britain’s next prime minister, after securing the support of enough Labour MPs to prevent a rival challenger.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/burnham-set-to-become-next-uk-premier-with-majority-of-mp-votes",
-    "published": "Thu, 09 Jul 2026 19:33:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.045954"
-  },
-  {
-    "id": "6122eabbe48b",
-    "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes",
-    "title_cn": "美国表示，尽管发生霍尔木兹小规模冲突，伊朗谈判仍将继续",
-    "summary": "Talks between the US and Iran over a permanent peace deal are continuing, according to a American official, despite two days of clashes that threatened to shatter an already fragile ceasefire.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-09/us-says-iran-technical-talks-to-continue-despite-recent-strikes",
-    "published": "Thu, 09 Jul 2026 23:18:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.172590"
-  },
-  {
-    "id": "2bedf374ad86",
-    "title": "Hundreds Of Labour MP's Back Andy Burnham For PM",
-    "title_cn": "数百名工党议员支持安迪·伯纳姆竞选总理",
-    "summary": "Andy Burnham's path to becoming the next UK prime minister looks certain after a vast majority of Labour MPs formally nominated him to be the next party leader. At the end of the first day of the party's leadership contest to replace Keir Starmer, 322 of 403 Labour members of Parliament voted for Burnham. Responding to the confirmation of the vote number, Burnham said he was \"deeply grateful\" for the support he's received from party colleagues, saying it \"reflects a shared belief that Britain needs a new approach to politics.\" Bloomberg Opinion's Rosa Prince joins Caroline hepker and Rachel Evans on Daybreak Europe to discuss.' (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/hundreds-of-labour-mp-s-back-andy-burnham-for-pm-video",
-    "published": "Fri, 10 Jul 2026 11:52:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.355168"
-  },
-  {
-    "id": "7611033a624f",
-    "title": "China Again Warns Russia Not to Use Nuclear Arms Against Ukraine",
-    "title_cn": "中国再次警告俄罗斯不要对乌克兰使用核武器",
-    "summary": "China has again told Russia not to even consider using a nuclear weapon against Ukraine, according to President Volodymyr Zelenskyy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-again-warns-russia-not-to-use-nuclear-arms-against-ukraine",
-    "published": "Fri, 10 Jul 2026 11:48:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.465431"
-  },
-  {
-    "id": "d961290a2f28",
-    "title": "Falling Israel Support Shapes US Political Battles Ahead",
-    "title_cn": "以色列支持率下降影响美国未来的政治斗争",
-    "summary": "Americans’ shifting views are influencing foreign policy debates in both parties",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/falling-israel-support-shapes-us-political-battles-ahead",
-    "published": "Fri, 10 Jul 2026 11:18:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.583958"
+    "fetched_at": "2026-07-10T18:46:21.802095"
   },
   {
     "id": "a493097e0616",
@@ -1027,7 +847,217 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-09/here-is-who-could-replace-graham-platner-on-the-maine-ballot",
     "published": "Thu, 09 Jul 2026 21:57:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.728331"
+    "fetched_at": "2026-07-10T18:46:21.906653"
+  },
+  {
+    "id": "ff3aafe19702",
+    "title": "New York City Stares Down a Care Crisis as Haitian TPS Ends",
+    "title_cn": "海地 TPS 结束后纽约市面临护理危机",
+    "summary": "The end of US work authorizations for hundreds of thousands of Haitians is threatening to leave short-staffed nursing homes, hospitals and home-care agencies with even fewer caregivers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/as-haitian-tps-expires-new-york-city-stares-down-a-care-crisis",
+    "published": "Fri, 10 Jul 2026 14:58:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:23.516377"
+  },
+  {
+    "id": "0a69d4045185",
+    "title": "Democrats Rush to Replace Platner as GOP Relishes Divisions",
+    "title_cn": "共和党陷入分裂，民主党人急于更换普拉特纳",
+    "summary": "Graham Platner’s political demise in Maine has set off a scramble to find a replacement to take on Republican incumbent Senator Susan Collins, with at least eight Democrats entering the wide-open field and less than four months until the November midterms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/platner-exit-leaves-maine-democrats-with-no-obvious-frontrunner",
+    "published": "Thu, 09 Jul 2026 21:44:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:24.812344"
+  },
+  {
+    "id": "543329ba14a5",
+    "title": "UK Police Arrest Man on Suspicion of Murdering Former Minister",
+    "title_cn": "英国警方逮捕涉嫌谋杀前部长的男子",
+    "summary": "UK police arrested a man on suspicion of the murder of the fomer minister and Reform UK politician Ann Widdecombe, who was found dead on Thursday morning at her home in Devon, southwest England.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uk-police-arrest-man-on-suspicion-of-murdering-former-minister",
+    "published": "Fri, 10 Jul 2026 17:29:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:25.244710"
+  },
+  {
+    "id": "839ed33ceb86",
+    "title": "Mexico, Peru Open Door To Restoring Relations After Bitter Political Fight",
+    "title_cn": "墨西哥和秘鲁在激烈的政治斗争后打开恢复关系的大门",
+    "summary": "Keiko Fujimori’s looming inauguration as Peru’s next president is opening a path to repair the Andean nation’s relationship with Mexico, after Lima broke off diplomatic relations last year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/mexico-peru-open-door-to-restoring-relations-after-bitter-political-fight",
+    "published": "Fri, 10 Jul 2026 16:55:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:26.267445"
+  },
+  {
+    "id": "eeb03e21a7f3",
+    "title": "Ukraine Says It Hit Two Russian Refineries, Slew of Fuel Tankers",
+    "title_cn": "乌克兰称袭击了俄罗斯两家炼油厂和大量油罐车",
+    "summary": "Ukraine said it hit two Russian refineries and over a dozen fuel tankers, the latest in a series of attacks on energy assets that are deepening a nationwide fuel crunch.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/ukraine-says-it-hit-two-russian-refineries-slew-of-fuel-tankers",
+    "published": "Fri, 10 Jul 2026 16:37:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:26.510566"
+  },
+  {
+    "id": "47454c446188",
+    "title": "Congo Tax Agency Seals Glencore Mine Offices in Payment Dispute",
+    "title_cn": "刚果税务局因付款纠纷查封嘉能可矿山办公室",
+    "summary": "Tax authorities in the Democratic Republic of Congo sealed off offices belonging to a Glencore Plc-owned copper mine, escalating a row over payments allegedly owed to the state.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/congo-tax-agency-seals-glencore-mine-offices-in-payment-dispute",
+    "published": "Fri, 10 Jul 2026 15:55:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:26.645035"
+  },
+  {
+    "id": "902fe7f67b8c",
+    "title": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
+    "title_cn": "特朗普表示伊朗停火已经结束，但协议谈判仍将继续",
+    "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-iran-ceasefire-over-but-talks-on-deal-to-continue",
+    "published": "Fri, 10 Jul 2026 14:37:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:26.778300"
+  },
+  {
+    "id": "66d94982fc01",
+    "title": "DHS to Create Its Own Airline for Round-The-Clock Deportations",
+    "title_cn": "国土安全部将创建自己的航空公司，提供全天候驱逐出境服务",
+    "summary": "The US government is moving ahead with plans to create its own fleet of government-owned aircraft to bolster deportations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/dhs-wants-to-create-its-own-round-the-clock-deportation-airline",
+    "published": "Fri, 10 Jul 2026 15:27:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.284828"
+  },
+  {
+    "id": "95bfe054c002",
+    "title": "Iran Supreme Leader to Hold Memorial Ceremony for Slain Father",
+    "title_cn": "伊朗最高领袖将为遇害父亲举行追悼会",
+    "summary": "Iran’s Supreme Leader Mojtaba Khamenei will hold a memorial ceremony for his predecessor and father Ali Khamenei on Friday, his office said, sparking speculation that the Islamic Republic’s top official could make his first public appearance since the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/iran-supreme-leader-to-hold-memorial-ceremony-for-slain-father-mrf1pwnj",
+    "published": "Fri, 10 Jul 2026 14:43:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.417408"
+  },
+  {
+    "id": "f3bfdd1eb17d",
+    "title": "Qatar Blocks Defense Joint Venture Between VW, Israeli Firm",
+    "title_cn": "卡塔尔阻止大众与以色列公司之间的国防合资企业",
+    "summary": "Qatar’s sovereign wealth fund vetoed a deal for Volkswagen AG to make vehicles supporting Israel’s Iron Dome mobile air-defense system, a plan intended to save hundreds of jobs at one of the German car manufacturer’s sites.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/qatar-blocks-defense-joint-venture-between-vw-and-israeli-firm",
+    "published": "Fri, 10 Jul 2026 13:02:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.548082"
+  },
+  {
+    "id": "0eefd6c36b5d",
+    "title": "Reform UK Decries ‘Smear Campaign’ After Fresh Finance Probe Report",
+    "title_cn": "改革英国谴责新金融调查报告后的“抹黑运动”",
+    "summary": "Reform UK’s deputy leader Richard Tice said his party was being subjected to a “smear campaign” after a newspaper reported that London police are investigating a £500,000 ($671,000) donation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/reform-decries-smear-campaign-after-fresh-finance-probe-report",
+    "published": "Fri, 10 Jul 2026 14:00:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.661542"
+  },
+  {
+    "id": "da99239b8373",
+    "title": "Trump Won’t Sign Housing Bill But Will Allow It to Become Law",
+    "title_cn": "特朗普不会签署住房法案，但将允许其成为法律",
+    "summary": "President Donald Trump said he would not sign a bipartisan housing bill in protest over lawmakers declining to approve a separate voter-ID bill he has prioritized.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/trump-says-he-won-t-sign-housing-bill-keeps-focus-on-voter-id",
+    "published": "Fri, 10 Jul 2026 13:25:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.792436"
+  },
+  {
+    "id": "597375d8d9af",
+    "title": "Hungary Unveils Agency to Recover Lost Orban-Era Assets",
+    "title_cn": "匈牙利成立机构以追回丢失的欧尔班时代资产",
+    "summary": "Hungary’s government unveiled plans for a new investigative authority with the power to prosecute suspects and recover misappropriated public assets, fulfilling one of Prime Minister Peter Magyar’s key anti-corruption pledges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/hungary-unveils-agency-to-recover-lost-orban-era-assets",
+    "published": "Fri, 10 Jul 2026 13:57:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:27.914127"
+  },
+  {
+    "id": "8e90ad2cd33a",
+    "title": "German Lawmakers Approve Health Bill With Drug-Price Cuts",
+    "title_cn": "德国立法者批准医疗法案并降低药品价格",
+    "summary": "German lawmakers approved a comprehensive overhaul of the country’s statutory health-insurance system that forces drug-price reductions on pharmaceutical companies as part of a wider drive to cut billions of euros in costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/german-lawmakers-approve-health-bill-raising-drugmaker-rebates",
+    "published": "Fri, 10 Jul 2026 09:27:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.055036"
+  },
+  {
+    "id": "913ce812def6",
+    "title": "Erdogan’s NATO Gift of Revolvers Runs Into Europe’s Gun Laws",
+    "title_cn": "埃尔多安向北约赠送的左轮手枪违反欧洲枪支法",
+    "summary": "Turkish President Recep Tayyip Erdogan’s parting gift to the NATO leaders he hosted this week was a revolver, and an accidental expose of squeamish European attitudes to firearms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/guns-gifted-to-nato-leaders-trigger-travel-faux-pas-after-summit",
+    "published": "Fri, 10 Jul 2026 13:15:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.164674"
+  },
+  {
+    "id": "f4da6fd92a84",
+    "title": "Turkey, Egypt Block LGBTQ Cruise Entry Over ‘Moral Values’",
+    "title_cn": "土耳其、埃及以“道德价值观”为由阻止 LGBTQ 邮轮入境",
+    "summary": "Turkey and Egypt have blocked a cruise ship carrying more than 1,900 LGBTQ tourists from entering their ports, with the former citing a supposed threat to Turkish society.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/turkey-egypt-block-lgbtq-cruise-entry-over-moral-values",
+    "published": "Fri, 10 Jul 2026 13:10:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.323633"
+  },
+  {
+    "id": "c40b23cf8856",
+    "title": "Burnham Clears Final Hurdle to Becoming Next UK Premier",
+    "title_cn": "伯纳姆扫清了成为下一任英国首相的最后障碍",
+    "summary": "Andy Burnham will replace Keir Starmer as Britain’s next prime minister, after securing the support of enough Labour MPs to prevent a rival challenger.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/burnham-set-to-become-next-uk-premier-with-majority-of-mp-votes",
+    "published": "Thu, 09 Jul 2026 19:33:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.536596"
+  },
+  {
+    "id": "6122eabbe48b",
+    "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes",
+    "title_cn": "美国表示，尽管发生霍尔木兹小规模冲突，伊朗谈判仍将继续",
+    "summary": "Talks between the US and Iran over a permanent peace deal are continuing, according to a American official, despite two days of clashes that threatened to shatter an already fragile ceasefire.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-09/us-says-iran-technical-talks-to-continue-despite-recent-strikes",
+    "published": "Thu, 09 Jul 2026 23:18:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.673412"
+  },
+  {
+    "id": "2bedf374ad86",
+    "title": "Hundreds Of Labour MP's Back Andy Burnham For PM",
+    "title_cn": "数百名工党议员支持安迪·伯纳姆竞选总理",
+    "summary": "Andy Burnham's path to becoming the next UK prime minister looks certain after a vast majority of Labour MPs formally nominated him to be the next party leader. At the end of the first day of the party's leadership contest to replace Keir Starmer, 322 of 403 Labour members of Parliament voted for Burnham. Responding to the confirmation of the vote number, Burnham said he was \"deeply grateful\" for the support he's received from party colleagues, saying it \"reflects a shared belief that Britain needs a new approach to politics.\" Bloomberg Opinion's Rosa Prince joins Caroline hepker and Rachel Evans on Daybreak Europe to discuss.' (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-10/hundreds-of-labour-mp-s-back-andy-burnham-for-pm-video",
+    "published": "Fri, 10 Jul 2026 11:52:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.800827"
+  },
+  {
+    "id": "7611033a624f",
+    "title": "China Again Warns Russia Not to Use Nuclear Arms Against Ukraine",
+    "title_cn": "中国再次警告俄罗斯不要对乌克兰使用核武器",
+    "summary": "China has again told Russia not to even consider using a nuclear weapon against Ukraine, according to President Volodymyr Zelenskyy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-10/china-again-warns-russia-not-to-use-nuclear-arms-against-ukraine",
+    "published": "Fri, 10 Jul 2026 11:48:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:28.912289"
+  },
+  {
+    "id": "d961290a2f28",
+    "title": "Falling Israel Support Shapes US Political Battles Ahead",
+    "title_cn": "以色列支持率下降影响美国未来的政治斗争",
+    "summary": "Americans’ shifting views are influencing foreign policy debates in both parties",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/falling-israel-support-shapes-us-political-battles-ahead",
+    "published": "Fri, 10 Jul 2026 11:18:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-10T18:46:29.033437"
   },
   {
     "id": "fbc59a3ddab7",
@@ -1037,7 +1067,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/eu-to-allow-ukraine-to-buy-uk-weapons-with-its-60-billion-loan",
     "published": "Fri, 10 Jul 2026 10:56:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:00:59.849712"
+    "fetched_at": "2026-07-10T18:46:29.159057"
   },
   {
     "id": "5873044a21e4",
@@ -1047,7 +1077,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/turkey-seeks-russian-ok-for-s-400-exit-to-unlock-f-35-purchase",
     "published": "Fri, 10 Jul 2026 10:02:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.012060"
+    "fetched_at": "2026-07-10T18:46:29.282793"
   },
   {
     "id": "e1ae2af4c114",
@@ -1057,7 +1087,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/indonesia-police-military-tensions-in-focus-after-jakarta-raids",
     "published": "Fri, 10 Jul 2026 10:26:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.109836"
+    "fetched_at": "2026-07-10T18:46:29.406167"
   },
   {
     "id": "ada4acf378cc",
@@ -1067,7 +1097,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-10/peru-s-fujimori-looks-to-both-china-and-trump-s-us",
     "published": "Fri, 10 Jul 2026 09:59:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.211771"
+    "fetched_at": "2026-07-10T18:46:29.521324"
   },
   {
     "id": "1adc28f9128e",
@@ -1077,7 +1107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-10/indonesian-president-prabowo-hosts-ex-thai-leader-thaksin-to-discuss-danantara",
     "published": "Fri, 10 Jul 2026 09:46:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.314446"
+    "fetched_at": "2026-07-10T18:46:29.636932"
   },
   {
     "id": "849137ddd073",
@@ -1087,26 +1117,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-10/debt-fragmentation-is-costing-eu-dearly-cuerpo-says-video",
     "published": "Fri, 10 Jul 2026 09:36:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.422874"
-  },
-  {
-    "id": "6dc6228a00a0",
-    "title": "How Will Andy Burnham Deal With Donald Trump?",
-    "title_cn": "安迪·伯纳姆将如何应对唐纳德·特朗普？",
-    "summary": "How will Andy Burnham deal with Donald Trump?\n\nPolitical author Steve Richards tells Mishal Husain Britain's prime minister in waiting will be sure to turn on the charm. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-10/how-will-andy-burnham-deal-with-donald-trump-video",
-    "published": "Fri, 10 Jul 2026 09:18:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.575740"
-  },
-  {
-    "id": "46c36be4c4e0",
-    "title": "UK Minister Defends US Pharma Deal Following Calls to Scrap It",
-    "title_cn": "英国部长在呼吁废除美国制药交易后为其辩护",
-    "summary": "A trade deal with the US that increases the price Britain pays for new medicines will help patients and not cause hundreds of thousands of additional deaths, according to UK Technology Secretary Liz Kendall.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-10/uk-minister-defends-us-pharma-deal-following-calls-to-scrap-it",
-    "published": "Fri, 10 Jul 2026 09:09:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-10T17:01:00.677938"
+    "fetched_at": "2026-07-10T18:46:29.759619"
   }
 ]
