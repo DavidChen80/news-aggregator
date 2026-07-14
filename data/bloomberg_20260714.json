@@ -1,12 +1,57 @@
 [
   {
+    "id": "c1987d89e362",
+    "title": "Bloomberg Daybreak Europe: 1000 Days Of War (Podcast)",
+    "summary": "Source: Bloomberg, 18:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-14/bloomberg-daybreak-europe-1000-days-of-war-podcast",
+    "published": "Tue, 14 Jul 2026 05:51:44 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.707625"
+  },
+  {
+    "id": "3c2f12ee6b93",
+    "title": "PE Fund Harith Gets Antitrust Approval to Acquire FlySafair",
+    "summary": "South Africa’s antitrust regulator approved private equity firm Harith General Partners’ proposal to acquire budget carrier FlySafair.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/pe-fund-harith-gets-antitrust-approval-to-acquire-flysafair",
+    "published": "Tue, 14 Jul 2026 05:14:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.707643"
+  },
+  {
+    "id": "c007d806b5f7",
+    "title": "A Cocaine Bust in Spain Leads All the Way to Wall Street",
+    "summary": "<p>The case, whose details are now unfolding from court documents,&nbsp;has all the ingredients of a Hollywood crime movie.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/spain-cocaine-bust-exposes-links-to-wall-street-dubai-real-estate",
+    "published": "Tue, 14 Jul 2026 04:00:24 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.707651"
+  },
+  {
+    "id": "6a4b4d4fe048",
+    "title": "US Attacks on Iran Conclude, Oil Prices Respond, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-14/us-attacks-on-iran-conclude-oil-prices-respond-more",
+    "published": "Tue, 14 Jul 2026 03:38:46 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.707657"
+  },
+  {
+    "id": "c22ba166d255",
+    "title": "Bloomberg Law: Paramount Takeover of Warner Challenged (Podcast)",
+    "summary": "Source: Bloomberg, 37:20",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-14/bloomberg-law-paramount-takeover-of-warner-challenged-podcast",
+    "published": "Tue, 14 Jul 2026 03:38:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.707663"
+  },
+  {
     "id": "f844d810a7a8",
     "title": "Bloomberg Daybreak Asia: US Reinstates Hormuz Blockade (Podcast)",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-07-14/bloomberg-daybreak-asia-us-reinstates-hormuz-blockade-podcast",
     "published": "Tue, 14 Jul 2026 02:54:06 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.710975"
+    "fetched_at": "2026-07-14T05:58:04.707669"
   },
   {
     "id": "6ac041b811cd",
@@ -15,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-14/us-concludes-attacks-on-iran-oil-prices-on-the-rise-more",
     "published": "Tue, 14 Jul 2026 02:52:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.710987"
+    "fetched_at": "2026-07-14T05:58:04.707674"
   },
   {
     "id": "d0c31d529996",
@@ -24,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-14/india-large-caps-eye-comeback-as-foreigners-resume-purchases",
     "published": "Tue, 14 Jul 2026 02:34:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.710994"
+    "fetched_at": "2026-07-14T05:58:04.707684"
   },
   {
     "id": "92c32a673189",
@@ -33,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-14/us-iran-exchange-strikes-oil-prices-surge-in-response-more",
     "published": "Tue, 14 Jul 2026 02:16:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.710999"
+    "fetched_at": "2026-07-14T05:58:04.707691"
   },
   {
     "id": "f06b29d1aa2b",
@@ -42,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-14/iran-responds-with-strikes-on-gulf-countries-oil-surges-more",
     "published": "Tue, 14 Jul 2026 01:04:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711005"
+    "fetched_at": "2026-07-14T05:58:04.707697"
   },
   {
     "id": "9cfe6a1d5030",
@@ -51,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/genesis-and-vault-to-create-australia-s-third-largest-gold-miner",
     "published": "Mon, 13 Jul 2026 23:55:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711011"
+    "fetched_at": "2026-07-14T05:58:04.707703"
   },
   {
     "id": "35390b1f7dd7",
@@ -60,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/us-strikes-on-iran-continue-oil-prices-respond-more",
     "published": "Mon, 13 Jul 2026 23:53:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711016"
+    "fetched_at": "2026-07-14T05:58:04.707709"
   },
   {
     "id": "bb18ac2e8a38",
@@ -69,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/us-continues-third-day-of-strikes-in-iran-oil-prices-surge-more",
     "published": "Mon, 13 Jul 2026 23:08:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711025"
+    "fetched_at": "2026-07-14T05:58:04.707714"
   },
   {
     "id": "a82e2c568f64",
@@ -78,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/trump-renews-blockade-australia-gold-and-billboards-draw-suitors",
     "published": "Mon, 13 Jul 2026 22:57:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711031"
+    "fetched_at": "2026-07-14T05:58:04.707720"
   },
   {
     "id": "4bce9609ca4f",
@@ -87,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/billionaire-birla-agrees-to-buy-shell-s-indian-renewables-unit",
     "published": "Mon, 13 Jul 2026 15:52:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711037"
+    "fetched_at": "2026-07-14T05:58:04.707726"
   },
   {
     "id": "b4cdbdab1bfe",
@@ -96,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/oil-jumps-on-trump-s-20-hormuz-fee-evening-briefing-americas",
     "published": "Mon, 13 Jul 2026 22:28:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711042"
+    "fetched_at": "2026-07-14T05:58:04.707731"
   },
   {
     "id": "682f2bb89929",
@@ -105,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/gold-miners-cadillac-amapa-minerals-add-to-canada-ipo-rebound",
     "published": "Mon, 13 Jul 2026 22:10:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711048"
+    "fetched_at": "2026-07-14T05:58:04.707759"
   },
   {
     "id": "a8114d605202",
@@ -114,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/us-begins-third-day-of-strikes-in-iran-oil-prices-rise-more",
     "published": "Mon, 13 Jul 2026 22:02:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711053"
+    "fetched_at": "2026-07-14T05:58:04.707766"
   },
   {
     "id": "31f7a341d2fc",
@@ -123,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/trump-reinstates-iran-blockade-seeks-20-hormuz-levy",
     "published": "Mon, 13 Jul 2026 21:32:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711058"
+    "fetched_at": "2026-07-14T05:58:04.707772"
   },
   {
     "id": "ffbe3876a14e",
@@ -132,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/us-formally-at-war-with-iran-graham-s-sister-to-finish-his-term",
     "published": "Mon, 13 Jul 2026 21:10:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711063"
+    "fetched_at": "2026-07-14T05:58:04.707777"
   },
   {
     "id": "c2788893cc01",
@@ -141,7 +186,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-13/canada-s-carney-downplays-trump-s-gordie-howe-bridge-toll-deal",
     "published": "Mon, 13 Jul 2026 21:10:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711068"
+    "fetched_at": "2026-07-14T05:58:04.707783"
   },
   {
     "id": "b1021e249d46",
@@ -150,7 +195,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/stock-movers-sk-hynix-braiin-valero-podcast",
     "published": "Mon, 13 Jul 2026 21:04:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711073"
+    "fetched_at": "2026-07-14T05:58:04.707789"
   },
   {
     "id": "8fe932b1aaa6",
@@ -159,7 +204,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/bloomberg-businessweek-daily-iran-blockade-restarts-podcast",
     "published": "Mon, 13 Jul 2026 20:54:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711078"
+    "fetched_at": "2026-07-14T05:58:04.707794"
   },
   {
     "id": "f573bd432f34",
@@ -168,7 +213,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/late-sen-lindsey-graham-s-sister-will-finish-his-term",
     "published": "Mon, 13 Jul 2026 20:46:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711083"
+    "fetched_at": "2026-07-14T05:58:04.707800"
   },
   {
     "id": "e04fabf79d34",
@@ -177,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/bloomberg-talks-scott-boatwright-podcast",
     "published": "Mon, 13 Jul 2026 20:33:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711088"
+    "fetched_at": "2026-07-14T05:58:04.707809"
   },
   {
     "id": "f6d2247840f0",
@@ -186,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/war-in-iran-is-reshaping-the-middle-east-economically-and-politically",
     "published": "Mon, 13 Jul 2026 20:29:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711093"
+    "fetched_at": "2026-07-14T05:58:04.707817"
   },
   {
     "id": "3b4b9042c6c5",
@@ -195,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/bloomberg-businessweek-daily-apple-s-openai-lawsuit-podcast",
     "published": "Mon, 13 Jul 2026 20:29:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711098"
+    "fetched_at": "2026-07-14T05:58:04.707823"
   },
   {
     "id": "4f1c84486fc0",
@@ -204,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/late-sen-lindsay-graham-s-sister-will-finish-his-term",
     "published": "Mon, 13 Jul 2026 20:28:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711103"
+    "fetched_at": "2026-07-14T05:58:04.707828"
   },
   {
     "id": "bbb9ece15d09",
@@ -213,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/stock-movers-paramount-wbd-kenvue-applovin-podcast",
     "published": "Mon, 13 Jul 2026 20:16:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711112"
+    "fetched_at": "2026-07-14T05:58:04.707833"
   },
   {
     "id": "917dfd4ce8bb",
@@ -222,142 +267,169 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-13/balance-of-power-policy-pulse-for-july-13-2026-podcast",
     "published": "Mon, 13 Jul 2026 20:14:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711119"
+    "fetched_at": "2026-07-14T05:58:04.707838"
   },
   {
-    "id": "bbe5cd73a184",
-    "title": "Stocks Close Lower, US To Enforce Hormuz Blockade, More",
-    "summary": "Source: Bloomberg, 5:13",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-13/stocks-close-lower-us-to-enforce-hormuz-blockade-more",
-    "published": "Mon, 13 Jul 2026 20:10:26 GMT",
+    "id": "a6e69a2ef326",
+    "title": "Stocks Steady as Oil Extends Gain to $85",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-07-14/ftse-100-live-brent-oil-iran-trump-hormuz-pound-bonds-reeves-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Tue, 14 Jul 2026 05:48:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711125"
+    "fetched_at": "2026-07-14T05:58:04.968989"
   },
   {
-    "id": "6e46ca6ba64e",
-    "title": "Big Take: The War in Iran Has Remade the Middle East (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-13/big-take-the-war-in-iran-has-remade-the-middle-east-podcast",
-    "published": "Mon, 13 Jul 2026 19:48:40 GMT",
+    "id": "01fa6fd38b5b",
+    "title": "Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee",
+    "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement for all other cargo shipped via the waterway. Bloomberg's Stuart Livingstone-Wallace and Marisks CEO discuss the implications. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/trump-reinstates-iran-blockade-plans-hormuz-ship-fee-video",
+    "published": "Tue, 14 Jul 2026 05:36:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711130"
+    "fetched_at": "2026-07-14T05:58:04.969004"
   },
   {
-    "id": "9fd85aff7f9b",
-    "title": "Balance of Power: Washington Mourns Graham (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-13/balance-of-power-washington-mourns-graham-podcast",
-    "published": "Mon, 13 Jul 2026 19:17:58 GMT",
+    "id": "044c0845230f",
+    "title": "Oil Advances Above $85 on Hormuz Tensions",
+    "summary": "Brent oil rose above $85 a barrel for the first time in a month, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo. Bloomberg's Rong Wei Neo reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/oil-advances-above-85-on-hormuz-tensions-video",
+    "published": "Tue, 14 Jul 2026 05:35:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711135"
+    "fetched_at": "2026-07-14T05:58:04.969010"
   },
   {
-    "id": "01bb3efdeecd",
-    "title": "Stock Movers: SK Hynix, Biogen, TriCo (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-13/stock-movers-sk-hynix-biogen-trico-podcast",
-    "published": "Mon, 13 Jul 2026 19:15:44 GMT",
+    "id": "5a21d0f37b05",
+    "title": "Indonesia Says S&amp;P Affirmation to Help Stabilize Bond Market",
+    "summary": "Indonesia expects S&amp;P Global Ratings’ vote of confidence in its sovereign credit profile to help stabilize the domestic bond market after a selloff in June, according to a top finance ministry official.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/idr-usd-indonesia-says-s-p-affirmation-to-help-stabilize-bond-market",
+    "published": "Tue, 14 Jul 2026 04:54:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711140"
-  },
-  {
-    "id": "97082926427f",
-    "title": "US Blockade to Begin Wednesday, ICE Kills Man in Maine, More",
-    "summary": "Source: Bloomberg, 4:60",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-13/us-blockade-to-begin-wednesday-ice-kills-man-in-maine-more",
-    "published": "Mon, 13 Jul 2026 19:09:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.711144"
-  },
-  {
-    "id": "b124873def8f",
-    "title": "China Trade Numbers Top All Forecasts in June 2026",
-    "summary": "Here's a quick look at the numbers as China's exports surge in June while imports rise at the fastest clip in five years.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-14/china-trade-numbers-top-all-forecasts-in-june-2026-video",
-    "published": "Tue, 14 Jul 2026 03:28:57 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850927"
-  },
-  {
-    "id": "4bd0b89ae016",
-    "title": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats",
-    "summary": "Iran has been sneaking oil tankers through the Strait of Hormuz over the past few days, even before the US said it would reimpose a blockade of Iranian ports as hostilities escalated.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/iran-sneaking-out-tankers-via-hormuz-as-trump-amps-up-threats",
-    "published": "Tue, 14 Jul 2026 03:20:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850938"
-  },
-  {
-    "id": "600b66a24fcf",
-    "title": "Phillippine Peso Approaches Record Low as Oil Prices Advance",
-    "summary": "The Philippine peso falls toward a record low as escalating tensions in the Middle East drove oil prices higher, putting renewed pressure on the currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/php-usd-phillippine-peso-approaches-record-low-as-oil-prices-advance",
-    "published": "Tue, 14 Jul 2026 01:11:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850963"
-  },
-  {
-    "id": "3318ac1d0613",
-    "title": "Leveraged Chip Bets Backfire in Korea as Biggest ETF Falls 45%",
-    "summary": "A new breed of leveraged products tracking major South Korean chip stocks are tumbling in value, threatening steep losses for the country’s retail investors who favor the tools to pursue amplified returns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/leveraged-chip-bets-backfire-in-korea-as-biggest-etf-falls-45",
-    "published": "Tue, 14 Jul 2026 02:18:34 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850970"
-  },
-  {
-    "id": "47c71a50737e",
-    "title": "Yuan Still Cheap Versus Euro Even After Gain, Deutsche Bank Says",
-    "summary": "China’s yuan is still undervalued versus the euro despite its recent gains, and that’s contributing to a wider European Union trade deficit, according to Deutsche Bank AG.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/yuan-still-cheap-versus-euro-even-after-gain-deutsche-bank-says",
-    "published": "Tue, 14 Jul 2026 03:10:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850976"
+    "fetched_at": "2026-07-14T05:58:04.969017"
   },
   {
     "id": "60543b3b8211",
-    "title": "Brent Tops $85, Stocks Dip as Rate-Hike Bets Build: Markets Wrap",
-    "summary": "Oil advanced for a second day and Asian stocks fell as the standoff between the US and Iran intensified, reigniting inflation concerns and boosting bets for an interest-rate hike.",
+    "title": "Brent Tops $85, Rate-Hike Bets Rise Before US CPI: Markets Wrap",
+    "summary": "Oil advanced for a second day as the standoff between the US and Iran intensified, reigniting inflation concerns and boosting bets on an interest-rate hike. Asian equities edged higher after a volatile session for semiconductor stocks.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/oil-holds-gains-as-iran-stokes-inflation-worries-markets-wrap",
     "published": "Mon, 13 Jul 2026 22:05:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850981"
-  },
-  {
-    "id": "11b48a469aee",
-    "title": "China’s Crude Oil Imports Plunge to Lowest in Nearly a Decade",
-    "summary": "Chinese crude oil imports fell sharply in June to near a decade low, hampered by war in the Persian Gulf and an abrupt slowdown in domestic demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-crude-oil-imports-plunge-to-lowest-in-nearly-a-decade",
-    "published": "Tue, 14 Jul 2026 03:00:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850986"
-  },
-  {
-    "id": "d008ecee315e",
-    "title": "Taiwan Fund Profits 80% After Intervening to Blunt Trump Tariffs",
-    "summary": "Taiwan reported a roughly 80% profit from a nine-month-long intervention to support the island’s stock market following the Trump administration’s move to impose tariffs, though it has now exited its position.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/taiwan-s-stabilization-fund-profits-80-after-intervening-to-blunt-trump-tariffs",
-    "published": "Tue, 14 Jul 2026 02:58:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850991"
-  },
-  {
-    "id": "312a92d3a967",
-    "title": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
-    "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement for all other cargo shipped through the waterway.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
-    "published": "Mon, 13 Jul 2026 14:25:52 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.850996"
+    "fetched_at": "2026-07-14T05:58:04.969023"
   },
   {
     "id": "3d7d6582f15a",
-    "title": "SK Hynix Selloff Deepens in Seoul After Wall Street Memory Slump",
-    "summary": "SK Hynix Inc. shares fell in Seoul after a rout on Wall Street, reflecting heightened caution among investors following this year’s unprecedented rally in global chipmaker stocks.",
+    "title": "SK Hynix Shares Rebound After Early Rout as AI Jitters Persist",
+    "summary": "SK Hynix Inc. erased an early plunge to climb more than 2% in Seoul on Tuesday, underscoring the extreme volatility gripping one of the world’s biggest beneficiaries of the artificial intelligence boom.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
     "published": "Tue, 14 Jul 2026 00:53:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851006"
+    "fetched_at": "2026-07-14T05:58:04.969028"
+  },
+  {
+    "id": "4f6ee15a2361",
+    "title": "What to Expect From Wall Street Banks Earnings",
+    "summary": "Analysts expect JPMorgan Chase & Co., Bank of America, Citigroup, Goldman Sachs Group and Morgan Stanley to report nearly $39 billion in trading revenue for the second quarter. Bloomberg's Balázs Penz breaks down the situation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/what-to-expect-from-wall-street-banks-earnings-video",
+    "published": "Tue, 14 Jul 2026 05:15:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969034"
+  },
+  {
+    "id": "51945cb1d35c",
+    "title": "UK’s Miliband Seen as Least Appealing Chancellor: Markets Pulse",
+    "summary": "Andy Burnham has yet to announce his choice for UK Chancellor of the Exchequer, but among the presumptive next prime minister’s leading candidates, Energy Secretary Ed Miliband is seen as the least market-friendly choice, according to the latest Bloomberg Markets Live Pulse survey.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/uk-s-miliband-seen-as-least-appealing-chancellor-markets-pulse",
+    "published": "Tue, 14 Jul 2026 05:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969045"
+  },
+  {
+    "id": "7995cb4ba4d5",
+    "title": "China’s Green-Tech Exports Surge on Energy Transition Demand",
+    "summary": "China’s exports of green-tech products rose by more than a third in the first half of the year, driven by the accelerating global energy transition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-green-tech-exports-surge-on-energy-transition-demand",
+    "published": "Tue, 14 Jul 2026 04:54:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969051"
+  },
+  {
+    "id": "cee8d32a7776",
+    "title": "China Expels Former Politburo Member Over Graft and Sex Charges",
+    "summary": "China expelled former Politburo member Ma Xingrui from the ruling Communist Party, accusing him of a wide range of offenses including corruption, abuse of power and trading political favors for sex.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-expels-former-politburo-member-over-graft-and-sex-charges",
+    "published": "Tue, 14 Jul 2026 04:53:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969056"
+  },
+  {
+    "id": "f1cad98124f4",
+    "title": "South Korean Won Climbs to Two-Month High on Hynix ADR Inflows",
+    "summary": "The South Korean won advanced to its strongest level since May on expectations that dollar inflows from SK Hynix Inc’s American depositary receipts will enter the local currency market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/south-korean-won-hits-two-month-high-on-inflow-expectations",
+    "published": "Tue, 14 Jul 2026 04:46:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969062"
+  },
+  {
+    "id": "45bbf0a3deee",
+    "title": "Japan Bond Sale Draws High Demand After Katayama’s GPIF Remarks",
+    "summary": "Japan’s 20-year government bond auction Tuesday attracted strong investor demand after remarks by Finance Minister Satsuki Katayama boosted sentiment toward sovereign debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/japan-s-20-year-bond-sale-demand-stronger-than-12-month-average",
+    "published": "Tue, 14 Jul 2026 03:41:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969068"
+  },
+  {
+    "id": "874a0c7ccf40",
+    "title": "Gold Holds Drop as Mideast Risks, Waller Remarks Boost Headwinds",
+    "summary": "Gold steadied after a two-day decline, as escalating hostilities in the Middle East drove a surge in energy costs and a US monetary policymaker raised the likelihood of interest-rate hikes to rein in stubborn inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/gold-holds-decline-on-renewed-hormuz-blockade-and-hawkish-fed",
+    "published": "Mon, 13 Jul 2026 23:49:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969073"
+  },
+  {
+    "id": "5c55ee98b875",
+    "title": "Palm Oil Advances as Crude Rally Boosts Outlook for Biofuels",
+    "summary": "Palm oil climbed for a second day as a surge in crude prices fueled by renewed US-Iran hostilities brightened demand prospects for biofuels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/palm-oil-advances-as-crude-rally-boosts-outlook-for-biofuels",
+    "published": "Tue, 14 Jul 2026 04:38:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969078"
+  },
+  {
+    "id": "1cb25fe2f8e4",
+    "title": "South Korea Plans FX Rule Easing to Expand Won’s Global Use",
+    "summary": "South Korea plans to relax foreign-exchange rules governing capital transactions in the second half of the year as part of a broader effort to internationalize the won and deepen overseas use of the currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/south-korea-plans-fx-rule-easing-to-expand-won-s-global-use",
+    "published": "Tue, 14 Jul 2026 04:37:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969084"
+  },
+  {
+    "id": "7932103d722c",
+    "title": "India Asks State Banks to Step Up Foreign Currency Deposits",
+    "summary": "India has asked state-owned banks to intensify efforts to garner foreign currency deposits from the 35-million-strong diaspora, as the country seeks to boost its external buffers and shore up the flagging rupee.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/india-pushes-state-banks-to-step-up-foreign-currency-deposits",
+    "published": "Mon, 13 Jul 2026 13:58:53 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969089"
+  },
+  {
+    "id": "d2b62c3e5a61",
+    "title": "Australia Sees No Mass Layoffs From AI Just Yet",
+    "summary": "A first-of-its-kind report by the Australian government finds AI has not yet caused broad disruption in the nation’s labor market. That’s as the rising demand for AI is heightening concerns over the future of white-collar jobs. Scientia Professor of AI at the University of New South Wales Toby Walsh joins \"Bloomberg: The Asia Trade\" to discuss why Canberra needs to act now to mitigate the impact of AI and prepare workers for change. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/australia-sees-no-mass-layoffs-from-ai-just-yet-video",
+    "published": "Tue, 14 Jul 2026 04:13:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969094"
+  },
+  {
+    "id": "0e5677bfa593",
+    "title": "Oil Rises as Trump Resumes Hormuz Blockade | The Asia Trade 7/14/2026",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Singapore with Shery Ahn and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/the-asia-trade-7-14-2026-video",
+    "published": "Tue, 14 Jul 2026 04:10:46 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-14T05:58:04.969099"
   },
   {
     "id": "56b89b7126c3",
@@ -366,159 +438,96 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
     "published": "Mon, 13 Jul 2026 22:01:33 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851012"
+    "fetched_at": "2026-07-14T05:58:04.969105"
   },
   {
-    "id": "c1b8ec526916",
-    "title": "SocGen Sees $76 Billion of JGB Buying If GPIF Rebalances Assets",
-    "summary": "Japan’s Government Pension Investment Fund has room to buy as much as ¥12.3 trillion ($76 billion) of additional government bonds without changing its asset allocation mix, according to Societe Generale SA, offering potential support for the debt market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/socgen-sees-76-billion-of-jgb-buying-if-gpif-rebalances-assets",
-    "published": "Tue, 14 Jul 2026 01:21:05 GMT",
+    "id": "89cd1bf1c2db",
+    "title": "US, Iran Check the Oil Price Before Pushing Limits",
+    "summary": "<p>Trump’s 20% levy is the latest example&nbsp;of seeing what they can get away with.</p>",
+    "link": "https://www.bloomberg.com/opinion/newsletters/2026-07-14/us-iran-check-the-oil-price-before-pushing-limits",
+    "published": "Tue, 14 Jul 2026 04:02:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851017"
+    "fetched_at": "2026-07-14T05:58:04.969110"
   },
   {
-    "id": "874a0c7ccf40",
-    "title": "Gold Holds Drop as Mideast Risks, Waller Remarks Boost Headwinds",
-    "summary": "Gold held a decline as escalating hostilities in the Middle East drove a surge in energy costs, and a US monetary policymaker raised the likelihood of interest-rate hikes to rein in stubborn inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/gold-holds-decline-on-renewed-hormuz-blockade-and-hawkish-fed",
-    "published": "Mon, 13 Jul 2026 23:49:07 GMT",
+    "id": "c80edafadcf4",
+    "title": "UNSW's Parker on US' 20% Cargo Toll in Strait of Hormuz",
+    "summary": "Jennifer Parker, Adjunct Fellow at UNSW Canberra, discusses the legality and diplomatic implications of the US blockade and 20 percent cargo toll in the Strait of Hormuz. She draws on more than 20 years' experience in the Royal Australian Navy, including leading multinational maritime operations in the Middle East. Jennifer speaks with Haidi Stroud-Watts on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/unsw-s-parker-on-us-20-cargo-toll-in-strait-of-hormuz-video",
+    "published": "Tue, 14 Jul 2026 03:56:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851022"
+    "fetched_at": "2026-07-14T05:58:04.969115"
   },
   {
-    "id": "037004ed3ce8",
-    "title": "China Airline Shares Face More Profit Pain as Demand Stays Weak",
-    "summary": "Shares of China’s major airlines are lagging Cathay Pacific Airways Ltd. by nearly 50 percentage points this year, as analysts expect weaker profits to persist on lackluster domestic travel demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-airline-stocks-underperform-cathay-as-earnings-view-dims",
-    "published": "Tue, 14 Jul 2026 01:24:30 GMT",
+    "id": "11b48a469aee",
+    "title": "China’s Crude Imports Plunge to Lowest in Nearly a Decade",
+    "summary": "Chinese crude oil imports fell sharply in June to near a decade low, hampered by war in the Persian Gulf and an abrupt slowdown in domestic demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/china-s-crude-oil-imports-plunge-to-lowest-in-nearly-a-decade",
+    "published": "Tue, 14 Jul 2026 03:00:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851027"
+    "fetched_at": "2026-07-14T05:58:04.969120"
   },
   {
-    "id": "1085b5133834",
-    "title": "What to Know About Shein's Plans for Mega HK IPO",
-    "summary": "Fast-fashion giant Shein is seeking to list in Hong Kong as soon as August, targeting to raise about $2 billion to $3 billion, sources say. Minmin Low reports on the company's fundamentals. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-14/what-to-know-about-shein-s-plans-for-mega-hk-ipo-video",
-    "published": "Tue, 14 Jul 2026 01:19:06 GMT",
+    "id": "b124873def8f",
+    "title": "China Trade Numbers Top All Forecasts in June 2026",
+    "summary": "Here's a quick look at the numbers as China's exports surge in June while imports rise at the fastest clip in five years.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-14/china-trade-numbers-top-all-forecasts-in-june-2026-video",
+    "published": "Tue, 14 Jul 2026 03:28:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851032"
+    "fetched_at": "2026-07-14T05:58:04.969126"
   },
   {
-    "id": "8fa35e29296d",
-    "title": "Fed Rate-Hike Bets Mount Before Inflation Data, Warsh Testimony",
-    "summary": "Bond traders ramped up bets for a July interest-rate hike ahead of US inflation data and an appearance by the head of the Federal Reserve that stand to reinforce the need for action.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-14/fed-rate-hike-bets-mount-before-inflation-data-warsh-testimony",
-    "published": "Tue, 14 Jul 2026 00:25:13 GMT",
+    "id": "4bd0b89ae016",
+    "title": "Iran Sneaking Out Tankers Via Hormuz as Trump Amps Up Threats",
+    "summary": "Iran has been sneaking oil tankers through the Strait of Hormuz over the past few days, even before the US said it would reimpose a blockade of Iranian ports as hostilities escalated.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/iran-sneaking-out-tankers-via-hormuz-as-trump-amps-up-threats",
+    "published": "Tue, 14 Jul 2026 03:20:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851036"
+    "fetched_at": "2026-07-14T05:58:04.969131"
   },
   {
-    "id": "b3bb3830e236",
-    "title": "Seidler Equity Is Looking to Sell Stake in 139-Year-Old Baseball Gear Maker Rawlings",
-    "summary": "The private equity owner of Rawlings Sporting Goods Co., one of the oldest makers of baseball apparel and equipment, is exploring the sale of its stake in the company in an effort to tap booming investor demand for sports-related investments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/seidler-is-looking-to-sell-stake-in-139-year-old-baseball-gear-maker-rawlings",
-    "published": "Mon, 13 Jul 2026 23:31:03 GMT",
+    "id": "600b66a24fcf",
+    "title": "Phillippine Peso Approaches Record Low as Oil Prices Advance",
+    "summary": "The Philippine peso falls toward a record low as escalating tensions in the Middle East drove oil prices higher, putting renewed pressure on the currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/php-usd-phillippine-peso-approaches-record-low-as-oil-prices-advance",
+    "published": "Tue, 14 Jul 2026 01:11:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851041"
+    "fetched_at": "2026-07-14T05:58:04.969135"
   },
   {
-    "id": "69acb3a5da9f",
-    "title": "Brazil’s Oncoclinicas Said to File for Out-of-Court Debt Rework",
-    "summary": "Oncoclinicas do Brasil Servicos Medicos SA is preparing to file for an out-of-court debt restructuring, which could come as soon as Monday night, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/brazil-s-oncoclinicas-said-to-file-for-out-of-court-debt-rework",
-    "published": "Mon, 13 Jul 2026 23:11:09 GMT",
+    "id": "3318ac1d0613",
+    "title": "Leveraged Chip Bets Backfire in Korea as Biggest ETF Falls 45%",
+    "summary": "A new breed of leveraged products tracking major South Korean chip stocks are tumbling in value, threatening steep losses for the country’s retail investors who favor the tools to pursue amplified returns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/leveraged-chip-bets-backfire-in-korea-as-biggest-etf-falls-45",
+    "published": "Tue, 14 Jul 2026 02:18:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851046"
+    "fetched_at": "2026-07-14T05:58:04.969140"
   },
   {
-    "id": "ca36d57798ab",
-    "title": "Shein’s Slowing Growth Risks Weighing on Hong Kong IPO Valuation",
-    "summary": "Shein has finally won long-awaited Chinese regulatory approval for its planned Hong Kong listing, but slowing business growth threatens to weigh on the valuation it can command in the initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/shein-s-slowing-growth-risks-weighing-on-hong-kong-ipo-valuation",
-    "published": "Mon, 13 Jul 2026 23:00:40 GMT",
+    "id": "47c71a50737e",
+    "title": "Yuan Still Cheap Versus Euro Even After Gain, Deutsche Bank Says",
+    "summary": "China’s yuan is still undervalued versus the euro despite its recent gains, and that’s contributing to a wider European Union trade deficit, according to Deutsche Bank AG.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/yuan-still-cheap-versus-euro-even-after-gain-deutsche-bank-says",
+    "published": "Tue, 14 Jul 2026 03:10:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851051"
+    "fetched_at": "2026-07-14T05:58:04.969146"
   },
   {
-    "id": "cdc0c9a362ea",
-    "title": "India’s Beaten-Down Large Caps Set to Rebound on Foreign Flows",
-    "summary": "India’s large-cap stocks are set to narrow their underperformance to smaller peers, supported by the return of foreign investors, an improving earnings outlook and attractive valuations, according to strategists.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/india-s-beaten-down-large-caps-set-to-rebound-on-foreign-flows",
-    "published": "Mon, 13 Jul 2026 23:00:00 GMT",
+    "id": "d008ecee315e",
+    "title": "Taiwan Fund Profits 80% After Intervening to Blunt Trump Tariffs",
+    "summary": "Taiwan reported a roughly 80% profit from a nine-month-long intervention to support the island’s stock market following the Trump administration’s move to impose tariffs, though it has now exited its position.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-14/taiwan-s-stabilization-fund-profits-80-after-intervening-to-blunt-trump-tariffs",
+    "published": "Tue, 14 Jul 2026 02:58:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851056"
+    "fetched_at": "2026-07-14T05:58:04.969151"
   },
   {
-    "id": "201f65b6b04b",
-    "title": "Wells Fargo’s Mike Mayo: Citi My Top Pick of Big Banks",
-    "summary": "Investors are preparing for a significant earnings week as five of the six largest US banks, including JPMorgan, Citi, Wells Fargo, Bank of America, and Goldman Sachs, are scheduled to report their quarterly results within a few hours of each other. Mike Mayo, Head of US Large-Cap Bank Research at Wells Fargo, joined the program to share his outlook. He expects overall bank earnings to increase by 15 to 20 percent year-over-year, driven by a combination of strong Wall Street trading revenues and robust commercial loan growth on Main Street. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-13/wells-fargo-s-mike-mayo-citi-my-top-pick-of-big-banks-video",
-    "published": "Mon, 13 Jul 2026 21:47:45 GMT",
+    "id": "312a92d3a967",
+    "title": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
+    "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement for all other cargo shipped through the waterway.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
+    "published": "Mon, 13 Jul 2026 14:25:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851066"
-  },
-  {
-    "id": "46961d97e371",
-    "title": "After Biden Denied Alabama Coal Waste Bid, Trump Reverses Course",
-    "summary": "The Environmental Protection Agency on Monday proposed to approve Alabama’s application to take over issuing certain coal waste permits from the agency, part of a trend under President Donald Trump to transfer more authority from the federal government to states.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/biden-denied-alabama-bid-to-permit-coal-waste-trump-proposes-to-okay",
-    "published": "Mon, 13 Jul 2026 21:41:57 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851071"
-  },
-  {
-    "id": "ef6083d07e54",
-    "title": "First Public Fusion Firm Jumps in Wall Street Trading Debut",
-    "summary": "General Fusion Group Ltd. surged in its first day of trading after merging with a blank-check firm, a sign of investors’ interest in the world’s first publicly listed nuclear fusion company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/first-public-fusion-company-surges-in-wall-street-trading-debut",
-    "published": "Mon, 13 Jul 2026 16:18:05 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851076"
-  },
-  {
-    "id": "18c0185d72ac",
-    "title": "Russian Billionaire Wins Fight to Boot Manager of Biotech Fund",
-    "summary": "Russian billionaire Dmitry Rybolovlev’s family trust prevailed in its effort to remove the manager of a bankrupt $2.5 billion venture capital fund it backed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/russian-billionaire-wins-fight-to-boot-manager-of-biotech-fund",
-    "published": "Mon, 13 Jul 2026 21:12:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851081"
-  },
-  {
-    "id": "073b2459b0be",
-    "title": "Oil Surges as Trump Says US Wants 20% Charge for Hormuz Flows",
-    "summary": "Oil surged by the most since April after US President Donald Trump said he would reimpose a blockade on Iranian ships transiting the Strait of Hormuz and demand payment for all other cargo moving through the waterway, dashing hopes for a near-term recovery in shipping flows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-12/latest-oil-market-news-and-analysis-for-july-13",
-    "published": "Sun, 12 Jul 2026 22:02:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851086"
-  },
-  {
-    "id": "882ce56c98e3",
-    "title": "【今朝の5本】仕事を始める前に読んでおきたい厳選ニュース",
-    "summary": "ホルムズ通航に20％の対価要求、近く利上げ必要に、ウォール街決算、独VWが5万人削減、円に弱気",
-    "link": "https://www.bloomberg.com/jp/news/newsletters/2026-07-13/TI4TBRKIUPTZ00",
-    "published": "Mon, 13 Jul 2026 21:07:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851091"
-  },
-  {
-    "id": "f7793cc4c14d",
-    "title": "Argentina IPO Pipeline Grows as YPF Power Unit Files For US Listing",
-    "summary": "The power-generation unit of Argentina’s state-run energy firm YPF SA has filed for a US initial public offering, joining a growing pipeline of Argentine companies seeking New York listings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/argentina-ipo-pipeline-grows-as-ypf-power-unit-files-for-us-listing",
-    "published": "Mon, 13 Jul 2026 21:05:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851096"
-  },
-  {
-    "id": "92b87fbf90b3",
-    "title": "Afore Banamex Chief Investment Officer Acosta to Leave Firm",
-    "summary": "The chief investment officer of Mexican pension fund Afore Banamex, Tomas Acosta, is leaving the firm, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-13/afore-banamex-chief-investment-officer-acosta-to-leave-firm-mrjpjjf3",
-    "published": "Mon, 13 Jul 2026 21:01:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-14T03:36:35.851100"
+    "fetched_at": "2026-07-14T05:58:04.969156"
   }
 ]
