@@ -1,5 +1,75 @@
 [
   {
+    "id": "1fe98a11a297",
+    "title": "Bloomberg Talks: Ryan Cohen (Podcast)",
+    "title_cn": "彭博社谈话：瑞安·科恩（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-talks-ryan-cohen-podcast",
+    "published": "Thu, 16 Jul 2026 17:32:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:15.054420"
+  },
+  {
+    "id": "aaaf3a2066a0",
+    "title": "Bloomberg Talks: Rahm Emanuel (Podcast)",
+    "title_cn": "彭博社谈话：拉姆·伊曼纽尔（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-talks-rahm-emanuel-podcast",
+    "published": "Thu, 16 Jul 2026 17:19:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:16.076544"
+  },
+  {
+    "id": "69c909750627",
+    "title": "US Intensifies Iran Strikes, Chip Selloff Stifles Stocks, More",
+    "title_cn": "美国加强对伊朗的打击，芯片抛售抑制股市等",
+    "summary": "Source: Bloomberg, 5:59",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/us-intensifies-iran-strikes-chip-selloff-stifles-stocks-more",
+    "published": "Thu, 16 Jul 2026 17:16:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:16.786171"
+  },
+  {
+    "id": "f8cda6348494",
+    "title": "Bloomberg Tech: GameStop Makes Its Move (Podcast)",
+    "title_cn": "彭博科技：GameStop 采取行动（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-tech-gamestop-makes-its-move-podcast",
+    "published": "Thu, 16 Jul 2026 17:13:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:17.140845"
+  },
+  {
+    "id": "ee38653feb52",
+    "title": "Bloomberg Talks: Greg Abbott and Dino Mavrookas (Podcast)",
+    "title_cn": "彭博社谈话：格雷格·阿博特和迪诺·马夫鲁卡斯（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-talks-greg-abbott-and-dino-mavrookas-podcast",
+    "published": "Thu, 16 Jul 2026 17:10:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:17.694991"
+  },
+  {
+    "id": "e5db169cf9bd",
+    "title": "‘Dallas Can’t Be Ignored’: Goldman Sachs Sees a Financial Hub Take Shape",
+    "title_cn": "“达拉斯不容忽视”：高盛认为金融中心已初具规模",
+    "summary": "World Cup prominence is just the latest win, Aasem Khalil says",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/-dallas-can-t-be-ignored-goldman-sachs-sees-a-financial-hub-take-shape",
+    "published": "Thu, 16 Jul 2026 16:52:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:18.696637"
+  },
+  {
+    "id": "21211e5bc082",
+    "title": "Bloomberg Intelligence: Lilly to Buy AtaiBeckley (Podcast)",
+    "title_cn": "彭博资讯：礼来公司将收购 AtaiBeckley（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-intelligence-lilly-to-buy-ataibeckley-podcast",
+    "published": "Thu, 16 Jul 2026 16:41:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:19.329366"
+  },
+  {
     "id": "0f5cf58bcfa1",
     "title": "US Intensified Strikes Against Iran and Hormuz Shipping Traffic Falls",
     "title_cn": "美国加强对伊朗和霍尔木兹航运运输量下降的打击",
@@ -7,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/us-intensified-strikes-against-iran-and-hormuz-shipping-traffic-falls",
     "published": "Thu, 16 Jul 2026 16:32:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:13.127999"
+    "fetched_at": "2026-07-16T17:54:19.446960"
   },
   {
     "id": "d848fb4885ba",
@@ -17,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-surveillance-tv-july-16th-2026-podcast",
     "published": "Thu, 16 Jul 2026 16:32:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:13.622518"
+    "fetched_at": "2026-07-16T17:54:20.334116"
   },
   {
     "id": "98c05cb8be29",
@@ -27,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/us-expands-iran-attacks-mortgage-rates-highest-in-nearly-a-year",
     "published": "Thu, 16 Jul 2026 16:21:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:14.278093"
+    "fetched_at": "2026-07-16T17:54:20.960078"
   },
   {
     "id": "ddedd37731a9",
@@ -37,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/merryn-talks-money-spacex-dips-uk-sheds-more-stocks-podcasts",
     "published": "Thu, 16 Jul 2026 16:16:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:14.882928"
+    "fetched_at": "2026-07-16T17:54:21.714288"
   },
   {
     "id": "7a250fb6ba5a",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/pound-traders-like-the-idea-of-chancellor-mahmood-instead-of-miliband",
     "published": "Thu, 16 Jul 2026 15:58:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:15.018596"
+    "fetched_at": "2026-07-16T17:54:21.825109"
   },
   {
     "id": "574cfd962dd4",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/us-intensifies-iran-strikes-oil-jumps-chip-selloff-hits-stocks",
     "published": "Thu, 16 Jul 2026 15:41:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:15.756920"
+    "fetched_at": "2026-07-16T17:54:21.924439"
   },
   {
     "id": "1b5bf425b4d5",
@@ -67,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/stock-movers-jb-hunt-gh-research-abt-laboratories-podcast",
     "published": "Thu, 16 Jul 2026 15:15:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:16.038290"
+    "fetched_at": "2026-07-16T17:54:22.061799"
   },
   {
     "id": "ec379f3c5a16",
@@ -77,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-talks-brian-moynihan-podcast",
     "published": "Thu, 16 Jul 2026 15:06:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:16.833518"
+    "fetched_at": "2026-07-16T17:54:22.175783"
   },
   {
     "id": "5b7244d26765",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-talks-scott-kirby-podcast",
     "published": "Thu, 16 Jul 2026 15:05:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:17.804962"
+    "fetched_at": "2026-07-16T17:54:22.294246"
   },
   {
     "id": "921c5983d2f6",
@@ -97,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/trump-to-address-nation-hostilities-worsen-with-iran-more",
     "published": "Thu, 16 Jul 2026 14:43:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:17.954848"
+    "fetched_at": "2026-07-16T17:54:22.392066"
   },
   {
     "id": "9ed325cf334b",
@@ -107,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/stock-movers-unh-ge-lly-podcast-mrnm6ddw",
     "published": "Thu, 16 Jul 2026 14:38:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.063001"
+    "fetched_at": "2026-07-16T17:54:23.301759"
   },
   {
     "id": "9affce439ca0",
@@ -117,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-16/bloomberg-surveillance-equity-bull-case-podcast",
     "published": "Thu, 16 Jul 2026 14:08:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.195258"
+    "fetched_at": "2026-07-16T17:54:23.428340"
   },
   {
     "id": "17ee9e7f7c39",
@@ -127,167 +197,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/it-s-cool-to-be-a-banker-again-after-a-red-hot-earnings-quarter",
     "published": "Thu, 16 Jul 2026 14:03:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.307881"
+    "fetched_at": "2026-07-16T17:54:23.780221"
   },
   {
-    "id": "3b459707e4aa",
-    "title": "Stocks Fall, Brent Tops $85 on Iran Hostilities, More",
-    "title_cn": "伊朗敌对行动等因素导致股市下跌，布伦特原油价格突破 85 美元",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-16/stocks-fall-brent-tops-85-on-iran-hostilities-more",
-    "published": "Thu, 16 Jul 2026 13:52:49 GMT",
+    "id": "5e5a24f6b83b",
+    "title": "Apollo Bets on Mexico With $20 Billion Target for Private Credit",
+    "title_cn": "Apollo 押注墨西哥 200 亿美元私人信贷目标",
+    "summary": "Apollo Global Management Inc. plans to put as much as $20 billion to work financing projects in Mexico as the giant asset manager seeks new outlets for its private credit business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/apollo-bets-on-mexico-with-20-billion-target-for-private-credit",
+    "published": "Thu, 16 Jul 2026 17:30:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.432493"
-  },
-  {
-    "id": "6031aee57816",
-    "title": "Stock Movers: UNH, GE, LLY (Podcast)",
-    "title_cn": "库存推动者：UNH、GE、LLY（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-16/stock-movers-unh-ge-lly-podcast",
-    "published": "Thu, 16 Jul 2026 13:28:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.545955"
-  },
-  {
-    "id": "b089fcabf558",
-    "title": "It’s Another Day, Another Deadline in DCC Takeover Chase",
-    "title_cn": "DCC 收购案又到了最后期限",
-    "summary": "KKR and ECP’s pursuit of DCC stands out for being so drawn out.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/it-s-another-day-another-deadline-in-dcc-takeover-chase",
-    "published": "Thu, 16 Jul 2026 13:14:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.665507"
-  },
-  {
-    "id": "151203fa42bc",
-    "title": "Next Africa: Inside the Crisis at a $220 Billion African Fund Manager",
-    "title_cn": "下一个非洲：2200 亿美元非洲基金经理的危机内部",
-    "summary": "Some investments, especially in unlisted assets, have raised concern,",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/next-africa-inside-the-crisis-at-a-220-billion-african-fund-manager",
-    "published": "Thu, 16 Jul 2026 13:01:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.775310"
-  },
-  {
-    "id": "08854ac0ebf1",
-    "title": "EU Makes Limited Concessions to Lenders on Banking Rules",
-    "title_cn": "欧盟在银行规则方面向贷方做出有限让步",
-    "summary": "The Commission will publish proposals on bank competitiveness on Friday",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/eu-makes-limited-concessions-to-lenders-on-banking-rules",
-    "published": "Thu, 16 Jul 2026 13:00:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:18.907108"
-  },
-  {
-    "id": "9be3e9fd0fbf",
-    "title": "Continued Escalation in Iran War, Retail Sales Rise Modestly",
-    "title_cn": "伊朗战争持续升级，零售额小幅增长",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-16/continued-escalation-in-iran-war-retail-sales-rise-modestly",
-    "published": "Thu, 16 Jul 2026 12:53:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:19.022261"
-  },
-  {
-    "id": "3ca542f8b720",
-    "title": "Choppin’ It Up: TGI Friday CEO’s Plans for Top-Line Growth",
-    "title_cn": "Choppin’ It Up：TGI Friday 首席执行官的营收增长计划",
-    "summary": "TGI Friday’s is eliminating busy work from their general manager’s plates, allowing them to focus on the team members, Sugarloaf Holdings Founder and CEO Ray Blanchette tells Bloomberg Intelligence. In this episode of the Choppin’ It Up podcast, Blanchette sits down with BI’s senior restaurant and foodservice analyst Michael Halen to discuss TGI Friday’s focus on four-wall execution, hospitality and food quality to boost US same-store sales. Blanchette also comments on value, international store",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-16/choppin-it-up-tgi-friday-ceo-s-plans-for-top-line-growth",
-    "published": "Thu, 16 Jul 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:19.135832"
-  },
-  {
-    "id": "011c93aae9c4",
-    "title": "Podcast: Tokenization, Digital Twins and the Future of ETFs",
-    "title_cn": "播客：代币化、数字孪生和 ETF 的未来",
-    "summary": "<p>On this episode of <em>Trillions</em>, we explore how this government transformation will affect stocks, bonds and exchange-traded funds.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/podcast-tokenization-digital-twins-and-the-future-of-etfs",
-    "published": "Thu, 16 Jul 2026 16:35:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:20.352196"
-  },
-  {
-    "id": "a5be38ce469e",
-    "title": "Chip Stocks Hit by AI Spending Worries After Rally: Markets Wrap",
-    "title_cn": "芯片股在反弹后受到人工智能支出担忧的打击：市场结束",
-    "summary": "A selloff in chipmakers dragged down stocks amid concerns over whether massive artificial-intelligence investments will justify lofty valuations, with a resurgence in geopolitical risks also weighing on sentiment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/stock-market-today-dow-s-p-live-updates",
-    "published": "Wed, 15 Jul 2026 22:07:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:20.486032"
-  },
-  {
-    "id": "241706d78b88",
-    "title": "Citi Traders Pitch Shorting French Shipping Giant CMA CGM Bonds",
-    "title_cn": "花旗交易员卖空法国航运巨头达飞轮船 (CMA CGM) 债券",
-    "summary": "Citigroup’s credit traders and analysts are recommending their hedge fund clients short bonds issued by French shipping giant CMA CGM Group, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/citi-traders-pitch-shorting-french-shipping-giant-cma-cgm-bonds",
-    "published": "Thu, 16 Jul 2026 16:01:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:20.776501"
-  },
-  {
-    "id": "ef4918b5e936",
-    "title": "Paschi Casts Doubts Over Intesa Bid, Suggests Studying BPM Plan",
-    "title_cn": "Paschi 对 Intesa 竞标表示怀疑，建议研究 BPM 计划",
-    "summary": "Banca Monte dei Paschi di Siena SpA’s board of directors raised broad concerns over a takeover bid by Intesa Sanpaolo SpA, saying the price offered appears low and that it relies on optimistic assumptions while exposing shareholders to risks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/paschi-casts-doubts-over-intesa-bid-suggests-studying-bpm-plan",
-    "published": "Thu, 16 Jul 2026 15:57:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:20.899995"
-  },
-  {
-    "id": "89625c67c9f4",
-    "title": "Latest Oil Market News and Analysis for July 16",
-    "title_cn": "7 月 16 日最新石油市场新闻和分析",
-    "summary": "Oil steadied, largely holding onto a run of gains with concerns mounting about disruptions to flows from the Middle East as US strikes against Iran intensify.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/latest-oil-market-news-and-analysis-for-july-16",
-    "published": "Wed, 15 Jul 2026 22:02:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.016923"
-  },
-  {
-    "id": "a4a6b2de0238",
-    "title": "Chevron to Sign Oil Investment Accords With Iraq on Friday",
-    "title_cn": "雪佛龙将于周五与伊拉克签署石油投资协议",
-    "summary": "Chevron Corp. expects to sign accords with Iraq on Friday that will advance its negotiations about investing in large oil fields, according to a senior company executive.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/chevron-to-sign-oil-investment-accords-with-iraq-on-friday",
-    "published": "Thu, 16 Jul 2026 15:52:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.289326"
-  },
-  {
-    "id": "243a93afc203",
-    "title": "Spain Extends Welcome Mat for Chinese Carmakers to Its Workers",
-    "title_cn": "西班牙向其工人欢迎中国汽车制造商",
-    "summary": "Spain’s biggest Chinese industrial investment will rely on workers brought in from China during construction, according to a government report that lays out Madrid’s blueprint to bolster its auto industry.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/spain-extends-welcome-mat-for-chinese-carmakers-to-its-workers",
-    "published": "Thu, 16 Jul 2026 15:47:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.457444"
-  },
-  {
-    "id": "f02f4bbd2c06",
-    "title": "Ladbrokes Owner Entain to Cut 2% of Staff as UK Taxes Hit",
-    "title_cn": "英国税收打击立博老板拟裁员 2%",
-    "summary": "Entain Plc will cut 500 jobs, or about 2% of its global workforce, as the gambling industry grapples with higher UK taxes, tighter regulation and growing competition from prediction markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/ladbrokes-owner-entain-to-cut-2-of-workforce-as-uk-taxes-bite",
-    "published": "Thu, 16 Jul 2026 15:01:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.584105"
-  },
-  {
-    "id": "2dba420cbb71",
-    "title": "Multistrat Hedge Fund Paloma to Cut Teams in Latest Pivot",
-    "title_cn": "Multistrat 对冲基金 Paloma 将在最新转型中裁员",
-    "summary": "Donald Sussman, the veteran behind Paloma Partners, is pivoting his long-standing multistrategy hedge fund to focus on fewer managers in which he has the highest conviction as the firm adjusts to a decline in assets over the past three years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/multistrat-hedge-fund-paloma-to-cut-teams-in-latest-pivot",
-    "published": "Thu, 16 Jul 2026 12:15:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.706050"
+    "fetched_at": "2026-07-16T17:54:24.342408"
   },
   {
     "id": "9c60c62f2d49",
@@ -297,7 +217,117 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/balbec-raises-930-million-for-flagship-fund-s-first-close",
     "published": "Thu, 16 Jul 2026 15:33:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.826547"
+    "fetched_at": "2026-07-16T17:54:24.441556"
+  },
+  {
+    "id": "ef4918b5e936",
+    "title": "Paschi Casts Doubts On Intesa Bid, Urges Studying BPM Plan",
+    "title_cn": "Paschi 对 Intesa 竞标表示怀疑，敦促研究 BPM 计划",
+    "summary": "Banca Monte dei Paschi di Siena SpA expressed broad concerns over a takeover bid by Intesa Sanpaolo SpA while highlighting perceived benefits in a rough rival pitch presented by Banco BPM SpA.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/paschi-casts-doubts-over-intesa-bid-suggests-studying-bpm-plan",
+    "published": "Thu, 16 Jul 2026 15:57:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:24.545720"
+  },
+  {
+    "id": "a5be38ce469e",
+    "title": "Chip Stocks Hit by AI Spending Worries After Rally: Markets Wrap",
+    "title_cn": "芯片股在反弹后受到人工智能支出担忧的打击：市场结束",
+    "summary": "A selloff in chipmakers dragged down stocks amid concerns over whether massive artificial-intelligence investments will justify lofty valuations, with a resurgence in geopolitical risks also weighing on sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/stock-market-today-dow-s-p-live-updates",
+    "published": "Wed, 15 Jul 2026 22:07:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:24.656316"
+  },
+  {
+    "id": "c0b0f04b50df",
+    "title": "Oil Traders Crowd Around Cheap TACO Hedge as Iran War Escalates",
+    "title_cn": "随着伊朗战争升级，石油交易商纷纷围观廉价的 TACO 对冲",
+    "summary": "An unusual options trade is becoming a favored hedge against the risks of sudden U-turns in US President Donald Trump’s stance on Iran, a dynamic that has repeatedly whipsawed markets in recent months.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/oil-traders-crowd-around-cheap-taco-hedge-as-iran-war-escalates",
+    "published": "Thu, 16 Jul 2026 16:40:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:24.770266"
+  },
+  {
+    "id": "011c93aae9c4",
+    "title": "Podcast: Tokenization, Digital Twins and the Future of ETFs",
+    "title_cn": "播客：代币化、数字孪生和 ETF 的未来",
+    "summary": "<p>On this episode of <em>Trillions</em>, we explore how this government transformation will affect stocks, bonds and exchange-traded funds.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/podcast-tokenization-digital-twins-and-the-future-of-etfs",
+    "published": "Thu, 16 Jul 2026 16:35:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:24.903489"
+  },
+  {
+    "id": "1d645cf502d6",
+    "title": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge",
+    "title_cn": "随着炼油利润飙升，将石油转化为燃料从未如此有利可图",
+    "summary": "Profit margins for US refiners making gasoline and diesel from crude oil are shattering records, as fuel supply disruptions driven by war lift prices for refined products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/turning-oil-to-fuel-has-never-been-more-profitable-as-refining-margins-surge",
+    "published": "Thu, 16 Jul 2026 16:33:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.004054"
+  },
+  {
+    "id": "241706d78b88",
+    "title": "Citi Traders Pitch Shorting French Shipping Giant CMA CGM Bonds",
+    "title_cn": "花旗交易员卖空法国航运巨头达飞轮船 (CMA CGM) 债券",
+    "summary": "Citigroup’s credit traders and analysts are recommending their hedge fund clients short bonds issued by French shipping giant CMA CGM Group, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/citi-traders-pitch-shorting-french-shipping-giant-cma-cgm-bonds",
+    "published": "Thu, 16 Jul 2026 16:01:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.120164"
+  },
+  {
+    "id": "89625c67c9f4",
+    "title": "Latest Oil Market News and Analysis for July 16",
+    "title_cn": "7 月 16 日最新石油市场新闻和分析",
+    "summary": "Oil steadied, largely holding onto a run of gains with concerns mounting about disruptions to flows from the Middle East as US strikes against Iran intensify.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-15/latest-oil-market-news-and-analysis-for-july-16",
+    "published": "Wed, 15 Jul 2026 22:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.226713"
+  },
+  {
+    "id": "a4a6b2de0238",
+    "title": "Chevron to Sign Oil Investment Accords With Iraq on Friday",
+    "title_cn": "雪佛龙将于周五与伊拉克签署石油投资协议",
+    "summary": "Chevron Corp. expects to sign accords with Iraq on Friday that will advance its negotiations about investing in large oil fields, according to a senior company executive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/chevron-to-sign-oil-investment-accords-with-iraq-on-friday",
+    "published": "Thu, 16 Jul 2026 15:52:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.351935"
+  },
+  {
+    "id": "8cdf3acb5858",
+    "title": "European Stocks Post Small Gains After a Day of Volatile Trading",
+    "title_cn": "经过一天的波动交易后，欧洲股市小幅上涨",
+    "summary": "European stocks recouped the day’s declines to end modestly higher, with investors monitoring renewed geopolitical risks. ABB Ltd. fell 5.9% after a deal to buy British industrial components maker Rotork Plc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/european-stocks-edge-lower-in-busy-day-for-earnings-and-deals",
+    "published": "Thu, 16 Jul 2026 07:17:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.451325"
+  },
+  {
+    "id": "f02f4bbd2c06",
+    "title": "Ladbrokes Owner Entain to Cut 2% of Staff as UK Taxes Hit",
+    "title_cn": "英国税收打击立博老板拟裁员 2%",
+    "summary": "Entain Plc will cut 500 jobs, or about 2% of its global workforce, as the gambling industry grapples with higher UK taxes, tighter regulation and growing competition from prediction markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/ladbrokes-owner-entain-to-cut-2-of-workforce-as-uk-taxes-bite",
+    "published": "Thu, 16 Jul 2026 15:01:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.562946"
+  },
+  {
+    "id": "2dba420cbb71",
+    "title": "Multistrat Hedge Fund Paloma to Cut Teams in Latest Pivot",
+    "title_cn": "Multistrat 对冲基金 Paloma 将在最新转型中裁员",
+    "summary": "Donald Sussman, the veteran behind Paloma Partners, is pivoting his long-standing multistrategy hedge fund to focus on fewer managers in which he has the highest conviction as the firm adjusts to a decline in assets over the past three years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/multistrat-hedge-fund-paloma-to-cut-teams-in-latest-pivot",
+    "published": "Thu, 16 Jul 2026 12:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-16T17:54:25.677447"
   },
   {
     "id": "0d8d97e936ae",
@@ -307,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/india-s-maruti-to-fight-order-to-replace-car-over-ethanol-damage",
     "published": "Thu, 16 Jul 2026 15:31:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:21.953013"
+    "fetched_at": "2026-07-16T17:54:25.781502"
   },
   {
     "id": "58578e0e0577",
@@ -317,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/wheat-holds-near-two-month-high-after-black-sea-attacks",
     "published": "Thu, 16 Jul 2026 03:13:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.127207"
+    "fetched_at": "2026-07-16T17:54:25.878894"
   },
   {
     "id": "34b4d5c57a0f",
@@ -327,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/aston-martin-creditors-tap-jefferies-as-debt-worries-grow",
     "published": "Thu, 16 Jul 2026 15:12:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.246630"
+    "fetched_at": "2026-07-16T17:54:25.996971"
   },
   {
     "id": "aed41d6f6f52",
@@ -337,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/bank-of-america-exits-chicago-plan-to-sell-overdue-parking-debt",
     "published": "Thu, 16 Jul 2026 15:03:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.371099"
+    "fetched_at": "2026-07-16T17:54:26.098702"
   },
   {
     "id": "c18259637972",
@@ -347,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/bond-traders-bail-on-fed-hike-wagers-on-softer-inflation-outlook",
     "published": "Thu, 16 Jul 2026 15:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.488621"
+    "fetched_at": "2026-07-16T17:54:26.245856"
   },
   {
     "id": "3da5e8786297",
@@ -357,7 +387,7 @@
     "link": "https://www.bloomberg.com/sessions/2026-07-17/live-q-amp-a-what-nigeria-s-top-returns-tell-investors-about-african-stocks",
     "published": "Thu, 16 Jul 2026 14:51:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.613216"
+    "fetched_at": "2026-07-16T17:54:26.339286"
   },
   {
     "id": "d47c54348cdf",
@@ -367,37 +397,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-15/gold-steadies-as-soft-inflation-war-risk-cloud-fed-rate-outlook",
     "published": "Wed, 15 Jul 2026 22:57:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.769165"
+    "fetched_at": "2026-07-16T17:54:26.433067"
   },
   {
-    "id": "dd2fcc8705c7",
-    "title": "Emerging Currencies Dip as Oil, Dollar Spike Over Iran Worries",
-    "title_cn": "伊朗担忧导致石油和美元飙升，新兴货币下跌",
-    "summary": "Most developing-world currencies fell Thursday as renewed worries about tensions in the Middle East lifted oil prices in another risk-off session in global markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/emerging-stocks-slump-as-korea-curbs-fan-selloff-in-chip-giants",
-    "published": "Thu, 16 Jul 2026 09:13:20 GMT",
+    "id": "f8dac0807575",
+    "title": "Digi Spanish Unit Shares Close Lower After €287 Million IPO",
+    "title_cn": "Digi 西班牙单位股价在 2.87 亿欧元首次公开募股后收盘下跌",
+    "summary": "Digi Spain Telecom SA shares closed lower in their debut in Spain on Thursday, after a rare initial public offering in the country.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/digi-spanish-unit-shares-rise-7-in-debut-after-287-million-ipo",
+    "published": "Thu, 16 Jul 2026 10:08:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:22.901632"
+    "fetched_at": "2026-07-16T17:54:27.014991"
   },
   {
-    "id": "1b9e43acac89",
-    "title": "Faena Condo Project Sells $30 Million Penthouse on Miami River",
-    "title_cn": "Faena 公寓项目在迈阿密河上出售价值 3000 万美元的顶层公寓",
-    "summary": "Argentine fashion entrepreneur-turned-developer Alan Faena sold a $30 million penthouse in his planned twin condo towers on the Miami River, a milestone in the mission to take his maximalist, theatrical brand worldwide.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/faena-condo-project-sells-30-million-penthouse-on-miami-river",
-    "published": "Thu, 16 Jul 2026 14:36:49 GMT",
+    "id": "ffa2cb09b9a7",
+    "title": "Ryan Cohen Vows GameStop Will Pursue eBay Despite Offer Being Rebuffed",
+    "title_cn": "瑞安·科恩 (Ryan Cohen) 誓言 GameStop 将收购 eBay，尽管报价遭到拒绝",
+    "summary": "GameStop Corp. Chief Executive Officer Ryan Cohen declined to say if he planned to raise his $56 billion offer for online auctioneer eBay Inc., but said “we’re coming for eBay one way or another.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/gamestop-ceo-ryan-cohen-is-coming-for-ebay-one-way-or-another",
+    "published": "Thu, 16 Jul 2026 16:44:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:23.046284"
+    "fetched_at": "2026-07-16T17:54:27.122419"
   },
   {
-    "id": "0df59f753bd1",
-    "title": "Jump Trading Doubles Team to Ride Record Prediction Market Boom",
-    "title_cn": "Jump Trading 双打团队将创造创纪录的预测市场繁荣",
-    "summary": "As prediction markets draw record trading around events like the World Cup, Jump Trading Group is betting the once-niche contracts are becoming a lasting corner of Wall Street.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/jump-trading-doubles-team-to-ride-record-prediction-market-boom",
-    "published": "Thu, 16 Jul 2026 13:17:33 GMT",
+    "id": "c28c02e98b0d",
+    "title": "Verizon Cuts Store Workers in Reorganization Strategy",
+    "title_cn": "Verizon 在重组战略中裁员",
+    "summary": "Verizon Communications Inc. announced a round of layoffs Thursday that will impact about 3,000 employees in corporate-owned retail stores, the latest move in new Chief Executive Officer Dan Schulman’s plan to transform the mobile provider.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/verizon-cuts-store-workers-in-reorganization-strategy",
+    "published": "Thu, 16 Jul 2026 16:38:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:23.184844"
+    "fetched_at": "2026-07-16T17:54:27.232360"
   },
   {
     "id": "e84c9e64d939",
@@ -407,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/palm-beach-strikes-down-data-center-plan-after-local-backlash",
     "published": "Thu, 16 Jul 2026 02:45:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:23.808983"
+    "fetched_at": "2026-07-16T17:54:27.338999"
   },
   {
     "id": "41f2b49877ad",
@@ -417,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-stock-futures-tumble-as-tsmc-s-results-revive-ai-concerns",
     "published": "Thu, 16 Jul 2026 12:25:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:24.398393"
+    "fetched_at": "2026-07-16T17:54:27.474025"
   },
   {
     "id": "c856f7d01ae5",
@@ -427,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/oracle-risks-falling-behind-in-ai-race-as-spending-binge-bites",
     "published": "Thu, 16 Jul 2026 16:00:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:25.411388"
+    "fetched_at": "2026-07-16T17:54:27.625294"
   },
   {
     "id": "47dbe0a846a0",
@@ -437,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/hollywood-sci-fi-lot-pitched-as-site-to-make-real-space-age-weapons",
     "published": "Thu, 16 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:25.539096"
+    "fetched_at": "2026-07-16T17:54:27.733745"
   },
   {
     "id": "3647cbbb1b44",
@@ -447,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/carney-taps-general-dynamics-for-1-4-billion-canada-armored-vehicle-deal",
     "published": "Thu, 16 Jul 2026 15:52:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:26.068366"
+    "fetched_at": "2026-07-16T17:54:27.827845"
   },
   {
     "id": "287e83699442",
@@ -457,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/visa-is-expanding-its-crypto-push-with-new-stablecoin-platform",
     "published": "Thu, 16 Jul 2026 15:35:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:26.769009"
+    "fetched_at": "2026-07-16T17:54:27.963907"
   },
   {
     "id": "f64919be75ef",
@@ -467,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-led-ai-body-enlists-global-south-states-to-rival-us",
     "published": "Thu, 16 Jul 2026 15:28:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:27.387718"
+    "fetched_at": "2026-07-16T17:54:28.068296"
   },
   {
     "id": "0de53c269504",
@@ -477,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/sea-drone-maker-saronic-to-build-new-shipyard-in-south-texas",
     "published": "Thu, 16 Jul 2026 13:38:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:27.532707"
+    "fetched_at": "2026-07-16T17:54:28.175793"
   },
   {
     "id": "b86967d3b3ec",
@@ -487,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027",
     "published": "Thu, 16 Jul 2026 13:22:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:27.671265"
+    "fetched_at": "2026-07-16T17:54:28.286744"
   },
   {
     "id": "fdff5910d0b6",
@@ -497,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/uber-agrees-to-buy-delivery-hero-as-food-sector-consolidates",
     "published": "Thu, 16 Jul 2026 06:06:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:27.783010"
+    "fetched_at": "2026-07-16T17:54:28.416763"
   },
   {
     "id": "49b2a02d3743",
@@ -507,17 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/travel-agency-platform-fora-valued-at-1-billion-in-new-funding",
     "published": "Thu, 16 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:27.924582"
-  },
-  {
-    "id": "f8dac0807575",
-    "title": "Digi Spanish Unit’s Shares Climb 7% After €287 Million IPO",
-    "title_cn": "Digi 西班牙子公司 2.87 亿欧元 IPO 后股价上涨 7%",
-    "summary": "Digi Spain Telecom SA shares opened higher in their debut in Spain on Thursday, completing a rare initial public offering in the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/digi-spanish-unit-shares-rise-7-in-debut-after-287-million-ipo",
-    "published": "Thu, 16 Jul 2026 10:08:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.058877"
+    "fetched_at": "2026-07-16T17:54:28.524714"
   },
   {
     "id": "f74d30f83b8b",
@@ -527,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/google-must-give-gemini-rivals-equal-access-to-android-system-eu-says",
     "published": "Thu, 16 Jul 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.201451"
+    "fetched_at": "2026-07-16T17:54:28.637384"
   },
   {
     "id": "21849959d704",
@@ -537,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/franklin-templeton-cuts-ai-bets-favors-chinese-internet-stocks",
     "published": "Thu, 16 Jul 2026 11:57:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.340613"
+    "fetched_at": "2026-07-16T17:54:28.751936"
   },
   {
     "id": "4b42f82e9893",
@@ -547,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/cxmt-s-blockbuster-ipo-212-times-covered-for-retail-investors",
     "published": "Thu, 16 Jul 2026 11:52:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.463036"
+    "fetched_at": "2026-07-16T17:54:28.875166"
   },
   {
     "id": "55b8ee2764b9",
@@ -557,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/japan-to-buy-nvidia-rubin-chips-to-build-sovereign-ai-for-robots",
     "published": "Thu, 16 Jul 2026 07:40:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.607910"
+    "fetched_at": "2026-07-16T17:54:28.971287"
   },
   {
     "id": "3100bff02733",
@@ -567,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-06-25/ai-demand-begins-to-justify-massive-cost-of-data-center-buildout",
     "published": "Thu, 25 Jun 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.734803"
+    "fetched_at": "2026-07-16T17:54:29.076821"
   },
   {
     "id": "c764fae06b63",
@@ -577,27 +597,27 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/ai-companion-bots-and-virtual-lovers-face-china-crackdown",
     "published": "Thu, 16 Jul 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.875133"
+    "fetched_at": "2026-07-16T17:54:29.195454"
   },
   {
-    "id": "2689c9cb1c02",
-    "title": "Vital Signals Announces $399 Signal Ring That Gives Blood Pressure Readings",
-    "title_cn": "Vital Signals 推出售价 399 美元的信号环，可提供血压读数",
-    "summary": "A three-year-old startup says it has produced a smart ring that can track blood pressure as accurately as a traditional arm cuff and that — eventually — it could be able to make medical diagnoses. If the company, called Vital Signals, can successfully deliver on the promise, it would represent a significant breakthrough in consumer wearables.",
-    "link": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings",
-    "published": "Thu, 16 Jul 2026 11:00:20 GMT",
+    "id": "8ff6ea2c3525",
+    "title": "Dark Ships and Oman Transfers Indicate Hormuz Transits Continue",
+    "title_cn": "黑船和阿曼转运表明霍尔木兹转运仍在继续",
+    "summary": "A handful of oil tankers were seen conducting ship-to-ship transfers off the coast of Oman, a sign that ships are continuing to sail through the Strait of Hormuz before offloading their cargoes onto other vessels after recent Iranian attacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/dark-ships-and-oman-transfers-indicate-hormuz-transits-continue",
+    "published": "Thu, 16 Jul 2026 17:03:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:28.991896"
+    "fetched_at": "2026-07-16T17:54:29.817220"
   },
   {
-    "id": "5e37703dd8df",
-    "title": "China Sends Robots Into the World to Learn How to Be Human",
-    "title_cn": "中国将机器人送到世界各地学习如何做人",
-    "summary": "In an industrial park on the outskirts of Beijing, a humanoid arm picks up a bag of Lay’s potato chips and places it neatly along a row of snacks on a shelf. Nearby, a worker films himself grabbing cushions off a sofa and folding sheets on a bed, recording videos that will be used to develop brains for robots.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-15/china-sends-robots-out-into-the-world-to-learn-how-to-be-human",
-    "published": "Wed, 15 Jul 2026 22:00:00 GMT",
+    "id": "bb245fe601e2",
+    "title": "Deadly ICE Shooting Jolts Already Chaotic Maine Senate Race",
+    "title_cn": "致命的 ICE 枪击事件扰乱了已经混乱的缅因州参议院竞选",
+    "summary": "The Maine Senate race has been jolted yet again after the fatal shooting of a Colombian man by a federal agent this week, galvanizing Democrats against President Donald Trump’s immigration crackdown.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/deadly-ice-shooting-jolts-an-already-chaotic-maine-senate-race",
+    "published": "Thu, 16 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:29.100555"
+    "fetched_at": "2026-07-16T17:54:29.913554"
   },
   {
     "id": "b6e605e319e9",
@@ -607,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/trump-to-limit-student-visas-to-four-years-in-latest-crackdown",
     "published": "Thu, 16 Jul 2026 15:08:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:30.020938"
+    "fetched_at": "2026-07-16T17:54:30.020734"
   },
   {
     "id": "e87579943735",
@@ -617,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/protests-flare-in-kyiv-over-ouster-of-popular-defense-minister",
     "published": "Thu, 16 Jul 2026 08:37:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:30.778463"
+    "fetched_at": "2026-07-16T17:54:30.134961"
   },
   {
     "id": "d132efe3096c",
@@ -627,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/hungary-probing-ex-foreign-minister-s-russia-ties-magyar-says",
     "published": "Thu, 16 Jul 2026 16:08:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.041706"
+    "fetched_at": "2026-07-16T17:54:30.243765"
   },
   {
     "id": "9ab6406c2786",
@@ -637,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/vance-stokes-clash-with-senate-over-trump-voter-id-legislation",
     "published": "Thu, 16 Jul 2026 15:38:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.172368"
+    "fetched_at": "2026-07-16T17:54:30.367601"
   },
   {
     "id": "8f058a9d6ad9",
@@ -647,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/iran-us-skirmishes-worsen-as-hormuz-shipping-traffic-dwindles",
     "published": "Thu, 16 Jul 2026 06:54:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.303919"
+    "fetched_at": "2026-07-16T17:54:30.486960"
   },
   {
     "id": "7f6754d55e30",
@@ -657,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/trump-gop-amass-1-1-billion-to-battle-democrats-in-midterms",
     "published": "Thu, 16 Jul 2026 15:06:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.422794"
+    "fetched_at": "2026-07-16T17:54:30.594682"
   },
   {
     "id": "5cd3e5e798c1",
@@ -667,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/us-25-tariffs-on-brazil-risk-becoming-an-election-gift-to-lula",
     "published": "Thu, 16 Jul 2026 11:34:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.537098"
+    "fetched_at": "2026-07-16T17:54:30.688103"
   },
   {
     "id": "7f8c155e2a83",
@@ -677,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/iraq-suspends-basrah-oil-loadings-after-drone-attack-on-tanker",
     "published": "Thu, 16 Jul 2026 10:01:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.642752"
+    "fetched_at": "2026-07-16T17:54:30.787037"
   },
   {
     "id": "1aaff16d66aa",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/mahmood-s-economic-blank-slate-key-to-appeal-as-uk-chancellor",
     "published": "Thu, 16 Jul 2026 14:10:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.748378"
+    "fetched_at": "2026-07-16T17:54:30.892367"
   },
   {
     "id": "bf800789c5eb",
@@ -697,17 +717,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/reid-hoffman-pumps-10-million-into-talarico-s-texas-senate-bid",
     "published": "Thu, 16 Jul 2026 11:51:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.872589"
+    "fetched_at": "2026-07-16T17:54:31.015687"
   },
   {
     "id": "3e708bc87068",
     "title": "UK Aims to Send Ukraine Pared-Down Ballistic Missile in 2027",
-    "title_cn": "英国计划于 2027 年向乌克兰发射精简型弹道导弹",
+    "title_cn": "英国计划于 2027 年向乌克兰发射精简版弹道导弹",
     "summary": "The UK has signed contracts with multiple companies to develop the country’s first ballistic missile in more than half a century in a bid to both support Ukraine and reduce Europe’s reliance on American weaponry.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/uk-plans-to-send-ukraine-pared-down-ballistic-missile-in-2027",
     "published": "Thu, 16 Jul 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:32.994069"
+    "fetched_at": "2026-07-16T17:54:31.123080"
   },
   {
     "id": "ebcfb3833a95",
@@ -717,17 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/india-court-voids-visa-services-tenders-in-australia-singapore",
     "published": "Thu, 16 Jul 2026 13:18:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.107881"
-  },
-  {
-    "id": "bb245fe601e2",
-    "title": "Deadly ICE Shooting Jolts an Already Chaotic Maine Senate Race",
-    "title_cn": "致命的 ICE 枪击事件扰乱了本已混乱的缅因州参议院竞选",
-    "summary": "The Maine Senate race has been jolted yet again after the fatal shooting of a Colombian man by a federal agent this week, galvanizing Democrats against President Donald Trump’s immigration crackdown.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/deadly-ice-shooting-jolts-an-already-chaotic-maine-senate-race",
-    "published": "Thu, 16 Jul 2026 13:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.217447"
+    "fetched_at": "2026-07-16T17:54:31.220075"
   },
   {
     "id": "3da1fac6e94a",
@@ -737,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/dario-amodei-anthropic-employees-give-millions-to-regulate-ai",
     "published": "Thu, 16 Jul 2026 12:53:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.333629"
+    "fetched_at": "2026-07-16T17:54:31.381048"
   },
   {
     "id": "884925569815",
@@ -747,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/meloni-s-electoral-reform-clears-italy-s-lower-house-with-vote",
     "published": "Thu, 16 Jul 2026 09:46:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.446063"
+    "fetched_at": "2026-07-16T17:54:31.500764"
   },
   {
     "id": "8d49e8ce9b0c",
@@ -757,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/uk-minister-urges-fifa-to-probe-argentina-s-falklands-banner",
     "published": "Thu, 16 Jul 2026 10:05:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.565161"
+    "fetched_at": "2026-07-16T17:54:31.608660"
   },
   {
     "id": "5417a448096f",
@@ -767,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/finnish-premier-asks-parliament-to-convene-as-scandal-flares-up",
     "published": "Thu, 16 Jul 2026 11:25:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.684822"
+    "fetched_at": "2026-07-16T17:54:31.724495"
   },
   {
     "id": "9764ef662174",
@@ -777,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/maine-texas-ice-shootings-add-to-gop-midterm-pressures",
     "published": "Thu, 16 Jul 2026 11:21:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.811001"
+    "fetched_at": "2026-07-16T17:54:31.840926"
   },
   {
     "id": "415db18ac630",
@@ -787,16 +797,6 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-16/xi-scores-a-soft-power-win-over-trump-as-pew-survey-shows-china-gain-on-us",
     "published": "Thu, 16 Jul 2026 09:59:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-16T16:42:33.938496"
-  },
-  {
-    "id": "644ed6dc363b",
-    "title": "Ukraine Hit Two Large Russia-Linked Oil Tankers in Black Sea",
-    "title_cn": "乌克兰在黑海击中两艘与俄罗斯有关的大型油轮",
-    "summary": "Ukrainian naval drones hit two large Russia-linked oil tankers in the Black Sea as Moscow and Kyiv expand the scope of their mutual maritime strikes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-16/ukraine-hit-two-large-russia-linked-oil-tankers-in-black-sea",
-    "published": "Thu, 16 Jul 2026 08:21:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-16T16:42:34.059631"
+    "fetched_at": "2026-07-16T17:54:31.966277"
   }
 ]
