@@ -1,12 +1,93 @@
 [
   {
+    "id": "7587ee659246",
+    "title": "Bloomberg Businessweek Daily: Food Safety (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-businessweek-daily-food-safety-podcast",
+    "published": "Fri, 17 Jul 2026 22:00:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183532"
+  },
+  {
+    "id": "98330389e1c8",
+    "title": "Bloomberg Talks: Miguel Lorenzo (Podcast)",
+    "summary": "Source: Bloomberg, 11:51",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-miguel-lorenzo-podcast",
+    "published": "Fri, 17 Jul 2026 21:48:08 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183547"
+  },
+  {
+    "id": "a03bd530da69",
+    "title": "Bloomberg Money: (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-money-podcast",
+    "published": "Fri, 17 Jul 2026 21:47:19 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183554"
+  },
+  {
+    "id": "97f6c04dea4d",
+    "title": "Masters in Business: Jason Wenk (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/masters-in-business-jason-wenk-podcast",
+    "published": "Fri, 17 Jul 2026 21:43:34 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183560"
+  },
+  {
+    "id": "8019d9ff0f64",
+    "title": "It’s Getting Too Expensive to Retire in America: Evening Briefing Americas",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/it-s-getting-too-expensive-to-retire-in-america-evening-briefing-americas",
+    "published": "Fri, 17 Jul 2026 21:37:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183565"
+  },
+  {
+    "id": "d3cd68f90b69",
+    "title": "Carney’s Gordie Howe Bridge Deal Full Text Splits Revenues With US for 15 Years",
+    "summary": "Plus: Tariff threats over wildfire smoke",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/carney-s-gordie-howe-bridge-deal-full-text-splits-revenues-with-us-for-15-years",
+    "published": "Fri, 17 Jul 2026 21:28:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183571"
+  },
+  {
+    "id": "2cbc00be4453",
+    "title": "Stock Movers: PayPal, SpaceX, Apple (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/stock-movers-paypal-spacex-apple-podcast",
+    "published": "Fri, 17 Jul 2026 21:16:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183576"
+  },
+  {
+    "id": "861700c29606",
+    "title": "Chip Stocks Slide Into Bear Market, SpaceX Slump Wipes $1T, More",
+    "summary": "Source: Bloomberg, 5:58",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-slide-into-bear-market-spacex-slump-wipes-1t-more",
+    "published": "Fri, 17 Jul 2026 21:03:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183585"
+  },
+  {
+    "id": "78cdb11293d0",
+    "title": "How Inflation and Inequality are Pushing Up the Cost of Fun",
+    "summary": "<p>Today on the Big Take: Why fun has become an unaffordable luxury for many Americans — and what you can do about it.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/how-inflation-and-inequality-are-pushing-up-the-cost-of-fun",
+    "published": "Fri, 17 Jul 2026 21:00:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.183591"
+  },
+  {
     "id": "c3d0248da966",
     "title": "Big Take: America’s Fun Shortage (Podcast)",
     "summary": "Source: Bloomberg, 14:14",
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/big-take-america-s-fun-shortage-podcast",
     "published": "Fri, 17 Jul 2026 20:30:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063849"
+    "fetched_at": "2026-07-17T22:07:15.183597"
   },
   {
     "id": "215ccdc2a4c4",
@@ -15,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/stocks-close-lower-apple-in-early-settlement-talks-with-doj",
     "published": "Fri, 17 Jul 2026 20:14:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063864"
+    "fetched_at": "2026-07-17T22:07:15.183603"
   },
   {
     "id": "6ce8ec7622db",
@@ -24,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide",
     "published": "Fri, 17 Jul 2026 13:38:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063871"
+    "fetched_at": "2026-07-17T22:07:15.183609"
   },
   {
     "id": "a7310dfc3c26",
@@ -33,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/balance-of-power-trump-sows-election-doubts-podcast",
     "published": "Fri, 17 Jul 2026 19:29:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063877"
+    "fetched_at": "2026-07-17T22:07:15.183614"
   },
   {
     "id": "8b23f8c4fcb6",
@@ -42,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-tech-china-s-moonshot-podcast",
     "published": "Fri, 17 Jul 2026 19:23:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063882"
+    "fetched_at": "2026-07-17T22:07:15.183619"
   },
   {
     "id": "ee8e2a0ed97d",
@@ -51,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/stock-movers-apple-netflix-meta-podcast",
     "published": "Fri, 17 Jul 2026 19:21:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063888"
+    "fetched_at": "2026-07-17T22:07:15.183624"
   },
   {
     "id": "8a525c6165e4",
@@ -60,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-daybreak-weekend-new-home-sales-preview-podcast",
     "published": "Fri, 17 Jul 2026 19:09:37 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063893"
+    "fetched_at": "2026-07-17T22:07:15.183629"
   },
   {
     "id": "372a19a09468",
@@ -69,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-poised-for-bear-market-smoke-chokes-us-cities-more",
     "published": "Fri, 17 Jul 2026 19:06:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063902"
+    "fetched_at": "2026-07-17T22:07:15.183634"
   },
   {
     "id": "c2c11399984d",
@@ -78,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/week-ahead-tesla-alphabet-intel-podcast",
     "published": "Fri, 17 Jul 2026 18:48:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063908"
+    "fetched_at": "2026-07-17T22:07:15.183639"
   },
   {
     "id": "27ea553cbb02",
@@ -87,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/wild-swings-for-chips-wildfire-smoke-engulfs-us-cities-more",
     "published": "Fri, 17 Jul 2026 18:21:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063914"
+    "fetched_at": "2026-07-17T22:07:15.183644"
   },
   {
     "id": "305a4244bd0c",
@@ -96,97 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-wall-street-week-july-17th-2026-podcast",
     "published": "Fri, 17 Jul 2026 17:52:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063920"
-  },
-  {
-    "id": "987c8cb98b7d",
-    "title": "Tech Slides, Nvidia, Apple Fight for Top, Smoke Chokes US Cities",
-    "summary": "Source: Bloomberg, 6:01",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/tech-slides-nvidia-apple-fight-for-top-smoke-chokes-us-cities",
-    "published": "Fri, 17 Jul 2026 17:27:41 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063926"
-  },
-  {
-    "id": "f3c5fd3ee113",
-    "title": "Tech Disruptors: Booking.com on Global Demand, AI in Travel",
-    "summary": "“One of the things that’s been universally true ... is the human desire to travel is really strong. It’s very consistent,” says James Waters, chief business officer of Booking.com. Waters joins Bloomberg Intelligence analyst Nicole D’Souza on this episode of the Tech Disruptors podcast to discuss the outlook for global travel demand. They also explore the effect of macroeconomic and geopolitical trends on the industry and how Booking.com is using AI to enhance trip planning, customer service and",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/tech-disruptors-booking-com-on-global-demand-ai-in-travel",
-    "published": "Fri, 17 Jul 2026 17:15:45 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063931"
-  },
-  {
-    "id": "f897c9fa7b14",
-    "title": "Bloomberg Talks: Nouriel Roubini (Podcast)",
-    "summary": "Source: Bloomberg, 7:34",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-nouriel-roubini-podcast",
-    "published": "Fri, 17 Jul 2026 17:01:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063936"
-  },
-  {
-    "id": "10cb22613b9e",
-    "title": "Bloomberg Intelligence: Chip Stocks Sink on AI Fears (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-intelligence-chip-stocks-sink-on-ai-fears-podcast",
-    "published": "Fri, 17 Jul 2026 16:46:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063941"
-  },
-  {
-    "id": "a26807d555d2",
-    "title": "Bloomberg Surveillance TV: July 17th, 2026 (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-surveillance-tv-july-17th-2026-podcast",
-    "published": "Fri, 17 Jul 2026 16:43:09 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063946"
-  },
-  {
-    "id": "b8ec41c63843",
-    "title": "Bloomberg Business of Sports: World Cup Final (Podcast)",
-    "summary": "Source: Bloomberg, 37:23",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-business-of-sports-world-cup-final-podcast",
-    "published": "Fri, 17 Jul 2026 16:41:15 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063951"
-  },
-  {
-    "id": "ef5b3901e549",
-    "title": "Fighting Between Iran and the US Continues to Escalate",
-    "summary": "Get Caught Up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/fighting-between-iran-and-the-us-continues-to-escalate",
-    "published": "Fri, 17 Jul 2026 16:30:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063956"
-  },
-  {
-    "id": "9780462b1657",
-    "title": "Nvidia Drags Chip Stocks Lower, Wildfire Smoke Engulfs US Cities",
-    "summary": "Source: Bloomberg, 5:25",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/nvidia-drags-chip-stocks-lower-wildfire-smoke-engulfs-us-cities",
-    "published": "Fri, 17 Jul 2026 16:27:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063961"
-  },
-  {
-    "id": "0dc73db2ab49",
-    "title": "Canada’s Open Banking Rollout Nears, but Don’t Expect a Revolution",
-    "summary": "Also: Galen Weston joins a bank board",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/canada-s-open-banking-rollout-nears-but-don-t-expect-a-revolution",
-    "published": "Fri, 17 Jul 2026 16:17:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.063966"
-  },
-  {
-    "id": "c3a69b9df44d",
-    "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
-    "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
-    "published": "Fri, 17 Jul 2026 03:54:14 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569897"
+    "fetched_at": "2026-07-17T22:07:15.183648"
   },
   {
     "id": "cf8b1adce931",
@@ -195,7 +186,34 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 16 Jul 2026 22:05:23 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569911"
+    "fetched_at": "2026-07-17T22:07:15.498490"
+  },
+  {
+    "id": "4440f1520729",
+    "title": "Gauge of Oracle’s Credit Risk Hits Fresh All Time High",
+    "summary": "A measure of Oracle Corp.’s credit risk hit a record high on Friday as concerns grew about both the company’s aggressive cash-burn and the future profitability of its artificial intelligence investments amid a new Chinese model that could rival offerings from companies like OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/gauge-of-oracle-s-credit-risk-hits-fresh-all-time-high",
+    "published": "Fri, 17 Jul 2026 21:43:03 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.498504"
+  },
+  {
+    "id": "67b9360adfa4",
+    "title": "CoreLogic Wraps Up $5.25 Billion Debt Deal With Hefty Yields",
+    "summary": "CoreLogic Inc. raised $5.25 billion from a debt sale after amending the terms and offering some of the year’s highest yields in response to lukewarm investor demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
+    "published": "Thu, 16 Jul 2026 21:32:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.498510"
+  },
+  {
+    "id": "c3a69b9df44d",
+    "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
+    "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
+    "published": "Fri, 17 Jul 2026 03:54:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-17T22:07:15.498515"
   },
   {
     "id": "5423e8a45a72",
@@ -204,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
     "published": "Fri, 17 Jul 2026 20:36:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569917"
+    "fetched_at": "2026-07-17T22:07:15.498520"
   },
   {
     "id": "4ef5c6771780",
@@ -213,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
     "published": "Thu, 16 Jul 2026 23:59:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569922"
+    "fetched_at": "2026-07-17T22:07:15.498526"
   },
   {
     "id": "2739a969d1c2",
@@ -222,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/hedge-fund-blasts-settlement-with-sec-after-gag-rule-lifted",
     "published": "Fri, 17 Jul 2026 14:38:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569927"
+    "fetched_at": "2026-07-17T22:07:15.498531"
   },
   {
     "id": "125f535bc13b",
@@ -231,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-stock-index-futures-slide-as-jitters-grow-on-chip-selloff",
     "published": "Fri, 17 Jul 2026 08:13:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569932"
+    "fetched_at": "2026-07-17T22:07:15.498537"
   },
   {
     "id": "54f5f18910bf",
@@ -240,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/sweetgreen-pares-26-drop-as-parasite-tied-to-taco-bell-lettuce",
     "published": "Fri, 17 Jul 2026 15:58:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569936"
+    "fetched_at": "2026-07-17T22:07:15.498541"
   },
   {
     "id": "b2d3707127ed",
@@ -249,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
     "published": "Fri, 17 Jul 2026 13:38:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569941"
+    "fetched_at": "2026-07-17T22:07:15.498547"
   },
   {
     "id": "1edd6e437228",
@@ -258,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
     "published": "Fri, 17 Jul 2026 20:15:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569946"
+    "fetched_at": "2026-07-17T22:07:15.498552"
   },
   {
     "id": "9ef4cdfaec25",
@@ -267,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/hedge-funds-add-bullish-oil-bets-at-fastest-pace-in-a-decade",
     "published": "Fri, 17 Jul 2026 20:12:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569951"
+    "fetched_at": "2026-07-17T22:07:15.498557"
   },
   {
     "id": "3df78d5dcde2",
@@ -276,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/latest-oil-market-news-and-analysis-for-july-17",
     "published": "Thu, 16 Jul 2026 22:01:44 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569956"
+    "fetched_at": "2026-07-17T22:07:15.498562"
   },
   {
     "id": "4428d9cd23a1",
@@ -285,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/argentina-oil-boom-province-to-pitch-first-us-bond-since-2017",
     "published": "Fri, 17 Jul 2026 19:56:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569960"
+    "fetched_at": "2026-07-17T22:07:15.498567"
   },
   {
     "id": "4687c13c1ec1",
@@ -294,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/treasuries-post-weekly-advance-as-inflation-optimism-prevails",
     "published": "Fri, 17 Jul 2026 19:46:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569965"
+    "fetched_at": "2026-07-17T22:07:15.498573"
   },
   {
     "id": "2d565922a9c8",
@@ -303,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-oil-rig-count-notches-longest-streak-without-drop-since-2022",
     "published": "Fri, 17 Jul 2026 18:30:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569971"
+    "fetched_at": "2026-07-17T22:07:15.498578"
   },
   {
     "id": "ccf7927fab2f",
@@ -312,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/griffin-wants-to-buy-an-old-cottage-across-from-new-headquarters",
     "published": "Fri, 17 Jul 2026 15:47:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569976"
+    "fetched_at": "2026-07-17T22:07:15.498583"
   },
   {
     "id": "7acba41c4635",
@@ -321,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/blue-owl-backed-latigo-files-for-ipo-adding-to-biotech-pipeline",
     "published": "Fri, 17 Jul 2026 17:48:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569981"
+    "fetched_at": "2026-07-17T22:07:15.498588"
   },
   {
     "id": "e5eec3b7a0c5",
@@ -330,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/san-antonio-to-borrow-944-million-for-major-airport-expansion",
     "published": "Fri, 17 Jul 2026 17:21:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569985"
+    "fetched_at": "2026-07-17T22:07:15.498593"
   },
   {
     "id": "1280522d1334",
@@ -339,24 +357,6 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/why-the-moonshot-moment-may-not-be-a-deepseek-moment",
     "published": "Fri, 17 Jul 2026 17:13:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569990"
-  },
-  {
-    "id": "775f17ba0d95",
-    "title": "Amundi Says Oil, Gas Crucial to EU’s Clean-Energy Transition",
-    "summary": "Amundi SA wants the European Union to free asset managers to add oil and gas exposures to a new fund category intended to support the transition to a lower-carbon economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/amundi-wants-oil-gas-in-eu-s-new-energy-transition-fund-class",
-    "published": "Fri, 17 Jul 2026 08:32:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.569999"
-  },
-  {
-    "id": "32508008d6af",
-    "title": "Telecom Italia Is Said to Consider €10.8 Billion Poste Bid Fair",
-    "summary": "Telecom Italia SpA’s board is leaning toward endorsing Poste Italiane SpA’s €10.8 billion ($12.4 billion) takeover offer as fair, and is unlikely to seek a higher price, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-17/telecom-italia-is-said-to-consider-10-8-billion-poste-bid-fair",
-    "published": "Fri, 17 Jul 2026 16:46:35 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-17T21:01:03.570004"
+    "fetched_at": "2026-07-17T22:07:15.498597"
   }
 ]
