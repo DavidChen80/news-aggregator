@@ -1,0 +1,802 @@
+[
+  {
+    "id": "2a2102a3e35f",
+    "title": "Hong Kong Restaurant Review: Avanti Bistro Serves Authentic Xinjiang Dishes",
+    "title_cn": "香港餐厅点评：Avanti Bistro 供应正宗新疆菜",
+    "summary": "<p>Cozy Kowloon spot serves authentic samsa and kebab.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-18/hong-kong-restaurant-review-avanti-bistro-serves-authentic-xinjiang-dishes",
+    "published": "Sat, 18 Jul 2026 00:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:36.572050"
+  },
+  {
+    "id": "f08210ceb05a",
+    "title": "Chip Stocks Head into Bear Market, New US Strikes on Iran, More",
+    "title_cn": "芯片股进入熊市，美国对伊朗进行新的打击等等",
+    "summary": "Source: Bloomberg, 6:09",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-head-into-bear-market-new-us-strikes-on-iran-more",
+    "published": "Fri, 17 Jul 2026 23:12:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:36.733773"
+  },
+  {
+    "id": "26eb631bc7b6",
+    "title": "Bloomberg Talks: Adam Greenblatt (Podcast)",
+    "title_cn": "彭博谈话：亚当·格林布拉特（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-adam-greenblatt-podcast",
+    "published": "Fri, 17 Jul 2026 22:50:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:36.831667"
+  },
+  {
+    "id": "3d68201615f3",
+    "title": "Bloomberg Businessweek Daily: China's Kimi K3 AI Model (Podcast)",
+    "title_cn": "彭博商业周刊：中国的 Kimi K3 人工智能模型（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-businessweek-daily-china-s-kimi-k3-ai-model-podcast",
+    "published": "Fri, 17 Jul 2026 22:17:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:36.914732"
+  },
+  {
+    "id": "7b79c833e920",
+    "title": "Chip Stocks Slide into Bear Market, US Renews Strikes on Iran",
+    "title_cn": "芯片股跌入熊市，美国重启对伊朗的打击",
+    "summary": "Source: Bloomberg, 5:26",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-slide-into-bear-market-us-renews-strikes-on-iran",
+    "published": "Fri, 17 Jul 2026 22:12:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.003223"
+  },
+  {
+    "id": "7587ee659246",
+    "title": "Bloomberg Businessweek Daily: Food Safety (Podcast)",
+    "title_cn": "彭博商业周刊日报：食品安全（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-businessweek-daily-food-safety-podcast",
+    "published": "Fri, 17 Jul 2026 22:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.103125"
+  },
+  {
+    "id": "98330389e1c8",
+    "title": "Bloomberg Talks: Miguel Lorenzo (Podcast)",
+    "title_cn": "彭博社谈话：米格尔·洛伦佐（播客）",
+    "summary": "Source: Bloomberg, 11:51",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-miguel-lorenzo-podcast",
+    "published": "Fri, 17 Jul 2026 21:48:08 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.258369"
+  },
+  {
+    "id": "a03bd530da69",
+    "title": "Bloomberg Money: (Podcast)",
+    "title_cn": "彭博财经：（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-money-podcast",
+    "published": "Fri, 17 Jul 2026 21:47:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.353659"
+  },
+  {
+    "id": "97f6c04dea4d",
+    "title": "Masters in Business: Jason Wenk (Podcast)",
+    "title_cn": "商业硕士：Jason Wenk（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/masters-in-business-jason-wenk-podcast",
+    "published": "Fri, 17 Jul 2026 21:43:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.443706"
+  },
+  {
+    "id": "8019d9ff0f64",
+    "title": "It’s Getting Too Expensive to Retire in America: Evening Briefing Americas",
+    "title_cn": "在美国退休太贵了：美洲晚间简报",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/it-s-getting-too-expensive-to-retire-in-america-evening-briefing-americas",
+    "published": "Fri, 17 Jul 2026 21:37:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.561198"
+  },
+  {
+    "id": "d3cd68f90b69",
+    "title": "Carney’s Gordie Howe Bridge Deal Full Text Splits Revenues With US for 15 Years",
+    "title_cn": "卡尼的戈迪豪大桥交易全文与美国分享收入 15 年",
+    "summary": "Plus: Tariff threats over wildfire smoke",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/carney-s-gordie-howe-bridge-deal-full-text-splits-revenues-with-us-for-15-years",
+    "published": "Fri, 17 Jul 2026 21:28:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.658438"
+  },
+  {
+    "id": "2cbc00be4453",
+    "title": "Stock Movers: PayPal, SpaceX, Apple (Podcast)",
+    "title_cn": "股票推动者：PayPal、SpaceX、苹果（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/stock-movers-paypal-spacex-apple-podcast",
+    "published": "Fri, 17 Jul 2026 21:16:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.804966"
+  },
+  {
+    "id": "861700c29606",
+    "title": "Chip Stocks Slide Into Bear Market, SpaceX Slump Wipes $1T, More",
+    "title_cn": "芯片股滑入熊市，SpaceX 暴跌 1T 美元，更多",
+    "summary": "Source: Bloomberg, 5:58",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-slide-into-bear-market-spacex-slump-wipes-1t-more",
+    "published": "Fri, 17 Jul 2026 21:03:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:37.914871"
+  },
+  {
+    "id": "78cdb11293d0",
+    "title": "How Inflation and Inequality are Pushing Up the Cost of Fun",
+    "title_cn": "通货膨胀和不平等如何推高娱乐成本",
+    "summary": "<p>Today on the Big Take: Why fun has become an unaffordable luxury for many Americans — and what you can do about it.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/how-inflation-and-inequality-are-pushing-up-the-cost-of-fun",
+    "published": "Fri, 17 Jul 2026 21:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.077164"
+  },
+  {
+    "id": "c3d0248da966",
+    "title": "Big Take: America’s Fun Shortage (Podcast)",
+    "title_cn": "大观点：美国的乐趣短缺（播客）",
+    "summary": "Source: Bloomberg, 14:14",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/big-take-america-s-fun-shortage-podcast",
+    "published": "Fri, 17 Jul 2026 20:30:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.241878"
+  },
+  {
+    "id": "215ccdc2a4c4",
+    "title": "Stocks Close Lower, Apple in Early Settlement Talks with DOJ",
+    "title_cn": "股市收低，苹果与司法部进行早期和解谈判",
+    "summary": "Source: Bloomberg, 5:48",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/stocks-close-lower-apple-in-early-settlement-talks-with-doj",
+    "published": "Fri, 17 Jul 2026 20:14:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.328725"
+  },
+  {
+    "id": "6ce8ec7622db",
+    "title": "SpaceX Slump Wipes Out $1 Trillion in Market Value From Peak",
+    "title_cn": "SpaceX 的暴跌使市值从巅峰时期蒸发了 1 万亿美元",
+    "summary": "SpaceX shares tumbled on Friday, erasing more than $1 trillion in market value from the rocket and artificial intelligence giant’s all-time high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-set-to-wipe-out-1-trillion-in-value-as-shares-slide",
+    "published": "Fri, 17 Jul 2026 13:38:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.427430"
+  },
+  {
+    "id": "a7310dfc3c26",
+    "title": "Balance of Power: Trump Sows Election Doubts (Podcast)",
+    "title_cn": "权力平衡：特朗普引发选举疑虑（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/balance-of-power-trump-sows-election-doubts-podcast",
+    "published": "Fri, 17 Jul 2026 19:29:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.578804"
+  },
+  {
+    "id": "8b23f8c4fcb6",
+    "title": "Bloomberg Tech: China's Moonshot (Podcast)",
+    "title_cn": "彭博科技：中国的登月计划（播客）",
+    "summary": "Source: Bloomberg, 44:03",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-tech-china-s-moonshot-podcast",
+    "published": "Fri, 17 Jul 2026 19:23:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.673446"
+  },
+  {
+    "id": "ee8e2a0ed97d",
+    "title": "Stock Movers: Apple, Netflix, Meta (Podcast)",
+    "title_cn": "股票走势：苹果、Netflix、Meta（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-17/stock-movers-apple-netflix-meta-podcast",
+    "published": "Fri, 17 Jul 2026 19:21:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:38.832559"
+  },
+  {
+    "id": "2a903f004c5c",
+    "title": "Apple Briefly Tops Nvidia as World’s Most Valuable Company",
+    "title_cn": "苹果短暂超越英伟达成为全球最有价值公司",
+    "summary": "Apple Inc. briefly overtook Nvidia Corp. as the world’s most valuable company, a title the chipmaker has held since May 2025.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
+    "published": "Fri, 17 Jul 2026 13:42:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.119949"
+  },
+  {
+    "id": "5201600e378f",
+    "title": "Baker Tilly Eyes $3 Billion in Debt to Replace Private Credit",
+    "title_cn": "Baker Tilly 计划用 30 亿美元债务取代私人信贷",
+    "summary": "Deutsche Bank AG is preparing to sell about $3 billion in debt markets for accounting services firm Baker Tilly Advisory Group to refinance private credit loans, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit",
+    "published": "Fri, 17 Jul 2026 22:10:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.214026"
+  },
+  {
+    "id": "cf8b1adce931",
+    "title": "Chip Stocks Slide Into Bear Market in AI Unwind: Markets Wrap",
+    "title_cn": "芯片股在人工智能放松中滑入熊市：市场结束",
+    "summary": "A selloff in chipmakers gathered pace, driving the high-profile group of stocks to a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 16 Jul 2026 22:05:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.316975"
+  },
+  {
+    "id": "4440f1520729",
+    "title": "Gauge of Oracle’s Credit Risk Hits Fresh All Time High",
+    "title_cn": "甲骨文信用风险指标创历史新高",
+    "summary": "A measure of Oracle Corp.’s credit risk hit a record high on Friday as concerns grew about both the company’s aggressive cash-burn and the future profitability of its artificial intelligence investments amid a new Chinese model that could rival offerings from companies like OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/gauge-of-oracle-s-credit-risk-hits-fresh-all-time-high",
+    "published": "Fri, 17 Jul 2026 21:43:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.413960"
+  },
+  {
+    "id": "67b9360adfa4",
+    "title": "CoreLogic Wraps Up $5.25 Billion Debt Deal With Hefty Yields",
+    "title_cn": "CoreLogic 完成 52.5 亿美元债务交易，收益丰厚",
+    "summary": "CoreLogic Inc. raised $5.25 billion from a debt sale after amending the terms and offering some of the year’s highest yields in response to lukewarm investor demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
+    "published": "Thu, 16 Jul 2026 21:32:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.500967"
+  },
+  {
+    "id": "c3a69b9df44d",
+    "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
+    "title_cn": "人工智能担忧震撼市场，“红色海洋”冲击新兴股市",
+    "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
+    "published": "Fri, 17 Jul 2026 03:54:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.651846"
+  },
+  {
+    "id": "5423e8a45a72",
+    "title": "AI Upheaval Crushes Retail Traders Crowding Into Leveraged Funds",
+    "title_cn": "人工智能的剧变压垮了散户纷纷涌入杠杆基金",
+    "summary": "A surprise breakthrough from Chinese startup Moonshot rippled through global markets Friday, sending AI and semiconductor stocks sharply lower and reviving memories of last year’s so-called DeepSeek moment. It was the latest reminder that markets are being reshaped at extraordinary speed and that assumptions about tomorrow’s winners can change almost overnight.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
+    "published": "Fri, 17 Jul 2026 20:36:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.796650"
+  },
+  {
+    "id": "4ef5c6771780",
+    "title": "Gold Trims Weekly Drop on Dip-Buying Despite Rate Hike Odds",
+    "title_cn": "尽管加息可能性不大，黄金因逢低买入而收窄周跌幅",
+    "summary": "Gold trimmed its weekly loss as some investors bought on dips after the precious metal broke below a key price level, even as escalating war tensions kept interest rate hike bets alive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
+    "published": "Thu, 16 Jul 2026 23:59:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.873330"
+  },
+  {
+    "id": "2739a969d1c2",
+    "title": "Hedge Fund Blasts SEC Settlement After ‘Gag Rule’ Lifted",
+    "title_cn": "对冲基金在“禁言规则”解除后抨击美国证券交易委员会的和解",
+    "summary": "Connecticut hedge fund Deccan Value Investors is speaking out about its 2022 settlement of Securities and Exchange Commission claims that it breached its fiduciary duty to two university endowments after the regulator recently lifted its so-called gag rule.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/hedge-fund-blasts-settlement-with-sec-after-gag-rule-lifted",
+    "published": "Fri, 17 Jul 2026 14:38:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:39.949130"
+  },
+  {
+    "id": "125f535bc13b",
+    "title": "US Stocks End Week Lower on Fears of Another ‘DeepSeek Moment’",
+    "title_cn": "由于担心另一个“DeepSeek 时刻”，美国股市本周收低",
+    "summary": "US stocks finished the week lower as semiconductor names dipped following the reveal of an artificial-intelligence model from a Chinese startup.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-stock-index-futures-slide-as-jitters-grow-on-chip-selloff",
+    "published": "Fri, 17 Jul 2026 08:13:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.047556"
+  },
+  {
+    "id": "54f5f18910bf",
+    "title": "Sweetgreen Pares Drop as Parasite Tied to Taco Bell Lettuce",
+    "title_cn": "塔可钟生菜上有寄生虫，Sweetgreen Pares 掉落",
+    "summary": "Sweetgreen Inc. shares surged on Friday, halting a four-day skid, after US regulators said a parasite outbreak that’s sickened thousands across several states was traced to shredded iceberg lettuce served at Taco Bell restaurants.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/sweetgreen-pares-26-drop-as-parasite-tied-to-taco-bell-lettuce",
+    "published": "Fri, 17 Jul 2026 15:58:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.136459"
+  },
+  {
+    "id": "b2d3707127ed",
+    "title": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
+    "title_cn": "105%人工智能涨势失败，芯片股陷入熊市",
+    "summary": "A closely watched index of semiconductor stocks fell into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
+    "published": "Fri, 17 Jul 2026 13:38:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.280275"
+  },
+  {
+    "id": "1edd6e437228",
+    "title": "Martin Shkreli Is Back, Shorting Stocks and Taking On Everyone",
+    "title_cn": "马丁·施克雷利 (Martin Shkreli) 回归，做空股票并与所有人较量",
+    "summary": "Martin Shkreli wants to make one thing clear to anyone who’s willing to listen: He’s back and he still doesn’t care how many people he ticks off along the way.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
+    "published": "Fri, 17 Jul 2026 20:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.369414"
+  },
+  {
+    "id": "9ef4cdfaec25",
+    "title": "Hedge Funds Add Bullish Oil Bets at Fastest Pace in a Decade",
+    "title_cn": "对冲基金以十年来最快的速度增加看涨石油押注",
+    "summary": "Hedge funds piled into bullish bets on Brent oil at the fastest pace in almost a decade as fighting between Iran and the US ramped up, dampening investors’ expectations of a sustained recovery in shipping through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/hedge-funds-add-bullish-oil-bets-at-fastest-pace-in-a-decade",
+    "published": "Fri, 17 Jul 2026 20:12:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.466620"
+  },
+  {
+    "id": "3df78d5dcde2",
+    "title": "Latest Oil Market News and Analysis for July 17",
+    "title_cn": "7 月 17 日最新石油市场新闻和分析",
+    "summary": "Oil surged on growing fears the US and Iran could return to full war, threatening flows through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/latest-oil-market-news-and-analysis-for-july-17",
+    "published": "Thu, 16 Jul 2026 22:01:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.560843"
+  },
+  {
+    "id": "4428d9cd23a1",
+    "title": "Argentina Oil-Boom Province to Pitch First US Bond Since 2017",
+    "title_cn": "阿根廷石油繁荣省份将发行 2017 年以来首笔美国债券",
+    "summary": "Argentina’s Neuquen province will pitch foreign investors in New York on its first new international bond in nearly a decade as the local government reaps the rewards of a shale oil boom, according to two people with direct knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/argentina-oil-boom-province-to-pitch-first-us-bond-since-2017",
+    "published": "Fri, 17 Jul 2026 19:56:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.665764"
+  },
+  {
+    "id": "4687c13c1ec1",
+    "title": "Treasuries Post Weekly Advance as Inflation Optimism Prevails",
+    "title_cn": "通胀乐观情绪盛行，国债每周上涨",
+    "summary": "The Treasury market eked out a gain this week as supportive inflation data prevailed over a rebound in oil prices, leading traders to mostly abandon bets on a July Federal Reserve interest-rate hike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/treasuries-post-weekly-advance-as-inflation-optimism-prevails",
+    "published": "Fri, 17 Jul 2026 19:46:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.761643"
+  },
+  {
+    "id": "2d565922a9c8",
+    "title": "US Oil Rig Count Notches Longest Streak Without Drop Since 2022",
+    "title_cn": "美国石油钻井平台数量创 2022 年以来最长连续不下降纪录",
+    "summary": "Drilling in the US oil patch achieved the longest stretch without a decrease in activity in more than four years, supporting shale’s expansion amid higher prices driven by the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-oil-rig-count-notches-longest-streak-without-drop-since-2022",
+    "published": "Fri, 17 Jul 2026 18:30:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:40.852613"
+  },
+  {
+    "id": "ccf7927fab2f",
+    "title": "Griffin Wants to Buy Old Cottage Across From New Citadel HQ",
+    "title_cn": "格里芬想购买新城堡总部对面的旧小屋",
+    "summary": "Ken Griffin has gone to extraordinary lengths to assemble parcels of land around his planned Citadel headquarters in Miami, including buying up all 138 units in a condo building across the street.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/griffin-wants-to-buy-an-old-cottage-across-from-new-headquarters",
+    "published": "Fri, 17 Jul 2026 15:47:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.012973"
+  },
+  {
+    "id": "7acba41c4635",
+    "title": "Blue Owl-Backed Latigo Files for IPO, Adding to Biotech Pipeline",
+    "title_cn": "Blue Owl 支持的 Latigo 申请首次公开募股，增加生物技术管道",
+    "summary": "Latigo Biotherapeutics Inc. filed for an initial public offering, joining a growing list of biotechnology firms considering going public as soon as this quarter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/blue-owl-backed-latigo-files-for-ipo-adding-to-biotech-pipeline",
+    "published": "Fri, 17 Jul 2026 17:48:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.084681"
+  },
+  {
+    "id": "65fbe10a3d6f",
+    "title": "Apple in Early Settlement Talks With DOJ Over Antitrust Case",
+    "title_cn": "苹果公司正在与司法部就反垄断案件进行早期和解谈判",
+    "summary": "Apple Inc. and the US Justice Department are in early discussions about settling a 2024 lawsuit that alleges the iPhone maker violated antitrust laws.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
+    "published": "Fri, 17 Jul 2026 16:51:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.360461"
+  },
+  {
+    "id": "5f5fb2945522",
+    "title": "Netflix Shares Tumble After Forecast for Slowing Growth",
+    "title_cn": "Netflix 股价因增长放缓预测而暴跌",
+    "summary": "Netflix Inc. shares fell after the company forecast a second consecutive quarter of slowing sales growth, contributing to investor anxiety about the streaming giant’s future.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth",
+    "published": "Thu, 16 Jul 2026 20:01:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.442667"
+  },
+  {
+    "id": "3e2a1b441fe0",
+    "title": "IPhone Hacking Firm Sues Ex-Worker Over Alleged Theft of Secrets",
+    "title_cn": "iPhone 黑客公司起诉前员工涉嫌窃取机密",
+    "summary": "Magnet Forensics Inc., a Canadian cybersecurity firm, accused a former contractor of sharing trade secrets about a previously unknown flaw used to hack iPhones with a rival firm.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets",
+    "published": "Fri, 17 Jul 2026 20:11:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.629962"
+  },
+  {
+    "id": "9baf76bacfad",
+    "title": "SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says",
+    "title_cn": "据《华尔街日报》报道，SpaceX 正在洽谈向五角大楼出售计算能力",
+    "summary": "SpaceX is in talks to sell computing power to the US Department of Defense, the Wall Street Journal reported on Friday, adding to a spate of infrastructure deals for Elon Musk’s rocket, satellite and artificial intelligence conglomerate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says",
+    "published": "Fri, 17 Jul 2026 19:16:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.722768"
+  },
+  {
+    "id": "9a8aa55bbb77",
+    "title": "What Is Moonshot AI? Why China’s New Model Is Roiling Markets",
+    "title_cn": "什么是登月人工智能？为什么中国的新模式搅动市场",
+    "summary": "Chinese startup Moonshot AI released a new artificial-intelligence model on July 17 that drew global attention both for its powerful capabilities and for sending stock markets reeling around the world.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
+    "published": "Fri, 17 Jul 2026 18:04:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.822150"
+  },
+  {
+    "id": "c25ced34d8f9",
+    "title": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
+    "title_cn": "中国的登月计划推出人工智能模型，助推技术溃败",
+    "summary": "Chinese AI pioneer Moonshot unveiled a new model that it claims performs on par with some of the top-tier platforms from OpenAI and Anthropic PBC, the latest sign that the Asian country’s artificial intelligence labs are closing a technology gap with the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
+    "published": "Fri, 17 Jul 2026 07:01:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:41.924157"
+  },
+  {
+    "id": "0f27d7a7d353",
+    "title": "Meta in Talks to Sell Computing Power to Anthropic",
+    "title_cn": "Meta 正在洽谈向 Anthropic 出售计算能力",
+    "summary": "Meta Platforms Inc. is in early discussions to lease computing power from its data centers to Anthropic PBC, according to people familiar with the matter, an opportunity for the social media giant to build a new business around its heavy investment in AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
+    "published": "Fri, 17 Jul 2026 16:40:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.025270"
+  },
+  {
+    "id": "ab6701e89231",
+    "title": "Valve’s 14-Year Journey to Make the Steam Machine",
+    "title_cn": "Valve 14 年蒸汽机制造之旅",
+    "summary": "The company first began laying the groundwork for this year’s hardware way back in 2012",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/valve-s-14-year-journey-to-make-the-steam-machine",
+    "published": "Fri, 17 Jul 2026 17:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.119446"
+  },
+  {
+    "id": "d3dca295766a",
+    "title": "Sateliot Expands Funding to Offer Satellite Service to Phones",
+    "title_cn": "Sateliot 扩大融资规模，为手机提供卫星服务",
+    "summary": "Satellite startup Sateliot is seeking to boost an ongoing fundraising round to as much as €150 million ($172 million), about a 50% increase as the Spanish company aims to offer satellite connectivity directly to smartphones.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/sateliot-expands-funding-to-offer-satellite-service-to-phones",
+    "published": "Fri, 17 Jul 2026 16:57:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.221617"
+  },
+  {
+    "id": "d652c3eded4d",
+    "title": "ASML to Pay One-Time €20,000 Bonus to Staff as AI Propels Demand",
+    "title_cn": "随着人工智能推动需求，ASML 将向员工一次性支付 20,000 欧元奖金",
+    "summary": "ASML Holding NV will give employees globally a one-time €20,000 ($22,862) bonus, joining other firms in the chip industry to offer payouts as artificial intelligence demand fuels record sales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/asml-to-pay-one-time-20-000-bonus-to-staff-as-ai-propels-demand",
+    "published": "Fri, 17 Jul 2026 14:16:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.378560"
+  },
+  {
+    "id": "207e83ccb5df",
+    "title": "Bethesda Announces New ‘Fallout’ Roadmap Following Xbox Reset",
+    "title_cn": "贝塞斯达 (Bethesda) 宣布 Xbox 重置后新的《辐射》路线图",
+    "summary": "<p>The studio confirmed development on ‘Fallout 5’ and a new game with Obsidian Entertainment</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/bethesda-announces-new-fallout-roadmap-following-xbox-reset",
+    "published": "Fri, 17 Jul 2026 14:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.457249"
+  },
+  {
+    "id": "1677b5e9088b",
+    "title": "Spain, Portugal Data Center Boom Faces Electrical Grid Bottlenecks",
+    "title_cn": "西班牙、葡萄牙数据中心繁荣面临电网瓶颈",
+    "summary": "Spain and Portugal are experiencing a significant data center boom, but constraints around electrical grid capacity, network access and permitting are slowing the pace of new project development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/spain-and-portugal-s-data-center-boom-faces-grid-bottlenecks",
+    "published": "Fri, 17 Jul 2026 13:09:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.610355"
+  },
+  {
+    "id": "2fec2196a918",
+    "title": "AI-Based Businesses Are Diversifying and Rejecting AI Model Monogamy",
+    "title_cn": "基于人工智能的企业正在多元化并拒绝人工智能模式一夫一妻制",
+    "summary": "Businesses that depend on any one AI model are vulnerable, so they’re adapting",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/ai-based-businesses-are-diversifying-and-rejecting-ai-model-monogamy",
+    "published": "Fri, 17 Jul 2026 11:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.708208"
+  },
+  {
+    "id": "b99e5f1c83fb",
+    "title": "China Can Still Win the AI Race With Inferior Technology",
+    "title_cn": "中国仍能以劣势技术赢得人工智能竞赛",
+    "summary": "It’s about economics, power as well as engineering.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/china-can-still-win-the-ai-race-with-inferior-technology",
+    "published": "Fri, 17 Jul 2026 10:30:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.793176"
+  },
+  {
+    "id": "476509e98cc1",
+    "title": "Xi Seeks Global AI Sway as Surging Chinese Models Spur Alarm",
+    "title_cn": "中国模式崛起敲响警钟，习近平谋求全球人工智能影响力",
+    "summary": "President Xi Jinping used the rise of China’s AI models to stake his claim on shaping the technology’s global rules, even as their growing power stirs security concerns in Washington and Beijing alike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-16/china-s-ai-ascendance-gives-xi-a-stage-and-a-security-dilemma",
+    "published": "Thu, 16 Jul 2026 23:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:42.892449"
+  },
+  {
+    "id": "64f77e5425b9",
+    "title": "China to Impose Consumption Tax on Solar and Lithium Batteries",
+    "title_cn": "中国将对太阳能和锂电池征收消费税",
+    "summary": "China plans to end a decade-long consumption tax exemption for solar and lithium-ion batteries, marking a policy shift as Beijing seeks to rein in intense competition in the industries central to the clean-energy transition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-to-impose-consumption-tax-on-solar-and-lithium-batteries",
+    "published": "Fri, 17 Jul 2026 10:03:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.009736"
+  },
+  {
+    "id": "72624245dce0",
+    "title": "The Odyssey: Christopher Nolan Movie Stars Zendaya, Matt Damon in Homer Epic",
+    "title_cn": "奥德赛：克里斯托弗·诺兰电影明星赞达亚、马特·达蒙在荷马史诗中",
+    "summary": "<p><em>The Odyssey</em> hits theaters on Friday and is expected to bring in roughly&nbsp;$100 million in its opening weekend.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/the-odyssey-christopher-nolan-movie-stars-zendaya-matt-damon-in-homer-epic",
+    "published": "Fri, 17 Jul 2026 10:00:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.093757"
+  },
+  {
+    "id": "ae9510e45b2b",
+    "title": "Japan’s Nikkei 225 Enters Correction on Fears AI Rally Overdone",
+    "title_cn": "日本日经 225 指数因担心人工智能反弹过度而进入修正",
+    "summary": "Japan’s Nikkei 225 Stock Average tumbled to close more than 10% below its June 25 peak, a move termed as a technical correction, amid concerns the global artificial intelligence rally may be stretched.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/japan-s-stocks-dive-as-investors-worry-about-ai-rally-s-run-mro83xih",
+    "published": "Fri, 17 Jul 2026 00:52:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.179688"
+  },
+  {
+    "id": "c2c9b447054c",
+    "title": "Chipmaker Kioxia’s Market Value Halves From Peak on AI Selloff",
+    "title_cn": "芯片制造商 Kioxia 的市值因人工智能抛售而从峰值减半",
+    "summary": "Japanese memory chipmaker Kioxia Holdings Corp.’s market capitalization halved in just a month since becoming the nation’s most valuable company, on growing concerns the AI-driven rally in the sector has gone too far.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/chipmaker-kioxia-s-market-value-halves-from-peak-on-ai-selloff",
+    "published": "Fri, 17 Jul 2026 00:24:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.276023"
+  },
+  {
+    "id": "f79289057868",
+    "title": "SoftBank Plans New ¥60 Billion Bond After Retail, Overseas Deals",
+    "title_cn": "软银计划在零售和海外交易后发行 600 亿日元新债券",
+    "summary": "SoftBank Group Corp. plans to sell about ¥60 billion ($369 million) of notes to institutional investors in Japan this month after domestic retail and foreign-currency bond offerings earlier this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/softbank-plans-new-60-billion-bond-after-retail-overseas-deals",
+    "published": "Fri, 17 Jul 2026 06:11:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.356847"
+  },
+  {
+    "id": "b02290912eae",
+    "title": "Trump Praises Infantino Over Red Card Reversal, Jabs at Co-Hosts",
+    "title_cn": "特朗普赞扬因凡蒂诺红牌逆转，并猛烈抨击共同主持人",
+    "summary": "President Donald Trump praised FIFA President Gianni Infantino for intervening to help lift a red-card suspension for US player Folarin Balogun, revisiting a World Cup decision that outraged soccer fans across the globe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-praises-infantino-over-red-card-reversal-jabs-at-co-hosts",
+    "published": "Fri, 17 Jul 2026 22:54:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.698976"
+  },
+  {
+    "id": "bfab6c7a0422",
+    "title": "Mexico’s New US Ambassador Sees USMCA Deal Coming Together This Year",
+    "title_cn": "墨西哥新任美国大使预计今年将达成 USMCA 协议",
+    "summary": "The high-stakes review of North America’s free trade pact should be completed later this year, Mexico’s top diplomat in the US said in an interview with Bloomberg Television.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/mexico-s-new-us-ambassador-sees-usmca-deal-coming-together-this-year",
+    "published": "Fri, 17 Jul 2026 21:24:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.790396"
+  },
+  {
+    "id": "e3a0d01138ef",
+    "title": "States Win Suit Over Trump Administration Termination of Grants",
+    "title_cn": "各州因特朗普政府终止拨款而赢得诉讼",
+    "summary": "A group of Democratic state attorneys general and governors won a lawsuit accusing the Trump administration of illegally using a budget loophole to block billions of dollars in federal grants for public services that were already approved by Congress.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/states-win-suit-over-trump-administration-termination-of-grants",
+    "published": "Fri, 17 Jul 2026 22:06:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.888881"
+  },
+  {
+    "id": "858df07f92a3",
+    "title": "Burnham Faces Pivotal Call on Whether to Let Trump Use UK Bases",
+    "title_cn": "伯纳姆面临是否允许特朗普使用英国基地的关键呼吁",
+    "summary": "The resumption of US strikes against Iran has thrust incoming UK prime minister Andy Burnham into a potential day one decision on how much to support Britain’s closest ally in its controversial military campaign.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/burnham-faces-pivotal-call-on-whether-to-let-trump-use-uk-bases",
+    "published": "Fri, 17 Jul 2026 21:52:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:43.981271"
+  },
+  {
+    "id": "2bbf466e942d",
+    "title": "Wall Street Braces to Pay Up for Trump’s Market-Moving Posts",
+    "title_cn": "华尔街准备为特朗普影响市场的帖子付出代价",
+    "summary": "Promotional emails began circulating across Wall Street trading desks weeks ago, teasing a new product from President Donald Trump’s social media company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/wall-street-braces-to-pay-up-for-trump-s-market-moving-posts",
+    "published": "Fri, 17 Jul 2026 21:23:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.072943"
+  },
+  {
+    "id": "2dfdd2ae4004",
+    "title": "US Considers Creating Finra-Like Watchdog to Vet Top AI Models",
+    "title_cn": "美国考虑创建类似金融监管局的监管机构来审查顶级人工智能模型",
+    "summary": "The Trump administration is considering plans for an independent regulator to vet the safety of artificial intelligence models with industry input, after Silicon Valley leaders complained about the ad-hoc nature of recent US moves to slow the release of cutting-edge AI systems.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/us-considers-creating-finra-like-watchdog-to-vet-top-ai-models",
+    "published": "Fri, 17 Jul 2026 21:09:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.164804"
+  },
+  {
+    "id": "f9666a732189",
+    "title": "Farage Faces Fringe Candidates Including Binface in UK Election",
+    "title_cn": "Farage 在英国大选中面临包括 Binface 在内的边缘候选人",
+    "summary": "Nigel Farage will defend his seat against a slate of fringe candidates including the satirical Count Binface, local officials confirmed, setting up a race that will test the strength of the opposition against his brand of populist politics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/farage-faces-fringe-candidates-including-binface-in-uk-election",
+    "published": "Fri, 17 Jul 2026 20:39:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.285650"
+  },
+  {
+    "id": "ff76def11b9b",
+    "title": "Landmark Crypto Bill Could Pass This Midterms Year Despite the Odds",
+    "title_cn": "尽管可能性不大，具有里程碑意义的加密货币法案仍可能在今年的中期选举中获得通过",
+    "summary": "Prediction markets peg the chances at 37%.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/landmark-crypto-bill-could-pass-this-midterms-year-despite-the-odds",
+    "published": "Fri, 17 Jul 2026 20:29:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.358952"
+  },
+  {
+    "id": "f087fdd1e527",
+    "title": "US Renews Strikes on Iran, Pushing Oil Up Most Since April",
+    "title_cn": "美国重启对伊朗的打击，推高油价自四月以来最大涨幅",
+    "summary": "The US and Iran traded attacks again on Friday, pressuring oil prices and making a quick return to the fragile ceasefire deal signed last month even less likely.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
+    "published": "Fri, 17 Jul 2026 18:27:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.449791"
+  },
+  {
+    "id": "d27f71145079",
+    "title": "Trump Backs Darline Graham for South Carolina Senate Seat",
+    "title_cn": "特朗普支持达林·格雷厄姆竞选南卡罗来纳州参议院席位",
+    "summary": "President Donald Trump urged South Carolina Senator Darline Graham, the sister of the late Lindsey Graham, to run for a full Senate term in the November election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-backs-darline-graham-to-run-for-south-carolina-senate-seat",
+    "published": "Fri, 17 Jul 2026 19:28:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.527448"
+  },
+  {
+    "id": "37d0e2306f42",
+    "title": "Trump’s New Election Documents Undercut His Own Fraud Claims",
+    "title_cn": "特朗普的新选举文件削弱了他自己的欺诈指控",
+    "summary": "President Donald Trump pointed to reams of declassified materials as proof of his claims of election vulnerabilities that he alleged in his prime-time address Thursday night. In many cases, the documents did the opposite.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-s-new-election-documents-undercut-his-own-fraud-claims",
+    "published": "Fri, 17 Jul 2026 20:00:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.633429"
+  },
+  {
+    "id": "9b9d5a0b597f",
+    "title": "Jersey City Wants to Ban Data Centers on Industrial Property",
+    "title_cn": "泽西市希望禁止工业产权上的数据中心",
+    "summary": "Jersey City has introduced a law to ban data centers as the primary use of industrial property.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/jersey-city-wants-to-ban-data-centers-on-industrial-property",
+    "published": "Fri, 17 Jul 2026 19:14:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.716433"
+  },
+  {
+    "id": "292b1ceb3c11",
+    "title": "Trump Sows US Election Doubts in Speech Before Midterms",
+    "title_cn": "特朗普在中期选举前的演讲中播撒美国大选疑虑",
+    "summary": "President Donald Trump devoted a prime-time address to reviving unsubstantiated claims that the 2020 election was stolen and raising doubts about the security of the upcoming midterms, turning his attention to a years-long grievance at a perilous moment for his presidency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-stokes-doubts-on-us-election-security-in-combative-speech",
+    "published": "Fri, 17 Jul 2026 02:13:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.815912"
+  },
+  {
+    "id": "bf71c7895733",
+    "title": "Reform UK Pitches Donors for More Cash, Citing Security Risk",
+    "title_cn": "英国改革组织以安全风险为由向捐助者寻求更多现金",
+    "summary": "A close ally of Nigel Farage said his Reform UK party is spending at a rate of more than £7 million ($9.4 million) a year to keep the party’s leader and other figures safe, as it pitched for more funding during a probe into the party’s finances.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/reform-uk-pitches-donors-for-more-cash-citing-security-risk",
+    "published": "Fri, 17 Jul 2026 17:35:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.908484"
+  },
+  {
+    "id": "c8d5d958d3a4",
+    "title": "Trump’s Media Firm to Sell Traders Fast Access to His Posts",
+    "title_cn": "特朗普的媒体公司向交易者出售快速访问他的帖子的权限",
+    "summary": "President Donald Trump’s media company wants traders and investors to pay for real-time access to Truth Social posts from the social media platform’s “highest-ranking” accounts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-media-to-sell-traders-faster-access-to-top-truth-posts",
+    "published": "Fri, 17 Jul 2026 01:23:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:44.994308"
+  },
+  {
+    "id": "24c74001a4c2",
+    "title": "Senate Crypto Talks Hit Turbulence as Window for Passage Narrows",
+    "title_cn": "参议院加密货币谈判遭遇动荡，通道窗口缩小",
+    "summary": "Senate efforts to pass a landmark cryptocurrency bill hit a snag this week as Democratic negotiators indicated they don’t yet support the latest GOP framework and some members balked at their narrowing window to act.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/senate-crypto-talks-hit-turbulence-as-window-for-passage-narrows",
+    "published": "Fri, 17 Jul 2026 17:05:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:45.093525"
+  },
+  {
+    "id": "bfb48cdbe430",
+    "title": "IMF, US to Provide Technical Help for Colombian Fiscal Reset",
+    "title_cn": "国际货币基金组织和美国将为哥伦比亚财政重置提供技术帮助",
+    "summary": "Colombia’s incoming government will get technical assistance from the International Monetary Fund and the US Treasury as it seeks to rein in the fiscal deficit, Vice President-elect José Manuel Restrepo said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/imf-us-treasury-agree-technical-help-for-colombian-fiscal-reset",
+    "published": "Fri, 17 Jul 2026 16:05:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:45.198623"
+  },
+  {
+    "id": "11eee8d8d82e",
+    "title": "Hungary to Overhaul Corporate Taxes, Penalize Polluters",
+    "title_cn": "匈牙利将改革企业税并惩罚污染者",
+    "summary": "Hungary plans to broaden the corporate tax base, ending “selective” levies of the Viktor Orban-era that penalized certain companies and hiking the burden on polluters, Prime Minister Peter Magyar said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/hungary-to-overhaul-corporate-taxes-penalize-polluters",
+    "published": "Fri, 17 Jul 2026 16:35:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:45.345428"
+  },
+  {
+    "id": "64c0553da567",
+    "title": "Carney’s Gordie Howe Bridge Deal Splits 50% of Net Revenue for 15 Years",
+    "title_cn": "卡尼 (Carney) 的 Gordie Howe Bridge 交易将在 15 年内分配 50% 的净收入",
+    "summary": "Canada and the US agreed to split the profit from a new bridge between Ontario and Michigan for 15 years — with no provision to cover Canada’s debt-service costs on the project, according to a copy of the pact seen by Bloomberg News.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/carney-s-gordie-howe-bridge-deal-splits-50-of-net-revenue-for-15-years",
+    "published": "Fri, 17 Jul 2026 16:01:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:45.461286"
+  },
+  {
+    "id": "d003f9d3b13e",
+    "title": "Germany, France to Draw Up Roadmap on China Trade Imbalances",
+    "title_cn": "德法将制定应对中国贸易失衡路线图",
+    "summary": "Chancellor Friedrich Merz said widening trade imbalances between the European Union and China must be addressed as Germany and France aligned more closely on a firmer stance on the world’s No. 2 economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/germany-and-france-to-draw-up-roadmap-on-china-trade-imbalances",
+    "published": "Fri, 17 Jul 2026 14:34:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T00:10:45.558738"
+  }
+]
