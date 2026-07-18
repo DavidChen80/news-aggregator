@@ -1,5 +1,45 @@
 [
   {
+    "id": "9966b563f28c",
+    "title": "Bloomberg This Weekend: Moonshot Roils Markets (Podcast)",
+    "title_cn": "彭博社本周末：登月计划搅动市场（播客）",
+    "summary": "Source: Bloomberg, 37:16",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-18/bloomberg-this-weekend-moonshot-roils-markets-podcast",
+    "published": "Sat, 18 Jul 2026 15:23:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T15:38:38.258056"
+  },
+  {
+    "id": "992c3761a06d",
+    "title": "Engine Maker CFM Seeks to Lift Deliveries to Help Jet Output",
+    "title_cn": "发动机制造商 CFM 寻求提高交付量以帮助喷气式飞机输出",
+    "summary": "CFM International, which provides engines to Boeing Co. and Airbus SE for their single-aisle airliners, aims to deliver 15% more units this year to support an increase in aircraft production, with jet power plants turning into a major choke-point for output.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-18/engine-maker-cfm-seeks-to-lift-deliveries-to-help-jet-output",
+    "published": "Sat, 18 Jul 2026 15:01:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T15:38:38.365552"
+  },
+  {
+    "id": "ffe3a0e57f7f",
+    "title": "Distressed US Companies Find a British Detour Around Chapter 11",
+    "title_cn": "陷入困境的美国公司绕道英国《破产法》第十一章",
+    "summary": "UK plans that cut debt, preserve equity and avoid the public glare are catching on",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-18/distressed-us-companies-find-a-british-detour-around-chapter-11",
+    "published": "Sat, 18 Jul 2026 15:00:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T15:38:38.470386"
+  },
+  {
+    "id": "5d7360a012d6",
+    "title": "Iran Ramps Up Attacks on US Allies, FIFA Watches Wildfires, More",
+    "title_cn": "伊朗加大对美国盟友的攻击力度，国际足联关注野火等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-18/iran-ramps-up-attacks-on-us-allies-fifa-watches-wildfires-more",
+    "published": "Sat, 18 Jul 2026 14:55:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T15:38:38.554384"
+  },
+  {
     "id": "b2fba414569c",
     "title": "HDFC Bank Profit Falls Short as Net Interest Margins Shrink",
     "title_cn": "由于净息差缩水，HDFC 银行利润下降",
@@ -7,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/hdfc-bank-june-quarter-profit-misses-estimates-as-margins-shrink",
     "published": "Sat, 18 Jul 2026 09:45:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.328954"
+    "fetched_at": "2026-07-18T15:38:39.066741"
   },
   {
     "id": "243e59120a6a",
@@ -17,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/iran-hits-kuwait-after-us-escalation-canada-wildfires-more",
     "published": "Sat, 18 Jul 2026 13:19:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.444588"
+    "fetched_at": "2026-07-18T15:38:39.175822"
   },
   {
     "id": "364df31cafe3",
@@ -27,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/telecom-italia-board-endorses-poste-italiane-s-10-8-billion-takeover-offer",
     "published": "Sat, 18 Jul 2026 13:03:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.573692"
+    "fetched_at": "2026-07-18T15:38:39.257771"
   },
   {
     "id": "87c64044aa26",
@@ -37,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/us-iran-trade-attacks-trump-mulls-russia-sanctions-bill-more",
     "published": "Sat, 18 Jul 2026 12:24:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.692144"
+    "fetched_at": "2026-07-18T15:38:39.421866"
   },
   {
     "id": "94731a5ad22c",
@@ -47,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/us-iran-ramp-up-strikes-tx-floods-canada-wildfires-more",
     "published": "Sat, 18 Jul 2026 11:24:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.857422"
+    "fetched_at": "2026-07-18T15:38:39.524859"
   },
   {
     "id": "69a576479bcb",
@@ -57,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/us-iran-trade-attacks-for-7th-day-fifa-monitors-wildfires-more",
     "published": "Sat, 18 Jul 2026 10:17:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:39:59.986266"
+    "fetched_at": "2026-07-18T15:38:39.627500"
   },
   {
     "id": "2fe702388074",
@@ -67,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/taylor-farms-pulls-mexican-lettuce-us-considers-ai-watchdog-more",
     "published": "Sat, 18 Jul 2026 03:33:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.101972"
+    "fetched_at": "2026-07-18T15:38:39.721148"
   },
   {
     "id": "34cc006be33f",
@@ -77,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-descend-into-bear-market-us-considers-ai-watchdog-mrprsicl",
     "published": "Sat, 18 Jul 2026 02:51:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.222524"
+    "fetched_at": "2026-07-18T15:38:39.858465"
   },
   {
     "id": "94405ef3ca34",
@@ -87,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/constantin-buschmann",
     "published": "Sat, 18 Jul 2026 02:39:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.338172"
+    "fetched_at": "2026-07-18T15:38:39.950078"
   },
   {
     "id": "61a33c05dbc9",
@@ -97,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-hit-bear-market-us-considers-watchdog-for-ai-models",
     "published": "Sat, 18 Jul 2026 02:07:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.455314"
+    "fetched_at": "2026-07-18T15:38:40.034409"
   },
   {
     "id": "2ff5dd40520d",
@@ -107,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-descend-into-bear-market-us-considers-ai-watchdog",
     "published": "Sat, 18 Jul 2026 01:10:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.578704"
+    "fetched_at": "2026-07-18T15:38:40.109556"
   },
   {
     "id": "48581fc00f7b",
@@ -117,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/climate-proof-millet-gains-popularity-in-india-as-el-nino-brings-drier-weather",
     "published": "Sat, 18 Jul 2026 01:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.695729"
+    "fetched_at": "2026-07-18T15:38:40.229663"
   },
   {
     "id": "626ba2b509c4",
@@ -127,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-18/singapore-s-dbs-ocbc-hire-more-humans-to-work-with-ai-to-manage-clients-wealth",
     "published": "Sat, 18 Jul 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.828816"
+    "fetched_at": "2026-07-18T15:38:40.322895"
   },
   {
     "id": "f206406f6087",
@@ -137,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/weekend-law-next-ag-justices-testify-states-sue-podcast",
     "published": "Sat, 18 Jul 2026 00:32:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:00.964173"
+    "fetched_at": "2026-07-18T15:38:40.419149"
   },
   {
     "id": "384edc40012d",
@@ -147,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-18/chip-stocks-slide-into-bear-market-us-considers-ai-watchdog",
     "published": "Sat, 18 Jul 2026 00:10:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.082482"
+    "fetched_at": "2026-07-18T15:38:40.522888"
   },
   {
     "id": "2a2102a3e35f",
@@ -157,47 +197,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/hong-kong-restaurant-review-avanti-bistro-serves-authentic-xinjiang-dishes",
     "published": "Sat, 18 Jul 2026 00:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.214993"
-  },
-  {
-    "id": "f08210ceb05a",
-    "title": "Chip Stocks Head into Bear Market, New US Strikes on Iran, More",
-    "title_cn": "芯片股进入熊市，美国对伊朗进行新的打击等等",
-    "summary": "Source: Bloomberg, 6:09",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-head-into-bear-market-new-us-strikes-on-iran-more",
-    "published": "Fri, 17 Jul 2026 23:12:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.347624"
-  },
-  {
-    "id": "26eb631bc7b6",
-    "title": "Bloomberg Talks: Adam Greenblatt (Podcast)",
-    "title_cn": "彭博谈话：亚当·格林布拉特（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-talks-adam-greenblatt-podcast",
-    "published": "Fri, 17 Jul 2026 22:50:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.508779"
-  },
-  {
-    "id": "3d68201615f3",
-    "title": "Bloomberg Businessweek Daily: China's Kimi K3 AI Model (Podcast)",
-    "title_cn": "彭博商业周刊：中国的 Kimi K3 人工智能模型（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/bloomberg-businessweek-daily-china-s-kimi-k3-ai-model-podcast",
-    "published": "Fri, 17 Jul 2026 22:17:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.635386"
-  },
-  {
-    "id": "7b79c833e920",
-    "title": "Chip Stocks Slide into Bear Market, US Renews Strikes on Iran",
-    "title_cn": "芯片股跌入熊市，美国重启对伊朗的打击",
-    "summary": "Source: Bloomberg, 5:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-17/chip-stocks-slide-into-bear-market-us-renews-strikes-on-iran",
-    "published": "Fri, 17 Jul 2026 22:12:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-18T14:40:01.872913"
+    "fetched_at": "2026-07-18T15:38:40.611685"
   },
   {
     "id": "6ebc731b8b14",
@@ -207,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit",
     "published": "Sat, 18 Jul 2026 08:01:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.219284"
+    "fetched_at": "2026-07-18T15:38:40.934304"
   },
   {
     "id": "a44f7e5bf07e",
@@ -217,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/zelenskyy-may-fire-commander-syrskyi-after-protests-ft-reports",
     "published": "Sat, 18 Jul 2026 12:19:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.382344"
+    "fetched_at": "2026-07-18T15:38:41.085206"
   },
   {
     "id": "8458a7034b9c",
@@ -227,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-18/not-done-yet-refunding-tariffs-or-realizing-ai-s-promise",
     "published": "Sat, 18 Jul 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.508893"
+    "fetched_at": "2026-07-18T15:38:41.178005"
   },
   {
     "id": "42cbc0de0340",
@@ -237,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/icici-bank-first-quarter-profit-beats-estimates-as-loans-surge",
     "published": "Sat, 18 Jul 2026 10:02:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.680989"
+    "fetched_at": "2026-07-18T15:38:41.257418"
   },
   {
     "id": "a1f2bfd2df31",
@@ -247,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/india-moves-against-youth-protesters-before-parliament-session",
     "published": "Sat, 18 Jul 2026 04:48:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.851987"
+    "fetched_at": "2026-07-18T15:38:41.343121"
   },
   {
     "id": "62d62e2c4704",
@@ -257,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-seeks-stable-transparent-mineral-rules-from-indonesia",
     "published": "Sat, 18 Jul 2026 04:04:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:02.982514"
+    "fetched_at": "2026-07-18T15:38:41.437033"
   },
   {
     "id": "d794f488c675",
@@ -267,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/hungary-crackdown-on-20-billion-ev-sector-puts-china-on-notice",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.096190"
+    "fetched_at": "2026-07-18T15:38:41.530458"
   },
   {
     "id": "8a42fed20175",
@@ -277,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/rbi-currency-printer-seeks-bids-for-polymer-banknote-material",
     "published": "Sat, 18 Jul 2026 06:35:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.259545"
+    "fetched_at": "2026-07-18T15:38:41.621444"
   },
   {
     "id": "3e5957cfeb06",
@@ -287,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-urges-better-cooperation-with-kyrgyzstan-on-green-minerals",
     "published": "Sat, 18 Jul 2026 05:06:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.376391"
+    "fetched_at": "2026-07-18T15:38:41.713897"
   },
   {
     "id": "c46b67d2e775",
@@ -297,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-s-siemens-competitor-eyes-buying-its-way-into-europe",
     "published": "Sat, 18 Jul 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.497533"
+    "fetched_at": "2026-07-18T15:38:41.904233"
   },
   {
     "id": "96ec002c402e",
@@ -307,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-solar-cell-exports-extend-decline-in-june",
     "published": "Sat, 18 Jul 2026 04:21:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.603429"
+    "fetched_at": "2026-07-18T15:38:41.998026"
   },
   {
     "id": "1df343fb4db5",
@@ -317,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/sheinbaum-carney-to-watch-world-cup-final-with-trump",
     "published": "Sat, 18 Jul 2026 02:28:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.780306"
+    "fetched_at": "2026-07-18T15:38:42.076203"
   },
   {
     "id": "2a903f004c5c",
@@ -327,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-tops-nvidia-as-world-s-largest-company-amid-tech-rotation",
     "published": "Fri, 17 Jul 2026 13:42:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:03.909851"
+    "fetched_at": "2026-07-18T15:38:42.174908"
   },
   {
     "id": "5201600e378f",
@@ -337,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/baker-tilly-eyes-3-billion-in-debt-to-replace-private-credit",
     "published": "Fri, 17 Jul 2026 22:10:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.074810"
+    "fetched_at": "2026-07-18T15:38:42.334248"
   },
   {
     "id": "cf8b1adce931",
@@ -347,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 16 Jul 2026 22:05:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.196086"
+    "fetched_at": "2026-07-18T15:38:42.477946"
   },
   {
     "id": "4440f1520729",
@@ -357,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/gauge-of-oracle-s-credit-risk-hits-fresh-all-time-high",
     "published": "Fri, 17 Jul 2026 21:43:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.369420"
+    "fetched_at": "2026-07-18T15:38:42.569905"
   },
   {
     "id": "67b9360adfa4",
@@ -367,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
     "published": "Thu, 16 Jul 2026 21:32:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.488689"
+    "fetched_at": "2026-07-18T15:38:42.726239"
   },
   {
     "id": "c3a69b9df44d",
@@ -377,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
     "published": "Fri, 17 Jul 2026 03:54:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.607536"
+    "fetched_at": "2026-07-18T15:38:42.824072"
   },
   {
     "id": "5423e8a45a72",
@@ -387,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
     "published": "Fri, 17 Jul 2026 20:36:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.726826"
+    "fetched_at": "2026-07-18T15:38:42.909556"
   },
   {
     "id": "4ef5c6771780",
@@ -397,7 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
     "published": "Thu, 16 Jul 2026 23:59:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:04.863235"
+    "fetched_at": "2026-07-18T15:38:43.014753"
   },
   {
     "id": "90268dcf315d",
@@ -407,17 +407,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/moonshot-s-kimi-upends-conventional-wisdom-on-us-lead-over-china",
     "published": "Sat, 18 Jul 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.298911"
+    "fetched_at": "2026-07-18T15:38:43.318418"
   },
   {
     "id": "125a79923677",
     "title": "China Joins Rush to Rethink the Smartphone for the AI Era",
-    "title_cn": "中国加入热潮，重新思考人工智能时代的智能手机",
+    "title_cn": "中国加入重新思考人工智能时代智能手机的行列",
     "summary": "ZTE Corp. showcased for the first time a lineup of co-designed smartphones with built-in AI services, joining a growing number of Chinese companies trying to reimagine mobile devices with artificial intelligence at the core.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-joins-rush-to-rethink-the-smartphone-for-the-ai-era",
     "published": "Sat, 18 Jul 2026 05:45:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.408077"
+    "fetched_at": "2026-07-18T15:38:43.400666"
   },
   {
     "id": "e6eb3dc51aec",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/apple-raises-iphone-17-price-by-10-in-japan-as-yen-stays-weak",
     "published": "Sat, 18 Jul 2026 04:11:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.520568"
+    "fetched_at": "2026-07-18T15:38:43.553993"
   },
   {
     "id": "c50554c91a0d",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
     "published": "Sat, 18 Jul 2026 02:59:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.638304"
+    "fetched_at": "2026-07-18T15:38:43.659794"
   },
   {
     "id": "c25ced34d8f9",
@@ -447,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
     "published": "Fri, 17 Jul 2026 07:01:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.773848"
+    "fetched_at": "2026-07-18T15:38:43.757115"
   },
   {
     "id": "65fbe10a3d6f",
@@ -457,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
     "published": "Fri, 17 Jul 2026 16:51:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:05.878052"
+    "fetched_at": "2026-07-18T15:38:43.855124"
   },
   {
     "id": "5f5fb2945522",
@@ -467,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-16/netflix-pledges-more-programs-ai-to-reverse-slowing-growth",
     "published": "Thu, 16 Jul 2026 20:01:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.011058"
+    "fetched_at": "2026-07-18T15:38:43.952263"
   },
   {
     "id": "3e2a1b441fe0",
@@ -477,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/iphone-hacking-firm-sues-ex-worker-over-alleged-theft-of-secrets",
     "published": "Fri, 17 Jul 2026 20:11:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.135105"
+    "fetched_at": "2026-07-18T15:38:44.047138"
   },
   {
     "id": "9baf76bacfad",
@@ -487,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says",
     "published": "Fri, 17 Jul 2026 19:16:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.264943"
+    "fetched_at": "2026-07-18T15:38:44.128652"
   },
   {
     "id": "9a8aa55bbb77",
@@ -497,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/what-is-moonshot-ai-why-china-s-new-model-is-roiling-markets",
     "published": "Fri, 17 Jul 2026 18:04:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.386297"
+    "fetched_at": "2026-07-18T15:38:44.231207"
   },
   {
     "id": "0f27d7a7d353",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
     "published": "Fri, 17 Jul 2026 16:40:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.540498"
+    "fetched_at": "2026-07-18T15:38:44.324388"
   },
   {
     "id": "ab6701e89231",
@@ -517,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-17/valve-s-14-year-journey-to-make-the-steam-machine",
     "published": "Fri, 17 Jul 2026 17:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.670556"
+    "fetched_at": "2026-07-18T15:38:44.399802"
   },
   {
     "id": "d3dca295766a",
@@ -527,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/sateliot-expands-funding-to-offer-satellite-service-to-phones",
     "published": "Fri, 17 Jul 2026 16:57:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:06.802079"
+    "fetched_at": "2026-07-18T15:38:44.487170"
   },
   {
     "id": "05a288286ff1",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/iran-ramps-up-retaliatory-attack-on-kuwait-after-us-escalation",
     "published": "Sat, 18 Jul 2026 09:15:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:07.084069"
+    "fetched_at": "2026-07-18T15:38:44.878523"
   },
   {
     "id": "235940cd1c9a",
@@ -547,17 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/merz-ally-spahn-quits-after-surrogacy-sparks-party-backlash",
     "published": "Sat, 18 Jul 2026 12:29:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:07.194721"
-  },
-  {
-    "id": "e638f7317177",
-    "title": "Chinese Trucks Pose New Peril in Mexico’s US Tariff Relief Bid",
-    "title_cn": "中国卡车在墨西哥的美国关税减免提案中构成新的危险",
-    "summary": "Mexico’s growing fleet of Chinese-made heavy trucks is becoming a new obstacle in its quest for relief from US tariffs, as Washington presses for assurances that its southern neighbor isn’t becoming a backdoor for Chinese manufacturers to enter North America.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-18/chinese-trucks-pose-new-peril-in-mexico-s-us-tariff-relief-bid",
-    "published": "Sat, 18 Jul 2026 13:00:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-18T14:40:07.812576"
+    "fetched_at": "2026-07-18T15:38:44.988858"
   },
   {
     "id": "d839150cb00e",
@@ -567,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-urges-uk-to-protect-investors-after-british-steel-move",
     "published": "Sat, 18 Jul 2026 12:16:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:08.566786"
+    "fetched_at": "2026-07-18T15:38:45.083761"
   },
   {
     "id": "e72494a87da2",
@@ -577,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/russia-ukraine-exchange-fresh-strikes-on-ports-and-warehouses",
     "published": "Sat, 18 Jul 2026 07:25:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:08.684323"
+    "fetched_at": "2026-07-18T15:38:45.164773"
   },
   {
     "id": "5c6b4fc5db81",
@@ -587,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/malaysia-probes-state-pension-s-loss-linked-to-efishery-collapse",
     "published": "Sat, 18 Jul 2026 10:26:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:08.815014"
+    "fetched_at": "2026-07-18T15:38:45.263395"
   },
   {
     "id": "fdaf14e65c4c",
@@ -597,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/botswana-says-citizens-recruited-for-russia-war-at-alarming-rate",
     "published": "Sat, 18 Jul 2026 10:02:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:08.953644"
+    "fetched_at": "2026-07-18T15:38:45.364723"
   },
   {
     "id": "c5a608c7c483",
@@ -607,7 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/germany-raises-threat-level-over-terror-attack-risk-welt-says",
     "published": "Sat, 18 Jul 2026 09:42:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.107385"
+    "fetched_at": "2026-07-18T15:38:45.465804"
   },
   {
     "id": "858df07f92a3",
@@ -617,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/burnham-faces-pivotal-call-on-whether-to-let-trump-use-uk-bases",
     "published": "Fri, 17 Jul 2026 21:52:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.212315"
+    "fetched_at": "2026-07-18T15:38:45.569800"
   },
   {
     "id": "bc1726a3774d",
@@ -627,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/the-most-political-of-world-cups-reaches-climax-with-trump-at-final",
     "published": "Sat, 18 Jul 2026 08:15:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.328237"
+    "fetched_at": "2026-07-18T15:38:45.662667"
   },
   {
     "id": "21dc76e48243",
@@ -637,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/germany-to-slash-renewable-subsidies-as-solar-surge-tests-grids",
     "published": "Sat, 18 Jul 2026 07:19:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.470627"
+    "fetched_at": "2026-07-18T15:38:45.761810"
   },
   {
     "id": "7a2ce3ad6924",
@@ -647,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/indian-filmmakers-fear-rising-censorship-as-film-is-blocked",
     "published": "Sat, 18 Jul 2026 05:06:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.590355"
+    "fetched_at": "2026-07-18T15:38:45.863520"
   },
   {
     "id": "ea8c23efabd3",
@@ -657,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/german-far-right-trojan-horse-triggers-alarm-over-intelligence",
     "published": "Sat, 18 Jul 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.720018"
+    "fetched_at": "2026-07-18T15:38:45.952642"
   },
   {
     "id": "a612cfe1f79e",
@@ -667,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/andy-burnham-s-vow-to-change-uk-labour-already-risks-coming-unstuck",
     "published": "Sat, 18 Jul 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.861749"
+    "fetched_at": "2026-07-18T15:38:46.040477"
   },
   {
     "id": "2487cca0f763",
@@ -677,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-signals-us-restored-hong-kong-privileges-trump-had-revoked",
     "published": "Fri, 17 Jul 2026 14:07:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:09.973183"
+    "fetched_at": "2026-07-18T15:38:46.120064"
   },
   {
     "id": "f087fdd1e527",
@@ -687,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
     "published": "Fri, 17 Jul 2026 18:27:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:10.086827"
+    "fetched_at": "2026-07-18T15:38:46.247132"
   },
   {
     "id": "e3ecfc7b9ad7",
@@ -697,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-18/anwar-s-next-test-of-power-looms-after-landslide-loss-in-malaysia-s-johor",
     "published": "Sat, 18 Jul 2026 00:48:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:10.202210"
+    "fetched_at": "2026-07-18T15:38:46.335395"
   },
   {
     "id": "b02290912eae",
@@ -707,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/trump-praises-infantino-over-red-card-reversal-jabs-at-co-hosts",
     "published": "Fri, 17 Jul 2026 22:54:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:10.310765"
+    "fetched_at": "2026-07-18T15:38:46.419930"
   },
   {
     "id": "bfab6c7a0422",
@@ -717,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/mexico-s-new-us-ambassador-sees-usmca-deal-coming-together-this-year",
     "published": "Fri, 17 Jul 2026 21:24:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:10.423171"
+    "fetched_at": "2026-07-18T15:38:46.519429"
   },
   {
     "id": "e3a0d01138ef",
@@ -727,6 +717,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-17/states-win-suit-over-trump-administration-termination-of-grants",
     "published": "Fri, 17 Jul 2026 22:06:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-18T14:40:10.559937"
+    "fetched_at": "2026-07-18T15:38:46.610095"
+  },
+  {
+    "id": "2bbf466e942d",
+    "title": "Wall Street Braces to Pay Up for Trump’s Market-Moving Posts",
+    "title_cn": "华尔街准备为特朗普影响市场的帖子付出代价",
+    "summary": "Promotional emails began circulating across Wall Street trading desks weeks ago, teasing a new product from President Donald Trump’s social media company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-17/wall-street-braces-to-pay-up-for-trump-s-market-moving-posts",
+    "published": "Fri, 17 Jul 2026 21:23:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-18T15:38:46.714752"
   }
 ]
