@@ -1,5 +1,85 @@
 [
   {
+    "id": "a9b9bf8c1b61",
+    "title": "Balance of Power: Policy Pulse for July 20, 2026 (Podcast)",
+    "title_cn": "权力平衡：2026 年 7 月 20 日的政策脉搏（播客）",
+    "summary": "Source: Bloomberg, 11:30",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/balance-of-power-policy-pulse-for-july-20-2026-podcast",
+    "published": "Mon, 20 Jul 2026 20:24:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:25:58.401306"
+  },
+  {
+    "id": "e8b7ec2d8fb5",
+    "title": "Stocks Close Lower on Oil Swings, Judge Pauses Paramount Deal",
+    "title_cn": "油价波动导致股市收低，法官暂停派拉蒙交易",
+    "summary": "Source: Bloomberg, 5:52",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/stocks-close-lower-on-oil-swings-judge-pauses-paramount-deal",
+    "published": "Mon, 20 Jul 2026 20:20:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:25:58.794181"
+  },
+  {
+    "id": "d5d46e62f1bf",
+    "title": "Stock Movers: Lumentum, Paramount Skydance, Sweetgreen (Podcast)",
+    "title_cn": "库存推动者：Lumentum、派拉蒙 Skydance、Sweetgreen（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/stock-movers-lumentum-paramount-skydance-sweetgreen-podcast",
+    "published": "Mon, 20 Jul 2026 20:12:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:25:59.200875"
+  },
+  {
+    "id": "79e30ef7e1fe",
+    "title": "Bloomberg Talks: Annalena Baerbock (Podcast)",
+    "title_cn": "彭博社谈话：安娜莱娜·贝尔博克（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-talks-annalena-baerbock-podcast",
+    "published": "Mon, 20 Jul 2026 19:36:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:25:59.615919"
+  },
+  {
+    "id": "82f34e56440d",
+    "title": "Balance of Power: Trump Warns Iran Amid Truce Push (Podcast)",
+    "title_cn": "权力平衡：特朗普在休战推动中警告伊朗（播客）",
+    "summary": "Source: Bloomberg, 29:28",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/balance-of-power-trump-warns-iran-amid-truce-push-podcast",
+    "published": "Mon, 20 Jul 2026 19:28:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:00.012435"
+  },
+  {
+    "id": "70bfc3110662",
+    "title": "Paramount/WBD Deal On Hold, Healey Named UK Chancellor, More",
+    "title_cn": "派拉蒙/WBD 交易搁置，希利被任命为英国财政大臣等",
+    "summary": "Source: Bloomberg, 5:57",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/paramount-wbd-deal-on-hold-healey-named-uk-chancellor-more",
+    "published": "Mon, 20 Jul 2026 19:13:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:00.579753"
+  },
+  {
+    "id": "7a4dfd842d47",
+    "title": "Bloomberg Tech: AI Race Silicon Valley's Defense Bet (Podcast)",
+    "title_cn": "彭博科技：人工智能竞赛硅谷的国防赌注（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-tech-ai-race-silicon-valley-s-defense-bet-podcast",
+    "published": "Mon, 20 Jul 2026 19:10:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:00.890162"
+  },
+  {
+    "id": "a67e6aa18839",
+    "title": "Stock Movers: Lumentum, Apple, AMC (Podcast)",
+    "title_cn": "库存推动者：Lumentum、Apple、AMC（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-20/stock-movers-lumentum-apple-amc-podcast",
+    "published": "Mon, 20 Jul 2026 19:08:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:01.242796"
+  },
+  {
     "id": "4c5c3eb7b2ad",
     "title": "Judge Pauses Paramount/WB Deal, Healey Named UK Chancellor, More",
     "title_cn": "法官暂停派拉蒙与世界银行的交易、希利被任命为英国财政大臣等",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/judge-pauses-paramount-wb-deal-healey-named-uk-chancellor-more",
     "published": "Mon, 20 Jul 2026 18:10:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.477601"
+    "fetched_at": "2026-07-20T20:26:01.863589"
   },
   {
     "id": "2f89072357ca",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/judge-pauses-warner-bros-deal-iran-mediators-stepping-in-more",
     "published": "Mon, 20 Jul 2026 17:15:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.588423"
+    "fetched_at": "2026-07-20T20:26:02.528299"
   },
   {
     "id": "ea6b2508942b",
@@ -27,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/new-uk-prime-minister-burnham-pledges-a-new-economic-model-to-bring-stability",
     "published": "Mon, 20 Jul 2026 17:08:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.702700"
+    "fetched_at": "2026-07-20T20:26:02.696879"
   },
   {
     "id": "a50e8a25b33c",
@@ -37,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/andy-burnham-reshuffle-rachel-reeves-out-as-starmer-loyalists-sacked",
     "published": "Mon, 20 Jul 2026 16:58:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.794764"
+    "fetched_at": "2026-07-20T20:26:02.825758"
   },
   {
     "id": "8abcc47f0fa6",
@@ -47,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-intelligence-moonshot-ai-plans-ipo-podcast",
     "published": "Mon, 20 Jul 2026 16:46:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.911302"
+    "fetched_at": "2026-07-20T20:26:03.125360"
   },
   {
     "id": "46d35b3c82c7",
@@ -57,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/iran-mediators-bring-new-proposals-oil-pares-gains-more",
     "published": "Mon, 20 Jul 2026 16:22:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:15.998318"
+    "fetched_at": "2026-07-20T20:26:03.234720"
   },
   {
     "id": "a7df97143bc8",
@@ -67,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-surveillance-tv-july-20th-2026-podcast",
     "published": "Mon, 20 Jul 2026 16:06:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.169955"
+    "fetched_at": "2026-07-20T20:26:03.340419"
   },
   {
     "id": "12c11ebf9e37",
@@ -77,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/iran-mediators-stepping-in-houthis-threaten-blockade-more",
     "published": "Mon, 20 Jul 2026 15:36:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.289889"
+    "fetched_at": "2026-07-20T20:26:03.644521"
   },
   {
     "id": "08df10421a62",
@@ -87,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/stock-movers-alphabet-hut-8-amc-podcast",
     "published": "Mon, 20 Jul 2026 15:16:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.384338"
+    "fetched_at": "2026-07-20T20:26:03.786409"
   },
   {
     "id": "dcaa269ad960",
@@ -97,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-talks-guillaume-faury-podcast",
     "published": "Mon, 20 Jul 2026 15:04:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.482233"
+    "fetched_at": "2026-07-20T20:26:03.907898"
   },
   {
     "id": "40954b113b21",
@@ -107,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/iran-says-mediators-stepping-in-google-s-new-chip-more",
     "published": "Mon, 20 Jul 2026 14:53:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.592709"
+    "fetched_at": "2026-07-20T20:26:04.020926"
   },
   {
     "id": "b6493255eda0",
@@ -117,127 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-20/stock-movers-domino-s-amc-lxp-industrial-trust-podcast",
     "published": "Mon, 20 Jul 2026 14:43:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.685387"
-  },
-  {
-    "id": "709931781e81",
-    "title": "Bloomberg Surveillance: Credit Risks (Podcast)",
-    "title_cn": "彭博监测：信用风险（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-20/bloomberg-surveillance-credit-risks-podcast",
-    "published": "Mon, 20 Jul 2026 14:30:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.771549"
-  },
-  {
-    "id": "0ea3a5240daf",
-    "title": "Stocks Get Lift From Chipmakers, Houthis Plan Maritime Blockade",
-    "title_cn": "芯片制造商和胡塞武装计划海上封锁提振股市",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-20/stocks-get-lift-from-chipmakers-houthis-plan-maritime-blockade",
-    "published": "Mon, 20 Jul 2026 13:46:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.872136"
-  },
-  {
-    "id": "6fdc89a94f61",
-    "title": "The Chip Theme Is Literally Unescapable: Macro Man Podcast",
-    "title_cn": "芯片主题实际上是不可避免的：Macro Man 播客",
-    "summary": "Source: Bloomberg, 6:04",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-20/the-chip-theme-is-literally-unescapable-macro-man-podcast",
-    "published": "Mon, 20 Jul 2026 13:38:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:16.969935"
-  },
-  {
-    "id": "8cd4eff8cd56",
-    "title": "Lucid’s Pain Is Being Felt Across America’s EV Industry",
-    "title_cn": "美国电动汽车行业都感受到了 Lucid 的痛苦",
-    "summary": "After a challenging year, there may be a window of opportunity",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/lucid-s-pain-is-being-felt-across-america-s-ev-industry",
-    "published": "Mon, 20 Jul 2026 13:31:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.088441"
-  },
-  {
-    "id": "ee090ee6f45d",
-    "title": "Stock Movers: AMC, DPZ, RYA (Podcast)",
-    "title_cn": "库存推动者：AMC、DPZ、RYA（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-20/stock-movers-amc-dpz-rya-podcast",
-    "published": "Mon, 20 Jul 2026 13:27:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.199696"
-  },
-  {
-    "id": "62c911740cb5",
-    "title": "Aerospace and Defense Bankers Get Their M&A Moment",
-    "title_cn": "航空航天和国防银行家迎来并购时刻",
-    "summary": "A&amp;D bankers will be among attendees at the Farnborough International Airshow in the UK this week.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/aerospace-and-defense-bankers-get-their-m-a-moment",
-    "published": "Mon, 20 Jul 2026 13:00:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.292016"
-  },
-  {
-    "id": "da8eddb0acec",
-    "title": "Progress in EU Competitiveness as European firm Prysmian announces acquisition",
-    "title_cn": "欧洲公司普睿司曼宣布收购，欧盟竞争力取得进展",
-    "summary": "Signs of progress in EU competitiveness as European Commission Chief Ursula von der Leyen meets Mario Draghi",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/progress-in-eu-competitiveness-as-european-firm-prysmian-announces-acquisition",
-    "published": "Mon, 20 Jul 2026 13:00:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.405892"
-  },
-  {
-    "id": "15fd590dda1b",
-    "title": "Christopher Nolan’s The Odyssey Revives 50-Year Western Sahara Fracas",
-    "title_cn": "克里斯托弗·诺兰的《奥德赛》重温西撒哈拉 50 年的争​​斗",
-    "summary": "A hit film sees the dispute over the Western Sahara region flare up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/christopher-nolan-s-the-odyssey-revives-50-year-western-sahara-fracas",
-    "published": "Mon, 20 Jul 2026 13:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.496062"
-  },
-  {
-    "id": "0c409828491a",
-    "title": "Gilts Rattled on Andy Burnham’s First Day as Fiscal Fears Return",
-    "title_cn": "随着财政担忧卷土重来，安迪·伯纳姆 (Andy Burnham) 上任第一天，英国国债就出现了动荡",
-    "summary": "UK government bonds plunged after new Prime Minister Andy Burnham unnerved investors on his first day in the job over his approach to the country’s finances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market",
-    "published": "Mon, 20 Jul 2026 15:07:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.766704"
-  },
-  {
-    "id": "bbbe369bb128",
-    "title": "Stocks Halt Back-to-Back Slide as Chipmakers Climb: Markets Wrap",
-    "title_cn": "随着芯片制造商的上涨，股市停止连续下滑：市场结束",
-    "summary": "Stocks halted back-to-back losses as chipmakers bounced while a rally in oil faded on hopes the US and Iran could revive a peace deal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
-    "published": "Sun, 19 Jul 2026 22:10:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.876158"
-  },
-  {
-    "id": "cb73298ef693",
-    "title": "Gold Steadies as Traders Assess Rate Path Amid US-Iran Conflict",
-    "title_cn": "交易员评估美伊冲突期间的利率走势，金价持稳",
-    "summary": "Gold steadied after escalating US-Iran clashes over the weekend were followed by reports of mediation efforts, with traders assessing the likelihood of the Federal Reserve raising interest rates to contain inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/gold-falls-as-us-iran-hostilities-keep-rate-hike-bets-on-table",
-    "published": "Sun, 19 Jul 2026 23:33:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:17.972906"
-  },
-  {
-    "id": "7da6035b0fb8",
-    "title": "Lionheart (CUB) Nears $400 Million Deal for Venezuela Oil Stake",
-    "title_cn": "Lionheart (CUB) 接近以 4 亿美元收购委内瑞拉石油股份",
-    "summary": "Lionheart Capital is close to a $400 million deal for a stake in a Venezuelan oil field, in what would be one of the first major private investments in the country’s oil industry since the US began easing sanctions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/lionheart-cub-nears-400-million-deal-for-venezuela-oil-stake",
-    "published": "Mon, 20 Jul 2026 14:38:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.066064"
+    "fetched_at": "2026-07-20T20:26:04.140072"
   },
   {
     "id": "0b6d506511ef",
@@ -247,97 +207,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/netflix-returns-to-the-high-grade-bond-market-after-2024-debut",
     "published": "Mon, 20 Jul 2026 14:46:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.171172"
+    "fetched_at": "2026-07-20T20:26:04.669886"
   },
   {
-    "id": "beb90d9bd855",
-    "title": "Goldman to Sell $2.5 Billion Preferreds Following Spread Low",
-    "title_cn": "高盛将在价差低位后出售 25 亿美元优先股",
-    "summary": "Goldman Sachs Group Inc. is selling new preferred shares Monday, just days after a metric determining risk and value in these securities hit its lowest level since the global financial crisis.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/goldman-offers-preferred-stock-days-after-post-crisis-spread-low",
-    "published": "Mon, 20 Jul 2026 12:56:59 GMT",
+    "id": "51f29cbde21f",
+    "title": "Latest Oil Market News and Analysis for July 20",
+    "title_cn": "7 月 20 日最新石油市场新闻和分析",
+    "summary": "Oil edged up in a fraught session as traders grappled with a barrage of headlines that suggest a worsening of the Middle East conflict, as well as attempts to bring about a pause in the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
+    "published": "Sun, 19 Jul 2026 22:02:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.273367"
+    "fetched_at": "2026-07-20T20:26:04.775282"
   },
   {
-    "id": "3d5645d1cc41",
-    "title": "US Immigration Policies Sink Mexican Grocery Chain Chedraui",
-    "title_cn": "美国移民政策导致墨西哥杂货连锁店 Chedraui 陷入困境",
-    "summary": "President Donald Trump’s immigration crackdown is causing the worst rout on the Mexican stock exchange this year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-immigration-policies-hammer-mexican-grocery-chain-chedraui",
-    "published": "Mon, 20 Jul 2026 16:18:32 GMT",
+    "id": "bbbe369bb128",
+    "title": "Stocks, Bonds Fall as US-Iran Risks Whipsaw Oil: Markets Wrap",
+    "title_cn": "由于美国和伊朗风险打击石油，股市和债券下跌：市场结束",
+    "summary": "A renewed bout of oil volatility sent stocks lower, with concerns about an escalation in Middle East hostilities outweighing attempts to bring about a pause in the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+    "published": "Sun, 19 Jul 2026 22:10:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.380960"
-  },
-  {
-    "id": "f1740beb27ea",
-    "title": "Money Funds Keep Cash Closer as Fed Leaves Markets Guessing",
-    "title_cn": "美联储让市场猜测，货币基金让现金更加接近",
-    "summary": "Money‑market funds are shifting toward ultra short-term holdings and away from assets with even modest interest-rate risk as uncertainty grows over the Federal Reserve’s policy path and the near-term outlook for rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/money-funds-keep-cash-closer-as-fed-leaves-markets-guessing",
-    "published": "Mon, 20 Jul 2026 16:52:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.509592"
-  },
-  {
-    "id": "2276e10eb43a",
-    "title": "BlackRock Eyes More Than $12 Billion Debt for Data Center",
-    "title_cn": "贝莱德预计数据中心债务将超过 120 亿美元",
-    "summary": "BlackRock Inc. is looking to sell more than $12 billion of bonds to help finance a Meta Platforms Inc. data center campus in El Paso, Texas, according to people with knowledge of the transaction, the latest in a string of debt deals fueling tech companies’ massive investments in artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-eyes-more-than-12-billion-debt-for-data-center",
-    "published": "Mon, 20 Jul 2026 14:33:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.625621"
-  },
-  {
-    "id": "e11f46f9c489",
-    "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise",
-    "title_cn": "随着英伟达和其他芯片制造商上涨，美国股市从抛售中反弹",
-    "summary": "US stocks advanced on Monday, paring last week’s slump, as chipmakers rebounded ahead of a deluge of earnings reports that will test whether Big Tech’s profits can match high expectations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
-    "published": "Mon, 20 Jul 2026 13:41:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.745771"
-  },
-  {
-    "id": "0ef537024a94",
-    "title": "Latin America Outperforms as Emerging Market Currencies Gain",
-    "title_cn": "随着新兴市场货币上涨，拉丁美洲表现优于大盘",
-    "summary": "Emerging-market currencies gained to start the week, with Latin American names getting a boost from a drop in volatility and carry appeal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/emerging-market-stocks-mixed-as-investors-weigh-iran-tensions",
-    "published": "Mon, 20 Jul 2026 04:45:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.860595"
-  },
-  {
-    "id": "397aa323dd60",
-    "title": "Shipowners Offer Huge Bonuses to Get Crews to Sail Hormuz",
-    "title_cn": "船东提供巨额奖金以吸引船员航行霍尔木兹",
-    "summary": "One shipowner is attempting to coax crews to sail through the Strait of Hormuz by offering them an extra six months pay if they’re willing to cross the vital oil channel, offering seafarers a stark choice between large financial rewards and the risk of death.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/shipowners-offer-huge-bonuses-to-get-crews-to-sail-hormuz",
-    "published": "Mon, 20 Jul 2026 16:22:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:18.968761"
-  },
-  {
-    "id": "76a0ad6a090a",
-    "title": "The Oil Shock Isn’t Over",
-    "title_cn": "石油危机尚未结束",
-    "summary": "Releasing barrels of crude was the easy part.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/the-oil-shock-isn-t-over",
-    "published": "Mon, 20 Jul 2026 16:19:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.078514"
-  },
-  {
-    "id": "855e80eb4f41",
-    "title": "National Bank of Canada Weighs SRT Tied to Project Finance Deals",
-    "title_cn": "加拿大国家银行考虑将 SRT 与项目融资交易挂钩",
-    "summary": "National Bank of Canada is assessing investors’ appetite for a significant risk transfer deal, adding its name to a growing list of lenders exploring the instruments as a way to create room on their balance sheets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/national-bank-of-canada-weighs-srt-tied-to-project-finance-deals",
-    "published": "Mon, 20 Jul 2026 16:14:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.178316"
+    "fetched_at": "2026-07-20T20:26:04.872698"
   },
   {
     "id": "c134203e8379",
@@ -347,7 +237,147 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/doubleline-says-higher-bond-yields-to-help-fed-keep-rates-steady",
     "published": "Mon, 20 Jul 2026 16:00:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.284514"
+    "fetched_at": "2026-07-20T20:26:04.979946"
+  },
+  {
+    "id": "dfc5d5c3b12f",
+    "title": "DC Readies $1.2 Billion Bond Sale as Credit Stabilizes Post-DOGE",
+    "title_cn": "随着 DOGE 后信用稳定，DC 准备出售 12 亿美元债券",
+    "summary": "Washington, DC is stepping up to borrow $1.2 billion this week at its annual municipal debt sale, tapping the market as its credit stabilizes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/dc-readies-1-2-billion-bond-sale-as-credit-stabilizes-post-doge",
+    "published": "Mon, 20 Jul 2026 19:24:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.086010"
+  },
+  {
+    "id": "bb29767e41f6",
+    "title": "Canada Financials Stocks Close In on Top Spot as Energy Momentum Fades",
+    "title_cn": "随着能源动力减弱，加拿大金融股逼近榜首",
+    "summary": "Canada’s financial stocks took a breather Monday after a torrid four-month rally that put them on the verge of overtaking energy as the best performing sector in the equity market this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/canada-financials-stocks-close-in-on-top-spot-as-energy-momentum-fades",
+    "published": "Mon, 20 Jul 2026 13:19:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.190930"
+  },
+  {
+    "id": "0c409828491a",
+    "title": "Gilts Rattled on Andy Burnham’s First Day as Fiscal Fears Return",
+    "title_cn": "随着财政担忧卷土重来，安迪·伯纳姆 (Andy Burnham) 上任第一天，英国国债就出现了动荡",
+    "summary": "UK government bonds plunged after new Prime Minister Andy Burnham unnerved investors on his first day in the job over his approach to the country’s finances.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/gilts-fall-as-burnham-s-fiscal-flexibility-comments-spook-market",
+    "published": "Mon, 20 Jul 2026 15:07:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.285965"
+  },
+  {
+    "id": "cb73298ef693",
+    "title": "Gold Steadies as Traders Assess Rate Path Amid US-Iran Conflict",
+    "title_cn": "交易员评估美伊冲突期间的利率走势，金价持稳",
+    "summary": "Gold steadied after escalating US-Iran clashes over the weekend were followed by reports of mediation efforts, with traders assessing the likelihood of the Federal Reserve raising interest rates to contain inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-19/gold-falls-as-us-iran-hostilities-keep-rate-hike-bets-on-table",
+    "published": "Sun, 19 Jul 2026 23:33:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.452095"
+  },
+  {
+    "id": "7da6035b0fb8",
+    "title": "Lionheart (CUB) Nears $400 Million Deal for Venezuela Oil Stake",
+    "title_cn": "Lionheart (CUB) 接近以 4 亿美元收购委内瑞拉石油股份",
+    "summary": "Lionheart Capital is close to a $400 million deal for a stake in a Venezuelan oil field, in what would be one of the first major private investments in the country’s oil industry since the US began easing sanctions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/lionheart-cub-nears-400-million-deal-for-venezuela-oil-stake",
+    "published": "Mon, 20 Jul 2026 14:38:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.573873"
+  },
+  {
+    "id": "beb90d9bd855",
+    "title": "Goldman to Sell $2.5 Billion Preferreds Following Spread Low",
+    "title_cn": "高盛将在价差低位后出售 25 亿美元优先股",
+    "summary": "Goldman Sachs Group Inc. is selling new preferred shares Monday, just days after a metric determining risk and value in these securities hit its lowest level since the global financial crisis.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/goldman-offers-preferred-stock-days-after-post-crisis-spread-low",
+    "published": "Mon, 20 Jul 2026 12:56:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.686036"
+  },
+  {
+    "id": "3d5645d1cc41",
+    "title": "US Immigration Policies Sink Mexican Grocery Chain Chedraui",
+    "title_cn": "美国移民政策导致墨西哥杂货连锁店 Chedraui 陷入困境",
+    "summary": "President Donald Trump’s immigration crackdown is causing the worst rout on the Mexican stock exchange this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-immigration-policies-hammer-mexican-grocery-chain-chedraui",
+    "published": "Mon, 20 Jul 2026 16:18:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.852522"
+  },
+  {
+    "id": "f1740beb27ea",
+    "title": "Money Funds Keep Cash Closer as Fed Leaves Markets Guessing",
+    "title_cn": "美联储让市场猜测，货币基金让现金更加接近",
+    "summary": "Money‑market funds are shifting toward ultra short-term holdings and away from assets with even modest interest-rate risk as uncertainty grows over the Federal Reserve’s policy path and the near-term outlook for rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/money-funds-keep-cash-closer-as-fed-leaves-markets-guessing",
+    "published": "Mon, 20 Jul 2026 16:52:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:05.949453"
+  },
+  {
+    "id": "2276e10eb43a",
+    "title": "BlackRock Eyes More Than $12 Billion Debt for Data Center",
+    "title_cn": "贝莱德预计数据中心债务将超过 120 亿美元",
+    "summary": "BlackRock Inc. is looking to sell more than $12 billion of bonds to help finance a Meta Platforms Inc. data center campus in El Paso, Texas, according to people with knowledge of the transaction, the latest in a string of debt deals fueling tech companies’ massive investments in artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-eyes-more-than-12-billion-debt-for-data-center",
+    "published": "Mon, 20 Jul 2026 14:33:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.058508"
+  },
+  {
+    "id": "e11f46f9c489",
+    "title": "US Stocks Rebound From Selloff as Nvidia, Other Chipmakers Rise",
+    "title_cn": "随着英伟达和其他芯片制造商上涨，美国股市从抛售中反弹",
+    "summary": "US stocks advanced on Monday, paring last week’s slump, as chipmakers rebounded ahead of a deluge of earnings reports that will test whether Big Tech’s profits can match high expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
+    "published": "Mon, 20 Jul 2026 13:41:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.155701"
+  },
+  {
+    "id": "0ef537024a94",
+    "title": "Latin America Outperforms as Emerging Market Currencies Gain",
+    "title_cn": "随着新兴市场货币上涨，拉丁美洲表现优于大市",
+    "summary": "Emerging-market currencies gained to start the week, with Latin American names getting a boost from a drop in volatility and carry appeal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/emerging-market-stocks-mixed-as-investors-weigh-iran-tensions",
+    "published": "Mon, 20 Jul 2026 04:45:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.258253"
+  },
+  {
+    "id": "397aa323dd60",
+    "title": "Shipowners Offer Huge Bonuses to Get Crews to Sail Hormuz",
+    "title_cn": "船东提供巨额奖金以吸引船员航行霍尔木兹",
+    "summary": "One shipowner is attempting to coax crews to sail through the Strait of Hormuz by offering them an extra six months pay if they’re willing to cross the vital oil channel, offering seafarers a stark choice between large financial rewards and the risk of death.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/shipowners-offer-huge-bonuses-to-get-crews-to-sail-hormuz",
+    "published": "Mon, 20 Jul 2026 16:22:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.364415"
+  },
+  {
+    "id": "76a0ad6a090a",
+    "title": "The Oil Shock Isn’t Over",
+    "title_cn": "石油危机尚未结束",
+    "summary": "Releasing barrels of crude was the easy part.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/the-oil-shock-isn-t-over",
+    "published": "Mon, 20 Jul 2026 16:19:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.475288"
+  },
+  {
+    "id": "855e80eb4f41",
+    "title": "National Bank of Canada Weighs SRT Tied to Project Finance Deals",
+    "title_cn": "加拿大国家银行考虑将 SRT 与项目融资交易挂钩",
+    "summary": "National Bank of Canada is assessing investors’ appetite for a significant risk transfer deal, adding its name to a growing list of lenders exploring the instruments as a way to create room on their balance sheets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/national-bank-of-canada-weighs-srt-tied-to-project-finance-deals",
+    "published": "Mon, 20 Jul 2026 16:14:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:06.596864"
   },
   {
     "id": "c09b273770fe",
@@ -357,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/angola-signs-900-million-port-deals-with-chinese-firms",
     "published": "Mon, 20 Jul 2026 15:36:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.370071"
+    "fetched_at": "2026-07-20T20:26:06.709529"
   },
   {
     "id": "bddaaa7d2a76",
@@ -367,37 +397,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/alkegen-plans-prepackaged-bankruptcy-in-deal-for-fresh-cash",
     "published": "Mon, 20 Jul 2026 10:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.470784"
+    "fetched_at": "2026-07-20T20:26:06.835341"
   },
   {
-    "id": "51f29cbde21f",
-    "title": "Latest Oil Market News and Analysis for July 20",
-    "title_cn": "7 月 20 日最新石油市场新闻和分析",
-    "summary": "Oil swung sharply between gains and losses in a fraught session as traders grappled with a barrage of headlines that suggest a worsening of the Middle East conflict, as well as attempts to bring about a pause in the war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
-    "published": "Sun, 19 Jul 2026 22:02:08 GMT",
+    "id": "2fac511d5393",
+    "title": "Snap Nears Settlement of Addiction Case Ahead of Jury Trial",
+    "title_cn": "Snap 成瘾案即将在陪审团审判前达成和解",
+    "summary": "Snap Inc. said it has reached a tentative agreement to settle the second case set for trial over claims that the world’s largest social media platforms are addictive to minors, leaving only Meta Platforms Inc. to face a jury starting next week in Los Angeles.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/snap-nears-settlement-of-addiction-case-ahead-of-jury-trial",
+    "published": "Mon, 20 Jul 2026 19:27:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.631739"
-  },
-  {
-    "id": "a91a11d4fadb",
-    "title": "KKR, Vauban Among Final Contenders to Buy Portugal’s DStelecom",
-    "title_cn": "KKR 和 Vauban 是收购葡萄牙 DStelecom 的最终竞争者",
-    "summary": "KKR &amp; Co. and Vauban Infrastructure Partners are competing to acquire a majority stake in Portuguese fiber operator DStelecom, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/kkr-vauban-among-final-contenders-to-buy-portugal-s-dstelecom",
-    "published": "Mon, 20 Jul 2026 15:04:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.816827"
-  },
-  {
-    "id": "59643769de0d",
-    "title": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
-    "title_cn": "印度卢比/美元：汇丰银行为印度侨民提供 FCNR(B) 存款 19 倍杠杆",
-    "summary": "When Moumita Shome landed in Dubai from Australia last month, the calls from bankers started almost immediately.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/inr-usd-hsbc-offers-indian-diaspora-19x-leverage-on-fcnr-b-deposits",
-    "published": "Mon, 20 Jul 2026 01:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:19.919142"
+    "fetched_at": "2026-07-20T20:26:07.771587"
   },
   {
     "id": "554e56055d6b",
@@ -407,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/andreessen-horowitz-adds-connor-love-to-american-dynamism-team",
     "published": "Mon, 20 Jul 2026 12:45:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.252462"
+    "fetched_at": "2026-07-20T20:26:07.897067"
   },
   {
     "id": "c8c7a40bbb09",
@@ -417,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/alibaba-fined-550-million-for-illegal-sales-in-biggest-dsa-case",
     "published": "Mon, 20 Jul 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.352304"
+    "fetched_at": "2026-07-20T20:26:08.035041"
   },
   {
     "id": "6e64c55ae93c",
@@ -427,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
     "published": "Mon, 20 Jul 2026 13:22:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.462818"
+    "fetched_at": "2026-07-20T20:26:08.138848"
   },
   {
     "id": "4feb5bbfe1ee",
@@ -437,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
     "published": "Mon, 20 Jul 2026 15:02:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.557535"
+    "fetched_at": "2026-07-20T20:26:08.258397"
   },
   {
     "id": "2f176e5fb80a",
@@ -447,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-ai-sensation-moonshot-s-gamble-on-big-models-pays-off",
     "published": "Mon, 20 Jul 2026 13:14:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.662105"
+    "fetched_at": "2026-07-20T20:26:08.366346"
   },
   {
     "id": "c01d700aea95",
@@ -457,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-s-kimi-ai-model-sets-off-anxiety-in-the-us",
     "published": "Mon, 20 Jul 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.768012"
+    "fetched_at": "2026-07-20T20:26:08.471723"
   },
   {
     "id": "74341ec25ce8",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
     "published": "Mon, 20 Jul 2026 10:30:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:20.901094"
+    "fetched_at": "2026-07-20T20:26:08.572309"
   },
   {
     "id": "3d19254937dd",
@@ -477,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-20/chatgpt-claude-infiltrate-dating-apps-by-helping-singles-flirt-with-matches",
     "published": "Mon, 20 Jul 2026 10:15:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.005656"
+    "fetched_at": "2026-07-20T20:26:08.674822"
   },
   {
     "id": "720ce091f68b",
@@ -487,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/influencers-are-being-paid-to-spread-the-mormon-church-s-gospel",
     "published": "Mon, 20 Jul 2026 09:30:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.128161"
+    "fetched_at": "2026-07-20T20:26:08.779587"
   },
   {
     "id": "9b029ae4857e",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
     "published": "Mon, 20 Jul 2026 04:50:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.228557"
+    "fetched_at": "2026-07-20T20:26:08.884986"
   },
   {
     "id": "6c82bd5e6894",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/china-steps-up-efforts-to-stabilize-its-sagging-stock-market",
     "published": "Mon, 20 Jul 2026 01:09:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.327598"
+    "fetched_at": "2026-07-20T20:26:09.001553"
   },
   {
     "id": "69d9d72af8e9",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-ai-is-creating-new-winners-and-losers-in-the-ai-trade",
     "published": "Mon, 20 Jul 2026 08:34:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.464702"
+    "fetched_at": "2026-07-20T20:26:09.097042"
   },
   {
     "id": "5e41e38a33e9",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-is-new-engine-keeping-chinese-economy-from-harder-landing",
     "published": "Mon, 20 Jul 2026 07:25:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.578883"
+    "fetched_at": "2026-07-20T20:26:09.229130"
   },
   {
     "id": "524709bf9ab0",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/prysmian-inks-6-3-billion-deal-with-molex-for-data-center-gear",
     "published": "Mon, 20 Jul 2026 05:21:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.681976"
+    "fetched_at": "2026-07-20T20:26:09.329902"
   },
   {
     "id": "73d7b92f7ad9",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/sessions/2026-07-20/live-q-amp-a-can-moonshot-s-kimi-help-china-break-the-us-s-ai-lead",
     "published": "Mon, 20 Jul 2026 05:41:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.789252"
+    "fetched_at": "2026-07-20T20:26:09.440413"
   },
   {
     "id": "ce4adb4efe0e",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackstone-agrees-to-invest-in-korean-robotics-supplier-futronic",
     "published": "Mon, 20 Jul 2026 04:39:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:21.896761"
+    "fetched_at": "2026-07-20T20:26:09.569335"
   },
   {
     "id": "5a28c625e085",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
     "published": "Sun, 19 Jul 2026 11:02:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:22.015893"
+    "fetched_at": "2026-07-20T20:26:09.697968"
   },
   {
     "id": "b243c6554edc",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/ai-pioneer-kai-fu-lee-s-startup-targets-hong-kong-ipo-next-year",
     "published": "Mon, 20 Jul 2026 03:40:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:22.097545"
+    "fetched_at": "2026-07-20T20:26:09.812016"
   },
   {
     "id": "41b869233a08",
@@ -587,67 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/moutai-hikes-price-of-flagship-liquor-for-second-time-in-months",
     "published": "Mon, 20 Jul 2026 01:53:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:22.178963"
-  },
-  {
-    "id": "fcc35f5be6f0",
-    "title": "Traders Cut Taiwan Stock Leverage at Fastest Pace in 15 Months",
-    "title_cn": "交易员以 15 个月来最快的速度削减台股杠杆",
-    "summary": "Taiwan’s retail investors unwound their leveraged stock bets at the fastest pace since April 2025 on Friday, helping drive the local equity market into a technical correction.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/traders-cut-taiwan-stock-leverage-at-fastest-pace-in-15-months",
-    "published": "Mon, 20 Jul 2026 01:18:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:22.334177"
-  },
-  {
-    "id": "45d1f4b15126",
-    "title": "El Mayo Gets Life in Jail Over Role in Drug Cartel",
-    "title_cn": "埃尔梅奥因参与贩毒集团而被判终身监禁",
-    "summary": "Mexican drug lord Ismael “El Mayo” Zambada Garcia was sentenced to life in prison for his role in running the violent Sinaloa cartel, ordering the murder of scores of people and importing massive amounts of cocaine, fentanyl and heroin into the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/el-mayo-gets-life-in-prison-as-case-roils-us-mexico-relations",
-    "published": "Mon, 20 Jul 2026 15:19:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:22.956497"
-  },
-  {
-    "id": "09cff1c1b8e4",
-    "title": "Darline Graham Says She’s Running for South Carolina Senate",
-    "title_cn": "达琳·格雷厄姆说她正在竞选南卡罗来纳州参议员",
-    "summary": "Republican Senator Darline Graham said she plans to run in November’s midterm elections for the seat held by her late brother, Lindsey Graham.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/darline-graham-says-she-s-running-for-south-carolina-senate-seat",
-    "published": "Mon, 20 Jul 2026 18:28:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:23.316652"
-  },
-  {
-    "id": "9551de010a7e",
-    "title": "Trump Vows Iran Will Pay for Deaths as Mediators Push Truce",
-    "title_cn": "特朗普誓言伊朗将为调解者推动停战造成的死亡付出代价",
-    "summary": "President Donald Trump vowed that Iran “will pay” for killing three US soldiers in recent days, even as mediators proposed a new truce with the Middle East war widening further.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-vows-iran-will-pay-for-us-deaths-as-mediators-push-truce",
-    "published": "Mon, 20 Jul 2026 17:26:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:23.543155"
-  },
-  {
-    "id": "4c66782cc292",
-    "title": "Burnham to Seek ‘Flexibility’ Within Existing Fiscal Rules",
-    "title_cn": "伯纳姆将在现有财政规则中寻求“灵活性”",
-    "summary": "Britain’s new prime minister, Andy Burnham, said he would use “flexibility” within the UK’s fiscal rules and push borrowing closer to the limits of what investors will tolerate as he seeks to reboot the slow-growing economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-to-seek-flexibility-within-uk-s-existing-fiscal-rules",
-    "published": "Mon, 20 Jul 2026 15:00:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:23.648191"
-  },
-  {
-    "id": "d3df2e05f90d",
-    "title": "Hungarian Chess Champion Polgar Turns Down Presidency Offer",
-    "title_cn": "匈牙利国际象棋冠军波尔加拒绝担任总统",
-    "summary": "Hungarian Prime Minister Peter Magyar suffered his first major setback since taking office after chess legend Judit Polgar declined to be nominated as president just a day after he had publicly endorsed her.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/hungarian-chess-champion-polgar-turns-down-presidency-offer",
-    "published": "Mon, 20 Jul 2026 17:56:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:23.754103"
+    "fetched_at": "2026-07-20T20:26:09.936173"
   },
   {
     "id": "6892bc54d0cf",
@@ -657,17 +607,107 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-says-netanyahu-will-not-be-arrested-after-mamdani-threat",
     "published": "Mon, 20 Jul 2026 17:36:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:25.128407"
+    "fetched_at": "2026-07-20T20:26:10.530048"
+  },
+  {
+    "id": "815e4254445b",
+    "title": "Maine Power Play Sets Stage for Competitive Senate Ballot",
+    "title_cn": "缅因州权力游戏为竞争性参议院投票奠定了基础",
+    "summary": "Democrats are picking their candidate to face the Republican incumbent in a far more orderly fashion than many had anticipated.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/maine-power-play-sets-stage-for-competitive-senate-ballot",
+    "published": "Mon, 20 Jul 2026 20:24:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:10.652759"
+  },
+  {
+    "id": "09cff1c1b8e4",
+    "title": "Darline Graham Says She’s Running for South Carolina Senate",
+    "title_cn": "达琳·格雷厄姆说她正在竞选南卡罗来纳州参议员",
+    "summary": "Republican Senator Darline Graham said she plans to run in November’s midterm elections for the seat held by her late brother, Lindsey Graham.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/darline-graham-says-she-s-running-for-south-carolina-senate-seat",
+    "published": "Mon, 20 Jul 2026 18:28:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:10.741596"
+  },
+  {
+    "id": "bf46a52bba45",
+    "title": "US Offers to Halve Aluminum Duties for Companies Building in US",
+    "title_cn": "美国提议将在美建厂企业的铝关税减半",
+    "summary": "The Trump administration announced an incentive program under which companies that build, expand or refurbish aluminum plants in the US would receive a tariff discount for the metal they ship into the country from abroad.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-offers-to-halve-aluminum-duties-for-companies-building-in-us",
+    "published": "Mon, 20 Jul 2026 20:05:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:10.844651"
+  },
+  {
+    "id": "9551de010a7e",
+    "title": "Trump Vows Iran Will Pay for Deaths as Mediators Push Truce",
+    "title_cn": "特朗普誓言伊朗将为调解者推动停战造成的死亡付出代价",
+    "summary": "President Donald Trump vowed that Iran “will pay” for killing three US soldiers in recent days, even as mediators proposed a new truce with the Middle East war widening further.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-vows-iran-will-pay-for-us-deaths-as-mediators-push-truce",
+    "published": "Mon, 20 Jul 2026 17:26:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:10.949781"
+  },
+  {
+    "id": "34bd2e546f50",
+    "title": "Trump Signs Order to Map Supply Chains for National Security",
+    "title_cn": "特朗普签署命令绘制国家安全供应链图",
+    "summary": "US defense contractors will have to map out critical supply chains to identify sources in adversary countries under a new White House order signed Monday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-signs-order-to-map-supply-chains-for-national-security",
+    "published": "Mon, 20 Jul 2026 19:40:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:11.054193"
   },
   {
     "id": "d9b983230c20",
     "title": "Andy Burnham Names John Healey Chancellor in Surprise UK Cabinet Move",
     "title_cn": "安迪·伯纳姆 (Andy Burnham) 任命约翰·希利 (John Healey) 为财政大臣，英国内阁变动令人惊讶",
-    "summary": "Britain’s new prime minister, Andy Burnham, named former Defense Secretary John Healey to be his chancellor of the exchequer in a surprise move that will fuel speculation about a bigger increase in military spending.",
+    "summary": "Britain’s new prime minister, Andy Burnham, named former Defense Secretary John Healey to be his chancellor of the exchequer in a surprise move that fueled speculation about a bigger increase in military spending.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/john-healey-named-chancellor-by-new-uk-pm-andy-burnham",
     "published": "Mon, 20 Jul 2026 17:17:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:25.240562"
+    "fetched_at": "2026-07-20T20:26:11.171405"
+  },
+  {
+    "id": "8ca392e7e6b8",
+    "title": "Healey, Haigh, Mahmood: Who’s Who in Burnham’s New UK Cabinet",
+    "title_cn": "希利、黑格、马哈茂德：伯纳姆新英国内阁的名人录",
+    "summary": "Delivering his first speech as UK prime minister in front of the famous black door of 10 Downing Street, Andy Burnham promised to bring forward “the biggest changes in the last 40 years” for Britain. Those changes started with his cabinet.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/healey-haigh-mahmood-who-s-who-in-burnham-s-new-uk-cabinet",
+    "published": "Mon, 20 Jul 2026 19:35:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:11.273223"
+  },
+  {
+    "id": "45d1f4b15126",
+    "title": "El Mayo Gets Life in Jail Over Role in Drug Cartel, Murders",
+    "title_cn": "埃尔梅奥因参与贩毒集团和谋杀而被判终身监禁",
+    "summary": "Mexican drug lord Ismael “El Mayo” Zambada Garcia was sentenced to life in prison for his role in running the violent Sinaloa cartel, ordering the murder of scores of people and importing massive amounts of cocaine, fentanyl and heroin into the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/el-mayo-gets-life-in-prison-as-case-roils-us-mexico-relations",
+    "published": "Mon, 20 Jul 2026 15:19:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:11.375307"
+  },
+  {
+    "id": "4c66782cc292",
+    "title": "Burnham to Seek ‘Flexibility’ Within Existing Fiscal Rules",
+    "title_cn": "伯纳姆将在现有财政规则中寻求“灵活性”",
+    "summary": "Britain’s new prime minister, Andy Burnham, said he would use “flexibility” within the UK’s fiscal rules and push borrowing closer to the limits of what investors will tolerate as he seeks to reboot the slow-growing economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-to-seek-flexibility-within-uk-s-existing-fiscal-rules",
+    "published": "Mon, 20 Jul 2026 15:00:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:11.471611"
+  },
+  {
+    "id": "d3df2e05f90d",
+    "title": "Hungarian Chess Champion Polgar Turns Down Presidency Offer",
+    "title_cn": "匈牙利国际象棋冠军波尔加拒绝担任总统",
+    "summary": "Hungarian Prime Minister Peter Magyar suffered his first major setback since taking office after chess legend Judit Polgar declined to be nominated as president just a day after he had publicly endorsed her.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/hungarian-chess-champion-polgar-turns-down-presidency-offer",
+    "published": "Mon, 20 Jul 2026 17:56:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-20T20:26:11.593003"
   },
   {
     "id": "9fa77633d339",
@@ -677,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/ukraine-dronemaker-says-new-long-range-weapon-seeing-combat-test",
     "published": "Mon, 20 Jul 2026 15:22:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:25.650862"
+    "fetched_at": "2026-07-20T20:26:11.718856"
   },
   {
     "id": "336258ddd583",
@@ -687,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-lawsuits-reach-key-stages-after-pair-of-recent-setbacks",
     "published": "Mon, 20 Jul 2026 12:19:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:25.961330"
+    "fetched_at": "2026-07-20T20:26:11.839657"
   },
   {
     "id": "eb55acfdad72",
@@ -697,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/congressman-russell-fry-enters-senate-race-to-replace-graham",
     "published": "Mon, 20 Jul 2026 16:44:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.061516"
+    "fetched_at": "2026-07-20T20:26:11.950896"
   },
   {
     "id": "065b7aa54092",
@@ -707,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/french-embassy-staff-in-iran-intimidated-by-security-service",
     "published": "Mon, 20 Jul 2026 16:41:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.177848"
+    "fetched_at": "2026-07-20T20:26:12.065742"
   },
   {
     "id": "a60cb70ce54a",
@@ -717,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/yemen-s-houthis-vow-to-impose-maritime-blockade-on-saudi-arabia",
     "published": "Mon, 20 Jul 2026 12:31:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.285119"
+    "fetched_at": "2026-07-20T20:26:12.180434"
   },
   {
     "id": "e0b83410813c",
@@ -727,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/thames-water-seeks-to-hike-bills-just-as-burnham-promises-change",
     "published": "Mon, 20 Jul 2026 14:10:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.628076"
+    "fetched_at": "2026-07-20T20:26:12.284921"
   },
   {
     "id": "22d6643ddffd",
@@ -737,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/eu-expects-to-hit-1-35-trillion-spending-goal-agreed-with-trump",
     "published": "Mon, 20 Jul 2026 15:50:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.741464"
+    "fetched_at": "2026-07-20T20:26:12.395804"
   },
   {
     "id": "794283ad18b9",
@@ -747,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/zelenskyy-weighs-ousting-unpopular-army-chief-after-protests",
     "published": "Mon, 20 Jul 2026 15:00:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.841104"
+    "fetched_at": "2026-07-20T20:26:12.502914"
   },
   {
     "id": "3e60cc070352",
@@ -757,46 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-promises-new-economic-model-in-first-speech-as-uk-pm",
     "published": "Mon, 20 Jul 2026 11:58:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-20T18:56:26.965179"
-  },
-  {
-    "id": "55d11e8ab5f3",
-    "title": "Ghana Opposition Politician Jailed 20 Years for Illegal Mining",
-    "title_cn": "加纳反对派政治家因非法采矿被判入狱 20 年",
-    "summary": "Ghana has sentenced a senior opposition politician to 20 years in prison after convicting him on charges linked to illegal mining, Joy FM reported.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/ghana-opposition-politician-jailed-20-years-for-illegal-mining",
-    "published": "Mon, 20 Jul 2026 14:36:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:27.070920"
-  },
-  {
-    "id": "58645fd5f20d",
-    "title": "The Colorful Left-Winger at the Center of Burnham’s UK Team",
-    "title_cn": "伯纳姆英国队中锋的多彩左翼",
-    "summary": "Less than two years ago it looked like Louise Haigh’s political career was over. Now she’s the right-hand to UK Prime Minister Andy Burnham and central to his new government.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/the-colorful-left-winger-at-the-center-of-burnham-s-uk-team",
-    "published": "Mon, 20 Jul 2026 14:25:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:27.163920"
-  },
-  {
-    "id": "e1dbca774523",
-    "title": "Angry Students Face Police Batons, Tear Gas in Delhi Protest",
-    "title_cn": "愤怒的学生在德里抗议中面对警棍和催泪瓦斯",
-    "summary": "Police in New Delhi used tear gas and batons to disperse thousands of young people attempting to march to India’s parliament on Monday, drawing attention to a growing education crisis that’s fueled anger at Prime Minister Narendra Modi’s government.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/modi-s-rivals-angry-students-gear-up-for-parliament-protests",
-    "published": "Mon, 20 Jul 2026 02:43:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:27.285332"
-  },
-  {
-    "id": "9667a5f84b14",
-    "title": "Hamas Picks Iran-Aligned Khalil Al-Hayya as Its Top Leader",
-    "title_cn": "哈马斯任命与伊朗结盟的哈利勒·哈亚为其最高领导人",
-    "summary": "The militant Palestinian group Hamas chose as the head of its executive body Gaza-born Khalil Al-Hayya, a close affiliate of Iran, over a competitor favored more by Sunni Arab nations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/hamas-picks-iran-aligned-khalil-al-hayya-as-its-top-leader",
-    "published": "Mon, 20 Jul 2026 13:49:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-20T18:56:27.397237"
+    "fetched_at": "2026-07-20T20:26:12.596791"
   }
 ]
