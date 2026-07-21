@@ -1,5 +1,65 @@
 [
   {
+    "id": "2d558d45c965",
+    "title": "Trump: US Will Continue Iran Strikes, US Trade Deal with Jordan",
+    "title_cn": "特朗普：美国将继续打击伊朗以及美国与约旦的贸易协议",
+    "summary": "Source: Bloomberg, 5:58",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/trump-us-will-continue-iran-strikes-us-trade-deal-with-jordan",
+    "published": "Tue, 21 Jul 2026 19:14:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:06.048415"
+  },
+  {
+    "id": "cf87a794bae0",
+    "title": "Stock Movers: D.R Horton, Danaher, General Motors (Podcast)",
+    "title_cn": "库存推动者：D.R Horton、丹纳赫、通用汽车（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/stock-movers-d-r-horton-danaher-general-motors-podcast",
+    "published": "Tue, 21 Jul 2026 19:08:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:06.511029"
+  },
+  {
+    "id": "456c0285feeb",
+    "title": "Balance of Power: Trump Downplays Iran Talks (Podcast)",
+    "title_cn": "权力平衡：特朗普淡化伊朗谈判（播客）",
+    "summary": "Source: Bloomberg, 37:49",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/balance-of-power-trump-downplays-iran-talks-podcast",
+    "published": "Tue, 21 Jul 2026 18:39:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:07.409620"
+  },
+  {
+    "id": "8c32c5d2acb9",
+    "title": "Bloomberg Tech: Nvidia's AI Push (Podcast)",
+    "title_cn": "彭博科技：Nvidia 的 AI 推动（播客）",
+    "summary": "Source: Bloomberg, 39:27",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-tech-nvidia-s-ai-push-podcast",
+    "published": "Tue, 21 Jul 2026 18:23:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:08.150748"
+  },
+  {
+    "id": "a79c799acd9d",
+    "title": "Bloomberg Talks: David Burt (Podcast)",
+    "title_cn": "彭博社谈话：大卫·伯特（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-david-burt-podcast",
+    "published": "Tue, 21 Jul 2026 18:08:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:08.912106"
+  },
+  {
+    "id": "ebf07efbf42d",
+    "title": "Trump: Iran \"Desperate\" to Meet with US, Jordan Trade Deal, More",
+    "title_cn": "特朗普：伊朗“迫切”希望与美国、约旦达成贸易协议等会面",
+    "summary": "Source: Bloomberg, 5:50",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-21/trump-iran-desperate-to-meet-with-us-jordan-trade-deal-more",
+    "published": "Tue, 21 Jul 2026 18:05:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:09.860016"
+  },
+  {
     "id": "90df3ae8e3be",
     "title": "US Trade Deal with Jordan, New 50% Tariffs on Canadian Goods",
     "title_cn": "美国与约旦达成贸易协议，对加拿大商品征收新的 50% 关税",
@@ -7,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/us-trade-deal-with-jordan-new-50-tariffs-on-canadian-goods",
     "published": "Tue, 21 Jul 2026 17:18:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:47.944451"
+    "fetched_at": "2026-07-21T19:38:10.283860"
   },
   {
     "id": "5d288d106263",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-intelligence-gm-boosts-2026-outlook-podcast",
     "published": "Tue, 21 Jul 2026 16:46:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.047254"
+    "fetched_at": "2026-07-21T19:38:10.681711"
   },
   {
     "id": "ee5449b846a3",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/prime-minister-andy-burnham-wants-bold-but-prudent-labour-government",
     "published": "Tue, 21 Jul 2026 16:21:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.223528"
+    "fetched_at": "2026-07-21T19:38:10.837208"
   },
   {
     "id": "e87ad69076d3",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/trump-trade-deal-with-jordan-vows-50-tariffs-on-canadian-goods",
     "published": "Tue, 21 Jul 2026 16:12:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.319783"
+    "fetched_at": "2026-07-21T19:38:11.613062"
   },
   {
     "id": "5ef506b1ddd0",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-surveillance-tv-july-21st-2026-podcast",
     "published": "Tue, 21 Jul 2026 16:04:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.417789"
+    "fetched_at": "2026-07-21T19:38:12.272858"
   },
   {
     "id": "6b40fe908fab",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/houthi-rebels-warn-ships-calling-at-saudi-ports-may-be-targeted",
     "published": "Tue, 21 Jul 2026 16:02:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.570731"
+    "fetched_at": "2026-07-21T19:38:12.412454"
   },
   {
     "id": "ce0717183315",
@@ -67,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-john-kuckelman-podcast",
     "published": "Tue, 21 Jul 2026 15:34:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.673086"
+    "fetched_at": "2026-07-21T19:38:12.761220"
   },
   {
     "id": "54c01c7f1115",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/thames-water-creditors-make-an-appeal-to-andy-burnham",
     "published": "Tue, 21 Jul 2026 15:33:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:48.781141"
+    "fetched_at": "2026-07-21T19:38:12.936738"
   },
   {
     "id": "4f8951ab4478",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/day-10-of-us-iran-strikes-moonshot-s-final-fundraising-round",
     "published": "Tue, 21 Jul 2026 15:31:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:49.414301"
+    "fetched_at": "2026-07-21T19:38:13.484448"
   },
   {
     "id": "27f7ef5910b5",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/inside-active-jpmorgan-s-el-asmar-on-active-etf-growth-in-apac",
     "published": "Tue, 21 Jul 2026 15:31:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:49.603109"
+    "fetched_at": "2026-07-21T19:38:13.619376"
   },
   {
     "id": "6afca9a9d711",
@@ -107,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-larry-culp-podcast",
     "published": "Tue, 21 Jul 2026 15:24:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:49.697754"
+    "fetched_at": "2026-07-21T19:38:14.321276"
   },
   {
     "id": "bfc03d7db2ba",
@@ -117,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/europe-s-private-fund-managers-drive-spike-in-secondary-transactions",
     "published": "Tue, 21 Jul 2026 13:53:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:49.801321"
+    "fetched_at": "2026-07-21T19:38:14.504762"
   },
   {
     "id": "479475d57da0",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-chris-cocks-podcast",
     "published": "Tue, 21 Jul 2026 15:22:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:49.962029"
+    "fetched_at": "2026-07-21T19:38:15.044420"
   },
   {
     "id": "6218f9d430f3",
@@ -137,67 +197,57 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/stock-movers-equifax-danaher-3m-podcast",
     "published": "Tue, 21 Jul 2026 15:15:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.040173"
+    "fetched_at": "2026-07-21T19:38:15.194553"
   },
   {
-    "id": "1f83e6ab1038",
-    "title": "US-Iran Strikes Continue Amid Diplomatic Efforts, Moonshot",
-    "title_cn": "在外交努力和登月计划中，美国和伊朗的袭击仍在继续",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/us-iran-strikes-continue-amid-diplomatic-efforts-moonshot",
-    "published": "Tue, 21 Jul 2026 14:39:33 GMT",
+    "id": "9b591d379d41",
+    "title": "Stocks Climb as Rebound in Chipmakers Gathers Pace: Markets Wrap",
+    "title_cn": "随着芯片制造商加速反弹，股市上涨：市场总结",
+    "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid a rally in chipmakers on bets the artificial-intelligence trade that’s powered the bull market has more room to run.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
+    "published": "Mon, 20 Jul 2026 22:09:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.117327"
+    "fetched_at": "2026-07-21T19:38:15.695741"
   },
   {
-    "id": "deeb262d7f87",
-    "title": "Stock Movers: 3M, Halliburton, Genuine Parts (Podcast)",
-    "title_cn": "库存搬运商：3M、哈里伯顿、原厂零件（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/stock-movers-3m-halliburton-genuine-parts-podcast",
-    "published": "Tue, 21 Jul 2026 14:34:59 GMT",
+    "id": "19f3e281fa1c",
+    "title": "Gold and Silver Rise on Dip-Buying as Traders Weigh Fed Strategy",
+    "title_cn": "交易员权衡美联储策略，黄金和白银因逢低买盘而上涨",
+    "summary": "Gold and silver advanced on dip-buying as traders monitored Middle East tensions for signs that higher energy costs could stoke inflation, putting pressure on the Federal Reserve to tighten policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-20/gold-steady-as-traders-watch-middle-east-war-for-inflation-clues",
+    "published": "Mon, 20 Jul 2026 23:47:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.223839"
+    "fetched_at": "2026-07-21T19:38:15.854708"
   },
   {
-    "id": "29885df3a0fc",
-    "title": "Who's Gonna Buy All of These Securities?: Macro Man Podcast",
-    "title_cn": "谁会购买所有这些证券？：Macro Man 播客",
-    "summary": "Source: Bloomberg, 5:36",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/who-s-gonna-buy-all-of-these-securities-macro-man-podcast",
-    "published": "Tue, 21 Jul 2026 14:04:30 GMT",
+    "id": "954ac9da80ef",
+    "title": "Treasury Flags Concern Over ‘Potentially Abusive’ Tax Trades",
+    "title_cn": "财政部对“潜在滥用”税收交易表示担忧",
+    "summary": "The US Treasury Department has expressed concern over a number of high-profile tax strategies touted by Wall Street that it says may be “too good to be true.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/treasury-flags-concern-over-potentially-abusive-tax-strategies",
+    "published": "Tue, 21 Jul 2026 17:29:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.369096"
+    "fetched_at": "2026-07-21T19:38:16.017049"
   },
   {
-    "id": "535029b08aa4",
-    "title": "Bloomberg Surveillance: Market and Earnings (Podcast)",
-    "title_cn": "彭博监测：市场和收益（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-surveillance-market-and-earnings-podcast",
-    "published": "Tue, 21 Jul 2026 13:59:43 GMT",
+    "id": "5de46cea9ffe",
+    "title": "BlackRock vs BlackRock: Aston Martin Debt Revamp Risks In-House Clash",
+    "title_cn": "贝莱德 vs 贝莱德：阿斯顿·马丁债务重组面临内部冲突风险",
+    "summary": "A potential debt revamp at Aston Martin Lagonda Global Holdings Plc is setting the stage for an unusual battle between different divisions of asset management giant BlackRock Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-vs-blackrock-aston-martin-debt-revamp-risks-in-house-clash",
+    "published": "Tue, 21 Jul 2026 14:07:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.464533"
+    "fetched_at": "2026-07-21T19:38:16.165737"
   },
   {
-    "id": "d51c3d522ad7",
-    "title": "Stocks Climb on Chip Rebound, Novo Nordisk Sues Eli Lilly, More",
-    "title_cn": "芯片反弹，股市攀升，诺和诺德起诉礼来公司等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/stocks-climb-on-chip-rebound-novo-nordisk-sues-eli-lilly-more",
-    "published": "Tue, 21 Jul 2026 13:44:54 GMT",
+    "id": "2be04ba29586",
+    "title": "Subprime Auto Dealer Goes From Covid-Era Rockstar to Near Demise",
+    "title_cn": "次级汽车经销商从新冠时代的明星走向濒临灭亡",
+    "summary": "America’s Car-Mart Inc. thrived during a ’90s slump, the 2008 financial crisis and the upheaval of Covid-19 by doing one thing well: selling and financing older, high-mileage used cars for cash-strapped, deeply-subprime buyers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/subprime-auto-dealer-goes-from-covid-era-rockstar-to-near-demise",
+    "published": "Tue, 21 Jul 2026 17:33:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.547972"
-  },
-  {
-    "id": "27485ba8d3a0",
-    "title": "Banco CTT Said to Draw Interest from Spain’s Cajamar",
-    "title_cn": "据称西班牙 Cajamar 银行对 CTT 银行感兴趣",
-    "summary": "Spanish lender BCC-Grupo Cooperativo Cajamar has expressed interest in a tie-up with the banking unit of Portuguese postal service operator CTT–Correios de Portugal SA, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/portugal-s-banco-ctt-said-to-draw-interest-from-spain-s-cajamar",
-    "published": "Tue, 21 Jul 2026 11:51:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:50.697000"
+    "fetched_at": "2026-07-21T19:38:16.318381"
   },
   {
     "id": "d51e9a4d11c9",
@@ -207,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/us-stock-futures-rise-as-chipmaker-rebound-overshadows-iran-war",
     "published": "Tue, 21 Jul 2026 12:31:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.135381"
+    "fetched_at": "2026-07-21T19:38:16.465737"
   },
   {
     "id": "21517da986e9",
@@ -217,17 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/iberdrola-agrees-to-buy-80-stake-in-caruna-group-for-2-billion",
     "published": "Tue, 21 Jul 2026 16:45:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.224603"
-  },
-  {
-    "id": "9b591d379d41",
-    "title": "Stocks Climb as Rebound in Chipmakers Gathers Pace: Markets Wrap",
-    "title_cn": "随着芯片制造商加速反弹，股市上涨：市场总结",
-    "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid rally in chipmakers on bets the artificial-intelligence trade that’s powered the bull market has more room to run.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
-    "published": "Mon, 20 Jul 2026 22:09:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.330882"
+    "fetched_at": "2026-07-21T19:38:16.632609"
   },
   {
     "id": "6d4d101fcd0a",
@@ -237,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/colombia-peru-send-early-policy-signs-to-extend-election-rally",
     "published": "Tue, 21 Jul 2026 12:50:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.442155"
+    "fetched_at": "2026-07-21T19:38:16.767234"
   },
   {
     "id": "43901df03315",
@@ -247,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/liverpool-fc-owners-consider-selling-stake-to-bhatia-led-group",
     "published": "Tue, 21 Jul 2026 15:31:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.539050"
+    "fetched_at": "2026-07-21T19:38:16.913941"
   },
   {
     "id": "2bba5904b3b1",
@@ -257,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/emerging-market-assets-rally-on-china-tech-support-iran-talks",
     "published": "Tue, 21 Jul 2026 10:31:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.629912"
+    "fetched_at": "2026-07-21T19:38:17.070513"
   },
   {
     "id": "415b022ca278",
@@ -267,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk",
     "published": "Tue, 21 Jul 2026 14:31:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.802150"
+    "fetched_at": "2026-07-21T19:38:17.217158"
   },
   {
     "id": "6d5d3d6add0c",
@@ -277,17 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/oaktree-s-poli-sees-a-200-billion-distressed-moment-coming-as-rates-stay-high",
     "published": "Tue, 21 Jul 2026 15:58:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:51.887194"
-  },
-  {
-    "id": "19f3e281fa1c",
-    "title": "Gold and Silver Rise on Dip-Buying as Traders Weigh Fed Strategy",
-    "title_cn": "交易员权衡美联储策略，黄金和白银因逢低买盘而上涨",
-    "summary": "Gold and silver rose on dip-buying as traders monitored Middle East tensions for signs that higher energy costs could stoke inflation, putting pressure on the Federal Reserve to tighten policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/gold-steady-as-traders-watch-middle-east-war-for-inflation-clues",
-    "published": "Mon, 20 Jul 2026 23:47:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.045138"
+    "fetched_at": "2026-07-21T19:38:17.370195"
   },
   {
     "id": "b0da402b75d6",
@@ -297,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/gilts-steady-as-investors-await-more-policy-details-from-burnham",
     "published": "Tue, 21 Jul 2026 07:33:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.131198"
+    "fetched_at": "2026-07-21T19:38:17.504009"
   },
   {
     "id": "3bd258da184f",
@@ -307,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/viktor-shvets-on-whether-geopolitics-matters-for-investors",
     "published": "Tue, 21 Jul 2026 15:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.237942"
+    "fetched_at": "2026-07-21T19:38:17.648369"
   },
   {
     "id": "322890ef95ec",
@@ -317,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20",
     "published": "Mon, 20 Jul 2026 22:11:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.407592"
+    "fetched_at": "2026-07-21T19:38:17.792832"
   },
   {
     "id": "0df1ce5e61e3",
@@ -327,17 +357,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/adobe-salesforce-downgrades-are-latest-show-of-ai-fears",
     "published": "Tue, 21 Jul 2026 15:00:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.574771"
+    "fetched_at": "2026-07-21T19:38:17.967336"
   },
   {
     "id": "a1d6bef3bb07",
-    "title": "SpaceX’s Great Unlocking Begins With $116 Billion Share Release",
-    "title_cn": "SpaceX 的伟大解锁始于发行 1160 亿美元的股票",
+    "title": "SpaceX (SPCX) Set to Unlock $116B in Shares After IPO Restrictions Lift",
+    "title_cn": "IPO 限制解除后 SpaceX (SPCX) 将解锁 116B 美元的股票",
     "summary": "SpaceX has set the stage for one of the largest share unlocks in capital markets history, with as much as $116 billion worth of stock becoming eligible for sale for the first time next month.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/spacex-s-great-unlocking-begins-with-116-billion-share-release",
     "published": "Tue, 21 Jul 2026 14:55:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.684970"
+    "fetched_at": "2026-07-21T19:38:18.109107"
   },
   {
     "id": "2e167a666fed",
@@ -347,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line",
     "published": "Tue, 21 Jul 2026 14:52:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.762942"
+    "fetched_at": "2026-07-21T19:38:18.243858"
   },
   {
     "id": "749f34092989",
@@ -357,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/amc-rolls-out-red-carpet-for-debt-investors-to-trumpet-rebound",
     "published": "Tue, 21 Jul 2026 14:52:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.871145"
+    "fetched_at": "2026-07-21T19:38:18.517090"
   },
   {
     "id": "6d315e5cac4c",
@@ -367,37 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/india-s-refiners-come-to-the-rescue-of-russia-s-oil-exporters",
     "published": "Tue, 21 Jul 2026 14:50:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:52.970589"
-  },
-  {
-    "id": "cfd2ff9ff42e",
-    "title": "Pakistan Appoints Banks for its Bond and Sukuk Programs",
-    "title_cn": "巴基斯坦为其债券和伊斯兰债券计划指定银行",
-    "summary": "Pakistan’s finance ministry has appointed banks for its global bond and sukuk programs, according to a statement.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/pakistan-appoints-banks-for-its-bond-and-sukuk-programs",
-    "published": "Tue, 21 Jul 2026 14:44:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:53.070750"
-  },
-  {
-    "id": "afd40a116d4a",
-    "title": "Oil Tankers Turn Back in Red Sea After Houthi Attack Threat",
-    "title_cn": "胡塞武装袭击威胁后油轮在红海掉头",
-    "summary": "Three oil tankers have made U-turns in the southern Red Sea after warnings from Houthi rebels in Yemen that they would target ships heading to or from Saudi ports.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/chinese-oil-tanker-u-turns-in-red-sea-after-houthi-attack-threat",
-    "published": "Tue, 21 Jul 2026 12:12:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:53.150920"
-  },
-  {
-    "id": "43c11b846917",
-    "title": "Kalshi Seeks Approval to List Perpetual Futures Tied to Gold",
-    "title_cn": "Kalshi 寻求批准上市与黄金挂钩的永续期货",
-    "summary": "Kalshi Inc. is seeking approval to expand precious-metals trading on its platform with a popular type of derivative that never expires for gold, silver and platinum.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/kalshi-seeks-approval-for-perpetual-futures-tied-to-gold-silver",
-    "published": "Tue, 21 Jul 2026 13:08:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:53.306041"
+    "fetched_at": "2026-07-21T19:38:18.644732"
   },
   {
     "id": "dcc491b91c53",
@@ -407,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
     "published": "Tue, 21 Jul 2026 15:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:53.798286"
+    "fetched_at": "2026-07-21T19:38:19.188105"
   },
   {
     "id": "2c39849c3e73",
@@ -417,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions",
     "published": "Tue, 21 Jul 2026 15:38:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:53.909156"
+    "fetched_at": "2026-07-21T19:38:19.341775"
   },
   {
     "id": "8e9b420f8d3d",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
     "published": "Tue, 21 Jul 2026 15:35:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.014132"
+    "fetched_at": "2026-07-21T19:38:19.488356"
   },
   {
     "id": "d473297919c6",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales",
     "published": "Tue, 21 Jul 2026 15:10:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.108133"
+    "fetched_at": "2026-07-21T19:38:19.626133"
   },
   {
     "id": "7c3650247845",
@@ -447,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value",
     "published": "Tue, 21 Jul 2026 14:23:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.201898"
+    "fetched_at": "2026-07-21T19:38:19.756203"
   },
   {
     "id": "4feb5bbfe1ee",
@@ -457,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
     "published": "Mon, 20 Jul 2026 15:02:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.302179"
+    "fetched_at": "2026-07-21T19:38:19.900910"
   },
   {
     "id": "eed9a90d0601",
@@ -467,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes",
     "published": "Tue, 21 Jul 2026 14:05:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.402367"
+    "fetched_at": "2026-07-21T19:38:20.048815"
   },
   {
     "id": "1555bd52b95c",
@@ -477,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/bessent-says-us-will-scrutinize-chinese-ai-models-for-ip-theft",
     "published": "Tue, 21 Jul 2026 12:29:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.509110"
+    "fetched_at": "2026-07-21T19:38:20.201086"
   },
   {
     "id": "dadb16946bb5",
@@ -487,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
     "published": "Tue, 21 Jul 2026 10:32:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.596717"
+    "fetched_at": "2026-07-21T19:38:20.378789"
   },
   {
     "id": "241a8f4e7fa7",
@@ -497,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/-100-million-bet-on-venezuelan-fintech-cashea-draws-global-investors",
     "published": "Tue, 21 Jul 2026 13:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.717547"
+    "fetched_at": "2026-07-21T19:38:20.524512"
   },
   {
     "id": "1f39c80bae31",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/amazon-e-commerce-portal-for-business-nears-60-billion-in-sales",
     "published": "Tue, 21 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.836090"
+    "fetched_at": "2026-07-21T19:38:20.795323"
   },
   {
     "id": "ca95149e2026",
@@ -517,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
     "published": "Tue, 21 Jul 2026 12:55:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:54.930030"
+    "fetched_at": "2026-07-21T19:38:20.938449"
   },
   {
     "id": "3936a569fde7",
@@ -527,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/garmin-debuts-200-screenless-fitness-band-in-challenge-to-whoop",
     "published": "Tue, 21 Jul 2026 12:53:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.043443"
+    "fetched_at": "2026-07-21T19:38:21.077624"
   },
   {
     "id": "aa92e5cebc5a",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/samsung-debuts-ai-powered-health-assistant-joining-packed-market",
     "published": "Tue, 21 Jul 2026 12:30:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.125748"
+    "fetched_at": "2026-07-21T19:38:21.233777"
   },
   {
     "id": "9ff49232293e",
@@ -547,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/china-s-world-ai-conference-and-tsmc-s-arizona-investment-mark-wins-for-leaders",
     "published": "Tue, 21 Jul 2026 12:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.227054"
+    "fetched_at": "2026-07-21T19:38:21.502657"
   },
   {
     "id": "412a6aa9e1c1",
@@ -557,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-mgx-consortium-eyes-5-billion-aligned-data-centers-expansion",
     "published": "Tue, 21 Jul 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.317724"
+    "fetched_at": "2026-07-21T19:38:21.651342"
   },
   {
     "id": "9cbbac0d6df7",
@@ -567,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/data-centers-on-track-to-suck-up-a-fifth-of-us-power-use-by-2035",
     "published": "Tue, 21 Jul 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.402273"
+    "fetched_at": "2026-07-21T19:38:21.840121"
   },
   {
     "id": "7b702b922e31",
@@ -577,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/dating-apps-face-scam-challenge-of-ai-powered-chatfishing",
     "published": "Tue, 21 Jul 2026 10:30:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.499335"
+    "fetched_at": "2026-07-21T19:38:21.975867"
   },
   {
     "id": "bd1763046534",
@@ -587,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/burnham-names-narayan-as-uk-s-first-ai-minister-to-new-cabinet",
     "published": "Mon, 20 Jul 2026 22:55:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.594470"
+    "fetched_at": "2026-07-21T19:38:22.136168"
   },
   {
     "id": "ab02f239db9e",
@@ -597,17 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/won-daily-trading-volume-jumps-on-extended-hours-stock-selloff",
     "published": "Tue, 21 Jul 2026 03:55:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:55.763943"
-  },
-  {
-    "id": "1d460a61926e",
-    "title": "New Jersey Says Software Error Registered 6,600 Noncitizens",
-    "title_cn": "新泽西州称软件错误登记了 6,600 名非公民",
-    "summary": "New Jersey Governor Mikie Sherrill said about 6,600 people who identified themselves as noncitizens were registered to vote between June 2023 and June 2024 due to a software error in the state’s motor vehicle system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/nj-s-sherrill-says-software-error-registered-6-600-noncitizens",
-    "published": "Tue, 21 Jul 2026 16:52:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.487719"
+    "fetched_at": "2026-07-21T19:38:22.266779"
   },
   {
     "id": "222ae533077f",
@@ -617,7 +607,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/israel-withdraws-troops-from-parts-of-lebanon-in-test-of-truce",
     "published": "Tue, 21 Jul 2026 09:33:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.573627"
+    "fetched_at": "2026-07-21T19:38:22.914513"
+  },
+  {
+    "id": "1d460a61926e",
+    "title": "New Jersey Says Software Error Registered 6,600 Noncitizens",
+    "title_cn": "新泽西州称软件错误登记了 6,600 名非公民",
+    "summary": "New Jersey Governor Mikie Sherrill said about 6,600 people who identified themselves as noncitizens were registered to vote between June 2023 and June 2024 due to a software error in the state’s motor vehicle system, an admission that could fan Republican claims about voter fraud.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/nj-s-sherrill-says-software-error-registered-6-600-noncitizens",
+    "published": "Tue, 21 Jul 2026 16:52:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:23.072561"
+  },
+  {
+    "id": "e56c4093c3c7",
+    "title": "Burnham Approves Use of UK Bases for Some US Strikes on Iran",
+    "title_cn": "伯纳姆批准美国对伊朗的部分打击使用英国基地",
+    "summary": "New Prime Minister Andy Burnham has approved the use of British military bases by the US for what the UK calls defensive strikes against Iran, in a continuation of his predecessor Keir Starmer’s policy even as President Donald Trump ramps up his war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/burnham-approves-use-of-uk-bases-for-some-us-strikes-on-iran",
+    "published": "Tue, 21 Jul 2026 18:37:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:23.220237"
+  },
+  {
+    "id": "94fb47a21959",
+    "title": "Trump Loses Bid to Block BBC Subpoenas in $10 Billion Lawsuit",
+    "title_cn": "特朗普在 100 亿美元诉讼中未能阻止 BBC 传票",
+    "summary": "A judge will allow the British Broadcasting Corp. to issue subpoenas to members of President Donald Trump’s inner circle as part of its response to a $10 billion defamation lawsuit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-loses-bid-to-block-bbc-subpoenas-in-10-billion-lawsuit",
+    "published": "Tue, 21 Jul 2026 18:30:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:23.395262"
+  },
+  {
+    "id": "88a45115f5c4",
+    "title": "France Passes Farm Law as Greens Decry Pesticide Waivers",
+    "title_cn": "绿党谴责农药豁免，法国通过农业法",
+    "summary": "France adopted a sweeping emergency agriculture bill allowing limited exemptions for two pesticides used by struggling farmers, prompting backlash from pro-environment groups, who vowed to challenge the legislation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/france-passes-farm-law-as-greens-decry-pesticide-waivers",
+    "published": "Tue, 21 Jul 2026 18:12:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:23.606840"
+  },
+  {
+    "id": "92d1dfb69419",
+    "title": "Finnish Government Survives Confidence Vote Sparked by Lobbying Scandal",
+    "title_cn": "芬兰政府在游说丑闻引发的信任投票中幸存",
+    "summary": "Finland’s coalition government survived a confidence vote in parliament after a political crisis over lobbying erupted.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/finnish-government-survives-confidence-vote-sparked-by-lobbying-scandal",
+    "published": "Tue, 21 Jul 2026 18:11:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-21T19:38:23.778289"
   },
   {
     "id": "90d685241f2f",
@@ -627,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/canadian-provinces-defy-trump-s-tariff-threat-keep-us-alcohol-bans",
     "published": "Tue, 21 Jul 2026 17:00:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.664028"
+    "fetched_at": "2026-07-21T19:38:23.925036"
   },
   {
     "id": "210eed7605fc",
@@ -637,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-pauses-1-billion-in-medicaid-funds-from-two-states",
     "published": "Tue, 21 Jul 2026 16:50:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.766954"
+    "fetched_at": "2026-07-21T19:38:24.061774"
   },
   {
     "id": "26b339232eb6",
@@ -647,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/cutting-uk-s-high-marginal-taxes-pays-for-itself-obr-chief-says",
     "published": "Tue, 21 Jul 2026 16:47:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.872148"
+    "fetched_at": "2026-07-21T19:38:24.195627"
   },
   {
     "id": "16c647c2be4d",
@@ -657,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/thames-water-senior-creditors-pitch-golden-share-for-government",
     "published": "Tue, 21 Jul 2026 07:24:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:56.964249"
+    "fetched_at": "2026-07-21T19:38:24.337325"
   },
   {
     "id": "0c55549e16c0",
@@ -667,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/nicaraguan-leader-slammed-by-washington-after-ending-elections",
     "published": "Tue, 21 Jul 2026 16:32:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.063446"
+    "fetched_at": "2026-07-21T19:38:24.492186"
   },
   {
     "id": "e70083b7922c",
@@ -677,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
     "published": "Tue, 21 Jul 2026 16:22:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.162982"
+    "fetched_at": "2026-07-21T19:38:24.629159"
   },
   {
     "id": "5e85c7036998",
@@ -687,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/carney-trump-agree-to-speed-up-trade-talks-before-50-tariffs-hit",
     "published": "Tue, 21 Jul 2026 16:15:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.257188"
+    "fetched_at": "2026-07-21T19:38:24.785486"
   },
   {
     "id": "80a2b4df109c",
@@ -697,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-chance-of-china-punishment-over-election-claims",
     "published": "Tue, 21 Jul 2026 16:10:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.716323"
+    "fetched_at": "2026-07-21T19:38:24.910092"
   },
   {
     "id": "26fa8baacd78",
@@ -707,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/streeting-predicts-uk-defense-spending-uplift-under-burnham",
     "published": "Tue, 21 Jul 2026 16:01:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.825824"
+    "fetched_at": "2026-07-21T19:38:25.043654"
   },
   {
     "id": "3bd677da9f88",
@@ -717,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/us-allies-in-persian-gulf-exasperated-as-iran-war-escalates",
     "published": "Tue, 21 Jul 2026 15:00:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:57.932599"
+    "fetched_at": "2026-07-21T19:38:25.194373"
   },
   {
     "id": "f2467680986a",
@@ -727,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/merz-gets-a-chance-to-reset-his-chancellorship-after-ally-quits",
     "published": "Tue, 21 Jul 2026 05:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.026114"
+    "fetched_at": "2026-07-21T19:38:25.335821"
   },
   {
     "id": "6ced8ba6ac9d",
@@ -737,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/doj-can-give-biden-recordings-to-conservative-group-court-rules",
     "published": "Tue, 21 Jul 2026 04:21:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.118985"
+    "fetched_at": "2026-07-21T19:38:25.472321"
   },
   {
     "id": "3df4909f531c",
@@ -747,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/modi-s-rivals-removed-by-police-as-student-protests-escalate",
     "published": "Tue, 21 Jul 2026 15:43:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.220963"
+    "fetched_at": "2026-07-21T19:38:25.636582"
   },
   {
     "id": "f1f9f5f66f6b",
@@ -757,46 +797,6 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-21/trump-s-corporate-pardon-power-echoes-a-17th-century-english-king",
     "published": "Tue, 21 Jul 2026 15:41:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.317574"
-  },
-  {
-    "id": "bf46a52bba45",
-    "title": "US Offers to Halve Aluminum Duties for Firms Building in US",
-    "title_cn": "美国提议将在美建设企业的铝关税减半",
-    "summary": "The Trump administration announced an incentive program under which companies that build, expand or refurbish aluminum plants in the US would receive a tariff discount for the metal they ship in from abroad.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-offers-to-halve-aluminum-duties-for-companies-building-in-us",
-    "published": "Mon, 20 Jul 2026 20:05:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.423947"
-  },
-  {
-    "id": "dbbf358ccc6f",
-    "title": "UK Gas Price Surge Erodes PM Burnham’s Energy Bill Savings",
-    "title_cn": "英国天然气价格飙升侵蚀了首相伯纳姆节省的能源费用",
-    "summary": "New UK Prime Minister Andy Burnham’s moves to reduce household energy bills are set to be undercut by a recent surge in wholesale energy prices related to the US-Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/uk-gas-price-surge-erodes-pm-burnham-s-energy-bill-savings",
-    "published": "Tue, 21 Jul 2026 12:02:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.515431"
-  },
-  {
-    "id": "c677f3c87128",
-    "title": "Hungary Prosecutors Seize Orban Party’s IT Servers in Fraud Case",
-    "title_cn": "匈牙利检察官在欺诈案中扣押欧尔班党的 IT 服务器",
-    "summary": "Hungary’s state prosecutors seized computers from Viktor Orban’s political group as part of an investigation into potential fraud carried out in the run up to this April’s election in which the Fidesz party lost power.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/hungary-prosecutors-seize-orban-party-s-servers-his-ally-says",
-    "published": "Tue, 21 Jul 2026 11:40:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.599083"
-  },
-  {
-    "id": "410af1754d8a",
-    "title": "Ann Widdecombe Repeatedly Hit on Head With Hammer, Prosecutors Say",
-    "title_cn": "检察官称安·维德科姆多次用锤子敲击头部",
-    "summary": "A British man appeared in court for the first time accused of murdering ex-Conservative Party minister Ann Widdecombe by hitting her 21 times over the head with a hammer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/ann-widdecombe-repeatedly-hit-on-head-with-hammer-prosecutors-say",
-    "published": "Tue, 21 Jul 2026 13:56:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-21T17:46:58.696486"
+    "fetched_at": "2026-07-21T19:38:25.777976"
   }
 ]
