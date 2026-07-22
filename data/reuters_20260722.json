@@ -1,5 +1,65 @@
 [
   {
+    "id": "25ac8cd3eec6",
+    "title": "Stock Movers: Samsung, Tencent, Topsports (Podcast)",
+    "title_cn": "股票走势：三星、腾讯、Topsports（播客）",
+    "summary": "Source: Bloomberg, 3:55",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-22/stock-movers-samsung-tencent-topsports-podcast",
+    "published": "Wed, 22 Jul 2026 06:18:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:24.528533"
+  },
+  {
+    "id": "12229c238bac",
+    "title": "Iran War Cost Tops $37B For US, Zelenskyy Ousts Army Chief, More",
+    "title_cn": "美国伊朗战争成本高达 37B 美元，泽连斯基罢免陆军参谋长等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-22/iran-war-cost-tops-37b-for-us-zelenskyy-ousts-army-chief-more",
+    "published": "Wed, 22 Jul 2026 06:18:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:24.620264"
+  },
+  {
+    "id": "1642b588307c",
+    "title": "Bloomberg Daybreak Europe:US Allies Exasperated (Podcast)",
+    "title_cn": "彭博社黎明欧洲：美国盟友被激怒（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-daybreak-europe-us-allies-exasperated-podcast",
+    "published": "Wed, 22 Jul 2026 06:08:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:24.722391"
+  },
+  {
+    "id": "c413c855fd9a",
+    "title": "Trump Plays Down Prospects for Iran Talks as Mideast Tensions Rise",
+    "title_cn": "随着中东紧张局势升级，特朗普淡化了伊朗谈判的前景",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/trump-plays-down-prospects-for-iran-talks-as-mideast-tensions-rise",
+    "published": "Wed, 22 Jul 2026 05:41:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:24.834655"
+  },
+  {
+    "id": "5da002420503",
+    "title": "Cathay Shares Jump as Carrier Flags Strong First-Half Profit",
+    "title_cn": "国泰航空上半年盈利强劲，股价上涨",
+    "summary": "Cathay Pacific Airways Ltd. shares jumped as much as 3% after the carrier signaled a rise in first-half net income, driven by strong passenger and cargo demand despite the Iran war-induced oil-price shock.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/cathay-sees-strong-profit-growth-despite-elevated-fuel-prices",
+    "published": "Wed, 22 Jul 2026 04:22:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:24.931271"
+  },
+  {
+    "id": "8a88f7bf46ec",
+    "title": "Spanish Banks Tackle US Payment Dominance With Tap-to-Pay System",
+    "title_cn": "西班牙银行通过触碰支付系统应对美国支付主导地位",
+    "summary": "Spanish banks are taking a new step to chip away at the dominance of US payment systems such as Visa Inc. and Mastercard Inc. by offering a new bank-to-bank payment system in stores.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/spanish-banks-tackle-us-payment-dominance-with-tap-to-pay-system",
+    "published": "Wed, 22 Jul 2026 04:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:25.013227"
+  },
+  {
     "id": "c507739804c9",
     "title": "US Renews Strikes on Iran, Trump Plans Tariffs on Generic Drugs",
     "title_cn": "美国重新打击伊朗，特朗普计划对仿制药征收关税",
@@ -7,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/us-renews-strikes-on-iran-trump-plans-tariffs-on-generic-drugs",
     "published": "Wed, 22 Jul 2026 03:30:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:37.820856"
+    "fetched_at": "2026-07-22T06:33:25.110489"
   },
   {
     "id": "e281f947624f",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/indonesia-s-tbs-energi-seeks-100-million-private-loan-for-unit",
     "published": "Wed, 22 Jul 2026 03:15:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:38.294472"
+    "fetched_at": "2026-07-22T06:33:25.202927"
   },
   {
     "id": "bfb2c8727d20",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/us-strikes-iran-for-11th-night-us-to-tariff-generic-drugs",
     "published": "Wed, 22 Jul 2026 02:56:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:38.752546"
+    "fetched_at": "2026-07-22T06:33:25.290716"
   },
   {
     "id": "31ef7944c0e7",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-daybreak-asia-chipmakers-lead-gains-podcast",
     "published": "Wed, 22 Jul 2026 02:29:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.086790"
+    "fetched_at": "2026-07-22T06:33:25.392520"
   },
   {
     "id": "cfd8119ecd8e",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/us-concludes-latest-iran-strikes-us-generic-drugs-tariff-plan",
     "published": "Wed, 22 Jul 2026 01:48:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.216022"
+    "fetched_at": "2026-07-22T06:33:25.491095"
   },
   {
     "id": "fafad5e839df",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/us-finishes-latest-iran-strikes-us-to-tariff-generic-drugs",
     "published": "Wed, 22 Jul 2026 01:10:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.368758"
+    "fetched_at": "2026-07-22T06:33:25.594214"
   },
   {
     "id": "7357b74c4476",
@@ -67,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/us-latest-strikes-on-iran-trump-generic-drugs-tariff-plan-more",
     "published": "Wed, 22 Jul 2026 00:04:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.523396"
+    "fetched_at": "2026-07-22T06:33:25.688620"
   },
   {
     "id": "a57584a3537f",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/macquarie-agm-xpeng-expands-globally-asean-meeting-australia-briefing",
     "published": "Tue, 21 Jul 2026 23:13:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.668257"
+    "fetched_at": "2026-07-22T06:33:25.782896"
   },
   {
     "id": "42c56d4d2a6d",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-senator-mark-warner-podcast",
     "published": "Tue, 21 Jul 2026 23:13:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.809016"
+    "fetched_at": "2026-07-22T06:33:25.878954"
   },
   {
     "id": "b1e51a7a8030",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/hegseth-puts-iran-war-cost-at-37-5b-trump-on-iran-talks-more",
     "published": "Tue, 21 Jul 2026 22:47:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:39.946439"
+    "fetched_at": "2026-07-22T06:33:25.965418"
   },
   {
     "id": "8759e3205f18",
@@ -107,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-rick-scott-podcast",
     "published": "Tue, 21 Jul 2026 22:13:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.087187"
+    "fetched_at": "2026-07-22T06:33:26.068890"
   },
   {
     "id": "e15309abe154",
@@ -117,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-talks-rand-paul-podcast",
     "published": "Tue, 21 Jul 2026 22:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.232154"
+    "fetched_at": "2026-07-22T06:33:26.153536"
   },
   {
     "id": "eb15fd7d06c8",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-21/hegseth-on-iran-war-cost-trump-plays-down-iran-talks-more",
     "published": "Tue, 21 Jul 2026 21:46:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.366730"
+    "fetched_at": "2026-07-22T06:33:26.241116"
   },
   {
     "id": "359df34308bd",
@@ -137,137 +197,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/trump-downplays-iran-talks-as-gulf-allies-grow-frustrated",
     "published": "Tue, 21 Jul 2026 21:30:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.514536"
-  },
-  {
-    "id": "14a684750e66",
-    "title": "Oil Tankers Make U-Turn After Houthi Threats",
-    "title_cn": "油轮在胡塞武装威胁后掉头",
-    "summary": "Get caught up",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/oil-tankers-make-u-turn-after-houthi-threats",
-    "published": "Tue, 21 Jul 2026 21:26:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.646266"
-  },
-  {
-    "id": "d5dfdacf59a1",
-    "title": "Trump’s 50% Canada Tariff Threat Leaves Carney Facing Another Deadline",
-    "title_cn": "特朗普对加拿大征收 50% 关税的威胁让卡尼面临另一个最后期限",
-    "summary": "Plus: Premiers dig in on US booze bans",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-21/trump-s-50-canada-tariff-threat-leaves-carney-facing-another-deadline",
-    "published": "Tue, 21 Jul 2026 21:08:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.809537"
-  },
-  {
-    "id": "ae8cf685e5fa",
-    "title": "Stock Movers: Super Micro, Danaher, Northrop Grumman (Podcast)",
-    "title_cn": "库存推动者：超微、丹纳赫、诺斯罗普·格鲁曼（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/stock-movers-super-micro-danaher-northrop-grumman-podcast",
-    "published": "Tue, 21 Jul 2026 21:03:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:40.940102"
-  },
-  {
-    "id": "5ef95734652b",
-    "title": "Hegseth: Iran War Cost $37.5B, Trump Plays Down Iran Talks, More",
-    "title_cn": "Hegseth：伊朗战争成本 $37.5B，特朗普淡化伊朗谈判等",
-    "summary": "Source: Bloomberg, 4:59",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/hegseth-iran-war-cost-37-5b-trump-plays-down-iran-talks-more",
-    "published": "Tue, 21 Jul 2026 20:58:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:41.098335"
-  },
-  {
-    "id": "7e1de1c2f1b6",
-    "title": "Big Take Asia: The Hunt for Cambodia’s Stolen Statues (Podcast)",
-    "title_cn": "亚洲大事：寻找柬埔寨被盗雕像（播客）",
-    "summary": "Source: Bloomberg, 20:10",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/big-take-asia-the-hunt-for-cambodia-s-stolen-statues-podcast",
-    "published": "Tue, 21 Jul 2026 20:33:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:41.240109"
-  },
-  {
-    "id": "66fe39dd30e1",
-    "title": "Bloomberg Businessweek Daily: US-Iran Strikes Continue (Podcast)",
-    "title_cn": "彭博商业周刊：美国和伊朗的袭击仍在继续（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-21/bloomberg-businessweek-daily-us-iran-strikes-continue-podcast",
-    "published": "Tue, 21 Jul 2026 20:32:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:41.425919"
-  },
-  {
-    "id": "1f8fccf19f75",
-    "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since March 2025",
-    "title_cn": "日本 40 年期债券发行需求创 2025 年 3 月以来最强劲",
-    "summary": "Japan’s 40-year government bond auction drew its strongest demand since March 2025 as investors were attracted to higher yields.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/japan-40-year-bond-sale-sees-strongest-demand-since-march-2025",
-    "published": "Wed, 22 Jul 2026 03:39:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:41.873126"
-  },
-  {
-    "id": "93e359b61d09",
-    "title": "Wheat Gains On Black Sea Risks and Corn Hits Two-Month High",
-    "title_cn": "黑海风险令小麦上涨，玉米创两个月新高",
-    "summary": "Wheat rose for a second session on escalating Black Sea tensions and worsening crop prospects.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/wheat-gains-on-black-sea-risks-and-corn-hits-two-month-high",
-    "published": "Wed, 22 Jul 2026 03:33:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.009919"
-  },
-  {
-    "id": "8139b085e6d4",
-    "title": "Modi Has Few Good Options to Quell India’s ‘Cockroach’ Protests",
-    "title_cn": "莫迪没有什么好的选择来平息印度的“蟑螂”抗议",
-    "summary": "What started as a satirical online movement two months ago has turned into one of India’s biggest student protests in years, sparking scenes of violent clashes in New Delhi. And Prime Minister Narendra Modi has few good options to stop them.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/modi-has-few-good-options-to-quell-india-s-cockroach-protests",
-    "published": "Wed, 22 Jul 2026 03:31:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.150926"
-  },
-  {
-    "id": "73fcf093b789",
-    "title": "Latest Oil Market News and Analysis for July 22",
-    "title_cn": "7 月 22 日最新石油市场新闻和分析",
-    "summary": "Oil extended gains after President Donald Trump played down the prospect of near-term talks with Iran while threatening broader strikes, as risks to global supply spread beyond the Middle East to the Black Sea.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/latest-oil-market-news-and-analysis-for-july-22",
-    "published": "Tue, 21 Jul 2026 22:11:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.276646"
-  },
-  {
-    "id": "777664920fd9",
-    "title": "Asian Stocks Advance on Chip Rally, Brent Climbs: Markets Wrap",
-    "title_cn": "亚洲股市因芯片反弹而上涨，布伦特原油价格上涨：市场总结",
-    "summary": "Stocks in Asia climbed for a second day as chipmakers at the heart of the artificial intelligence boom extended their rebound, offsetting concerns over rising oil prices after renewed escalation in the US-Iran conflict.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 21 Jul 2026 22:07:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.429666"
-  },
-  {
-    "id": "fc2abe6414da",
-    "title": "Rising Crude, US Rate-Hike Bets Counter Dollar Inflow Support for Rupee",
-    "title_cn": "原油上涨、美国加息押注美元流入对卢比的支撑",
-    "summary": "The Indian currency has fallen about 2% from its June high.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/rising-crude-us-rate-hike-bets-counter-dollar-inflow-support-for-rupee",
-    "published": "Wed, 22 Jul 2026 02:41:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.569974"
-  },
-  {
-    "id": "70e79b033371",
-    "title": "Korean Stocks Jump as Brokers Say Margin Unwind Nearing End",
-    "title_cn": "经纪商表示保证金平仓接近尾声，韩国股市上涨",
-    "summary": "South Korean stocks jumped, as the unwinding of leveraged bets that helped drive the benchmark nearly 30% below its peak appeared to be nearing its end.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end",
-    "published": "Wed, 22 Jul 2026 01:18:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.709683"
+    "fetched_at": "2026-07-22T06:33:26.363999"
   },
   {
     "id": "1ff68fde4c9e",
@@ -277,7 +207,137 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/gold-holds-gain-as-traders-weigh-impact-of-oil-risks-on-rates",
     "published": "Tue, 21 Jul 2026 23:34:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.853748"
+    "fetched_at": "2026-07-22T06:33:26.688432"
+  },
+  {
+    "id": "3d6d3ea4700d",
+    "title": "Rubio, Jaishankar Urge Trade Deal Despite Pharma Tariff Threat",
+    "title_cn": "尽管面临药品关税威胁，卢比奥和苏杰生仍敦促达成贸易协议",
+    "summary": "US Secretary of State Marco Rubio and his Indian counterpart S. Jaishankar reinforced the importance of concluding an interim trade agreement between their two countries during a meeting in Manila on Wednesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/rubio-jaishankar-urge-trade-deal-despite-pharma-tariff-threat",
+    "published": "Wed, 22 Jul 2026 06:16:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:26.783865"
+  },
+  {
+    "id": "5195ff04c209",
+    "title": "Thai Bonds Are Beating Asia and Analysts Predict More Gains",
+    "title_cn": "泰国债券跑赢亚洲，分析师预测将进一步上涨",
+    "summary": "Thailand’s bonds have beaten their emerging Asian peers over the past month and analysts predict they will extend gains on favorable supply dynamics and slower inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/thai-bond-rally-gathers-pace-as-supply-falls-inflation-slows",
+    "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:26.888073"
+  },
+  {
+    "id": "777664920fd9",
+    "title": "Nasdaq Futures Slip Before Tech Earnings, Brent Up: Markets Wrap",
+    "title_cn": "纳斯达克期货先于科技股盈利下滑，布伦特原油上涨：市场总结",
+    "summary": "US equity-index futures slipped and Asian stocks pared gains as investors turned cautious ahead of Alphabet Inc.’s earnings after recent volatility pushed a key semiconductor gauge into a bear market. Oil climbed as hopes for US-Iran peace talks faded.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 21 Jul 2026 22:07:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:26.976592"
+  },
+  {
+    "id": "0450d22fff4e",
+    "title": "FTSE 100 Live: UK Inflation Slows More Than Expected in June",
+    "title_cn": "富时 100 实时指数：英国 6 月份通胀放缓幅度超出预期",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-07-22/ftse-100-live-updates-uk-cpi-inflation-iran-war-oil-prices-ai-stocks-trump-tariffs-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Wed, 22 Jul 2026 05:43:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.080282"
+  },
+  {
+    "id": "fab881401d71",
+    "title": "Rare Earths Giant Lynas Shares Fall to Five-Month Low After Revenue Miss",
+    "title_cn": "稀土巨头莱纳斯营收未达预期，股价跌至五个月低点",
+    "summary": "Lynas Rare Earths Ltd. shares dropped to a five-month low after Australia’s largest rare-earths producer reported quarterly sales that missed analysts’ expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/rare-earths-giant-lynas-shares-fall-to-five-month-low-after-revenue-miss",
+    "published": "Wed, 22 Jul 2026 05:13:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.180102"
+  },
+  {
+    "id": "3d1faf388ec3",
+    "title": "South Africa Finance Chief Set to Remove PIC Chairman, N24 Says",
+    "title_cn": "N24 称南非财政部长将罢免 PIC 主席",
+    "summary": "South Africa’s finance chief is preparing to oust his deputy from the position of chairman of the board of the Public Investment Corp., the state pension fund manager that’s been wracked by corruption and instability, News24 reported.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/south-africa-finance-chief-set-to-remove-pic-chairman-n24-says",
+    "published": "Wed, 22 Jul 2026 05:03:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.272310"
+  },
+  {
+    "id": "97e6565c7ebc",
+    "title": "Indian Refiners Halt Iraq Oil Loadings on Rising Hormuz Risk",
+    "title_cn": "印度炼油商因霍尔木兹风险上升而暂停伊拉克石油装载",
+    "summary": "Two Indian state-run refiners have suspended crude oil loadings from Iraq as mounting security risks in the Strait of Hormuz make it increasingly difficult to ensure safety of vessels, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/indian-refiners-halt-iraq-oil-loadings-as-hormuz-risks-escalate",
+    "published": "Tue, 21 Jul 2026 13:02:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.366505"
+  },
+  {
+    "id": "f1f540b4dad2",
+    "title": "Copper Wavers Near $14,000 as Traders Watch for Trump’s Tariff",
+    "title_cn": "交易员关注特朗普关税，铜价波动至 14,000 美元附近",
+    "summary": "Copper pulled back from its highest level since early June as traders watched for any announcement from the White House on its plans for import tariffs on the metal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/copper-wavers-near-14-000-as-traders-watch-for-trump-s-tariff",
+    "published": "Wed, 22 Jul 2026 04:55:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.449473"
+  },
+  {
+    "id": "1f8fccf19f75",
+    "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since March 2025",
+    "title_cn": "日本 40 年期债券发行需求创 2025 年 3 月以来最强劲",
+    "summary": "Japan’s 40-year government bond auction drew its strongest demand since March 2025 as investors were attracted to higher yields.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/japan-40-year-bond-sale-sees-strongest-demand-since-march-2025",
+    "published": "Wed, 22 Jul 2026 03:39:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.543923"
+  },
+  {
+    "id": "93e359b61d09",
+    "title": "Wheat Gains On Black Sea Risks and Corn Hits Two-Month High",
+    "title_cn": "黑海风险令小麦上涨，玉米创两个月新高",
+    "summary": "Wheat rose for a second session on escalating Black Sea tensions and worsening crop prospects.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/wheat-gains-on-black-sea-risks-and-corn-hits-two-month-high",
+    "published": "Wed, 22 Jul 2026 03:33:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.660607"
+  },
+  {
+    "id": "73fcf093b789",
+    "title": "Latest Oil Market News and Analysis for July 22",
+    "title_cn": "7 月 22 日最新石油市场新闻和分析",
+    "summary": "Oil extended gains after President Donald Trump played down the prospect of near-term talks with Iran while threatening broader strikes, as risks to global supply spread beyond the Middle East to the Black Sea.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/latest-oil-market-news-and-analysis-for-july-22",
+    "published": "Tue, 21 Jul 2026 22:11:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.792189"
+  },
+  {
+    "id": "fc2abe6414da",
+    "title": "Rising Crude, US Rate-Hike Bets Counter Dollar Inflow Support for Rupee",
+    "title_cn": "原油上涨、美国加息押注美元流入对卢比的支撑",
+    "summary": "The Indian currency has fallen about 2% from its June high.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/rising-crude-us-rate-hike-bets-counter-dollar-inflow-support-for-rupee",
+    "published": "Wed, 22 Jul 2026 02:41:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.885724"
+  },
+  {
+    "id": "70e79b033371",
+    "title": "Korean Stocks Jump as Brokers Say Margin Unwind Nearing End",
+    "title_cn": "经纪商表示保证金平仓接近尾声，韩国股市上涨",
+    "summary": "South Korean stocks jumped, as the unwinding of leveraged bets that helped drive the benchmark nearly 30% below its peak appeared to be nearing its end.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/korean-stocks-jump-as-brokers-say-margin-unwind-nearing-end",
+    "published": "Wed, 22 Jul 2026 01:18:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:27.969906"
   },
   {
     "id": "9260b302ddc9",
@@ -287,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/php-usd-philippine-peso-declines-to-match-record-low-on-higher-oil-prices",
     "published": "Wed, 22 Jul 2026 01:55:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:42.997431"
+    "fetched_at": "2026-07-22T06:33:28.070384"
   },
   {
     "id": "ae5a65aa6d36",
@@ -297,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/innolight-seeks-up-to-7-billion-in-biggest-hong-kong-listing-in-years",
     "published": "Tue, 21 Jul 2026 23:10:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.132580"
+    "fetched_at": "2026-07-22T06:33:28.165415"
   },
   {
     "id": "44ab44390f65",
@@ -307,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/return-of-high-risk-bets-that-burned-traders-adds-to-korea-woes",
     "published": "Wed, 22 Jul 2026 01:49:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.263614"
+    "fetched_at": "2026-07-22T06:33:28.249540"
   },
   {
     "id": "eb1b3107fa6b",
@@ -317,17 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/xpeng-hunts-for-new-markets-to-escape-reliance-on-weaker-china",
     "published": "Tue, 21 Jul 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.414759"
-  },
-  {
-    "id": "5195ff04c209",
-    "title": "Thai Bonds Are Beating Asia and Analysts Predict Further Gains",
-    "title_cn": "泰国债券跑赢亚洲，分析师预测将进一步上涨",
-    "summary": "Thailand’s bonds have beaten their emerging Asian peers over the past month and analysts predict they will extend gains on favorable supply dynamics and slower inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/thai-bond-rally-gathers-pace-as-supply-falls-inflation-slows",
-    "published": "Wed, 22 Jul 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.563307"
+    "fetched_at": "2026-07-22T06:33:28.343449"
   },
   {
     "id": "6043e0e75955",
@@ -337,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
     "published": "Tue, 21 Jul 2026 22:35:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.706386"
+    "fetched_at": "2026-07-22T06:33:28.433329"
   },
   {
     "id": "73cc24bee13c",
@@ -347,67 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/indian-rupee-rebound-bets-vanish-as-soaring-crude-blunts-inflows",
     "published": "Wed, 22 Jul 2026 01:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:43.849717"
-  },
-  {
-    "id": "2be04ba29586",
-    "title": "Subprime Auto Dealer Goes From Covid-Era Star to Near Demise",
-    "title_cn": "次级汽车经销商从新冠时代的明星走向濒临灭亡",
-    "summary": "America’s Car-Mart Inc. thrived during a ’90s slump, the 2008 financial crisis and the upheaval of Covid-19 by doing one thing well: selling and financing older, high-mileage used cars for cash-strapped, deeply-subprime buyers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/subprime-auto-dealer-goes-from-covid-era-rockstar-to-near-demise",
-    "published": "Tue, 21 Jul 2026 17:33:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:44.000352"
-  },
-  {
-    "id": "954ac9da80ef",
-    "title": "Treasury Flags Concern Over ‘Potentially Abusive’ Tax Trades",
-    "title_cn": "财政部对“潜在滥用”税收交易表示担忧",
-    "summary": "The US Treasury Department has expressed concern over a number of high-profile tax strategies touted by Wall Street that it says may be “too good to be true.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/treasury-flags-concern-over-potentially-abusive-tax-strategies",
-    "published": "Tue, 21 Jul 2026 17:29:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:44.160259"
-  },
-  {
-    "id": "e6122d89200b",
-    "title": "EUR/CNY: Why China’s Yuan Is Drawing Scrutiny in Europe, What It Means for Euro",
-    "title_cn": "欧元/人民币：为何人民币在欧洲受到关注，这对欧元意味着什么",
-    "summary": "The value of the yuan has become a flashpoint in trade relations between China and the European Union. Many EU policymakers and economists believe the currency is undervalued and a key driver of the bloc’s deepening trade deficit with the East Asian nation. That imbalance averaged about $1.1 billion a day in June.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/eur-cny-why-china-s-yuan-is-drawing-scrutiny-in-europe-what-it-means-for-euro",
-    "published": "Wed, 22 Jul 2026 00:09:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:44.305012"
-  },
-  {
-    "id": "1fa05f13400f",
-    "title": "Hong Kong Brokers Cling to Lunch Break Exchange Wants to Scrap",
-    "title_cn": "香港券商坚守午休时间 交易所欲取消",
-    "summary": "Thousands of stock traders, brokers and other financial professionals in Hong Kong may soon lose their lunch hour — and some aren’t happy about it.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/hong-kong-brokers-cling-to-lunch-break-exchange-wants-to-scrap",
-    "published": "Wed, 22 Jul 2026 00:01:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:44.435790"
-  },
-  {
-    "id": "068067c46e45",
-    "title": "KKR Commercial Real Estate Lender Studies Potential Sale, Merger",
-    "title_cn": "KKR 商业房地产贷款机构研究潜在出售、合并",
-    "summary": "A commercial real estate lender managed by KKR &amp; Co. said it’s considering strategic alternatives that could include a merger or sale of the money-losing company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/kkr-commercial-real-estate-lender-studies-potential-sale-merger",
-    "published": "Tue, 21 Jul 2026 22:17:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:44.600489"
-  },
-  {
-    "id": "3fbbcd78dbc3",
-    "title": "Gas-Rich Australian Region Backs $28 Billion Data Center Project",
-    "title_cn": "富含天然气的澳大利亚地区支持价值 280 亿美元的数据中心项目",
-    "summary": "Australia’s Northern Territory has granted land to a major data center project that claims it could attract A$40 billion ($28 billion) in private investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/gas-rich-australian-region-backs-28-billion-data-center-project",
-    "published": "Wed, 22 Jul 2026 03:44:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:46.828604"
+    "fetched_at": "2026-07-22T06:33:28.591551"
   },
   {
     "id": "5e6b780a1227",
@@ -417,7 +407,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/blackstone-tying-up-3-billion-airtrunk-loan-as-data-center-debt-binge-woes-grow",
     "published": "Wed, 22 Jul 2026 01:10:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:46.979991"
+    "fetched_at": "2026-07-22T06:33:29.048389"
+  },
+  {
+    "id": "3fbbcd78dbc3",
+    "title": "Gas-Rich Australian Region Backs $28 Billion Data Center Project",
+    "title_cn": "富含天然气的澳大利亚地区支持价值 280 亿美元的数据中心项目",
+    "summary": "Australia’s Northern Territory has granted land to a major data center project that claims it could attract A$40 billion ($28 billion) in private investment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/gas-rich-australian-region-backs-28-billion-data-center-project",
+    "published": "Wed, 22 Jul 2026 03:44:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:29.139106"
   },
   {
     "id": "849cc903d637",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories",
     "published": "Wed, 22 Jul 2026 02:49:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.193094"
+    "fetched_at": "2026-07-22T06:33:29.268252"
   },
   {
     "id": "4e3d8c60d054",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-ai-for-all-offensive-defies-us-containment-playbook",
     "published": "Wed, 22 Jul 2026 02:42:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.335881"
+    "fetched_at": "2026-07-22T06:33:29.357624"
   },
   {
     "id": "680abcc2217f",
@@ -447,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
     "published": "Tue, 21 Jul 2026 19:51:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.475504"
+    "fetched_at": "2026-07-22T06:33:29.446789"
   },
   {
     "id": "b4005150ae08",
@@ -457,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/tsmc-in-talks-to-raise-prices-by-up-to-10-in-2027-nikkei-says",
     "published": "Tue, 21 Jul 2026 08:43:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.620174"
+    "fetched_at": "2026-07-22T06:33:29.596072"
   },
   {
     "id": "6a625de68afb",
@@ -467,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/newborn-town-targets-global-viewers-with-ai-made-short-dramas",
     "published": "Tue, 21 Jul 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.772938"
+    "fetched_at": "2026-07-22T06:33:29.686017"
   },
   {
     "id": "f30b0945359a",
@@ -477,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say",
     "published": "Tue, 21 Jul 2026 19:40:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:47.926113"
+    "fetched_at": "2026-07-22T06:33:29.796174"
   },
   {
     "id": "70be660d379d",
@@ -487,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/nintendo-scores-hit-with-tomodachi-life-as-gamers-seek-escape-with-life-sims",
     "published": "Tue, 21 Jul 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.072207"
+    "fetched_at": "2026-07-22T06:33:29.949493"
   },
   {
     "id": "874fa64b0b4d",
@@ -497,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/super-micro-jumps-after-preliminary-outlook-shows-rising-backlog",
     "published": "Tue, 21 Jul 2026 20:21:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.218230"
+    "fetched_at": "2026-07-22T06:33:30.062605"
   },
   {
     "id": "2c39849c3e73",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/intel-rallies-after-saying-it-ll-make-more-headcount-reductions",
     "published": "Tue, 21 Jul 2026 15:38:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.366264"
+    "fetched_at": "2026-07-22T06:33:30.164676"
   },
   {
     "id": "45b2cd068357",
@@ -517,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo",
     "published": "Tue, 21 Jul 2026 20:07:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.518330"
+    "fetched_at": "2026-07-22T06:33:30.254809"
   },
   {
     "id": "1f39c80bae31",
@@ -527,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/amazon-e-commerce-portal-for-business-nears-60-billion-in-sales",
     "published": "Tue, 21 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.683247"
+    "fetched_at": "2026-07-22T06:33:30.352871"
   },
   {
     "id": "dadb16946bb5",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
     "published": "Tue, 21 Jul 2026 10:32:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.800546"
+    "fetched_at": "2026-07-22T06:33:30.456578"
   },
   {
     "id": "b3a4829ec5c7",
@@ -547,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/french-lawmakers-clear-way-for-social-media-age-limit-afp-says",
     "published": "Mon, 20 Jul 2026 17:35:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:48.927233"
+    "fetched_at": "2026-07-22T06:33:30.568777"
   },
   {
     "id": "dcc491b91c53",
@@ -557,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
     "published": "Tue, 21 Jul 2026 15:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:49.077898"
+    "fetched_at": "2026-07-22T06:33:30.662419"
   },
   {
     "id": "8e9b420f8d3d",
@@ -567,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
     "published": "Tue, 21 Jul 2026 15:35:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:49.209171"
+    "fetched_at": "2026-07-22T06:33:30.811227"
   },
   {
     "id": "d473297919c6",
@@ -577,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/apple-to-launch-upgrade-device-leasing-program-with-klarna-to-spur-sales",
     "published": "Tue, 21 Jul 2026 15:10:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:49.335740"
+    "fetched_at": "2026-07-22T06:33:30.899768"
   },
   {
     "id": "7c3650247845",
@@ -587,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value",
     "published": "Tue, 21 Jul 2026 14:23:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:49.470520"
+    "fetched_at": "2026-07-22T06:33:31.017795"
   },
   {
     "id": "4feb5bbfe1ee",
@@ -597,27 +597,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
     "published": "Mon, 20 Jul 2026 15:02:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:49.619779"
+    "fetched_at": "2026-07-22T06:33:31.122460"
+  },
+  {
+    "id": "04ed12596bda",
+    "title": "India’s Cockroach Movement: What Is the CJP, Why Are Students Protesting",
+    "title_cn": "印度蟑螂运动：什么是 CJP，学生为何抗议",
+    "summary": "What started out as a social media joke among Gen Z is turning into a major headache for the political establishment in India, as the “Cockroach Janta Party” draws support from young people frustrated by a lack of jobs and a string of controversies in the education system.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/india-s-cockroach-movement-what-is-the-cjp-why-are-students-protesting",
+    "published": "Wed, 22 Jul 2026 06:27:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:31.420380"
+  },
+  {
+    "id": "7c3fa2863e1a",
+    "title": "Burnham Walks Back Suggestion He’ll Lift UK Income Tax Threshold",
+    "title_cn": "伯纳姆收回了他将提高英国所得税起征点的建议",
+    "summary": "Andy Burnham isn’t considering an increase to the UK’s cap on tax-free earnings, according to people familiar with the matter, as the new prime minister tries to signal fiscal discipline to skeptical bond markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/burnham-walks-back-suggestion-he-ll-lift-uk-income-tax-threshold",
+    "published": "Wed, 22 Jul 2026 06:21:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:31.514001"
+  },
+  {
+    "id": "2d36f48e396f",
+    "title": "Saudi Arabia, UAE Officials Signal Unity After Months of Tensions",
+    "title_cn": "沙特阿拉伯和阿联酋官员在数月紧张局势后表示团结",
+    "summary": "Senior Saudi and United Arab Emirates officials posted coordinated social media messages highlighting the two countries’ longstanding ties, a display of public alignment after months of tensions between the Gulf neighbors and a renewed escalation in the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/saudi-arabia-uae-officials-signal-unity-after-months-of-tensions",
+    "published": "Wed, 22 Jul 2026 06:13:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:31.622340"
+  },
+  {
+    "id": "a3e5aaafb0ca",
+    "title": "Trump’s 100% Generic Drug Duty Threatens US Low-Cost Supply",
+    "title_cn": "特朗普100%仿制药关税威胁美国低成本供应",
+    "summary": "Generic drug manufacturers will have two years to move production to the US or face a 100% import duty from August 2028, President Donald Trump said, threatening the supply of low-cost medicines that millions of Americans rely on.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plans-100-tariff-on-generic-drugs-from-august-2028",
+    "published": "Tue, 21 Jul 2026 23:05:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:31.730183"
   },
   {
     "id": "87f9b9f4de12",
-    "title": "Trump Ally Biggs Secures Win in Arizona Governor Race",
+    "title": "Trump Ally Biggs Secures Win in Arizona Governor’s Race",
     "title_cn": "特朗普盟友比格斯在亚利桑那州州长竞选中获胜",
     "summary": "Representative Andy Biggs, a conservative hard-liner backed by President Donald Trump, won the Republican primary for governor in Arizona, setting up a showdown with Democratic incumbent Governor Katie Hobbs in the November midterm elections.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/biggs-wins-arizona-gop-governor-primary-ddhq-projects",
     "published": "Wed, 22 Jul 2026 03:04:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.119584"
+    "fetched_at": "2026-07-22T06:33:31.834399"
   },
   {
-    "id": "a3e5aaafb0ca",
-    "title": "Trump’s 100% Duty on Generic Drugs Threatens US Low-Cost Supply",
-    "title_cn": "特朗普对仿制药征收 100% 关税威胁美国低成本供应",
-    "summary": "Generic drug manufacturers will have two years to move production to the US or face a 100% import duty from August 2028, President Donald Trump said, threatening the supply of low-cost medicines that millions of Americans rely on.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plans-100-tariff-on-generic-drugs-from-august-2028",
-    "published": "Tue, 21 Jul 2026 23:05:59 GMT",
+    "id": "8139b085e6d4",
+    "title": "Modi Has Few Good Options to Quell India’s ‘Cockroach’ Protests",
+    "title_cn": "莫迪没有什么好的选择来平息印度的“蟑螂”抗议",
+    "summary": "What started as a satirical online movement two months ago has turned into one of India’s biggest student protests in years, sparking scenes of violent clashes in New Delhi. And Prime Minister Narendra Modi has few good options to stop them.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/modi-has-few-good-options-to-quell-india-s-cockroach-protests",
+    "published": "Wed, 22 Jul 2026 03:31:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.260089"
+    "fetched_at": "2026-07-22T06:33:31.936067"
   },
   {
     "id": "30376ecfc2ea",
@@ -627,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/kremlin-hardens-demands-on-occupied-land-in-ukraine-blaming-us",
     "published": "Wed, 22 Jul 2026 03:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.442704"
+    "fetched_at": "2026-07-22T06:33:32.030410"
   },
   {
     "id": "37f6305a4277",
@@ -637,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/mamdani-concedes-he-can-t-arrest-netanyahu-in-new-york-city",
     "published": "Wed, 22 Jul 2026 02:26:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.584606"
+    "fetched_at": "2026-07-22T06:33:32.152625"
   },
   {
     "id": "1d6ac74aab06",
@@ -647,17 +687,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/house-passes-stopgap-to-avert-shutdown-before-midterm-election",
     "published": "Wed, 22 Jul 2026 02:15:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.737974"
+    "fetched_at": "2026-07-22T06:33:32.262513"
   },
   {
     "id": "3df4909f531c",
-    "title": "India's Dharmendra Pradhan Breaks Silence After Student Protest Turn Violent",
-    "title_cn": "印度学生抗议演变成暴力事件后，达门德拉·普拉丹 (Dharmendra Pradhan) 打破沉默",
+    "title": "India Minister Breaks Silence as Student Protest Turns Violent",
+    "title_cn": "印度部长在学生抗议演变成暴力事件时打破沉默",
     "summary": "India’s Education Minister Dharmendra Pradhan remained defiant in his first public remarks after student protests calling for his resignation turned violent, saying the government remained committed to addressing concerns over exam paper leaks.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/modi-s-rivals-removed-by-police-as-student-protests-escalate",
     "published": "Tue, 21 Jul 2026 15:43:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.870269"
+    "fetched_at": "2026-07-22T06:33:32.363539"
   },
   {
     "id": "271e492b1f8d",
@@ -667,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-s-election-demands-gets-test-in-key-arizona-primary-races",
     "published": "Tue, 21 Jul 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:50.995357"
+    "fetched_at": "2026-07-22T06:33:32.465361"
   },
   {
     "id": "b87e0ae3a445",
@@ -677,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/top-china-envoy-faces-spooked-region-after-destabilizing-moves",
     "published": "Wed, 22 Jul 2026 00:09:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.136609"
+    "fetched_at": "2026-07-22T06:33:32.551426"
   },
   {
     "id": "e70083b7922c",
@@ -687,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
     "published": "Tue, 21 Jul 2026 16:22:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.274263"
+    "fetched_at": "2026-07-22T06:33:32.639573"
   },
   {
     "id": "0915ebef5caf",
@@ -697,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/maduro-trial-could-come-in-june-2027-under-proposed-schedule",
     "published": "Wed, 22 Jul 2026 00:45:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.408850"
+    "fetched_at": "2026-07-22T06:33:32.739842"
   },
   {
     "id": "5ddcfd89f150",
@@ -707,7 +747,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-20/victims-of-past-terrorism-urge-us-not-to-release-iranian-funds",
     "published": "Mon, 20 Jul 2026 21:27:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.552141"
+    "fetched_at": "2026-07-22T06:33:32.842523"
+  },
+  {
+    "id": "e6122d89200b",
+    "title": "EUR/CNY: Why China’s Yuan Is Drawing Scrutiny in Europe, What It Means for Euro",
+    "title_cn": "欧元/人民币：为何人民币在欧洲受到关注，这对欧元意味着什么",
+    "summary": "The value of the yuan has become a flashpoint in trade relations between China and the European Union. Many EU policymakers and economists believe the currency is undervalued and a key driver of the bloc’s deepening trade deficit with the East Asian nation. That imbalance averaged about $1.1 billion a day in June.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/eur-cny-why-china-s-yuan-is-drawing-scrutiny-in-europe-what-it-means-for-euro",
+    "published": "Wed, 22 Jul 2026 00:09:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-22T06:33:32.935165"
   },
   {
     "id": "45ff8e945995",
@@ -717,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/federal-and-state-officials-probing-returned-ballots-in-arizona",
     "published": "Wed, 22 Jul 2026 00:09:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.696828"
+    "fetched_at": "2026-07-22T06:33:33.031700"
   },
   {
     "id": "f58950aa51fc",
@@ -727,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/modi-s-protectionism-push-creates-stock-winners-in-laggard-india",
     "published": "Tue, 21 Jul 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.842530"
+    "fetched_at": "2026-07-22T06:33:33.131887"
   },
   {
     "id": "6bfcc1f38925",
@@ -737,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-nominates-telecom-lawyer-to-lead-doj-s-antitrust-division",
     "published": "Tue, 21 Jul 2026 21:51:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:51.982406"
+    "fetched_at": "2026-07-22T06:33:33.227838"
   },
   {
     "id": "d0c94f0daab3",
@@ -747,56 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-21/canada-us-bridge-opening-ceremony-called-off-after-trump-tariff",
     "published": "Tue, 21 Jul 2026 22:38:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.128134"
-  },
-  {
-    "id": "94fb47a21959",
-    "title": "Trump Loses Bid to Block BBC Subpoenas in $10 Billion Suit",
-    "title_cn": "特朗普在 100 亿美元诉讼中败诉阻止 BBC 传票",
-    "summary": "A judge denied President Donald Trump’s attempt to block dozens of subpoenas sent to members of his inner circle by the British Broadcasting Corp. as part of its defense against his $10 billion defamation lawsuit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-loses-bid-to-block-bbc-subpoenas-in-10-billion-lawsuit",
-    "published": "Tue, 21 Jul 2026 18:30:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.271740"
-  },
-  {
-    "id": "5744d7f1f85b",
-    "title": "Hegseth Says US War Against Iran Has Cost $37.5 Billion",
-    "title_cn": "赫格斯称美国对伊朗的战争已花费 375 亿美元",
-    "summary": "The US war against Iran has cost the US about $37.5 billion, Defense Secretary Pete Hegseth said, giving the most up-to-date official estimate for a conflict that shows no signs of ending soon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/hegseth-says-iran-war-has-cost-37-5-billion",
-    "published": "Tue, 21 Jul 2026 19:56:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.399847"
-  },
-  {
-    "id": "b94601cd0dbb",
-    "title": "Trump Lifts Four-Decade Ban on Direct US Flights to Lebanon",
-    "title_cn": "特朗普解除了长达四年的美国直飞黎巴嫩航班的禁令",
-    "summary": "President Donald Trump said his administration would move to allow US air carriers to resume flying directly to Lebanon, lifting restrictions that have been in place for more than four decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/trump-lifts-four-decade-ban-on-direct-us-flights-to-lebanon",
-    "published": "Tue, 21 Jul 2026 20:48:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.546419"
-  },
-  {
-    "id": "1d460a61926e",
-    "title": "NJ Blames Software for Registering 6,600 Noncitizens to Vote",
-    "title_cn": "新泽西州指责软件登记 6,600 名非公民投票",
-    "summary": "New Jersey Governor Mikie Sherrill said about 6,600 people who identified themselves as noncitizens were registered to vote between June 2023 and June 2024 due to a software error in the state’s motor vehicle system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/nj-s-sherrill-says-software-error-registered-6-600-noncitizens",
-    "published": "Tue, 21 Jul 2026 16:52:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.689582"
-  },
-  {
-    "id": "642e6169ef1d",
-    "title": "Dartmouth Medical School Is Latest Trump Civil Rights Target",
-    "title_cn": "达特茅斯医学院是特朗普最新的民权目标",
-    "summary": "The Trump administration said Tuesday it has launched civil rights investigations into alleged racial discrimination in admissions at five medical schools, including at Dartmouth College.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/dartmouth-medical-school-is-latest-trump-civil-rights-target",
-    "published": "Tue, 21 Jul 2026 20:42:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-22T03:48:52.833146"
+    "fetched_at": "2026-07-22T06:33:33.323828"
   }
 ]
