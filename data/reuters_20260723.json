@@ -1,5 +1,35 @@
 [
   {
+    "id": "36aa3486e29c",
+    "title": "Bloomberg Businessweek Daily: Robotic Surgeries (Podcast)",
+    "title_cn": "彭博商业周刊日报：机器人手术（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-businessweek-daily-robotic-surgeries-podcast",
+    "published": "Thu, 23 Jul 2026 20:13:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:36:58.456209"
+  },
+  {
+    "id": "5f9c00d22aba",
+    "title": "Stocks Close Lower on AI Jitters, Oil Jumps on War Concerns",
+    "title_cn": "股市因人工智能担忧而收低，石油因战争担忧而上涨",
+    "summary": "Source: Bloomberg, 5:40",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/stocks-close-lower-on-ai-jitters-oil-jumps-on-war-concerns",
+    "published": "Thu, 23 Jul 2026 20:12:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:36:58.588786"
+  },
+  {
+    "id": "d95be1cb9d48",
+    "title": "Wellington Passes on Data Center Debt, Questioning Long-Term Value (Podcast)",
+    "title_cn": "惠灵顿转嫁数据中心债务，质疑长期价值（播客）",
+    "summary": "Data-center debt returns are falling, risk is rising and there’s uncertainty over what the properties may be worth in the long run, Wellington Management says. “We think a lot about that replacement value when evaluating data centers,” Sonali Wilson, the $1.3 trillion manager’s lead investment director for private credit, tells Bloomberg News’ James Crombie and Bloomberg Intelligence’s David Havens in the latest Credit Edge podcast. “Today, I’ll say — not every situation — but, by and large, it’",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/wellington-passes-on-data-center-debt-questioning-long-term-value-podcast",
+    "published": "Thu, 23 Jul 2026 20:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:36:58.710205"
+  },
+  {
     "id": "3611fabc8e23",
     "title": "Report: Trump Threatens \"Massive” Iran Attack, Stocks Tumble",
     "title_cn": "报告：特朗普威胁对伊朗进行“大规模”袭击，股市暴跌",
@@ -7,7 +37,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/report-trump-threatens-massive-iran-attack-stocks-tumble",
     "published": "Thu, 23 Jul 2026 19:20:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.141802"
+    "fetched_at": "2026-07-23T20:36:58.893193"
   },
   {
     "id": "2fe135d54c43",
@@ -17,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/stock-movers-tesla-american-airlines-allegion-podcast",
     "published": "Thu, 23 Jul 2026 19:08:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.245413"
+    "fetched_at": "2026-07-23T20:36:59.024044"
   },
   {
     "id": "e858f95a1f94",
@@ -27,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-tech-mobileye-s-ceo-exit-podcast",
     "published": "Thu, 23 Jul 2026 19:05:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.340787"
+    "fetched_at": "2026-07-23T20:36:59.174817"
   },
   {
     "id": "d18eb3c768f1",
@@ -37,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/balance-of-power-house-passes-budget-stopgap-podcast",
     "published": "Thu, 23 Jul 2026 18:58:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.448669"
+    "fetched_at": "2026-07-23T20:36:59.287031"
   },
   {
     "id": "43ca790a5fa9",
@@ -47,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/democrats-probe-whether-irs-ceo-bisignano-misled-congress",
     "published": "Thu, 23 Jul 2026 15:42:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.551406"
+    "fetched_at": "2026-07-23T20:37:00.257134"
   },
   {
     "id": "09b7f70b0987",
@@ -57,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-talks-arvind-krishna-podcast",
     "published": "Thu, 23 Jul 2026 18:37:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.634392"
+    "fetched_at": "2026-07-23T20:37:00.381200"
   },
   {
     "id": "6339694c8ec3",
@@ -67,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-talks-jonathan-gray-podcast",
     "published": "Thu, 23 Jul 2026 18:35:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:01.744509"
+    "fetched_at": "2026-07-23T20:37:00.499663"
   },
   {
     "id": "8e12be413e15",
@@ -77,17 +107,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-talks-lars-machenil-podcast",
     "published": "Thu, 23 Jul 2026 18:34:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.307000"
+    "fetched_at": "2026-07-23T20:37:00.621329"
   },
   {
     "id": "f3b8b5b10105",
     "title": "Bloomberg Talks: French Hill (Podcast)",
-    "title_cn": "彭博谈话：French Hill（播客）",
+    "title_cn": "彭博社谈话：French Hill（播客）",
     "summary": "Source: Bloomberg, 7:03",
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-talks-french-hill-podcast",
     "published": "Thu, 23 Jul 2026 18:32:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.390761"
+    "fetched_at": "2026-07-23T20:37:00.734221"
   },
   {
     "id": "d57577314669",
@@ -97,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/iran-war-expanding-brent-near-102-stocks-sink-on-ai-jitters",
     "published": "Thu, 23 Jul 2026 18:10:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.514445"
+    "fetched_at": "2026-07-23T20:37:00.909997"
   },
   {
     "id": "fcb2f63ee7b9",
@@ -107,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/report-trump-threatens-massive-iran-attack-brent-tops-100",
     "published": "Thu, 23 Jul 2026 17:29:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.635208"
+    "fetched_at": "2026-07-23T20:37:01.086214"
   },
   {
     "id": "a3504f67f1fc",
@@ -117,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-intelligence-tesla-plunges-most-in-a-year-podcast",
     "published": "Thu, 23 Jul 2026 17:05:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.721087"
+    "fetched_at": "2026-07-23T20:37:01.227098"
   },
   {
     "id": "57ded1c7450f",
@@ -127,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/iran-war-expanding-oil-jumps-stocks-sink-on-war-and-ai-worries",
     "published": "Thu, 23 Jul 2026 16:35:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.803660"
+    "fetched_at": "2026-07-23T20:37:01.409705"
   },
   {
     "id": "b7f4096daeda",
@@ -137,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/blackrock-meta-are-betting-on-texas-data-centers-as-billions-in-bond-deals-loom",
     "published": "Thu, 23 Jul 2026 16:32:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:02.891408"
+    "fetched_at": "2026-07-23T20:37:01.528093"
   },
   {
     "id": "562097f88868",
@@ -147,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/oil-hit-100-as-a-second-front-opens-in-middle-east-war",
     "published": "Thu, 23 Jul 2026 16:04:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.002007"
+    "fetched_at": "2026-07-23T20:37:01.651845"
   },
   {
     "id": "8a2044b556ca",
@@ -157,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/macro-matters-invesco-s-levitt-on-equities-rates-and-oil",
     "published": "Thu, 23 Jul 2026 16:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.114105"
+    "fetched_at": "2026-07-23T20:37:01.767181"
   },
   {
     "id": "6f1ebd920088",
@@ -167,47 +197,47 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/donald-trump-and-the-houthis-spoil-andy-burnham-s-pub-lunch",
     "published": "Thu, 23 Jul 2026 15:58:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.217321"
+    "fetched_at": "2026-07-23T20:37:01.892425"
   },
   {
-    "id": "dae9ba95a894",
-    "title": "Stock Movers: Tesla, Alphabet, Quest Diagnostics (Podcast)",
-    "title_cn": "股票推动者：特斯拉、Alphabet、Quest Diagnostics（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-23/stock-movers-tesla-alphabet-quest-diagnostics-podcast",
-    "published": "Thu, 23 Jul 2026 15:46:14 GMT",
+    "id": "b374757596cd",
+    "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive",
+    "title_cn": "特斯拉股价暴跌，卖空者吸金 40 亿美元",
+    "summary": "The deep plunge in Tesla Inc.’s stock on Thursday is turning into a major payday for its short sellers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
+    "published": "Thu, 23 Jul 2026 18:04:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.312769"
+    "fetched_at": "2026-07-23T20:37:02.757810"
   },
   {
-    "id": "1b0797aad3e6",
-    "title": "Trump to Axios: Close to Deciding on 'Massive' Iran Attack",
-    "title_cn": "特朗普对 Axios 表示：即将决定对伊朗进行“大规模”袭击",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-23/trump-to-axios-close-to-deciding-on-massive-iran-attack",
-    "published": "Thu, 23 Jul 2026 15:39:30 GMT",
+    "id": "4aa6cef6fbcb",
+    "title": "S&P 500 Suffers Worst Day in a Month as Oil Soars Over $100",
+    "title_cn": "油价飙升超过 100 美元，标准普尔 500 指数遭遇一个月来最糟糕的一天",
+    "summary": "US stocks tumbled, with the S&amp;P 500 Index suffering its worst day in a month, as doubts about whether the debt-fueled artificial-intelligence investment boom will pay off dragged down big tech stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-stock-futures-drop-as-traders-focus-on-ai-spending-oil-jumps",
+    "published": "Thu, 23 Jul 2026 12:09:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.474959"
+    "fetched_at": "2026-07-23T20:37:03.543408"
   },
   {
-    "id": "4a3e7029bcac",
-    "title": "Data Room Stats Give Taste of M&A Deals to Come",
-    "title_cn": "数据室统计数据揭示了即将到来的并购交易",
-    "summary": "New report from Datasite shows sharp uptick in use of M&amp;A data rooms in first half.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/data-room-stats-give-taste-of-m-a-deals-to-come",
-    "published": "Thu, 23 Jul 2026 15:37:01 GMT",
+    "id": "5e82a6ffc8c3",
+    "title": "Heat Worries US Wheat Farmers Just as Crop Prices Surge",
+    "title_cn": "农作物价格飙升之际，炎热天气令美国小麦农民担忧",
+    "summary": "For farmers in North Dakota surveying their wheat as harvest closes in, scorching heat is threatening yields just as crop prices rise to a three-year high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/heat-worries-us-wheat-farmers-just-as-crop-prices-are-surging",
+    "published": "Thu, 23 Jul 2026 16:54:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:03.569130"
+    "fetched_at": "2026-07-23T20:37:03.889698"
   },
   {
-    "id": "6f9bd2a2cceb",
-    "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
-    "title_cn": "日元暴跌不仅影响美元，还引发通胀担忧",
-    "summary": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the Japanese currency’s health is also flashing a warning.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
-    "published": "Thu, 23 Jul 2026 00:39:28 GMT",
+    "id": "eddb44217d6e",
+    "title": "Magnificent 7 Lose $797 Billion as AI Skeptics Dump Tech Stocks",
+    "title_cn": "AI 怀疑论者抛售科技股，Magnificent 7 损失 7970 亿美元",
+    "summary": "Wall Street is growing increasingly concerned about the hundreds of billions of dollars Big Tech is spending on artificial intelligence just as the resurgence of the war in Iran clouds the global macroeconomic outlook.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
+    "published": "Thu, 23 Jul 2026 16:53:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.048897"
+    "fetched_at": "2026-07-23T20:37:04.261618"
   },
   {
     "id": "70e8669502de",
@@ -217,177 +247,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 22 Jul 2026 22:12:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.144153"
+    "fetched_at": "2026-07-23T20:37:04.402967"
   },
   {
-    "id": "d3314e1458c0",
-    "title": "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat",
-    "title_cn": "中国油轮不顾胡塞武装威胁通过红海咽喉要道",
-    "summary": "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
-    "published": "Thu, 23 Jul 2026 06:33:44 GMT",
+    "id": "f5d03ecdef1b",
+    "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+    "title_cn": "伊朗战争加剧提升加息押注，美元上涨",
+    "summary": "The dollar jumped Thursday as intensifying conflict in the Middle East sparked concerns over energy supply disruptions, fueling expectations that interest rates will stay higher for longer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/dollar-jumps-on-haven-flows-as-middle-east-war-intensifies",
+    "published": "Thu, 23 Jul 2026 14:28:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.245376"
-  },
-  {
-    "id": "f889786b0783",
-    "title": "Miami to Sell Griffin a Historic Site Next to New Citadel HQ",
-    "title_cn": "迈阿密将向格里芬出售新城堡总部旁边的一处历史遗址",
-    "summary": "Miami agreed to sell Ken Griffin a site across the street from the planned Citadel headquarters in the Brickell financial district that currently houses an historic cottage, completing the billionaire’s goal of owning the entire square block.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/miami-to-sell-griffin-an-historic-site-next-to-new-citadel-hq",
-    "published": "Thu, 23 Jul 2026 18:21:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.344146"
-  },
-  {
-    "id": "50dfed9e578e",
-    "title": "Latest Oil Market News and Analysis for July 23",
-    "title_cn": "7 月 23 日最新石油市场新闻和分析",
-    "summary": "Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, opening a new front in the Middle East conflict and threatening deeper supply disruptions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
-    "published": "Wed, 22 Jul 2026 22:02:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.445659"
-  },
-  {
-    "id": "b374757596cd",
-    "title": "Tesla Short Sellers Mint $4 Billion Profit as Shares Nosedive",
-    "title_cn": "特斯拉股价暴跌，卖空者获利 40 亿美元",
-    "summary": "The deep plunge in Tesla Inc.’s stock on Thursday is turning into a major payday for its short sellers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
-    "published": "Thu, 23 Jul 2026 18:04:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.549540"
-  },
-  {
-    "id": "4175009d304f",
-    "title": "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets",
-    "title_cn": "油价引发美联储押注，美国国债收益率升至 2026 年高位",
-    "summary": "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
-    "published": "Thu, 23 Jul 2026 12:41:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.655418"
-  },
-  {
-    "id": "4aa6cef6fbcb",
-    "title": "S&P 500 Heads Toward Worst Day in a Month as Oil Soars Over $100",
-    "title_cn": "油价飙升超过 100 美元，标准普尔 500 指数将迎来一个月来最糟糕的一天",
-    "summary": "US stocks tumbled, putting the S&amp;P 500 Index on track for its worst day in a month, as doubts about the payoffs from the debt-fueled artificial-intelligence investment boom dragged down big tech stocks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-stock-futures-drop-as-traders-focus-on-ai-spending-oil-jumps",
-    "published": "Thu, 23 Jul 2026 12:09:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.750205"
-  },
-  {
-    "id": "5e82a6ffc8c3",
-    "title": "Heat Worries US Wheat Farmers Just as Crop Prices Are Surging",
-    "title_cn": "农作物价格飙升之际，炎热天气令美国小麦农民担忧",
-    "summary": "For farmers in North Dakota surveying their wheat as harvest closes in, scorching heat is threatening yields just as crop prices rise to a three-year high.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/heat-worries-us-wheat-farmers-just-as-crop-prices-are-surging",
-    "published": "Thu, 23 Jul 2026 16:54:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:04.930438"
-  },
-  {
-    "id": "eddb44217d6e",
-    "title": "Magnificent 7 Lose $767 Billion as AI Skeptics Dump Tech Stocks",
-    "title_cn": "AI 怀疑论者抛售科技股，Magnificent 7 损失 7670 亿美元",
-    "summary": "The Magnificent Seven group of megacap technology stocks is on track for its biggest one-day drop since the tariff tantrum in April 2025 as results from Alphabet Inc. and Tesla Inc. are casting doubt on the durability of the artificial intelligence trade that has powered the stock market for more than three years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/magnificent-7-loses-767-billion-as-ai-skeptics-dump-tech-stocks",
-    "published": "Thu, 23 Jul 2026 16:53:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.086531"
-  },
-  {
-    "id": "b0f60fe7532a",
-    "title": "Kalshi Eyes Copper Perpetual Futures After Precious Metals Push",
-    "title_cn": "贵金属上涨后，卡尔希着眼于铜永续期货",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/kalshi-eyes-copper-perpetual-futures-after-precious-metals-push",
-    "published": "Thu, 23 Jul 2026 16:29:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.197803"
-  },
-  {
-    "id": "248bcf91d681",
-    "title": "BlackRock’s GIP Eyes Bundling Fund Stakes in Securitization Deal",
-    "title_cn": "贝莱德 GIP 着眼于证券化交易中捆绑基金股份",
-    "summary": "BlackRock Inc.’s Global Infrastructure Partners LP has been in discussions with investors to sell bonds backed by stakes in some of its private capital funds, joining a growing list of asset managers exploring ways to bolster returns on their holdings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/blackrock-s-gip-eyes-bundling-fund-stakes-in-securitization-deal",
-    "published": "Thu, 23 Jul 2026 16:03:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.289194"
-  },
-  {
-    "id": "16a7cb481b4b",
-    "title": "NYC’s Former HSBC Tower Seeks More Than $800 Million in Sale",
-    "title_cn": "纽约市前汇丰银行大厦寻求超过 8 亿美元的出售",
-    "summary": "A Manhattan office tower where Amazon.com Inc. has offices is going up for sale.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/nyc-s-former-hsbc-tower-seeks-more-than-800-million-in-sale",
-    "published": "Thu, 23 Jul 2026 15:44:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.383083"
-  },
-  {
-    "id": "eda3413b3b2d",
-    "title": "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns",
-    "title_cn": "100美元油价引发通胀担忧，外债收益率创15年新高",
-    "summary": "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
-    "published": "Thu, 23 Jul 2026 08:03:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.484155"
-  },
-  {
-    "id": "c85d24259134",
-    "title": "Chocolate Maker Lindt Faces US Lawsuit Over Child Labor Allegations",
-    "title_cn": "巧克力制造商瑞士莲因童工指控面临美国诉讼",
-    "summary": "Lindt &amp; Spruengli AG has been sued by an activist law firm in the US which alleges the Swiss chocolate maker is falsely promoting its efforts to battle child labor in Ghana and the Ivory Coast from where it sources cocoa.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/chocolate-maker-lindt-faces-us-suit-over-child-labor-allegations",
-    "published": "Thu, 23 Jul 2026 15:36:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.651611"
-  },
-  {
-    "id": "51d84892c2bd",
-    "title": "How Leveraged Exchange-Traded Funds Are Suddenly Everywhere",
-    "title_cn": "杠杆交易所交易基金如何突然无处不在",
-    "summary": "<p>On this episode of&nbsp;<em>Trillions</em>, we discuss what’s fueling the boom&nbsp;and how these exchange-traded funds work in today’s market.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/how-leveraged-exchange-traded-funds-are-suddenly-everywhere",
-    "published": "Thu, 23 Jul 2026 15:30:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.762254"
-  },
-  {
-    "id": "eefdb0d52252",
-    "title": "Russia’s Black Sea Waters Not Safe for Ships Amid Attacks",
-    "title_cn": "俄罗斯黑海水域因袭击而对船只不安全",
-    "summary": "Moscow warned that it is unsafe to navigate in its Black Sea waters after Ukraine has been ramping up attacks on Russia-linked ships in the area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/russia-says-its-black-sea-waters-not-safe-for-ships-amid-attacks",
-    "published": "Thu, 23 Jul 2026 14:26:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:05.916008"
-  },
-  {
-    "id": "95758a0398d6",
-    "title": "The Worrying Signal Embedded in the Momentum Selloff",
-    "title_cn": "抛售势头中蕴含的令人担忧的信号",
-    "summary": "A loss of market leadership.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/the-worrying-signal-embedded-in-the-momentum-selloff",
-    "published": "Thu, 23 Jul 2026 15:10:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:06.016428"
-  },
-  {
-    "id": "1a10110d268c",
-    "title": "Ireland Says Alumina Probe Finds No Proof of Russia Weapons Link",
-    "title_cn": "爱尔兰称氧化铝探测器未发现俄罗斯武器关联的证据",
-    "summary": "An investigation into alumina exports from Ireland to Russia has not found conclusive evidence linking a production plant to the manufacture of weapons in Russia, Irish Prime Minister Micheal Martin said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/ireland-says-alumina-probe-finds-no-proof-of-russia-weapons-link",
-    "published": "Thu, 23 Jul 2026 15:06:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:06.119688"
+    "fetched_at": "2026-07-23T20:37:04.522390"
   },
   {
     "id": "b9f6b2767aee",
@@ -397,7 +267,187 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war",
     "published": "Wed, 22 Jul 2026 23:38:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:06.272198"
+    "fetched_at": "2026-07-23T20:37:04.659219"
+  },
+  {
+    "id": "4175009d304f",
+    "title": "US Treasury Yields Rise to 2026 Highs With Oil Sparking Fed Bets",
+    "title_cn": "油价引发美联储押注，美国国债收益率升至 2026 年高位",
+    "summary": "US Treasury yields rose to their highest levels of the year as the threat of escalation in the Iran war sent oil prices higher and boosted bets that the Federal Reserve could raise interest rates as soon as next week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-treasury-yields-rise-to-2026-highs-as-oil-gains-spark-fed-bet",
+    "published": "Thu, 23 Jul 2026 12:41:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:04.776957"
+  },
+  {
+    "id": "50dfed9e578e",
+    "title": "Latest Oil Market News and Analysis for July 23",
+    "title_cn": "7 月 23 日最新石油市场新闻和分析",
+    "summary": "Oil surged past $100 a barrel for the first time in two months after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, opening a new front in the Middle East conflict and threatening deeper supply disruptions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
+    "published": "Wed, 22 Jul 2026 22:02:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:04.924289"
+  },
+  {
+    "id": "39d7d2b490ab",
+    "title": "Millennials and Gen Z Investors Are Ditching Bonds, Vanguard Says",
+    "title_cn": "先锋集团表示，千禧一代和 Z 世代投资者正在放弃债券",
+    "summary": "The average Vanguard investor is steering clear of fixed income",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/millennials-and-gen-z-investors-are-ditching-bonds-vanguard-says",
+    "published": "Thu, 23 Jul 2026 19:34:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.050533"
+  },
+  {
+    "id": "6f9bd2a2cceb",
+    "title": "Yen’s Slump Extends Beyond Dollar and Stokes Inflation Fears",
+    "title_cn": "日元暴跌不仅影响美元，还引发通胀担忧",
+    "summary": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the Japanese currency’s health is also flashing a warning.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
+    "published": "Thu, 23 Jul 2026 00:39:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.179747"
+  },
+  {
+    "id": "d3314e1458c0",
+    "title": "China Tankers Pass Red Sea Chokepoint Despite Houthi Threat",
+    "title_cn": "中国油轮不顾胡塞武装威胁通过红海咽喉要道",
+    "summary": "Two China-owned oil tankers loaded with Saudi Arabian crude exited the Red Sea via the Bab el-Mandeb chokepoint despite overnight Houthi attacks on vessels in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-tankers-head-to-red-sea-chokepoint-despite-houthi-attacks",
+    "published": "Thu, 23 Jul 2026 06:33:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.294098"
+  },
+  {
+    "id": "f889786b0783",
+    "title": "Miami to Sell Griffin a Historic Site Next to New Citadel HQ",
+    "title_cn": "迈阿密将向格里芬出售新城堡总部旁边的一处历史遗址",
+    "summary": "Miami agreed to sell Ken Griffin a site across the street from the planned Citadel headquarters in the Brickell financial district that currently houses an historic cottage, completing the billionaire’s goal of owning the entire square block.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/miami-to-sell-griffin-an-historic-site-next-to-new-citadel-hq",
+    "published": "Thu, 23 Jul 2026 18:21:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.405482"
+  },
+  {
+    "id": "b0f60fe7532a",
+    "title": "Kalshi Eyes Copper Perpetual Futures After Precious Metals Push",
+    "title_cn": "贵金属上涨后，卡尔希着眼于铜永续期货",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/kalshi-eyes-copper-perpetual-futures-after-precious-metals-push",
+    "published": "Thu, 23 Jul 2026 16:29:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.508339"
+  },
+  {
+    "id": "248bcf91d681",
+    "title": "BlackRock’s GIP Eyes Bundling Fund Stakes in Securitization Deal",
+    "title_cn": "贝莱德 GIP 着眼于证券化交易中捆绑基金股份",
+    "summary": "BlackRock Inc.’s Global Infrastructure Partners LP has been in discussions with investors to sell bonds backed by stakes in some of its private capital funds, joining a growing list of asset managers exploring ways to bolster returns on their holdings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/blackrock-s-gip-eyes-bundling-fund-stakes-in-securitization-deal",
+    "published": "Thu, 23 Jul 2026 16:03:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.618547"
+  },
+  {
+    "id": "16a7cb481b4b",
+    "title": "NYC’s Former HSBC Tower Seeks More Than $800 Million in Sale",
+    "title_cn": "纽约市前汇丰银行大厦寻求超过 8 亿美元的出售",
+    "summary": "A Manhattan office tower where Amazon.com Inc. has offices is going up for sale.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/nyc-s-former-hsbc-tower-seeks-more-than-800-million-in-sale",
+    "published": "Thu, 23 Jul 2026 15:44:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.737135"
+  },
+  {
+    "id": "eda3413b3b2d",
+    "title": "Bund Yields Hit 15-Year High as $100 Oil Fans Inflation Concerns",
+    "title_cn": "100美元油价引发通胀担忧，外债收益率创15年新高",
+    "summary": "German bond yields rose to the highest level since 2011 as surging oil prices prompted bigger bets on interest-rate hikes, even as the European Central Bank kept its benchmark unchanged.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/german-bond-yields-hit-15-year-as-oil-prices-spike-before-ecb",
+    "published": "Thu, 23 Jul 2026 08:03:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:05.867177"
+  },
+  {
+    "id": "c85d24259134",
+    "title": "Chocolate Maker Lindt Faces US Lawsuit Over Child Labor Allegations",
+    "title_cn": "巧克力制造商瑞士莲因童工指控面临美国诉讼",
+    "summary": "Lindt &amp; Spruengli AG has been sued by an activist law firm in the US which alleges the Swiss chocolate maker is falsely promoting its efforts to battle child labor in Ghana and the Ivory Coast from where it sources cocoa.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/chocolate-maker-lindt-faces-us-suit-over-child-labor-allegations",
+    "published": "Thu, 23 Jul 2026 15:36:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:06.000578"
+  },
+  {
+    "id": "51d84892c2bd",
+    "title": "How Leveraged Exchange-Traded Funds Are Suddenly Everywhere",
+    "title_cn": "杠杆交易所交易基金如何突然无处不在",
+    "summary": "<p>On this episode of&nbsp;<em>Trillions</em>, we discuss what’s fueling the boom&nbsp;and how these exchange-traded funds work in today’s market.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/how-leveraged-exchange-traded-funds-are-suddenly-everywhere",
+    "published": "Thu, 23 Jul 2026 15:30:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:06.131534"
+  },
+  {
+    "id": "eefdb0d52252",
+    "title": "Russia’s Black Sea Waters Not Safe for Ships Amid Attacks",
+    "title_cn": "俄罗斯黑海水域因袭击而对船只不安全",
+    "summary": "Moscow warned that it is unsafe to navigate in its Black Sea waters after Ukraine has been ramping up attacks on Russia-linked ships in the area.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/russia-says-its-black-sea-waters-not-safe-for-ships-amid-attacks",
+    "published": "Thu, 23 Jul 2026 14:26:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:06.251897"
+  },
+  {
+    "id": "47c564e5477c",
+    "title": "Intel Soars After AI Data Center Gains Bolster Sales Forecast",
+    "title_cn": "人工智能数据中心销售预测强劲，英特尔股价飙升",
+    "summary": "Intel Corp. surged in late trading after the chipmaker’s revenue forecast shattered estimates, indicating that booming data center spending is helping fuel a long-awaited turnaround.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+    "published": "Thu, 23 Jul 2026 20:01:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:07.251712"
+  },
+  {
+    "id": "44e2599e2ca6",
+    "title": "Amazon Investigated Over Chinese Influence by Senate Panel",
+    "title_cn": "参议院小组调查亚马逊对中国影响力的调查",
+    "summary": "Amazon.com Inc. is being investigated by the Senate Small Business Committee for allegedly letting China influence the company’s online marketplace, according to a document reviewed by Bloomberg and two people interviewed as part of the investigation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/amazon-investigated-over-chinese-influence-by-us-senate-panel",
+    "published": "Wed, 22 Jul 2026 22:48:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:08.474094"
+  },
+  {
+    "id": "42ba14e42a0c",
+    "title": "SpaceX Delays Major Flight Test Again in Post-IPO Spotlight",
+    "title_cn": "SpaceX 再次推迟首次公开募股后的重大飞行测试",
+    "summary": "SpaceX delayed to Friday the next major test of its massive Starship rocket after also abandoning takeoff last week, heightening the stakes for the critical milestone.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight",
+    "published": "Thu, 23 Jul 2026 09:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:09.727048"
+  },
+  {
+    "id": "b1eb97cee1c7",
+    "title": "SAP Cloud Revenue Beats Estimates as Legacy Support Nears Cutoff",
+    "title_cn": "SAP Cloud 收入超出预期，传统支持接近截止",
+    "summary": "SAP SE’s cloud revenue grew at a faster pace than analysts expected as customers move away from on-premises licenses ahead of the company’s deadline to halt support for legacy software.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff",
+    "published": "Thu, 23 Jul 2026 20:09:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:09.856718"
+  },
+  {
+    "id": "e2551c4578d5",
+    "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion",
+    "title_cn": "Alphabet 的 Anthropic 股份跃升至约 1240 亿美元",
+    "summary": "The value of Alphabet Inc.’s stake in the artificial intelligence startup Anthropic PBC has soared to around $124 billion, making it one of the most lucrative bets in the company’s history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
+    "published": "Thu, 23 Jul 2026 19:53:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-23T20:37:09.981839"
   },
   {
     "id": "0d8a70ee9dd3",
@@ -407,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-expands-ai-data-center-pledge-in-bid-to-ease-power-costs",
     "published": "Thu, 23 Jul 2026 19:07:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:06.788957"
+    "fetched_at": "2026-07-23T20:37:10.100329"
   },
   {
     "id": "a6bb228c9943",
@@ -417,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/a-group-of-industry-powerbrokers-are-unveiling-a-new-definition-of-podcast",
     "published": "Thu, 23 Jul 2026 18:09:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:06.885014"
+    "fetched_at": "2026-07-23T20:37:10.243207"
   },
   {
     "id": "8ab9c5995e0e",
@@ -427,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity",
     "published": "Thu, 23 Jul 2026 16:56:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.051374"
+    "fetched_at": "2026-07-23T20:37:10.376976"
   },
   {
     "id": "471018c9666c",
@@ -437,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters",
     "published": "Thu, 23 Jul 2026 08:35:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.216571"
+    "fetched_at": "2026-07-23T20:37:10.521859"
   },
   {
     "id": "382405d432d0",
@@ -447,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches",
     "published": "Thu, 23 Jul 2026 10:01:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.296664"
+    "fetched_at": "2026-07-23T20:37:10.625147"
   },
   {
     "id": "e71af8c2b6dc",
@@ -457,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-to-produce-ukraine-s-magura-sea-drones-for-the-first-time",
     "published": "Thu, 23 Jul 2026 17:32:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.414239"
+    "fetched_at": "2026-07-23T20:37:10.739237"
   },
   {
     "id": "7a5db383cd32",
@@ -467,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/drone-navigation-companies-seek-new-ways-past-warzone-jamming",
     "published": "Thu, 23 Jul 2026 15:31:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.515065"
+    "fetched_at": "2026-07-23T20:37:10.853196"
   },
   {
     "id": "91b0c24b37d3",
@@ -477,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds",
     "published": "Thu, 23 Jul 2026 01:10:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.667420"
+    "fetched_at": "2026-07-23T20:37:10.979669"
   },
   {
     "id": "36a00f705325",
@@ -487,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing",
     "published": "Thu, 23 Jul 2026 16:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.746217"
+    "fetched_at": "2026-07-23T20:37:11.087979"
   },
   {
     "id": "1d4c4094f84e",
@@ -497,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/ibm-cuts-full-year-sales-outlook-after-mainframe-unit-dip",
     "published": "Wed, 22 Jul 2026 20:11:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.826132"
+    "fetched_at": "2026-07-23T20:37:11.218499"
   },
   {
     "id": "66205dd69f39",
@@ -507,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/absa-nears-tanzania-deal-to-combine-3-billion-of-banking-assets",
     "published": "Thu, 23 Jul 2026 06:21:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:07.936134"
+    "fetched_at": "2026-07-23T20:37:11.341070"
   },
   {
     "id": "5f02ccb45970",
@@ -517,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/thermo-fisher-rises-as-instrument-demand-recovery-lifts-outlook",
     "published": "Thu, 23 Jul 2026 15:13:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.030411"
+    "fetched_at": "2026-07-23T20:37:11.458544"
   },
   {
     "id": "c35073cd86f3",
@@ -527,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-future-spending-commitments-soar-to-811-billion",
     "published": "Thu, 23 Jul 2026 14:42:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.128893"
+    "fetched_at": "2026-07-23T20:37:11.583087"
   },
   {
     "id": "bee62c5a12d5",
@@ -537,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-cloud-sales-beat-slight-miss-on-search-revenue",
     "published": "Thu, 23 Jul 2026 13:44:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.237253"
+    "fetched_at": "2026-07-23T20:37:11.713192"
   },
   {
     "id": "fd785e46269a",
@@ -547,57 +597,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/comcast-earnings-beat-estimates-on-peacock-box-office-successes",
     "published": "Thu, 23 Jul 2026 10:01:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.318430"
+    "fetched_at": "2026-07-23T20:37:11.833245"
   },
   {
-    "id": "a86b0a6fd732",
-    "title": "SK Hynix’s Arbitrage Trade Stymied by Strict Conversion Cap",
-    "title_cn": "SK海力士的套利交易因严格的转换上限而受阻",
-    "summary": "One of the world’s most enticing arbitrage opportunities will remain off limits.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-s-51-arbitrage-trade-stymied-by-strict-conversion-cap",
-    "published": "Thu, 23 Jul 2026 07:37:03 GMT",
+    "id": "cc92660136ea",
+    "title": "DOJ Drops NYT Reporter Subpoenas Over Air Force One",
+    "title_cn": "司法部撤销《纽约时报》记者关于空军一号的传票",
+    "summary": "The Department of Justice dropped subpoenas to New York Times reporters over stories detailing security concerns with President Donald Trump’s Qatari-donated Air Force One under pressure from a federal judge.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/justice-department-drops-subpoenas-to-new-york-times-reporters",
+    "published": "Thu, 23 Jul 2026 19:29:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.422459"
+    "fetched_at": "2026-07-23T20:37:13.174111"
   },
   {
-    "id": "95e60fd95c54",
-    "title": "Infosys Taps Insider for CEO Role as Sales Outlook Tightens",
-    "title_cn": "随着销售前景趋紧，印孚瑟斯聘请内部人士担任首席执行官",
-    "summary": "Infosys Ltd. trimmed the upper end of its sales forecast and named a new chief executive to lead it through a prolonged period of slower technology spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/infosys-cuts-revenue-forecast-as-it-service-demand-remains-muted",
-    "published": "Thu, 23 Jul 2026 11:09:04 GMT",
+    "id": "3ef1dd7a2160",
+    "title": "Republicans Sit on $1 Billion War Chest Ahead of Midterms",
+    "title_cn": "共和党在中期选举前坐拥 10 亿美元的战争基金",
+    "summary": "Donald Trump’s super PAC has spent just 0.6% of its cash to help candidates.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/republicans-sit-on-1-billion-war-chest-ahead-of-midterms",
+    "published": "Thu, 23 Jul 2026 20:10:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.572358"
+    "fetched_at": "2026-07-23T20:37:13.297120"
   },
   {
-    "id": "03d7aab4a26b",
-    "title": "T-Mobile Revenue Misses Expectations as Customer Gains Slow",
-    "title_cn": "由于客户增长缓慢，T-Mobile 收入未达预期",
-    "summary": "T-Mobile US Inc. reported revenue that missed analysts’ estimates amid modest gains in subscribers, disappointing Wall Street’s high expectations for the second-largest US mobile carrier.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/t-mobile-beats-on-wireless-accounts-as-loyalty-perks-pay-off",
-    "published": "Thu, 23 Jul 2026 10:29:13 GMT",
+    "id": "29f2a6223ad9",
+    "title": "Carney Says ‘Everything’s on the Table’ If US Imposes New 50% Tariffs",
+    "title_cn": "卡尼表示，如果美国征收新的 50% 关税，“一切都将摆在桌面上”",
+    "summary": "Prime Minister Mark Carney said Canada is weighing all options for possible retaliation if it doesn’t reach a deal with the US to avert 50% tariffs next month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/carney-says-everything-s-on-the-table-if-us-imposes-new-50-tariffs",
+    "published": "Thu, 23 Jul 2026 19:53:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.664994"
-  },
-  {
-    "id": "92bbea5a587f",
-    "title": "South Africa Fund Plans $609 Million VC Raise With Exits Rising",
-    "title_cn": "南非基金计划筹集 6.09 亿美元风险投资，退出量增加",
-    "summary": "A key South Africa fund plans to raise as much as 10 billion rand ($609 million) in venture capital to help scale high-growth startups, a move that would expand its technology sector and accelerate the development of one the continent’s most mature startup markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/south-africa-fund-plans-609-million-vc-raise-with-exits-rising",
-    "published": "Thu, 23 Jul 2026 12:15:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.759792"
-  },
-  {
-    "id": "2dab2cea5052",
-    "title": "BT Profit Falls as Broadband, Voice Margins Offset Cuts",
-    "title_cn": "由于宽带、语音利润抵消削减，英国电信利润下降",
-    "summary": "BT Group Plc reported a slight decline in profits for its fiscal first quarter, as lower margins in its broadband and voice businesses offset its cost-cutting efforts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/bt-profit-falls-as-lower-broadband-voice-margins-offset-cuts",
-    "published": "Thu, 23 Jul 2026 06:24:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:08.917416"
+    "fetched_at": "2026-07-23T20:37:13.421723"
   },
   {
     "id": "1580580d5f8d",
@@ -607,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-says-he-ll-hold-iran-responsible-for-future-houthi-strikes",
     "published": "Thu, 23 Jul 2026 12:25:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.481212"
+    "fetched_at": "2026-07-23T20:37:13.538684"
   },
   {
     "id": "9e60197315e8",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/south-african-deputy-finance-minister-steps-down-as-pic-chairman",
     "published": "Thu, 23 Jul 2026 18:33:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.585638"
+    "fetched_at": "2026-07-23T20:37:14.305842"
   },
   {
     "id": "f56d65070822",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/italy-targets-youth-crime-under-meloni-s-law-and-order-push",
     "published": "Thu, 23 Jul 2026 18:13:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.679274"
+    "fetched_at": "2026-07-23T20:37:14.432936"
   },
   {
     "id": "4d37c00b570e",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/brazil-court-opens-probe-into-bolsonaro-ties-to-banco-master-ceo",
     "published": "Thu, 23 Jul 2026 18:09:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.770614"
+    "fetched_at": "2026-07-23T20:37:15.548510"
   },
   {
     "id": "5d3e9fab08d9",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/germany-s-merz-taps-warken-for-his-chief-of-staff-in-reshuffle",
     "published": "Thu, 23 Jul 2026 17:41:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.864248"
+    "fetched_at": "2026-07-23T20:37:15.677639"
   },
   {
     "id": "403a57751fc6",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-says-eu-s-google-fine-airbus-loan-undermine-trade-stability",
     "published": "Thu, 23 Jul 2026 17:21:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:09.957543"
+    "fetched_at": "2026-07-23T20:37:15.805790"
   },
   {
     "id": "2bb869bc0231",
@@ -667,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-house-rebukes-trump-on-iran-votes-again-to-end-war",
     "published": "Thu, 23 Jul 2026 14:26:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.077255"
+    "fetched_at": "2026-07-23T20:37:15.934789"
   },
   {
     "id": "71418d0a2c2f",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/ukraine-s-fedorov-snubs-zelenskyy-job-offers-seeking-comeback",
     "published": "Thu, 23 Jul 2026 16:36:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.176429"
+    "fetched_at": "2026-07-23T20:37:16.069584"
   },
   {
     "id": "0084f0be97e2",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-to-outline-plans-thursday-for-expiring-tariffs-leavitt-says",
     "published": "Thu, 23 Jul 2026 16:03:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.372261"
+    "fetched_at": "2026-07-23T20:37:16.192698"
   },
   {
     "id": "1166fd56d124",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sees-haiti-in-turmoil-ahead-of-potential-deportations-of-tps-holders",
     "published": "Thu, 23 Jul 2026 13:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.473226"
+    "fetched_at": "2026-07-23T20:37:16.318613"
   },
   {
     "id": "b81c48628c13",
@@ -707,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-says-saudi-nuclear-deal-subject-to-joining-abraham-accords",
     "published": "Thu, 23 Jul 2026 12:19:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.557536"
+    "fetched_at": "2026-07-23T20:37:17.547963"
   },
   {
     "id": "ed29f0784bff",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-public-pension-growth-climbs-to-highest-peak-since-2008-crash",
     "published": "Thu, 23 Jul 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.649874"
+    "fetched_at": "2026-07-23T20:37:18.715648"
   },
   {
     "id": "1c31a98ba561",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/doj-to-fast-track-merger-probes-by-curbing-information-requests",
     "published": "Thu, 23 Jul 2026 14:57:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.727152"
+    "fetched_at": "2026-07-23T20:37:18.823689"
   },
   {
     "id": "510b56643f37",
@@ -737,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/burnham-strengthens-no-10-control-on-uk-economy-in-power-shift",
     "published": "Thu, 23 Jul 2026 14:47:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.819656"
+    "fetched_at": "2026-07-23T20:37:18.974223"
   },
   {
     "id": "1e0b54c2c9c3",
@@ -747,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/bolsonaro-denies-new-links-to-bank-scandal-after-media-reports",
     "published": "Thu, 23 Jul 2026 01:45:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:10.917159"
+    "fetched_at": "2026-07-23T20:37:19.376588"
   },
   {
     "id": "771f97714ce9",
@@ -757,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/democrats-fret-about-trump-using-heavy-hand-with-elections",
     "published": "Thu, 23 Jul 2026 11:45:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:11.021573"
+    "fetched_at": "2026-07-23T20:37:19.502970"
   },
   {
     "id": "d6e4312b674d",
@@ -767,36 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/kenya-court-rules-ruto-s-proposed-debt-audit-panel-is-unlawful",
     "published": "Thu, 23 Jul 2026 10:22:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-23T19:25:11.157282"
-  },
-  {
-    "id": "c6d6f974c4a1",
-    "title": "Lawmakers Worry Trump’s Team Isn’t Closing China Chip Curbs Gap They Created",
-    "title_cn": "立法者担心特朗普团队没有缩小他们造成的中国芯片限制差距",
-    "summary": "US lawmakers are pressing President Donald Trump’s team to close a loophole they say the administration created in China tech restrictions, but which a key agency denies exists — an example of the persistent confusion surrounding Washington’s efforts to limit China’s AI prowess.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/lawmakers-worry-trump-s-team-isn-t-closing-china-chip-curbs-gap-they-created",
-    "published": "Thu, 23 Jul 2026 10:15:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:11.248697"
-  },
-  {
-    "id": "f74a1efc61c1",
-    "title": "Bollywood to Sikh Temples Lend Support to India Gen Z Protests",
-    "title_cn": "宝莱坞和锡克教寺庙支持印度 Z 世代抗议",
-    "summary": "Thousands of student protesters that have made headlines in India this week are drawing widespread support from a sympathetic public, who are flooding them with food donations and providing shelter and medical aid.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/bollywood-to-sikh-temples-lend-support-to-india-gen-z-protests",
-    "published": "Thu, 23 Jul 2026 10:10:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:11.343816"
-  },
-  {
-    "id": "aa5fd3b6d0f5",
-    "title": "Candidates Line Up for the UN’s Thankless Top Job",
-    "title_cn": "候选人排队争夺联合国吃力不讨好的最高职位",
-    "summary": "The contenders gather in New York today to present their views on restoring the UN to its heyday.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/candidates-line-up-for-the-un-s-thankless-top-job",
-    "published": "Thu, 23 Jul 2026 10:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-23T19:25:11.440329"
+    "fetched_at": "2026-07-23T20:37:19.618711"
   }
 ]
