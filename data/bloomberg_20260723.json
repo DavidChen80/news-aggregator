@@ -1,12 +1,75 @@
 [
   {
+    "id": "086c603413b3",
+    "title": "FDI Plummets in Pakistan as Tax Policies Frazzle Firms",
+    "summary": "<p>At a moment when Pakistan is enjoying one of its strongest diplomatic positions in years, foreign investment inflows remain low.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/fdi-plummets-in-pakistan-as-tax-policies-frazzle-firms",
+    "published": "Thu, 23 Jul 2026 03:46:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368752"
+  },
+  {
+    "id": "f4cf52d912b7",
+    "title": "US Completes Latest Iran Strikes, Alphabet/Tesla Earnings, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/us-completes-latest-iran-strikes-alphabet-tesla-earnings-more",
+    "published": "Thu, 23 Jul 2026 03:34:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368766"
+  },
+  {
+    "id": "1f8fa9d9a59c",
+    "title": "Hong Kong Dog-Friendly Restaurants Face Hygiene Pushback From Diners",
+    "summary": "Pets outnumber babies 10 to 1, but opening up restaurants to dogs has been a bumpy ride.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/hong-kong-dog-friendly-restaurants-face-hygiene-pushback-from-diners",
+    "published": "Thu, 23 Jul 2026 03:10:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368771"
+  },
+  {
+    "id": "9d775c29a1f2",
+    "title": "Houthis Attack Saudi Tankers, Alphabet/Tesla Earnings, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/houthis-attack-saudi-tankers-alphabet-tesla-earnings-more",
+    "published": "Thu, 23 Jul 2026 02:44:48 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368776"
+  },
+  {
+    "id": "074b6c8c63d2",
+    "title": "Bloomberg Australia: What’s Driving the Kiwi Exodus? (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-australia-what-s-driving-the-kiwi-exodus-podcast",
+    "published": "Thu, 23 Jul 2026 02:44:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368780"
+  },
+  {
+    "id": "e6ab40fb696b",
+    "title": "Houthis Claim Red Sea Tanker Attacks, Tesla Profit Misses, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/houthis-claim-red-sea-tanker-attacks-tesla-profit-misses-more",
+    "published": "Thu, 23 Jul 2026 01:55:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368785"
+  },
+  {
+    "id": "00212a601c09",
+    "title": "Bloomberg Daybreak Asia: Big Tech Earnings Kick Off (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-23/bloomberg-daybreak-asia-big-tech-earnings-kick-off-podcast",
+    "published": "Thu, 23 Jul 2026 01:24:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.368789"
+  },
+  {
     "id": "00acb0a1fbdb",
     "title": "Houthis Claim Attacks on Red Sea Tankers, Alphabet Spending",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/houthis-claim-attacks-on-red-sea-tankers-alphabet-spending",
     "published": "Thu, 23 Jul 2026 00:54:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788364"
+    "fetched_at": "2026-07-23T04:41:01.368808"
   },
   {
     "id": "de09f1c0fb5c",
@@ -15,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-23/houthis-say-they-attacked-tankers-in-red-sea-tesla-miss-more",
     "published": "Thu, 23 Jul 2026 00:02:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788377"
+    "fetched_at": "2026-07-23T04:41:01.368813"
   },
   {
     "id": "2b9d17f131c9",
@@ -24,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-law-trump-pardons-firms-like-english-king-podcast-mrwpen7o",
     "published": "Wed, 22 Jul 2026 23:18:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788383"
+    "fetched_at": "2026-07-23T04:41:01.368818"
   },
   {
     "id": "2c8d32cbf738",
@@ -33,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/houthis-attack-tankers-at-red-sea-alphabet-spending-plan-more",
     "published": "Wed, 22 Jul 2026 23:06:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788389"
+    "fetched_at": "2026-07-23T04:41:01.368822"
   },
   {
     "id": "887b1c57bd11",
@@ -42,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/new-zealand-brain-drain-australia-inflation-concern-new-macquarie-boss",
     "published": "Wed, 22 Jul 2026 22:30:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788394"
+    "fetched_at": "2026-07-23T04:41:01.368827"
   },
   {
     "id": "a7d0f969852b",
@@ -51,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/alphabet-tesla-earnings-us-saudi-signs-nuclear-deal-more",
     "published": "Wed, 22 Jul 2026 22:19:37 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788400"
+    "fetched_at": "2026-07-23T04:41:01.368831"
   },
   {
     "id": "14ba69c17e2d",
@@ -60,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/tesla-profit-misses-estimates-as-elon-musk-looks-beyond-the-car-business",
     "published": "Wed, 22 Jul 2026 21:32:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788405"
+    "fetched_at": "2026-07-23T04:41:01.368835"
   },
   {
     "id": "e07998fea17e",
@@ -69,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/earnings-roundup-alphabet-beats-tesla-misses-podcast",
     "published": "Wed, 22 Jul 2026 21:28:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788414"
+    "fetched_at": "2026-07-23T04:41:01.368839"
   },
   {
     "id": "c651cb47a8b6",
@@ -78,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/rogers-stock-falls-despite-earnings-beat-as-sports-sale-looms",
     "published": "Wed, 22 Jul 2026 21:28:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788420"
+    "fetched_at": "2026-07-23T04:41:01.368843"
   },
   {
     "id": "a258832f31dd",
@@ -87,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/long-bonds-ring-the-2008-alarm-bell-evening-briefing-americas",
     "published": "Wed, 22 Jul 2026 21:27:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788426"
+    "fetched_at": "2026-07-23T04:41:01.368847"
   },
   {
     "id": "b11e71ceee6b",
@@ -96,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/tether-benefited-as-howard-lutnick-bo-hines-shaped-first-crypto-law",
     "published": "Wed, 22 Jul 2026 21:10:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788432"
+    "fetched_at": "2026-07-23T04:41:01.368851"
   },
   {
     "id": "4cea1c94db8d",
@@ -105,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/stock-movers-alphabet-tesla-ibm-podcast",
     "published": "Wed, 22 Jul 2026 21:07:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788437"
+    "fetched_at": "2026-07-23T04:41:01.368855"
   },
   {
     "id": "7066366d27d5",
@@ -114,79 +177,115 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-22/tesla-s-miss-ibm-cuts-outlook-us-signs-nuclear-deal-with-saudi",
     "published": "Wed, 22 Jul 2026 21:03:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788442"
-  },
-  {
-    "id": "d17c3fefa502",
-    "title": "Big Take: The Trump Insiders Who Shaped Crypto Law (Podcast)",
-    "summary": "Source: Bloomberg, 20:16",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/big-take-the-trump-insiders-who-shaped-crypto-law-podcast",
-    "published": "Wed, 22 Jul 2026 21:02:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788448"
-  },
-  {
-    "id": "84873d0a76fb",
-    "title": "New Zealand’s Brain Drain to Australia Is Widening Societal Rifts",
-    "summary": "<p>Kiwis are leaving for the larger neighbor in droves due to higher pay, better opportunities&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/new-zealand-s-brain-drain-to-australia-is-widening-societal-rifts",
-    "published": "Wed, 22 Jul 2026 21:00:20 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788453"
-  },
-  {
-    "id": "cbafb09d90fb",
-    "title": "Asia Centric: Peak Hormuz and the New Oil Order",
-    "summary": "The disruption in the Strait of Hormuz upended global energy markets, but the feared catastrophic oil shock never materialized. Prior to the Middle East conflict, about 20 million barrels of oil and products flowed through the maritime chokepoint every day. Due to regional bypass pipelines, strategic reserve releases and voluntary demand reductions from China, the global system absorbed the impact. Now, major producers and exposed Asian consumers are doubling down on long-term diversification to",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/asia-centric-peak-hormuz-and-the-new-oil-order",
-    "published": "Wed, 22 Jul 2026 21:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788458"
-  },
-  {
-    "id": "5d208cc3be81",
-    "title": "Bloomberg Businessweek Daily: Robinhood's Expansion (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-businessweek-daily-robinhood-s-expansion-podcast",
-    "published": "Wed, 22 Jul 2026 20:25:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788463"
-  },
-  {
-    "id": "1ba7f02474c6",
-    "title": "Bloomberg Businessweek Daily: OpenAI Hacking (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/bloomberg-businessweek-daily-openai-hacking-podcast",
-    "published": "Wed, 22 Jul 2026 20:24:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788468"
-  },
-  {
-    "id": "5dce7bd152ae",
-    "title": "Stocks Close Lower, Tesla Misses, Iran-US Not Ready to Talk",
-    "summary": "Source: Bloomberg, 5:59",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/stocks-close-lower-tesla-misses-iran-us-not-ready-to-talk",
-    "published": "Wed, 22 Jul 2026 20:19:09 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788473"
-  },
-  {
-    "id": "5bf17ed10301",
-    "title": "Stock Movers: AT&T, Nike, Super Micro (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-22/stock-movers-at-t-nike-super-micro-podcast",
-    "published": "Wed, 22 Jul 2026 19:16:20 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.788478"
+    "fetched_at": "2026-07-23T04:41:01.368858"
   },
   {
     "id": "70e8669502de",
-    "title": "Asian Shares Rise as Chipmakers Gain, Oil Climbs: Markets Wrap",
-    "summary": "Asian shares advanced as regional chipmakers gained on expectations they will benefit from billions of dollars flowing into the artificial intelligence buildout. Oil extended its recent gains.",
+    "title": "Asian Shares Rise on Chipmakers, Brent Tops $96: Markets Wrap",
+    "summary": "Asian shares rose as regional chipmakers climbed on expectations they will benefit from billions of dollars flowing into the artificial intelligence buildout. Oil extended its recent rally.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 22 Jul 2026 22:12:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994459"
+    "fetched_at": "2026-07-23T04:41:01.743645"
+  },
+  {
+    "id": "263fc5bda2a8",
+    "title": "Indonesian Stocks Rise 20% From Low in June, Set for Bull Market",
+    "summary": "A rally in Indonesian stocks put the nation’s benchmark index on track for a bull market, helped by a regional rebound as well as a recent credit-rating announcement.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/indonesian-stocks-set-for-bull-market-as-sentiment-improves",
+    "published": "Thu, 23 Jul 2026 02:55:28 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743658"
+  },
+  {
+    "id": "50dfed9e578e",
+    "title": "Latest Oil Market News and Analysis for July 23",
+    "summary": "Oil extended its rally after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
+    "published": "Wed, 22 Jul 2026 22:02:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743662"
+  },
+  {
+    "id": "50ad3982649e",
+    "title": "China’s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise",
+    "summary": "Semight Instruments Co. is considering a second listing in Hong Kong, people familiar with the matter said, after shares of the Chinese maker of test instruments for semiconductors surged roughly 2,200% since their debut in April.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-semight-is-said-to-mull-hong-kong-listing-after-2-200-stock-rise",
+    "published": "Thu, 23 Jul 2026 03:59:56 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743667"
+  },
+  {
+    "id": "519f4d73d2af",
+    "title": "China Solar Lobby Says Fewer Installs Mark Sustainable Shift",
+    "summary": "China’s solar lobby said the industry is on a more sustainable track, after a policy shift drove a 66% decline in installations in the first half of 2026.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-solar-plunge-is-return-to-rationalization-lobby-says",
+    "published": "Thu, 23 Jul 2026 02:45:03 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743670"
+  },
+  {
+    "id": "3474a08bbb52",
+    "title": "Australian Employment Soars in June, Bolstering Rate-Hike Bets",
+    "summary": "Australian employment surged in June, extending the previous month’s gains, underscoring the ongoing strength in the nation’s labor market and stoking bets on another interest-rate increase.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/australian-jobs-soar-76-300-in-june-unemployment-holds-at-4-4",
+    "published": "Thu, 23 Jul 2026 01:34:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743674"
+  },
+  {
+    "id": "ad760befed24",
+    "title": "India Rate-Hike Odds Rise as Pricey Crude Stokes Inflation Risk",
+    "summary": "The swap market is pricing in at least a 25-basis-point hike at the October meeting.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/india-rate-hike-odds-rise-as-pricey-crude-stokes-inflation-risk",
+    "published": "Thu, 23 Jul 2026 02:45:58 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743678"
+  },
+  {
+    "id": "c0b6798ddf98",
+    "title": "Asian Chip Stocks Climb as Alphabet Spending Revives AI Momentum",
+    "summary": "Asian semiconductor stocks rose as Alphabet Inc.’s plans to spend up to $200 billion this year on artificial intelligence computing power refueled optimism over trickle-down benefits.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/asian-chip-stocks-climb-as-alphabet-spending-revives-ai-momentum",
+    "published": "Thu, 23 Jul 2026 02:35:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743681"
+  },
+  {
+    "id": "089a1d829b2c",
+    "title": "Fund Managers Want Taiwan Regulators to Lift a Mobile Phone Ban",
+    "summary": "When fund managers in Taiwan arrive at work each morning, they have to lock away their mobile phones before the stock and bond markets open, and can’t retrieve their devices until the end of the trading day.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/fund-managers-want-taiwan-regulators-to-lift-a-mobile-phone-ban",
+    "published": "Thu, 23 Jul 2026 01:56:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743685"
+  },
+  {
+    "id": "5d2b08072143",
+    "title": "India Silver Imports Slump as New Licensing Disrupts Shipments",
+    "summary": "Silver imports into India have slowed sharply as a new licensing regime disrupted shipments, pushing local premiums to a multi-month high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/india-silver-imports-slump-as-new-licensing-disrupts-shipments",
+    "published": "Thu, 23 Jul 2026 01:38:38 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743689"
+  },
+  {
+    "id": "74f4fe670c8c",
+    "title": "Aditya Birla Fund Manager Bets on Earnings Growth to Lift Stocks",
+    "summary": "Aditya Birla Sun Life Asset Management Co., one of India’s largest money managers, is betting on a recovery in corporate earnings to drive gains in the nation’s equity market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/aditya-birla-fund-manager-bets-on-earnings-growth-to-lift-stocks",
+    "published": "Thu, 23 Jul 2026 01:30:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743693"
+  },
+  {
+    "id": "9f5ed773b0cd",
+    "title": "Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit",
+    "summary": "Armed assailants gunned down the mayor of a small Mexican city just south of the country’s capital in his office in the latest case of suspected gangland violence targeting a local official.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/mexican-mayor-shot-dead-in-his-office-after-surviving-earlier-hit",
+    "published": "Thu, 23 Jul 2026 00:53:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-23T04:41:01.743696"
   },
   {
     "id": "6f9bd2a2cceb",
@@ -195,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
     "published": "Thu, 23 Jul 2026 00:39:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994471"
+    "fetched_at": "2026-07-23T04:41:01.743700"
   },
   {
     "id": "976b125e48f8",
@@ -204,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/ebola-deaths-top-1-000-in-congo-as-response-trails-fastest-spreading-outbreak",
     "published": "Thu, 23 Jul 2026 00:38:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994477"
+    "fetched_at": "2026-07-23T04:41:01.743704"
   },
   {
     "id": "88433eb295c2",
@@ -213,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/jpy-usd-why-is-japan-yen-so-weak-can-government-intervention-help-currency",
     "published": "Wed, 22 Jul 2026 07:02:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994483"
+    "fetched_at": "2026-07-23T04:41:01.743708"
   },
   {
     "id": "b9f6b2767aee",
@@ -222,16 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war",
     "published": "Wed, 22 Jul 2026 23:38:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994488"
-  },
-  {
-    "id": "50dfed9e578e",
-    "title": "Latest Oil Market News and Analysis for July 23",
-    "summary": "Oil extended gains after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
-    "published": "Wed, 22 Jul 2026 22:02:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994493"
+    "fetched_at": "2026-07-23T04:41:01.743712"
   },
   {
     "id": "fbaf97532f99",
@@ -240,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/china-s-high-profile-funds-ditch-consumer-stocks-to-chase-ai",
     "published": "Wed, 22 Jul 2026 23:57:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994498"
+    "fetched_at": "2026-07-23T04:41:01.743716"
   },
   {
     "id": "03229645f4a4",
@@ -249,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/nasdaq-to-kick-off-tiny-companies-faster-after-sec-approves-rule",
     "published": "Wed, 22 Jul 2026 23:53:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994503"
+    "fetched_at": "2026-07-23T04:41:01.743720"
   },
   {
     "id": "e61c6d1ba4ba",
@@ -258,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/hong-kong-s-offshore-yuan-market-evolves-into-global-funding-hub",
     "published": "Wed, 22 Jul 2026 23:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994508"
+    "fetched_at": "2026-07-23T04:41:01.743724"
   },
   {
     "id": "68810831f784",
@@ -267,96 +357,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
     "published": "Wed, 22 Jul 2026 22:04:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994513"
-  },
-  {
-    "id": "899d7d1baec6",
-    "title": "Southwest Hedges Full-Year Guidance as Fuel Expenses Tick Up",
-    "summary": "Southwest Airlines Co. broadened its guidance for full-year 2026 to account for uncertainty resulting from the ongoing conflict between the US and Iran, which sent fuel expenses higher in the second quarter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/southwest-beats-estimates-on-strong-demand-premium-spending",
-    "published": "Wed, 22 Jul 2026 20:24:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994518"
-  },
-  {
-    "id": "6f7746374f51",
-    "title": "Brent Crude Spikes in Late Trading After Red Sea Tanker Attack",
-    "summary": "Oil prices rose sharply in post-settlement trading Wednesday, with Brent crude oil rising near $95 a barrel after Yemen’s Iran-backed Houthi rebels said they struck two Saudi tankers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/brent-crude-spikes-in-late-trading-after-red-sea-tanker-attack",
-    "published": "Wed, 22 Jul 2026 21:48:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994523"
-  },
-  {
-    "id": "60baf41d23dd",
-    "title": "Mexico City’s Casa de Toño Restaurant Chain Explores Sale, Eyes Growth",
-    "summary": "Mexican family-owned restaurant chain La Casa de Toño is seeking a sale in a deal that could top $400 million and set the business up for expansion, people familiar with the matter said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/mexico-city-pozole-chain-casa-de-tono-explores-sale-on-expansion-pitch",
-    "published": "Wed, 22 Jul 2026 20:30:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994528"
-  },
-  {
-    "id": "777664920fd9",
-    "title": "Stocks Churn Late as Big-Tech Earnings Kick Off: Markets Wrap",
-    "summary": "Wall Street traders sent stocks wavering in late hours as they sifted through results from megacaps for clues on whether their massive artificial-intelligence investments are paying off.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 21 Jul 2026 22:07:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994534"
-  },
-  {
-    "id": "f8b89804e444",
-    "title": "Vitamin Well Raises $2.2 Billion From Cross-Currency Loan Deal",
-    "summary": "Vitamin Well AB raised about $2.2 billion through a cross-currency loan offering to fund its acquisition of protein-bar maker EMPWR Nutrition Group.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/vitamin-well-raises-2-2-billion-from-cross-currency-loan-deal",
-    "published": "Wed, 22 Jul 2026 21:04:29 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994539"
-  },
-  {
-    "id": "0e22b33e4785",
-    "title": "Daiwa AM Boosts Staff in Shift Toward Institutional Investors",
-    "summary": "Daiwa Asset Management Co. is planning to double its sales staff targeting institutional investors to about 20 people, its president said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/daiwa-am-boosts-staff-in-shift-toward-institutional-investors",
-    "published": "Wed, 22 Jul 2026 21:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994544"
-  },
-  {
-    "id": "5b06f368d1e3",
-    "title": "Wall Street Won’t Give Up on Strategy, Sees 170% Upside",
-    "summary": "Michael Saylor’s Strategy Inc. is confronting a collapse of confidence almost everywhere — except among Wall Street analysts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-won-t-give-up-on-saylor-s-strategy-sees-170-upside",
-    "published": "Wed, 22 Jul 2026 16:01:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994549"
-  },
-  {
-    "id": "6043e0e75955",
-    "title": "Yen Rebound Ebbs After Brief Rally on Outlook for BOJ Rate Hikes",
-    "summary": "The yen slid beyond 163 per dollar for the first time since 1986 before recovering some ground in choppy trading on the prospect of faster interest-rate hikes from the Bank of Japan.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
-    "published": "Tue, 21 Jul 2026 22:35:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994554"
-  },
-  {
-    "id": "9477b3450893",
-    "title": "GE Vernova Falls as Outlook Clashes With ‘Too High’ AI Hopes",
-    "summary": "GE Vernova Inc.’s shares slumped after a higher revenue outlook failed to impress investors, a sign that it’s getting harder for companies that sell equipment to data centers to meet the market’s sky-high hopes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/ge-vernova-falls-as-outlook-collides-with-too-high-ai-hopes",
-    "published": "Wed, 22 Jul 2026 14:05:21 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994562"
-  },
-  {
-    "id": "ef51af5971c4",
-    "title": "S&P 500 Slumps for Fourth Time in Five Days as Oil Prices Jump",
-    "summary": "The S&amp;P 500 Index slumped on Wednesday following its best day in weeks, as declines in some corners of Big Tech offset gains elsewhere, including energy as oil prices jumped on the escalation of the US-Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-22/s-p-futures-fall-as-traders-brace-for-alphabet-tesla-earnings",
-    "published": "Wed, 22 Jul 2026 11:58:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-23T01:15:02.994567"
+    "fetched_at": "2026-07-23T04:41:01.743727"
   }
 ]
