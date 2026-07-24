@@ -1,5 +1,85 @@
 [
   {
+    "id": "009c8ee775ca",
+    "title": "Bloomberg Businessweek Daily: CEO's Secret Weapon (Podcast)",
+    "title_cn": "彭博商业周刊日报：首席执行官的秘密武器（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-businessweek-daily-ceo-s-secret-weapon-podcast",
+    "published": "Fri, 24 Jul 2026 21:30:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:46.339178"
+  },
+  {
+    "id": "c3070bbd35d4",
+    "title": "Bloomberg Wall Street Week: July 24th, 2026 (Podcast)",
+    "title_cn": "彭博华尔街周刊：2026 年 7 月 24 日（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-wall-street-week-july-24th-2026-podcast",
+    "published": "Fri, 24 Jul 2026 21:27:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:46.645733"
+  },
+  {
+    "id": "ddedb8dcef33",
+    "title": "Stock Movers: Super Micro, Tesla, Tenet Healthcare (Podcast)",
+    "title_cn": "股票推动者：超微、特斯拉、Tenet Healthcare（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast",
+    "published": "Fri, 24 Jul 2026 21:20:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.075774"
+  },
+  {
+    "id": "d933cdd99a69",
+    "title": "SpaceX Stock Drop Seen as a Verdict on AI: Evening Briefing Americas",
+    "title_cn": "SpaceX 股价下跌被视为对人工智能的判决：美洲晚间简报",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/spacex-stock-drop-seen-as-a-verdict-on-ai-evening-briefing-americas",
+    "published": "Fri, 24 Jul 2026 21:17:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.203527"
+  },
+  {
+    "id": "23363c0f692a",
+    "title": "Nolan’s The Odyssey a Boon for Imax (IMAX) Share Performance",
+    "title_cn": "诺兰的《奥德赛》为 IMAX (IMAX) 份额表现带来福音",
+    "summary": "Plus: Celebrating the Gordie Howe bridge",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/nolan-s-the-odyssey-a-boon-for-imax-imax-share-performance",
+    "published": "Fri, 24 Jul 2026 21:00:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.341023"
+  },
+  {
+    "id": "7eaa0f1e0ac2",
+    "title": "Paramount-WB Deal on Hold, Trump Deepens Tariff War with EU",
+    "title_cn": "派拉蒙与世行协议搁置，特朗普加深与欧盟的关税战",
+    "summary": "Source: Bloomberg, 6:15",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/paramount-wb-deal-on-hold-trump-deepens-tariff-war-with-eu",
+    "published": "Fri, 24 Jul 2026 20:57:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.474202"
+  },
+  {
+    "id": "3a25c005cedb",
+    "title": "Stock Movers: T-Mobile, Uber, Paramount (Podcast)",
+    "title_cn": "库存推动者：T-Mobile、Uber、派拉蒙（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-t-mobile-uber-paramount-podcast",
+    "published": "Fri, 24 Jul 2026 20:45:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.635822"
+  },
+  {
+    "id": "f5b264f45ab9",
+    "title": "Masters in Business: Lori Heinel (Podcast)",
+    "title_cn": "商业硕士：Lori Heinel（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/masters-in-business-lori-heinel-podcast",
+    "published": "Fri, 24 Jul 2026 20:25:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:47.784225"
+  },
+  {
     "id": "f524fdb82554",
     "title": "Stocks Close Mixed, Paramount-WB Deal on Months-Long Hold, More",
     "title_cn": "股票收盘喜忧参半，派拉蒙与世行的交易持续数月持有，更多",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/stocks-close-mixed-paramount-wb-deal-on-months-long-hold-more",
     "published": "Fri, 24 Jul 2026 20:13:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:49.076518"
+    "fetched_at": "2026-07-24T21:38:47.929883"
   },
   {
     "id": "f07cc4e48629",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/eli-lilly-backed-scribe-therapeutics-jumps-67-after-upsized-ipo",
     "published": "Fri, 24 Jul 2026 15:53:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:49.271429"
+    "fetched_at": "2026-07-24T21:38:48.181052"
   },
   {
     "id": "28fb42d8d9c4",
@@ -27,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-money-july-24th-2026-podcast",
     "published": "Fri, 24 Jul 2026 20:05:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:49.432042"
+    "fetched_at": "2026-07-24T21:38:48.314029"
   },
   {
     "id": "9135a931984a",
@@ -37,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-tech-open-weight-ai-debate-podcast",
     "published": "Fri, 24 Jul 2026 19:38:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:49.524821"
+    "fetched_at": "2026-07-24T21:38:48.444365"
   },
   {
     "id": "038a5cc0280e",
@@ -47,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-intel-oracle-canada-goose-podcast-mrzbl5ab",
     "published": "Fri, 24 Jul 2026 19:15:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.383893"
+    "fetched_at": "2026-07-24T21:38:48.577654"
   },
   {
     "id": "fff5a89adec7",
@@ -57,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-threatens-new-eu-tariffs-us-measles-reach-35-year-high",
     "published": "Fri, 24 Jul 2026 19:08:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.486061"
+    "fetched_at": "2026-07-24T21:38:48.711621"
   },
   {
     "id": "e45288dbf85e",
@@ -67,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-daybreak-weekend-fed-decision-preview-podcast",
     "published": "Fri, 24 Jul 2026 19:07:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.621963"
+    "fetched_at": "2026-07-24T21:38:48.876270"
   },
   {
     "id": "313a171a66eb",
@@ -77,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/week-ahead-microsoft-meta-apple-podcast",
     "published": "Fri, 24 Jul 2026 19:00:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.730325"
+    "fetched_at": "2026-07-24T21:38:49.081102"
   },
   {
     "id": "3fea8ab56a38",
@@ -87,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/balance-of-power-trump-threatens-new-eu-tariffs-podcast",
     "published": "Fri, 24 Jul 2026 18:56:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.837318"
+    "fetched_at": "2026-07-24T21:38:49.222241"
   },
   {
     "id": "55c7c31ae847",
@@ -97,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-threatens-new-tariffs-on-eu-measles-hits-35-year-high",
     "published": "Fri, 24 Jul 2026 18:01:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:50.918246"
+    "fetched_at": "2026-07-24T21:38:49.651792"
   },
   {
     "id": "52de306c00c0",
@@ -107,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/ai-cyberattacks-pose-new-threat-to-manufacturers-and-will-force-more-spending",
     "published": "Fri, 24 Jul 2026 14:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.014532"
+    "fetched_at": "2026-07-24T21:38:49.803067"
   },
   {
     "id": "8cdbaa2d0bef",
@@ -117,117 +197,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/nyc-central-park-stabbings-investigated-as-possible-hate-crime",
     "published": "Fri, 24 Jul 2026 01:25:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.114437"
+    "fetched_at": "2026-07-24T21:38:49.943183"
   },
   {
-    "id": "c63b1b6cb5d0",
-    "title": "Trump Extends Tariff Base, Measles Cases In US Hit 35-Year High",
-    "title_cn": "特朗普延长关税基数 美国麻疹病例创35年新高",
-    "summary": "Source: Bloomberg, 5:49",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-extends-tariff-base-measles-cases-in-us-hit-35-year-high",
-    "published": "Fri, 24 Jul 2026 17:05:50 GMT",
+    "id": "a6f759c21b10",
+    "title": "BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff",
+    "title_cn": "人工智能债务抛售后，贝莱德债券销售需求疲软",
+    "summary": "BlackRock Inc. has seen weaker-than-usual demand for a corporate bond sale tied to a Meta Platforms Inc. data center project in Texas, as investors grapple with concerns about excessive AI infrastructure spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
+    "published": "Fri, 24 Jul 2026 13:09:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.216624"
+    "fetched_at": "2026-07-24T21:38:50.679767"
   },
   {
-    "id": "50d3f559f810",
-    "title": "Bloomberg Intelligence: Amex Expenses Surge 12% (Podcast)",
-    "title_cn": "Bloomberg Intelligence：美国运通费用飙升 12%（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-intelligence-amex-expenses-surge-12-podcast",
-    "published": "Fri, 24 Jul 2026 16:53:33 GMT",
+    "id": "4c342aa633dd",
+    "title": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+    "title_cn": "2025 年利润减半，维托向交易商支付 59 亿美元",
+    "summary": "Commodity trading giant Vitol Group paid out $5.9 billion to its executives and senior staff through share buybacks last year, even as its profits more than halved to $4.2 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+    "published": "Fri, 24 Jul 2026 20:54:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.309459"
-  },
-  {
-    "id": "d73ddeffa5d3",
-    "title": "How Credit Card Transaction Disputes Became a Consumer Trend: Big Take Podcast",
-    "title_cn": "信用卡交易纠纷如何成为消费趋势：Big Take Podcast",
-    "summary": "<p>On today’s Big Take podcast, what the chargeback trend means for consumers, merchants and banks.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/how-credit-card-transaction-disputes-became-a-consumer-trend-big-take-podcast",
-    "published": "Fri, 24 Jul 2026 16:53:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.407651"
-  },
-  {
-    "id": "1a40a2db7aaf",
-    "title": "Big Take: Transaction Disputes Are New Consumer Trend (Podcast)",
-    "title_cn": "大观点：交易纠纷是新的消费趋势（播客）",
-    "summary": "Source: Bloomberg, 15:35",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/big-take-transaction-disputes-are-new-consumer-trend-podcast",
-    "published": "Fri, 24 Jul 2026 16:51:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.565373"
-  },
-  {
-    "id": "16f776efe28c",
-    "title": "Bloomberg Surveillance TV: July 24th, 2026 (Podcast)",
-    "title_cn": "彭博监控电视：2026 年 7 月 24 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-surveillance-tv-july-24th-2026-podcast",
-    "published": "Fri, 24 Jul 2026 16:17:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.728964"
-  },
-  {
-    "id": "b6df099085a2",
-    "title": "Trump Rebuilds Tariff Wall, US Measles Cases Hit 35-Year High",
-    "title_cn": "特朗普重建关税墙 美国麻疹病例创35年新高",
-    "summary": "Source: Bloomberg, 5:33",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariff-wall-us-measles-cases-hit-35-year-high",
-    "published": "Fri, 24 Jul 2026 16:16:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.807942"
-  },
-  {
-    "id": "ecb8293dc8b8",
-    "title": "Bloomberg Business of Sports: World Cup Boon for Media (Podcast)",
-    "title_cn": "彭博体育商业报道：世界杯为媒体带来福音（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-business-of-sports-world-cup-boon-for-media-podcast",
-    "published": "Fri, 24 Jul 2026 16:14:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:51.911442"
-  },
-  {
-    "id": "9f5486840521",
-    "title": "Global Debt Markets Shudder at Iran War’s Triple Whammy",
-    "title_cn": "全球债务市场因伊朗战争的三重打击而颤抖",
-    "summary": "Get Caught Up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/global-debt-markets-shudder-at-iran-war-s-triple-whammy",
-    "published": "Fri, 24 Jul 2026 16:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:52.071513"
-  },
-  {
-    "id": "f7bf04ed01b8",
-    "title": "Nasdaq 100 Tumbles as Oil Spike, AI Jitters Hit Tech Stocks",
-    "title_cn": "油价飙升，纳斯达克 100 指数暴跌，人工智能恐慌冲击科技股",
-    "summary": "The Nasdaq 100 Index tumbled Friday, capping its first back-to-back weekly loss since late March as it was dragged down by the oil-price spike and a selloff in the tech stocks that once surged on the back of the AI investment boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
-    "published": "Fri, 24 Jul 2026 12:39:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:52.407359"
-  },
-  {
-    "id": "90424dcdd449",
-    "title": "Miner Cadillac, Backers Raise C$385 Million in Canada IPO",
-    "title_cn": "矿业公司凯迪拉克及其支持者在加拿大 IPO 筹集 3.85 亿加元",
-    "summary": "Cadillac Mines Corp. and some of its backers raised C$385 million ($273 million) in an upsized initial public offering, adding to the mining-driven rebound of listing activity in Canada.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/gold-miner-cadillac-backers-raise-c-385-million-in-canada-ipo",
-    "published": "Fri, 24 Jul 2026 13:32:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:52.496474"
-  },
-  {
-    "id": "a24c314b44c9",
-    "title": "Oil Prices Volatile as Supply Disruptions Hit Four Global Fronts",
-    "title_cn": "供应中断袭击全球四大战线，油价波动",
-    "summary": "<p>Brent futures surged past $100 a barrel as the conflict in the Middle East widens and Ukraine strikes Russian infrastructure.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
-    "published": "Fri, 24 Jul 2026 20:15:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:52.658390"
+    "fetched_at": "2026-07-24T21:38:50.840921"
   },
   {
     "id": "37cb520820e3",
@@ -237,7 +227,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 23 Jul 2026 22:06:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:53.463586"
+    "fetched_at": "2026-07-24T21:38:50.998070"
+  },
+  {
+    "id": "f7bf04ed01b8",
+    "title": "Nasdaq 100 Tumbles as Oil Spike, AI Jitters Hit Tech Stocks",
+    "title_cn": "油价上涨、人工智能恐慌冲击科技股，纳斯达克 100 指数暴跌",
+    "summary": "The Nasdaq 100 Index tumbled Friday, capping its first back-to-back weekly loss since late March as it was dragged down by the oil-price spike and a selloff in the tech stocks that once surged on the back of the AI investment boom.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
+    "published": "Fri, 24 Jul 2026 12:39:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:51.143385"
+  },
+  {
+    "id": "f43d06f9dd5f",
+    "title": "Dollar Wraps Its Best Week in a Month as Haven Demand Rises",
+    "title_cn": "随着避险需求上升，美元迎来一个月来最好的一周",
+    "summary": "The dollar finished its best week in a month as investors returned to the traditional haven amid heightened geopolitical tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/dollar-set-for-best-week-in-a-month-as-haven-flows-offer-support",
+    "published": "Fri, 24 Jul 2026 10:12:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:51.309835"
+  },
+  {
+    "id": "90424dcdd449",
+    "title": "Miner Cadillac, Backers Raise C$385 Million in Canada IPO",
+    "title_cn": "矿业公司凯迪拉克及其支持者在加拿大 IPO 筹集 3.85 亿加元",
+    "summary": "Cadillac Mines Corp. and some of its backers raised C$385 million ($273 million) in an upsized initial public offering, adding to the mining-driven rebound of listing activity in Canada.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/gold-miner-cadillac-backers-raise-c-385-million-in-canada-ipo",
+    "published": "Fri, 24 Jul 2026 13:32:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:51.440171"
+  },
+  {
+    "id": "a24c314b44c9",
+    "title": "Oil Prices Volatile as Supply Disruptions Hit Four Global Fronts",
+    "title_cn": "供应中断袭击全球四大战线，油价波动",
+    "summary": "<p>Brent futures surged past $100 a barrel as the conflict in the Middle East widens and Ukraine strikes Russian infrastructure.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
+    "published": "Fri, 24 Jul 2026 20:15:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:51.576842"
   },
   {
     "id": "ae950efbfe63",
@@ -247,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
     "published": "Fri, 24 Jul 2026 20:12:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:53.569916"
+    "fetched_at": "2026-07-24T21:38:51.717816"
   },
   {
     "id": "22bbdc0bc235",
@@ -257,17 +287,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
     "published": "Thu, 23 Jul 2026 22:04:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:53.667758"
+    "fetched_at": "2026-07-24T21:38:51.984061"
   },
   {
     "id": "1afc68d8a324",
     "title": "Yen’s Worst Week Since May Brings It Close to 165 Per Dollar",
-    "title_cn": "日元自 5 月份以来最糟糕的一周使其接近 165 美元兑 1 美元",
+    "title_cn": "日元自 5 月份以来最糟糕的一周使其接近 1 美元兑 165",
     "summary": "The yen is on track for its biggest weekly loss in more than two months, with intervention warnings doing little to deter investors betting on further weakness.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/yen-s-worst-week-since-may-brings-it-close-to-165-versus-dollar",
     "published": "Fri, 24 Jul 2026 00:43:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:53.815504"
+    "fetched_at": "2026-07-24T21:38:52.128789"
   },
   {
     "id": "9eada8a22455",
@@ -277,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/global-bonds-are-reeling-as-oil-surge-renews-inflation-threat",
     "published": "Fri, 24 Jul 2026 04:33:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:53.909431"
+    "fetched_at": "2026-07-24T21:38:52.280034"
   },
   {
     "id": "dc12f66e7bb3",
@@ -287,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-cattle-herd-grows-slightly-in-potential-sign-of-rebuilding",
     "published": "Fri, 24 Jul 2026 19:51:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.016069"
+    "fetched_at": "2026-07-24T21:38:52.412759"
   },
   {
     "id": "251d8c99f0a2",
@@ -297,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/colombia-rations-lng-on-spec-port-shutdown-business-schools-urged-to-go-remote",
     "published": "Fri, 24 Jul 2026 14:52:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.174363"
+    "fetched_at": "2026-07-24T21:38:52.557227"
   },
   {
     "id": "9948441525ea",
@@ -307,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/hedge-funds-turn-most-negative-on-canadian-dollar-since-2024",
     "published": "Fri, 24 Jul 2026 19:47:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.315203"
+    "fetched_at": "2026-07-24T21:38:52.706897"
   },
   {
     "id": "4037bb89d865",
@@ -317,17 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/fitch-upgrades-jane-street-to-high-grade-citing-income-growth",
     "published": "Fri, 24 Jul 2026 19:21:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.425734"
-  },
-  {
-    "id": "a6f759c21b10",
-    "title": "BlackRock Gets Soft Demand for Bond Sale After AI Debt Selloff",
-    "title_cn": "人工智能债务抛售后，贝莱德债券销售需求疲软",
-    "summary": "BlackRock Inc. has seen weak demand for a $12.3 billion high-grade bond sale to fund a Meta Platforms Inc. data center project, as investors grapple with concerns about excessive AI infrastructure spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
-    "published": "Fri, 24 Jul 2026 13:09:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.545960"
+    "fetched_at": "2026-07-24T21:38:52.854910"
   },
   {
     "id": "d7e67330b4b3",
@@ -337,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/oil-to-end-year-near-100-on-mideast-disruptions-rapidan-says",
     "published": "Fri, 24 Jul 2026 19:01:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.633651"
+    "fetched_at": "2026-07-24T21:38:52.982757"
   },
   {
     "id": "52fb16905638",
@@ -347,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/lseg-reviewing-high-grade-flow-data-after-jpmorgan-cited-error",
     "published": "Fri, 24 Jul 2026 18:59:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.739533"
+    "fetched_at": "2026-07-24T21:38:53.116522"
   },
   {
     "id": "ef2ab9f26297",
@@ -357,17 +377,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/pe-founder-ex-gop-candidate-pleads-guilty-to-50-million-fraud",
     "published": "Fri, 24 Jul 2026 16:48:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.822633"
+    "fetched_at": "2026-07-24T21:38:53.254991"
   },
   {
     "id": "bab9420d1a71",
     "title": "Russia’s Top Black Sea Oil Port Halts Loadings Amid Safety Fears",
-    "title_cn": "出于安全担忧，俄罗斯最大的黑海石油港口停止装货",
+    "title_cn": "出于安全担忧，俄罗斯最大的黑海石油港口暂停装货",
     "summary": "The largest Russian oil port in the Black Sea paused tanker loadings over the past several days, amid a surge in Ukrainian drone attacks in the area.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/russia-s-top-black-sea-oil-port-halts-loadings-amid-safety-fears",
     "published": "Fri, 24 Jul 2026 16:14:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:54.913508"
+    "fetched_at": "2026-07-24T21:38:53.412118"
   },
   {
     "id": "24d01ec0a016",
@@ -377,37 +397,37 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/the-real-reason-behind-the-private-credit-insurance-nexus",
     "published": "Fri, 24 Jul 2026 15:55:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:55.003381"
+    "fetched_at": "2026-07-24T21:38:53.572478"
   },
   {
-    "id": "f43d06f9dd5f",
-    "title": "Dollar Heads for Its Best Week in a Month as Haven Demand Rises",
-    "title_cn": "随着避险需求上升，美元迎来一个月来最好的一周",
-    "summary": "The dollar is set for its best week in a month as investors return to the traditional haven amid heightened geopolitical tensions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/dollar-set-for-best-week-in-a-month-as-haven-flows-offer-support",
-    "published": "Fri, 24 Jul 2026 10:12:33 GMT",
+    "id": "47c564e5477c",
+    "title": "Intel’s Rosy Results Still Leave Questions About Customers",
+    "title_cn": "英特尔的乐观业绩仍然留下了有关客户的疑问",
+    "summary": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+    "published": "Thu, 23 Jul 2026 20:01:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:55.231791"
+    "fetched_at": "2026-07-24T21:38:54.448498"
   },
   {
-    "id": "1ae56650201f",
-    "title": "PE-Backed Robotics Firm Brooks Automation Said to Weigh IPO",
-    "title_cn": "PE支持的机器人公司布鲁克斯自动化据说正在考虑首次公开募股",
-    "summary": "Brooks Automation, a robotics and software automation company backed by Thomas H. Lee Partners, is considering an initial public offering, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/pe-backed-robotics-firm-brooks-automation-is-said-to-weigh-ipo",
-    "published": "Fri, 24 Jul 2026 15:04:41 GMT",
+    "id": "8f6ab99f9089",
+    "title": "CFTC Warns Prediction Markets Over Blanket Self-Certifications",
+    "title_cn": "CFTC 警告预测市场不要进行一揽子自我认证",
+    "summary": "The Commodity Futures Trading Commission is tapping the brakes on prediction markets’ practice of “self-certifying” boilerplate contracts that could apply to myriad events.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/cftc-warns-prediction-markets-over-blanket-self-certifications",
+    "published": "Fri, 24 Jul 2026 20:45:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:55.524101"
+    "fetched_at": "2026-07-24T21:38:54.590517"
   },
   {
     "id": "adb6a25646e7",
     "title": "Google Ordered to Defend Robby Starbuck’s AI Defamation Suit",
-    "title_cn": "谷歌被责令为罗比·星巴克的人工智能诽谤诉讼辩护",
+    "title_cn": "谷歌被命令为罗比·星巴克的人工智能诽谤诉讼辩护",
     "summary": "Alphabet Inc.'s Google LLC lost its bid Friday to escape a court case dangling the specter of legal liability for false statements made by an artificial intelligence chatbot.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit",
     "published": "Fri, 24 Jul 2026 16:33:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:55.875869"
+    "fetched_at": "2026-07-24T21:38:54.730427"
   },
   {
     "id": "fd68ffd276bc",
@@ -417,17 +437,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio",
     "published": "Fri, 24 Jul 2026 18:01:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:55.955634"
+    "fetched_at": "2026-07-24T21:38:54.888364"
   },
   {
     "id": "657ed5105271",
     "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-    "title_cn": "摩根士丹利称 SpaceX 股价 100 美元意味着人工智能价值为零",
+    "title_cn": "摩根士丹利表示，SpaceX 的股价为 100 美元将意味着人工智能价值为零",
     "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
     "published": "Fri, 24 Jul 2026 17:48:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.077834"
+    "fetched_at": "2026-07-24T21:38:55.048006"
   },
   {
     "id": "b08b96b64ee5",
@@ -437,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/qualcomm-tells-customers-that-prices-are-going-up-by-double-digits",
     "published": "Fri, 24 Jul 2026 16:10:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.175028"
+    "fetched_at": "2026-07-24T21:38:55.185643"
   },
   {
     "id": "5d242520a39b",
@@ -447,17 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
     "published": "Fri, 24 Jul 2026 17:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.272288"
-  },
-  {
-    "id": "47c564e5477c",
-    "title": "Intel’s Bombshell Results Still Leave Questions About Customers",
-    "title_cn": "英特尔的爆炸性业绩仍然给客户留下了疑问",
-    "summary": "Intel Corp.’s upbeat quarterly report, which handily beat Wall Street estimates, still left a major question: how soon the chipmaker will line up outside customers for its factories.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-    "published": "Thu, 23 Jul 2026 20:01:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.444113"
+    "fetched_at": "2026-07-24T21:38:55.340752"
   },
   {
     "id": "1d77d109f6b2",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
     "published": "Fri, 24 Jul 2026 14:59:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.539232"
+    "fetched_at": "2026-07-24T21:38:55.523593"
   },
   {
     "id": "52d15bd461e8",
@@ -477,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/verizon-beats-on-wireless-internet-revenue-amid-turnaround",
     "published": "Fri, 24 Jul 2026 11:00:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.623829"
+    "fetched_at": "2026-07-24T21:38:55.656222"
   },
   {
     "id": "88f06387d117",
@@ -487,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/ai-startup-midjourney-buys-astrology-app-co-star-and-is-building-its-own-apps",
     "published": "Fri, 24 Jul 2026 14:30:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.719754"
+    "fetched_at": "2026-07-24T21:38:55.810041"
   },
   {
     "id": "ac5d9b68378f",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
     "published": "Fri, 24 Jul 2026 14:05:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.817171"
+    "fetched_at": "2026-07-24T21:38:55.945156"
   },
   {
     "id": "c5de937d0fa1",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-wins-dismissal-of-suit-over-whatsapp-privacy",
     "published": "Fri, 24 Jul 2026 13:55:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.898381"
+    "fetched_at": "2026-07-24T21:38:56.081241"
   },
   {
     "id": "d7d4239bf3b3",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/catl-s-first-half-profit-jumps-42-on-energy-storage-tailwind",
     "published": "Fri, 24 Jul 2026 11:47:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:56.997381"
+    "fetched_at": "2026-07-24T21:38:56.216711"
   },
   {
     "id": "f1cf47cd58ab",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/amd-alphabet-find-good-results-aren-t-good-enough-for-investors",
     "published": "Fri, 24 Jul 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.148238"
+    "fetched_at": "2026-07-24T21:38:56.355751"
   },
   {
     "id": "854f79b3d0ab",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/samsung-sk-hynix-to-ink-large-chip-supply-deals-with-us-firms",
     "published": "Fri, 24 Jul 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.238551"
+    "fetched_at": "2026-07-24T21:38:56.502950"
   },
   {
     "id": "8853c2a36ae3",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/ai-minister-jobs-israel-uk-name-officials-to-compete-with-us-china-in-ai-race",
     "published": "Fri, 24 Jul 2026 10:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.335508"
+    "fetched_at": "2026-07-24T21:38:56.637001"
   },
   {
     "id": "24ebb799f054",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/eu-escalates-tiktok-probe-over-lack-of-teen-privacy-protections",
     "published": "Fri, 24 Jul 2026 10:00:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.433278"
+    "fetched_at": "2026-07-24T21:38:56.782506"
   },
   {
     "id": "2ea3696eb3ed",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/softbank-weighs-deal-for-robotics-startup-gravis",
     "published": "Fri, 24 Jul 2026 08:45:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.528400"
+    "fetched_at": "2026-07-24T21:38:56.916518"
   },
   {
     "id": "23ff9915b2ff",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case",
     "published": "Thu, 23 Jul 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.626741"
+    "fetched_at": "2026-07-24T21:38:57.049959"
   },
   {
     "id": "b1eb97cee1c7",
@@ -587,67 +597,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff",
     "published": "Thu, 23 Jul 2026 20:09:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.729821"
+    "fetched_at": "2026-07-24T21:38:57.203018"
   },
   {
-    "id": "af030aaffb39",
-    "title": "Robotics Startup Genesis in Talks to Raise at $3 Billion Valuation",
-    "title_cn": "机器人初创公司 Genesis 正在洽谈融资 30 亿美元",
-    "summary": "Robotics startup Genesis AI is in talks with investors to raise around $500 million in a new funding round, according to people familiar with the efforts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
-    "published": "Thu, 23 Jul 2026 22:20:13 GMT",
+    "id": "7229938ff3ae",
+    "title": "Michigan’s Whitmer Backs Haley Stevens in Vital Senate Primary",
+    "title_cn": "密歇根州惠特默在至关重要的参议院初选中支持海莉·史蒂文斯",
+    "summary": "Michigan Governor Gretchen Whitmer endorsed Haley Stevens in the state’s Democratic primary for the US Senate, another clear sign the party’s establishment wants the congresswoman on the ballot over progressive Abdul El-Sayed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/michigan-s-whitmer-backs-haley-stevens-in-vital-senate-primary",
+    "published": "Fri, 24 Jul 2026 20:57:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:57.816015"
+    "fetched_at": "2026-07-24T21:38:58.155528"
   },
   {
-    "id": "21f8a2091e5d",
-    "title": "Canada Opens Gordie Howe Bridge Without US After Trump’s 50% Tariff Threat",
-    "title_cn": "特朗普发出 50% 关税威胁后，加拿大在没有美国的情况下开放戈迪豪大桥",
-    "summary": "Canadian officials opened a multibillion-dollar bridge connecting Michigan and Ontario, a 1.5-mile span meant to be a symbol of the unbreakable ties between Canada and the US. Missing from the celebration: Americans.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/canada-opens-gordie-howe-bridge-without-us-after-trump-s-50-tariff-threat",
-    "published": "Fri, 24 Jul 2026 17:33:55 GMT",
+    "id": "53378cae5a72",
+    "title": "Democrats Eye South Carolina as First Primary State in 2028",
+    "title_cn": "民主党将南卡罗来纳州视为 2028 年第一个初选州",
+    "summary": "Top Democratic Party officials are looking to start their party’s 2028 presidential nomination contest in South Carolina, approving a slate of early caucuses and primaries that together may represent the biggest overhaul of their political calendar in decades.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/democrats-eye-south-carolina-as-first-primary-state-in-2028",
+    "published": "Fri, 24 Jul 2026 18:05:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:58.366339"
-  },
-  {
-    "id": "52299a4d7a4a",
-    "title": "Trump’s Power Guru Departs After Pushing Big Grid Changes",
-    "title_cn": "特朗普的电力大师在推动大规模电网变革后离职",
-    "summary": "Peter Lake, senior director of power at the White House’s National Energy Dominance Council, will leave the administration at the end of July.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/white-house-power-czar-departs-as-ai-data-centers-roil-us-market",
-    "published": "Fri, 24 Jul 2026 17:13:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:58.702024"
-  },
-  {
-    "id": "f67619d6f3d0",
-    "title": "Trump Seethes as Iran War Spirals Anew With No End in Sight",
-    "title_cn": "伊朗战争再次升级且看不到尽头，特朗普怒火中烧",
-    "summary": "President Donald Trump has increasingly flashed frustration with the war in Iran, as the conflict that his team once predicted would end in a matter of weeks stretches into its fifth month and fighting intensifies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-seethes-as-iran-war-spirals-anew-with-no-end-in-sight",
-    "published": "Fri, 24 Jul 2026 17:00:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:58.787969"
-  },
-  {
-    "id": "e0a44ad01a0d",
-    "title": "Javier Milei Heads to Brazil to Back Flavio Bolsonaro Against Lula",
-    "title_cn": "哈维尔·米雷前往巴西支持弗拉维奥·博尔索纳罗对抗卢拉",
-    "summary": "Fresh off a corruption firestorm at home that sank his popularity to the lowest level of his presidency, Argentina’s Javier Milei is flying straight into an uproar over bank fraud in Brazil.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/javier-milei-heads-to-brazil-to-back-flavio-bolsonaro-against-lula",
-    "published": "Fri, 24 Jul 2026 11:14:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:58.872294"
-  },
-  {
-    "id": "c3da47dd1a2a",
-    "title": "Brazil Reduces Spending Freeze as Lula Ramps Up Reelection Bid",
-    "title_cn": "卢拉加大竞选连任力度，巴西减少支出冻结",
-    "summary": "Brazil’s government loosened its spending freeze after revising down projections for mandatory expenditures, giving President Luiz Inácio Lula da Silva additional fiscal room less than three months before October’s election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/brazil-reduces-spending-freeze-as-lula-ramps-up-reelection-bid",
-    "published": "Fri, 24 Jul 2026 18:39:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:23:58.955278"
+    "fetched_at": "2026-07-24T21:38:58.312922"
   },
   {
     "id": "6347b1fccb10",
@@ -657,17 +627,77 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-vows-fresh-tariffs-on-european-union-over-google-fine",
     "published": "Fri, 24 Jul 2026 17:13:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:59.043134"
+    "fetched_at": "2026-07-24T21:38:58.456895"
   },
   {
-    "id": "53378cae5a72",
-    "title": "Democrats Eye South Carolina as First Primary State in 2028",
-    "title_cn": "民主党将南卡罗来纳州视为 2028 年第一个初选州",
-    "summary": "Top Democratic Party officials are looking to start their party’s 2028 presidential nomination contest in South Carolina, the first step in what could be the biggest overhaul of the primary calendar in decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/democrats-eye-south-carolina-as-first-primary-state-in-2028",
-    "published": "Fri, 24 Jul 2026 18:05:34 GMT",
+    "id": "f63d63665703",
+    "title": "What to Expect From Congress and Trump Ahead of Midterms",
+    "title_cn": "中期选举前对国会和特朗普有何期待",
+    "summary": "It may not be much, but be prepared anyway.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/what-to-expect-from-congress-and-trump-ahead-of-midterms",
+    "published": "Fri, 24 Jul 2026 20:27:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:59.153914"
+    "fetched_at": "2026-07-24T21:38:58.591026"
+  },
+  {
+    "id": "e27b800f2238",
+    "title": "Hegseth Pushes UK Counterpart to Host Hormuz Summit Next Week",
+    "title_cn": "赫格斯敦促英国同行下周主办霍尔木兹峰会",
+    "summary": "Defense Secretary Pete Hegseth pushed his UK counterpart to host a summit with other nations on protecting maritime traffic in the Strait of Hormuz, as pressure builds on President Donald Trump to reopen a waterway shuttered by the war with Iran.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/hegseth-pushes-uk-counterpart-to-host-hormuz-summit-next-week",
+    "published": "Fri, 24 Jul 2026 20:22:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:58.754137"
+  },
+  {
+    "id": "21f8a2091e5d",
+    "title": "Canada Opens Gordie Howe Bridge Without US After Trump’s 50% Tariff Threat",
+    "title_cn": "特朗普发出 50% 关税威胁后，加拿大在没有美国的情况下开放戈迪豪大桥",
+    "summary": "Canadian officials opened a multibillion-dollar bridge connecting Michigan and Ontario, a 1.5-mile span meant to be a symbol of the unbreakable ties between Canada and the US. Missing from the celebration: Americans.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/canada-opens-gordie-howe-bridge-without-us-after-trump-s-50-tariff-threat",
+    "published": "Fri, 24 Jul 2026 17:33:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:58.883230"
+  },
+  {
+    "id": "52299a4d7a4a",
+    "title": "Trump’s Power Guru Departs After Pushing Big Grid Changes",
+    "title_cn": "特朗普的电力大师在推动大规模电网变革后离职",
+    "summary": "Peter Lake, senior director of power at the White House’s National Energy Dominance Council, will leave the administration at the end of July.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/white-house-power-czar-departs-as-ai-data-centers-roil-us-market",
+    "published": "Fri, 24 Jul 2026 17:13:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:59.039602"
+  },
+  {
+    "id": "f67619d6f3d0",
+    "title": "Trump Seethes as Iran War Spirals Anew With No End in Sight",
+    "title_cn": "伊朗战争再次升级且看不到尽头，特朗普怒火中烧",
+    "summary": "President Donald Trump has increasingly flashed frustration with the war in Iran, as the conflict that his team once predicted would end in a matter of weeks stretches into its fifth month and fighting intensifies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-seethes-as-iran-war-spirals-anew-with-no-end-in-sight",
+    "published": "Fri, 24 Jul 2026 17:00:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:59.179431"
+  },
+  {
+    "id": "e0a44ad01a0d",
+    "title": "Javier Milei Heads to Brazil to Back Flavio Bolsonaro Against Lula",
+    "title_cn": "哈维尔·米雷前往巴西支持弗拉维奥·博尔索纳罗对抗卢拉",
+    "summary": "Fresh off a corruption firestorm at home that sank his popularity to the lowest level of his presidency, Argentina’s Javier Milei is flying straight into an uproar over bank fraud in Brazil.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/javier-milei-heads-to-brazil-to-back-flavio-bolsonaro-against-lula",
+    "published": "Fri, 24 Jul 2026 11:14:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:59.319391"
+  },
+  {
+    "id": "c3da47dd1a2a",
+    "title": "Brazil Reduces Spending Freeze as Lula Ramps Up Reelection Bid",
+    "title_cn": "卢拉加大竞选连任力度，巴西减少支出冻结",
+    "summary": "Brazil’s government loosened its spending freeze after revising down projections for mandatory expenditures, giving President Luiz Inácio Lula da Silva additional fiscal room less than three months before October’s election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/brazil-reduces-spending-freeze-as-lula-ramps-up-reelection-bid",
+    "published": "Fri, 24 Jul 2026 18:39:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T21:38:59.464875"
   },
   {
     "id": "cd829577bae6",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-to-speak-at-rescheduled-white-house-correspondents-dinner",
     "published": "Fri, 24 Jul 2026 18:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:59.241461"
+    "fetched_at": "2026-07-24T21:38:59.628056"
   },
   {
     "id": "56a0baadc4db",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sanctions-guernsey-based-firm-on-cuba-real-estate-investments",
     "published": "Thu, 23 Jul 2026 20:45:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:59.331263"
+    "fetched_at": "2026-07-24T21:38:59.813207"
   },
   {
     "id": "a08b65c4bded",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-to-meet-ukraine-s-zelenskyy-next-week-in-bid-to-end-war",
     "published": "Fri, 24 Jul 2026 14:17:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:23:59.435770"
+    "fetched_at": "2026-07-24T21:38:59.969986"
   },
   {
     "id": "cbb99da23302",
@@ -707,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/russian-missiles-kill-10-at-event-near-kyiv-triggering-probe",
     "published": "Fri, 24 Jul 2026 16:32:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:00.593697"
+    "fetched_at": "2026-07-24T21:39:00.137239"
   },
   {
     "id": "111b6ffde507",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-saudi-nuclear-deal-explained-why-it-raises-security-concerns",
     "published": "Fri, 24 Jul 2026 16:24:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:00.691428"
+    "fetched_at": "2026-07-24T21:39:00.269645"
   },
   {
     "id": "3bebd4f62d23",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-weighs-wider-iranian-attacks-with-new-truce-still-elusive",
     "published": "Fri, 24 Jul 2026 05:23:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:00.794693"
+    "fetched_at": "2026-07-24T21:39:00.472116"
   },
   {
     "id": "30ef45655105",
@@ -737,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-hits-iranian-financier-zanjani-s-network-with-new-sanctions",
     "published": "Fri, 24 Jul 2026 15:28:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:00.904520"
+    "fetched_at": "2026-07-24T21:39:00.641674"
   },
   {
     "id": "4d37c00b570e",
@@ -747,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/brazil-court-opens-probe-into-bolsonaro-ties-to-banco-master-ceo",
     "published": "Thu, 23 Jul 2026 18:09:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:00.999721"
+    "fetched_at": "2026-07-24T21:39:00.803931"
   },
   {
     "id": "5a017b5e8325",
@@ -757,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/la-s-homeless-population-rises-despite-1-billion-annual-budget",
     "published": "Fri, 24 Jul 2026 14:38:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:01.105713"
+    "fetched_at": "2026-07-24T21:39:00.945319"
   },
   {
     "id": "e81b2f3ab7d7",
@@ -767,36 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/modi-s-rivals-launch-new-offensive-after-pellet-gun-allegations",
     "published": "Fri, 24 Jul 2026 14:20:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T20:24:01.196286"
-  },
-  {
-    "id": "0052f2da339e",
-    "title": "Trump Extends 10% Tariff Baseline in Broad Use of Trade Powers",
-    "title_cn": "特朗普扩大 10% 关税基准以广泛使用贸易权力",
-    "summary": "The US extended a 10% tariff baseline hitting most major trading partners, prompting pushback from countries around the world while shoring up a protectionist wall that’s been a top priority for President Donald Trump despite its unpopularity at home.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-extends-10-tariff-baseline-in-broad-use-of-trade-powers",
-    "published": "Fri, 24 Jul 2026 14:16:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:24:01.294091"
-  },
-  {
-    "id": "e274818b645c",
-    "title": "India Moves Against Bitchat App Used in Nepal Gen Z Protests",
-    "title_cn": "印度对尼泊尔 Z 世代抗议中使用的 Bitchat 应用采取行动",
-    "summary": "India has sought to restrict an encrypted peer-to-peer messaging app that gained prominence during Nepal’s 2025 Gen Z protests, according to the app’s co-founder, as New Delhi grapples with its own student protests.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-moves-against-bitchat-app-used-in-nepal-gen-z-protests",
-    "published": "Fri, 24 Jul 2026 14:03:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:24:01.417142"
-  },
-  {
-    "id": "5845649947d7",
-    "title": "Kast Replaces Chile Finance Official Juan Pablo Rodríguez on Positive Drug Test",
-    "title_cn": "卡斯特接替智利财政部长胡安·巴勃罗·罗德里格斯，因药检呈阳性",
-    "summary": "Chile President José Antonio Kast accepted the resignation of Deputy Finance Minister Juan Pablo Rodríguez after a routine drug test returned an initial positive result.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/kast-replaces-chile-finance-official-juan-pablo-rodriguez-on-positive-drug-test",
-    "published": "Fri, 24 Jul 2026 03:52:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T20:24:01.525590"
+    "fetched_at": "2026-07-24T21:39:01.071162"
   }
 ]
