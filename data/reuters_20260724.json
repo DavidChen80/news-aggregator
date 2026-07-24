@@ -1,5 +1,65 @@
 [
   {
+    "id": "5297be13944b",
+    "title": "Trump Rebuilds Tariffs, Tech Selloff Deepens, More",
+    "title_cn": "特朗普重建关税、科技股抛售加剧等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariffs-tech-selloff-deepens-more",
+    "published": "Fri, 24 Jul 2026 06:45:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.269913"
+  },
+  {
+    "id": "7a9dd88fbbc0",
+    "title": "Trump Reboots Global Tariffs, Mag 7 Loses Almost $800B, More",
+    "title_cn": "特朗普重启全球关税，Mag 7 损失近 $800B，更多",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-reboots-global-tariffs-mag-7-loses-almost-800b-more",
+    "published": "Fri, 24 Jul 2026 06:45:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.437041"
+  },
+  {
+    "id": "14daf7bf54a7",
+    "title": "US Hits 60 Economies With Duties as Trump Rebuilds Tariff Wall",
+    "title_cn": "特朗普重建关税墙 美国对 60 个经济体征收关税",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/us-hits-60-economies-with-duties-as-trump-rebuilds-tariff-wall",
+    "published": "Fri, 24 Jul 2026 06:17:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.536983"
+  },
+  {
+    "id": "51e50b297370",
+    "title": "Stock Movers: SoftBank, ICICI, TSMC (Podcast)",
+    "title_cn": "库存推动者：软银、ICICI、台积电（播客）",
+    "summary": "Source: Bloomberg, 4:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-softbank-icici-tsmc-podcast",
+    "published": "Fri, 24 Jul 2026 06:14:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.638646"
+  },
+  {
+    "id": "e49076e4cf26",
+    "title": "Bloomberg Daybreak Europe: Trump Reboots Tariff Agenda (Podcast)",
+    "title_cn": "彭博黎明欧洲：特朗普重启关税议程（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-daybreak-europe-trump-reboots-tariff-agenda-podcast",
+    "published": "Fri, 24 Jul 2026 05:44:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.734109"
+  },
+  {
+    "id": "840a99043dd3",
+    "title": "How Japan’s AI Boom Is Widening Gen Z’s Wealth Divide",
+    "title_cn": "日本的人工智能热潮如何扩大 Z 世代的财富差距",
+    "summary": "Spending habits are changing, while Prime Minister Sanae Takaichi triggers a debate over housework.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/how-japan-s-ai-boom-is-widening-gen-z-s-wealth-divide",
+    "published": "Fri, 24 Jul 2026 04:46:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:15.893899"
+  },
+  {
     "id": "c90c5a6fbd1c",
     "title": "Hungary Aims to Reset International Relationships",
     "title_cn": "匈牙利旨在重置国际关系",
@@ -7,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/hungary-aims-to-reset-international-relationships",
     "published": "Fri, 24 Jul 2026 04:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:40.773530"
+    "fetched_at": "2026-07-24T07:19:16.066416"
   },
   {
     "id": "48baac9ff150",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/china-s-national-team-steps-in-to-provide-a-tech-stock-put",
     "published": "Fri, 24 Jul 2026 04:02:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:41.070518"
+    "fetched_at": "2026-07-24T07:19:16.224006"
   },
   {
     "id": "b9492cc33534",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariffs-with-new-levies-intel-strong-forecast",
     "published": "Fri, 24 Jul 2026 03:20:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:41.737555"
+    "fetched_at": "2026-07-24T07:19:16.391788"
   },
   {
     "id": "406f9f802cf3",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/next-africa-how-usaid-cuts-caused-floods-in-kenya-podcast",
     "published": "Fri, 24 Jul 2026 03:04:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:42.038774"
+    "fetched_at": "2026-07-24T07:19:16.498759"
   },
   {
     "id": "0d613b24807d",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/us-sets-new-forced-labor-tariffs-intel-beats-estimates-more",
     "published": "Fri, 24 Jul 2026 02:56:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:42.738436"
+    "fetched_at": "2026-07-24T07:19:16.596167"
   },
   {
     "id": "c20c295f7c63",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-daybreaak-asia-intel-ai-demand-forecast-podcast-mrybudie",
     "published": "Fri, 24 Jul 2026 02:34:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:43.483435"
+    "fetched_at": "2026-07-24T07:19:16.715204"
   },
   {
     "id": "df7aaddea204",
@@ -67,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-daybreaak-asia-intel-ai-demand-forecast-podcast",
     "published": "Fri, 24 Jul 2026 02:24:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:43.624142"
+    "fetched_at": "2026-07-24T07:19:16.831966"
   },
   {
     "id": "724acaa46417",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-to-impose-forced-labor-duties-intel-strong-results-more",
     "published": "Fri, 24 Jul 2026 02:07:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:44.171688"
+    "fetched_at": "2026-07-24T07:19:16.955101"
   },
   {
     "id": "8cdbaa2d0bef",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/nyc-central-park-stabbings-investigated-as-possible-hate-crime",
     "published": "Fri, 24 Jul 2026 01:25:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:44.344705"
+    "fetched_at": "2026-07-24T07:19:17.241025"
   },
   {
     "id": "88fc6a937746",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/eli-lilly-backed-scribe-raises-128-7-million-in-upsized-ipo",
     "published": "Fri, 24 Jul 2026 01:20:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:44.489555"
+    "fetched_at": "2026-07-24T07:19:17.341001"
   },
   {
     "id": "b2e00a4b267f",
@@ -107,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/asx-cfo-tobin-flags-his-intention-to-retire",
     "published": "Thu, 23 Jul 2026 23:42:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:45.391448"
+    "fetched_at": "2026-07-24T07:19:17.509188"
   },
   {
     "id": "9abab2cfdfd0",
@@ -117,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-rebuilds-tariffs-with-forced-labor-duties-intel-earnings",
     "published": "Fri, 24 Jul 2026 00:47:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:45.529869"
+    "fetched_at": "2026-07-24T07:19:17.611682"
   },
   {
     "id": "ee01f8864d81",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/7-eleven-owner-taps-ex-dr-pepper-executive-to-lead-us-business",
     "published": "Fri, 24 Jul 2026 00:05:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:45.658575"
+    "fetched_at": "2026-07-24T07:19:17.770124"
   },
   {
     "id": "31b0cea25767",
@@ -137,67 +197,147 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/trump-sets-new-forced-labor-duties-intel-strong-forecast-more",
     "published": "Fri, 24 Jul 2026 00:00:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:46.149167"
+    "fetched_at": "2026-07-24T07:19:17.929729"
   },
   {
-    "id": "d30b9989e7d4",
-    "title": "CJP Student Protest Tests Modi's Rising India Vision as Youth Seek Jobs",
-    "title_cn": "CJP 学生抗议考验莫迪在年轻人寻找工作时印度崛起的愿景",
-    "summary": "<p>The economy is failing to absorb a surging number of young unemployed graduates.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-07-24/cjp-student-protest-tests-modi-s-rising-india-vision-as-youth-seek-jobs",
-    "published": "Fri, 24 Jul 2026 00:00:20 GMT",
+    "id": "e76997339c22",
+    "title": "Japan 40-Year Yield Surges as Traders Question BOJ on Inflation",
+    "title_cn": "交易员质疑日本央行通胀问题，日本 40 年期国债收益率飙升",
+    "summary": "Japan’s 40-year government bond yield led gains across maturities, underscoring concerns that the nation’s central bank isn’t tightening policy fast enough to quell inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/japan-s-40-year-yield-rises-10-basis-points-on-inflation-fears",
+    "published": "Fri, 24 Jul 2026 06:14:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:47.234467"
+    "fetched_at": "2026-07-24T07:19:18.281061"
   },
   {
-    "id": "d59475bdc0e8",
-    "title": "Everybody's Business: The Economic Odyssey (Podcast)",
-    "title_cn": "每个人的事：经济奥德赛（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-23/everybody-s-business-the-economic-odyssey-podcast",
-    "published": "Thu, 23 Jul 2026 23:52:58 GMT",
+    "id": "a1e2ef4711a7",
+    "title": "Japan Banks With Shipping Finance Expertise Are Latest to Merge",
+    "title_cn": "拥有航运金融专业知识的日本银行最新合并",
+    "summary": "A proposed merger between Iyogin Holdings Inc. and Ehime Bank Ltd. adds to a series of recent M&amp;A activity between Japanese regional lenders as an aging and shrinking population weighs on their business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/japan-banks-with-shipping-finance-expertise-are-latest-to-merge",
+    "published": "Fri, 24 Jul 2026 07:12:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:47.574551"
+    "fetched_at": "2026-07-24T07:19:18.391083"
   },
   {
-    "id": "a19e18894e04",
-    "title": "Intel Beats, US Sets New Forced-Labor Duties, More",
-    "title_cn": "英特尔击败美国设定新的强迫劳动税等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-23/intel-beats-us-sets-new-forced-labor-duties-more",
-    "published": "Thu, 23 Jul 2026 23:04:45 GMT",
+    "id": "fd890255b653",
+    "title": "India’s Biggest IPO of 2026 Briefly Dips Below Offer Price",
+    "title_cn": "印度 2026 年最大规模 IPO 短暂跌破发行价",
+    "summary": "SBI Funds Management Ltd.’s shares briefly fell below their offer price just four days after their trading debut, signaling weak secondary-market demand for the nation’s largest asset manager.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-s-biggest-ipo-of-2026-briefly-dips-below-offer-price",
+    "published": "Fri, 24 Jul 2026 06:57:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:47.979300"
+    "fetched_at": "2026-07-24T07:19:18.499540"
   },
   {
-    "id": "3d4d9657feff",
-    "title": "New Trump Tariffs, Jobs Surprise, Macquarie’s Next CEO",
-    "title_cn": "特朗普新关税、就业惊喜、麦格理的下一任首席执行官",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/new-trump-tariffs-jobs-surprise-macquarie-s-next-ceo",
-    "published": "Thu, 23 Jul 2026 22:56:38 GMT",
+    "id": "505750c8a444",
+    "title": "Japanese Shoppers Are Driving Up Jewelry Sales to a Record",
+    "title_cn": "日本购物者将珠宝销量推向创纪录水平",
+    "summary": "Japanese shoppers are driving up luxury jewelry sales to a record as consumers seek a safe haven from inflation and the weakening yen.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/japanese-shoppers-are-driving-up-jewelry-sales-to-a-record",
+    "published": "Fri, 24 Jul 2026 06:51:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:48.261591"
+    "fetched_at": "2026-07-24T07:19:18.651280"
   },
   {
-    "id": "a8aee945b151",
-    "title": "Intel Soars, Trump Unveils New Tariff Plans, More",
-    "title_cn": "英特尔飙升，特朗普公布新关税计划等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-23/intel-soars-trump-unveils-new-tariff-plans-more",
-    "published": "Thu, 23 Jul 2026 22:03:09 GMT",
+    "id": "243cd0ad1f55",
+    "title": "Modi Seeks to Calm Anger as India Student Protests Widen",
+    "title_cn": "印度学生抗议活动扩大，莫迪寻求平息愤怒",
+    "summary": "Indian Prime Minister Narendra Modi made a fresh bid to calm mounting anger over examination paper leaks as students began nationwide protests on Friday, with demands growing for the education minister to step down.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/modi-seeks-to-calm-anger-in-rare-video-as-india-protests-widen",
+    "published": "Fri, 24 Jul 2026 01:01:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:49.150677"
+    "fetched_at": "2026-07-24T07:19:18.749273"
   },
   {
-    "id": "4acd2026912e",
-    "title": "Why Nvidia’s Huang Pledged $75 Million to Fund Vanderbilt in San Francisco",
-    "title_cn": "为什么 Nvidia 的黄仁勋承诺提供 7500 万美元资助旧金山的范德比尔特大学",
-    "summary": "More than just philanthropy, Huang’s donation is part of broader debate over what universities should teach as AI reshapes the labor market.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/why-nvidia-s-huang-pledged-75-million-to-fund-vanderbilt-in-san-francisco",
-    "published": "Thu, 23 Jul 2026 21:45:01 GMT",
+    "id": "e99094b6534a",
+    "title": "China Rushes to Buy East Russian Oil as Mideast Risks Grow",
+    "title_cn": "中东风险加剧，中国争相购买东俄石油",
+    "summary": "Chinese buyers are snapping up Russia’s flagship ESPO crude weeks earlier than usual, as heightened risks to Middle East oil flows prompt refiners to secure supplies before they’re needed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-rushes-to-buy-east-russian-oil-as-middle-east-risks-grow",
+    "published": "Fri, 24 Jul 2026 05:19:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:49.502594"
+    "fetched_at": "2026-07-24T07:19:18.859049"
+  },
+  {
+    "id": "bdfd75ed331b",
+    "title": "Indonesia Seeks to Revive Cocoa Output After Years of Decline",
+    "title_cn": "印度尼西亚寻求在多年下降后重振可可产量",
+    "summary": "Once the world’s third-largest cocoa producer, Indonesia is seeking to revive cocoa production after years of underinvestment, aging trees and pests left the industry short of beans and increasingly dependent on imports.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/indonesia-seeks-to-revive-cocoa-output-after-years-of-decline",
+    "published": "Fri, 24 Jul 2026 06:47:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.013141"
+  },
+  {
+    "id": "9eada8a22455",
+    "title": "Global Bonds Are Reeling as Oil Surge Renews Inflation Threat",
+    "title_cn": "石油价格飙升再次引发通胀威胁，全球债券陷入困境",
+    "summary": "Global bonds are being pummeled by the latest resurgence in energy prices, delivering losses to investors who bet the worst of this year’s rout was over and teeing up credibility tests for central bankers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/global-bonds-are-reeling-as-oil-surge-renews-inflation-threat",
+    "published": "Fri, 24 Jul 2026 04:33:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.129953"
+  },
+  {
+    "id": "4077aa91b36a",
+    "title": "Dangote Prefers London Over Dubai for Listing of Cement Unit",
+    "title_cn": "丹格特更青睐伦敦而非迪拜的水泥股上市",
+    "summary": "Dangote Cement Plc prefers to list its cement business in London because it will be quicker to sell shares on the exchange in the UK than in Dubai, according to Mariya Dangote, a board member in the cement business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/dangote-prefers-london-over-dubai-for-listing-of-cement-unit",
+    "published": "Fri, 24 Jul 2026 04:50:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.234894"
+  },
+  {
+    "id": "37cb520820e3",
+    "title": "Stock Slide Extends on AI Jitters, Oil Near $100: Markets Wrap",
+    "title_cn": "人工智能恐慌导致股市下滑，油价接近 100 美元：市场总结",
+    "summary": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 23 Jul 2026 22:06:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.405426"
+  },
+  {
+    "id": "20121d3c6e14",
+    "title": "Tanker Exits Red Sea Dark as Another China Ship Heads to Strait",
+    "title_cn": "油轮驶出红海黑暗，另一艘中国船只驶向海峡",
+    "summary": "A Greek tanker carrying Saudi crude exited the Red Sea with its transponder off, while another Chinese vessel headed toward Bab el-Mandeb as Houthi attacks heightened risks for commercial shipping.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/tanker-exits-red-sea-dark-as-another-china-ship-heads-to-strait",
+    "published": "Fri, 24 Jul 2026 06:01:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.576627"
+  },
+  {
+    "id": "d9ac8adb72df",
+    "title": "FTSE 100 Live: UK Stocks Fall as Oil Stocks Drag",
+    "title_cn": "富时 100 指数实时：英国股市因石油股拖累而下跌",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-07-24/ftse-100-live-pound-uk-retail-sales-pmi-data-trump-tariffs-iran-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
+    "published": "Fri, 24 Jul 2026 05:51:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.672811"
+  },
+  {
+    "id": "ca0a01c8bb9b",
+    "title": "Overseas Buyers In Hot Pursuit of US Crude as Wars Escalate",
+    "title_cn": "随着战争升级，海外买家热捧美国原油",
+    "summary": "US crude is drawing overseas interest from Asian and European refiners as supply concerns spread from the Middle East to the Black Sea.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/overseas-buyers-in-hot-pursuit-of-us-crude-as-wars-escalate",
+    "published": "Thu, 23 Jul 2026 21:17:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.878858"
+  },
+  {
+    "id": "9aa64c922f3a",
+    "title": "UK Pub Stocks Fall as Heat Wave Proves Too Hot For Football Fans",
+    "title_cn": "由于热浪对足球迷来说太热，英国酒吧库存下跌",
+    "summary": "UK pub stocks slumped this week as a sales boost from the World Cup failed to offset the drag from a brutal heat wave and higher costs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/uk-pub-stocks-fall-as-heat-wave-proves-too-hot-for-football-fans",
+    "published": "Fri, 24 Jul 2026 05:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:19.975076"
   },
   {
     "id": "22bbdc0bc235",
@@ -207,17 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
     "published": "Thu, 23 Jul 2026 22:04:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:50.319886"
-  },
-  {
-    "id": "37cb520820e3",
-    "title": "Stock Slide Extends on AI Jitters, Oil Above $100: Markets Wrap",
-    "title_cn": "人工智能恐慌导致股市下滑，油价突破 100 美元：市场总结",
-    "summary": "A global selloff in technology stocks gained momentum as doubts over returns from billions of dollars spent on artificial intelligence were compounded by a surge in oil prices that rekindled inflation concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 23 Jul 2026 22:06:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:50.456772"
+    "fetched_at": "2026-07-24T07:19:20.132155"
   },
   {
     "id": "110270ecd876",
@@ -227,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/japan-s-katayama-says-to-take-bold-fx-steps-decisively-as-needed",
     "published": "Fri, 24 Jul 2026 01:31:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:50.597130"
+    "fetched_at": "2026-07-24T07:19:20.238369"
   },
   {
     "id": "403532a28a96",
@@ -237,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/gold-holds-decline-as-surging-energy-costs-raise-rate-hike-bets",
     "published": "Thu, 23 Jul 2026 23:37:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:50.754566"
+    "fetched_at": "2026-07-24T07:19:20.350952"
   },
   {
     "id": "05b50c91626d",
@@ -247,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/pboc-adds-most-liquidity-to-economy-in-five-months-to-aid-growth",
     "published": "Fri, 24 Jul 2026 00:55:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:51.148734"
+    "fetched_at": "2026-07-24T07:19:20.458329"
   },
   {
     "id": "076a9466898d",
@@ -257,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/korean-stocks-sink-as-chipmakers-drop-on-middle-east-china-ipo",
     "published": "Fri, 24 Jul 2026 03:27:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:51.296042"
+    "fetched_at": "2026-07-24T07:19:20.629679"
   },
   {
     "id": "be63cfd53455",
@@ -267,137 +397,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/metals-fluctuate-as-middle-east-escalation-keep-bulls-in-check",
     "published": "Fri, 24 Jul 2026 03:27:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:51.416302"
+    "fetched_at": "2026-07-24T07:19:20.812663"
   },
   {
-    "id": "b6431e200539",
-    "title": "India’s Markets Shrug Off Student Protests for Now",
-    "title_cn": "印度市场目前对学生抗议不屑一顾",
-    "summary": "Student protests in India’s capital, a political headache for Prime Minister Narendra Modi, aren’t reflecting in the country’s financial markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/india-s-markets-shrug-off-student-protests-for-now",
-    "published": "Fri, 24 Jul 2026 03:22:49 GMT",
+    "id": "e4b1368daf52",
+    "title": "Tech Stocks Face Investor Skepticism as Rally Stalls and Profit Estimates Rise",
+    "title_cn": "随着涨势停滞和盈利预期上升，科技股面临投资者的怀疑",
+    "summary": "The earnings season is confirming worries that the technology rally had gone too far, with investors now harder to please and reluctant to buy into rising profit estimates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/tech-names-find-investors-much-harder-to-please-taking-stock",
+    "published": "Fri, 24 Jul 2026 06:11:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:51.529463"
+    "fetched_at": "2026-07-24T07:19:21.195219"
   },
   {
-    "id": "e2ab866e73d6",
-    "title": "India May Allow Portfolio Managers to Short Sell Stocks",
-    "title_cn": "印度可能允许投资组合经理卖空股票",
-    "summary": "India’s securities regulator has proposed allowing domestic portfolio management service providers to take short positions in equity derivatives for the first time, easing rules for professional money managers even as it tightens oversight of retail trading.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/india-may-allow-portfolio-managers-to-take-unhedged-short-bets",
-    "published": "Thu, 23 Jul 2026 11:35:09 GMT",
+    "id": "23ff9915b2ff",
+    "title": "SK Hynix Tycoon Ordered to Pay $643 Million Divorce Settlement",
+    "title_cn": "SK 海力士大亨被判支付 6.43 亿美元离婚和解金",
+    "summary": "SK Hynix Inc. billionaire Chey Tae-won, whose fortune has been supercharged by the AI boom, was ordered to pay his former wife 944 billion won ($643 million) as a divorce settlement in a fresh court ruling that brings the acrimonious dispute closer to an end.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case",
+    "published": "Thu, 23 Jul 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:51.676598"
-  },
-  {
-    "id": "84659c54ceb7",
-    "title": "Wheat Extends July Rally as War Risks Stoke Fears Over Supply",
-    "title_cn": "战争风险引发供应担忧，小麦延续七月涨势",
-    "summary": "Wheat resumed its rally after a brief bout of profit-taking, as escalating geopolitical tensions and worsening weather in key producing regions continued to stoke supply concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/wheat-extends-july-rally-as-war-risks-stoke-fears-over-supply",
-    "published": "Fri, 24 Jul 2026 03:00:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:52.288989"
-  },
-  {
-    "id": "553b822e2ad4",
-    "title": "PHP/USD: Philippine Peso Falls to Fresh Record Low as Oil Advances",
-    "title_cn": "PHP/美元：随着石油价格上涨，菲律宾比索跌至历史新低",
-    "summary": "The Philippine peso fell to a fresh record low as oil prices climbed, boosting pressure on the central bank to intervene as markets eye 62 as the next key level.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/php-usd-philippine-peso-falls-to-fresh-record-low-as-oil-advances",
-    "published": "Fri, 24 Jul 2026 01:04:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:52.431888"
-  },
-  {
-    "id": "6151b95c50ab",
-    "title": "Malaysia Sells First Dollar Bonds in Five Years as Fuel Subsidy Bill Rises",
-    "title_cn": "随着燃料补贴法案的上涨，马来西亚五年来首次发行美元债券",
-    "summary": "Malaysia raised $1.5 billion in its first dollar bond sale in five years, bolstering funding as the Southeast Asian nation grapples with a fuel subsidy bill that’s likely to more than double from an initial goal due to the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/malaysia-sells-first-dollar-bonds-in-five-years-as-fuel-subsidy-bill-rises",
-    "published": "Fri, 24 Jul 2026 02:37:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:52.588727"
-  },
-  {
-    "id": "81560e51e25a",
-    "title": "India’s SEBI Mulls Letting Portfolio Managers Invest Clients’ Money Overseas",
-    "title_cn": "印度 SEBI 考虑让投资组合经理将客户资金投资海外",
-    "summary": "SEBI proposes allowing investment in overseas securities and IPO-bound firms, among others.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/india-s-sebi-mulls-letting-portfolio-managers-invest-clients-money-overseas",
-    "published": "Fri, 24 Jul 2026 02:37:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:52.757009"
-  },
-  {
-    "id": "9143594c7f05",
-    "title": "CXMT’s Frenzy Ignites Hopes of Futher Hardware Rally in China",
-    "title_cn": "长鑫存储的疯狂点燃了中国硬件进一步上涨的希望",
-    "summary": "Investors are looking to Monday’s trading debut of CXMT Corp. to help renew a rally in Chinese semiconductor stocks that has been on pause ahead of the memory giant’s initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/cxmt-s-frenzy-ignites-hopes-of-futher-hardware-rally-in-china",
-    "published": "Thu, 23 Jul 2026 23:45:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:52.898894"
-  },
-  {
-    "id": "24a4cf50e1d1",
-    "title": "Manipal Health Seeks to Raise Up to $960 Million in India IPO",
-    "title_cn": "Manipal Health 寻求在印度 IPO 筹集至多 9.6 亿美元",
-    "summary": "Manipal Health Enterprises Ltd. is seeking to raise as much as 92.7 billion rupees ($960 million) in an initial public offering, continuing a run of sizable share sales in India.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/manipal-health-seeks-to-raise-up-to-960-million-in-india-ipo",
-    "published": "Fri, 24 Jul 2026 02:13:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.057477"
-  },
-  {
-    "id": "cc3d03fecefb",
-    "title": "China’s Gold Imports Surge After International Prices Slump",
-    "title_cn": "国际金价暴跌后中国黄金进口激增",
-    "summary": "Chinese gold imports rose to a two-year high in June, underscoring resilient demand in the world’s biggest bullion market after a plunge in international prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-s-gold-imports-surge-after-international-prices-slump",
-    "published": "Fri, 24 Jul 2026 02:04:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.194589"
-  },
-  {
-    "id": "62bb037e856b",
-    "title": "Chinese Stock Turnover Shrinks as Sentiment Cools on Tech Sector",
-    "title_cn": "随着科技行业情绪降温，中国股市成交量萎缩",
-    "summary": "Chinese daily stock turnover dropped to the lowest level in over three months, as investors shun the nation’s technology sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/chinese-stock-turnover-shrinks-as-sentiment-cools-on-tech-sector",
-    "published": "Fri, 24 Jul 2026 02:00:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.324752"
-  },
-  {
-    "id": "cbb0e6afdb72",
-    "title": "Trump to Take Up Manila’s Concerns With Xi, Philippines Says",
-    "title_cn": "菲律宾称特朗普将向习近平表达马尼拉的担忧",
-    "summary": "US President Donald Trump assured Philippine leader Ferdinand Marcos Jr. that he would take up Manila’s concerns when he meets with Chinese President Xi Jinping, the Southeast Asian nation said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-to-take-up-manila-s-concerns-with-xi-philippines-says",
-    "published": "Fri, 24 Jul 2026 01:22:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.475775"
-  },
-  {
-    "id": "5c75dfd39e59",
-    "title": "Macquarie’s First Woman CEO Departs With a $339 Million Stake",
-    "title_cn": "麦格理首位女性首席执行官携 3.39 亿美元股份离职",
-    "summary": "Shemara Wikramanayake is stepping down as head of Macquarie Group Ltd. after leading the Australian financial conglomerate to bumper profits and a record high share price. For that she will be richly rewarded, making her one of the best-paid female bank executives in the world.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/macquarie-s-first-woman-ceo-departs-with-a-339-million-stake",
-    "published": "Fri, 24 Jul 2026 01:04:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.608995"
-  },
-  {
-    "id": "243cd0ad1f55",
-    "title": "Modi Seeks to Calm Anger in Rare Video as India Protests Widen",
-    "title_cn": "印度抗议活动扩大，莫迪在罕见视频中寻求平息愤怒",
-    "summary": "Indian Prime Minister Narendra Modi made a fresh bid to calm mounting anger over examination paper leaks as students prepared nationwide protests on Friday, with demands growing for the education minister to step down.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/modi-seeks-to-calm-anger-in-rare-video-as-india-protests-widen",
-    "published": "Fri, 24 Jul 2026 01:01:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:53.747698"
+    "fetched_at": "2026-07-24T07:19:21.349194"
   },
   {
     "id": "95e60fd95c54",
@@ -407,17 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/infosys-cuts-revenue-forecast-as-it-service-demand-remains-muted",
     "published": "Thu, 23 Jul 2026 11:09:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:54.357885"
-  },
-  {
-    "id": "23ff9915b2ff",
-    "title": "SK Hynix Billionaire to Get Long-Awaited Divorce Case Ruling",
-    "title_cn": "SK海力士亿万富翁将获得期待已久的离婚案裁决",
-    "summary": "SK Hynix Inc. billionaire Chey Tae-won, whose fortune has been supercharged by the AI-boom, is set to receive a fresh court ruling in his long-running divorce battle with his former wife, bringing the acrimonious dispute closer to an end.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/sk-hynix-billionaire-to-get-long-awaited-ruling-on-divorce-case",
-    "published": "Thu, 23 Jul 2026 21:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:54.484698"
+    "fetched_at": "2026-07-24T07:19:21.465821"
   },
   {
     "id": "e71af8c2b6dc",
@@ -427,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-to-produce-ukraine-s-magura-sea-drones-for-the-first-time",
     "published": "Thu, 23 Jul 2026 17:32:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:54.643853"
+    "fetched_at": "2026-07-24T07:19:21.583279"
   },
   {
     "id": "08b7a9573946",
@@ -437,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/sk-hynix-samsung-and-kioxia-face-pivotal-earnings-test-on-ai-swings",
     "published": "Fri, 24 Jul 2026 01:18:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:54.788404"
+    "fetched_at": "2026-07-24T07:19:21.751221"
   },
   {
     "id": "b3afaf34a142",
@@ -447,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/top-environmental-fund-sees-japan-key-to-ai-energy-challenge",
     "published": "Fri, 24 Jul 2026 00:04:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:54.932525"
+    "fetched_at": "2026-07-24T07:19:21.845266"
   },
   {
     "id": "47c564e5477c",
@@ -457,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
     "published": "Thu, 23 Jul 2026 20:01:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.090147"
+    "fetched_at": "2026-07-24T07:19:21.937619"
   },
   {
     "id": "af030aaffb39",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/robotics-startup-genesis-in-talks-to-raise-about-500-million",
     "published": "Thu, 23 Jul 2026 22:20:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.242574"
+    "fetched_at": "2026-07-24T07:19:22.047483"
   },
   {
     "id": "fe337c1c5bfe",
@@ -477,17 +487,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
     "published": "Thu, 23 Jul 2026 21:27:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.389376"
+    "fetched_at": "2026-07-24T07:19:22.158123"
   },
   {
     "id": "3c0dbbca9e4b",
     "title": "Tech Bonds Hit by Selloff as AI Debt Fears Race Through Markets",
-    "title_cn": "由于对人工智能债务的担忧席卷市场，科技债券遭受抛售",
+    "title_cn": "由于人工智能债务担忧席卷市场，科技债券遭受抛售",
     "summary": "The bonds of some of the biggest US tech companies slid Thursday amid renewed worries about the scale of the debt-fueled artificial-intelligence boom and escalating conflict in the Middle East.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/tech-bonds-hit-by-selloff-as-ai-debt-fears-race-through-markets",
     "published": "Thu, 23 Jul 2026 20:48:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.526626"
+    "fetched_at": "2026-07-24T07:19:22.254184"
   },
   {
     "id": "44e2599e2ca6",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-22/amazon-investigated-over-chinese-influence-by-us-senate-panel",
     "published": "Wed, 22 Jul 2026 22:48:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.664190"
+    "fetched_at": "2026-07-24T07:19:22.438436"
   },
   {
     "id": "42ba14e42a0c",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight",
     "published": "Thu, 23 Jul 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.798481"
+    "fetched_at": "2026-07-24T07:19:22.572989"
   },
   {
     "id": "b1eb97cee1c7",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/sap-cloud-revenue-beats-estimates-as-legacy-support-nears-cutoff",
     "published": "Thu, 23 Jul 2026 20:09:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:55.943552"
+    "fetched_at": "2026-07-24T07:19:22.695038"
   },
   {
     "id": "e2551c4578d5",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
     "published": "Thu, 23 Jul 2026 19:53:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.091310"
+    "fetched_at": "2026-07-24T07:19:22.810113"
   },
   {
     "id": "0d8a70ee9dd3",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-expands-ai-data-center-pledge-in-bid-to-ease-power-costs",
     "published": "Thu, 23 Jul 2026 19:07:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.237286"
+    "fetched_at": "2026-07-24T07:19:22.915258"
   },
   {
     "id": "a6bb228c9943",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/a-group-of-industry-powerbrokers-are-unveiling-a-new-definition-of-podcast",
     "published": "Thu, 23 Jul 2026 18:09:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.371062"
+    "fetched_at": "2026-07-24T07:19:23.006243"
   },
   {
     "id": "8ab9c5995e0e",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity",
     "published": "Thu, 23 Jul 2026 16:56:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.511082"
+    "fetched_at": "2026-07-24T07:19:23.099859"
   },
   {
     "id": "471018c9666c",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/intel-needs-more-than-blowout-earnings-as-chips-rally-falters",
     "published": "Thu, 23 Jul 2026 08:35:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.640575"
+    "fetched_at": "2026-07-24T07:19:23.207517"
   },
   {
     "id": "382405d432d0",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches",
     "published": "Thu, 23 Jul 2026 10:01:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.793112"
+    "fetched_at": "2026-07-24T07:19:23.368085"
   },
   {
     "id": "7a5db383cd32",
@@ -587,17 +597,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/drone-navigation-companies-seek-new-ways-past-warzone-jamming",
     "published": "Thu, 23 Jul 2026 15:31:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:56.941491"
+    "fetched_at": "2026-07-24T07:19:23.467541"
   },
   {
-    "id": "91b0c24b37d3",
-    "title": "Khosla Ventures in Talks to Raise $5.5 Billion in New Funds",
-    "title_cn": "Khosla Ventures 正在洽谈筹集 55 亿美元新资金",
-    "summary": "Early OpenAI backer Khosla Ventures is discussing raising as much as $5.5 billion for its latest set of venture investment funds, a haul that would amount to its largest fundraising event in its two-decade history, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds",
-    "published": "Thu, 23 Jul 2026 01:10:37 GMT",
+    "id": "d30b9989e7d4",
+    "title": "CJP Student Protest Tests Modi's Rising India Vision as Youth Seek Jobs",
+    "title_cn": "CJP 学生抗议考验莫迪在年轻人寻找工作时印度崛起的愿景",
+    "summary": "<p>The economy is failing to absorb a surging number of young unemployed graduates.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-07-24/cjp-student-protest-tests-modi-s-rising-india-vision-as-youth-seek-jobs",
+    "published": "Fri, 24 Jul 2026 00:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:57.092837"
+    "fetched_at": "2026-07-24T07:19:23.817721"
+  },
+  {
+    "id": "c6d6f974c4a1",
+    "title": "Lawmakers Worry Trump’s Team Isn’t Closing China Chip Curbs Gap They Created",
+    "title_cn": "立法者担心特朗普团队没有缩小他们造成的中国芯片限制差距",
+    "summary": "US lawmakers are pressing President Donald Trump’s team to close a loophole they say the administration created in China tech restrictions, but which a key agency denies exists — an example of the persistent confusion surrounding Washington’s efforts to limit China’s AI prowess.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-23/lawmakers-worry-trump-s-team-isn-t-closing-china-chip-curbs-gap-they-created",
+    "published": "Thu, 23 Jul 2026 10:15:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:23.959226"
+  },
+  {
+    "id": "3bebd4f62d23",
+    "title": "Trump Weighs Wider Iranian Attacks With New Truce Still Elusive",
+    "title_cn": "特朗普权衡伊朗更广泛的袭击，新的休战协议仍难以实现",
+    "summary": "President Donald Trump said he’s considering a “massive attack” on Iran to push the nation to negotiate a peace deal, raising the prospect of even higher energy prices that have already rattled economies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/trump-weighs-wider-iranian-attacks-with-new-truce-still-elusive",
+    "published": "Fri, 24 Jul 2026 05:23:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:24.076271"
+  },
+  {
+    "id": "1d9c38e6d4dd",
+    "title": "Three Clashes in a Week Escalate China-Philippines Sea Feud",
+    "title_cn": "一周三场冲突 中菲海上恩怨升级",
+    "summary": "The Philippines and China reported their third clash in the South China Sea this week that further heightened tensions, as the US flexed its presence in disputed waters.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-coast-guard-reports-third-clash-with-philippines-this-week",
+    "published": "Fri, 24 Jul 2026 02:03:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:24.362185"
+  },
+  {
+    "id": "1ac903e93d88",
+    "title": "China Seeks Clarity From US on AI Talks as Sanction Threats Loom",
+    "title_cn": "制裁威胁迫在眉睫，中国寻求美国就人工智能谈判澄清",
+    "summary": "Chinese officials are seeking clarity from Washington on what the US expects from upcoming artificial intelligence talks, according to people familiar with the matter, as the Trump administration escalates pressure on China’s fast-rising AI sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-seeks-clarity-from-us-on-ai-talks-as-sanction-threats-loom",
+    "published": "Fri, 24 Jul 2026 04:21:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:24.461143"
   },
   {
     "id": "92eed86d43ab",
@@ -607,7 +657,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/cambodia-s-leader-pledges-more-to-tackle-evolving-scam-networks",
     "published": "Thu, 23 Jul 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:57.740431"
+    "fetched_at": "2026-07-24T07:19:24.849185"
+  },
+  {
+    "id": "49e41b848e10",
+    "title": "Bangladesh President Shahabuddin to Resign Citing Health Reason",
+    "title_cn": "孟加拉国总统沙哈布丁因健康原因辞职",
+    "summary": "Bangladesh’s President Mohammed Shahabuddin, a long time ally of ousted Prime Minister Sheikh Hasina, will be resigning on health grounds later on Friday, according to his spokesman.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-24/bangladesh-president-shahabuddin-to-resign-citing-health-reason",
+    "published": "Fri, 24 Jul 2026 04:15:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-24T07:19:24.952255"
   },
   {
     "id": "5845649947d7",
@@ -617,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/kast-replaces-chile-finance-official-juan-pablo-rodriguez-on-positive-drug-test",
     "published": "Fri, 24 Jul 2026 03:52:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:57.874133"
+    "fetched_at": "2026-07-24T07:19:25.051978"
   },
   {
     "id": "310e01779800",
@@ -627,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sets-new-forced-labor-duties-as-trump-resurrects-tariff-wall",
     "published": "Thu, 23 Jul 2026 20:58:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.020670"
+    "fetched_at": "2026-07-24T07:19:25.144958"
   },
   {
     "id": "1580580d5f8d",
@@ -637,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-says-he-ll-hold-iran-responsible-for-future-houthi-strikes",
     "published": "Thu, 23 Jul 2026 12:25:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.172335"
+    "fetched_at": "2026-07-24T07:19:25.258120"
   },
   {
     "id": "1e848ae7c4e1",
@@ -647,17 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/australia-to-spend-another-3-2-billion-to-set-up-aukus-shipyard",
     "published": "Fri, 24 Jul 2026 00:44:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.343710"
-  },
-  {
-    "id": "1d9c38e6d4dd",
-    "title": "China Coast Guard Reports Third Clash With Philippines This Week",
-    "title_cn": "中国海警报告本周与菲律宾发生第三次冲突",
-    "summary": "China’s Coast Guard clashed with the Philippines for a third time this week in the South China Sea, as tensions in the disputed waters escalate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/china-coast-guard-reports-third-clash-with-philippines-this-week",
-    "published": "Fri, 24 Jul 2026 02:03:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.488323"
+    "fetched_at": "2026-07-24T07:19:25.596285"
   },
   {
     "id": "177a43606575",
@@ -667,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/trump-says-us-to-use-iranian-funds-to-pay-for-damage-to-ships",
     "published": "Thu, 23 Jul 2026 22:14:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.676119"
+    "fetched_at": "2026-07-24T07:19:25.691878"
   },
   {
     "id": "1cc10480ae29",
@@ -677,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/un-chief-candidates-make-case-for-restoring-world-body-s-stature",
     "published": "Thu, 23 Jul 2026 22:36:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.818170"
+    "fetched_at": "2026-07-24T07:19:25.847441"
   },
   {
     "id": "4d37c00b570e",
@@ -687,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/brazil-court-opens-probe-into-bolsonaro-ties-to-banco-master-ceo",
     "published": "Thu, 23 Jul 2026 18:09:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:58.949933"
+    "fetched_at": "2026-07-24T07:19:26.013053"
   },
   {
     "id": "1166fd56d124",
@@ -697,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sees-haiti-in-turmoil-ahead-of-potential-deportations-of-tps-holders",
     "published": "Thu, 23 Jul 2026 13:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.109499"
+    "fetched_at": "2026-07-24T07:19:26.121314"
   },
   {
     "id": "510b56643f37",
@@ -707,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/burnham-strengthens-no-10-control-on-uk-economy-in-power-shift",
     "published": "Thu, 23 Jul 2026 14:47:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.255315"
+    "fetched_at": "2026-07-24T07:19:26.232392"
   },
   {
     "id": "82050d2d54e2",
@@ -717,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/burnham-signals-devolution-intent-with-northern-number-10-office",
     "published": "Thu, 23 Jul 2026 21:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.384747"
+    "fetched_at": "2026-07-24T07:19:26.333039"
   },
   {
     "id": "cc92660136ea",
@@ -727,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/justice-department-drops-subpoenas-to-new-york-times-reporters",
     "published": "Thu, 23 Jul 2026 19:29:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.530627"
+    "fetched_at": "2026-07-24T07:19:26.459702"
   },
   {
     "id": "083aa583053f",
@@ -737,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sanctions-mexican-cartel-leader-in-sweeping-drug-crackdown",
     "published": "Thu, 23 Jul 2026 21:08:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.664239"
+    "fetched_at": "2026-07-24T07:19:26.552976"
   },
   {
     "id": "67eca01a319d",
@@ -747,56 +797,6 @@
     "link": "https://www.bloomberg.com/graphics/2026-usaid-water-projects-trump-cuts/",
     "published": "Thu, 23 Jul 2026 21:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.829322"
-  },
-  {
-    "id": "56a0baadc4db",
-    "title": "US Sanctions Guernsey-Based Firm on Cuba Real Estate Investments",
-    "title_cn": "美国制裁根西岛公司的古巴房地产投资",
-    "summary": "The US government added CEIBA Investments Ltd, a Guernsey-based firm that has been investing in Cuban commercial real estate since 1996, to its growing list of sanctioned entities as it ramps up its pressure on the communist-led island.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/us-sanctions-guernsey-based-firm-on-cuba-real-estate-investments",
-    "published": "Thu, 23 Jul 2026 20:45:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:35:59.984448"
-  },
-  {
-    "id": "3ef1dd7a2160",
-    "title": "Republicans Sit on $1 Billion War Chest Ahead of Midterms",
-    "title_cn": "共和党在中期选举前坐拥 10 亿美元的战争基金",
-    "summary": "Donald Trump’s super PAC has spent just 0.6% of its cash to help candidates.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-23/republicans-sit-on-1-billion-war-chest-ahead-of-midterms",
-    "published": "Thu, 23 Jul 2026 20:10:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:36:00.145622"
-  },
-  {
-    "id": "29f2a6223ad9",
-    "title": "Carney Says ‘Everything’s on the Table’ If US Imposes New 50% Tariffs",
-    "title_cn": "卡尼表示，如果美国征收新的 50% 关税，“一切都将摆在桌面上”",
-    "summary": "Prime Minister Mark Carney said Canada is weighing all options for possible retaliation if it doesn’t reach a deal with the US to avert 50% tariffs next month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/carney-says-everything-s-on-the-table-if-us-imposes-new-50-tariffs",
-    "published": "Thu, 23 Jul 2026 19:53:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:36:00.279579"
-  },
-  {
-    "id": "9e60197315e8",
-    "title": "South African Deputy Minister Quits as $220 Billion Fund’s Chair",
-    "title_cn": "南非副部长辞去2200亿美元基金主席职务",
-    "summary": "South Africa’s deputy finance minister quit as the chairman of a state-owned firm that oversees $220 billion of government pensions, days before he faced being removed from the post.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/south-african-deputy-finance-minister-steps-down-as-pic-chairman",
-    "published": "Thu, 23 Jul 2026 18:33:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:36:00.429375"
-  },
-  {
-    "id": "f56d65070822",
-    "title": "Italy Targets Youth Crime Under Meloni’s Law-and-Order Push",
-    "title_cn": "意大利在梅洛尼的法律和秩序推动下打击青少年犯罪",
-    "summary": "The Italian government introduced measures it says are devised to combat youth crime, as it continues to sharpen its law-and-order agenda ahead of a general election next year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-23/italy-targets-youth-crime-under-meloni-s-law-and-order-push",
-    "published": "Thu, 23 Jul 2026 18:13:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-24T04:36:00.597134"
+    "fetched_at": "2026-07-24T07:19:26.643771"
   }
 ]
