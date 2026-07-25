@@ -1,12 +1,39 @@
 [
   {
+    "id": "a7ae3a2ecdad",
+    "title": "Call Me Al Is a Cozy Hangout for Hong Kong Pups and Foodies",
+    "summary": "<p>Furry friends get a welcome bag, while humans can enjoy a great rigatoni.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/call-me-al-is-a-cozy-hangout-for-hong-kong-pups-and-foodies",
+    "published": "Sat, 25 Jul 2026 04:00:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-25T05:58:30.400648"
+  },
+  {
+    "id": "48dc92979c5e",
+    "title": "Nvidia to Invest $1 Bil in Naver, SpaceX Starship Launch, More",
+    "summary": "Source: Bloomberg, 5:08",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-25/nvidia-to-invest-1-bil-in-naver-spacex-starship-launch-more",
+    "published": "Sat, 25 Jul 2026 03:34:58 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-25T05:58:30.400661"
+  },
+  {
     "id": "ad20022b9c82",
     "title": "Nvidia to Invest $1 Bil in Naver,Paramount & WB Deal Halted,More",
     "summary": "Source: Bloomberg, 6:04",
     "link": "https://www.bloomberg.com/news/audio/2026-07-25/nvidia-to-invest-1-bil-in-naver-paramount-wb-deal-halted-more-mrzrub46",
     "published": "Sat, 25 Jul 2026 02:50:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086866"
+    "fetched_at": "2026-07-25T05:58:30.400667"
+  },
+  {
+    "id": "03f00cd86989",
+    "title": "New Zealand Faces Aftershocks, Minor Damage After Earthquake",
+    "summary": "A 5.9 magnitude earthquake hit the center of New Zealand’s North Island early Saturday local time, leading to road closures, minor damage and a series of aftershocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/new-zealand-faces-aftershocks-minor-damage-after-earthquake",
+    "published": "Sat, 25 Jul 2026 02:04:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-25T05:58:30.400673"
   },
   {
     "id": "64d5d9953222",
@@ -15,7 +42,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-25/nvidia-to-invest-1-bil-in-naver-paramount-wb-deal-halted-more",
     "published": "Sat, 25 Jul 2026 02:03:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086883"
+    "fetched_at": "2026-07-25T05:58:30.400678"
   },
   {
     "id": "4274429ceede",
@@ -24,7 +51,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-25/bloomberg-hot-pursuit-kevin-tynan-podcast",
     "published": "Sat, 25 Jul 2026 01:22:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086890"
+    "fetched_at": "2026-07-25T05:58:30.400684"
   },
   {
     "id": "59bbf66809dc",
@@ -33,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-25/nvidia-to-invest-1-bil-in-naver-paramount-wb-halt-deal-more",
     "published": "Sat, 25 Jul 2026 01:20:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086896"
+    "fetched_at": "2026-07-25T05:58:30.400689"
   },
   {
     "id": "29729c315d04",
@@ -42,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-25/extreme-weather-threatens-global-supply-chains-singapore-business-summit-warns",
     "published": "Sat, 25 Jul 2026 01:00:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086901"
+    "fetched_at": "2026-07-25T05:58:30.400698"
   },
   {
     "id": "5b98efce7764",
@@ -51,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-25/paramount-warner-bros-halt-deal-spacex-starship-launch-more",
     "published": "Sat, 25 Jul 2026 00:21:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086907"
+    "fetched_at": "2026-07-25T05:58:30.400704"
   },
   {
     "id": "e8e2894ab90c",
@@ -60,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/paramount-wb-halt-deal-trump-threat-over-eu-google-fine-more",
     "published": "Fri, 24 Jul 2026 23:03:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086913"
+    "fetched_at": "2026-07-25T05:58:30.400710"
   },
   {
     "id": "9aedf083f137",
@@ -69,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-businessweek-daily-trump-s-new-eu-tariffs-podcast",
     "published": "Fri, 24 Jul 2026 22:07:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086922"
+    "fetched_at": "2026-07-25T05:58:30.400715"
   },
   {
     "id": "1b73844aae50",
@@ -78,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/paramount-warner-bros-halt-deal-trump-deepens-tariff-battle",
     "published": "Fri, 24 Jul 2026 22:06:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086928"
+    "fetched_at": "2026-07-25T05:58:30.400720"
   },
   {
     "id": "dc091fd58641",
@@ -87,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-talks-ed-yardeni-podcast",
     "published": "Fri, 24 Jul 2026 21:53:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086934"
+    "fetched_at": "2026-07-25T05:58:30.400725"
   },
   {
     "id": "82c50b9347a6",
@@ -96,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-talks-jeetu-patel-podcast",
     "published": "Fri, 24 Jul 2026 21:52:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086940"
+    "fetched_at": "2026-07-25T05:58:30.400759"
   },
   {
     "id": "3587730815d5",
@@ -105,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-talks-dave-mccormick-podcast",
     "published": "Fri, 24 Jul 2026 21:50:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086945"
+    "fetched_at": "2026-07-25T05:58:30.400772"
   },
   {
     "id": "cc4947cc2f1a",
@@ -114,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-talks-christian-klein-podcast",
     "published": "Fri, 24 Jul 2026 21:49:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086950"
+    "fetched_at": "2026-07-25T05:58:30.400782"
   },
   {
     "id": "009c8ee775ca",
@@ -123,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-businessweek-daily-ceo-s-secret-weapon-podcast",
     "published": "Fri, 24 Jul 2026 21:30:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086955"
+    "fetched_at": "2026-07-25T05:58:30.400788"
   },
   {
     "id": "c3070bbd35d4",
@@ -132,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/bloomberg-wall-street-week-july-24th-2026-podcast",
     "published": "Fri, 24 Jul 2026 21:27:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086961"
+    "fetched_at": "2026-07-25T05:58:30.400793"
   },
   {
     "id": "ddedb8dcef33",
@@ -141,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-super-micro-tesla-tenet-healthcare-podcast",
     "published": "Fri, 24 Jul 2026 21:20:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086966"
+    "fetched_at": "2026-07-25T05:58:30.400798"
   },
   {
     "id": "d933cdd99a69",
@@ -150,34 +177,34 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/spacex-stock-drop-seen-as-a-verdict-on-ai-evening-briefing-americas",
     "published": "Fri, 24 Jul 2026 21:17:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086971"
+    "fetched_at": "2026-07-25T05:58:30.400804"
   },
   {
-    "id": "23363c0f692a",
-    "title": "Nolan’s The Odyssey a Boon for Imax (IMAX) Share Performance",
-    "summary": "Plus: Celebrating the Gordie Howe bridge",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/nolan-s-the-odyssey-a-boon-for-imax-imax-share-performance",
-    "published": "Fri, 24 Jul 2026 21:00:54 GMT",
+    "id": "c93c531f57de",
+    "title": "Modi Sidesteps Exam Leaks in Video as India Protests Spread",
+    "summary": "Indian Prime Minister Narendra Modi repeatedly thanked the nation’s youth in a video message Friday night, offering no indication he would meet their key demand to remove the education minister as student protests widen.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/modi-sidesteps-exam-scandal-in-video-as-india-protests-spread",
+    "published": "Sat, 25 Jul 2026 04:30:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086976"
+    "fetched_at": "2026-07-25T05:58:30.632923"
   },
   {
-    "id": "7eaa0f1e0ac2",
-    "title": "Paramount-WB Deal on Hold, Trump Deepens Tariff War with EU",
-    "summary": "Source: Bloomberg, 6:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/paramount-wb-deal-on-hold-trump-deepens-tariff-war-with-eu",
-    "published": "Fri, 24 Jul 2026 20:57:41 GMT",
+    "id": "b6bf6e9c51bd",
+    "title": "Indonesia Arrests Former Top Graft Prosecutor After Police Raids",
+    "summary": "Indonesia’s former top graft prosecutor was arrested on suspicion of money laundering, weeks after police raids uncovered $26 million worth of gold bars and cash at a house he owns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/indonesia-arrests-former-top-graft-prosecutor-after-police-raids",
+    "published": "Sat, 25 Jul 2026 05:21:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086981"
+    "fetched_at": "2026-07-25T05:58:30.632935"
   },
   {
-    "id": "3a25c005cedb",
-    "title": "Stock Movers: T-Mobile, Uber, Paramount (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-24/stock-movers-t-mobile-uber-paramount-podcast",
-    "published": "Fri, 24 Jul 2026 20:45:52 GMT",
+    "id": "10940516af37",
+    "title": "India Flags Attack on LPG Tanker in Iran Waters, Says Crew Safe",
+    "summary": "India’s embassy in Tehran said it is in close contact with authorities after a liquefied petroleum gas tanker, with 28 Indian crew members onboard, came under attack in Iranian territorial waters on Friday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-25/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe",
+    "published": "Sat, 25 Jul 2026 03:31:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.086987"
+    "fetched_at": "2026-07-25T05:58:30.632941"
   },
   {
     "id": "cdae1a53d507",
@@ -186,7 +213,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group",
     "published": "Sat, 25 Jul 2026 01:24:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338548"
+    "fetched_at": "2026-07-25T05:58:30.632946"
   },
   {
     "id": "1804796ffdbd",
@@ -195,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-25/el-nino-worsens-plight-of-asia-s-rice-belt-after-war-price-shock",
     "published": "Sat, 25 Jul 2026 01:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338561"
+    "fetched_at": "2026-07-25T05:58:30.632951"
   },
   {
     "id": "37cb520820e3",
@@ -204,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 23 Jul 2026 22:06:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338567"
+    "fetched_at": "2026-07-25T05:58:30.632956"
   },
   {
     "id": "4c342aa633dd",
@@ -213,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
     "published": "Fri, 24 Jul 2026 20:54:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338572"
+    "fetched_at": "2026-07-25T05:58:30.632961"
   },
   {
     "id": "a6f759c21b10",
@@ -222,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
     "published": "Fri, 24 Jul 2026 13:09:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338577"
+    "fetched_at": "2026-07-25T05:58:30.632965"
   },
   {
     "id": "f7bf04ed01b8",
@@ -231,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
     "published": "Fri, 24 Jul 2026 12:39:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338582"
+    "fetched_at": "2026-07-25T05:58:30.632970"
   },
   {
     "id": "f43d06f9dd5f",
@@ -240,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/dollar-set-for-best-week-in-a-month-as-haven-flows-offer-support",
     "published": "Fri, 24 Jul 2026 10:12:33 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338587"
+    "fetched_at": "2026-07-25T05:58:30.632975"
   },
   {
     "id": "90424dcdd449",
@@ -249,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/gold-miner-cadillac-backers-raise-c-385-million-in-canada-ipo",
     "published": "Fri, 24 Jul 2026 13:32:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338592"
+    "fetched_at": "2026-07-25T05:58:30.632980"
   },
   {
     "id": "a24c314b44c9",
@@ -258,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-24/oil-prices-volatile-as-supply-disruptions-hit-four-global-fronts",
     "published": "Fri, 24 Jul 2026 20:15:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338598"
+    "fetched_at": "2026-07-25T05:58:30.632985"
   },
   {
     "id": "ae950efbfe63",
@@ -267,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/wall-street-bulls-are-staring-down-100-oil-tariffs-ai-angst",
     "published": "Fri, 24 Jul 2026 20:12:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338603"
+    "fetched_at": "2026-07-25T05:58:30.632990"
   },
   {
     "id": "22bbdc0bc235",
@@ -276,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
     "published": "Thu, 23 Jul 2026 22:04:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338608"
+    "fetched_at": "2026-07-25T05:58:30.632995"
   },
   {
     "id": "1afc68d8a324",
@@ -285,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/yen-s-worst-week-since-may-brings-it-close-to-165-versus-dollar",
     "published": "Fri, 24 Jul 2026 00:43:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338613"
+    "fetched_at": "2026-07-25T05:58:30.633000"
   },
   {
     "id": "9eada8a22455",
@@ -294,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/global-bonds-are-reeling-as-oil-surge-renews-inflation-threat",
     "published": "Fri, 24 Jul 2026 04:33:23 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338618"
+    "fetched_at": "2026-07-25T05:58:30.633005"
   },
   {
     "id": "dc12f66e7bb3",
@@ -303,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/us-cattle-herd-grows-slightly-in-potential-sign-of-rebuilding",
     "published": "Fri, 24 Jul 2026 19:51:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338623"
+    "fetched_at": "2026-07-25T05:58:30.633010"
   },
   {
     "id": "251d8c99f0a2",
@@ -312,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/colombia-rations-lng-on-spec-port-shutdown-business-schools-urged-to-go-remote",
     "published": "Fri, 24 Jul 2026 14:52:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338629"
+    "fetched_at": "2026-07-25T05:58:30.633015"
   },
   {
     "id": "9948441525ea",
@@ -321,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/hedge-funds-turn-most-negative-on-canadian-dollar-since-2024",
     "published": "Fri, 24 Jul 2026 19:47:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338634"
+    "fetched_at": "2026-07-25T05:58:30.633020"
   },
   {
     "id": "4037bb89d865",
@@ -330,33 +357,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-24/fitch-upgrades-jane-street-to-high-grade-citing-income-growth",
     "published": "Fri, 24 Jul 2026 19:21:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338639"
-  },
-  {
-    "id": "d7e67330b4b3",
-    "title": "Oil to End Year Near $100 on Mideast Disruptions, Rapidan Says",
-    "summary": "The breakdown of the US-Iran ceasefire threatens to leave Brent crude hovering around the $100-a-barrel mark well past July and into the end of the year, according to Rapidan Energy Group’s increased forecast.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/oil-to-end-year-near-100-on-mideast-disruptions-rapidan-says",
-    "published": "Fri, 24 Jul 2026 19:01:24 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338644"
-  },
-  {
-    "id": "52fb16905638",
-    "title": "LSEG Reviews US Investment Grade Fund Flow Data After JPMorgan Flags Error",
-    "summary": "LSEG Lipper is reviewing weekly data showing US investment grade funds saw the biggest outflows in more than six years after a report published by JPMorgan Chase &amp; Co. said there was a potential error in Lipper’s data.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/lseg-reviewing-high-grade-flow-data-after-jpmorgan-cited-error",
-    "published": "Fri, 24 Jul 2026 18:59:02 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338649"
-  },
-  {
-    "id": "ef2ab9f26297",
-    "title": "PE Founder, Ex-GOP Candidate Pleads Guilty to $50 Million Fraud",
-    "summary": "A private equity firm founder and onetime Republican candidate for governor of New Hampshire pleaded guilty to defrauding investors out of more than $50 million.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-24/pe-founder-ex-gop-candidate-pleads-guilty-to-50-million-fraud",
-    "published": "Fri, 24 Jul 2026 16:48:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-25T03:15:04.338658"
+    "fetched_at": "2026-07-25T05:58:30.633025"
   }
 ]
