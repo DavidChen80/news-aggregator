@@ -1,12 +1,138 @@
 [
   {
+    "id": "2930d1b77135",
+    "title": "Bloomberg Talks: Amanda Lynam (Podcast)",
+    "summary": "Source: Bloomberg, 6:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/bloomberg-talks-amanda-lynam-podcast",
+    "published": "Mon, 27 Jul 2026 15:22:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734348"
+  },
+  {
+    "id": "0e17d941b003",
+    "title": "Trump to Speak in Michigan, US and Iran Pause, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/trump-to-speak-in-michigan-us-and-iran-pause-more",
+    "published": "Mon, 27 Jul 2026 14:51:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734365"
+  },
+  {
+    "id": "65c0a529f1d9",
+    "title": "Stock Movers: Nvidia, Ford, ExxonMobil (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-nvidia-ford-exxonmobil-podcast",
+    "published": "Mon, 27 Jul 2026 14:44:56 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734371"
+  },
+  {
+    "id": "8ca3a70c1d58",
+    "title": "Tech Disruptors: Solidigm on AI Driving New Era for Data Storage",
+    "summary": "Co-CEO of Solidigm Xin Guo joins Bloomberg Intelligence’s Jake Silverman on this episode of the Tech Disruptors podcast to discuss how AI is reshaping data-center storage as NAND flash-memory prices continue their unprecedented rise. They explore the technologies driving greater solid-state-drive adoption, including KV cache, which stores AI models’ working memory during inference, and why the shift to agentic AI could lift NAND content to as much as 25 exabytes (25 million terabytes) per gigawa",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/tech-disruptors-solidigm-on-ai-driving-new-era-for-data-storage",
+    "published": "Mon, 27 Jul 2026 14:35:26 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734375"
+  },
+  {
+    "id": "eb127412c4ce",
+    "title": "Fed Policy Has Already Tightened: Macro Man Podcast",
+    "summary": "Source: Bloomberg, 5:25",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/fed-policy-has-already-tightened-macro-man-podcast",
+    "published": "Mon, 27 Jul 2026 14:22:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734380"
+  },
+  {
+    "id": "761cff891fa7",
+    "title": "Stocks Climb as Middle East Tensions Ease, Nvidia’s Deals, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stocks-climb-as-middle-east-tensions-ease-nvidia-s-deals-more",
+    "published": "Mon, 27 Jul 2026 13:52:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734384"
+  },
+  {
+    "id": "d37aa34378f5",
+    "title": "Bloomberg Surveillance: Market Volatility (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/bloomberg-surveillance-market-volatility-podcast",
+    "published": "Mon, 27 Jul 2026 13:51:19 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734389"
+  },
+  {
+    "id": "0effa0ed5d64",
+    "title": "GM and VW Are on Opposite Paths, and China Is Mainly to Blame",
+    "summary": "The rival carmakers have different exposures to rivals from the world’s biggest auto market.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/gm-and-vw-are-on-opposite-paths-and-china-is-mainly-to-blame",
+    "published": "Mon, 27 Jul 2026 13:50:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734397"
+  },
+  {
+    "id": "31c190c591b7",
+    "title": "DCC Boss Says KKR, ECP Offer Crystalizes Value the Market Has Missed",
+    "summary": "Donal Murphy’s energy distributor is recommending a takeover offer from KKR and ECP.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/dcc-boss-says-kkr-ecp-offer-crystalizes-value-the-market-has-missed",
+    "published": "Mon, 27 Jul 2026 13:15:35 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734402"
+  },
+  {
+    "id": "09e639c2a3bd",
+    "title": "Stock Movers: FBRX, AZN, PSKY (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-fbrx-azn-psky-podcast",
+    "published": "Mon, 27 Jul 2026 13:13:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734407"
+  },
+  {
+    "id": "6b1859eb8d0a",
+    "title": "Next Africa: Real Reason Russia Is Wooing an  Island Nation, Madgascar",
+    "summary": "Madagascar sits on the Mozambique Channel, through which a third of the world’s crude oil passes.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/next-africa-real-reason-russia-is-wooing-an-island-nation-madgascar",
+    "published": "Mon, 27 Jul 2026 13:03:31 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734412"
+  },
+  {
+    "id": "2b7339155a30",
+    "title": "Europe Is at Risk of Becoming Trade’s Sitting Duck",
+    "summary": "The Turnberry deal with the US and a whopping deficit with China leave Europe struggling to put its trade house in order.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/europe-is-at-risk-of-becoming-trade-s-sitting-duck",
+    "published": "Mon, 27 Jul 2026 13:00:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734416"
+  },
+  {
+    "id": "7adac16da544",
+    "title": "Oil Dives as US and Iran Pause, Nvidia Deals, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-27/oil-dives-as-us-and-iran-pause-nvidia-deals-more",
+    "published": "Mon, 27 Jul 2026 12:50:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734421"
+  },
+  {
+    "id": "c21d0a86b7e2",
+    "title": "India’s Exam Reforms Need More Than Another Task Force",
+    "summary": "The need is for an education reform built around the entire student journey, not just exam-based entry.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/india-s-exam-reforms-need-more-than-another-task-force",
+    "published": "Mon, 27 Jul 2026 12:32:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:31.734425"
+  },
+  {
     "id": "589832e02ed0",
     "title": "Wall Street Bets $14 Billion on War-Hit Kuwait; Signs of Saudi-UAE Unity",
     "summary": "Besides the pipeline partnership, Kuwait’s largest-ever foreign direct investment, the country also sold $6 billion of bonds.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/wall-street-bets-14-billion-on-war-hit-kuwait-signs-of-saudi-uae-unity",
     "published": "Mon, 27 Jul 2026 12:20:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905594"
+    "fetched_at": "2026-07-27T15:26:31.734429"
   },
   {
     "id": "c5f5a71aa6fb",
@@ -15,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-27/middle-east-tensions-ease-oil-dives-more",
     "published": "Mon, 27 Jul 2026 11:49:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905608"
+    "fetched_at": "2026-07-27T15:26:31.734433"
   },
   {
     "id": "2c2ede46339e",
@@ -24,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-nvda-frbx-t-podcast",
     "published": "Mon, 27 Jul 2026 11:15:33 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905615"
+    "fetched_at": "2026-07-27T15:26:31.734437"
   },
   {
     "id": "8c4b6a7a4b4e",
@@ -33,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/us-iran-extend-pause-in-strikes-as-oman-holds-hormuz-talks",
     "published": "Mon, 27 Jul 2026 10:50:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905621"
+    "fetched_at": "2026-07-27T15:26:31.734441"
   },
   {
     "id": "33b146e1d471",
@@ -42,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-27/palantir-rival-chapsvision-wins-french-spy-agency-contract-as-trump-ties-fray",
     "published": "Mon, 27 Jul 2026 04:00:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905643"
+    "fetched_at": "2026-07-27T15:26:31.734445"
   },
   {
     "id": "8aeeb7c3efc1",
@@ -51,277 +177,25 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-27/us-iran-pause-hostilities-shooting-at-seattle-festival-more",
     "published": "Mon, 27 Jul 2026 10:22:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905650"
-  },
-  {
-    "id": "3519a190b355",
-    "title": "Bloomberg Daybreak: Middle East Tensions (Podcast)",
-    "summary": "Source: Bloomberg, 17:55",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/bloomberg-daybreak-middle-east-tensions-podcast",
-    "published": "Mon, 27 Jul 2026 09:47:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905655"
-  },
-  {
-    "id": "30894f60edba",
-    "title": "Middle East Tensions Ease, Shooting in Seattle, More",
-    "summary": "Source: Bloomberg, 6:41",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/middle-east-tensions-ease-shooting-in-seattle-more",
-    "published": "Mon, 27 Jul 2026 09:32:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905664"
-  },
-  {
-    "id": "041a92e89a55",
-    "title": "Stock Movers: Astrazeneca, Vodafone, Pinewood (Podcast)",
-    "summary": "Source: Bloomberg, 4:15",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-astrazeneca-vodafone-pinewood-podcast",
-    "published": "Mon, 27 Jul 2026 09:03:41 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905670"
-  },
-  {
-    "id": "b1df2fb396a0",
-    "title": "CXMT Soars in Blockbuster IPO in Bet on China’s AI Role",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/cxmt-soars-in-blockbuster-ipo-in-bet-on-china-s-ai-role",
-    "published": "Mon, 27 Jul 2026 09:00:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905682"
-  },
-  {
-    "id": "844c97f2aa52",
-    "title": "France and Spain Battle Wildfires, Middle East Tensions Ease",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/france-and-spain-battle-wildfires-middle-east-tensions-ease",
-    "published": "Mon, 27 Jul 2026 08:29:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905694"
-  },
-  {
-    "id": "58259996fad4",
-    "title": "Stock Movers: BP, Vodafone, Zabka (Podcast)",
-    "summary": "Source: Bloomberg, 4:19",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-bp-vodafone-zabka-podcast",
-    "published": "Mon, 27 Jul 2026 08:04:55 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905706"
-  },
-  {
-    "id": "654e2886717c",
-    "title": "Out of Control' Wildfires in France and Spain, Oil Drops, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/out-of-control-wildfires-in-france-and-spain-oil-drops-more",
-    "published": "Mon, 27 Jul 2026 07:26:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905717"
-  },
-  {
-    "id": "f92a31651b25",
-    "title": "DCC Energy Agrees £5.75 Billion Takeover by KKR, ECP",
-    "summary": "DCC taken private; Burnham gets serious on welfare",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/dcc-energy-agrees-5-75-billion-takeover-by-kkr-ecp",
-    "published": "Mon, 27 Jul 2026 07:15:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905722"
-  },
-  {
-    "id": "86a02c6f05e9",
-    "title": "European Wildfires Continue, Oil Declines on US-Iran Pause",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/european-wildfires-continue-oil-declines-on-us-iran-pause",
-    "published": "Mon, 27 Jul 2026 06:38:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905727"
-  },
-  {
-    "id": "b5a05730152a",
-    "title": "Mideast Tensions Ease as US, Iran Hold Fire",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/mideast-tensions-ease-as-us-iran-hold-fire",
-    "published": "Mon, 27 Jul 2026 06:15:55 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905733"
-  },
-  {
-    "id": "85ecdff96621",
-    "title": "Stock Movers: CXMT, Hyundai Rotem, Shin-Etsu (Podcast)",
-    "summary": "Source: Bloomberg, 4:16",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/stock-movers-cxmt-hyundai-rotem-shin-etsu-podcast",
-    "published": "Mon, 27 Jul 2026 06:07:33 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905738"
-  },
-  {
-    "id": "c627d0893415",
-    "title": "Daybreak Europe Podcast: 300,000 Flee Wildfires (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/daybreak-europe-podcast-300-000-flee-wildfires-podcast",
-    "published": "Mon, 27 Jul 2026 05:58:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905743"
-  },
-  {
-    "id": "34175a5a9f4c",
-    "title": "KPMG Stops New Australia State Government Work, Sacks Partner",
-    "summary": "KPMG Australia will halt bids for new work from the Victorian state government pending a review of the business, as new revelations about staff mishandling confidential client information deepen the crisis engulfing the scandal-hit firm.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/kpmg-stops-new-australia-state-government-work-sacks-partner",
-    "published": "Mon, 27 Jul 2026 05:42:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905749"
-  },
-  {
-    "id": "e66a94010777",
-    "title": "300,000 Flee Europe Wildfires, US & Iran Hold Fire, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-27/300-000-flee-europe-wildfires-us-iran-hold-fire-more",
-    "published": "Mon, 27 Jul 2026 05:29:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:09.905754"
-  },
-  {
-    "id": "0223fb895121",
-    "title": "CPC Oil Terminal Resumes Kazakh Crude Exports After Attacks",
-    "summary": "The main terminal for exporting Kazakhstan’s oil resumed loadings after drone attacks on vessels caused an output cut last week, a step that may help to ease one of the market’s major supply worries.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/kazakh-oil-port-cpc-set-to-load-tankers-again-after-drone-pause",
-    "published": "Mon, 27 Jul 2026 07:44:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248305"
+    "fetched_at": "2026-07-27T15:26:31.734449"
   },
   {
     "id": "14205d480141",
-    "title": "Stocks and Bonds Rally as Brent Tumbles Below $90: Markets Wrap",
-    "summary": "A sharp retreat in oil prices triggered a relief rally in stocks and bonds after a lull in hostilities in the Middle East, starting a week packed with earnings and a stack of interest-rate decisions on a positive note.",
+    "title": "Stocks Waver as Chip Selloff Offsets US-Iran Hopes: Markets Wrap",
+    "summary": "A rout in chipmakers sent stocks wavering, offsetting a sharp decline in oil prices as pressure keeps building for the biggest spenders on artificial intelligence to justify their investments.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
     "published": "Sun, 26 Jul 2026 22:09:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248317"
+    "fetched_at": "2026-07-27T15:26:32.129712"
   },
   {
-    "id": "6e13a4fe190e",
-    "title": "China Says US Pledged to Cap Replacement Tariffs at 20%",
-    "summary": "China said the US had committed to cap replacement tariffs on Chinese goods at 20%, staking out a limit on further increases after US President Donald Trump imposed a new levy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-says-us-pledged-to-cap-replacement-tariffs-at-20",
-    "published": "Mon, 27 Jul 2026 11:47:03 GMT",
+    "id": "13f9e89d5723",
+    "title": "Jersey Mike’s IPO Said to Be More Than 10 Times Oversubscribed",
+    "summary": "Jersey Mike’s Subs Inc.’s initial public offering has attracted investor demand for more than 10 times the available shares ahead of pricing on Wednesday, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/jersey-mike-s-ipo-said-to-be-more-than-10-times-oversubscribed-ms3dctpc",
+    "published": "Mon, 27 Jul 2026 15:15:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248323"
-  },
-  {
-    "id": "b7994099bd2f",
-    "title": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
-    "summary": "Forget the VIX at 18. The stock market is swinging around in ways that are beyond what’s seen as normal in bull markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market",
-    "published": "Mon, 27 Jul 2026 11:45:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248328"
-  },
-  {
-    "id": "9c8e9d019215",
-    "title": "Shipping Upheaval Suggests Oil Selloff Won’t Last",
-    "summary": "The US and Iran may be holding fire, but costly cargo diversions are already underway.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/shipping-upheaval-suggests-oil-selloff-won-t-last",
-    "published": "Mon, 27 Jul 2026 11:41:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248333"
-  },
-  {
-    "id": "05126073268a",
-    "title": "Shionogi-Backed Apnimed Seeks to Raise $160 Million in US IPO",
-    "summary": "Apnimed Inc., a late-stage drug developer focused on sleep apnea, is seeking to raise as much as $160 million in a US initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/shionogi-backed-apnimed-seeks-to-raise-160-million-in-us-ipo",
-    "published": "Mon, 27 Jul 2026 11:33:18 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248338"
-  },
-  {
-    "id": "e83f2fe6d2e8",
-    "title": "Crypto Treasury Firms Pivot to AI in Bid to Win Back Investors",
-    "summary": "The implosion of the once-hot market for cryptocurrency treasury stocks is prompting a number of firms to pivot to artificial intelligence in an attempt to win back investors. So far, it isn’t working.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/crypto-to-data-centers-treasury-model-bust-has-firms-chasing-ai",
-    "published": "Mon, 27 Jul 2026 11:14:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248343"
-  },
-  {
-    "id": "45543485c8ad",
-    "title": "US Stocks Catch a Bid as Oil Tumbles With Iran Conflict Pause",
-    "summary": "US stock futures rallied as oil prices slid with the US pausing strikes against Iran and tankers sailing for a recently-disrupted Kazakh export terminal, easing supply pressures.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/us-stocks-catch-a-bid-as-oil-tumbles-with-iran-conflict-pause",
-    "published": "Mon, 27 Jul 2026 11:12:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248348"
-  },
-  {
-    "id": "704691c4b0c4",
-    "title": "Hillhouse-Backed Tablespace Said to File $350 Million India IPO",
-    "summary": "Indian managed workspace provider Tablespace Technologies Ltd. is preparing to file for an initial public offering that could raise as much as $350 million, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/hillhouse-backed-tablespace-said-to-file-350-million-india-ipo",
-    "published": "Mon, 27 Jul 2026 10:53:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248352"
-  },
-  {
-    "id": "5bdecda55447",
-    "title": "AT&T Cuts Through Europe’s Summer Lull With Five-Part Bond Deal",
-    "summary": "AT&amp;T Inc. is raising at least €2 billion ($2.23 billion) of bonds, shattering a traditionally subdued period for Europe’s primary market with a large corporate deal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/at-t-kick-starts-sale-of-five-part-euro-sterling-bond-offering",
-    "published": "Mon, 27 Jul 2026 07:51:23 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248358"
-  },
-  {
-    "id": "1421ce68be00",
-    "title": "Whipsawing Oil Prices Muddy Traders’ Outlook on Fed Meeting",
-    "summary": "Bond yields have have surged going into Wednesday’s central bank decision.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/whipsawing-oil-prices-muddy-traders-outlook-on-fed-meeting",
-    "published": "Mon, 27 Jul 2026 10:43:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248363"
-  },
-  {
-    "id": "68e2e50c20f9",
-    "title": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
-    "summary": "Gold rose, after a pause in fighting between the US and Iran eased oil supply risks and inflationary concerns that have threatened tighter monetary policy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-26/gold-climbs-after-pause-in-mideast-fighting-cuts-inflation-fears",
-    "published": "Sun, 26 Jul 2026 22:46:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248368"
-  },
-  {
-    "id": "c10163a887d9",
-    "title": "Russia’s Novorossiysk Resumed Crude Loadings After Days of Halt",
-    "summary": "The largest Russian oil port in the Black Sea resumed crude loadings after several days of disruption, during a period of bad weather and increased drone attacks in the nearby area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/russia-s-novorossiysk-resumed-crude-loadings-after-days-of-halt",
-    "published": "Mon, 27 Jul 2026 10:32:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248372"
-  },
-  {
-    "id": "540c286b6ab0",
-    "title": "Laopu Gold Sees Earnings Growth Slowing as Bullion Retreats",
-    "summary": "Laopu Gold Co. expects a slower first-half revenue growth as demand for the Chinese luxury jeweler’s products weakened in recent months amid dropping bullion prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/laopu-gold-sees-first-half-profit-slowing-amid-dropping-prices",
-    "published": "Mon, 27 Jul 2026 08:55:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248378"
-  },
-  {
-    "id": "1f486e357daa",
-    "title": "German Lender NordLB to Expand Into Fund Finance and CLOs",
-    "summary": "German lender NordLB is seeking to boost its capital markets business by ramping up lending to third-party funds and packaging loans sold to investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/german-lender-nordlb-to-expand-into-fund-finance-and-clos",
-    "published": "Mon, 27 Jul 2026 10:20:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248383"
-  },
-  {
-    "id": "9b3ae5bda4b7",
-    "title": "CVC Is Said to Mull Buying Stake in Jeweler APM Monaco From TPG",
-    "summary": "CVC Capital Partners Plc is considering buying a stake in jeweler APM Monaco from private equity firm TPG Inc., according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/cvc-is-said-to-mull-buying-stake-in-jeweler-apm-monaco-from-tpg",
-    "published": "Mon, 27 Jul 2026 10:13:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248388"
+    "fetched_at": "2026-07-27T15:26:32.129726"
   },
   {
     "id": "ac6acef0619f",
@@ -330,33 +204,159 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
     "published": "Sun, 26 Jul 2026 22:02:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248394"
+    "fetched_at": "2026-07-27T15:26:32.129731"
+  },
+  {
+    "id": "45543485c8ad",
+    "title": "S&P 500 Erases Gains as Semiconductor Stocks Extend Losses",
+    "summary": "The S&amp;P 500 Index erased early Monday gains as chipmakers weakened, putting the Philadelphia Semiconductor Index on pace for its third consecutive session of declines.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/us-stocks-catch-a-bid-as-oil-tumbles-with-iran-conflict-pause",
+    "published": "Mon, 27 Jul 2026 11:12:22 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129735"
+  },
+  {
+    "id": "68e2e50c20f9",
+    "title": "Gold Climbs as Pause in Mideast Fighting Curbs Inflation Risk",
+    "summary": "Gold rose, after a pause in fighting between the US and Iran eased oil supply risks and inflationary concerns that have threatened tighter monetary policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-26/gold-climbs-after-pause-in-mideast-fighting-cuts-inflation-fears",
+    "published": "Sun, 26 Jul 2026 22:46:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129739"
+  },
+  {
+    "id": "7588c3008d0a",
+    "title": "Tyson, JBS Shares Surge as US Reopens Mexico Cattle Imports After Screwworm Ban",
+    "summary": "Shares of meatpackers Tyson Foods Inc. and JBS NV surged after the US said it would resume cattle shipments from Mexico, easing a domestic shortage that has led to higher costs for their animals.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/tyson-jbs-shares-jump-as-us-to-resume-mexico-cattle-shipments",
+    "published": "Mon, 27 Jul 2026 14:27:43 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129744"
+  },
+  {
+    "id": "8f37baeb5b1b",
+    "title": "Corporate Bonds Lose Appeal as Shock Absorber, Carlyle Says",
+    "summary": "As corporate bonds become less reliable at protecting against market shocks, investors are looking to asset-backed finance as an alternative source of stability, according to Carlyle Group.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/corporate-bonds-lose-appeal-as-shock-absorber-carlyle-says",
+    "published": "Mon, 27 Jul 2026 14:25:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129748"
   },
   {
     "id": "327203dc52f4",
-    "title": "European Stocks Rally on Falling Oil Prices; Vodafone, SAP Jump",
-    "summary": "European stocks advanced as oil prices retreated on signs of easing tensions in the Middle East. Vodafone Group Plc jumped 4.8% on better-than-expected growth in service revenue.",
+    "title": "European Stocks Advance on Falling Oil Prices; ASML Drops",
+    "summary": "European stocks gained as oil prices retreated on signs of easing tensions in the Middle East. ASML Holding NV fell 5.0% after a report that a Chinese state-backed company had begun manufacturing immersion deep ultraviolet lithography machines.",
     "link": "https://www.bloomberg.com/news/articles/2026-04-27/european-stocks-steady-as-investors-monitor-iran-s-hormuz-offer",
     "published": "Mon, 27 Apr 2026 07:21:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248398"
+    "fetched_at": "2026-07-27T15:26:32.129752"
   },
   {
-    "id": "46dd98ce5bcc",
-    "title": "Innolight Is Said to Price $6.8 Billion HK Listing Below Top",
-    "summary": "Zhongji Innolight Co. has raised HK$53.4 billion ($6.8 billion) after pricing its Hong Kong listing below the maximum offered, according to people familiar with the matter, as the company moves closer to sealing the city’s biggest first-time share sale in seven years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/innolight-is-said-set-to-price-hong-kong-listing-below-maximum",
-    "published": "Mon, 27 Jul 2026 04:53:37 GMT",
+    "id": "7cc2b7f179ad",
+    "title": "Citi Traders Are Betting Fed Will Keep Rates on Hold This Week",
+    "summary": "Citigroup Inc.’s traders are betting the Federal Reserve will leave rates unchanged this week, even as the swap markets assign a more than one-in-three chance of a quarter-point hike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/citi-traders-are-betting-fed-will-keep-rates-on-hold-this-week",
+    "published": "Mon, 27 Jul 2026 13:45:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248403"
+    "fetched_at": "2026-07-27T15:26:32.129755"
   },
   {
-    "id": "2d1fcbb91b91",
-    "title": "RBI Intervention Lifts Rupee to Strongest Gain in Over a Month",
-    "summary": "India’s central bank sold dollars in the local currency market, propelling the rupee to its best gain in over a month, according to traders familiar with the transactions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-27/rbi-intervention-lifts-rupee-to-strongest-gain-in-over-a-month",
-    "published": "Mon, 27 Jul 2026 09:38:51 GMT",
+    "id": "b60e26789a70",
+    "title": "Chile Taps International Bond Markets After Debt Limit Raise",
+    "summary": "Chile is returning to international debt markets for the second time in 2026, just a few weeks after Congress raised the limit on sovereign bond sales this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/chile-taps-international-bond-markets-after-debt-limit-increase",
+    "published": "Mon, 27 Jul 2026 12:59:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-07-27T12:30:10.248411"
+    "fetched_at": "2026-07-27T15:26:32.129759"
+  },
+  {
+    "id": "17af355429cc",
+    "title": "Nvidia Credit Risk Jumps in Swaps Market on AI Deal Talk Reports",
+    "summary": "The cost of protecting Nvidia Corp.’s debt against default surged by the most on record on Monday after reports that the chipmaker is in conversations on more than $750 billion of artificial intelligence infrastructure deals, stoking fears that the company is taking on even more obligations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-credit-risk-jumps-in-swaps-market-on-ai-deal-talk-reports",
+    "published": "Mon, 27 Jul 2026 13:27:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129763"
+  },
+  {
+    "id": "e1b31e39747c",
+    "title": "Robeco’s $18 Billion Stock Picker Bets on Argentina After Hiatus",
+    "summary": "It took nearly a decade for one of Europe’s biggest emerging-market investors to return to Argentine stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/robeco-s-18-billion-stock-picker-bets-on-argentina-after-hiatus",
+    "published": "Mon, 27 Jul 2026 13:24:08 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129767"
+  },
+  {
+    "id": "48dbe7714271",
+    "title": "Ares Bundles €3 Billion of Private Credit for Secondaries Sale",
+    "summary": "Ares Management Corp. is preparing to sell €3 billion ($3.4 billion) of bundled stakes in a flagship European direct-lending fund, one of the largest credit-secondaries deals ever.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/ares-bundles-3-billion-of-private-credit-for-secondaries-sale",
+    "published": "Mon, 27 Jul 2026 13:20:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129771"
+  },
+  {
+    "id": "712de5cda3f2",
+    "title": "Treasury Yields Follow Oil Lower With Fed and Supply in Focus",
+    "summary": "US Treasuries edged higher as oil prices softened after the US paused its nearly two-week campaign of strikes against Iran, while traders eyed a roughly one-in-three chance of a Federal Reserve interest rate hike on Wednesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus",
+    "published": "Mon, 27 Jul 2026 12:56:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129775"
+  },
+  {
+    "id": "25aeab5df863",
+    "title": "Soybeans Slump, Tracking Crude as US and Iran Pause Strikes",
+    "summary": "Chicago soybean futures fell the most in more than two months as a pause in fighting between the US and Iran eased fears of further escalation, sending crude tumbling. Soybean oil is a key biofuel feedstock, and lower crude prices diminish its appeal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/soybean-oil-drops-most-in-month-after-us-halts-strikes-on-iran",
+    "published": "Mon, 27 Jul 2026 04:55:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129779"
+  },
+  {
+    "id": "a858413bf308",
+    "title": "Fintech Plata Adds Ex-Regulator, Former Ambassador to US Board",
+    "summary": "Fintech Plata tapped a former US regulator and a former US ambassador to Russia to join the board of its US holding company as the lender expands into Colombia and eyes an eventual public listing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/fintech-plata-adds-ex-regulator-former-ambassador-to-us-board",
+    "published": "Mon, 27 Jul 2026 12:30:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129783"
+  },
+  {
+    "id": "0223fb895121",
+    "title": "CPC Oil Terminal Resumes Kazakh Crude Exports After Attacks",
+    "summary": "The main terminal for exporting Kazakhstan’s oil resumed loadings after drone attacks on vessels caused an output cut last week, a step that may help to ease one of the market’s major supply worries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/kazakh-oil-port-cpc-set-to-load-tankers-again-after-drone-pause",
+    "published": "Mon, 27 Jul 2026 07:44:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129787"
+  },
+  {
+    "id": "6e13a4fe190e",
+    "title": "China Says US Pledged to Cap Replacement Tariffs at 20%",
+    "summary": "China said the US had committed to cap replacement tariffs on Chinese goods at 20%, staking out a limit on further increases after US President Donald Trump imposed a new levy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/china-says-us-pledged-to-cap-replacement-tariffs-at-20",
+    "published": "Mon, 27 Jul 2026 11:47:03 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129791"
+  },
+  {
+    "id": "b7994099bd2f",
+    "title": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
+    "summary": "Forget the VIX at 18. The stock market is swinging around in ways that are beyond what’s seen as normal in bull markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market",
+    "published": "Mon, 27 Jul 2026 11:45:46 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129795"
+  },
+  {
+    "id": "9c8e9d019215",
+    "title": "Shipping Upheaval Suggests Oil Selloff Won’t Last",
+    "summary": "The US and Iran may be holding fire, but costly cargo diversions are already underway.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-27/shipping-upheaval-suggests-oil-selloff-won-t-last",
+    "published": "Mon, 27 Jul 2026 11:41:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-07-27T15:26:32.129801"
   }
 ]
