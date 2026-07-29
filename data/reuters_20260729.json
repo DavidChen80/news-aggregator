@@ -1,5 +1,95 @@
 [
   {
+    "id": "c7766f1317b9",
+    "title": "European Banks Outperform, US-Iran Calm Ends, More",
+    "title_cn": "欧洲银行表现优于大盘，美国与伊朗的平静结束等等",
+    "summary": "Source: Bloomberg, 7:48",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/european-banks-outperform-us-iran-calm-ends-more",
+    "published": "Wed, 29 Jul 2026 07:19:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.427613"
+  },
+  {
+    "id": "e91c4c38afa4",
+    "title": "Reckitt Sales Rise on Dettol, Durex Demand in Emerging Markets China, India",
+    "title_cn": "滴露、杜蕾斯在中国和印度新兴市场的需求带动利洁时销售额增长",
+    "summary": "Reckitt turnaround boosted; Glencore on course for best ever year",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/reckitt-sales-rise-on-dettol-durex-demand-in-emerging-markets-china-india",
+    "published": "Wed, 29 Jul 2026 07:16:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.521474"
+  },
+  {
+    "id": "77303bd97031",
+    "title": "UBS and Deutsche Bank Deliver Strong Earnings",
+    "title_cn": "瑞银和德意志银行公布强劲盈利",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/ubs-and-deutsche-bank-deliver-strong-earnings",
+    "published": "Wed, 29 Jul 2026 06:33:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.622539"
+  },
+  {
+    "id": "0cb4a824887b",
+    "title": "UBS, Deutsche Bank Beat Expectations, US-Iran Tensions Flare",
+    "title_cn": "瑞银、德意志银行超出预期，美伊紧张局势加剧",
+    "summary": "Source: Bloomberg, 7:48",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/ubs-deutsche-bank-beat-expectations-us-iran-tensions-flare",
+    "published": "Wed, 29 Jul 2026 06:22:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.730983"
+  },
+  {
+    "id": "29d19588220e",
+    "title": "Stock Movers: SK Hynix, BYD, Kandenko (Podcast)",
+    "title_cn": "库存推动者：SK 海力士、比亚迪、Kandenko（播客）",
+    "summary": "Source: Bloomberg, 5:18",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/stock-movers-sk-hynix-byd-kandenko-podcast",
+    "published": "Wed, 29 Jul 2026 06:07:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.838586"
+  },
+  {
+    "id": "745c725b7b1d",
+    "title": "Daybreak Europe Podcast: Surprise Iran Attack (Podcast)",
+    "title_cn": "黎明欧洲播客：伊朗袭击令人惊讶（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/daybreak-europe-podcast-surprise-iran-attack-podcast",
+    "published": "Wed, 29 Jul 2026 06:01:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:52.942660"
+  },
+  {
+    "id": "82eb8db25e7b",
+    "title": "Mozambique Picks Chinese Investors to Build One-Stop Border Post",
+    "title_cn": "莫桑比克选择中国投资者建设一站式边境哨所",
+    "summary": "Mozambique awarded a 25-year contract to two Chinese companies to build and operate a one-stop border post at Machipanda near Zimbabwe, adding to two other logistics deals secured by the firms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/mozambique-picks-chinese-investors-to-build-one-stop-border-post",
+    "published": "Wed, 29 Jul 2026 05:49:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:53.031956"
+  },
+  {
+    "id": "5c14ee581002",
+    "title": "Surprise Iran Attack On US, OpenAI Model Escapes Again, More",
+    "title_cn": "令人惊讶的伊朗对美国的攻击，OpenAI 模型再次逃脱，更多",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/surprise-iran-attack-on-us-openai-model-escapes-again-more",
+    "published": "Wed, 29 Jul 2026 05:35:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:53.137363"
+  },
+  {
+    "id": "380a66c7a220",
+    "title": "OCBC Turns to AI Agents to Speed Up Account Opening for the Rich",
+    "title_cn": "华侨银行求助于人工智能代理以加快富人开户速度",
+    "summary": "Singapore’s push to shorten account opening time for the rich is drawing an artificial intelligence response from its banks, which have been riding a boom in wealth management.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/ocbc-turns-to-ai-agents-to-speed-up-account-opening-for-the-rich",
+    "published": "Wed, 29 Jul 2026 04:42:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:53.279538"
+  },
+  {
     "id": "1d67a1ff3287",
     "title": "US Intercepts Iran Attack on Bases, SK Hynix Profit Disappoints",
     "title_cn": "美国拦截伊朗对基地的袭击，SK海力士利润令人失望",
@@ -7,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/us-intercepts-iran-attack-on-bases-sk-hynix-profit-disappoints",
     "published": "Wed, 29 Jul 2026 03:42:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:01.101904"
+    "fetched_at": "2026-07-29T07:31:53.391437"
   },
   {
     "id": "602b1c22be3a",
@@ -17,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-daybreak-asia-sk-hynix-profit-miss-podcast",
     "published": "Wed, 29 Jul 2026 03:23:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:01.687569"
+    "fetched_at": "2026-07-29T07:31:53.483056"
   },
   {
     "id": "a85c51d61bf3",
@@ -27,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/oil-rises-on-iran-sk-hynix-misses-lofty-ai-expectations-more",
     "published": "Wed, 29 Jul 2026 02:44:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:02.093097"
+    "fetched_at": "2026-07-29T07:31:53.586849"
   },
   {
     "id": "498b8e3f4f9d",
@@ -37,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-law-new-tariffs-comey-asks-for-dismissal-podcast",
     "published": "Wed, 29 Jul 2026 02:19:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:02.559036"
+    "fetched_at": "2026-07-29T07:31:53.691468"
   },
   {
     "id": "fffc765dc291",
@@ -47,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/us-intercepts-iran-attack-on-bases-sk-hynix-profit-miss-more",
     "published": "Wed, 29 Jul 2026 02:04:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:02.919622"
+    "fetched_at": "2026-07-29T07:31:53.796599"
   },
   {
     "id": "14bf78fbc067",
@@ -57,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/us-iran-resume-strikes-sk-hynix-earnings-more",
     "published": "Wed, 29 Jul 2026 01:18:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.296483"
+    "fetched_at": "2026-07-29T07:31:53.878425"
   },
   {
     "id": "f8d45d7f48ea",
@@ -67,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-talks-mike-pence-podcast",
     "published": "Wed, 29 Jul 2026 00:21:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.408005"
+    "fetched_at": "2026-07-29T07:31:53.978265"
   },
   {
     "id": "cbc11cbe5680",
@@ -77,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/us-intercepts-iran-attack-sk-hynix-profit-miss-more",
     "published": "Wed, 29 Jul 2026 00:08:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.534888"
+    "fetched_at": "2026-07-29T07:31:54.131792"
   },
   {
     "id": "f00e0152b135",
@@ -87,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/rio-profit-data-center-fight-rba-eyes-inflation",
     "published": "Tue, 28 Jul 2026 23:20:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.667239"
+    "fetched_at": "2026-07-29T07:31:54.217541"
   },
   {
     "id": "e92dae979aff",
@@ -97,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-28/us-intercepts-iranian-attack-oil-rebounds-more",
     "published": "Tue, 28 Jul 2026 23:10:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.821741"
+    "fetched_at": "2026-07-29T07:31:54.333269"
   },
   {
     "id": "5a883109343e",
@@ -107,97 +197,197 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-28/bloomberg-businessweek-daily-chip-stock-rout-deepens-podcast",
     "published": "Tue, 28 Jul 2026 22:18:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:03.938515"
+    "fetched_at": "2026-07-29T07:31:54.436369"
   },
   {
-    "id": "edc9d1863874",
-    "title": "Bloomberg Talks: Barnes & Noble CEO James Daunt (Podcast)",
-    "title_cn": "彭博社谈话：巴诺书店首席执行官 James Daunt（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/bloomberg-talks-barnes-noble-ceo-james-daunt-podcast",
-    "published": "Tue, 28 Jul 2026 22:11:30 GMT",
+    "id": "02cfffdb2b65",
+    "title": "Surprise Iran Strike Rattles Global Markets, Sends Oil Higher | Insight with Haslinda Amin 7/29/2026",
+    "title_cn": "伊朗意外袭击震撼全球市场，推高油价哈斯琳达·阿明的见解 7/29/2026",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/insight-with-haslinda-amin-7-29-2026-video",
+    "published": "Wed, 29 Jul 2026 07:12:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.065079"
+    "fetched_at": "2026-07-29T07:31:54.794051"
   },
   {
-    "id": "b4fc5dd815b8",
-    "title": "Equities Mixed, AI Worries, Trump Meets Netanyahu, More",
-    "title_cn": "股市涨跌互现、人工智能担忧、特朗普会见内塔尼亚胡等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/equities-mixed-ai-worries-trump-meets-netanyahu-more",
-    "published": "Tue, 28 Jul 2026 22:06:46 GMT",
+    "id": "72a48af78d79",
+    "title": "Valterra Platinum Dividend Surges 29-Fold After Prices Jump",
+    "title_cn": "价格上涨后，Valterra 铂金股息飙升 29 倍",
+    "summary": "Valterra Platinum Ltd. hiked its interim dividend almost 29-fold as the payout beat analyst expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/valterra-platinum-dividend-surges-29-fold-exceeds-estimates",
+    "published": "Wed, 29 Jul 2026 06:10:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.194340"
+    "fetched_at": "2026-07-29T07:31:54.909600"
   },
   {
-    "id": "3981f4fc0f40",
-    "title": "Bloomberg Talks: UPS CEO Carol Tome (Podcast)",
-    "title_cn": "彭博社谈话：UPS 首席执行官卡罗尔·托姆（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/bloomberg-talks-ups-ceo-carol-tome-podcast",
-    "published": "Tue, 28 Jul 2026 22:01:40 GMT",
+    "id": "8a24dd6b5f23",
+    "title": "UBS CEO Ermotti on Credit Suisse, Buyback, Volatility",
+    "title_cn": "瑞银首席执行官埃尔莫蒂谈瑞士信贷、回购、波动性",
+    "summary": "UBS Chief Executive Officer Sergio Ermotti says the integration of former rival Credit Suisse \"is almost done.\" He also talks about the Zurich-based bank's announcement of a new $3 billion share buyback program to run until mid-2027, and how he expects \"spikes of volatility\" to continue in markets for the rest of the year. Ermotti speaks with Bloomberg's Guy Johnson. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/ubs-ceo-sergio-ermotti-speaks-on-bloomberg-television",
+    "published": "Wed, 29 Jul 2026 06:41:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.316276"
+    "fetched_at": "2026-07-29T07:31:55.011785"
   },
   {
-    "id": "713b4efa3fbe",
-    "title": "Investors Bail on Chipmakers Ahead of Earnings Week",
-    "title_cn": "投资者在财报周前对芯片制造商进行保释",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/investors-bail-on-chipmakers-ahead-of-earnings-week",
-    "published": "Tue, 28 Jul 2026 21:40:04 GMT",
+    "id": "1d6dfda99e84",
+    "title": "India to Push Tax Bill For Global Bond Funds Amid Parliament Din",
+    "title_cn": "印度将在议会喧嚣中推动全球债券基金税收法案",
+    "summary": "India’s government expects Parliament to pass a bill that formalizes tax cuts for foreign investors buying its sovereign debt, according to people with knowledge of the matter, betting the legislation’s bipartisan nature will cut through other contentious debates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/india-to-push-tax-bill-for-global-bond-funds-amid-parliament-din",
+    "published": "Wed, 29 Jul 2026 06:36:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.434726"
+    "fetched_at": "2026-07-29T07:31:55.095361"
   },
   {
-    "id": "34f0a09b0895",
-    "title": "Japan Earthquake Leaves Two Dead at Shopping Mall",
-    "title_cn": "日本地震造成购物中心两人死亡",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/japan-earthquake-leaves-two-dead-at-shopping-mall",
-    "published": "Tue, 28 Jul 2026 21:31:47 GMT",
+    "id": "a03afcf51015",
+    "title": "StanChart Has Strong Capital Position, CEO Winters Says",
+    "title_cn": "渣打银行首席执行官温特斯表示，渣打银行拥有强大的资本实力",
+    "summary": "Standard Chartered Chief Executive Officer Bill Winters says the bank is happy with earnings as results beat expectations. \"We feel very, very good about the momentum that we've got,\" he tells Bloomberg's Lizzy Burden. Winters speaks on Bloomberg Television after the London-based lender unveiled a fresh $1 billion share buyback, adding that Standard Chartered has a \"strong capital position.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/stanchart-has-strong-capital-position-ceo-winters-says-video",
+    "published": "Wed, 29 Jul 2026 06:22:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.552845"
+    "fetched_at": "2026-07-29T07:31:55.270132"
   },
   {
-    "id": "8049fb523e17",
-    "title": "PetroChina Weighs Selling Part of Its 15% Stake in LNG Canada: Canada Daily",
-    "title_cn": "加拿大日报：中石油考虑出售其在加拿大液化天然气公司 15% 的部分股份",
-    "summary": "Plus: Amazon adds NHL playoffs to cart",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/petrochina-weighs-selling-part-of-its-15-stake-in-lng-canada-canada-daily",
-    "published": "Tue, 28 Jul 2026 21:27:22 GMT",
+    "id": "a97ae0edfdd0",
+    "title": "Deutsche Bank CFO Akram Sees Trading Momentum Continue",
+    "title_cn": "德意志银行首席财务官阿克拉姆认为交易势头持续",
+    "summary": "Deutsche Bank said second-quarter fixed-income trading revenue rose 16% from a year earlier to a record €2.6 billion, beating analyst estimates and outperforming most of its Wall Street peers. Speaking to Bloomberg Television's Oliver Crook, Chief Financial Officer Raja Akram said trading has continued that momentum into July, describing the start of the month as \"constructive.\" He added that the \"pipelines look pretty full\" on both the markets and investment banking sides and said the bank will “comfortably” reach its full year revenue target and if things go well, it could be “potentially a little bit better”. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/deutsche-bank-cfo-akram-sees-trading-momentum-continue-video",
+    "published": "Wed, 29 Jul 2026 06:17:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.690666"
+    "fetched_at": "2026-07-29T07:31:55.364698"
   },
   {
-    "id": "595bfe937b07",
-    "title": "Strong Earnings Outweigh AI Jitters, Trump Meets with Netanyahu",
-    "title_cn": "特朗普会见内塔尼亚胡，强劲的盈利超过了人工智能的担忧",
-    "summary": "Source: Bloomberg, 5:60",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/strong-earnings-outweigh-ai-jitters-trump-meets-with-netanyahu",
-    "published": "Tue, 28 Jul 2026 21:14:44 GMT",
+    "id": "4392d825cb24",
+    "title": "Horizons Middle East & Africa 7/29/2026",
+    "title_cn": "中东和非洲地平线 7/29/2026",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/horizons-middle-east-africa-7-29-2026-video",
+    "published": "Wed, 29 Jul 2026 06:14:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.803919"
+    "fetched_at": "2026-07-29T07:31:55.470155"
   },
   {
-    "id": "189858bede20",
-    "title": "Stock Movers: UPS, Coca Cola, Hilton (Podcast)",
-    "title_cn": "库存搬运商：UPS、可口可乐、希尔顿（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/stock-movers-ups-coca-cola-hilton-podcast",
-    "published": "Tue, 28 Jul 2026 21:06:35 GMT",
+    "id": "947a3eadb57a",
+    "title": "Gold Wavers as Fed Rate Decision Looms and Mideast Tensions Rise",
+    "title_cn": "随着美联储利率决定临近和中东紧张局势加剧，黄金波动",
+    "summary": "Gold wavered ahead of a finely balanced interest-rate decision by the US Federal Reserve due later Wednesday, while fighting escalated in the Middle East after a brief lull.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/gold-edges-lower-as-traders-assess-prospects-for-fed-rate-hike",
+    "published": "Tue, 28 Jul 2026 23:19:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:04.938635"
+    "fetched_at": "2026-07-29T07:31:55.564305"
   },
   {
-    "id": "295598933a74",
-    "title": "Bloomberg Businessweek Daily: Department of Cerberus (Podcast)",
-    "title_cn": "彭博商业周刊日报：Cerberus 部门（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-28/bloomberg-businessweek-daily-department-of-cerberus-podcast",
-    "published": "Tue, 28 Jul 2026 20:58:31 GMT",
+    "id": "cf66538e752d",
+    "title": "Tech Stocks Extend Drop After SK Hynix Earnings Miss | The China Show | 7/29/2026",
+    "title_cn": "SK 海力士盈利不佳后科技股延续跌势中国展| 2026 年 7 月 29 日",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/the-china-show-7-29-2026-video",
+    "published": "Wed, 29 Jul 2026 06:03:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:05.066234"
+    "fetched_at": "2026-07-29T07:31:55.651879"
+  },
+  {
+    "id": "8a9682bf3542",
+    "title": "Asian Stocks Drop as Chip Rout Deepens, Oil Gains: Markets Wrap",
+    "title_cn": "随着芯片溃败加深，亚洲股市下跌，石油上涨：市场结束",
+    "summary": "Asian stocks fell for a second day as investors rotated out of chip shares amid growing skepticism over whether massive AI spending will deliver sufficient returns. Oil climbed after fighting erupted in the Middle East.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 28 Jul 2026 22:15:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:55.762912"
+  },
+  {
+    "id": "75d9245b7f55",
+    "title": "Korean Stocks Plunge as Much as 13% in Burst of Retail Selling",
+    "title_cn": "零售抛售爆发，韩国股市暴跌 13%",
+    "summary": "South Korean stocks slumped as retail investors rushed to cut positions, with SK Hynix Inc.’s disappointing earnings worsening the already‑jittery sentiment around artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
+    "published": "Wed, 29 Jul 2026 02:52:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:55.851291"
+  },
+  {
+    "id": "d6c9e8d37c15",
+    "title": "FTSE 100 Live: UK Stock Futures Ease as Focus on Earnings",
+    "title_cn": "富时 100 指数实时：英国股票期货因关注盈利而走软",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-07-29/ftse-100-live-pound-gilts-earnings-us-iran-war-chip-stocks-oil-prices-what-s-moving-uk-markets-right-now-markets-today-ms5nzaym",
+    "published": "Wed, 29 Jul 2026 05:48:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:55.957915"
+  },
+  {
+    "id": "7e99fc813613",
+    "title": "Rio Tinto Says Iron Ore Demand Remains Resilient, Stable",
+    "title_cn": "力拓称铁矿石需求保持弹性、稳定",
+    "summary": "Simon Trott, CEO of Rio Tinto, the world's second-largest miner by market capitalization, says iron ore demand remains resilient and stable. He speaks with Haidi Stroud-Watts and Paul Allen on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/rio-tinto-says-iron-ore-demand-remains-resilient-stable-video",
+    "published": "Wed, 29 Jul 2026 05:42:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.053993"
+  },
+  {
+    "id": "a43d374361a6",
+    "title": "Deutsche Bank CFO Sees Trading Momentum Continue in July",
+    "title_cn": "德意志银行首席财务官预计 7 月份交易势头将持续",
+    "summary": "Deutsche Bank AG Chief Financial Officer Raja Akram says trading started \"constructively\" in July, continuing the momentum from the previous month. He tells Bloomberg's Oliver Crook the \"pipelines look pretty full\" both on the market side and on the investment banking side. Akram speaks on Bloomberg Television as the bank announced revenue from fixed-income trading jumped in the second quarter as the unit outperformed most of its US peers.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/deutsche-bank-cfo-sees-trading-momentum-continue-in-july-video",
+    "published": "Wed, 29 Jul 2026 05:40:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.203040"
+  },
+  {
+    "id": "7b23453dcc72",
+    "title": "UAE Presses Ahead With Persian Gulf LNG Exports Despite Tensions",
+    "title_cn": "尽管局势紧张，阿联酋仍继续推进波斯湾液化天然气出口",
+    "summary": "Abu Dhabi National Oil Co. is pushing on with liquefied natural gas exports from its Persian Gulf plant, even as renewed hostilities in the region force producers to curb visible traffic through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/uae-presses-ahead-with-persian-gulf-lng-exports-despite-tensions",
+    "published": "Wed, 29 Jul 2026 05:26:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.308038"
+  },
+  {
+    "id": "efbc07ef03bc",
+    "title": "Philippine Banks Set Aside More Loan Provisions as Inflation Surges on War",
+    "title_cn": "随着战争导致的通货膨胀飙升，菲律宾银行拨备了更多贷款准备金",
+    "summary": "Philippine banks have set aside the most funds for potential loan losses since at least 2008, bracing for defaults as the Middle East conflict weighs on an already weak economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/philippine-banks-set-aside-more-loan-provisions-as-inflation-surges-on-war",
+    "published": "Wed, 29 Jul 2026 05:13:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.388622"
+  },
+  {
+    "id": "f52d49ed5ba2",
+    "title": "SoftBank Sells Yen Bond to Institutions at Year’s Top Coupon",
+    "title_cn": "软银以年度最高息票向机构出售日元债券",
+    "summary": "SoftBank Group Corp. on Wednesday priced a ¥90 billion ($550 million) bond offering sold to institutional investors as the company broadens its funding sources at home and abroad to pay for its massive investments in artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/softbank-sells-yen-bond-to-institutions-at-year-s-highest-coupon",
+    "published": "Wed, 29 Jul 2026 03:49:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.485653"
+  },
+  {
+    "id": "8ad6c35d80a5",
+    "title": "Latest Oil Market News and Analysis for July 29",
+    "title_cn": "7 月 29 日最新石油市场新闻和分析",
+    "summary": "Oil surged as a fresh round of fighting erupted across the Middle East, threatening further disruptions to energy flows and severely undermining diplomatic efforts to end the months-old conflict.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
+    "published": "Tue, 28 Jul 2026 22:01:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.582563"
+  },
+  {
+    "id": "6d86453525f1",
+    "title": "Traders Weigh Renewed US-Iran Strikes, SK Hynix Earnings | The Asia Trade 7/29/2026",
+    "title_cn": "交易员权衡美国与伊朗的新一轮罢工和 SK 海力士收益 |亚洲贸易 7/29/2026",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/the-asia-trade-7-29-2026-video",
+    "published": "Wed, 29 Jul 2026 04:36:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T07:31:56.686489"
   },
   {
     "id": "9aadbc771a8c",
@@ -207,197 +397,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/unilever-india-gets-rating-upgrades-after-worst-day-in-six-years",
     "published": "Wed, 29 Jul 2026 03:40:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:05.718081"
+    "fetched_at": "2026-07-29T07:31:56.794633"
   },
   {
-    "id": "8a9682bf3542",
-    "title": "Asian Stocks Slump as Chip Rout Deepens, Oil Gains: Markets Wrap",
-    "title_cn": "随着芯片溃败加深，亚洲股市暴跌，石油上涨：市场结束",
-    "summary": "Asian stocks fell for a second day as investors rotated out of chip shares amid growing skepticism over whether massive AI spending will deliver sufficient returns. Oil climbed after fighting erupted in the Middle East.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 28 Jul 2026 22:15:52 GMT",
+    "id": "6b15b3c6a040",
+    "title": "SK Hynix Drops as Profit Disappoints",
+    "title_cn": "SK海力士因利润令人失望而下跌",
+    "summary": "SK Hynix shares slide by a daily record of around 19% in Seoul Wednesday, erasing early gains after the memory maker reported lower-than-expected operating profit for the second quarter and announced plans for higher spending. The company earmarked at least $31 billion in capital spending this year after reporting a six-fold surge in quarterly profit. Bloomberg's Anthony Stephens reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/sk-hynix-drops-as-profit-disappoints-video",
+    "published": "Wed, 29 Jul 2026 07:25:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:05.852200"
+    "fetched_at": "2026-07-29T07:31:57.313643"
   },
   {
-    "id": "3f1671d952aa",
-    "title": "Japan Earthquake Leaves 13 Dead",
-    "title_cn": "日本地震造成13人死亡",
-    "summary": "Rescuers continued the hunt for survivors in the ruins of a shopping mall on the southwestern island of Kyushu on Wednesday, after a major earthquake in which 13 people have been confirmed dead so far. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/japan-earthquake-leaves-13-dead",
-    "published": "Wed, 29 Jul 2026 02:17:51 GMT",
+    "id": "c8c2ad699cbd",
+    "title": "US Risks Broadening China Clash With Robot, Inverter Curbs",
+    "title_cn": "美国对机器人、逆变器的限制可能导致中国与美国的冲突扩大",
+    "summary": "Washington tightened curbs on some foreign-made robots and inverters, vital components of solar-powered electricity, in a sweeping move that risks widening its tech confrontation with Beijing less than two months before a meeting between the two countries’ leaders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
+    "published": "Wed, 29 Jul 2026 04:11:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:05.986990"
+    "fetched_at": "2026-07-29T07:31:57.397378"
   },
   {
-    "id": "75d9245b7f55",
-    "title": "Korean Stocks See Record Wave of Trading Halts on Chip Selloff",
-    "title_cn": "韩国股市因芯片抛售而出现创纪录的交易暂停浪潮",
-    "summary": "South Korea’s stock selloff deepened as SK Hynix Inc.’s earnings disappointed, worsening the already‑jittery sentiment around artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
-    "published": "Wed, 29 Jul 2026 02:52:10 GMT",
+    "id": "45fc1b342bdf",
+    "title": "Advantest Lifts Outlook After AI Chip Tester Demand Soars",
+    "title_cn": "AI芯片测试仪需求猛增后，Advantest上调展望",
+    "summary": "Advantest Corp. raised its outlook above estimates, pointing to robust demand for testers needed to manufacture increasingly complex chips for AI data centers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/advantest-lifts-outlook-after-demand-for-ai-chip-testers-soars",
+    "published": "Wed, 29 Jul 2026 06:47:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.116358"
+    "fetched_at": "2026-07-29T07:31:57.477327"
   },
   {
-    "id": "5db1912899e5",
-    "title": "Spain’s Warren Buffett Followers Score a Rare Win for Value Investing",
-    "title_cn": "西班牙的沃伦·巴菲特追随者在价值投资方面取得了罕见的胜利",
-    "summary": "<p>Madrid has turned into a value&nbsp;hub thanks to years of market-beating returns by Francisco García Paramés and his peers.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/spain-s-warren-buffett-followers-score-a-rare-win-for-value-investing",
-    "published": "Wed, 29 Jul 2026 04:00:24 GMT",
+    "id": "0d8bcd450326",
+    "title": "AI Stock Selloff Accelerates as Investors Rotate Out of Chip Winners",
+    "title_cn": "随着投资者淘汰芯片获胜者，人工智能股票抛售加速",
+    "summary": "After piling into chip stocks and so-called AI winners, investors are now rushing to cut this exposure and rebalance portfolios. Even allowing for that, an acceleration of the selloff in recent days over China competitive risks looks premature.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/dramatic-reversal-in-the-ai-trade-looks-overdone-taking-stock",
+    "published": "Wed, 29 Jul 2026 06:33:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.224510"
+    "fetched_at": "2026-07-29T07:31:57.567457"
   },
   {
-    "id": "99c70fbc3ce7",
-    "title": "Manchester Mayoral Vote to Give Andy Burnham Early Verdict on UK Premiership",
-    "title_cn": "曼彻斯特市长投票对安迪·伯纳姆（Andy Burnham）英国英超提前做出裁决",
-    "summary": "Andy Burnham is about to get an early verdict on his leadership from his very own backyard.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/manchester-mayoral-vote-to-give-andy-burnham-early-verdict-on-uk-premiership",
-    "published": "Wed, 29 Jul 2026 04:00:00 GMT",
+    "id": "2b1c9f59af09",
+    "title": "OpenAI Models Accessed Cloud Platform Before Hugging Face Hack",
+    "title_cn": "OpenAI 模型在拥抱脸部黑客之前已访问云平台",
+    "summary": "The OpenAI models that hacked the startup Hugging Face Inc. this month also gained access to a customer account on the cloud platform Modal and used it to launch attacks, underscoring the broad scope of the incident.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
+    "published": "Tue, 28 Jul 2026 22:06:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.345818"
+    "fetched_at": "2026-07-29T07:31:57.662235"
   },
   {
-    "id": "20a0a352d652",
-    "title": "US Intercepts Iran Attack on Bases, Puncturing Calm",
-    "title_cn": "美国拦截伊朗对基地的袭击，打破平静",
-    "summary": "The US said it intercepted an Iranian attack on military bases, ending a dayslong pause in fighting and increasing the risk of a return to full-blown war in the Middle East. Bloomberg's Abeer Abu Omar has the latest. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/us-intercepts-iran-attack-on-bases-puncturing-calm-video",
-    "published": "Wed, 29 Jul 2026 03:55:24 GMT",
+    "id": "f2bafa124c16",
+    "title": "Legrand Lifts Outlook as Clients Pour Billions Into Data Centers",
+    "title_cn": "客户向数据中心投入数十亿美元，罗格朗提升前景",
+    "summary": "Legrand SA boosted its sales guidance as customers continue to invest heavily in artificial intelligence infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/legrand-lifts-outlook-as-clients-pour-billions-into-data-centers",
+    "published": "Wed, 29 Jul 2026 05:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.457490"
-  },
-  {
-    "id": "f52d49ed5ba2",
-    "title": "SoftBank Sells Yen Bond to Institutions at Year’s Highest Coupon",
-    "title_cn": "软银以年度最高息票向机构出售日元债券",
-    "summary": "SoftBank Group Corp. on Wednesday priced a ¥90 billion ($550 million) bond offering sold to institutional investors as the company broadens its funding sources at home and abroad to pay for its massive investments in artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/softbank-sells-yen-bond-to-institutions-at-year-s-highest-coupon",
-    "published": "Wed, 29 Jul 2026 03:49:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.570586"
-  },
-  {
-    "id": "f7cd6f570faf",
-    "title": "Japan’s GPIF Boosts JGB Expertise by Employing Active Bond Funds",
-    "title_cn": "日本 GPIF 通过采用主动债券基金提升 JGB 专业知识",
-    "summary": "Japan’s Government Pension Investment Fund hired active domestic bond funds for the first time in five years, a recognition that one of the world’s biggest retirement money managers needs to increase its expertise to deal with volatility in the nation’s debt market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/japan-s-gpif-boosts-jgb-expertise-by-employing-active-bond-funds",
-    "published": "Wed, 29 Jul 2026 03:35:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.671422"
-  },
-  {
-    "id": "88e96508cdcd",
-    "title": "Wheat Futures Climb for Second Day as Black Sea Exports Falter",
-    "title_cn": "由于黑海出口疲弱，小麦期货连续第二天上涨",
-    "summary": "Wheat futures rose for a second session as escalating attacks between Russia and Ukraine threaten export prospects from two of the world’s top suppliers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/wheat-futures-climb-for-second-day-as-black-sea-exports-falter",
-    "published": "Wed, 29 Jul 2026 03:32:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.793119"
-  },
-  {
-    "id": "8ad6c35d80a5",
-    "title": "Latest Oil Market News and Analysis for July 29",
-    "title_cn": "7 月 29 日最新石油市场新闻和分析",
-    "summary": "Oil surged as a fresh round of fighting erupted across the Middle East, casting a pall over on-off diplomatic efforts to end the months-long conflict and threatening further disruptions to energy flows.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
-    "published": "Tue, 28 Jul 2026 22:01:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:06.919747"
-  },
-  {
-    "id": "de52d40a0e5f",
-    "title": "HK Finance Stocks Eye Best Month in Two Years as Tech Hopes Wane",
-    "title_cn": "随着科技股的希望减弱，香港金融股迎来两年来最好的月份",
-    "summary": "Financial stocks listed in Hong Kong are poised for their biggest monthly advance in nearly two years, with investors piling into banks and insurers as enthusiasm for technology shares fades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/hk-finance-stocks-eye-best-month-in-two-years-as-tech-hopes-wane",
-    "published": "Wed, 29 Jul 2026 02:49:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.041350"
-  },
-  {
-    "id": "41b6bda3f8fb",
-    "title": "Gold Flows to Hong Kong Hit Decade-High Before Clearing Launch",
-    "title_cn": "流入香港的黄金在清算启动前创下十年新高",
-    "summary": "Hong Kong’s imports of gold surged to the most since late-2014 in June, driven by preparations for the city’s recently-launched clearing system as well as solid demand from mainland China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/gold-flows-to-hong-kong-hit-decade-high-before-clearing-launch",
-    "published": "Wed, 29 Jul 2026 02:39:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.173587"
-  },
-  {
-    "id": "8e04aa9a15fc",
-    "title": "Indian IT Stocks Stage a Comeback as Global AI Trade Falters",
-    "title_cn": "全球人工智能贸易衰退，印度 IT 股卷土重来",
-    "summary": "The Nifty IT Index’s correlation with the Philadelphia Semiconductor Index has fallen to its lowest level since 2018.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/indian-it-stocks-stage-a-comeback-as-global-ai-trade-falters",
-    "published": "Wed, 29 Jul 2026 02:30:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.292698"
-  },
-  {
-    "id": "d1ea387fc299",
-    "title": "Hynix's Future Earnings to Pick Up, CLSA's Rana Says",
-    "title_cn": "里昂证券的拉纳表示，海力士未来的盈利将会回升",
-    "summary": "Sanjeev Rana, head of research at CLSA Securities Korea, believes Hynix's earnings miss was the result of a weak product mix in the second quarter, and he expects \"sequential earnings improvement.\" Meanwhile, KB Financial Group Global Investment Strategist Peter Kim shares his takes on the underlying trends driving the selloff in AI stocks. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/hynix-s-future-earnings-to-pick-up-clsa-s-rana-says-video",
-    "published": "Wed, 29 Jul 2026 02:26:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.403408"
-  },
-  {
-    "id": "cfcff34eb557",
-    "title": "Woodside Natural Gas Output Slumps on Cyclone, Maintenance",
-    "title_cn": "伍德赛德天然气产量因旋风分离器和维护而大幅下降",
-    "summary": "Woodside Energy Group Ltd., Australia’s biggest natural gas exporter, said output slumped by more than a quarter in the three months through June after a cyclone that impacted operations and planned maintenance at its Pluto export plant.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/woodside-natural-gas-production-slumps-on-cyclone-maintenance",
-    "published": "Tue, 28 Jul 2026 23:46:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.519917"
-  },
-  {
-    "id": "ffa903ba0537",
-    "title": "Japanese Construction Shares Gain After Deadly Kyushu Earthquake",
-    "title_cn": "日本建筑股在九州大地震后上涨",
-    "summary": "Japanese construction-related shares rose on expectations of rebuilding demand following a magnitude 7.1 earthquake on the southwestern island of Kyushu.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/japan-quake-may-weigh-on-shares-including-aeon-nippon-paper",
-    "published": "Tue, 28 Jul 2026 23:45:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.660751"
-  },
-  {
-    "id": "2c974c442eba",
-    "title": "One SK Hynix Stock Trade Blew Up $60 Million in Crypto Bets",
-    "title_cn": "SK 海力士的一笔股票交易让加密货币押注高达 6000 万美元",
-    "summary": "The crypto industry learned an expensive lesson this week when a Korean chip manufacturer’s shares suddenly dropped.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/one-ai-chipmaker-trade-blew-up-60-million-in-crypto-bets",
-    "published": "Wed, 29 Jul 2026 01:20:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.790069"
-  },
-  {
-    "id": "0416a8e7642e",
-    "title": "Korea-Hong Kong Correlation Shows Shorts Unwind: Equity Insight",
-    "title_cn": "韩国与香港的相关性显示空头平仓：股票洞察",
-    "summary": "Global funds entered short positions in Hong Kong tech stocks earlier this year to raise funds to invest in South Korea’s chip giants, but the latest correlation numbers show those trades look to be rapidly unwinding.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/korea-hong-kong-correlation-shows-shorts-unwind-equity-insight",
-    "published": "Wed, 29 Jul 2026 01:12:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:07.905567"
-  },
-  {
-    "id": "e4a52f437f11",
-    "title": "FIA CEO on Prediction Market 'Disruption,' Regulation",
-    "title_cn": "国际汽联首席执行官谈预测市场“颠覆”和监管",
-    "summary": "As prediction market giants like Kalshi and Polymarket begin offering perpetual futures trading with CFTC approval, other investment platforms are looking to expand their offerings.  CME Group is launching single-stock futures, allowing investors to hedge or speculate on more than 50 of the largest US companies. The contracts, offering leverage without the complexity of options, will be cash-settled on the closing price of the stocks they’re tied to. FIA CEO Walt Lukken joins Bloomberg Businessweek Daily to discuss the launch of these investment products, why he says prediction market \"disruption\" is good for building out best regulatory practices for the industry, and more. Lukken speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/fia-ceo-on-prediction-market-disruption-regulation-video",
-    "published": "Wed, 29 Jul 2026 01:03:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:08.009280"
+    "fetched_at": "2026-07-29T07:31:57.766719"
   },
   {
     "id": "ef3016af5cef",
@@ -407,17 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/sk-hynix-s-record-profit-misses-investors-lofty-ai-expectations",
     "published": "Tue, 28 Jul 2026 22:51:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:08.957616"
-  },
-  {
-    "id": "c8c2ad699cbd",
-    "title": "US Risks Broadening China Tech Clash With Robot, Inverter Curbs",
-    "title_cn": "美国因机器人、逆变器限制而面临扩大中国科技冲突的风险",
-    "summary": "Washington risked widening its tech confrontation with China by restricting more foreign-made goods, including some humanoid robots and power inverters.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
-    "published": "Wed, 29 Jul 2026 04:11:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.061451"
+    "fetched_at": "2026-07-29T07:31:57.860497"
   },
   {
     "id": "17f26ca818e1",
@@ -427,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/airtrunk-gets-2-3-billion-green-loan-for-malaysia-data-center",
     "published": "Wed, 29 Jul 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.178867"
+    "fetched_at": "2026-07-29T07:31:57.966316"
   },
   {
     "id": "584d2844142f",
@@ -437,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/vantage-is-said-to-mull-2-billion-data-center-sale-in-malaysia",
     "published": "Wed, 29 Jul 2026 03:58:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.441378"
+    "fetched_at": "2026-07-29T07:31:58.137933"
   },
   {
     "id": "9fed55d1a3f8",
@@ -447,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/sixth-street-sk-telecom-gic-are-said-to-vie-for-bain-s-bridge",
     "published": "Wed, 29 Jul 2026 03:31:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.535172"
+    "fetched_at": "2026-07-29T07:31:58.240828"
   },
   {
     "id": "3cce84a9d1a2",
@@ -457,17 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/hongkong-land-cfo-on-1h26-results-video",
     "published": "Wed, 29 Jul 2026 02:38:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.640411"
-  },
-  {
-    "id": "2b1c9f59af09",
-    "title": "OpenAI Models Compromised a Customer at a Second Tech Firm",
-    "title_cn": "OpenAI 模型损害了第二家科技公司的客户",
-    "summary": "An OpenAI artificial intelligence agent that breached systems at the startup Hugging Face Inc. earlier this month also compromised a customer of the technology company Modal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-rogue-agent-hacked-account-at-a-second-firm-reuters-says",
-    "published": "Tue, 28 Jul 2026 22:06:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.760431"
+    "fetched_at": "2026-07-29T07:31:58.386171"
   },
   {
     "id": "34468f3b83bc",
@@ -477,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/capcom-shares-surge-after-record-catalog-sales-1q-profit-beat",
     "published": "Wed, 29 Jul 2026 01:08:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:09.890442"
+    "fetched_at": "2026-07-29T07:31:58.466106"
   },
   {
     "id": "7f1a314cdbd4",
@@ -487,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/malaysia-drops-blockchain-event-backing-over-ex-onlyfans-star",
     "published": "Wed, 29 Jul 2026 01:05:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.013538"
+    "fetched_at": "2026-07-29T07:31:58.566149"
   },
   {
     "id": "be9d3ab0dec2",
@@ -497,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/australia-s-world-first-data-center-rules-face-first-hurdle",
     "published": "Tue, 28 Jul 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.114407"
+    "fetched_at": "2026-07-29T07:31:58.657495"
   },
   {
     "id": "54c936c34f5e",
@@ -507,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/sk-hynix-s-profit-jump-misses-lofty-ai-expectations-video",
     "published": "Tue, 28 Jul 2026 23:46:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.258049"
+    "fetched_at": "2026-07-29T07:31:58.829519"
   },
   {
     "id": "bfd06dcac085",
@@ -517,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/hong-kong-data-center-loan-sale-shows-banks-hitting-sector-limits",
     "published": "Tue, 28 Jul 2026 23:11:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.374266"
+    "fetched_at": "2026-07-29T07:31:58.928557"
   },
   {
     "id": "51b0eeeae13f",
@@ -527,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/xrc-ventures-founder-on-the-need-for-ai-regulation-video",
     "published": "Tue, 28 Jul 2026 23:04:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.481836"
+    "fetched_at": "2026-07-29T07:31:59.015369"
   },
   {
     "id": "877abe9ed56e",
@@ -537,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/openai-anthropic-staff-share-letter-asking-us-to-help-pace-ai-progress",
     "published": "Tue, 28 Jul 2026 16:38:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.616838"
+    "fetched_at": "2026-07-29T07:31:59.124850"
   },
   {
     "id": "1e8577265790",
@@ -547,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/bitcoin-excluded-from-new-s-p-pantera-digital-asset-index",
     "published": "Tue, 28 Jul 2026 21:42:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.757470"
+    "fetched_at": "2026-07-29T07:31:59.224863"
   },
   {
     "id": "f190cea61515",
@@ -557,47 +597,27 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/bloomberg-crypto-7-28-2026-video",
     "published": "Tue, 28 Jul 2026 20:04:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:10.874910"
+    "fetched_at": "2026-07-29T07:31:59.318363"
   },
   {
-    "id": "112f88bccc46",
-    "title": "Crypto Rewiring Financial Infrastructure",
-    "title_cn": "加密货币重塑金融基础设施",
-    "summary": "Dushyant Shahrawat, Bloomberg Intelligence Crypto & Assets Analyst, says crypto it here to stay and promises to change the way financial products are manufactured. He argues that just like we got used to trusting software and AI, the financial world will do the same with cryptocurrencies, and that the increased use of platforms like Venmo was just the first step. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/crypto-rewiring-financial-infrastructure-video",
-    "published": "Tue, 28 Jul 2026 21:20:57 GMT",
+    "id": "3df865f8aa30",
+    "title": "Russia Charges Telegram Founder Durov With Aiding Terrorism",
+    "title_cn": "俄罗斯指控 Telegram 创始人杜罗夫协助恐怖主义",
+    "summary": "Russia charged billionaire Telegram co-founder Pavel Durov with aiding terrorism, accusing him of allowing the popular messaging app to be used by Ukrainian security services.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/russia-charges-telegram-founder-durov-with-aiding-terrorism",
+    "published": "Wed, 29 Jul 2026 06:25:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:11.005593"
+    "fetched_at": "2026-07-29T07:31:59.663119"
   },
   {
-    "id": "5af7799656ee",
-    "title": "NXP’s Upbeat Revenue Forecast Fails to Impress Investors",
-    "title_cn": "恩智浦乐观的收入预测未能打动投资者",
-    "summary": "NXP Semiconductors NV struggled to impress investors with a generally upbeat forecast for the current period, the latest sign of deepening concern about the chip sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors",
-    "published": "Tue, 28 Jul 2026 20:44:03 GMT",
+    "id": "71b2a88cc084",
+    "title": "Key Takeaways From Trump and Netanyahu's Meeting",
+    "title_cn": "特朗普和内塔尼亚胡会晤的主要收获",
+    "summary": "US President Donald Trump welcomed Israeli Prime Minister Benjamin Netanyahu to the White House for talks on Tuesday. The Israeli prime minister pressed the US to ensure Iran never acquires nuclear weapons. Netanyahu was in Washington for the funeral of Senator Lindsey Graham, a longtime Iran hawk. Bloomberg's Dan Williams breaks down the situation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/key-takeaways-from-trump-and-netanyahu-s-meeting-video",
+    "published": "Wed, 29 Jul 2026 05:30:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:11.137760"
-  },
-  {
-    "id": "da464de07aab",
-    "title": "Future of Finance Will Run on 'Crypto Rails': VanGrack",
-    "title_cn": "VanGrack：金融的未来将在“加密轨道”上运行",
-    "summary": "Ryan VanGrack, vice chair and head of corporate affairs of Coinbase, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto\" to discuss the importance of the passage of the US Clarity Act.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-28/future-of-finance-will-run-on-crypto-rails-vangrack-video",
-    "published": "Tue, 28 Jul 2026 21:13:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:11.253991"
-  },
-  {
-    "id": "1d039723ae4d",
-    "title": "Race for Chip Riches Heats Up as Kioxia Faces Emboldened Rivals",
-    "title_cn": "Kioxia 面临胆大妄为的竞争对手，芯片财富争夺战愈演愈烈",
-    "summary": "<p>The chipmaker needs to prove&nbsp;it’s more than an accidental beneficiary of a supply squeeze in storage.&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-07-28/rescued-by-the-ai-boom-japan-s-kioxia-faces-a-capex-race",
-    "published": "Tue, 28 Jul 2026 21:00:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:11.372911"
+    "fetched_at": "2026-07-29T07:31:59.816060"
   },
   {
     "id": "a287980a768b",
@@ -607,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/malaysia-arrests-335-in-online-scam-raids-at-johor-s-forest-city",
     "published": "Wed, 29 Jul 2026 04:24:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:12.781031"
+    "fetched_at": "2026-07-29T07:31:59.918459"
   },
   {
     "id": "e793b145c2e2",
@@ -617,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/india-s-cockroach-party-threatens-new-protest-after-court-order",
     "published": "Tue, 28 Jul 2026 16:25:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:12.921238"
+    "fetched_at": "2026-07-29T07:32:00.097762"
   },
   {
     "id": "0e03bf9cb5c6",
@@ -627,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/trump-asks-supreme-court-to-scrap-83-3-million-carroll-verdict",
     "published": "Tue, 28 Jul 2026 22:17:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.039040"
+    "fetched_at": "2026-07-29T07:32:00.185151"
   },
   {
     "id": "21228e255e98",
@@ -637,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/trump-netanyahu-meet-at-white-house-us-dials-back-iran-threats",
     "published": "Tue, 28 Jul 2026 18:39:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.156945"
+    "fetched_at": "2026-07-29T07:32:00.281875"
   },
   {
     "id": "08139472c347",
@@ -647,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/japan-secondary-capital-why-does-tokyo-need-a-backup-which-cities-are-bidding",
     "published": "Wed, 29 Jul 2026 01:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.280418"
+    "fetched_at": "2026-07-29T07:32:00.377714"
   },
   {
     "id": "5f7f678cd4bb",
@@ -657,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-senators-announce-deal-on-new-russia-iran-sanctions-bill",
     "published": "Tue, 28 Jul 2026 13:01:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.401090"
+    "fetched_at": "2026-07-29T07:32:00.481008"
   },
   {
     "id": "1c475c8e5ef0",
@@ -667,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/cornyn-says-no-deal-to-pave-way-for-blanche-confirmation",
     "published": "Tue, 28 Jul 2026 18:02:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.515766"
+    "fetched_at": "2026-07-29T07:32:00.576892"
   },
   {
     "id": "443818601ccc",
@@ -677,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/zelenskyy-says-he-had-good-talk-with-trump-on-patriot-missiles",
     "published": "Tue, 28 Jul 2026 18:48:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.665673"
+    "fetched_at": "2026-07-29T07:32:00.667544"
   },
   {
     "id": "dbee0af98f5c",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/balance-of-power-late-edition-07-28-2026-video",
     "published": "Tue, 28 Jul 2026 23:53:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.796844"
+    "fetched_at": "2026-07-29T07:32:00.756003"
   },
   {
     "id": "96f61490b24c",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/us-senate-confirms-clayton-to-replace-pulte-as-trump-s-spy-chief",
     "published": "Tue, 28 Jul 2026 23:14:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:13.911866"
+    "fetched_at": "2026-07-29T07:32:00.864993"
   },
   {
     "id": "4e394f4be15f",
@@ -707,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/jared-bernstein-on-fed-facing-new-pressure-to-hike-rates-video",
     "published": "Tue, 28 Jul 2026 23:13:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.050245"
+    "fetched_at": "2026-07-29T07:32:00.974713"
   },
   {
     "id": "745a306fe708",
@@ -717,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/fujimori-gives-peru-its-best-shot-at-breaking-cycle-of-presidential-chaos",
     "published": "Tue, 28 Jul 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.176880"
+    "fetched_at": "2026-07-29T07:32:01.081212"
   },
   {
     "id": "0d9ce6bbbb15",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/graham-was-a-key-voice-for-ukraine-farkas-video",
     "published": "Tue, 28 Jul 2026 23:06:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.273750"
+    "fetched_at": "2026-07-29T07:32:01.181728"
   },
   {
     "id": "4c31b2e04dc2",
@@ -737,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/netanyahu-trump-meet-at-the-white-house-video",
     "published": "Tue, 28 Jul 2026 22:34:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.388007"
+    "fetched_at": "2026-07-29T07:32:01.346396"
   },
   {
     "id": "72efe1ef3321",
@@ -747,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/mike-pence-on-lindsey-graham-s-legacy-ukraine-and-iran-video",
     "published": "Tue, 28 Jul 2026 22:28:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.511949"
+    "fetched_at": "2026-07-29T07:32:01.426059"
   },
   {
     "id": "3619eaeaa833",
@@ -757,17 +777,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/trump-administration-to-end-drug-plan-subsidy-for-medicare",
     "published": "Tue, 28 Jul 2026 21:27:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.628763"
+    "fetched_at": "2026-07-29T07:32:01.515290"
   },
   {
     "id": "0b4fc1e35b17",
     "title": "Incoming Tech Earnings, Fed Decision Day | Bloomberg Businessweek Daily 7/28/2026",
-    "title_cn": "即将发布的科技财报，美联储决策日 |彭博商业周刊日报 7/28/2026",
+    "title_cn": "即将发布的科技财报，美联储决策日|彭博商业周刊日报 7/28/2026",
     "summary": "The Fed kicks off the second two-day policy meeting under Chair Kevin Warsh's leadership. Bloomberg's Economics & Policy Correspondent Mike McKee has the preview. Plus, Wednesday kicks off a massive round of tech earnings from some of the industry's biggest names including Meta, Microsoft, and Apple. Bloomberg Intelligence's Global Head of Technology Research Mandeep Singh talks about what he'll be looking out for. Then, Nebex CEO Tejpaul Bhatia explains how his company is working to boost the commercial space industry despite the dominance of SpaceX and possible red-tape from working across various governments. Finally, Bloomberg 'Business of Sports' Hosts Vanessa Perdomo-Maglione and Randall Williams join to talk about reporting that FIFA is planning to raise as much as $4.2 billion from external investors. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-07-28/bloomberg-businessweek-daily-7-28-2026-video",
     "published": "Tue, 28 Jul 2026 22:13:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.740795"
+    "fetched_at": "2026-07-29T07:32:01.623483"
   },
   {
     "id": "e073c4123033",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/nvidia-ceo-jensen-huang-urges-support-for-open-weight-ai-models",
     "published": "Tue, 28 Jul 2026 18:51:08 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.853085"
-  },
-  {
-    "id": "0b8df4174355",
-    "title": "Burnham Vows to Tackle UK’s Expensive Social Care Problems",
-    "title_cn": "伯纳姆誓言解决英国昂贵的社会关怀问题",
-    "summary": "Prime Minister Andy Burnham will meet opposition party leaders on Wednesday to kickstart his effort to reform the UK’s creaking social care system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/burnham-vows-to-tackle-uk-s-expensive-social-care-problems",
-    "published": "Tue, 28 Jul 2026 21:55:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:14.991686"
-  },
-  {
-    "id": "b19643e9eb90",
-    "title": "Militias in Iraq Attack Saudi Oil Facilities for a Second Day",
-    "title_cn": "伊拉克民兵连续第二天袭击沙特石油设施",
-    "summary": "Iran-backed militias in Iraq fired drones at oil facilities in Saudi Arabia’s Eastern Region for the second day in a row, piling pressure on the kingdom, which is grappling with a maritime blockade limiting its crude oil shipments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/militias-in-iraq-attack-saudi-oil-facilities-for-a-second-day",
-    "published": "Tue, 28 Jul 2026 21:51:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T04:33:15.108748"
+    "fetched_at": "2026-07-29T07:32:01.720147"
   }
 ]
