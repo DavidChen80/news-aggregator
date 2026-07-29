@@ -1,5 +1,85 @@
 [
   {
+    "id": "ef7fff0f86f2",
+    "title": "Fed To Decide Hold or Hike, Trump: US Will Hit Iran Hard, More",
+    "title_cn": "美联储决定维持利率还是加息，特朗普：美国将严厉打击伊朗",
+    "summary": "Source: Bloomberg, 4:39",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/fed-to-decide-hold-or-hike-trump-us-will-hit-iran-hard-more",
+    "published": "Wed, 29 Jul 2026 16:28:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:17.157090"
+  },
+  {
+    "id": "23e473650e88",
+    "title": "Bloomberg Talks: SoFi CEO Anthony Noto (Podcast)",
+    "title_cn": "彭博社谈话：SoFi 首席执行官 Anthony Noto（播客）",
+    "summary": "Source: Bloomberg, 6:43",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-talks-sofi-ceo-anthony-noto-podcast",
+    "published": "Wed, 29 Jul 2026 16:22:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:17.535643"
+  },
+  {
+    "id": "ba96f8b85afb",
+    "title": "Bloomberg Talks: Mike Wilson (Podcast)",
+    "title_cn": "彭博谈话：迈克·威尔逊（播客）",
+    "summary": "Source: Bloomberg, 5:35",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-talks-mike-wilson-podcast",
+    "published": "Wed, 29 Jul 2026 16:22:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:18.515294"
+  },
+  {
+    "id": "762f1718c798",
+    "title": "Burnham Seeks to Avoid “Death Tax” Label in Social Care Reform",
+    "title_cn": "伯纳姆寻求在社会保障改革中避免“死亡税”标签",
+    "summary": "The PM’s seeks to avoid “death tax” label in push to reform social care policy",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/burnham-seeks-to-avoid-death-tax-label-in-social-care-reform",
+    "published": "Wed, 29 Jul 2026 16:10:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:18.936965"
+  },
+  {
+    "id": "349ed1fb01bc",
+    "title": "Bloomberg Surveillance TV: July 29th, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 7 月 29 日（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-surveillance-tv-july-29th-2026-podcast",
+    "published": "Wed, 29 Jul 2026 16:06:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:19.427889"
+  },
+  {
+    "id": "46629c65f71c",
+    "title": "Stocks Fall Ahead of Fed Decision, Trump: US Will Hit Iran Hard",
+    "title_cn": "特朗普：美国将严厉打击伊朗，美联储决定前股市下跌",
+    "summary": "Source: Bloomberg, 4:34",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/stocks-fall-ahead-of-fed-decision-trump-us-will-hit-iran-hard",
+    "published": "Wed, 29 Jul 2026 15:38:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:19.930533"
+  },
+  {
+    "id": "c32b60435318",
+    "title": "Stock Movers: Ford, Caterpillar, Skyworks (Podcast)",
+    "title_cn": "库存搬运商：福特、卡特彼勒、Skyworks（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-29/stock-movers-ford-caterpillar-skyworks-podcast",
+    "published": "Wed, 29 Jul 2026 15:19:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:20.278581"
+  },
+  {
+    "id": "021ae07437f1",
+    "title": "CapitaLand Trust Can Buy 33% of Sponsor’s New India Data Centers",
+    "title_cn": "凯德信托可以购买赞助商新印度数据中心 33% 的股份",
+    "summary": "Singapore-listed CapitaLand India Trust has the right to buy up to a third of future data centers its sponsor acquires in India, a top executive said after handing over the first server farm to a hyperscaler tenant in Navi Mumbai.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/capitaland-trust-can-buy-33-of-sponsor-s-new-india-data-centers",
+    "published": "Wed, 29 Jul 2026 15:14:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:20.728085"
+  },
+  {
     "id": "71c288424601",
     "title": "Zero: Prize-Winning Novel on AI Robots, Climate Damage (Podcast)",
     "title_cn": "零：关于人工智能机器人、气候破坏的获奖小说（播客）",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/zero-prize-winning-novel-on-ai-robots-climate-damage-podcast",
     "published": "Wed, 29 Jul 2026 14:49:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:40.578859"
+    "fetched_at": "2026-07-29T16:35:20.860550"
   },
   {
     "id": "92a6e27ed153",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/trump-says-us-to-hit-iran-hard-fauci-pleads-fifth-amendment",
     "published": "Wed, 29 Jul 2026 14:47:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:41.036975"
+    "fetched_at": "2026-07-29T16:35:20.988509"
   },
   {
     "id": "1640c8576923",
@@ -27,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/stock-movers-meta-microsoft-seagate-podcast",
     "published": "Wed, 29 Jul 2026 14:31:07 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:41.476358"
+    "fetched_at": "2026-07-29T16:35:21.142449"
   },
   {
     "id": "7addaada49e4",
@@ -37,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/spacex-falcon-9-rocket-phaseout-customers-brace-for-changes",
     "published": "Wed, 29 Jul 2026 14:05:37 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:42.272431"
+    "fetched_at": "2026-07-29T16:35:21.266375"
   },
   {
     "id": "e867ce393127",
@@ -47,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/california-tech-billionaires-drive-miami-s-mansion-boom",
     "published": "Wed, 29 Jul 2026 14:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:42.694022"
+    "fetched_at": "2026-07-29T16:35:21.387155"
   },
   {
     "id": "3915a471d7f7",
@@ -57,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/stocks-churn-before-fed-trump-says-iran-will-be-hit-hard-more",
     "published": "Wed, 29 Jul 2026 13:44:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:43.135286"
+    "fetched_at": "2026-07-29T16:35:21.495907"
   },
   {
     "id": "23fd2113ae9e",
@@ -67,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/bloomberg-surveillance-fed-preview-podcast",
     "published": "Wed, 29 Jul 2026 13:35:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:43.755610"
+    "fetched_at": "2026-07-29T16:35:21.606091"
   },
   {
     "id": "2a83b82ee5fc",
@@ -77,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/stock-movers-hum-pg-ppruy-podcast",
     "published": "Wed, 29 Jul 2026 13:19:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:44.184610"
+    "fetched_at": "2026-07-29T16:35:21.724151"
   },
   {
     "id": "b5240edca6ab",
@@ -87,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/next-africa-us-risks-getting-sucked-into-another-quagmire-in-sahel",
     "published": "Wed, 29 Jul 2026 13:07:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:44.321005"
+    "fetched_at": "2026-07-29T16:35:21.837099"
   },
   {
     "id": "736aa682246a",
@@ -97,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/wingstop-profit-beats-estimates-overcoming-spending-squeeze",
     "published": "Wed, 29 Jul 2026 13:01:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:44.933174"
+    "fetched_at": "2026-07-29T16:35:21.970453"
   },
   {
     "id": "ef92d220dce0",
@@ -107,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/european-banks-fight-back-with-positive-second-quarter-results",
     "published": "Wed, 29 Jul 2026 13:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:45.062758"
+    "fetched_at": "2026-07-29T16:35:22.076374"
   },
   {
     "id": "f08654d6de8f",
@@ -117,177 +197,117 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-29/trump-tells-fox-us-will-be-hitting-iran-hard-oil-jumps-more",
     "published": "Wed, 29 Jul 2026 12:50:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:46.388883"
+    "fetched_at": "2026-07-29T16:35:22.790094"
   },
   {
-    "id": "4fc17d60dee1",
-    "title": "India’s Economy Sends Mixed Signals as Businesses Juggle War and Trade Shocks",
-    "title_cn": "随着企业应对战争和贸易冲击，印度经济发出混合信号",
-    "summary": "Slow government spending, fewer project announcements, and a deficient monsoon weigh on growth outlook.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/india-s-economy-sends-mixed-signals-as-businesses-juggle-war-and-trade-shocks",
-    "published": "Wed, 29 Jul 2026 12:42:25 GMT",
+    "id": "1e1720ca9310",
+    "title": "Visa Beats Estimates, Takes $563 Million Charge on Job Cuts",
+    "title_cn": "Visa 超出预期，裁员 5.63 亿美元",
+    "summary": "Visa reported a fiscal third-quarter profit that beat Wall Street estimates hours after the world’s biggest payments network told staff that it will eliminate roughly 2,600 jobs. Bloomberg Intelligence's Diksha Gera joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/visa-beats-estimates-takes-563m-charge-on-job-cuts-video",
+    "published": "Wed, 29 Jul 2026 16:29:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:46.532889"
+    "fetched_at": "2026-07-29T16:35:23.408286"
   },
   {
-    "id": "461b27784843",
-    "title": "Sustainability Currents: Climate, AI and Other Key Themes for 2H",
-    "title_cn": "可持续发展潮流：气候、人工智能和其他 2H 关键主题",
-    "summary": "Bloomberg Intelligence’s ESG Currents is now Sustainability Currents, reflecting a broader focus on the investment risks and opportunities emerging from themes including climate change, water scarcity, consumer expectations, and regulatory scrutiny. In this special episode marking the relaunch, BI’s director of Sustainable Finance Research, Eric Kane, brings together the full team for its 2026 midyear outlook. Melanie Rua, Andrew John Stevenson, Rob Du Boff, Gail Glazerman, Grace Osborne, Conrad",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-29/sustainability-currents-climate-ai-and-other-key-themes-for-2h",
-    "published": "Wed, 29 Jul 2026 12:00:00 GMT",
+    "id": "9c21c54e1aa9",
+    "title": "Emerging Stocks Extend Losses, Most Currencies Drop Before Fed",
+    "title_cn": "新兴股扩大跌幅，大多数货币在美联储之前下跌",
+    "summary": "Emerging-market stocks plunged for a second day as a rout in Asian chip stocks deepened, while most currencies weakened ahead of the Federal Reserve’s interest-rate decision.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/emerging-market-stocks-sink-further-as-asian-tech-slide-deepens",
+    "published": "Wed, 29 Jul 2026 08:53:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:46.987576"
+    "fetched_at": "2026-07-29T16:35:23.523366"
   },
   {
-    "id": "a306526e5cb2",
-    "title": "Fighting Resumes in the Middle East, Awaiting Fed Decision, More",
-    "title_cn": "中东战火重燃，等待美联储决定等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-29/fighting-resumes-in-the-middle-east-awaiting-fed-decision-more",
-    "published": "Wed, 29 Jul 2026 11:38:41 GMT",
+    "id": "fb199cb2a2b1",
+    "title": "BMO Completes SRTs Tied to $5 Billion of Corporate Loans",
+    "title_cn": "BMO 完成与 50 亿美元企业贷款挂钩的 SRT",
+    "summary": "Bank of Montreal recently completed two significant risk transfers covering about $5 billion of corporate loans, becoming the latest Canadian lender to tap strong investor demand for the instruments.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/bmo-completes-srts-tied-to-5-billion-of-corporate-loans",
+    "published": "Wed, 29 Jul 2026 16:17:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:47.496548"
+    "fetched_at": "2026-07-29T16:35:23.675120"
   },
   {
-    "id": "7ae45e632d43",
-    "title": "Private Equity Alum Remodels Pentagon’s Spending From Within",
-    "title_cn": "私募股权校友从内部重塑五角大楼的支出",
-    "summary": "From Wall Street to War Room: Cerberus co-founder Stephen Feinberg tightens grip on $1 trillion US defense budget",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/private-equity-alum-remodels-pentagon-s-spending-from-within",
-    "published": "Wed, 29 Jul 2026 11:17:50 GMT",
+    "id": "33aa612de644",
+    "title": "New Age of Missiles, Drones Reshapes Battlefields Around The World",
+    "title_cn": "导弹新时代，无人机重塑世界各地的战场",
+    "summary": "The world is on the cusp of a third missile age, with conventional ballistic weapons proliferating at unprecedented speed in the wake of widespread, battlefield-warping deployment in Iran and Ukraine. \nPaul Scharre, Executive Director at the Center for a New American Security, discusses this new age of military technology and his Foreign Affairs piece, \"Losing the War of the Future: How New Technologies Threaten America’s Military Advantage.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/new-age-of-drones-reshapes-battlefields-across-the-globe-video",
+    "published": "Wed, 29 Jul 2026 16:12:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:47.770489"
+    "fetched_at": "2026-07-29T16:35:23.797839"
   },
   {
-    "id": "ac62589ac5f5",
-    "title": "US Intercepts Iran Attack on Bases, Puncturing Days of Calm",
-    "title_cn": "美国拦截伊朗对基地的袭击，打破了平静的日子",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/us-intercepts-iran-attack-on-bases-puncturing-days-of-calm",
-    "published": "Wed, 29 Jul 2026 11:12:10 GMT",
+    "id": "810a8562ae25",
+    "title": "L'Oréal CEO Sees Strong Demand for Haircare Products",
+    "title_cn": "欧莱雅首席执行官看到护发产品的强劲需求",
+    "summary": "The CEO of L'Oréal, the world’s largest cosmetics company, says the performance in the Middle East was below expectations but somewhat compensated by a rebound of growth in China. Nicolas Hieronimus spoke exclusively with Bloomberg’s Francine Lacqua from Paris. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/l-oreal-ceo-sees-strong-demand-for-haircare-products-video",
+    "published": "Wed, 29 Jul 2026 16:12:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:47.915161"
-  },
-  {
-    "id": "4a6aa88de4b7",
-    "title": "Stock Movers: HUM, F, BIIB (Podcast)",
-    "title_cn": "库存推动者：HUM、F、BIIB（播客）",
-    "summary": "Source: Bloomberg, 4:10",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-29/stock-movers-hum-f-biib-podcast",
-    "published": "Wed, 29 Jul 2026 11:03:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:48.366917"
-  },
-  {
-    "id": "afc1deeffecd",
-    "title": "US Says Iran Attacked Forces, Oil Rallies, More",
-    "title_cn": "美国称伊朗袭击了军队、油价上涨等",
-    "summary": "Source: Bloomberg, 6:35",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-29/us-says-iran-attacked-forces-oil-rallies-more",
-    "published": "Wed, 29 Jul 2026 10:21:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:48.839103"
-  },
-  {
-    "id": "380a66c7a220",
-    "title": "OCBC Turns to AI to Speed Up Account Opening for the Rich",
-    "title_cn": "华侨银行利用人工智能加快富人开户速度",
-    "summary": "Singapore’s push to shorten account opening time for the rich is drawing an artificial intelligence response from its banks, which have been riding a boom in wealth management.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/ocbc-turns-to-ai-agents-to-speed-up-account-opening-for-the-rich",
-    "published": "Wed, 29 Jul 2026 04:42:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:48.981483"
-  },
-  {
-    "id": "947a3eadb57a",
-    "title": "Gold Slips as Fed Rate Decision Looms and Mideast Tensions Rise",
-    "title_cn": "随着美联储利率决定临近和中东紧张局势加剧，金价下跌",
-    "summary": "Gold declined ahead of a finely balanced interest-rate decision by the US Federal Reserve due later Wednesday, while fighting escalated in the Middle East after a brief lull.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/gold-edges-lower-as-traders-assess-prospects-for-fed-rate-hike",
-    "published": "Tue, 28 Jul 2026 23:19:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:49.665643"
-  },
-  {
-    "id": "80b3741e0473",
-    "title": "CAVU Consumer Partners Co-Founders on Brand Building",
-    "title_cn": "CAVU 消费者合作伙伴联合创始人致力于品牌建设",
-    "summary": "CAVU Consumer Partners Co-Founders Brett Thomas and Rohan Oza look to Millennials and Gen Z's drive for a healthier lifestyle as the foundation of their venture and brand building with companies such as Whoop, Skinny Dipped and The Farmer's Dog. They speak to Romaine Bostick and Emily Graffeo on Bloomberg's 'The Close.' (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/cavu-consumer-partners-co-founders-on-brand-building-video",
-    "published": "Wed, 29 Jul 2026 14:35:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:49.794847"
-  },
-  {
-    "id": "6dfecf5b0e9a",
-    "title": "ING Says Dollar to Take Cue from Oil Prices If Fed Holds Rate",
-    "title_cn": "ING表示，如果美联储维持利率不变，美元将受到油价的影响",
-    "summary": "The dollar will come under pressure and follow oil prices down if the Federal Reserve keeps interest rates unchanged on Wednesday, according to ING.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/ing-says-dollar-to-take-cue-from-oil-prices-if-fed-holds-rate",
-    "published": "Wed, 29 Jul 2026 14:13:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:49.933150"
+    "fetched_at": "2026-07-29T16:35:23.921398"
   },
   {
     "id": "8a9682bf3542",
-    "title": "Stocks Fall Before Fed, AI Earnings as Oil Climbs: Markets Wrap",
-    "title_cn": "随着油价上涨，股市先于美联储和人工智能收益下跌：市场结束",
+    "title": "Stocks Fall on AI, War Worries Before Fed Decision: Markets Wrap",
+    "title_cn": "人工智能和美联储决策前的战争担忧导致股市下跌：市场总结",
     "summary": "Wall Street traders gearing up for the Federal Reserve decision sent stocks lower as oil jumped, with the market also bracing for results from two of the biggest artificial-intelligence spenders.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
     "published": "Tue, 28 Jul 2026 22:15:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:50.075596"
+    "fetched_at": "2026-07-29T16:35:24.071149"
   },
   {
-    "id": "cae3734b9274",
-    "title": "‘Mr. Brexit’ Exits Mizuho Macro Role for Dubai Job",
-    "title_cn": "'先生。英国脱欧退出瑞穗宏观在迪拜的工作职责",
-    "summary": "Jordan Rochester, who made his name as one of Britain’s most recognized financial commentators during the country’s split from the European Union, has left Mizuho Bank Ltd. to pursue a position in Dubai.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/-mr-brexit-leaves-mizuho-to-pursue-overseas-opportunity",
-    "published": "Wed, 29 Jul 2026 09:40:02 GMT",
+    "id": "05752e577153",
+    "title": "Guyana's Extraordinary Opportunity",
+    "title_cn": "圭亚那的非凡机遇",
+    "summary": "Bloomberg Opinion columnist Juan Pablo Spinetto went to Guyana to explore the enormous organizational challenges behind what is arguably the world’s most extraordinary nation-building experiment. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/opinion-guyana-s-extraordinary-opportunity-video",
+    "published": "Wed, 29 Jul 2026 16:04:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.088761"
+    "fetched_at": "2026-07-29T16:35:24.177773"
   },
   {
     "id": "5550d0a3d105",
-    "title": "Wall Street Picks AI Winners and Losers as Credit Swaps Surge",
-    "title_cn": "随着信用互换激增，华尔街选出人工智能的赢家和输家",
+    "title": "CDS Market Surges as Wall Street Picks AI’s Winners and Losers",
+    "title_cn": "随着华尔街选出人工智能的赢家和输家，CDS 市场飙升",
     "summary": "As Big Tech barrels toward trillions of dollars of planned spending on AI, a key cog in credit markets is showing signs of pressure. That, in turn, is lifting the cost of financing artificial intelligence while offering an early look at potential winners and losers.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-picks-ai-winners-and-losers-as-credit-swaps-surge",
     "published": "Wed, 29 Jul 2026 14:07:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.221007"
+    "fetched_at": "2026-07-29T16:35:24.343117"
   },
   {
-    "id": "088c5ee3d080",
-    "title": "Auge global de la yerba mate no llega a productores argentinos",
-    "title_cn": "全球马黛茶热潮并未波及阿根廷生产商",
-    "summary": "La yerba mate conquista consumidores en las grandes ciudades del mundo. Pero detrás de ese boom, muchos pequeños productores argentinos atraviesan una crisis y cada vez más emigran a Brasil en busca de trabajo.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/auge-global-de-la-yerba-mate-no-llega-a-productores-argentinos",
-    "published": "Wed, 29 Jul 2026 14:06:04 GMT",
+    "id": "8eab22f65f55",
+    "title": "Bloomberg Surveillance 7/29/2026",
+    "title_cn": "彭博社监测 2026 年 7 月 29 日",
+    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/bloomberg-surveillance-7-29-2026-video",
+    "published": "Wed, 29 Jul 2026 15:48:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.354165"
+    "fetched_at": "2026-07-29T16:35:24.450038"
   },
   {
-    "id": "9c21c54e1aa9",
-    "title": "Emerging Stocks Sink on Asia Losses; Currencies Drop Before Fed",
-    "title_cn": "新兴股市因亚洲股市下跌而下跌；货币在美联储之前下跌",
-    "summary": "Emerging-market stocks plunged for a second straight day as a rout in Asian chip stocks deepened, while most currencies weakened ahead of the Federal Reserve’s interest-rate decision.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/emerging-market-stocks-sink-further-as-asian-tech-slide-deepens",
-    "published": "Wed, 29 Jul 2026 08:53:32 GMT",
+    "id": "ebaf5076b45b",
+    "title": "China’s Zijin Gold and Allied Gold Scrap $3.9 Billion Merger",
+    "title_cn": "中国紫金黄金与联合黄金废品公司价值 39 亿美元的合并",
+    "summary": "Zijin Gold International Co.’s C$5.5 billion ($3.9 billion) takeover of Canada’s Allied Gold Corp. was scrapped after the mining deal failed to get Chinese regulatory approvals ahead of a contractual deadline. Shares of the Toronto-based metals producer plunged.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/allied-gold-says-china-s-zijin-gold-terminates-takeover",
+    "published": "Wed, 29 Jul 2026 11:38:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.496385"
+    "fetched_at": "2026-07-29T16:35:24.572082"
   },
   {
-    "id": "2e3c47b93d66",
-    "title": "Bloom Surges on Higher Guidance as Earnings Double Estimates",
-    "title_cn": "盈利预期翻倍，布鲁姆股价因更高指引而飙升",
-    "summary": "Bloom Energy Corp. jumped the most in a week after the fuel-cell maker posted earnings that were more than double expectations and raised full-year guidance for the second consecutive quarter, a sign of rampant demand from data centers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/bloom-surges-after-raising-guidance-as-earnings-double-estimates",
-    "published": "Tue, 28 Jul 2026 21:33:50 GMT",
+    "id": "7724eb0e9ba2",
+    "title": "US Consumers Continue to Grow More Cautious",
+    "title_cn": "美国消费者继续变得更加谨慎",
+    "summary": "US consumer confidence fell in July as Americans’ views about current business conditions and the labor market deteriorated. \nElevated gasoline and food prices likely weighed on US households, underscoring broader concerns about persistent inflation and the rising cost of living.\nJulia Wilson, Principal: Consumer & Retail Strategy at KPMG, talks about the squeezed consumer and the back-to-school ramp-up affecting economic data. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/us-consumers-continue-to-grow-more-cautious-video",
+    "published": "Wed, 29 Jul 2026 15:33:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.617771"
+    "fetched_at": "2026-07-29T16:35:24.703714"
   },
   {
     "id": "ed1ffe0e3ad9",
@@ -297,27 +317,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/grant-thornton-us-buys-cbiz-in-5-billion-deal",
     "published": "Wed, 29 Jul 2026 13:06:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.757918"
+    "fetched_at": "2026-07-29T16:35:24.827558"
   },
   {
-    "id": "75d9245b7f55",
-    "title": "Korean Stocks Plunge 16% in Two-Day Burst of Retail Selling",
-    "title_cn": "韩国股市连续两天暴跌 16% 零售抛售",
-    "summary": "Despair and frustration spread across the South Korean retail-investing community as stocks cratered again Wednesday, extending the decline in the nation’s key equity index this month to a record 33%.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
-    "published": "Wed, 29 Jul 2026 02:52:10 GMT",
+    "id": "e8c9e8c52862",
+    "title": "Fed Watchers Gird for a Lesson in Reading Warsh",
+    "title_cn": "美联储观察家格德阅读沃什的教训",
+    "summary": "The 100-plus forecasters in the Bloomberg survey for Wednesday’s Federal Reserve interest-rate decision are almost entirely united: policymakers will stand pat. But that near-unanimity masks what for many — if not most — is one of the most difficult calls in years.\nGennadiy Goldberg, Head of US Rates Strategy at TD Securities, discusses his outlook for today's Fed decision as well as rate hikes through 2027. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/fed-watchers-gird-for-a-lesson-in-reading-warsh-video",
+    "published": "Wed, 29 Jul 2026 15:20:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:51.922158"
+    "fetched_at": "2026-07-29T16:35:25.021623"
   },
   {
-    "id": "ebaf5076b45b",
-    "title": "Zijin Gold’s Allied Deal Axed in Favor of $295 Million Stake",
-    "title_cn": "紫金黄金的联合交易被取消，以 2.95 亿美元的股份为代价",
-    "summary": "Zijin Gold International Co.’s deal to acquire Canada’s Allied Gold Corp. has been scrapped, with the Chinese mining company opting instead to invest about $295 million in the African-focused gold producer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/allied-gold-says-china-s-zijin-gold-terminates-takeover",
-    "published": "Wed, 29 Jul 2026 11:38:28 GMT",
+    "id": "19b2b6e4436e",
+    "title": "Jim Leaviss, Renowned British Bond Investor, Blogger, Dies at 55",
+    "title_cn": "英国著名债券投资者、博主 Jim Leaviss 去世，享年 55 岁",
+    "summary": "Jim Leaviss, the former head of fixed income at M&amp;G Investments and creator of the popular Bond Vigilantes blog, has died. He was 55.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/jim-leaviss-renowned-british-bond-investor-blogger-dies-at-55",
+    "published": "Wed, 29 Jul 2026 15:18:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.051396"
+    "fetched_at": "2026-07-29T16:35:25.157273"
+  },
+  {
+    "id": "aa76f6b5be17",
+    "title": "Humana Lower on Profit Guidance; P&G Moves on Results | Stock Movers",
+    "title_cn": "Humana 下调利润指引；宝洁公司注重业绩 |库存搬运工",
+    "summary": "On this episode of Stock Movers:\n\n- Humana (HUM) is sinking after the insurer maintained its yearly profit guidance despite a strong second quarter.\n- P&amp;G (PG) shares are moving after it gave a conservative outlook for its current fiscal year and results in the latest quarter fell short of estimates.\n- Kering (PPRUY) shares jumped after the luxury goods maker reported better-than-expected revenue at Gucci in the second quarter. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/humana-lower-on-profit-guidance-p-g-moves-on-results-video",
+    "published": "Wed, 29 Jul 2026 15:17:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:25.297854"
+  },
+  {
+    "id": "e8c357d2e9ab",
+    "title": "Data Centers Emerge as Growth Drivers for PPG, Sherwin-Williams",
+    "title_cn": "数据中心成为 PPG 和宣伟的增长动力",
+    "summary": "PPG Industries Inc. and Sherwin-Williams Co. both highlighted data centers as an increasingly important revenue driver when presenting their latest set of results.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/data-centers-emerge-as-growth-drivers-for-ppg-sherwin-williams",
+    "published": "Wed, 29 Jul 2026 15:14:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:25.399714"
+  },
+  {
+    "id": "8ad6c35d80a5",
+    "title": "Latest Oil Market News and Analysis for July 29",
+    "title_cn": "7 月 29 日最新石油市场新闻和分析",
+    "summary": "Oil roared back from its worst three-day decline since 2020 as a fresh round of fighting erupted across the Middle East, a reminder of the continued risk to supplies in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
+    "published": "Tue, 28 Jul 2026 22:01:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:25.546539"
+  },
+  {
+    "id": "ff1a1e67a14b",
+    "title": "Goldman: Fed Unlikely to Surprise",
+    "title_cn": "高盛：美联储不太可能感到意外",
+    "summary": "Goldman Sachs Chief US  Economist David Mericle joins Bloomberg Open Interest to explain why the Fed is still likely to leave interest rates unchanged despite geopolitical tensions and rising oil prices. He breaks down the inflation outlook, why a surprise hike is unlikely, and why today's resilient consumer could weaken later this year. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/goldman-fed-unlikely-to-surprise-video",
+    "published": "Wed, 29 Jul 2026 15:06:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-29T16:35:25.679334"
   },
   {
     "id": "c3dbdde9e344",
@@ -327,77 +387,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/south-korea-to-hold-emergency-market-meeting-after-kospi-turmoil",
     "published": "Wed, 29 Jul 2026 08:23:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.231900"
+    "fetched_at": "2026-07-29T16:35:25.833405"
   },
   {
-    "id": "3cdb5d8caa90",
-    "title": "Bloomberg to Acquire Canoe Intelligence in Private Markets Push",
-    "title_cn": "彭博社将收购 Canoe Intelligence 进军私募市场",
-    "summary": "Bloomberg LP agreed to acquire Canoe Intelligence, a platform that automates private markets data collection for institutional investors, wealth managers and family offices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/bloomberg-to-acquire-canoe-intelligence-in-private-markets-push",
-    "published": "Wed, 29 Jul 2026 13:20:42 GMT",
+    "id": "947a3eadb57a",
+    "title": "Gold Slips as Fed Rate Decision Looms and Mideast Tensions Rise",
+    "title_cn": "随着美联储利率决定临近和中东紧张局势加剧，金价下跌",
+    "summary": "Gold declined ahead of a finely balanced interest-rate decision by the US Federal Reserve due later Wednesday, while fighting escalated in the Middle East after a brief lull.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-28/gold-edges-lower-as-traders-assess-prospects-for-fed-rate-hike",
+    "published": "Tue, 28 Jul 2026 23:19:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.364542"
+    "fetched_at": "2026-07-29T16:35:25.969310"
   },
   {
-    "id": "4bc1a2d3141f",
-    "title": "JPMorgan Sees Treasury Avoiding Bond Sales Tweak Due to Midterms",
-    "title_cn": "摩根大通认为财政部避免因中期选举而调整债券销售",
-    "summary": "The US Treasury will avoid rattling bond markets ahead of crucial midterm elections, holding off on changes that would introduce the possibility of bigger bond sales in its quarterly refunding statement next week, according to JPMorgan Chase and Co. strategists.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/jpmorgan-sees-treasury-avoiding-bond-sales-tweak-due-to-midterms",
-    "published": "Wed, 29 Jul 2026 12:53:56 GMT",
+    "id": "9f7f796a2e06",
+    "title": "FTC Split Lets IonQ-SkyWater Quantum Deal Close Without Changes",
+    "title_cn": "FTC 分拆让 IonQ 与 SkyWater Quantum 交易无需任何变更即可完成",
+    "summary": "IonQ Inc. will close its $1.8 billion acquisition of semiconductor foundry SkyWater Technology Inc. later this week after the Federal Trade Commission was unable to decide whether to impose conditions on the deal, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/ftc-split-lets-ionq-skywater-quantum-deal-close-without-changes",
+    "published": "Wed, 29 Jul 2026 16:25:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.531552"
+    "fetched_at": "2026-07-29T16:35:26.671818"
   },
   {
-    "id": "2d7eff5d72c1",
-    "title": "Gold Wavers Ahead of Uncertain Fed Rate Decision",
-    "title_cn": "美联储利率决定不确定，黄金波动",
-    "summary": "Amy Gower, lead metals and mining strategist at Morgan Stanley, says she would “expect gold to be under some pressure” in the case of an interest-rate hike from the Federal Reserve as she examines the path forward for the precious metal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/gold-wavers-ahead-of-uncertain-fed-rate-decision-video",
-    "published": "Wed, 29 Jul 2026 12:44:22 GMT",
+    "id": "4597f4d31871",
+    "title": "Experts Warn SpaceX Starship Heat Shield May Delay Rapid Flight Plans",
+    "title_cn": "专家警告 SpaceX 星舰隔热罩可能会延迟快速飞行计划",
+    "summary": "The heat shield that protects SpaceX’s Starship vehicle as it plummets back to Earth may prove to be a substantial roadblock to Chief Executive Officer Elon Musk’s path to designing a rapidly reusable rocket, according to three former NASA researchers and experts in the field.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/spacex-starship-heat-shield-can-t-support-rapid-flights-experts",
+    "published": "Wed, 29 Jul 2026 16:12:56 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.678904"
+    "fetched_at": "2026-07-29T16:35:27.085167"
   },
   {
-    "id": "f0d162d271c6",
-    "title": "Greggs Burns Short Sellers With Rally Sparked by Summertime Menu",
-    "title_cn": "格雷格斯夏季菜单引发的反弹烧毁了卖空者",
-    "summary": "Short sellers are getting punished by a rally in Greggs Plc after the bakery chain, famous for its hot sausage rolls, showed it’s winning over consumers with a pivot to cold fare, like iced matcha and salads, during Britain’s summer heat wave.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/greggs-burns-short-sellers-with-rally-sparked-by-summertime-menu",
-    "published": "Wed, 29 Jul 2026 12:43:59 GMT",
+    "id": "9f050a3d471a",
+    "title": "Enterprise AI's Biggest Opportunity",
+    "title_cn": "企业人工智能的最大机遇",
+    "summary": "Battery Ventures General Partner Dharmesh Thakker joins Bloomberg Open Interest to make the case for investing beyond AI hype. He explains why enterprise software companies that deliver measurable business value will outperform. He also argues that open-source AI models could slash enterprise costs, accelerate adoption, and reshape the competitive landscape for OpenAI, Anthropic, and the broader AI ecosystem. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/enterprise-ai-s-biggest-opportunity-video",
+    "published": "Wed, 29 Jul 2026 15:07:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.807471"
+    "fetched_at": "2026-07-29T16:35:27.205577"
   },
   {
-    "id": "8ad6c35d80a5",
-    "title": "Latest Oil Market News and Analysis for July 29",
-    "title_cn": "7 月 29 日最新石油市场新闻和分析",
-    "summary": "Oil rallied as a fresh round of fighting erupted across the Middle East, a reminder of the continued risk to flows in the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
-    "published": "Tue, 28 Jul 2026 22:01:33 GMT",
+    "id": "56fa99c7fcd1",
+    "title": "Logitech CEO Faber Says Chip Supply Is Unusually Tight",
+    "title_cn": "罗技首席执行官 Faber 表示芯片供应异常紧张",
+    "summary": "Logitech CEO Hanneke Faber discusses the company’s first-quarter results and the impact of a late-June incident at a key semiconductor supplier. Speaking with Dani Burger on \"Bloomberg Open Interest,\" Faber also discusses gaming demand, component costs and the company's pricing strategy. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-29/logitech-ceo-faber-chip-supply-is-unusually-tight-video",
+    "published": "Wed, 29 Jul 2026 15:01:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:52.944030"
-  },
-  {
-    "id": "817a9427a618",
-    "title": "Inflation Could Let Fed Wait on Hikes, Esther George Says",
-    "title_cn": "埃丝特·乔治表示，通胀可能让美联储等待加息",
-    "summary": "Former Kansas City Federal Reserve President Esther George expects the Fed to hold interest rates steady at today’s meeting, but says she continues to be concerned about the duration of elevated inflation in the US economy. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/esther-george-says-inflation-could-let-fed-wait-on-hikes-video",
-    "published": "Wed, 29 Jul 2026 12:18:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:53.093562"
-  },
-  {
-    "id": "9583ff435c1c",
-    "title": "Fed Chairman Warsh Contributing to Volatility, Says Economist Claudia Sahm",
-    "title_cn": "经济学家克劳迪娅·萨姆表示，美联储主席沃什导致了波动",
-    "summary": "Claudia Sahm, chief economist at New Century Advisors, says uncertainty about the Federal Reserve’s interest rate decision comes from “a Fed Chair who was gone really low information on how he’s thinking about policy.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-29/fed-chairman-warsh-adding-to-volatility-economist-sahm-video",
-    "published": "Wed, 29 Jul 2026 12:12:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:53.234890"
+    "fetched_at": "2026-07-29T16:35:27.333676"
   },
   {
     "id": "3bf9cbb19c8e",
@@ -407,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/software-woes-push-europe-lenders-to-seek-rare-repayment-terms",
     "published": "Wed, 29 Jul 2026 13:43:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:53.720332"
+    "fetched_at": "2026-07-29T16:35:27.481286"
   },
   {
     "id": "c8c2ad699cbd",
@@ -417,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-risks-broadening-china-tech-clash-with-robot-inverter-curbs",
     "published": "Wed, 29 Jul 2026 04:11:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:54.737817"
+    "fetched_at": "2026-07-29T16:35:27.611126"
   },
   {
     "id": "f2ff3cedb7bc",
@@ -427,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/ai-spending-in-focus-for-meta-microsoft-earnings-video",
     "published": "Wed, 29 Jul 2026 14:00:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:54.927504"
+    "fetched_at": "2026-07-29T16:35:27.763280"
   },
   {
     "id": "37bd063e558b",
@@ -437,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/will-ai-consume-investors-risk-budget-video",
     "published": "Wed, 29 Jul 2026 13:53:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:55.076183"
+    "fetched_at": "2026-07-29T16:35:27.886404"
   },
   {
     "id": "c8df70b38627",
@@ -447,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/nextera-brookfield-to-build-100-billion-kentucky-data-campus",
     "published": "Wed, 29 Jul 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:55.391288"
+    "fetched_at": "2026-07-29T16:35:28.323601"
   },
   {
     "id": "8953af5badfc",
@@ -457,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-meta-earnings-face-a-market-growing-skeptical-of-ai",
     "published": "Wed, 29 Jul 2026 09:23:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:55.522979"
+    "fetched_at": "2026-07-29T16:35:28.438242"
   },
   {
     "id": "8762719353ba",
@@ -467,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/asm-outlook-beats-estimates-as-ai-boosts-demand-for-chip-tools",
     "published": "Tue, 28 Jul 2026 17:16:36 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:55.641474"
+    "fetched_at": "2026-07-29T16:35:28.567683"
   },
   {
     "id": "ce0b2f2876c1",
@@ -477,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/faa-approves-doordash-delivery-drones-humans-will-still-handle-most-orders",
     "published": "Wed, 29 Jul 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:55.795102"
+    "fetched_at": "2026-07-29T16:35:28.678173"
   },
   {
     "id": "6caf6067a4b4",
@@ -487,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/volatility-driving-dealmaking-goldman-sachs-video",
     "published": "Wed, 29 Jul 2026 08:01:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:57.014235"
+    "fetched_at": "2026-07-29T16:35:28.824804"
   },
   {
     "id": "a907c0475f00",
@@ -497,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/bureau-veritas-ceo-resilient-amid-complex-environment-video-ms600xnl",
     "published": "Wed, 29 Jul 2026 11:25:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:57.164237"
+    "fetched_at": "2026-07-29T16:35:28.932021"
   },
   {
     "id": "725443006c75",
@@ -507,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-faces-uk-probe-over-copilot-linked-price-hikes",
     "published": "Wed, 29 Jul 2026 11:10:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:57.294642"
+    "fetched_at": "2026-07-29T16:35:29.041952"
   },
   {
     "id": "fef2e4df1b33",
@@ -517,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/palantir-s-new-rivals-in-europe-seize-the-sovereignty-opening",
     "published": "Wed, 29 Jul 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:57.415184"
+    "fetched_at": "2026-07-29T16:35:29.149400"
   },
   {
     "id": "96bf27bcbafd",
@@ -527,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/bureau-veritas-ceo-resilient-amid-complex-environment-video",
     "published": "Wed, 29 Jul 2026 09:54:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.102892"
+    "fetched_at": "2026-07-29T16:35:29.285356"
   },
   {
     "id": "c6bdc5f8ba45",
@@ -537,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/goto-posts-second-straight-profit-after-cost-cuts-kick-in",
     "published": "Wed, 29 Jul 2026 10:34:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.231502"
+    "fetched_at": "2026-07-29T16:35:29.416961"
   },
   {
     "id": "b213d7e78f3c",
@@ -547,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/verizon-fiber-partners-to-invest-1-5-billion-in-network-venture",
     "published": "Wed, 29 Jul 2026 10:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.373424"
+    "fetched_at": "2026-07-29T16:35:29.600957"
   },
   {
     "id": "a1a15effcce3",
@@ -557,47 +597,37 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/ai-investment-boom-faces-reality-check-from-markets-and-regulators",
     "published": "Wed, 29 Jul 2026 10:29:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.510197"
+    "fetched_at": "2026-07-29T16:35:29.835245"
   },
   {
-    "id": "a659f3e162a7",
-    "title": "Moonshot AI Surpasses Funding Goal to Hit $35 Billion Value",
-    "title_cn": "Moonshot AI 超越融资目标，价值达到 350 亿美元",
-    "summary": "Moonshot AI secured a $35 billion valuation after raising a larger-than-anticipated $3.5 billion in a just-closed round of financing, riding the momentum from a breakthrough Kimi K3 model that sent ripples through Silicon Valley.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
-    "published": "Wed, 29 Jul 2026 08:19:02 GMT",
+    "id": "61959f9f9ee0",
+    "title": "Trump Says US Will Strike Iran Hard as War Escalates Again",
+    "title_cn": "特朗普表示，随着战争再次升级，美国将严厉打击伊朗",
+    "summary": "President Donald Trump said the US would strike back at Iran after a recent attack that targeted a military base in Jordan, as the war in the Middle East flared up once again following a recent pause in hostilities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/trump-tells-fox-news-us-will-be-hitting-iran-hard-as-war-resumes",
+    "published": "Wed, 29 Jul 2026 12:30:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.637002"
+    "fetched_at": "2026-07-29T16:35:30.347761"
   },
   {
-    "id": "fd07f70c8f9b",
-    "title": "DJI Debuts Long-Awaited Osmo 4P Camera, But US Creators Can’t Buy It",
-    "title_cn": "大疆发布期待已久的 Osmo 4P 相机，但美国创作者买不起",
-    "summary": "Chinese drone maker DJI is rolling out its latest product, a $700 mechanically stabilized camera, pressing ahead with global launches while its products remain locked out of the US market following a federal ban last year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/dji-debuts-long-awaited-osmo-4p-camera-but-us-creators-can-t-buy-it",
-    "published": "Wed, 29 Jul 2026 10:00:05 GMT",
+    "id": "ddf8f9dbeb69",
+    "title": "Cornyn Cancels Blanche Meeting Ahead of Pivotal Committee Vote",
+    "title_cn": "科宁在关键委员会投票前取消布兰奇会议",
+    "summary": "Republican Senator John Cornyn abruptly canceled a meeting Wednesday with President Donald Trump’s pick to lead the Justice Department, throwing into doubt a planned Thursday committee vote on the nomination.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/cornyn-cancels-blanche-meeting-ahead-of-pivotal-committee-vote",
+    "published": "Wed, 29 Jul 2026 15:51:31 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:58.783386"
+    "fetched_at": "2026-07-29T16:35:30.464048"
   },
   {
-    "id": "5af7799656ee",
-    "title": "NXP’s Upbeat Revenue Forecast Fails to Impress Investors",
-    "title_cn": "恩智浦乐观的收入预测未能打动投资者",
-    "summary": "NXP Semiconductors NV struggled to impress investors with a generally upbeat forecast for the current period, the latest sign of deepening concern about the chip sector.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/nxp-s-upbeat-revenue-forecast-fails-to-impress-investors",
-    "published": "Tue, 28 Jul 2026 20:44:03 GMT",
+    "id": "dec9e87883bf",
+    "title": "US Sanctions Iran’s ‘Extortion Network’ Over Hormuz Tolls",
+    "title_cn": "美国因霍尔木兹海峡通行费制裁伊朗“勒索网络”",
+    "summary": "The US imposed sanctions on two Iranian companies that charge for safe passage through the Strait of Hormuz, an attempt to loosen Tehran’s grip on the vital waterway as hostilities between the countries resume.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-sanctions-iran-extortion-network-targeting-hormuz-shipping",
+    "published": "Wed, 29 Jul 2026 15:13:50 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:57:59.670199"
-  },
-  {
-    "id": "f6c5da1b5caa",
-    "title": "ASMPT Chief Sees AI Equipment Demand Intact as Bubble Fears Rise",
-    "title_cn": "ASMPT 负责人认为，随着泡沫担忧的加剧，人工智能设备需求保持不变",
-    "summary": "Chip gear maker ASMPT Ltd.’s top boss said that long-term demand for AI-driven equipment remains firmly intact, pushing back against against growing investor fears of an AI bubble.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/asmpt-chief-sees-ai-equipment-demand-intact-as-bubble-fears-rise",
-    "published": "Wed, 29 Jul 2026 09:32:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:57:59.815789"
+    "fetched_at": "2026-07-29T16:35:30.587427"
   },
   {
     "id": "6b113b437af0",
@@ -607,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/cyprus-leaders-accept-un-plan-for-new-talks-over-divided-island",
     "published": "Wed, 29 Jul 2026 10:42:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:00.585807"
+    "fetched_at": "2026-07-29T16:35:30.705011"
   },
   {
     "id": "793dd60082e4",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/fauci-invokes-fifth-amendment-at-senate-covid-hearing-video",
     "published": "Wed, 29 Jul 2026 14:42:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:00.708316"
+    "fetched_at": "2026-07-29T16:35:30.813125"
   },
   {
     "id": "57a5be4df05c",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/us-war-with-iran-looks-set-to-drag-on-for-months-over-hormuz-deadlock",
     "published": "Wed, 29 Jul 2026 14:32:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:00.832473"
+    "fetched_at": "2026-07-29T16:35:30.931254"
   },
   {
     "id": "4d6cfcdc78b9",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/trump-says-iran-will-get-hit-hard-after-attack-on-base-video",
     "published": "Wed, 29 Jul 2026 14:17:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:00.965626"
+    "fetched_at": "2026-07-29T16:35:31.041581"
   },
   {
     "id": "0b8df4174355",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-28/burnham-vows-to-tackle-uk-s-expensive-social-care-problems",
     "published": "Tue, 28 Jul 2026 21:55:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:01.079498"
+    "fetched_at": "2026-07-29T16:35:31.159186"
   },
   {
     "id": "ea3af7f68ff5",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/fauci-pleads-fifth-amendment-in-senate-covid-hearing",
     "published": "Wed, 29 Jul 2026 13:12:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:02.445156"
+    "fetched_at": "2026-07-29T16:35:31.287011"
   },
   {
     "id": "55e8a916c0ff",
@@ -667,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/fauci-pleads-fifth-amendment-at-senate-covid-19-hearing-video",
     "published": "Wed, 29 Jul 2026 13:48:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:03.704907"
+    "fetched_at": "2026-07-29T16:35:31.396224"
   },
   {
     "id": "c1ae28072f7f",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-29/fed-expected-to-hold-rates-but-warsh-could-surprise-us-video",
     "published": "Wed, 29 Jul 2026 13:27:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:03.834153"
+    "fetched_at": "2026-07-29T16:35:31.513194"
   },
   {
     "id": "f2188df737e9",
@@ -687,17 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/kenya-orders-africa-s-top-soda-ash-producer-to-halt-operations",
     "published": "Wed, 29 Jul 2026 13:13:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:03.977563"
-  },
-  {
-    "id": "61959f9f9ee0",
-    "title": "Trump Says US Will Strike Iran Hard as War Escalates Again",
-    "title_cn": "特朗普表示，随着战争再次升级，美国将严厉打击伊朗",
-    "summary": "President Donald Trump said the US would hit Iran hard after a recent attack that targeted a military base in Jordan, as the war in the Middle East flared up once again following a recent pause in hostilities.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/trump-tells-fox-news-us-will-be-hitting-iran-hard-as-war-resumes",
-    "published": "Wed, 29 Jul 2026 12:30:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:58:04.095614"
+    "fetched_at": "2026-07-29T16:35:31.647289"
   },
   {
     "id": "8c6bef7204fb",
@@ -707,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/polish-opposition-splinters-in-new-blow-to-europe-s-nationalists",
     "published": "Wed, 29 Jul 2026 12:31:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:04.236032"
+    "fetched_at": "2026-07-29T16:35:31.756948"
   },
   {
     "id": "334957a1ea25",
@@ -717,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/iran-attacks-us-bases-and-saudi-arabia-joins-strikes-in-iraq",
     "published": "Wed, 29 Jul 2026 07:56:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:05.950407"
+    "fetched_at": "2026-07-29T16:35:31.891139"
   },
   {
     "id": "6d0ed225f044",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/farm-belt-senate-candidates-target-ag-giants-in-populist-turn",
     "published": "Wed, 29 Jul 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:06.088483"
+    "fetched_at": "2026-07-29T16:35:32.066017"
   },
   {
     "id": "3df865f8aa30",
@@ -737,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/russia-charges-telegram-founder-durov-with-aiding-terrorism",
     "published": "Wed, 29 Jul 2026 06:25:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:07.297140"
+    "fetched_at": "2026-07-29T16:35:32.209651"
   },
   {
     "id": "9f03571bf42a",
@@ -747,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/trump-thune-divide-goes-beyond-voting-bill",
     "published": "Wed, 29 Jul 2026 11:53:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:07.453580"
+    "fetched_at": "2026-07-29T16:35:32.354610"
   },
   {
     "id": "e6aefe043662",
@@ -757,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/romania-approves-key-reforms-to-tap-3-billion-in-eu-funding",
     "published": "Wed, 29 Jul 2026 11:49:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:07.592073"
+    "fetched_at": "2026-07-29T16:35:32.479325"
   },
   {
     "id": "c474295d56e2",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/a-new-dawn-of-missiles-shapes-battlefields-from-ukraine-to-iran",
     "published": "Wed, 29 Jul 2026 10:23:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:07.726398"
+    "fetched_at": "2026-07-29T16:35:32.585749"
   },
   {
     "id": "7277668a538b",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/india-approves-tougher-exam-leak-law-after-student-protests",
     "published": "Wed, 29 Jul 2026 10:38:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-29T14:58:07.858081"
-  },
-  {
-    "id": "540bc8cc2f22",
-    "title": "AI Is Bending the Rules of Brazilian Politics in Lula, Bolsonaro Race",
-    "title_cn": "人工智能正在改变卢拉和博尔索纳罗竞选中的巴西政治规则",
-    "summary": "Technology is reshaping election campaigns across the globe.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-29/ai-is-bending-the-rules-of-brazilian-politics-in-lula-bolsonaro-race",
-    "published": "Wed, 29 Jul 2026 09:59:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:58:08.012428"
-  },
-  {
-    "id": "443818601ccc",
-    "title": "Zelenskyy’s Warmer Ties With Trump Have Yet to Yield New Weapons",
-    "title_cn": "泽伦斯基与特朗普的友好关系尚未产生新武器",
-    "summary": "Ukrainian President Volodymyr Zelenskyy struck an upbeat note after discussions with Donald Trump about air defenses and renewing diplomacy, despite few signs Kyiv’s any closer to securing new arms to bolster its military capabilities against Russia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-28/zelenskyy-says-he-had-good-talk-with-trump-on-patriot-missiles",
-    "published": "Tue, 28 Jul 2026 18:48:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-29T14:58:08.139322"
+    "fetched_at": "2026-07-29T16:35:32.701329"
   }
 ]
