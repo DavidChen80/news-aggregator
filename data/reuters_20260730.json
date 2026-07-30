@@ -1,5 +1,155 @@
 [
   {
+    "id": "6a6215b2feb2",
+    "title": "Seattle Mayor Tells Police Chief to Quit Days After Shooting",
+    "title_cn": "西雅图市长在枪击事件发生几天后要求警察局长辞职",
+    "summary": "Seattle Mayor Katie Wilson asked the city’s police chief to resign days after a shooting that killed and wounded innocent bystanders near the city’s iconic Space Needle.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/seattle-mayor-tells-police-chief-to-quit-after-shooting-response",
+    "published": "Thu, 30 Jul 2026 20:40:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:29.934128"
+  },
+  {
+    "id": "93c3247c114f",
+    "title": "Wall Street’s Warsh Doubts Are Rising: Evening Briefing Americas",
+    "title_cn": "华尔街对战争的怀疑正在上升：美洲晚间简报",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/wall-street-s-warsh-doubts-are-rising-evening-briefing-americas",
+    "published": "Thu, 30 Jul 2026 22:04:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:30.741766"
+  },
+  {
+    "id": "5f1d151bdf68",
+    "title": "Bloomberg Talks: Vlad Tenev (Podcast)",
+    "title_cn": "彭博社谈话：Vlad Tenev（播客）",
+    "summary": "Source: Bloomberg, 6:43",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-talks-vlad-tenev-podcast",
+    "published": "Thu, 30 Jul 2026 22:02:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:31.515760"
+  },
+  {
+    "id": "c6dd53cbb809",
+    "title": "Bloomberg Talks: Charlie Morrison (Podcast)",
+    "title_cn": "彭博社谈话：查理·莫里森（播客）",
+    "summary": "Source: Bloomberg, 7:41",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-talks-charlie-morrison-podcast",
+    "published": "Thu, 30 Jul 2026 21:59:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:32.608226"
+  },
+  {
+    "id": "5b8747b974fb",
+    "title": "Instant Reaction: Apple Slides on Sales Forecast (Podcast)",
+    "title_cn": "即时反应：苹果公司销售预测下滑（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/instant-reaction-apple-slides-on-sales-forecast-podcast",
+    "published": "Thu, 30 Jul 2026 21:58:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:33.068869"
+  },
+  {
+    "id": "d0582b931c5d",
+    "title": "Skimpflation Ingredient Swaps Change Consumer Products: Big Take Podcast",
+    "title_cn": "Skimpflation成分互换改变了消费品：Big Take Podcast",
+    "summary": "<p>Some consumers are starting to notice and digging into their own research to prove themselves right.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/skimpflation-ingredient-swaps-change-consumer-products-big-take-podcast",
+    "published": "Thu, 30 Jul 2026 21:46:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:33.205303"
+  },
+  {
+    "id": "6392f98bf2ba",
+    "title": "Bloomberg Businessweek Daily: Amazon and Apple Report (Podcast)",
+    "title_cn": "彭博商业周刊日报：亚马逊和苹果报告（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-businessweek-daily-amazon-and-apple-report-podcast",
+    "published": "Thu, 30 Jul 2026 21:45:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:33.775910"
+  },
+  {
+    "id": "e28502a539e6",
+    "title": "Yen Surges After Reported Intervention by Japanese Officials",
+    "title_cn": "据报道日本官员干预后日元飙升",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/yen-surges-after-reported-intervention-by-japanese-officials",
+    "published": "Thu, 30 Jul 2026 21:40:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:33.907129"
+  },
+  {
+    "id": "a0b1cf5ca4f5",
+    "title": "Bloomberg Businessweek Daily: Aon CFO Edmund Reese (Podcast)",
+    "title_cn": "彭博商业周刊日报：怡安首席财务官埃德蒙·里斯（播客）",
+    "summary": "Source: Bloomberg, 11:02",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-businessweek-daily-aon-cfo-edmund-reese-podcast",
+    "published": "Thu, 30 Jul 2026 21:34:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:34.660931"
+  },
+  {
+    "id": "684c32a03c21",
+    "title": "Big Take: The Sneaky Trend of ‘Skimpflation’ (Podcast)",
+    "title_cn": "大观点：“紧缩通货膨胀”的偷偷摸摸的趋势（播客）",
+    "summary": "Source: Bloomberg, 16:07",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/big-take-the-sneaky-trend-of-skimpflation-podcast",
+    "published": "Thu, 30 Jul 2026 21:30:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:35.323473"
+  },
+  {
+    "id": "64fe8dee6bd4",
+    "title": "The Fed’s Headache and an Improving Economy May Give Loonie a Lift",
+    "title_cn": "美联储的头痛和经济的改善可能会给加元带来提振",
+    "summary": "Plus: A World Cup boycott?",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/the-fed-s-headache-and-an-improving-economy-may-give-loonie-a-lift",
+    "published": "Thu, 30 Jul 2026 21:27:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:35.790594"
+  },
+  {
+    "id": "642a64abaaa6",
+    "title": "Stock Movers: Amazon, Apple, Rivian (Podcast)",
+    "title_cn": "库存推动者：亚马逊、苹果、Rivian（播客）",
+    "summary": "Source: Bloomberg, 4:11",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/stock-movers-amazon-apple-rivian-podcast",
+    "published": "Thu, 30 Jul 2026 21:19:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:36.174024"
+  },
+  {
+    "id": "1f074481b68a",
+    "title": "Apple Disappoints, UEFA, CONCACAF Reject FIFA Investment Plan",
+    "title_cn": "苹果公司失望，欧足联、中北美洲及加勒比海足联拒绝国际足联投资计划",
+    "summary": "Source: Bloomberg, 5:59",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/apple-disappoints-uefa-concacaf-reject-fifa-investment-plan",
+    "published": "Thu, 30 Jul 2026 21:16:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:37.161214"
+  },
+  {
+    "id": "977a1006882f",
+    "title": "Stock Movers: Amazon, Rivian, Coinbase (Podcast)",
+    "title_cn": "库存推动者：亚马逊、Rivian、Coinbase（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/stock-movers-amazon-rivian-coinbase-podcast",
+    "published": "Thu, 30 Jul 2026 20:55:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:38.289047"
+  },
+  {
+    "id": "c825bb86921c",
+    "title": "Instant Reaction: Amazon's Revenue Beats Estimates (Podcast)",
+    "title_cn": "即时反应：亚马逊的收入超出预期（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-30/instant-reaction-amazon-s-revenue-beats-estimates-podcast",
+    "published": "Thu, 30 Jul 2026 20:48:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:38.979855"
+  },
+  {
     "id": "b7fffc18ce88",
     "title": "Apple 3rd Quarter Revenue Disappoints Wall Street, Shares Fall",
     "title_cn": "苹果第三季度营收令华尔街失望，股价下跌",
@@ -7,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-30/apple-3rd-quarter-revenue-disappoints-wall-street-shares-fall",
     "published": "Thu, 30 Jul 2026 20:39:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:41.310947"
+    "fetched_at": "2026-07-30T22:10:39.113944"
   },
   {
     "id": "5e32aecebe4b",
@@ -17,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-tech-ai-winners-losers-emerge-podcast",
     "published": "Thu, 30 Jul 2026 20:20:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:41.623234"
+    "fetched_at": "2026-07-30T22:10:39.236126"
   },
   {
     "id": "7969d49e96ec",
@@ -27,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-30/stocks-close-higher-amazon-jumps-after-aws-beats-estimates",
     "published": "Thu, 30 Jul 2026 20:15:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:42.300709"
+    "fetched_at": "2026-07-30T22:10:39.380810"
   },
   {
     "id": "6e320c6b906b",
@@ -37,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-30/balance-of-power-trump-floats-pulling-blanche-pick-podcast",
     "published": "Thu, 30 Jul 2026 19:22:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:42.828274"
+    "fetched_at": "2026-07-30T22:10:39.522632"
   },
   {
     "id": "03803015fa65",
@@ -47,177 +197,67 @@
     "link": "https://www.bloomberg.com/news/features/2026-07-25/usda-leans-on-social-media-campaign-to-combat-deadly-screwworm-parasite",
     "published": "Sat, 25 Jul 2026 13:30:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:43.092771"
+    "fetched_at": "2026-07-30T22:10:39.674032"
   },
   {
-    "id": "9ac3e31147dd",
-    "title": "UEFA Threatens World Cup Boycott, Jersey Mike's Sinks in Debut",
-    "title_cn": "欧足联威胁抵制世界杯，泽西迈克首秀就沉没",
-    "summary": "Source: Bloomberg, 5:25",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/uefa-threatens-world-cup-boycott-jersey-mike-s-sinks-in-debut",
-    "published": "Thu, 30 Jul 2026 19:08:28 GMT",
+    "id": "cd3961fa6d87",
+    "title": "Latest Oil Market News and Analysis for July 31",
+    "title_cn": "7 月 31 日最新石油市场新闻和分析",
+    "summary": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31",
+    "published": "Thu, 30 Jul 2026 22:04:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:43.479828"
-  },
-  {
-    "id": "3e8091ab3a3a",
-    "title": "Bloomberg Talks: Edmund Reese (Podcast)",
-    "title_cn": "彭博谈话：埃德蒙·里斯（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-talks-edmund-reese-podcast",
-    "published": "Thu, 30 Jul 2026 18:47:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:44.198467"
-  },
-  {
-    "id": "9f931d58fa47",
-    "title": "UEFA Votes to Boycott World Cup, Jersey Mike's IPO Debut Slumps",
-    "title_cn": "欧足联投票抵制世界杯，泽西麦克首次公开募股暴跌",
-    "summary": "Source: Bloomberg, 5:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/uefa-votes-to-boycott-world-cup-jersey-mike-s-ipo-debut-slumps",
-    "published": "Thu, 30 Jul 2026 18:14:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:44.752096"
-  },
-  {
-    "id": "86d77e910822",
-    "title": "UEFA Votes to Boycott World Cup, Jersey Mike’s IPO Opens at $21, More",
-    "title_cn": "欧足联投票抵制世界杯，泽西迈克的 IPO 开盘价为 21 美元，更多",
-    "summary": "Listen for the latest from Bloomberg News",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/uefa-may-boycott-world-cup-jersey-mike-s-ipo-opens-at-21-more",
-    "published": "Thu, 30 Jul 2026 17:25:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:45.497991"
-  },
-  {
-    "id": "29978fe7e1be",
-    "title": "Credit Edge Won’t Publish Today, Will Resume Aug. 6 (Podcast)",
-    "title_cn": "Credit Edge 今天不会发布，将于 8 月 6 日恢复（播客）",
-    "summary": "Bloomberg Intelligence’s Credit Edge podcast won’t be published today. Look for the next episode on Aug. 6.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/credit-edge-won-t-publish-today-will-resume-aug-6-podcast",
-    "published": "Thu, 30 Jul 2026 17:09:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:45.857519"
-  },
-  {
-    "id": "ac175e5346d4",
-    "title": "Macro Matters: BE’s Anna Wong on Warsh and Fed Communication",
-    "title_cn": "宏观问题：BE 的 Anna Wong 谈 Warsh 和美联储的沟通",
-    "summary": "Kevin Warsh’s new communications approach may be creating more uncertainty for markets, not less. Anna Wong, Bloomberg Economics chief US economist, joins Ira Jersey, Bloomberg Intelligence chief US interest-rate strategist, on this Macro Matters edition of the FICC Focus podcast. Wong discusses why Warsh’s latest press conference appeared to contribute to the selloff in long-dated Treasuries, how his reluctance to provide a clear policy framework raised questions about the Fed’s commitment to i",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/macro-matters-be-s-anna-wong-on-warsh-and-fed-communication",
-    "published": "Thu, 30 Jul 2026 16:59:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:46.550743"
-  },
-  {
-    "id": "266fdb4ee15b",
-    "title": "Bloomberg Intelligence: UEFA to Boycott World Cup (Podcast)",
-    "title_cn": "彭博资讯：欧足联将抵制世界杯（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-intelligence-uefa-to-boycott-world-cup-podcast",
-    "published": "Thu, 30 Jul 2026 16:51:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:47.151078"
-  },
-  {
-    "id": "0bc2c99f2766",
-    "title": "Dip Buyers Lift Stocks, UEFA Threatens to Boycott World Cup",
-    "title_cn": "买家低迷提振库存，欧足联威胁抵制世界杯",
-    "summary": "Source: Bloomberg, 5:30",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/dip-buyers-lift-stocks-uefa-threatens-to-boycott-world-cup",
-    "published": "Thu, 30 Jul 2026 16:36:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:47.658842"
-  },
-  {
-    "id": "182edb31a961",
-    "title": "Wall Street Vet Jeff Currie Bets on Oil Industry He Once Covered",
-    "title_cn": "华尔街资深人士杰夫柯里押注于他曾经报道过的石油行业",
-    "summary": "Offshore drilling is the latest career stop for a Goldman and Carlyle alum",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/wall-street-vet-jeff-currie-bets-on-oil-industry-he-once-covered",
-    "published": "Thu, 30 Jul 2026 16:30:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:47.776910"
-  },
-  {
-    "id": "3eac9a9abe59",
-    "title": "Bloomberg Business of Sports: Mark Clouse (Podcast)",
-    "title_cn": "彭博体育商业报：马克·克劳斯（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/bloomberg-business-of-sports-mark-clouse-podcast",
-    "published": "Thu, 30 Jul 2026 16:15:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:48.226954"
-  },
-  {
-    "id": "1f35c5e4f696",
-    "title": "IPO-Bound NSE’s Profit Rises as Trading Activity Jumps",
-    "title_cn": "随着交易活动激增，拟首次公开募股的 NSE 利润上升",
-    "summary": "National Stock Exchange of India Ltd., the world’s largest derivatives bourse, saw net income climb 6.7% for the quarter ended June as heightened volatility saw trading activity soar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/ipo-bound-nse-s-quarterly-profit-rises-as-trading-activity-jumps",
-    "published": "Thu, 30 Jul 2026 15:41:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:48.323251"
-  },
-  {
-    "id": "1257bfaa48c6",
-    "title": "Merryn Talks Money: The Circular AI Money Machine (Podcast)",
-    "title_cn": "Merryn 谈论金钱：循环人工智能赚钱机器（播客）",
-    "summary": "Source: Bloomberg, 21:51",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/merryn-talks-money-the-circular-ai-money-machine-podcast",
-    "published": "Thu, 30 Jul 2026 16:06:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:48.665238"
-  },
-  {
-    "id": "c540f2629031",
-    "title": "Frontlines of the War in the Middle East Are Expanding",
-    "title_cn": "中东战争前线正在扩大",
-    "summary": "Get Caught Up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/frontlines-of-the-war-in-the-middle-east-are-expanding",
-    "published": "Thu, 30 Jul 2026 16:05:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:48.771232"
-  },
-  {
-    "id": "10994ce30423",
-    "title": "US-Iran War Keeps the Bank of England in a Holding Pattern",
-    "title_cn": "美伊战争使英格兰银行保持持有格局",
-    "summary": "Global factors are the only thing keeping Britain’s borrowing costs elevated.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/us-iran-war-keeps-the-bank-of-england-in-a-holding-pattern",
-    "published": "Thu, 30 Jul 2026 16:02:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:48.883354"
-  },
-  {
-    "id": "b967d4905ab1",
-    "title": "Stocks Stage a Comeback, UEFA Threatens to Boycott World Cup",
-    "title_cn": "股市卷土重来，欧足联威胁抵制世界杯",
-    "summary": "Source: Bloomberg, 5:13",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-30/stocks-stage-a-comeback-uefa-threatens-to-boycott-world-cup",
-    "published": "Thu, 30 Jul 2026 15:57:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:49.590993"
+    "fetched_at": "2026-07-30T22:10:40.163440"
   },
   {
     "id": "270ade69e4a1",
     "title": "Reddit Projects Strong Sales, But No New AI Deals",
     "title_cn": "Reddit 预计销售强劲，但没有新的人工智能交易",
-    "summary": "Reddit Inc. projected current-quarter revenue that beat Wall Street estimates, but shares fell after it failed to announce any new data licensing agreements.",
+    "summary": "Reddit Inc. projected revenue in the current quarter revenue that beat Wall Street estimates, but shares fell after the social media company failed to announce any new data licensing agreements.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/reddit-projects-strong-third-quarter-sales-growth",
     "published": "Thu, 30 Jul 2026 20:10:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:50.536918"
+    "fetched_at": "2026-07-30T22:10:40.321522"
   },
   {
-    "id": "ed2975b990b1",
-    "title": "Aon Keeps Margin Edge as Industry Tailwinds Fade",
-    "title_cn": "随着行业顺势消退，怡安保持利润优势",
-    "summary": "Aon CEO Edmund Reese said that despite rising geopolitical risk, customers want to understand how to protect their assets as they continue to grow and invest. Reese said that his company has been investing in tools and data to help the client base better understand their exposure as risk factors intermingle for the business community.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/aon-keeps-margin-edge-as-industry-tailwinds-fade-video",
-    "published": "Thu, 30 Jul 2026 20:37:12 GMT",
+    "id": "45f06b46a3be",
+    "title": "Coinbase Posts Loss as Revenue Drops for Another Quarter",
+    "title_cn": "Coinbase 因收入连续一个季度下降而出现亏损",
+    "summary": "Coinbase Global Inc. reported a third consecutive quarterly decline in revenue, showing once again how a cooling crypto market can pressure even one of the industry’s most diversified exchanges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/coinbase-posts-loss-as-revenue-drops-for-third-straight-quarter",
+    "published": "Thu, 30 Jul 2026 20:43:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:50.635612"
+    "fetched_at": "2026-07-30T22:10:40.448481"
+  },
+  {
+    "id": "be9623948f6e",
+    "title": "Amazon Tops Estimates | Closing Bell",
+    "title_cn": "亚马逊超过预期结束钟声",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Emily Graffeo, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/amazon-tops-estimates-closing-bell-video",
+    "published": "Thu, 30 Jul 2026 21:09:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:40.584234"
+  },
+  {
+    "id": "b61c4f038054",
+    "title": "Chile Sends Mixed Signals on Private Capital in Codelco",
+    "title_cn": "智利对Codelco的私人资本发出了混合信号",
+    "summary": "Chilean authorities sent mixed messages on the future of copper giant Codelco as the finance minister opened the door to private capital while the company’s chairman said it had no plans to go public.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/chile-finance-minister-floats-idea-of-private-capital-at-codelco",
+    "published": "Thu, 30 Jul 2026 13:50:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:40.712945"
+  },
+  {
+    "id": "bc6919bfb6d2",
+    "title": "Yen Surges as Nikkei Says Japan Intervened in Market Again",
+    "title_cn": "日经称日本再次干预市场，日元飙升",
+    "summary": "The yen soared by the most in more than two years against the US dollar, with Japan’s Nikkei newspaper reporting that officials stepped in once again to try and prop up the nation’s sagging currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surge-spurs-speculation-japan-intervened-in-market-again",
+    "published": "Thu, 30 Jul 2026 13:57:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:40.847448"
   },
   {
     "id": "6acbe1c04411",
@@ -227,7 +267,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 29 Jul 2026 22:11:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:50.728378"
+    "fetched_at": "2026-07-30T22:10:40.986878"
+  },
+  {
+    "id": "38f9e935e9f4",
+    "title": "Carvana Bears Reap $500 Million as Stock Sinks on Profit Miss",
+    "title_cn": "Carvana Bears 盈利 5 亿美元，股价因盈利失误而下跌",
+    "summary": "The slump in the shares of online used-car dealer Carvana Co. on Thursday is creating a potential windfall for investors who have been bearish on the stock.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/carvana-bears-reap-500-million-as-stock-sinks-on-profit-miss",
+    "published": "Thu, 30 Jul 2026 20:52:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:41.122060"
+  },
+  {
+    "id": "f6d86a0d5d78",
+    "title": "Churchill Downs Shares Fall on Plans to Sell Casinos, Keep Derby",
+    "title_cn": "丘吉尔唐斯 (Churchill Downs) 股价因出售赌场、保留德比郡计划而下跌",
+    "summary": "Churchill Downs Inc. shares tumbled nearly 7% on Thursday to their lowest level in six years after the company announced plans to sell nine of its regional casinos and focus on its horseracing properties.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/churchill-downs-shares-fall-on-plans-to-sell-casinos-keep-derby",
+    "published": "Thu, 30 Jul 2026 20:38:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:41.252477"
+  },
+  {
+    "id": "ed2975b990b1",
+    "title": "Aon Keeps Margin Edge as Industry Tailwinds Fade",
+    "title_cn": "随着行业顺势消退，怡安保持利润优势",
+    "summary": "Aon CEO Edmund Reese said that despite rising geopolitical risk, customers want to understand how to protect their assets as they continue to grow and invest. Reese said that his company has been investing in tools and data to help the client base better understand their exposure as risk factors intermingle for the business community.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/aon-keeps-margin-edge-as-industry-tailwinds-fade-video",
+    "published": "Thu, 30 Jul 2026 20:37:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:41.393595"
   },
   {
     "id": "3f48820044cb",
@@ -237,7 +307,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/gold-advances-after-federal-reserve-keeps-interest-rates-on-hold",
     "published": "Wed, 29 Jul 2026 23:24:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:50.837368"
+    "fetched_at": "2026-07-30T22:10:41.524736"
+  },
+  {
+    "id": "6ad5ec2113eb",
+    "title": "Strategy Shores Up Liquidity as Faithful Wait on Rebound",
+    "title_cn": "策略支撑流动性，忠实等待反弹",
+    "summary": "After roiling crypto markets with a sweeping overhaul of the financing model underpinning Strategy Inc.’s Bitcoin buying blueprint, Michael Saylor has investors wondering what’s next while reporting another multibillion loss tied to the declining value of the cryptocurrency accumulator’s holdings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-faithful-wait-on-rebound",
+    "published": "Thu, 30 Jul 2026 20:24:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:41.658572"
   },
   {
     "id": "862ad24ed9ed",
@@ -247,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/swarthmore-loses-aaa-rating-from-s-p-over-debtload-video",
     "published": "Thu, 30 Jul 2026 20:19:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:50.942194"
+    "fetched_at": "2026-07-30T22:10:41.794993"
   },
   {
     "id": "1bd75abe2d6a",
@@ -257,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/trump-unveils-20b-plan-for-washington-dulles-revamp-video",
     "published": "Thu, 30 Jul 2026 20:16:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.056463"
+    "fetched_at": "2026-07-30T22:10:41.930512"
   },
   {
     "id": "83c4eada8cda",
@@ -267,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/blackstone-backed-jersey-mike-s-falls-8-7-after-1-billion-ipo",
     "published": "Thu, 30 Jul 2026 17:11:26 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.153630"
+    "fetched_at": "2026-07-30T22:10:42.077256"
   },
   {
     "id": "bc8245a5ef3e",
@@ -277,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/fitch-s-private-credit-default-rate-hit-record-in-second-quarter",
     "published": "Thu, 30 Jul 2026 20:09:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.252585"
+    "fetched_at": "2026-07-30T22:10:42.221987"
   },
   {
     "id": "82174126a14e",
@@ -287,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/microsoft-eyes-history-with-490-billion-pop-in-market-value",
     "published": "Thu, 30 Jul 2026 16:55:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.356561"
+    "fetched_at": "2026-07-30T22:10:42.350617"
   },
   {
     "id": "17b62171f51a",
@@ -297,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/womenswear-firm-reformation-opens-flat-after-210-9-million-ipo",
     "published": "Thu, 30 Jul 2026 16:10:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.498209"
+    "fetched_at": "2026-07-30T22:10:42.499169"
   },
   {
     "id": "cba62e1f0c4a",
@@ -307,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/weak-yen-offers-toyota-an-earnings-respite-from-tariffs-war",
     "published": "Thu, 30 Jul 2026 20:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.606493"
+    "fetched_at": "2026-07-30T22:10:42.636695"
   },
   {
     "id": "aa101e8cabba",
@@ -317,97 +397,87 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/jersey-mike-s-ceo-on-trading-debut-supply-chain-demand-video",
     "published": "Thu, 30 Jul 2026 19:46:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.722514"
+    "fetched_at": "2026-07-30T22:10:42.783011"
   },
   {
-    "id": "5cfecb81e14f",
-    "title": "US Long-Term Yields Extend Climb Sparked by Fed Hike Delay",
-    "title_cn": "美联储延迟加息引发美国长期收益率攀升",
-    "summary": "Long-term Treasury yields touched fresh multiyear highs, extending the surge unleashed by the Federal Reserve decision to hold rates steady despite still-elevated inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/treasuries-extend-drop-as-bond-traders-await-key-inflation-print",
-    "published": "Thu, 30 Jul 2026 10:45:51 GMT",
+    "id": "a0339c98a5b2",
+    "title": "Amazon's AWS Result Is 'Remarkable,' Analyst Luria Says",
+    "title_cn": "分析师 Luria 表示，亚马逊 AWS 的业绩“非常出色”",
+    "summary": "Gil Luria, D.A. Davidson's head of technology research, reacts to Amazon Web Services' revenue growth and discusses the outlook for Amazon.com Inc. on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/amazon-s-aws-result-is-remarkable-analyst-luria-says-video",
+    "published": "Thu, 30 Jul 2026 22:06:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.823623"
+    "fetched_at": "2026-07-30T22:10:44.018642"
   },
   {
-    "id": "b5c6bd0bb6ae",
-    "title": "Bolivia Central Bank to Buy, Sell Dollars to Stabilize FX Rate",
-    "title_cn": "玻利维亚央行将买入、卖出美元以稳定汇率",
-    "summary": "Bolivia’s central bank will step into the foreign exchange market to stabilize the currency after it sank 22% since the country adopted a flexible FX regime a month ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/bolivia-central-bank-to-buy-sell-dollars-to-stabilize-fx-rate",
-    "published": "Thu, 30 Jul 2026 19:43:53 GMT",
+    "id": "e348e0de99fa",
+    "title": "Amazon Got $600 Million Tariff Refund, Some for Shoppers",
+    "title_cn": "亚马逊获得 6 亿美元关税退款，部分返还给购物者",
+    "summary": "Amazon.com Inc. says it received about $600 million in tariff refunds during the second quarter and pledged to automatically issue reimbursements to consumers under a “limited set of circumstances.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-got-a-600-million-tariff-refund-some-going-to-shoppers",
+    "published": "Thu, 30 Jul 2026 21:44:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:51.932189"
+    "fetched_at": "2026-07-30T22:10:44.183185"
   },
   {
-    "id": "ff90aaa61d77",
-    "title": "BOE Follows the Fed, Holds on Rates",
-    "title_cn": "英国央行跟随美联储维持利率不变",
-    "summary": "Bloomberg's Morwenna Coniam joins Scarlet Fu on \"Bloomberg Real Yield.\" The Bank of England kept interest rates steady at 3.75% on Thursday, with Governor Andrew Bailey insisting his committee is not getting closer to a hike despite three members voting for tighter policy.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/boe-follows-the-fed-holds-on-rates-video",
-    "published": "Thu, 30 Jul 2026 19:29:58 GMT",
+    "id": "dc55aaf4bda6",
+    "title": "Breaking Down Apple's 3Q Results and Outlook",
+    "title_cn": "苹果第三季度业绩分析及展望",
+    "summary": "Apple sales grew more slowly than analysts anticipated in China and its services business last quarter.  Though total revenue topped estimates, the China sales amounted to $18.8 billion in the fiscal third quarter, well short of the $19.6 billion estimated by analysts. Revenue from services was $30.7 billion, compared with a $31.4 billion projection. Mark Gurman breaks down the numbers on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/breaking-down-apple-s-q3-results-and-outlook-video",
+    "published": "Thu, 30 Jul 2026 21:49:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.071229"
+    "fetched_at": "2026-07-30T22:10:45.291769"
   },
   {
-    "id": "09918d80b7f7",
-    "title": "Latest Oil Market News and Analysis for July 30",
-    "title_cn": "7 月 30 日最新石油市场新闻和分析",
-    "summary": "Oil slid in thin summer trading as signs of increased flows through the Strait of Hormuz offset concerns over a fresh wave of hostilities from Iran to the Black Sea.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-29/latest-oil-market-news-and-analysis-for-july-30",
-    "published": "Wed, 29 Jul 2026 22:01:33 GMT",
+    "id": "727ee6d3e84a",
+    "title": "Roblox Users Miss Estimates on Impact of Safety Measures",
+    "title_cn": "Roblox 用户未能预估安全措施的影响",
+    "summary": "Roblox Corp. reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
+    "published": "Thu, 30 Jul 2026 20:20:41 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.188365"
-  },
-  {
-    "id": "3049f129bd17",
-    "title": "No Idea of Warsh's Position, 'Hall of Mirrors': Ed Al-Hussainy",
-    "title_cn": "不知道沃什在《镜厅》中的立场：艾德·阿尔-侯赛尼",
-    "summary": "Ed Al-Hussainy, portfolio manager of the total return bond fund at Columbia Threadneedle Investments, and Nicolo Bocchin, global co-head of fixed income at Azimut Group, join Scarlet Fu on \"Bloomberg Real Yield.\" Long-term Treasury yields retained most of the surge unleashed by this week’s Federal Reserve rate decision after a raft of US economic data showed still-elevated inflation and labor-market resilience. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/no-idea-of-warsh-s-position-ed-al-hussainy-video",
-    "published": "Thu, 30 Jul 2026 19:19:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.283461"
-  },
-  {
-    "id": "f8b876ee4e8e",
-    "title": "Fed's Messaging 'Extraordinarily Muddled': Ed Al-Hussainy",
-    "title_cn": "Ed Al-Hussainy：美联储的信息“极其混乱”",
-    "summary": "Ed Al-Hussainy, portfolio manager of the total return bond fund at Columbia Threadneedle Investments, and Nicolo Bocchin, global co-head of fixed income at Azimut Group, join Scarlet Fu on \"Bloomberg Real Yield.\" Long-term Treasury yields retained most of the surge unleashed by this week’s Federal Reserve rate decision after a raft of US economic data showed still-elevated inflation and labor-market resilience.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/fed-s-messaging-extraordinarily-muddled-al-hussainy-video",
-    "published": "Thu, 30 Jul 2026 19:17:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.373546"
-  },
-  {
-    "id": "bc6919bfb6d2",
-    "title": "Yen Surge Spurs Speculation Japan Intervened in Market Again",
-    "title_cn": "日元飙升引发日本再次干预市场的猜测",
-    "summary": "The yen soared by the most in more than two years against the US dollar, renewing speculation that Japanese officials stepped in once again to try and prop up the nation’s sagging currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/yen-surge-spurs-speculation-japan-intervened-in-market-again",
-    "published": "Thu, 30 Jul 2026 13:57:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.480886"
-  },
-  {
-    "id": "6cbefe7c166c",
-    "title": "Fed's Credibility Questioned, ‘Bond Vigilantes’ Return | Real Yield 7/30/2026",
-    "title_cn": "美联储信誉受到质疑，“债券义务警员”卷土重来实际收益率 7/30/2026",
-    "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Azimut Group Global Co-Head of Fixed Income Nicolò Bocchin, Columbia Threadneedle Investments Ed Al-Hussainy, TCW Group CIO & Generalist Portfolio Manager, Fixed Income Bryan Whalen, and CreditSights Global head of Credit Strategy Winnie Cisar. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/real-yield-7-30-2026-video",
-    "published": "Thu, 30 Jul 2026 19:03:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:52.589995"
+    "fetched_at": "2026-07-30T22:10:45.433316"
   },
   {
     "id": "9439f08e9492",
-    "title": "Apple’s Sales Disappoint in China Unit, Services Business",
-    "title_cn": "苹果在中国服务业务部门的销售令人失望",
-    "summary": "Apple Inc. sales grew slower than analysts anticipated last quarter in China and its services business, sparking concerns about two key markets.",
+    "title": "Apple Slides After Supply Shortages Hurt Its Sales Forecast",
+    "title_cn": "苹果因供应短缺影响其销售预测而股价下滑",
+    "summary": "Apple Inc. tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
     "published": "Thu, 30 Jul 2026 20:40:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.166990"
+    "fetched_at": "2026-07-30T22:10:45.570967"
+  },
+  {
+    "id": "1bbb987d72b8",
+    "title": "Apple Earnings Look Good, T. Rowe Price's Wang Says",
+    "title_cn": "T. Rowe Price 的 Wang 表示，苹果公司的盈利看起来不错",
+    "summary": "Tony Wang, T. Rowe Price science and technology equity strategy portfolio manager, reacts to Apple's third-quarter earnings and outlook. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/apple-earnings-look-good-t-rowe-price-s-wang-says-video",
+    "published": "Thu, 30 Jul 2026 21:40:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:45.716018"
+  },
+  {
+    "id": "b58b0d154804",
+    "title": "Amazon Reports Fifth Straight Quarter of Cloud Sales Growth",
+    "title_cn": "亚马逊报告云销售连续第五个季度增长",
+    "summary": "Amazon.com Inc. reported cloud-computing revenue that accelerated for the fifth straight quarter, easing investors’ concerns that the company won’t produce a return on its spending to meet booming demand for artificial intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+    "published": "Thu, 30 Jul 2026 20:16:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:45.861686"
+  },
+  {
+    "id": "01d5044afb1c",
+    "title": "Rivian Sees R2 Driving Its Path to Profitability",
+    "title_cn": "Rivian 认为 R2 正在推动其盈利之路",
+    "summary": "Rivian CFO Claire McDonough joins Bloomberg's Ed Ludlow as the EV maker begins delivering its highly anticipated R2 SUV. She discusses early customer demand, the production ramp, and why the more affordable vehicle is expected to drive Rivian toward automotive gross-profit positivity by the end of 2026. McDonough also outlines the company's capital position, software strategy, and how recurring software revenue is becoming a larger part of the business. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/rivian-sees-r2-driving-its-path-to-profitability-video",
+    "published": "Thu, 30 Jul 2026 20:46:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:46.012134"
   },
   {
     "id": "d3fefa20d398",
@@ -417,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/exelon-exc-slashes-ai-data-center-pipeline-weeds-out-speculative-projects",
     "published": "Thu, 30 Jul 2026 17:32:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.261930"
+    "fetched_at": "2026-07-30T22:10:46.157237"
   },
   {
     "id": "33b49043f4aa",
@@ -427,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/zuckerberg-is-trying-to-compete-with-everyone-martin-video",
     "published": "Thu, 30 Jul 2026 20:26:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.365438"
+    "fetched_at": "2026-07-30T22:10:46.314642"
   },
   {
     "id": "7c1e71d058f6",
@@ -437,27 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth",
     "published": "Thu, 30 Jul 2026 11:32:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.478234"
-  },
-  {
-    "id": "727ee6d3e84a",
-    "title": "Roblox Users Miss Estimates Reflecting Impact of Safety Measures",
-    "title_cn": "Roblox 用户未达到预期，反映出安全措施的影响",
-    "summary": "Roblox Corp. reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
-    "published": "Thu, 30 Jul 2026 20:20:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.569465"
-  },
-  {
-    "id": "b58b0d154804",
-    "title": "Amazon Reports Fifth Straight Quarter of Cloud Sales Growth",
-    "title_cn": "亚马逊报告云销售连续第五个季度增长",
-    "summary": "Amazon.com Inc. reported cloud-computing revenue that beat analyst estimates, with booming demand for artificial intelligence services accelerating sales for the fifth straight quarter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-    "published": "Thu, 30 Jul 2026 20:16:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.674766"
+    "fetched_at": "2026-07-30T22:10:46.439565"
   },
   {
     "id": "dc5092536b3a",
@@ -467,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast",
     "published": "Wed, 29 Jul 2026 20:11:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.779866"
+    "fetched_at": "2026-07-30T22:10:46.587519"
   },
   {
     "id": "234602025874",
@@ -477,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-29/microsoft-reports-quarterly-cloud-revenue-that-beat-estimates",
     "published": "Wed, 29 Jul 2026 20:10:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.870490"
+    "fetched_at": "2026-07-30T22:10:46.711247"
   },
   {
     "id": "993b15799986",
@@ -487,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/new-insensitive-borrower-in-the-marketplace-tcw-whalen-video",
     "published": "Thu, 30 Jul 2026 20:04:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:53.979838"
+    "fetched_at": "2026-07-30T22:10:46.841754"
   },
   {
     "id": "94fbe065cd84",
@@ -497,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/expectations-mismatched-with-ai-companies-cisar-video",
     "published": "Thu, 30 Jul 2026 19:59:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.089100"
+    "fetched_at": "2026-07-30T22:10:46.967530"
   },
   {
     "id": "d5b3ac532a88",
@@ -507,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/robinhood-ceo-sees-fastest-growth-in-prediction-markets-video",
     "published": "Thu, 30 Jul 2026 19:44:47 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.200150"
+    "fetched_at": "2026-07-30T22:10:47.101854"
   },
   {
     "id": "c787e14cd265",
@@ -517,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
     "published": "Thu, 30 Jul 2026 18:04:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.295465"
+    "fetched_at": "2026-07-30T22:10:47.246924"
   },
   {
     "id": "60c1070108a7",
@@ -527,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/live-blog/2026-07-30/apple-third-quarter-earnings-live-updates",
     "published": "Thu, 30 Jul 2026 19:23:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.407934"
+    "fetched_at": "2026-07-30T22:10:47.378721"
   },
   {
     "id": "88bc5493c1fc",
@@ -537,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
     "published": "Thu, 30 Jul 2026 19:20:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.522308"
+    "fetched_at": "2026-07-30T22:10:47.512839"
   },
   {
     "id": "8c0722dc385e",
@@ -547,57 +597,77 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/podcasters-are-building-businesses-off-free-tv-channels",
     "published": "Thu, 30 Jul 2026 19:03:35 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.648885"
+    "fetched_at": "2026-07-30T22:10:47.660443"
   },
   {
-    "id": "2f209f2e9937",
-    "title": "Microsoft Wins, Meta Faces Questions, Qualcomm Sees Supply Chain Challenges | Bloomberg Tech",
-    "title_cn": "微软获胜，Meta 面临质疑，高通看到供应链挑战 |彭博科技",
-    "summary": "Bloomberg’s Ed Ludlow breaks down big tech's earnings, with Microsoft soaring on cloud growth as its AI gets traction, while Meta plummets as Zuckerberg's AI pitch falls flat on high spending. Plus, Qualcomm CEO Cristiano Amon joins after the company warns of component shortages and rising costs. And, all eyes are on Apple as Tim Cook gives his last earnings report as CEO. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/bloomberg-tech-7-30-2026-video",
-    "published": "Thu, 30 Jul 2026 18:54:47 GMT",
+    "id": "acd6e614d241",
+    "title": "FCC Says Dish Can’t Use $2.4 Billion 5G Trust to Pay Bondholders",
+    "title_cn": "FCC 表示 Dish 不能使用 24 亿美元的 5G 信托来支付债券持有人",
+    "summary": "The Federal Communications Commission is narrowing an aspect of Dish Network’s proposed restructuring deal that the regulator said would have improperly repaid corporate bondholders from a $2.4 billion fund earmarked for contractors in the buildout of its 5G network.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/fcc-says-dish-can-t-use-2-4-billion-5g-trust-to-pay-bondholders",
+    "published": "Thu, 30 Jul 2026 21:46:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.767052"
+    "fetched_at": "2026-07-30T22:10:48.224549"
   },
   {
-    "id": "b13413dc4ebf",
-    "title": "Meta Reports Almost $700 Billion in Future Spending Commitments",
-    "title_cn": "Meta 报告未来支出承诺近 7000 亿美元",
-    "summary": "Meta Platforms Inc. said it has already committed almost $700 billion in future spending, through long- and short-term agreements, related to artificial intelligence data centers, cloud computing and more.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/meta-reports-279-billion-in-future-data-center-leases-for-ai",
-    "published": "Thu, 30 Jul 2026 12:05:57 GMT",
+    "id": "0e56256f7b58",
+    "title": "Burnham to Give Mayors Share of Income Tax in UK Devolution Push",
+    "title_cn": "伯纳姆将在英国权力下放中向市长们提供所得税份额",
+    "summary": "Andy Burnham said he would give mayors in England a share of the income tax generated in their regions as part of the new UK prime minister’s drive to move political and economic power out of Whitehall.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/burnham-to-give-mayors-share-of-income-tax-in-uk-devolution-push",
+    "published": "Thu, 30 Jul 2026 21:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.860254"
+    "fetched_at": "2026-07-30T22:10:48.371003"
   },
   {
-    "id": "fe200844e21e",
-    "title": "DeepSeek Is Developing Massive AI Data Center in Inner Mongolia",
-    "title_cn": "DeepSeek在内蒙古开发海量人工智能数据中心",
-    "summary": "China’s DeepSeek is planning a massive artificial-intelligence data center in Inner Mongolia, according to people familiar with the matter, an ambitious move in computing infrastructure from the startup that’s shown it can compete with the leading AI models of Silicon Valley.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
-    "published": "Thu, 30 Jul 2026 18:30:47 GMT",
+    "id": "7251c33afa1d",
+    "title": "Saudi Arabia Seeks to Lead Maritime Coalition to Protect Red Sea",
+    "title_cn": "沙特阿拉伯寻求领导海上联盟保护红海",
+    "summary": "Saudi Arabia discussed with military representatives of 43 countries the formation of a multinational alliance charged with protecting maritime navigation, hoping to counter a blockade the Houthis imposed on the kingdom last week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/saudi-arabia-seeks-to-lead-maritime-coalition-to-protect-red-sea",
+    "published": "Thu, 30 Jul 2026 21:14:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:54.974966"
+    "fetched_at": "2026-07-30T22:10:48.495923"
   },
   {
-    "id": "1f633eb5d159",
-    "title": "Bargain Airfares Are Under Threat From AI Pricing",
-    "title_cn": "特价机票受到人工智能定价的威胁",
-    "summary": "The days of stumbling across a cheap seat on a popular flight may soon be over. K. Oanh Ha explains how airlines are adopting AI to squeeze more revenue from every flight. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/bargain-airfares-are-under-threat-from-ai-pricing-video",
-    "published": "Thu, 30 Jul 2026 15:22:10 GMT",
+    "id": "e61b77ce4353",
+    "title": "Trump Signs Order on Export Curbs to Retain Critical Minerals",
+    "title_cn": "特朗普签署限制出口命令以保留关键矿产",
+    "summary": "President Donald Trump signed a measure Thursday that gives officials authority under the Defense Production Act to implement export restrictions on some industrial waste in a bid to retain critical minerals and rare elements contained in those products.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-signs-order-on-export-curbs-to-retain-critical-minerals",
+    "published": "Thu, 30 Jul 2026 21:04:32 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:55.079518"
+    "fetched_at": "2026-07-30T22:10:48.625371"
   },
   {
-    "id": "88f6cc2e98bf",
-    "title": "Meta Strains to Assuage Investor Worries on AI Bet",
-    "title_cn": "元压力缓解投资者对人工智能押注的担忧",
-    "summary": "Meta gave a disappointing revenue forecast for the current quarter, intensifying investor concerns that the social media giant isn’t swiftly benefiting from its massive outlay on artificial intelligence. Ed Ludlow reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/meta-strains-to-assuage-investor-worries-on-ai-bet-video",
-    "published": "Thu, 30 Jul 2026 00:08:22 GMT",
+    "id": "876186a0089d",
+    "title": "Why India's `Cockroach' Youth Are Angry",
+    "title_cn": "印度“蟑螂”青年为何愤怒",
+    "summary": "Rising youth unemployment in India has sparked the student-led “cockroach” movement, which has managed to oust a cabinet minister while presenting a growing challenge to Prime Minister Narendra Modi.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/why-india-s-cockroach-youth-are-angry-video",
+    "published": "Thu, 30 Jul 2026 21:00:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:55.214678"
+    "fetched_at": "2026-07-30T22:10:48.785186"
+  },
+  {
+    "id": "7a91004e13a8",
+    "title": "India’s Instagram-Loving ‘Cockroaches’ Outwit Modi Online",
+    "title_cn": "印度网红“蟑螂”智胜莫迪",
+    "summary": "As a wave of student-led protests swept India last week, Satvik Soni spent hours buried on Instagram broadcasting protest locations, explaining detainees’ rights and calling on demonstrators to report police misconduct. His tersely worded posts quickly racked up tens of thousands of views.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/india-s-instagram-loving-cockroaches-outwit-modi-online",
+    "published": "Thu, 30 Jul 2026 21:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:48.926410"
+  },
+  {
+    "id": "715530783e7c",
+    "title": "Japan to Launch Intelligence Bureau in Takaichi’s Security Push",
+    "title_cn": "日本将在高市的安全推动中设立情报局",
+    "summary": "Japan is set to launch a new National Intelligence Bureau to bring together its fragmented system of collecting and analyzing information related to national security and public safety, marking a milestone in Prime Minister Sanae Takaichi’s efforts to make the nation more resilient to internal and external threats.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/japan-to-launch-intelligence-bureau-in-takaichi-s-security-push",
+    "published": "Thu, 30 Jul 2026 21:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-30T22:10:49.066535"
   },
   {
     "id": "c03b17461a67",
@@ -607,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/trump-faces-mounting-midterm-risks-from-iran-to-the-us-economy",
     "published": "Thu, 30 Jul 2026 20:43:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:55.767991"
+    "fetched_at": "2026-07-30T22:10:49.222533"
   },
   {
     "id": "77d1972f8dd2",
@@ -617,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/senate-panel-votes-to-block-education-department-s-dismantling",
     "published": "Thu, 30 Jul 2026 15:32:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:55.894894"
+    "fetched_at": "2026-07-30T22:10:49.364713"
   },
   {
     "id": "e7c04b6f6dab",
@@ -627,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/balance-of-power-early-edition-7-30-2026-video",
     "published": "Thu, 30 Jul 2026 19:52:22 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:55.994719"
+    "fetched_at": "2026-07-30T22:10:49.510042"
   },
   {
     "id": "3d68c48cd305",
@@ -637,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/scam-artists-are-posing-as-irs-agents-to-drain-crypto-wallets",
     "published": "Thu, 30 Jul 2026 19:48:40 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.092528"
+    "fetched_at": "2026-07-30T22:10:49.653316"
   },
   {
     "id": "e66ec97a443c",
@@ -647,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-puts-immunity-from-probes-over-his-fight-for-todd-blanche",
     "published": "Thu, 30 Jul 2026 18:57:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.198231"
+    "fetched_at": "2026-07-30T22:10:49.792954"
   },
   {
     "id": "3d72571fb118",
@@ -657,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-weighs-100-000-fee-for-foreign-students-to-work-post-grad",
     "published": "Thu, 30 Jul 2026 19:35:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.313290"
+    "fetched_at": "2026-07-30T22:10:49.973722"
   },
   {
     "id": "b7d3fc91ce7b",
@@ -667,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/china-shares-concern-over-restrictive-us-measures-with-bessent",
     "published": "Thu, 30 Jul 2026 17:23:34 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.430114"
+    "fetched_at": "2026-07-30T22:10:50.114371"
   },
   {
     "id": "afee1833bb9c",
@@ -677,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/faa-s-second-in-command-rocheleau-departing-the-regulator",
     "published": "Thu, 30 Jul 2026 18:26:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.535402"
+    "fetched_at": "2026-07-30T22:10:50.238457"
   },
   {
     "id": "d8dfaa023093",
@@ -687,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/ukraine-looks-to-other-allies-for-patriot-missiles-after-us-snub",
     "published": "Thu, 30 Jul 2026 19:11:28 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.648878"
+    "fetched_at": "2026-07-30T22:10:50.364170"
   },
   {
     "id": "587649248314",
@@ -697,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/ai-will-be-defining-issue-of-next-elections-mchenry-video",
     "published": "Thu, 30 Jul 2026 19:08:20 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.773518"
+    "fetched_at": "2026-07-30T22:10:50.543138"
   },
   {
     "id": "2b9291861be5",
@@ -707,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-faces-escalation-conundrum-as-iran-war-flares-once-again",
     "published": "Thu, 30 Jul 2026 17:31:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.897378"
+    "fetched_at": "2026-07-30T22:10:50.680461"
   },
   {
     "id": "9da714641535",
@@ -717,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-floats-temporarily-withdrawing-blanche-nomination",
     "published": "Thu, 30 Jul 2026 15:32:46 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:56.992200"
+    "fetched_at": "2026-07-30T22:10:50.827454"
   },
   {
     "id": "ca7584f3bb6e",
@@ -727,76 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/why-trump-s-iran-threats-raise-war-crime-concerns-again",
     "published": "Thu, 30 Jul 2026 16:11:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.113501"
-  },
-  {
-    "id": "dbe96a54da68",
-    "title": "UN Human Rights Chief Denounces Uganda’s Crackdown on Critics",
-    "title_cn": "联合国人权事务高级专员谴责乌干达镇压批评者",
-    "summary": "The United Nations High Commissioner for Human Rights condemned Uganda’s crackdown on dissent, which it said was creating a climate of fear in the East African nation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/un-human-rights-chief-denounces-uganda-s-crackdown-on-critics",
-    "published": "Thu, 30 Jul 2026 15:53:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.215381"
-  },
-  {
-    "id": "37f941ad1db4",
-    "title": "Burnham Says Won’t Ignore North Sea in Hint at More UK Drilling",
-    "title_cn": "伯纳姆表示不会忽视北海，暗示英国将进行更多钻探",
-    "summary": "Prime Minister Andy Burnham said he told President Donald Trump the UK won’t “ignore” its resources in the North Sea, suggesting that his government will pursue new drilling for fossil fuels.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/burnham-says-won-t-ignore-north-sea-in-hint-at-more-uk-drilling",
-    "published": "Thu, 30 Jul 2026 15:31:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.325488"
-  },
-  {
-    "id": "1a50a073e3da",
-    "title": "Russian Missile Behind Crash in Poland, NATO’s Rutte Says",
-    "title_cn": "北约吕特称波兰坠机事件是俄罗斯导弹造成的",
-    "summary": "A Russian missile crashed in eastern Poland early on Thursday, NATO Secretary-General Mark Rutte said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/poland-likely-hit-by-russian-missile-premier-says",
-    "published": "Thu, 30 Jul 2026 08:43:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.425828"
-  },
-  {
-    "id": "33b232b81811",
-    "title": "Hassett Confident in Fed's Warsh, Doesn't See Market Bubble",
-    "title_cn": "哈塞特对美联储的战争充满信心，但没有看到市场泡沫",
-    "summary": "White House National Economic Council Director Kevin Hassett says he has full confidence in Federal Reserve Chairman Kevin Warsh after the central bank decided to keep rates unchanged. Speaking on \"Bloomberg Open Interest,\" Hassett also weighs in on current inflation levels and says he doesn't see markets in bubble territory because of AI. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-30/hassett-confident-in-warsh-doesn-t-see-market-bubble-video",
-    "published": "Thu, 30 Jul 2026 14:02:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.509301"
-  },
-  {
-    "id": "c03e1633570a",
-    "title": "US Strikes Iran Again as Conflict Spreads Across Middle East",
-    "title_cn": "随着中东冲突蔓延，美国再次打击伊朗",
-    "summary": "The US and Iran exchanged airstrikes as fighting in the five-month war flared up once again, with hostilities now spreading across the Middle East.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/us-launches-fresh-strikes-against-iran-as-war-escalates-again",
-    "published": "Thu, 30 Jul 2026 00:29:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.623628"
-  },
-  {
-    "id": "85a8edcab5ec",
-    "title": "Top IMF Officials Visit Venezuela for First Time in Two Decades",
-    "title_cn": "国际货币基金组织高级官员二十年来首次访问委内瑞拉",
-    "summary": "A high-level International Monetary Fund mission is visiting Venezuela for the first time in more than two decades as the government seeks to normalize relations with multilateral lenders after years of isolation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/top-imf-officials-visit-venezuela-for-first-time-in-two-decades",
-    "published": "Thu, 30 Jul 2026 12:47:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.756888"
-  },
-  {
-    "id": "f957fe8b4da0",
-    "title": "West Bank Economy Risks Economic Catastrophe If Israeli Lenders Cut Ties",
-    "title_cn": "如果以色列银行断绝关系，西岸经济将面临经济灾难的风险",
-    "summary": "Palestinian and Israeli officials are warning of an economic crisis if Israeli lenders cut off financial ties to their West Bank counterparts in the fall.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/west-bank-economy-risks-economic-catastrophe-if-israeli-lenders-cut-ties",
-    "published": "Thu, 30 Jul 2026 12:31:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-30T20:46:57.866780"
+    "fetched_at": "2026-07-30T22:10:50.993816"
   }
 ]
