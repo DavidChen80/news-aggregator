@@ -1,5 +1,55 @@
 [
   {
+    "id": "7d8c0c1803f2",
+    "title": "Bloomberg Surveillance TV: July 31st, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 7 月 31 日（播客）",
+    "summary": "Source: Bloomberg, 22:29",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-surveillance-tv-july-31st-2026-podcast-ms9da6r0",
+    "published": "Fri, 31 Jul 2026 20:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:05.750500"
+  },
+  {
+    "id": "51e0c5fa70ef",
+    "title": "Bloomberg Surveillance TV: July 31st, 2026 (Podcast)",
+    "title_cn": "彭博监控电视：2026 年 7 月 31 日（播客）",
+    "summary": "Source: Bloomberg, 22:29",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-surveillance-tv-july-31st-2026-podcast",
+    "published": "Fri, 31 Jul 2026 20:00:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:05.867146"
+  },
+  {
+    "id": "1858ee51586d",
+    "title": "Stock Movers: Apple, Amazon, Novo (Podcast)",
+    "title_cn": "股票推动者：苹果、亚马逊、Novo（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-31/stock-movers-apple-amazon-novo-podcast",
+    "published": "Fri, 31 Jul 2026 19:47:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:06.233400"
+  },
+  {
+    "id": "9e2dcbde51f1",
+    "title": "Balance of Power: Trump Casts Doubt on New Iran Talks (Podcast)",
+    "title_cn": "权力平衡：特朗普对新的伊朗谈判表示怀疑（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-31/balance-of-power-trump-casts-doubt-on-new-iran-talks-podcast",
+    "published": "Fri, 31 Jul 2026 19:26:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:06.817473"
+  },
+  {
+    "id": "e3881734e884",
+    "title": "Trump Backs Off Missiles for Ukraine, Loses Faith in Iran Talks",
+    "title_cn": "特朗普放弃向乌克兰发射导弹，对伊朗谈判失去信心",
+    "summary": "Source: Bloomberg, 5:46",
+    "link": "https://www.bloomberg.com/news/audio/2026-07-31/trump-backs-off-missiles-for-ukraine-loses-faith-in-iran-talks",
+    "published": "Fri, 31 Jul 2026 19:16:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:07.276801"
+  },
+  {
     "id": "9cf6ab49e3dc",
     "title": "Trump Questions Missiles for Ukraine, Loses Faith in Iran Talks",
     "title_cn": "特朗普质疑乌克兰导弹，对伊朗谈判失去信心",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/trump-questions-missiles-for-ukraine-loses-faith-in-iran-talks",
     "published": "Fri, 31 Jul 2026 18:16:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:43.558411"
+    "fetched_at": "2026-07-31T20:04:07.666392"
   },
   {
     "id": "36487985bbd0",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/big-take-democrats-future-runs-through-michigan-podcast",
     "published": "Fri, 31 Jul 2026 17:58:29 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:44.206201"
+    "fetched_at": "2026-07-31T20:04:08.676629"
   },
   {
     "id": "cc4d52fd3d53",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-daybreak-weekend-us-jobs-preview-podcast",
     "published": "Fri, 31 Jul 2026 17:37:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:44.659971"
+    "fetched_at": "2026-07-31T20:04:09.292020"
   },
   {
     "id": "f5c73b0ae9aa",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/week-ahead-mcdonald-s-caterpillar-amd-podcast",
     "published": "Fri, 31 Jul 2026 17:30:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:45.104520"
+    "fetched_at": "2026-07-31T20:04:09.734852"
   },
   {
     "id": "544f01e2d53f",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-tech-amazon-soars-apple-struggles-podcast",
     "published": "Fri, 31 Jul 2026 17:30:10 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:45.502441"
+    "fetched_at": "2026-07-31T20:04:10.453457"
   },
   {
     "id": "e698a4be367f",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/apple-tumbles-volatile-tech-stocks-give-markets-a-lift-more",
     "published": "Fri, 31 Jul 2026 17:20:11 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:46.003464"
+    "fetched_at": "2026-07-31T20:04:10.997690"
   },
   {
     "id": "28f8994706e3",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-talks-richard-clarida-podcast",
     "published": "Fri, 31 Jul 2026 17:07:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:46.810940"
+    "fetched_at": "2026-07-31T20:04:11.242938"
   },
   {
     "id": "301753416ef5",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/money-stuff-podcast-no-kiddie-pool",
     "published": "Fri, 31 Jul 2026 16:58:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:47.226220"
+    "fetched_at": "2026-07-31T20:04:12.103700"
   },
   {
     "id": "966cac62cf80",
@@ -87,17 +137,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-intelligence-apple-slides-most-since-2025-podcast",
     "published": "Fri, 31 Jul 2026 16:42:23 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:47.866107"
+    "fetched_at": "2026-07-31T20:04:12.623783"
   },
   {
     "id": "88665ef92153",
     "title": "Apple Continues Slide, Chipmaker Rally Falters, More",
-    "title_cn": "苹果继续下滑，芯片制造商涨势动摇等等",
+    "title_cn": "苹果股价继续下滑，芯片制造商涨势动摇，还有更多",
     "summary": "Source: Bloomberg, 5:11",
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/apple-continues-slide-chipmaker-rally-falters-more",
     "published": "Fri, 31 Jul 2026 16:29:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:48.369652"
+    "fetched_at": "2026-07-31T20:04:13.258507"
   },
   {
     "id": "842922b9f22a",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/leaders-with-francine-lacqua-amanda-staveley-podcast",
     "published": "Fri, 31 Jul 2026 16:25:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:49.042747"
+    "fetched_at": "2026-07-31T20:04:17.029383"
   },
   {
     "id": "8081fac5ab47",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/fifa-stares-down-european-soccer-in-commercialization-bid",
     "published": "Fri, 31 Jul 2026 16:01:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:49.512078"
+    "fetched_at": "2026-07-31T20:04:17.186348"
   },
   {
     "id": "938e59edfb19",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/apple-continues-slide-chipmaker-rally-sputters-stocks-waver",
     "published": "Fri, 31 Jul 2026 15:51:16 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:49.959227"
+    "fetched_at": "2026-07-31T20:04:17.779140"
   },
   {
     "id": "d9eb0375b5bb",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-talks-bill-dudley-podcast",
     "published": "Fri, 31 Jul 2026 15:33:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:51.195812"
+    "fetched_at": "2026-07-31T20:04:18.414675"
   },
   {
     "id": "f0ae648e6d37",
@@ -147,67 +197,127 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/canada-s-investment-pitch-needs-more-than-pipelines-ports-and-megaprojects",
     "published": "Fri, 31 Jul 2026 15:24:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:51.927568"
+    "fetched_at": "2026-07-31T20:04:18.993584"
   },
   {
-    "id": "2b67e8898942",
-    "title": "Bloomberg Talks: Mike Arougheti (Podcast)",
-    "title_cn": "彭博社谈话：Mike Arougheti（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-talks-mike-arougheti-podcast",
-    "published": "Fri, 31 Jul 2026 15:24:51 GMT",
+    "id": "dd645c3abb9d",
+    "title": "BlackRock’s ‘Widow Maker’ Treasury ETF Slides to 2004 Low",
+    "title_cn": "贝莱德的“寡妇制造者”国债 ETF 跌至 2004 年低点",
+    "summary": "The rout in longer-dated US Treasuries has sent a popular BlackRock Inc. exchange-traded fund tumbling to its lowest level in over two decades, as concerns around sticky inflation continue battering fixed-income portfolios.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/blackrock-s-widow-maker-treasury-etf-slides-to-2004-low",
+    "published": "Fri, 31 Jul 2026 19:57:42 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:52.233630"
+    "fetched_at": "2026-07-31T20:04:20.154885"
   },
   {
-    "id": "82c06877b34e",
-    "title": "Stock Movers: Apple, Amazon, Novo Nordisk (Podcast)",
-    "title_cn": "股票推动者：苹果、亚马逊、诺和诺德（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/stock-movers-apple-amazon-novo-nordisk-podcast",
-    "published": "Fri, 31 Jul 2026 15:21:02 GMT",
+    "id": "ae70fd489450",
+    "title": "Trucking Stocks Fall on Legal Risk in Worst Month Since Tariffs",
+    "title_cn": "卡车运输股因法律风险而下跌，这是关税以来最糟糕的一个月",
+    "summary": "Trucking and logistics stocks are poised for their worst month in more than a year, weighed down by mounting concerns over a recent legal decision that can hurt industry brokers, alongside disappointing earnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/trucking-stocks-fall-on-legal-risk-in-worst-month-since-tariffs",
+    "published": "Fri, 31 Jul 2026 19:50:49 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:52.758141"
+    "fetched_at": "2026-07-31T20:04:20.293917"
   },
   {
-    "id": "300562888528",
-    "title": "Andy Burnham’s Ratings Are High, But His Devolution Plan Faces Opposition",
-    "title_cn": "安迪·伯纳姆的支持率很高，但他的权力下放计划面临反对",
-    "summary": "The new PM’s ratings are high but his devolution plan faces opposition from parts of the UK.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/andy-burnham-s-ratings-are-high-but-his-devolution-plan-faces-opposition",
-    "published": "Fri, 31 Jul 2026 15:15:30 GMT",
+    "id": "cd3961fa6d87",
+    "title": "Latest Oil Market News and Analysis for July 31",
+    "title_cn": "7 月 31 日最新石油市场新闻和分析",
+    "summary": "Oil posted its biggest monthly gain since March as traders grappled with simmering global conflicts and threats to supply from the Persian Gulf to the Black Sea.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31",
+    "published": "Thu, 30 Jul 2026 22:04:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:53.190040"
+    "fetched_at": "2026-07-31T20:04:20.421983"
   },
   {
-    "id": "d013ba0b6af8",
-    "title": "Bloomberg Businessweek Weekend: July 31st 2026 (Podcast)",
-    "title_cn": "彭博商业周刊周末：2026 年 7 月 31 日（播客）",
-    "summary": "Source: Bloomberg, 38:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-weekend-july-31st-2026-podcast",
-    "published": "Fri, 31 Jul 2026 15:09:28 GMT",
+    "id": "c41de851523e",
+    "title": "Couche-Tard CEO Expects Żabka Investor Pressure to Raise Bid",
+    "title_cn": "Couche-Tard 首席执行官预计 Żabka 投资者将面临提高出价的压力",
+    "summary": "The head of Alimentation Couche-Tard Inc. said he expects pushback from some Żabka Group SA shareholders on the Canadian company’s $8.7 billion takeover offer, but is still confident about getting the deal done.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+    "published": "Fri, 31 Jul 2026 18:28:05 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:53.496365"
-  },
-  {
-    "id": "b3aca7bad2e9",
-    "title": "Stocks Waver, Amazon Blowout, Fed Dissenters, More",
-    "title_cn": "股市动摇、亚马逊井喷、美联储异议者等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/stocks-waver-amazon-blowout-fed-dissenters-more",
-    "published": "Fri, 31 Jul 2026 14:58:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:25:54.227007"
+    "fetched_at": "2026-07-31T20:04:20.539586"
   },
   {
     "id": "0c85f555ad1b",
-    "title": "Stocks Get Tech Lift in Final Stretch of Wild July: Markets Wrap",
-    "title_cn": "股市在狂野七月的最后阶段获得技术提振：市场总结",
-    "summary": "A rally in the world’s largest tech companies lifted stocks in the final stretch of a dizzying July as strong earnings overshadowed inflation worries that have rattled the bond market.",
+    "title": "Tech Stocks Power Wall Street Gains at End of July: Markets Wrap",
+    "title_cn": "科技股推动华尔街七月底上涨：市场总结",
+    "summary": "A rally in several technology heavyweights lifted stocks in the final stretch of a dizzying July as strong earnings overshadowed inflation worries that have rattled the bond market.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 30 Jul 2026 22:15:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:54.596288"
+    "fetched_at": "2026-07-31T20:04:20.674596"
+  },
+  {
+    "id": "886eaa87fcac",
+    "title": "Colombia to Build Up Reserves as Peso Strengthens to 7-Year High",
+    "title_cn": "随着比索升值至七年高位，哥伦比亚将增加储备",
+    "summary": "Colombia launched a program to accumulate as much $4 billion in international reserves, moving to weaken the nation’s currency from a seven-year high.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/colombia-to-build-up-reserves-as-peso-strengthens-to-7-year-high",
+    "published": "Fri, 31 Jul 2026 19:29:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:20.825779"
+  },
+  {
+    "id": "8dde4a0035b7",
+    "title": "Trump Casts Doubt on New Iran Negotiations as War Drags On",
+    "title_cn": "随着战争的继续，特朗普对新的伊朗谈判表示怀疑",
+    "summary": "Retired Army General Wesley Clark, who served as Supreme Allied Commander Europe, said the more the US wants negotiations, the stronger the hand Iran thinks it has at the table. Clark said that the Iranian government sees the fight against the US as existential and that it will take more than taking out a few oil refineries to get the IRGC to surrender, particularly as they receive more backing from Russia and China.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/trump-casts-doubt-on-iran-negotiations-as-war-drags-on-video",
+    "published": "Fri, 31 Jul 2026 19:05:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:20.955183"
+  },
+  {
+    "id": "d74831642ce7",
+    "title": "The Future of the Democratic Party Runs Through Michigan",
+    "title_cn": "民主党的未来贯穿密歇根州",
+    "summary": "On today’s Big Take podcast, host David Gura sits down with senior political correspondent Nancy Cook and Bloomberg Opinions’ Ronald Brownstein to unpack the stakes of the Michigan Democratic primary, where a centrist candidate is facing off against a Democratic-Socialist-backed progressive — and what their showdown could reveal about the party’s future.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/the-future-of-the-democratic-party-runs-through-michigan",
+    "published": "Fri, 31 Jul 2026 19:00:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:21.107388"
+  },
+  {
+    "id": "4be4f15e8d1c",
+    "title": "Fed Needs Clear Inflation Target and Messaging, Clarida Says",
+    "title_cn": "克拉里达表示，美联储需要明确的通胀目标和信息",
+    "summary": "Former Federal Reserve Vice Chairman Richard Clarida joins Scarlet Fu and Tom Keene on \"Bloomberg Money\" to discuss this week's Fed decision, Chairman Kevin Warsh's communication decisions and the increased divergence in the K-shaped economy. Clarida is currently a global economic adviser for Pimco. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/fed-needs-clear-inflation-target-and-messaging-clarida-video",
+    "published": "Fri, 31 Jul 2026 18:57:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:21.239750"
+  },
+  {
+    "id": "3ca3175b1a7a",
+    "title": "Very Positive on European Stocks: UBS’s Panseri",
+    "title_cn": "瑞银 (UBS) 的 Panseri 对欧洲股市非常乐观",
+    "summary": "UBS Wealth Management France CIO Claudio Panseri discusses European earnings, how Europe works with AI stocks, and gives her outlook on bond yields. She speaks with Anna Edwards and Guy Johnson on ‘Opening Trade.’ (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/very-positive-on-european-stocks-ubs-s-panseri-video",
+    "published": "Fri, 31 Jul 2026 18:42:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:21.363463"
+  },
+  {
+    "id": "32275d7b503c",
+    "title": "US Says Not Involved in Redirecting Pakistan-Bound LNG Tanker",
+    "title_cn": "美国称未参与改道前往巴基斯坦的液化天然气油轮",
+    "summary": "The US said it had no role in redirecting the first Qatari liquefied natural gas shipment to transit the Strait of Hormuz in more than three weeks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/us-says-not-involved-in-redirecting-pakistan-bound-lng-tanker",
+    "published": "Fri, 31 Jul 2026 18:41:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:21.533241"
+  },
+  {
+    "id": "73b2441bdaec",
+    "title": "Russia’s Cheap, Upgraded Cruise Missiles Pound Black Sea Ports",
+    "title_cn": "俄罗斯廉价升级巡航导弹袭击黑海港口",
+    "summary": "Ukraine’s Black Sea ports are being ravaged by a new type of Russian missile, the Banderol — whose defining feature is its low cost.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/russia-s-cheap-upgraded-cruise-missiles-pound-black-sea-ports",
+    "published": "Fri, 31 Jul 2026 18:21:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:21.653922"
   },
   {
     "id": "fac8196ec3f9",
@@ -217,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/creditsights-winnie-cisar-gives-outlook-on-tech-bonds-video",
     "published": "Fri, 31 Jul 2026 18:11:54 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.145950"
+    "fetched_at": "2026-07-31T20:04:21.783067"
   },
   {
     "id": "e83787193d68",
@@ -227,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/futures-rise-as-everything-ai-rallies-on-amazon-s-blowout-growth",
     "published": "Fri, 31 Jul 2026 11:46:57 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.266510"
+    "fetched_at": "2026-07-31T20:04:21.900883"
   },
   {
     "id": "7ff2f6976fb4",
@@ -237,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/exxon-chevron-steer-windfall-profits-into-debt-reduction-ms917v1o",
     "published": "Fri, 31 Jul 2026 13:39:51 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.386880"
+    "fetched_at": "2026-07-31T20:04:22.023345"
   },
   {
     "id": "b7177f7b63ce",
@@ -247,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/gold-holds-gain-as-japan-currency-intervention-weighs-on-dollar",
     "published": "Thu, 30 Jul 2026 23:56:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.515582"
+    "fetched_at": "2026-07-31T20:04:22.149954"
   },
   {
     "id": "93535af9a6d9",
@@ -257,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/jane-street-backed-exchange-sells-control-to-canada-s-tmx-group",
     "published": "Fri, 31 Jul 2026 15:14:58 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.630413"
+    "fetched_at": "2026-07-31T20:04:22.279995"
   },
   {
     "id": "a2945c8a46f4",
@@ -267,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/open-interest-7-31-2026-video",
     "published": "Fri, 31 Jul 2026 17:20:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.758441"
+    "fetched_at": "2026-07-31T20:04:22.420183"
   },
   {
     "id": "160941754edd",
@@ -277,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/more-on-the-fed-s-new-game-of-monetary-policy-football",
     "published": "Fri, 31 Jul 2026 17:13:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:55.896958"
+    "fetched_at": "2026-07-31T20:04:22.566180"
   },
   {
     "id": "006e6b6a12a6",
@@ -287,117 +397,87 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/odd-lots-why-private-credit-got-entangled-with-insurance-video",
     "published": "Fri, 31 Jul 2026 16:31:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.022284"
+    "fetched_at": "2026-07-31T20:04:22.707585"
   },
   {
-    "id": "4ce13fcfad3e",
-    "title": "Brazil Market Trading Resumes After Widespread Halt Hits B3",
-    "title_cn": "巴西市场交易在大范围停牌达到 B3 后恢复",
-    "summary": "Trading across Brazilian assets resumed on early Friday afternoon, hours after technical issues at the country’s main exchange halted activity for nearly half of the session.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues",
-    "published": "Fri, 31 Jul 2026 13:24:19 GMT",
+    "id": "d5b7f955a87a",
+    "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+    "title_cn": "Anthropic、OpenAI 网络故障指向美国安全风险",
+    "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+    "published": "Fri, 31 Jul 2026 19:46:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.136805"
+    "fetched_at": "2026-07-31T20:04:23.261453"
   },
   {
-    "id": "ad60662e71d1",
-    "title": "Muni Market Has Worst July Since 2003, Veering From Typical Summer Pattern",
-    "title_cn": "市政市场经历了自 2003 年以来最糟糕的 7 月，偏离了典型的夏季模式",
-    "summary": "US state and local government debt is on track to notch its weakest July in more than two decades, as rising benchmark Treasury yields and a flood of new issuance take a toll on what usually is one of the strongest months for the $4 trillion market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/muni-market-has-worst-july-since-2003-veering-from-typical-summer-pattern",
-    "published": "Fri, 31 Jul 2026 16:00:23 GMT",
+    "id": "986c611a8406",
+    "title": "CVC Marathon on Hyperscalers’ Credit Risks",
+    "title_cn": "关于超大规模企业信用风险的 CVC 马拉松",
+    "summary": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives on market dynamics and financing conditions. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
+    "published": "Thu, 30 Jul 2026 22:10:17 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.273602"
+    "fetched_at": "2026-07-31T20:04:23.830574"
   },
   {
-    "id": "7b58bcb51e20",
-    "title": "Bloomberg Surveillance 7/31/2026",
-    "title_cn": "彭博社监测 2026 年 7 月 31 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-surveillance-7-31-2026-video",
-    "published": "Fri, 31 Jul 2026 15:56:34 GMT",
+    "id": "262920b2a023",
+    "title": "Big Tech Holds $2 Trillion of Spending Commitments for AI Boom",
+    "title_cn": "大型科技公司承诺为 AI 繁荣投入 2 万亿美元",
+    "summary": "The four largest players in the data center race have committed nearly $2.4 trillion in spending over the coming years, pointing to massive ongoing investment in AI infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+    "published": "Fri, 31 Jul 2026 19:13:19 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.395432"
+    "fetched_at": "2026-07-31T20:04:23.968896"
   },
   {
-    "id": "1787f9f7f6a7",
-    "title": "Costs to Hedge Against a Deeper Selloff in US Bonds Are Soaring",
-    "title_cn": "对冲美国债券进一步抛售的成本正在飙升",
-    "summary": "Bond traders are paying the highest premiums since March to protect against a further climb in longer-dated yields, as the fallout from this week’s Federal Reserve policy meeting continues to ripple through the rates market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/costs-to-hedge-against-a-deeper-selloff-in-us-bonds-are-soaring",
-    "published": "Fri, 31 Jul 2026 15:56:23 GMT",
+    "id": "3c0dafc5ca2f",
+    "title": "Apple's Stumble, Amazon's Surge and Anthropic's Hacks | Bloomberg Tech 7/31/2026",
+    "title_cn": "苹果的跌倒、亚马逊的崛起和 Anthropic 的黑客攻击彭博科技 2026 年 7 月 31 日",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Tim Cook's final Apple earnings call as CEO - a story of supply crunches, demand misreads and a tough outlook. Plus, Amazon's shares roar on AI progress, big spending and accelerating cloud growth. And, after OpenAI's breaches, Anthropic is now saying its own AI models breached three organizations during cybersecurity tests. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
+    "published": "Fri, 31 Jul 2026 19:11:09 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.502228"
+    "fetched_at": "2026-07-31T20:04:24.099331"
   },
   {
-    "id": "8224aa037845",
-    "title": "Cable One Creditors Organize, Pressuring Plans for New Capital",
-    "title_cn": "电缆一号债权人组织起来，向新资本计划施压",
-    "summary": "Cable One Inc. creditors have begun mobilizing in different groups as a steep selloff in the broadband company’s debt complicates its plans for fresh capital.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/cable-one-creditors-organize-pressuring-plans-for-new-capital",
-    "published": "Fri, 31 Jul 2026 15:52:10 GMT",
+    "id": "d28d5b5a9820",
+    "title": "Moonshot's Kimi Built With Nvidia Compute",
+    "title_cn": "Moonshot 的 Kimi 使用 Nvidia 计算构建",
+    "summary": "Chinese AI startup Moonshot's Kimi models are powered in part by around 20,000 Nvidia Hopper chips supplied through a computing agreement with Alibaba, according to sources. Bloomberg's Peter Elstrom explains what the arrangement reveals about China's AI infrastructure and the role of US technology in training frontier models. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video",
+    "published": "Fri, 31 Jul 2026 18:54:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.628484"
+    "fetched_at": "2026-07-31T20:04:24.256194"
   },
   {
-    "id": "452696b38a81",
-    "title": "European Stocks Trim Monthly Gain as Novo Nordisk and UMG Slump",
-    "title_cn": "由于诺和诺德 (Novo Nordisk) 和 UMG 暴跌，欧洲股市削减月度涨幅",
-    "summary": "European shares erased Friday’s gains, as Novo Nordisk A/S slumped after a failed drug study and Universal Music Group NV sank to a record low on disappointing earnings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/european-stocks-rally-to-fresh-record-on-tech-strong-earnings",
-    "published": "Fri, 31 Jul 2026 07:21:16 GMT",
+    "id": "d19bdb2fffdc",
+    "title": "The Next AI Boom Is in Health Care and Robotics, Says Lux Capital's Shakir",
+    "title_cn": "Lux Capital 的 Shakir 表示，下一个人工智能热潮将出现在医疗保健和机器人领域",
+    "summary": "Recent disclosures from Anthropic and OpenAI have shifted the AI conversation from model capabilities to real-world deployment and security. Lux Capital Partner Deena Shakir says the next wave of AI innovation will be built on trust, partnerships and vertical applications like health care and robotics, not just more powerful foundation models. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
+    "published": "Fri, 31 Jul 2026 18:49:14 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.762335"
+    "fetched_at": "2026-07-31T20:04:24.394504"
   },
   {
-    "id": "ca89719cc3e8",
-    "title": "US Treasury Weighs Repo Entry That Could Reshape Funding Markets",
-    "title_cn": "美国财政部考虑进入可能重塑融资市场的回购协议",
-    "summary": "The US Treasury is exploring bringing some of its cash pile into the roughly $13 trillion market for repurchase agreements, reviving a two-decade old idea and sparking a debate around its potential to reshape a key part of the financial system’s plumbing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/treasury-weighs-repo-entry-that-could-reshape-funding-markets",
-    "published": "Fri, 31 Jul 2026 15:45:01 GMT",
+    "id": "170b75b0b510",
+    "title": "Griffin’s Knack for Sniffing Out Trouble Set to Reward Citadel",
+    "title_cn": "格里芬嗅出麻烦的技巧将奖励 Citadel",
+    "summary": "It’s practically an adage on Wall Street by now: You know you’re in trouble when Ken Griffin calls.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/griffin-s-knack-for-sniffing-out-trouble-set-to-reward-citadel",
+    "published": "Fri, 31 Jul 2026 18:45:27 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:56.895026"
+    "fetched_at": "2026-07-31T20:04:24.521170"
   },
   {
-    "id": "c0492531d632",
-    "title": "Chile Posts Weakest Copper Output for Second Quarter in 19 Years",
-    "title_cn": "智利第二季度铜产量创 19 年来最弱水平",
-    "summary": "Chile registered its weakest second quarter of copper production in data going back to 2007, underscoring the challenge facing the world’s biggest supplier as aging mines struggle to lift output despite billions of dollars of investment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/chile-posts-weakest-copper-output-for-second-quarter-in-19-years",
-    "published": "Fri, 31 Jul 2026 15:23:32 GMT",
+    "id": "d2651de71c73",
+    "title": "Amazon's AI Story Is a 'Game Changer,' Says Mizuho",
+    "title_cn": "瑞穗表示，亚马逊的人工智能故事是“游戏规则改变者”",
+    "summary": "Amazon's latest earnings may have changed the AI narrative around the company. Mizuho's Jordan Klein joins Bloomberg to explain why accelerating AWS growth, rising demand for Amazon's custom AI chips and improving AI monetization across the business have strengthened the investment case, and why he believes Amazon remains one of the biggest winners in the AI infrastructure race. He speaks with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-ai-story-is-a-game-changer-says-mizuho-video",
+    "published": "Fri, 31 Jul 2026 18:44:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:57.025825"
-  },
-  {
-    "id": "cd3961fa6d87",
-    "title": "Latest Oil Market News and Analysis for July 31",
-    "title_cn": "7 月 31 日最新石油市场新闻和分析",
-    "summary": "Oil climbed as traders wrestled with threats to supply from the Persian Gulf to the Black Sea, leading some traders to layer on risk ahead of the weekend.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31",
-    "published": "Thu, 30 Jul 2026 22:04:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:25:57.145732"
-  },
-  {
-    "id": "4c890e51ec2f",
-    "title": "NY Sues Kalshi for Running an ‘Illegal Gambling’ Operation",
-    "title_cn": "纽约州起诉卡尔希经营“非法赌博”业务",
-    "summary": "New York state authorities sued the predictions-market company Kalshi Inc. for allegedly running an illegal, unlicensed gambling operation in the state, marking another legal hurdle for an industry that has won support from the Trump administration.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/new-york-sues-kalshi-for-running-illegal-gambling-operation",
-    "published": "Fri, 31 Jul 2026 11:19:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:25:57.272938"
-  },
-  {
-    "id": "574cc92c7458",
-    "title": "Kenya Inflation Tops Target Midpoint for Fourth Month",
-    "title_cn": "肯尼亚通胀连续第四个月高于目标中点",
-    "summary": "Kenya’s annual inflation rate exceeded the midpoint of the central bank’s target range for a fourth month, as energy costs fueled price growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/kenya-s-july-inflation-ticks-up-to-6-5-as-fuels-weigh-on-index",
-    "published": "Fri, 31 Jul 2026 05:29:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:25:57.401113"
+    "fetched_at": "2026-07-31T20:04:24.665654"
   },
   {
     "id": "0289402f4b60",
@@ -407,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/anthropic-hack-adds-to-fears-over-ai-safety-video",
     "published": "Fri, 31 Jul 2026 17:26:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:57.767215"
+    "fetched_at": "2026-07-31T20:04:24.799214"
   },
   {
     "id": "afe0e98bba7e",
@@ -417,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
     "published": "Fri, 31 Jul 2026 17:08:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:58.662154"
+    "fetched_at": "2026-07-31T20:04:24.935819"
   },
   {
     "id": "cac2e504f40b",
@@ -427,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/inside-tencent-s-failed-attempt-to-take-on-grand-theft-auto",
     "published": "Fri, 31 Jul 2026 17:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:59.034638"
+    "fetched_at": "2026-07-31T20:04:25.090580"
   },
   {
     "id": "d1b5ef7e169c",
@@ -437,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/eric-trump-expands-family-s-defense-portfolio-with-space-eyes",
     "published": "Fri, 31 Jul 2026 16:55:45 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:59.346554"
+    "fetched_at": "2026-07-31T20:04:25.232815"
   },
   {
     "id": "d5eca5261ff5",
@@ -447,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/combining-tesla-spacex-makes-a-ton-of-sense-munster-video",
     "published": "Fri, 31 Jul 2026 16:28:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:59.459324"
+    "fetched_at": "2026-07-31T20:04:25.347981"
   },
   {
     "id": "ce968f596bdc",
@@ -457,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/ai-has-reached-an-inflection-point-video",
     "published": "Fri, 31 Jul 2026 16:05:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:25:59.586697"
+    "fetched_at": "2026-07-31T20:04:25.488609"
   },
   {
     "id": "4a847f7a0043",
@@ -467,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/telus-more-than-halves-dividend-after-pressure-to-cut-debt",
     "published": "Fri, 31 Jul 2026 11:13:30 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:00.386160"
+    "fetched_at": "2026-07-31T20:04:25.637777"
   },
   {
     "id": "83b1fd369b24",
@@ -477,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/amazon-aws-growth-ai-demand-buoy-2q-results-video",
     "published": "Fri, 31 Jul 2026 16:03:18 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:00.525963"
+    "fetched_at": "2026-07-31T20:04:25.762250"
   },
   {
     "id": "b6fa39f0f642",
@@ -487,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/jana-adds-more-sale-pressure-on-alkami-in-new-letter-to-board",
     "published": "Fri, 31 Jul 2026 14:05:33 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:01.121096"
+    "fetched_at": "2026-07-31T20:04:25.908337"
   },
   {
     "id": "75edaf1f4f87",
@@ -497,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/index-ventures-firm-behind-wiz-revolut-raises-2-billion-for-trio-of-funds",
     "published": "Fri, 31 Jul 2026 15:58:53 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:01.686167"
+    "fetched_at": "2026-07-31T20:04:26.048489"
   },
   {
     "id": "e54f1f78f9ce",
@@ -507,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-15/why-texas-is-winning-the-space-race",
     "published": "Wed, 15 Jul 2026 14:00:06 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:01.814913"
+    "fetched_at": "2026-07-31T20:04:26.184111"
   },
   {
     "id": "7b2ae38ae60b",
@@ -517,87 +597,87 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/apple-battles-chip-shortages-video",
     "published": "Fri, 31 Jul 2026 15:13:39 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:01.954624"
+    "fetched_at": "2026-07-31T20:04:26.300015"
   },
   {
-    "id": "1f8cfb78f820",
-    "title": "AI Wunderkind’s Hedge Fund Unravels",
-    "title_cn": "人工智能神童的对冲基金揭秘",
-    "summary": "A 24-year-old AI wunderkind became one of the market’s most influential investors, until leverage and margin calls forced billions in tech-stock sales. Bloomberg's Sri Natarajan joined Bloomberg Open Interest to explain how a futuristic AI empire collided with one of Wall Street’s oldest and most dangerous mistakes. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/ai-wunderkind-s-hedge-fund-unravels",
-    "published": "Fri, 31 Jul 2026 15:09:34 GMT",
+    "id": "08ed4f7488e2",
+    "title": "Trump Casts Doubt on New Iran Talks | Balance of Power: Early Edition 7/31/2026",
+    "title_cn": "特朗普对新的伊朗谈判表示怀疑权力平衡：早期版本 2026 年 7 月 31 日",
+    "summary": "On this edition, Joe and Kailey speak with:\n\nTyler Kendall, Bloomberg Washington Correspondent\nGen. Wesley Clark, Retired Four-Star General in the US Army, Served as Commander of US Southern Command, founder of Wesley K. Clark and Associates\nJeanne Sheehan Zaino, Democracy Visiting Fellow at Harvard Kennedy School's Ash Center and Bloomberg Politics Contributor & Leslie Shedd, President of Rising Communications and Republican Strategist\nSpencer Kimball, Director of the Emerson College Polling Center (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/balance-of-power-early-edition-7-31-2026-video",
+    "published": "Fri, 31 Jul 2026 19:49:15 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.063154"
+    "fetched_at": "2026-07-31T20:04:27.063827"
   },
   {
-    "id": "3fe5c1127794",
-    "title": "Amazon, Microsoft Show That AI Spending Spree Remains Solid",
-    "title_cn": "亚马逊和微软表明人工智能支出热潮依然强劲",
-    "summary": "Aggressive AI spending plans by Amazon.com Inc., Microsoft Corp. and Alphabet Inc. provided fresh evidence that demand for chips and related equipment will remain strong, offering relief to a sector that’s been battered in recent days.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/amazon-microsoft-results-show-ai-spending-spree-remains-solid",
-    "published": "Fri, 31 Jul 2026 00:29:37 GMT",
+    "id": "8b1973e1a12e",
+    "title": "Leopold Aschenbrenner's Situational Awareness Hit by AI Selloff",
+    "title_cn": "利奥波德·阿申布伦纳 (Leopold Aschenbrenner) 的态势感知受到人工智能抛售的打击",
+    "summary": "Bloomberg's Hema Parmar details the massive selloff of AI assets from Situational Awareness, one of the world's biggest hedge funds and how Citadel's Ken Griffin stepped in to buy the investments. Parmar said that this move is part of Griffin's 'playbook' and he will often jump in to get a good deal when firms are in distress. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/aschenbrenner-s-situational-awareness-hit-by-ai-selloff-video",
+    "published": "Fri, 31 Jul 2026 19:41:24 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.184286"
+    "fetched_at": "2026-07-31T20:04:27.199124"
   },
   {
-    "id": "f4006a9975d9",
-    "title": "Amazon’s Trillion-Dollar AWS AI Bet",
-    "title_cn": "亚马逊价值数万亿美元的 AWS AI 赌注",
-    "summary": "Amazon’s AI spending is beginning to deliver measurable results. TD Cowen Analyst John Blackledge joined Bloomberg Open Interest to explain why soaring AWS demand could keep Amazon capacity-constrained through 2027, how the cloud division could eventually reach $1 trillion in revenue, and why Andy Jassy’s AI message is resonating more strongly with investors than Meta’s. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/amazon-s-trillion-dollar-aws-ai-bet-video",
-    "published": "Fri, 31 Jul 2026 15:07:08 GMT",
+    "id": "43a24a30a8f2",
+    "title": "New Poll Shows El-Sayed With Edge Over Stevens in Michigan Dem Primary",
+    "title_cn": "新民意调查显示，埃尔-赛义德在密歇根州民主党初选中领先史蒂文斯",
+    "summary": "Spencer Kimball, director of the Emerson College Polling Center, said that Abdul El-Sayed has managed to keep an edge on Haley Stevens in Emerson's poll of the Michigan democratic primary for Senate because he has managed to put together a coalition of younger people and educated voters around the state. Kimball said that because Democrats are the party out of power, he suspects voters will rally around whichever candidate wins Tuesday's primary.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/poll-shows-el-sayed-with-edge-over-stevens-in-mi-primary-video",
+    "published": "Fri, 31 Jul 2026 18:59:13 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.296212"
+    "fetched_at": "2026-07-31T20:04:27.324643"
   },
   {
-    "id": "4489cde53f93",
-    "title": "Situational Awareness Hit by AI Selloff",
-    "title_cn": "态势感知受到人工智能抛售的打击",
-    "summary": "Situational Awareness, Leopold Aschenbrenner's hedge fund, was forced to sell billions of dollars of technology investments that had rapidly lost value, as nervous banks began to demand more collateral for his trades. Ken Griffin's Citadel hedge fund reached out to Situational Awareness and snapped up the investments at a discount, according to a person familiar with the matter. Bloomberg's Anthony Stephens reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/situational-awareness-hit-by-ai-selloff-video",
-    "published": "Fri, 31 Jul 2026 06:11:44 GMT",
+    "id": "2430cc54dc22",
+    "title": "Trump Appeals Ruling That Bars His Use of Audit Immunity Deal",
+    "title_cn": "特朗普对禁止他使用审计豁免协议的裁决提出上诉",
+    "summary": "President Donald Trump is appealing a judge’s ruling that bars him from attempting to use a sweeping audit-immunity settlement that resolved his $10 billion lawsuit against the Internal Revenue Service.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-appeals-ruling-that-bars-his-use-of-audit-immunity-deal",
+    "published": "Fri, 31 Jul 2026 18:51:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.426552"
+    "fetched_at": "2026-07-31T20:04:27.469817"
   },
   {
-    "id": "ed2743ea74e1",
-    "title": "Proto Labs Lifts Guidance on New Data Center, Defense Clients",
-    "title_cn": "Proto Labs 取消对新数据中心、国防客户的指导",
-    "summary": "Automated manufacturing company Proto Labs Inc. raised its full-year outlook after earnings reached a seven-year high, helped by renewed strength in its injection molding business and new data center and defense customers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/proto-labs-lifts-guidance-on-new-data-center-defense-clients",
-    "published": "Fri, 31 Jul 2026 14:51:55 GMT",
+    "id": "566b76f55bda",
+    "title": "US Push for 100 Years of B-52 Sees Delay, Costs Up, GAO Says",
+    "title_cn": "美国政府问责局表示，美国推动 B-52 研发 100 年的计划遭到推迟，成本上升",
+    "summary": "A $21 billion Air Force effort managed by Boeing Co. to upgrade the engines, radar and communications of the iconic B-52 bomber is seeing cost growth and delays during early development, according to a congressionally mandated audit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/us-push-for-100-years-of-b-52s-sees-delays-cost-runup-gao-says",
+    "published": "Fri, 31 Jul 2026 14:01:55 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.539347"
+    "fetched_at": "2026-07-31T20:04:27.608582"
   },
   {
-    "id": "04feebaa10aa",
-    "title": "Moonshot’s Kimi Uses 20,000 Nvidia Chip Cluster From Alibaba",
-    "title_cn": "Moonshot 的 Kimi 使用阿里巴巴的 20,000 个 Nvidia 芯片集群",
-    "summary": "Chinese AI champion Moonshot has a computing power agreement with Alibaba Group Holding Ltd. for the use of around 20,000 Nvidia Corp. chips, underscoring China’s continued reliance on Western semiconductors to fuel its AI development, according to people with knowledge of the companies’ operations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-    "published": "Fri, 31 Jul 2026 12:19:23 GMT",
+    "id": "139d3139760f",
+    "title": "Brazil Party Blocks Senator From Becoming Bolsonaro Running Mate",
+    "title_cn": "巴西党阻止参议员成为博尔索纳罗竞选搭档",
+    "summary": "An influential Brazilian political party blocked one of its key members from becoming Flávio Bolsonaro’s running mate in October’s presidential election, dealing another blow to his chaotic campaign.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/brazil-party-blocks-senator-from-becoming-bolsonaro-running-mate",
+    "published": "Fri, 31 Jul 2026 18:34:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.653764"
+    "fetched_at": "2026-07-31T20:04:27.733032"
   },
   {
-    "id": "727ee6d3e84a",
-    "title": "Roblox Shares Slump on Safety-Measures Impact, Weak Forecast",
-    "title_cn": "Roblox 股价因安全措施影响而暴跌，预测疲软",
-    "summary": "Roblox Corp. shares tumbled by as much as 26% as trading got underway in New York, the largest intraday decline in roughly four-and-a-half years, after the gaming company reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
-    "published": "Thu, 30 Jul 2026 20:20:41 GMT",
+    "id": "6fa960655139",
+    "title": "Trump Says He's Losing Confidence in Iranian Negotiators",
+    "title_cn": "特朗普称他对伊朗谈判代表失去信心",
+    "summary": "\"I’m losing faith in them because they do lie and do, they do misrepresent,\" President Donald Trump says during the meeting at the Camp David presidential retreat in Maryland. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-31/trump-says-he-s-losing-confidence-in-iranian-negotiators-video",
+    "published": "Fri, 31 Jul 2026 18:24:25 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.781443"
+    "fetched_at": "2026-07-31T20:04:27.850029"
   },
   {
-    "id": "b58b0d154804",
-    "title": "Amazon Shares Soar After Fifth Quarter of Cloud Sales Growth",
-    "title_cn": "第五季度云销售增长后亚马逊股价飙升",
-    "summary": "Amazon.com Inc. shares surged after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-    "published": "Thu, 30 Jul 2026 20:16:21 GMT",
+    "id": "642ef92d76b4",
+    "title": "Trump Yet to Approve Any Midterm Spending From $401 Million PAC",
+    "title_cn": "特朗普尚未批准 4.01 亿美元 PAC 的任何中期支出",
+    "summary": "Donald Trump has not signed off on a plan to spend any of the $401 million he’s amassed from political donors in November’s midterm elections, according to a Republican strategist familiar with the discussions, despite public assertions from his team that the president’s super PAC will provide a major boost to GOP candidates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-hasn-t-approved-any-midterm-spending-from-401-million-pac",
+    "published": "Fri, 31 Jul 2026 18:20:12 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:02.913649"
+    "fetched_at": "2026-07-31T20:04:27.979731"
   },
   {
     "id": "0d94af971347",
@@ -607,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/centrists-and-democratic-socialist-backed-progressives-face-off-in-michigan",
     "published": "Fri, 31 Jul 2026 18:01:48 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:03.692755"
+    "fetched_at": "2026-07-31T20:04:28.105794"
   },
   {
     "id": "ecea64ea7ca2",
@@ -617,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/chicago-school-board-budget-relies-on-uncertain-state-funding",
     "published": "Fri, 31 Jul 2026 15:34:59 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:04.339741"
+    "fetched_at": "2026-07-31T20:04:28.287698"
   },
   {
     "id": "715d2eb12eee",
@@ -627,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/attacks-between-iran-will-continue-says-trump-q-a-video",
     "published": "Fri, 31 Jul 2026 17:36:44 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:04.743374"
+    "fetched_at": "2026-07-31T20:04:28.429410"
   },
   {
     "id": "e9b03d0cdd9e",
@@ -637,7 +717,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-casts-doubt-on-new-iran-negotiations-as-war-drags-on",
     "published": "Fri, 31 Jul 2026 17:01:21 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:05.357404"
+    "fetched_at": "2026-07-31T20:04:28.583592"
+  },
+  {
+    "id": "bde3974742ed",
+    "title": "Indiana Senate Leader Bows Out After Trump Redistricting Fight",
+    "title_cn": "印第安纳州参议院领袖在特朗普重新划分选区之战后退出",
+    "summary": "Indiana Senate President Pro Tem Rodric Bray won’t seek another term as the chamber’s top Republican after months of fallout from his fight with President Donald Trump over redistricting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-07-31/indiana-senate-leader-bows-out-after-trump-redistricting-fight",
+    "published": "Fri, 31 Jul 2026 17:09:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-07-31T20:04:28.712399"
   },
   {
     "id": "cc8d558fdf0a",
@@ -647,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/pentagon-seeks-18-2-billion-in-iran-war-funds-for-interceptors",
     "published": "Fri, 31 Jul 2026 04:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:05.922788"
+    "fetched_at": "2026-07-31T20:04:28.843620"
   },
   {
     "id": "e66ec97a443c",
@@ -657,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-puts-immunity-from-probes-over-his-fight-for-todd-blanche",
     "published": "Thu, 30 Jul 2026 18:57:52 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:06.034123"
+    "fetched_at": "2026-07-31T20:04:29.003012"
   },
   {
     "id": "830f5d6bc3e9",
@@ -667,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/hamas-israel-to-hold-firm-in-gaza-unless-other-side-moves-first",
     "published": "Fri, 31 Jul 2026 14:49:38 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:06.566795"
+    "fetched_at": "2026-07-31T20:04:29.134871"
   },
   {
     "id": "bb7ebc57924c",
@@ -677,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-blames-minnesota-cyberattack-on-governor-not-iran",
     "published": "Fri, 31 Jul 2026 16:16:43 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:06.689457"
+    "fetched_at": "2026-07-31T20:04:29.285582"
   },
   {
     "id": "6f58246b2810",
@@ -687,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/sinking-in-polls-farage-plans-week-of-attacks-on-immigration",
     "published": "Fri, 31 Jul 2026 16:06:04 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:06.808446"
+    "fetched_at": "2026-07-31T20:04:29.424895"
   },
   {
     "id": "4439c7daedab",
@@ -697,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-redistricting-foe-to-leave-post-under-fire-from-right",
     "published": "Fri, 31 Jul 2026 15:38:01 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:07.074236"
+    "fetched_at": "2026-07-31T20:04:29.552714"
   },
   {
     "id": "7983820d669f",
@@ -707,96 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/inside-trump-s-deal-to-reshape-alaska",
     "published": "Fri, 31 Jul 2026 14:55:03 GMT",
     "source": "International",
-    "fetched_at": "2026-07-31T18:26:07.740143"
-  },
-  {
-    "id": "8a4415032150",
-    "title": "China’s London ‘Super Embassy’ Plan Survives Court Challenge",
-    "title_cn": "中国伦敦“超级大使馆”计划经受住了法庭挑战",
-    "summary": "The UK’s approval of a new Chinese embassy in London was lawful, High Court judges ruled in a decision that could mark the end of a long-running saga that’s strained Britain’s ties with China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/china-s-london-super-embassy-plan-survives-uk-court-challenge",
-    "published": "Fri, 31 Jul 2026 10:46:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:07.845376"
-  },
-  {
-    "id": "0c0e47cd7073",
-    "title": "Everybody’s Business: Kalshi’s Fight to Bet on Elections",
-    "title_cn": "每个人的事：卡尔希押注选举的斗争",
-    "summary": "On this episode of the Everybody's Business podcast, Bloomberg reporter Denitsa Tsekova joins Max Chafkin and Stacey Vanek Smith to unpack how prediction markets' bets on elections can affect the actual outcome, what the state of Wisconsin is doing about it and where the Trump administration stands on the matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/everybody-s-business-kalshi-s-fight-to-bet-on-elections-video",
-    "published": "Fri, 31 Jul 2026 14:16:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:08.233924"
-  },
-  {
-    "id": "b088204fd07f",
-    "title": "Gulf States Look to Protect Oil Trade Amid Renewed Strikes",
-    "title_cn": "海湾国家希望在新一轮罢工中保护石油贸易",
-    "summary": "Ellen Wald, senior fellow at the Atlantic Council, said that countries on the Arab peninsula are unified in their sentiment against Iran in light of recent attacks leveled against the Gulf States. Wald and Leslie Vinjamuri, president & CEO of the Chicago Council on Global Affairs, broke down the latest in the conflict between the United States and Iran and how it is impacting the global oil market, as prices rise after recent strikes. Vinjamuri said that at this point in the war, it is 'well past' the point where the goal is regime change in Iran and now the US must settle for stability in the Strait of Hormuz. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-07-31/gulf-states-look-to-protect-oil-amid-renewed-strikes-video",
-    "published": "Fri, 31 Jul 2026 14:11:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:08.476289"
-  },
-  {
-    "id": "566b76f55bda",
-    "title": "US Push for 100 Years of B-52s Sees Delays, Cost Runup, GAO Says",
-    "title_cn": "美国政府问责局称，美国推动 B-52 服役 100 年的计划出现延误、成本上升",
-    "summary": "A $21 billion Air Force effort managed by Boeing Co. to upgrade the engines, radar and communications of the iconic B-52 bomber is seeing cost growth and delays during early development, according to a congressionally mandated audit.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/us-push-for-100-years-of-b-52s-sees-delays-cost-runup-gao-says",
-    "published": "Fri, 31 Jul 2026 14:01:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:08.860087"
-  },
-  {
-    "id": "35a93714dec3",
-    "title": "House Democrats Seek Answers on Faster Access to Trump’s Posts",
-    "title_cn": "众议院民主党人寻求有关更快访问特朗普帖子的答案",
-    "summary": "House Democrats are opening an inquiry into a plan by President Donald Trump’s media company to offer faster access to posts on its social media platform to Wall Street firms in exchange for a fee.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/house-democrats-seek-answers-on-faster-access-to-trump-s-posts",
-    "published": "Fri, 31 Jul 2026 14:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:09.221401"
-  },
-  {
-    "id": "ef3f531c594c",
-    "title": "Ukraine Says It Attacked Lukoil’s Volgograd Refinery",
-    "title_cn": "乌克兰称袭击了卢克石油公司伏尔加格勒炼油厂",
-    "summary": "Ukraine struck one of Russia’s largest oil refineries, threatening to disrupt fuel supplies again as strikes on the country’s downstream industry resumed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/ukraine-says-it-attacked-lukoil-s-volgograd-oil-refinery",
-    "published": "Fri, 31 Jul 2026 08:37:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:09.673229"
-  },
-  {
-    "id": "0e56256f7b58",
-    "title": "Burnham to Give Mayors Some Control Over Income Tax Revenues",
-    "title_cn": "伯纳姆将赋予市长对所得税收入的一定控制权",
-    "summary": "Andy Burnham said he would give mayors in England a share of the income tax generated in their regions as part of the new UK prime minister’s drive to move political and economic power out of Whitehall.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-30/burnham-to-give-mayors-share-of-income-tax-in-uk-devolution-push",
-    "published": "Thu, 30 Jul 2026 21:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:10.135867"
-  },
-  {
-    "id": "44b73c3b28a4",
-    "title": "Spain Says Half of Immigrants Entering African Enclave Have Left",
-    "title_cn": "西班牙称进入非洲飞地的移民有一半已经离开",
-    "summary": "More than half of the 50,000 people who illegally crossed the Spanish border between an African enclave and Morocco have now left, Spain said as it faces mounting pressure from Europe to quickly reassert control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/sanchez-says-spain-under-attack-after-mass-migration-influx",
-    "published": "Fri, 31 Jul 2026 11:33:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:10.377735"
-  },
-  {
-    "id": "56a7ca8aa393",
-    "title": "Indian Arms Sales to Israel a Human Rights Risk, Amnesty Says",
-    "title_cn": "国际特赦组织称印度向以色列出售武器构成人权风险",
-    "summary": "India has provided thousands of military components to Israeli companies supplying parts to the armed forces, raising risks that New Delhi is supporting what Amnesty International calls an ongoing genocide against Palestinians, the human rights watchdog said in a report.",
-    "link": "https://www.bloomberg.com/news/articles/2026-07-31/indian-arms-sales-to-israel-a-human-rights-risk-amnesty-says",
-    "published": "Fri, 31 Jul 2026 12:25:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-07-31T18:26:11.112924"
+    "fetched_at": "2026-07-31T20:04:29.670522"
   }
 ]
