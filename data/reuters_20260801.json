@@ -1,5 +1,35 @@
 [
   {
+    "id": "f8f761cc65cd",
+    "title": "Bloomberg This Weekend: India's Cockroach Protests (Podcast)",
+    "title_cn": "彭博本周末：印度的蟑螂抗议（播客）",
+    "summary": "Source: Bloomberg, 33:60",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-01/bloomberg-this-weekend-india-s-cockroach-protests-podcast",
+    "published": "Sat, 01 Aug 2026 15:05:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:31.850015"
+  },
+  {
+    "id": "ab9067dc8e3a",
+    "title": "Glencore Pursues Legal Fight Over $230 Million in Unpaid Oil",
+    "title_cn": "嘉能可就 2.3 亿美元未付款石油提起法律诉讼",
+    "summary": "The commodity trader says it was duped into supplying crude oil to a now insolvent refinery",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-01/glencore-pursues-legal-fight-over-230-million-in-unpaid-oil",
+    "published": "Sat, 01 Aug 2026 15:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:32.108834"
+  },
+  {
+    "id": "e5d79b983450",
+    "title": "Trump Threatens Fresh Iran Attacks, Hamas Disarmament Deal, More",
+    "title_cn": "特朗普威胁发动新的伊朗袭击、哈马斯解除武装协议等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-01/trump-threatens-fresh-iran-attacks-hamas-disarmament-deal-more",
+    "published": "Sat, 01 Aug 2026 14:13:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:32.446750"
+  },
+  {
     "id": "1345d6190066",
     "title": "Trump Orders New Iran Attack, FIFA Drops World Cup Stake Plan",
     "title_cn": "特朗普下令对伊朗发动新的袭击，国际足联放弃世界杯赌注计划",
@@ -7,7 +37,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-fifa-drops-world-cup-stake-plan",
     "published": "Sat, 01 Aug 2026 12:48:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:35.759859"
+    "fetched_at": "2026-08-01T15:11:32.880081"
   },
   {
     "id": "b51510e41e94",
@@ -17,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-new-iran-attack-warsh-could-cut-fed-meetings-more",
     "published": "Sat, 01 Aug 2026 11:45:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:36.749002"
+    "fetched_at": "2026-08-01T15:11:33.258042"
   },
   {
     "id": "32e362207698",
@@ -27,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/trump-orders-iran-attack-fifa-drops-world-cup-stake-sale-plan",
     "published": "Sat, 01 Aug 2026 10:20:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:37.808991"
+    "fetched_at": "2026-08-01T15:11:33.412248"
   },
   {
     "id": "cf3bbd59b19a",
@@ -37,17 +67,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/yen-gains-on-intervention-wsj-trump-orders-iran-attack-more",
     "published": "Sat, 01 Aug 2026 03:40:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:38.984360"
+    "fetched_at": "2026-08-01T15:11:33.547407"
   },
   {
     "id": "25785d719020",
     "title": "CBS: US & Israel Prepare Attack, FIFA to Abandon Stake Sale,More",
-    "title_cn": "哥伦比亚广播公司：美国和以色列准备进攻，国际足联放弃股份出售，更多",
+    "title_cn": "哥伦比亚广播公司：美国和以色列准备进攻，国际足联放弃股份出售等",
     "summary": "Source: Bloomberg, 5:51",
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/cbs-us-israel-prepare-attack-fifa-to-abandon-stake-sale-more",
     "published": "Sat, 01 Aug 2026 02:47:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:39.750572"
+    "fetched_at": "2026-08-01T15:11:33.684182"
   },
   {
     "id": "e7b50ae7cf0f",
@@ -57,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/cbs-us-israel-prepare-iran-attack-fifa-to-abandon-stake-sale",
     "published": "Sat, 01 Aug 2026 02:09:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:40.086947"
+    "fetched_at": "2026-08-01T15:11:33.830073"
   },
   {
     "id": "3e050bf9b5cc",
@@ -67,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/cbs-iran-bombardment-prepared-fifa-to-abandon-stake-sale-more",
     "published": "Sat, 01 Aug 2026 01:16:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:40.807034"
+    "fetched_at": "2026-08-01T15:11:33.971286"
   },
   {
     "id": "5b104c7db2a3",
@@ -77,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-01/singapore-airlines-records-10-9-million-passengers-iran-war-still-triggers-loss",
     "published": "Sat, 01 Aug 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:42.007864"
+    "fetched_at": "2026-08-01T15:11:34.109242"
   },
   {
     "id": "1702f268134f",
@@ -87,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/bloomberg-law-legal-fees-superstar-lawyer-podcast",
     "published": "Sat, 01 Aug 2026 00:39:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:42.223602"
+    "fetched_at": "2026-08-01T15:11:34.237115"
   },
   {
     "id": "bbf853f50721",
@@ -97,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-01/cbs-us-israel-prepare-bombardment-fifa-to-abandon-stake-sale",
     "published": "Sat, 01 Aug 2026 00:19:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:43.272066"
+    "fetched_at": "2026-08-01T15:11:34.384348"
   },
   {
     "id": "47f2d81a0c09",
@@ -107,17 +137,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/cbs-iranian-bombardment-prepared-nyt-warsh-considering-meetings",
     "published": "Fri, 31 Jul 2026 23:21:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:44.465815"
+    "fetched_at": "2026-08-01T15:11:34.524476"
   },
   {
     "id": "ba6335a05a3c",
     "title": "Bloomberg Businessweek Daily: Fed Mulls Fewer Meetings (Podcast)",
-    "title_cn": "彭博商业周刊：美联储考虑减少会议次数（播客）",
+    "title_cn": "彭博商业周刊日报：美联储考虑减少会议次数（播客）",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-daily-fed-mulls-fewer-meetings-podcast",
     "published": "Fri, 31 Jul 2026 23:14:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:44.604121"
+    "fetched_at": "2026-08-01T15:11:34.665088"
   },
   {
     "id": "609490734f75",
@@ -127,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/cbs-us-prepares-bombardment-nyt-warsh-considers-fewer-meetings",
     "published": "Fri, 31 Jul 2026 22:25:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:45.728149"
+    "fetched_at": "2026-08-01T15:11:34.840444"
   },
   {
     "id": "6cfd0e2775ce",
@@ -137,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-hot-pursuit-40-plus-years-of-covering-cars-podcast",
     "published": "Fri, 31 Jul 2026 21:55:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:46.095914"
+    "fetched_at": "2026-08-01T15:11:34.983925"
   },
   {
     "id": "1d48b533e391",
@@ -147,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-businessweek-daily-ceo-money-regrets-podcast",
     "published": "Fri, 31 Jul 2026 21:43:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:46.894387"
+    "fetched_at": "2026-08-01T15:11:35.160342"
   },
   {
     "id": "be50647b351d",
@@ -157,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/the-coming-2-4-trillion-ai-buildout-evening-briefing-americas",
     "published": "Fri, 31 Jul 2026 21:34:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:47.781203"
+    "fetched_at": "2026-08-01T15:11:35.313060"
   },
   {
     "id": "3eaaf65e9580",
@@ -167,37 +197,67 @@
     "link": "https://www.bloomberg.com/news/audio/2026-07-31/stock-movers-amazon-roblox-chipotle-podcast",
     "published": "Fri, 31 Jul 2026 21:30:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:47.997751"
+    "fetched_at": "2026-08-01T15:11:35.466702"
   },
   {
-    "id": "27c0ba2b7c4e",
-    "title": "Report: Warsh Weighs Fewer Meetings, Trump Casts Doubt on Talks",
-    "title_cn": "报告：沃什考虑减少会议，特朗普对会谈表示怀疑",
-    "summary": "Source: Bloomberg, 5:58",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/report-warsh-weighs-fewer-meetings-trump-casts-doubt-on-talks",
-    "published": "Fri, 31 Jul 2026 21:22:46 GMT",
+    "id": "232f31c178e2",
+    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+    "title_cn": "尖！彭博社针对冒险者的每周新闻测验",
+    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Tim Stenovec as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+    "published": "Sat, 01 Aug 2026 15:01:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:48.119632"
+    "fetched_at": "2026-08-01T15:11:36.153577"
   },
   {
-    "id": "b2ada4d0d0ba",
-    "title": "Couche-Tard Agrees to Buy Poland’s Zabka Group in $8.7 Billion Deal",
-    "title_cn": "Couche-Tard 同意以 87 亿美元收购波兰 Zabka 集团",
-    "summary": "Plus: The situation at Situational Awareness",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/couche-tard-agrees-to-buy-poland-s-zabka-group-in-8-7-billion-deal",
-    "published": "Fri, 31 Jul 2026 21:19:14 GMT",
+    "id": "46501934630e",
+    "title": "The Father of 401(k) Has A New Retirement Plan",
+    "title_cn": "401(k) 之父有新的退休计划",
+    "summary": "Known as the \"Father of 401(k)\" Ted Benna has co-created Radish: a new employer-funded retirement plan that allows employees to access funds for immediate financial needs such as car repairs or medical expenses without relying on paycheck deductions. Joining David Gura and Christina Ruffini on Bloomberg This Weekend, Benna explains that while the original 401(k) succeeded in transforming workers into savers, many people now lack the financial ability to contribute. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/the-father-of-401-k-has-a-new-retirement-plan-video",
+    "published": "Sat, 01 Aug 2026 14:37:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:48.251945"
+    "fetched_at": "2026-08-01T15:11:36.283739"
   },
   {
-    "id": "1595748816d5",
-    "title": "Bloomberg Wall Street Week: July 31, 2026 (Podcast)",
-    "title_cn": "彭博华尔街周刊：2026 年 7 月 31 日（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-07-31/bloomberg-wall-street-week-july-31-2026-podcast",
-    "published": "Fri, 31 Jul 2026 20:48:22 GMT",
+    "id": "018b8c10b6a7",
+    "title": "Ukraine Gains Ground as Putin Faces Pressure",
+    "title_cn": "普京面临压力，乌克兰取得进展",
+    "summary": "Former US Ambassador Bill Taylor joins Bloomberg This Weekend and says Ukraine maintains momentum on the battlefield despite intensified Russian missile attacks, while urging the US and its allies to accelerate deliveries of Patriot interceptors. Taylor explains to hosts David Gura and Christina Ruffini that mounting military losses and economic strain increase pressure on Russian President Vladimir Putin, even as Ukraine continues to press for more Western support. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/ukraine-gains-ground-as-putin-faces-pressure-video",
+    "published": "Sat, 01 Aug 2026 14:13:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:48.389155"
+    "fetched_at": "2026-08-01T15:11:36.411508"
+  },
+  {
+    "id": "6aeb6ab13a21",
+    "title": "Can Mergers Close Europe’s Tech Gap?",
+    "title_cn": "合并能否缩小欧洲的技术差距？",
+    "summary": "The European Union is rewriting its merger rules for the first time in two decades, hoping to create business “champions” capable of competing with the US. Ingrid Vandenborre of Skadden and Yale’s Fiona Scott Morton break down what's changing, why it matters for investors, and whether competition policy can really solve Europe's innovation problem.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/can-mergers-close-europe-s-tech-gap-video",
+    "published": "Sat, 01 Aug 2026 14:03:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:36.562022"
+  },
+  {
+    "id": "936873933f07",
+    "title": "Wildfires Spread Across Southern Europe",
+    "title_cn": "野火蔓延整个南欧",
+    "summary": "Bloomberg Athens Deputy Bureau Chief Paul Tugwell says Greece's wildfire response is under severe strain as gale-force winds, dry conditions and difficult terrain hamper firefighting efforts, with major blazes continuing to spread in central and southern parts of the country. He says European Union countries are coordinating firefighting resources across borders as climate change extends the wildfire season and raises concerns about the long-term economic and insurance costs of increasingly destructive fires. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/wildfires-spread-across-southern-europe-video",
+    "published": "Sat, 01 Aug 2026 14:00:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:36.709671"
+  },
+  {
+    "id": "4bd7fc4263a9",
+    "title": "FIFA Faces Backlash Over Investment Plan",
+    "title_cn": "国际足联投资计划面临强烈反对",
+    "summary": "Bloomberg Senior Sports Reporter Randall Williams says FIFA President Gianni Infantino is under mounting pressure after withdrawing plans to sell a stake in the World Cup following opposition from UEFA and other soccer leaders. He says critics argue FIFA's record revenues and multibillion-dollar reserves undermine the case for outside investment, raising new questions about Infantino's leadership ahead of his reelection bid.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-01/fifa-faces-backlash-over-investment-plan-video",
+    "published": "Sat, 01 Aug 2026 13:56:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-01T15:11:36.838547"
   },
   {
     "id": "c727b92ad4ec",
@@ -207,17 +267,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/tanker-carrying-qatari-lng-struck-while-transiting-hormuz",
     "published": "Sat, 01 Aug 2026 10:25:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:48.726710"
+    "fetched_at": "2026-08-01T15:11:36.987486"
   },
   {
     "id": "92e3df97dc15",
     "title": "Exxon, Chevron Warn Fuel Prices to Endure as War Knocks Refining",
-    "title_cn": "埃克森美孚和雪佛龙警告称，战争影响炼油业，燃油价格将持续上涨",
+    "title_cn": "埃克森美孚和雪佛龙警告称，随着战争对炼油业的影响，燃油价格将持续上涨",
     "summary": "High fuel prices are likely to stick around even if oil prices drop in the coming months as the wars in Russia and Middle East leave global refining capacity critically short, ExxonMobil Holdings Corp. and Chevron Corp. warned.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/exxon-chevron-warn-fuel-prices-to-endure-as-war-knocks-refining",
     "published": "Sat, 01 Aug 2026 13:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:49.946862"
+    "fetched_at": "2026-08-01T15:11:37.138036"
   },
   {
     "id": "b15f0be23ded",
@@ -227,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/bipartisan-governors-to-tackle-immigration-reform-video",
     "published": "Sat, 01 Aug 2026 13:03:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.053127"
+    "fetched_at": "2026-08-01T15:11:37.315581"
   },
   {
     "id": "6ebbf6d19958",
@@ -237,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/warsh-s-silent-treatment-has-s-p-traders-bracing-for-wild-swings",
     "published": "Sat, 01 Aug 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.174699"
+    "fetched_at": "2026-08-01T15:11:37.447648"
   },
   {
     "id": "90d72045b27f",
@@ -247,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year",
     "published": "Sat, 01 Aug 2026 11:52:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.285697"
+    "fetched_at": "2026-08-01T15:11:37.578977"
   },
   {
     "id": "3f937049c5aa",
@@ -257,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/phoenix-extends-record-breaking-heat-as-west-faces-fire-threat",
     "published": "Sat, 01 Aug 2026 12:34:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.394664"
+    "fetched_at": "2026-08-01T15:11:37.698146"
   },
   {
     "id": "ffcd61e9aa15",
@@ -267,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/by-the-way-headlines-you-may-have-missed-video",
     "published": "Sat, 01 Aug 2026 12:28:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.522309"
+    "fetched_at": "2026-08-01T15:11:37.848264"
   },
   {
     "id": "0df9b3ea352a",
@@ -277,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/india-youth-protests-shake-modi-government-video",
     "published": "Sat, 01 Aug 2026 12:19:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.652687"
+    "fetched_at": "2026-08-01T15:11:37.992309"
   },
   {
     "id": "2f2a5dc3719b",
@@ -287,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/hamas-disarmament-plan-tests-israel-s-next-move-video",
     "published": "Sat, 01 Aug 2026 12:11:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.754432"
+    "fetched_at": "2026-08-01T15:11:38.129513"
   },
   {
     "id": "91e9b86b85a2",
@@ -297,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/furman-warsh-should-talk-less-act-more-video",
     "published": "Sat, 01 Aug 2026 12:03:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.853712"
+    "fetched_at": "2026-08-01T15:11:38.276648"
   },
   {
     "id": "8d5a5f3d75c9",
@@ -307,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-01/fed-s-credibility-test-and-j-j-s-new-bet",
     "published": "Sat, 01 Aug 2026 12:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:50.979165"
+    "fetched_at": "2026-08-01T15:11:38.444678"
   },
   {
     "id": "69ffd8be7b06",
@@ -317,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/fewer-fed-meetings-could-fuel-market-volatility-video",
     "published": "Sat, 01 Aug 2026 11:57:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.100244"
+    "fetched_at": "2026-08-01T15:11:38.603879"
   },
   {
     "id": "d3bba916f670",
@@ -327,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/bessent-and-the-fed-help-japan-reverse-months-of-yen-losses",
     "published": "Sat, 01 Aug 2026 06:19:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.209980"
+    "fetched_at": "2026-08-01T15:11:38.749793"
   },
   {
     "id": "8afb26541d24",
@@ -337,67 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/indian-oil-buys-record-spot-market-crude-on-mideast-supply-hit",
     "published": "Sat, 01 Aug 2026 09:30:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.317658"
-  },
-  {
-    "id": "faa7840f9f1c",
-    "title": "Europe’s Endless Heat Waves Imperil Once Reliable Power Sources",
-    "title_cn": "欧洲无尽的热浪危及曾经可靠的电源",
-    "summary": "A series of blistering heat waves has weakened some of Europe’s most historically reliable sources of electricity, forcing the continent to lean more heavily on imported fossil fuels and variable renewable energy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/europe-s-endless-heat-waves-imperil-once-reliable-power-sources",
-    "published": "Sat, 01 Aug 2026 09:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.433971"
-  },
-  {
-    "id": "f393b1c824e8",
-    "title": "How an Iron Ore Empire ‘Built on Trust’ Began to Sow Doubts",
-    "title_cn": "“建立在信任之上”的铁矿石帝国如何开始引发质疑",
-    "summary": "In a corporate presentation in December 2024, Radiant World boasted of its “diverse network” of suppliers and counterparties.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/how-an-iron-ore-empire-built-on-trust-began-to-raise-doubts",
-    "published": "Sat, 01 Aug 2026 07:00:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.553162"
-  },
-  {
-    "id": "5810241efd89",
-    "title": "Modi Opposes Court Proceedings for Protesters, Urges Forgiveness",
-    "title_cn": "莫迪反对对抗议者提起诉讼，敦促宽恕",
-    "summary": "Indian Prime Minister Narendra Modi said he opposed punishment and court proceedings for the young protesters who marched in New Delhi and other Indian cities in recent weeks, saying “children make mistakes” and society should “forgive” them for using foul language.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/modi-opposes-court-proceedings-for-protesters-urges-forgiveness",
-    "published": "Sat, 01 Aug 2026 05:32:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.682310"
-  },
-  {
-    "id": "380656f5c939",
-    "title": "India Push for Overseas Capital Draws Over $40 Billion, RBI Says",
-    "title_cn": "印度央行称印度吸引海外资本超过 400 亿美元",
-    "summary": "India’s push to attract overseas capital has brought in more than $40 billion since June, boosting the RBI’s foreign-currency buffers as policymakers seek to stabilize the rupee amid rising crude prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/india-push-for-overseas-capital-draws-over-40-billion-rbi-says",
-    "published": "Sat, 01 Aug 2026 05:14:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.787002"
-  },
-  {
-    "id": "92a2157c71af",
-    "title": "Macau Gaming Revenue Falls Again on Typhoon, World Cup",
-    "title_cn": "受台风、世界杯影响澳门博彩收入再度下跌",
-    "summary": "Macau’s gaming revenue fell 8.4% in July, declining for a second consecutive month as travel disruptions from Typhoon Noul and lingering distractions from the World Cup dented spending.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/macau-gaming-revenue-falls-again-on-typhoon-world-cup",
-    "published": "Sat, 01 Aug 2026 05:13:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:51.907404"
-  },
-  {
-    "id": "187e313a0b4e",
-    "title": "Orlopp to Hold UniCredit Talks on Commerzbank’s Fate, and Hers",
-    "title_cn": "奥尔洛普将就德国商业银行和她的命运举行联合信贷银行会谈",
-    "summary": "Bettina Orlopp has about a week to prepare for a call that will set the stage for discussions about Commerzbank AG’s fate, and ultimately hers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-01/orlopp-to-hold-unicredit-talks-on-commerzbank-s-fate-and-hers",
-    "published": "Sat, 01 Aug 2026 05:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.028009"
+    "fetched_at": "2026-08-01T15:11:38.889669"
   },
   {
     "id": "e7008d442f4d",
@@ -407,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/ai-isn-t-a-catch-all-trade-for-stocks-in-this-earnings-season",
     "published": "Sat, 01 Aug 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.357515"
+    "fetched_at": "2026-08-01T15:11:44.659863"
   },
   {
     "id": "5d1e9bbceb73",
@@ -417,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/can-africa-power-the-ai-boom-video",
     "published": "Sat, 01 Aug 2026 05:02:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.470166"
+    "fetched_at": "2026-08-01T15:11:44.789619"
   },
   {
     "id": "876b084419c7",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
     "published": "Fri, 31 Jul 2026 22:23:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.596652"
+    "fetched_at": "2026-08-01T15:11:44.929771"
   },
   {
     "id": "b0eea4364167",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/the-close-7-31-2026-video",
     "published": "Fri, 31 Jul 2026 22:08:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.726068"
+    "fetched_at": "2026-08-01T15:11:45.071340"
   },
   {
     "id": "d1b5ef7e169c",
@@ -447,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/eric-trump-expands-family-s-defense-portfolio-with-space-eyes",
     "published": "Fri, 31 Jul 2026 16:55:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.833616"
+    "fetched_at": "2026-08-01T15:11:45.221431"
   },
   {
     "id": "4a847f7a0043",
@@ -457,27 +457,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/telus-more-than-halves-dividend-after-pressure-to-cut-debt",
     "published": "Fri, 31 Jul 2026 11:13:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:52.949642"
+    "fetched_at": "2026-08-01T15:11:45.394981"
   },
   {
     "id": "70fc8f02a25f",
     "title": "Serial Innovation in Fintech | Masters in Business with Som Seif",
-    "title_cn": "金融科技系列创新 |索姆·赛义夫 (Som Seif) 教授的商业硕士",
+    "title_cn": "金融科技系列创新|索姆·赛义夫 (Som Seif) 教授的商业硕士",
     "summary": "Barry sits down with Som Seif, Founder and CEO at Purpose Unlimited. They discuss Som's journey from engineering to investment banking. They also discuss his early push into ETFs in Canada and the creation of the first bitcoin ETF. Finally, Som discusses his history as a serial entrepreneur and the importance of endurance when building business in today's ever changing markets.  (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/masters-in-business-with-som-seif-video",
     "published": "Fri, 31 Jul 2026 21:14:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.088680"
+    "fetched_at": "2026-08-01T15:11:45.537101"
   },
   {
     "id": "727ee6d3e84a",
     "title": "Roblox Shares Slump on Safety-Measures Impact, Weak Forecast",
-    "title_cn": "Roblox 股价因安全措施影响而暴跌，预测疲软",
+    "title_cn": "Roblox 股价因安全措施影响而暴跌，预测疲弱",
     "summary": "Roblox Corp. shares tumbled nearly 27%, their largest single-day decline ever, after the gaming company reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
     "published": "Thu, 30 Jul 2026 20:20:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.212849"
+    "fetched_at": "2026-08-01T15:11:45.675083"
   },
   {
     "id": "78d4b6e13010",
@@ -487,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/the-unwind-of-situational-awareness-stock-bets-video",
     "published": "Fri, 31 Jul 2026 20:44:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.315226"
+    "fetched_at": "2026-08-01T15:11:45.836770"
   },
   {
     "id": "0af3d6a27392",
@@ -497,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/som-seif-on-prioritizing-customers-video",
     "published": "Fri, 31 Jul 2026 21:00:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.522579"
+    "fetched_at": "2026-08-01T15:11:46.004912"
   },
   {
     "id": "76e965eaaf0e",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/illumina-ceo-on-genomic-sequencing-opportunities-and-ai-video",
     "published": "Fri, 31 Jul 2026 20:47:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.630405"
+    "fetched_at": "2026-08-01T15:11:46.156098"
   },
   {
     "id": "9439f08e9492",
@@ -517,17 +517,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
     "published": "Thu, 30 Jul 2026 20:40:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.744184"
+    "fetched_at": "2026-08-01T15:11:46.296117"
   },
   {
     "id": "b58b0d154804",
     "title": "Amazon Shares Soar Most Since 2012 on Cloud Sales Growth",
-    "title_cn": "亚马逊股价因云销售增长而创 2012 年以来最大涨幅",
+    "title_cn": "云销售增长带动亚马逊股价自 2012 年以来涨幅最大",
     "summary": "Amazon.com Inc. shares surged the most since 2012 after the company reported accelerating cloud-computing revenue, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
     "published": "Thu, 30 Jul 2026 20:16:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:53.898566"
+    "fetched_at": "2026-08-01T15:11:46.425468"
   },
   {
     "id": "d5b7f955a87a",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
     "published": "Fri, 31 Jul 2026 19:46:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.029665"
+    "fetched_at": "2026-08-01T15:11:46.590043"
   },
   {
     "id": "986c611a8406",
@@ -547,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
     "published": "Thu, 30 Jul 2026 22:10:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.249397"
+    "fetched_at": "2026-08-01T15:11:46.725523"
   },
   {
     "id": "262920b2a023",
@@ -557,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
     "published": "Fri, 31 Jul 2026 19:13:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.399062"
+    "fetched_at": "2026-08-01T15:11:46.869013"
   },
   {
     "id": "3c0dafc5ca2f",
@@ -567,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
     "published": "Fri, 31 Jul 2026 19:11:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.511273"
+    "fetched_at": "2026-08-01T15:11:47.044462"
   },
   {
     "id": "d28d5b5a9820",
@@ -577,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/moonshot-s-kimi-built-with-nvidia-compute-video",
     "published": "Fri, 31 Jul 2026 18:54:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.634319"
+    "fetched_at": "2026-08-01T15:11:47.192814"
   },
   {
     "id": "d19bdb2fffdc",
@@ -587,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/-ai-is-now-an-operating-system-says-lux-capital-video",
     "published": "Fri, 31 Jul 2026 18:49:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.759470"
+    "fetched_at": "2026-08-01T15:11:47.344860"
   },
   {
     "id": "170b75b0b510",
@@ -597,7 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/griffin-s-knack-for-sniffing-out-trouble-set-to-reward-citadel",
     "published": "Fri, 31 Jul 2026 18:45:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:54.887330"
+    "fetched_at": "2026-08-01T15:11:47.480216"
   },
   {
     "id": "60c18537a166",
@@ -607,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-01/israel-election-puts-netanyahu-under-pressure-video",
     "published": "Sat, 01 Aug 2026 13:19:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:55.529435"
+    "fetched_at": "2026-08-01T15:11:48.148589"
   },
   {
     "id": "8f83b6abbe26",
@@ -617,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/kuwait-intercepts-iranian-drones-as-trump-weighs-fresh-strikes",
     "published": "Sat, 01 Aug 2026 08:21:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:55.913357"
+    "fetched_at": "2026-08-01T15:11:48.269747"
   },
   {
     "id": "92855da0509c",
@@ -627,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/russia-hits-kyiv-with-horrific-missile-barrage-killing-nine",
     "published": "Sat, 01 Aug 2026 07:30:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:56.784079"
+    "fetched_at": "2026-08-01T15:11:48.424862"
   },
   {
     "id": "7f16f4bc62d7",
@@ -637,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/sanchez-isolated-after-spain-sparks-fear-of-a-migration-crisis",
     "published": "Sat, 01 Aug 2026 07:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:57.247921"
+    "fetched_at": "2026-08-01T15:11:48.575124"
   },
   {
     "id": "fa8137ddac47",
@@ -647,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/hungary-heads-to-nuclear-shutdown-in-test-for-economy-and-magyar",
     "published": "Sat, 01 Aug 2026 11:12:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:57.371676"
+    "fetched_at": "2026-08-01T15:11:48.713536"
   },
   {
     "id": "65d1930c05a8",
@@ -657,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/spain-slams-selfish-reaction-from-some-eu-states-to-ceuta",
     "published": "Sat, 01 Aug 2026 10:14:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:57.744837"
+    "fetched_at": "2026-08-01T15:11:48.853868"
   },
   {
     "id": "4524ff2862d5",
@@ -667,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/labour-hold-manchester-mayoralty-after-burnham-vacates-post",
     "published": "Fri, 31 Jul 2026 22:27:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:58.773757"
+    "fetched_at": "2026-08-01T15:11:48.996943"
   },
   {
     "id": "bce080705019",
@@ -677,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/cockroach-party-spokesperson-saurav-das-on-plans-to-build-india-wide-movement",
     "published": "Fri, 31 Jul 2026 10:55:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:58.891468"
+    "fetched_at": "2026-08-01T15:11:49.149431"
   },
   {
     "id": "75e938a8dc3b",
@@ -687,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-01/burnham-bets-a-trump-style-show-buys-time-to-fix-the-hard-stuff",
     "published": "Sat, 01 Aug 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.032830"
+    "fetched_at": "2026-08-01T15:11:49.305164"
   },
   {
     "id": "7491a960a3ed",
@@ -697,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/balance-of-power-late-edition-07-31-2026-video",
     "published": "Fri, 31 Jul 2026 23:17:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.160879"
+    "fetched_at": "2026-08-01T15:11:49.428886"
   },
   {
     "id": "2430cc54dc22",
@@ -707,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-appeals-ruling-that-bars-his-use-of-audit-immunity-deal",
     "published": "Fri, 31 Jul 2026 18:51:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.275671"
+    "fetched_at": "2026-08-01T15:11:49.593936"
   },
   {
     "id": "b69244c1917e",
@@ -717,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/galante-warns-iran-could-target-us-infrastructure-video",
     "published": "Fri, 31 Jul 2026 22:39:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.412311"
+    "fetched_at": "2026-08-01T15:11:49.738044"
   },
   {
     "id": "9ccfd706ba5a",
@@ -727,17 +727,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/miller-warns-of-drastic-expansion-of-iran-war-video",
     "published": "Fri, 31 Jul 2026 22:30:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.532236"
+    "fetched_at": "2026-08-01T15:11:49.889869"
   },
   {
     "id": "3e96be009324",
     "title": "Trump Orders Iran Attack as Soon as This Weekend, WSJ Says",
-    "title_cn": "《华尔街日报》称特朗普最快本周末下令袭击伊朗",
+    "title_cn": "《华尔街日报》称，特朗普最快本周末下令袭击伊朗",
     "summary": "President Donald Trump has ordered the US military to carry out a new attack on Iran as soon as this weekend, the Wall Street Journal reported Friday.",
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/trump-orders-attacks-on-iran-as-soon-as-this-weekend-wsj-says",
     "published": "Fri, 31 Jul 2026 21:22:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.642213"
+    "fetched_at": "2026-08-01T15:11:50.046714"
   },
   {
     "id": "8a45da4b7874",
@@ -747,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-07-31/here-are-the-week-s-winners-and-losers",
     "published": "Fri, 31 Jul 2026 20:35:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.753574"
+    "fetched_at": "2026-08-01T15:11:50.212416"
   },
   {
     "id": "de6ddb9dc640",
@@ -757,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-businessweek-7-31-2026-video",
     "published": "Fri, 31 Jul 2026 20:25:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.882811"
+    "fetched_at": "2026-08-01T15:11:50.357596"
   },
   {
     "id": "a763012a2724",
@@ -767,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-07-31/microsoft-s-us-taxes-drop-revenue-jumps-after-trump-cuts",
     "published": "Fri, 31 Jul 2026 20:16:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T13:59:59.999586"
+    "fetched_at": "2026-08-01T15:11:50.503045"
   },
   {
     "id": "08ed4f7488e2",
@@ -777,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/balance-of-power-early-edition-7-31-2026-video",
     "published": "Fri, 31 Jul 2026 19:49:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T14:00:00.122073"
+    "fetched_at": "2026-08-01T15:11:50.637967"
   },
   {
     "id": "8b1973e1a12e",
@@ -787,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/aschenbrenner-s-situational-awareness-hit-by-ai-selloff-video",
     "published": "Fri, 31 Jul 2026 19:41:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T14:00:00.238400"
+    "fetched_at": "2026-08-01T15:11:50.774124"
   },
   {
     "id": "43a24a30a8f2",
@@ -797,6 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-07-31/poll-shows-el-sayed-with-edge-over-stevens-in-mi-primary-video",
     "published": "Fri, 31 Jul 2026 18:59:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-01T14:00:00.374758"
+    "fetched_at": "2026-08-01T15:11:50.923525"
   }
 ]
