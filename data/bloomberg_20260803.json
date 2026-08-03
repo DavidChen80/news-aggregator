@@ -1,12 +1,102 @@
 [
   {
+    "id": "326e68cb95b5",
+    "title": "Stocks Rise as US-Iran Hopes Sink Oil, Gaza Strikes, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/stocks-rise-as-us-iran-hopes-sink-oil-gaza-strikes-more-msdapift",
+    "published": "Mon, 03 Aug 2026 13:59:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289901"
+  },
+  {
+    "id": "1f478d0a6e91",
+    "title": "Bloomberg Surveillance: Yen and Markets (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/bloomberg-surveillance-yen-and-markets-podcast",
+    "published": "Mon, 03 Aug 2026 13:59:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289914"
+  },
+  {
+    "id": "cd09ed53bc29",
+    "title": "What the Yen and Liquidity Say About Equities: Macro Man Podcast",
+    "summary": "Source: Bloomberg, 5:10",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/what-the-yen-and-liquidity-say-about-equities-macro-man-podcast",
+    "published": "Mon, 03 Aug 2026 13:43:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289920"
+  },
+  {
+    "id": "e90c0a547c89",
+    "title": "Why a Potential Astra-Bristol Merger Looks Like Pharma’s FIFA Moment",
+    "summary": "AstraZeneca has explored a potential tie-up with US peer Bristol-Myers Squibb.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/why-a-potential-astra-bristol-merger-looks-like-pharma-s-fifa-moment",
+    "published": "Mon, 03 Aug 2026 13:37:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289924"
+  },
+  {
+    "id": "dec3c529a7a5",
+    "title": "Stock Movers: SQB, TSN, SPCX (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-sqb-tsn-spcx-podcast",
+    "published": "Mon, 03 Aug 2026 13:11:35 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289929"
+  },
+  {
+    "id": "706958012626",
+    "title": "Next Africa: Ruto’s Future Hinges on a Risky Dream to Reshape Kenya",
+    "summary": "Kenyan president targets developed-nation status.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/next-africa-ruto-s-future-hinges-on-a-risky-dream-to-reshape-kenya",
+    "published": "Mon, 03 Aug 2026 13:00:04 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289933"
+  },
+  {
+    "id": "adc10f391bee",
+    "title": "Trump Says Iran Talks Begin Today, Fresh Strikes on Gaza, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/trump-says-iran-talks-begin-today-fresh-strikes-on-gaza-more",
+    "published": "Mon, 03 Aug 2026 12:51:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289937"
+  },
+  {
+    "id": "eb82903a00b9",
+    "title": "Dollar, Yen and Oil Swings Rattle India’s IPO Boom",
+    "summary": "Several closely watched issuers trimmed the size of their offerings to get deals done.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/dollar-yen-and-oil-swings-rattle-india-s-ipo-boom",
+    "published": "Mon, 03 Aug 2026 12:36:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289944"
+  },
+  {
+    "id": "1b0bc8b4bc27",
+    "title": "Toyota Offers Look at Future With Crown Prince Daisuke Toyoda’s New Role",
+    "summary": "The chairman’s son Daisuke Toyoda is getting a job at the hallowed Motomachi factory.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/toyota-offers-look-at-future-with-crown-prince-daisuke-toyoda-s-new-role",
+    "published": "Mon, 03 Aug 2026 12:32:11 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289948"
+  },
+  {
+    "id": "b5bee17ed04c",
+    "title": "Trump Calls Off Strikes, Oil Falls, Blanche Strikes Deal, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-03/trump-calls-off-strikes-oil-falls-blanche-strikes-deal-more",
+    "published": "Mon, 03 Aug 2026 11:46:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.289953"
+  },
+  {
     "id": "d980f80169c9",
     "title": "Oil Falls After Trump Calls Off Iran Attack",
     "summary": "Here’s what you need to know to start your day",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/oil-falls-after-trump-calls-off-iran-attack",
     "published": "Mon, 03 Aug 2026 11:07:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667943"
+    "fetched_at": "2026-08-03T14:02:47.289957"
   },
   {
     "id": "cbd9ba3f31ec",
@@ -15,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-azn-nvda-spcx-podcast",
     "published": "Mon, 03 Aug 2026 11:02:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667965"
+    "fetched_at": "2026-08-03T14:02:47.289961"
   },
   {
     "id": "d997c6a41df4",
@@ -24,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/uae-jobs-mr-brexit-joins-finance-elite-moving-to-the-middle-east",
     "published": "Mon, 03 Aug 2026 10:23:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667973"
+    "fetched_at": "2026-08-03T14:02:47.289965"
   },
   {
     "id": "01cdfa770308",
@@ -33,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/trump-calls-off-iran-strikes-pushing-oil-prices-lower-more",
     "published": "Mon, 03 Aug 2026 10:21:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667979"
+    "fetched_at": "2026-08-03T14:02:47.289969"
   },
   {
     "id": "9df7ca5afd9c",
@@ -42,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-us-steps-in-to-back-the-yen-in-rare-joint-intervention",
     "published": "Mon, 03 Aug 2026 09:44:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667984"
+    "fetched_at": "2026-08-03T14:02:47.289973"
   },
   {
     "id": "840857a45002",
@@ -51,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/bloomberg-daybreak-trump-calls-off-strikes-podcast",
     "published": "Mon, 03 Aug 2026 09:41:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667990"
+    "fetched_at": "2026-08-03T14:02:47.289979"
   },
   {
     "id": "ca8047f6b992",
@@ -60,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/iran-says-talks-underway-stocks-rise-and-oil-plunges-more",
     "published": "Mon, 03 Aug 2026 09:21:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.667996"
+    "fetched_at": "2026-08-03T14:02:47.289983"
   },
   {
     "id": "9195bc07cc81",
@@ -69,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-astrazeneca-ryanair-clarkson-podcast",
     "published": "Mon, 03 Aug 2026 09:03:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668005"
+    "fetched_at": "2026-08-03T14:02:47.289987"
   },
   {
     "id": "e8b842056adf",
@@ -78,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/iran-disputes-us-talks-astrazeneca-shares-fall-on-deal-talks",
     "published": "Mon, 03 Aug 2026 08:20:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668011"
+    "fetched_at": "2026-08-03T14:02:47.289991"
   },
   {
     "id": "8572dfbf7f3e",
@@ -87,160 +177,43 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-astrazeneca-bp-siltronic-podcast",
     "published": "Mon, 03 Aug 2026 08:06:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668018"
+    "fetched_at": "2026-08-03T14:02:47.289995"
   },
   {
-    "id": "cfa27f65ae59",
-    "title": "Malaysia’s Maybank Buys Ageas’ Etiqa Stake for $1.2 Billion",
-    "summary": "Malayan Banking Bhd. has agreed to buy out Belgian insurer Ageas SA’s minority stake in Etiqa, a move that would give Malaysia’s biggest lender full ownership of the Southeast Asian insurer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/malaysia-s-top-bank-is-said-to-near-buying-ageas-stake-in-etiqa",
-    "published": "Mon, 03 Aug 2026 03:49:45 GMT",
+    "id": "e7982584a3d3",
+    "title": "Jefferies Reviews Exposure to Radiant World",
+    "summary": "Investors in Jefferies Financial Group’s Point Bonita Capital started asking for all their money back last year when it emerged that the fund’s biggest exposure was to collapsing auto supplier First Brands Group. Jefferies is now reviewing its exposure to Radiant World. Katherine Doherty reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/jefferies-reviews-exposure-to-radiant-world-video",
+    "published": "Mon, 03 Aug 2026 13:59:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668024"
-  },
-  {
-    "id": "efda3b4fa7f1",
-    "title": "Iran Talks Ease Concerns, US-Japan Yen Speculation, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/iran-talks-ease-concerns-us-japan-yen-speculation-more",
-    "published": "Mon, 03 Aug 2026 07:40:55 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668033"
-  },
-  {
-    "id": "54063d0b2987",
-    "title": "AstraZeneca Explored Buying Bristol Myers Squibb in Mega UK-US Pharma Merger",
-    "summary": "Astra explored buying Bristol Myers; Burnham’s immigration pledge",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/astrazeneca-explored-buying-bristol-myers-squibb-in-mega-uk-us-pharma-merger",
-    "published": "Mon, 03 Aug 2026 07:14:23 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668039"
-  },
-  {
-    "id": "f7b809ad5ade",
-    "title": "Oil Falls On US-Iran Hope, Yen Rises Amid Speculation, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/oil-falls-on-us-iran-hope-yen-rises-amid-speculation-more",
-    "published": "Mon, 03 Aug 2026 07:09:34 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668044"
-  },
-  {
-    "id": "2a998feab393",
-    "title": "Stock Movers: Chinese markets, Japanese AI, BOJ (Podcast)",
-    "summary": "Source: Bloomberg, 5:48",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-chinese-markets-japanese-ai-boj-podcast",
-    "published": "Mon, 03 Aug 2026 06:53:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668050"
-  },
-  {
-    "id": "454ced19cae8",
-    "title": "Stock Movers:China Markets,Japan Exporters,Japan Banks (Podcast)",
-    "summary": "Source: Bloomberg, 5:48",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/stock-movers-china-markets-japan-exporters-japan-banks-podcast",
-    "published": "Mon, 03 Aug 2026 06:45:24 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668055"
-  },
-  {
-    "id": "3ccba0568796",
-    "title": "Bloomberg Daybreak Europe: Trump Zigzags On Iran (Podcast)",
-    "summary": "Source: Bloomberg, 16:24",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/bloomberg-daybreak-europe-trump-zigzags-on-iran-podcast",
-    "published": "Mon, 03 Aug 2026 05:51:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668060"
-  },
-  {
-    "id": "2013d892199d",
-    "title": "Spain’s Sanchez Left Politically Exposed Amid Migrant Crisis",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/spain-s-sanchez-left-politically-exposed-amid-migrant-crisis",
-    "published": "Mon, 03 Aug 2026 05:41:05 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668065"
-  },
-  {
-    "id": "392c901df9bb",
-    "title": "Trump: Iran Talks to Begin Today, Yen Climbs Sharply, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-03/trump-iran-talks-to-begin-today-yen-climbs-sharply-more",
-    "published": "Mon, 03 Aug 2026 05:22:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668071"
-  },
-  {
-    "id": "774027dd5866",
-    "title": "Amanda Staveley on Returning to Football Ownership",
-    "summary": "<p>On the latest episode of&nbsp;<em>Leaders with Francine Lacqua</em>, the dealmaker reveals the philosophy behind her storied career — and her next moves.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/amanda-staveley-on-returning-to-football-ownership",
-    "published": "Mon, 03 Aug 2026 05:00:02 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:07.668078"
-  },
-  {
-    "id": "6d08a7549680",
-    "title": "China Signals New Era for Mining M&A After Zijin Gold Rethink",
-    "summary": "The recalibration of an attempted takeover deal reflects a more risk-averse approach from Beijing.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/china-signals-new-era-for-mining-m-a-after-zijin-gold-rethink",
-    "published": "Mon, 03 Aug 2026 11:28:07 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024209"
-  },
-  {
-    "id": "acd587d0669d",
-    "title": "Whole Foods is Dhedding the \"Whole Paycheck\" Label",
-    "summary": "Under Amazon, Whole Foods is shedding its \"whole paycheck\" reputation. The chain has cut prices and expanded private label selection in a bid to attract inflation-bit shoppers, Matt Day explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/whole-foods-is-dhedding-the-whole-paycheck-label",
-    "published": "Mon, 03 Aug 2026 11:00:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024224"
-  },
-  {
-    "id": "cdf935145b50",
-    "title": "Palantir Is Stuck in Worst-of-Both-Worlds Bind With AI, Software",
-    "summary": "It’s been a sobering stretch for Palantir Technologies Inc. shareholders, who have watched their once high-flying positions lose more than 40% of their value since the stock hit a peak in November.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
-    "published": "Mon, 03 Aug 2026 11:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024230"
+    "fetched_at": "2026-08-03T14:02:47.644751"
   },
   {
     "id": "3687979fbe05",
-    "title": "Caterpillar Faces Earnings Test After AI Selloff Punished Stock",
-    "summary": "Caterpillar Inc.’s stock is limping into the earnings report after losing nearly a quarter of its value, setting the results up as a test for investors to see if enthusiasm about the company being an artificial intelligence play has gone too far.",
+    "title": "Caterpillar Faces Earnings Test After AI Selloff Hits Stock",
+    "summary": "Caterpillar Inc.’s stock is limping into its earnings report after losing nearly a quarter of its value last month, setting the results up as a test for investors to see if enthusiasm about the company being an artificial intelligence play has gone too far.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/caterpillar-faces-earnings-test-after-ai-selloff-punished-stock",
     "published": "Mon, 03 Aug 2026 11:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024236"
+    "fetched_at": "2026-08-03T14:02:47.644763"
   },
   {
-    "id": "a145a57d09c9",
-    "title": "Top Philippine Power Retailer to Refund $156 Million to Clients",
-    "summary": "Manila Electric Co., the Philippines’ largest power distributor, was ordered by the regulator to refund 9.5 billion pesos ($156 million), representing excess charges to customers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/top-philippine-power-retailer-to-refund-156-million-to-clients",
-    "published": "Mon, 03 Aug 2026 10:58:00 GMT",
+    "id": "73c399c0b33d",
+    "title": "Treasuries Climb to Start Week on Oil, Bessent’s Yen Pledge",
+    "summary": "Treasuries are starting the week on an optimistic note, buoyed by tumbling oil prices and assurances that tens of billions of dollars in Japanese currency interventions won’t be funded from sales of US government debt.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
+    "published": "Mon, 03 Aug 2026 10:18:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024242"
+    "fetched_at": "2026-08-03T14:02:47.644767"
   },
   {
-    "id": "85d9fe7f4889",
-    "title": "Bloomberg News Now",
-    "summary": "Trump Pushes for New Iran Negotiations\nDOJ Ends Controversial Anti-Weaponization Fund\nSenate Unveils Short-Term Funding Bill\nChip Stocks in Focus After July Selloff\nU.S. and Japan Intervene to Support Yen\nMarkets Brace for Key U.S. Jobs Report\nAstraZeneca Explores Bristol-Myers Merger (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/bloomberg-news-now-video",
-    "published": "Mon, 03 Aug 2026 10:56:52 GMT",
+    "id": "e1b9aefd2df1",
+    "title": "US Stocks Climb as Focus Shifts Back to Earnings; Chips Slide",
+    "summary": "US stocks rose into the first trading day of the month as attention turned to this week’s heavy slate of earnings reports.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/us-futures-climb-as-focus-shifts-back-to-earnings-oil-slides",
+    "published": "Mon, 03 Aug 2026 11:49:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024247"
-  },
-  {
-    "id": "dc9f35111b11",
-    "title": "The US Has a Lot at Stake in Rare Intervention to Prop Up Yen",
-    "summary": "Bond yields and trade policy may be in play.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-03/the-us-has-a-lot-at-stake-in-rare-intervention-to-prop-up-yen",
-    "published": "Mon, 03 Aug 2026 10:49:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024253"
+    "fetched_at": "2026-08-03T14:02:47.644772"
   },
   {
     "id": "38c09b48d02b",
@@ -249,114 +222,141 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/prysmian-strikes-deal-to-buy-us-electrical-maker-atkore",
     "published": "Mon, 03 Aug 2026 05:32:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024258"
-  },
-  {
-    "id": "3d804a89a9a4",
-    "title": "Derivatives Trading Sinks at Biggest Indian Bourse on RBI Curbs",
-    "summary": "India’s largest stock exchange was severely hit by the central bank’s tighter funding rules implemented last month, with spending on derivatives slumping to a 17-month low.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/derivatives-trading-sinks-at-biggest-indian-bourse-on-rbi-curbs",
-    "published": "Mon, 03 Aug 2026 10:45:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024264"
-  },
-  {
-    "id": "e1c011c12cfe",
-    "title": "UK Shipbroker Clarkson Sees Result Boost from Hormuz Disruption",
-    "summary": "Clarkson Plc expects its full year performance to be “materially ahead of market expectations” after the shipbroker delivered a record first-half performance boosted by “exceptional volatility” caused by the disruption in the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/uk-shipbroker-clarkson-sees-result-boost-from-hormuz-disruption",
-    "published": "Mon, 03 Aug 2026 10:40:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024275"
-  },
-  {
-    "id": "9fb3f225472a",
-    "title": "JPY/USD: Why the US Helped Japan Intervention to Prop Up Yen",
-    "summary": "The yen’s weakness has become a growing issue for Japan’s policymakers, given its role in driving up import prices and household living costs. It’s also become a worry for the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/jpy-usd-why-the-us-helped-japan-intervention-to-prop-up-yen",
-    "published": "Mon, 03 Aug 2026 10:35:49 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024280"
+    "fetched_at": "2026-08-03T14:02:47.644776"
   },
   {
     "id": "097473809d2a",
-    "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
-    "summary": "Stocks and bonds rose as the latest sign of easing tensions between the US and Iran pushed oil prices lower, allaying concerns about faster inflation.",
+    "title": "Stocks Join Bonds Higher as US-Iran Hopes Sink Oil: Markets Wrap",
+    "summary": "Wall Street traders lifted stocks and bonds as the latest sign of easing tensions in the Middle East sank oil prices, allaying worries about faster inflation.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
     "published": "Sun, 02 Aug 2026 22:09:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024286"
+    "fetched_at": "2026-08-03T14:02:47.644780"
   },
   {
-    "id": "3c3633f57c6d",
-    "title": "Mamdani’s Rent Freeze Heaps Pressure on a Teetering CMBS Deal",
-    "summary": "A $506 million bet on thousands of New York rent-stabilized apartments has already soured for bond investors. Mayor Zohran Mamdani’s rent freeze threatens to make it worse.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/mamdani-s-rent-freeze-heaps-pressure-on-a-teetering-cmbs-deal",
-    "published": "Mon, 03 Aug 2026 10:30:00 GMT",
+    "id": "cdf935145b50",
+    "title": "Palantir Is Stuck in Worst-of-Both-Worlds Bind With AI, Software",
+    "summary": "It’s been a sobering stretch for Palantir Technologies Inc. shareholders, who have watched their once high-flying positions lose some 40% of their value since the stock hit a peak in November.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-is-stuck-in-worst-of-both-worlds-bind-with-ai-software",
+    "published": "Mon, 03 Aug 2026 11:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024291"
+    "fetched_at": "2026-08-03T14:02:47.644783"
   },
   {
-    "id": "73c399c0b33d",
-    "title": "Treasuries Climb at Start of Week on Oil, Bessent’s Yen Pledge",
-    "summary": "Treasuries are starting the week on an optimistic note, buoyed by tumbling oil prices and assurances that tens of billions of dollars in Japanese currency interventions won’t be funded from sales of US government debt.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/treasuries-climb-at-start-of-week-on-oil-bessent-s-yen-pledge",
-    "published": "Mon, 03 Aug 2026 10:18:19 GMT",
+    "id": "d9f776562fde",
+    "title": "Amazon Joins Elite List of Stocks to Top $3 Trillion in Value",
+    "summary": "Amazon.com Inc. surpassed $3 trillion in market value for the first time, becoming only the fifth company to ever reach the milestone.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value",
+    "published": "Mon, 03 Aug 2026 13:38:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024298"
+    "fetched_at": "2026-08-03T14:02:47.644787"
   },
   {
-    "id": "fe2a2de3cc28",
-    "title": "Bond Traders Flying Blind on Fed See Risk Yields Spiral",
-    "summary": "Bond investors including Brandywine Global Investment Management and Wellington Management say the risk of a deeper Treasury rout is rising as Federal Reserve Chairman Kevin Warsh keeps investors in the dark about how officials will respond to the evolving economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-02/bond-traders-flying-blind-on-fed-see-risk-yields-spiral-higher",
-    "published": "Sun, 02 Aug 2026 14:00:00 GMT",
+    "id": "5b1559606fef",
+    "title": "Yen Rises Amid Speculation of More Intervention After US Support",
+    "summary": "The yen rallied sharply on Monday amid speculation that authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+    "published": "Sun, 02 Aug 2026 12:47:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024303"
+    "fetched_at": "2026-08-03T14:02:47.644791"
   },
   {
-    "id": "5420874be45a",
-    "title": "China LGFV Says It Can Repay Debt Even as Bond Sale Hits Snag",
-    "summary": "A Chinese municipal borrower said it has enough funds to repay 1.08 billion yuan ($160 million) in offshore notes due next week, after people familiar with the matter said a plan to refinance that debt with a new bond sale had been delayed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/china-lgfv-says-it-can-repay-debt-even-as-bond-sale-hits-snag",
-    "published": "Mon, 03 Aug 2026 10:08:01 GMT",
+    "id": "773ea1b716d5",
+    "title": "India’s New Stock Closing Auction Sparks Confusion on Debut",
+    "summary": "India’s new system to discover end-of-day market prices got off to a confusing start, with traders trying to make sense of a spike in the NSE Nifty 50 Index stemming from the shift.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/india-s-new-stock-closing-auction-sparks-confusion-on-debut",
+    "published": "Mon, 03 Aug 2026 11:42:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024309"
+    "fetched_at": "2026-08-03T14:02:47.644794"
   },
   {
-    "id": "16af619ce180",
-    "title": "Tech Drags EM Stocks Lower; Rand Gets a Boost From Oil’s Slide",
-    "summary": "Emerging-market equities fell on the first trading day of August, weighed down by a pullback in South Korean chipmakers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/emerging-market-stocks-fall-as-korea-chipmakers-slide-once-again",
-    "published": "Mon, 03 Aug 2026 04:14:04 GMT",
+    "id": "b6982905909e",
+    "title": "Yen Rally Seen Fading as Fed Rate Hikes to Revive Dollar",
+    "summary": "The yen’s rally following joint US-Japan intervention has likely run its course, according to currency strategists, who say market expectations of a Federal Reserve interest-rate hike this year are set to support the dollar.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-02/us-treasury-s-firepower-for-yen-support-may-be-limited-jpm-says",
+    "published": "Sun, 02 Aug 2026 23:43:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024314"
+    "fetched_at": "2026-08-03T14:02:47.644798"
   },
   {
-    "id": "bb2eae39abc5",
-    "title": "Fed’s Warsh Floats a Rethink of FOMC Policy Meeting Frequency",
-    "summary": "Federal Reserve Chairman Kevin Warsh is weighing the possibility of changing the frequency of regular policy meetings for the US central bank, according to people familiar with the matter. Alister Bull reports on Bloomberg Television. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-03/fed-s-warsh-floats-a-rethink-of-policy-meeting-frequency-video",
-    "published": "Mon, 03 Aug 2026 10:04:44 GMT",
+    "id": "76be5b804d53",
+    "title": "Japan’s Use of Fed Repo May Ease Pressure on Treasury Market",
+    "summary": "Treasury Secretary Scott Bessent’s championing of a Federal Reserve facility Japan can use to boost the yen comes with the benefit of protecting the US bond market from excess sales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/japan-s-use-of-fed-facility-may-ease-pressure-on-treasury-market",
+    "published": "Mon, 03 Aug 2026 01:26:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024319"
+    "fetched_at": "2026-08-03T14:02:47.644804"
   },
   {
-    "id": "ad91b54e5949",
-    "title": "BlackRock Jostles Rivals Like Apollo in Bid for Mexican Projects",
-    "summary": "From its perch in one of Mexico City’s priciest office towers, overlooking the capital’s sprawling Chapultepec Park, BlackRock Inc. has its sights set on the country’s buildout.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/blackrock-jostles-rivals-like-apollo-in-bid-for-mexican-projects",
-    "published": "Mon, 03 Aug 2026 10:00:00 GMT",
+    "id": "04d11f48dc03",
+    "title": "Strategy Sells More Bitcoin, Stock as It Pushes on With Overhaul",
+    "summary": "Michael Saylor’s Strategy Inc. is plowing ahead with its pivot from relentlessly buying Bitcoin to focusing on shoring up its capital structure by raising its reserve via sales of the token and its own shares.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/strategy-sells-more-bitcoin-stock-as-it-pushes-on-with-overhaul",
+    "published": "Mon, 03 Aug 2026 12:41:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024324"
+    "fetched_at": "2026-08-03T14:02:47.644808"
   },
   {
-    "id": "efa89d2543e0",
-    "title": "Morgan Stanley’s Wilson Tips Earnings to Revive Momentum Trade",
-    "summary": "Momentum-style equity investing is poised to rebound from a sharp retreat as sectors with strong earnings replace chip stocks in leading the market’s gains, Morgan Stanley strategist Michael Wilson said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/morgan-stanley-s-wilson-tips-earnings-to-revive-momentum-trade",
-    "published": "Mon, 03 Aug 2026 09:54:42 GMT",
+    "id": "b9e45151f8e5",
+    "title": "Chile Peso Bonds Face Pressure if Strait of Hormuz Stays Closed",
+    "summary": "Chile’s peso borrowing costs risk hitting highs for the year in August as the Middle East conflict drags into its sixth month, even as the economy struggles to gain momentum.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/chile-peso-bonds-face-pressure-if-strait-of-hormuz-stays-closed",
+    "published": "Mon, 03 Aug 2026 12:32:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-03T11:31:08.024330"
+    "fetched_at": "2026-08-03T14:02:47.644812"
+  },
+  {
+    "id": "94f33406b486",
+    "title": "Nigeria’s Top Bank Offers $1 Billion Shares Held by Bridge Firm",
+    "summary": "First HoldCo Plc plans to raise about 1.4 trillion naira ($1 billion) through a share sale after the Central Bank of Nigeria gave the nation’s biggest lender approval for the move.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/nigeria-s-top-bank-offers-1-billion-shares-held-by-bridge-firm",
+    "published": "Mon, 03 Aug 2026 12:32:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644816"
+  },
+  {
+    "id": "a7de9a86bb00",
+    "title": "US, Japan Warn of More Yen Action If Needed; Oil Falls on US-Iran Optimism |Bloomberg Brief 08/03/26",
+    "summary": "The yen swings after US and Japanese officials signal they are committed to defending the currency following their first joint intervention in 15 years. Oil falls after President Trump called off military strikes in the Middle East and said US-Iran talks are set to resume. Rebecca Walser of Walser Wealth Management discusses the implications of Fed Chair Warsh mulling changes to the frequency and timing of Fed meetings. Massimo Battaini, CEO of Prysmian, discusses the company's all-cash deal to acquire US electrical parts manufacturer Atkore, in an exclusive interview.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/bloomberg-brief-08-03-26-video",
+    "published": "Mon, 03 Aug 2026 12:09:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644820"
+  },
+  {
+    "id": "64608118dda3",
+    "title": "Dip Buyers of Stocks Need to Heed the Market’s Warning Signs",
+    "summary": "The momentum trade just gave investors a taste of the pronounced profit-and-loss swings they can expect if they fail to hedge or diversify, a warning that’s reinforced by growing inflation risks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/dip-buyers-need-to-heed-the-market-s-warning-signs-taking-stock",
+    "published": "Mon, 03 Aug 2026 06:19:23 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644824"
+  },
+  {
+    "id": "3a23fe8b942a",
+    "title": "Gold Holds Gain as Signs of Hormuz Talks Ease Rate Hike Concerns",
+    "summary": "Gold held on to its first monthly gain since before the Iran war, with tentative signs of talks to reopen the Strait of Hormuz lifting hopes that a breakthrough could ease energy-driven inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-02/gold-gains-as-iran-talks-ease-concerns-over-interest-rate-hike",
+    "published": "Sun, 02 Aug 2026 23:46:57 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644827"
+  },
+  {
+    "id": "04d13fa61092",
+    "title": "‘You Can’t Fool the Bond,’ Says BofA’s Cabana on the Fed",
+    "summary": "Mark Cabana, head of US rates strategy at BofA Global Research, says the Federal Reserve now has a credibility issue as he discusses the bond market’s reaction to last week’s interest rate decision from the Fed. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/-you-can-t-fool-the-bond-says-bofa-s-cabana-on-the-fed-video",
+    "published": "Mon, 03 Aug 2026 11:54:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644831"
+  },
+  {
+    "id": "ebfaabbf2d6f",
+    "title": "Warsh Does Not Believe in Current Data Sources: Walser",
+    "summary": "Rebecca Walser of Walser Wealth Management joins Vonnie Quinn on \"Bloomberg Brief\" to discuss the implications of Fed Chair Kevin Warsh mulling changes to the frequency and timing of the Fed's policy meetings. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-03/warsh-does-not-believe-in-current-data-sources-walser-video",
+    "published": "Mon, 03 Aug 2026 11:54:31 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-03T14:02:47.644835"
   }
 ]
