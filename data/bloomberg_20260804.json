@@ -1,12 +1,66 @@
 [
   {
+    "id": "ef6fcfec41f7",
+    "title": "Bloomberg Talks: API CEO Mike Sommers (Podcast)",
+    "summary": "Source: Bloomberg, 8:18",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-talks-api-ceo-mike-sommers-podcast",
+    "published": "Tue, 04 Aug 2026 19:34:41 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175883"
+  },
+  {
+    "id": "e864edc84aae",
+    "title": "Bloomberg Tech: Palantir's Strong Commercial Demand (Podcast)",
+    "summary": "Source: Bloomberg, 43:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-tech-palantir-s-strong-commercial-demand-podcast",
+    "published": "Tue, 04 Aug 2026 19:21:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175899"
+  },
+  {
+    "id": "6ddfbeacb8ca",
+    "title": "Qatar: Interim Deal Drafted, Report: Parasite Outbreak Expanded",
+    "summary": "Source: Bloomberg, 6:01",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/qatar-interim-deal-drafted-report-parasite-outbreak-expanded",
+    "published": "Tue, 04 Aug 2026 19:19:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175906"
+  },
+  {
+    "id": "7ce48b4fb55d",
+    "title": "Stock Movers: Palantir, Wayfair, Chipotle (Podcast)",
+    "summary": "Source: Bloomberg, 4:09",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-palantir-wayfair-chipotle-podcast",
+    "published": "Tue, 04 Aug 2026 19:07:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175925"
+  },
+  {
+    "id": "bf09629fa988",
+    "title": "Balance of Power: Trump Wants Hormuz Deal Immediately (Podcast)",
+    "summary": "Source: Bloomberg, 39:20",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/balance-of-power-trump-wants-hormuz-deal-immediately-podcast",
+    "published": "Tue, 04 Aug 2026 18:42:28 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175931"
+  },
+  {
+    "id": "394b3bcc18f7",
+    "title": "Iran May Let EU Clear Mines, Chipotle Takes Jalapeños off Menu",
+    "summary": "Source: Bloomberg, 5:54",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-let-eu-clear-mines-chipotle-takes-jalapenos-off-menu",
+    "published": "Tue, 04 Aug 2026 18:03:19 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.175936"
+  },
+  {
     "id": "2544be4f8de5",
     "title": "Iran May Allow EU to Clear Mines, DOJ Monitoring Michigan Polls",
     "summary": "Source: Bloomberg, 5:54",
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-allow-eu-to-clear-mines-doj-monitoring-michigan-polls",
     "published": "Tue, 04 Aug 2026 17:17:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133050"
+    "fetched_at": "2026-08-04T19:47:59.175941"
   },
   {
     "id": "e3303987105d",
@@ -15,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-intelligence-palantir-jumps-on-outlook-podcast",
     "published": "Tue, 04 Aug 2026 16:52:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133061"
+    "fetched_at": "2026-08-04T19:47:59.175950"
   },
   {
     "id": "78bf665e8753",
@@ -24,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/record-low-rhine-river-levels-hit-europe-s-trade-arteries-as-dry-spell-continues",
     "published": "Tue, 04 Aug 2026 16:33:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133068"
+    "fetched_at": "2026-08-04T19:47:59.175956"
   },
   {
     "id": "f9cce2656110",
@@ -33,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-let-europe-clear-mines-doj-dispatches-poll-watchers",
     "published": "Tue, 04 Aug 2026 16:28:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133075"
+    "fetched_at": "2026-08-04T19:47:59.175961"
   },
   {
     "id": "113492fab40a",
@@ -42,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/fx-moment-dollar-yen-bearish-push-needs-us-data-validation-next",
     "published": "Tue, 04 Aug 2026 16:24:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133080"
+    "fetched_at": "2026-08-04T19:47:59.175967"
   },
   {
     "id": "7fed7efddbcd",
@@ -51,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/uk-bank-profits-may-be-too-tempting-for-uk-government-to-ignore",
     "published": "Tue, 04 Aug 2026 16:22:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133086"
+    "fetched_at": "2026-08-04T19:47:59.175972"
   },
   {
     "id": "7033e20634d5",
@@ -60,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/three-years-after-its-debt-restructuring-carvana-is-the-posterchild-of-lmes",
     "published": "Tue, 04 Aug 2026 16:17:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133091"
+    "fetched_at": "2026-08-04T19:47:59.175977"
   },
   {
     "id": "ac480f9d9f90",
@@ -69,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/qatar-and-us-signal-iran-progress-doj-poll-watchers-in-michigan",
     "published": "Tue, 04 Aug 2026 15:39:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133100"
+    "fetched_at": "2026-08-04T19:47:59.175982"
   },
   {
     "id": "2186b389b93f",
@@ -78,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-zebra-technologies-palantir-coherent-podcast",
     "published": "Tue, 04 Aug 2026 15:24:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133106"
+    "fetched_at": "2026-08-04T19:47:59.175987"
   },
   {
     "id": "dbd50bf6be8d",
@@ -87,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-surveillance-markets-and-fx-podcast",
     "published": "Tue, 04 Aug 2026 14:43:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133112"
+    "fetched_at": "2026-08-04T19:47:59.175992"
   },
   {
     "id": "2b0c02e165f0",
@@ -96,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/progress-signaled-on-us-iran-deal-june-job-openings-fall-more",
     "published": "Tue, 04 Aug 2026 14:36:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133118"
+    "fetched_at": "2026-08-04T19:47:59.175997"
   },
   {
     "id": "9ef905c44ec2",
@@ -105,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-wayfair-palantir-spotify-podcast",
     "published": "Tue, 04 Aug 2026 14:31:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133123"
+    "fetched_at": "2026-08-04T19:47:59.176002"
   },
   {
     "id": "366fd83d78c3",
@@ -114,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-w-mcd-cat-pltr-podcast",
     "published": "Tue, 04 Aug 2026 14:25:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133128"
+    "fetched_at": "2026-08-04T19:47:59.176007"
   },
   {
     "id": "ef0a526ee465",
@@ -123,160 +177,34 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/estimating-the-right-price-of-usd-jpy-macro-man-podcast",
     "published": "Tue, 04 Aug 2026 14:12:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133137"
-  },
-  {
-    "id": "00a89c0332e9",
-    "title": "Bloomberg Surveillance TV: August 4th, 2026 (Podcast)",
-    "summary": "Source: Bloomberg, 18:60",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-surveillance-tv-august-4th-2026-podcast",
-    "published": "Tue, 04 Aug 2026 13:56:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133142"
-  },
-  {
-    "id": "956327126674",
-    "title": "Rich Gulf States Are Going Shopping for Missile Bargains",
-    "summary": "Another round of US-Iran talks is underway. In the meantime, countries in the Gulf, which are back under attack, are looking to boost their arsenals with more budget-friendly counter-drone options.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/rich-gulf-states-are-going-shopping-for-missile-bargains",
-    "published": "Tue, 04 Aug 2026 13:55:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133147"
-  },
-  {
-    "id": "762e6f5ab997",
-    "title": "Daniel Kretinsky’s Puzzling Plan for West Ham Control",
-    "summary": "Czech billionaire Daniel Kretinsky faces boardroom battle with Amanda Staveley at London football team.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/daniel-kretinsky-s-puzzling-plan-for-west-ham-control",
-    "published": "Tue, 04 Aug 2026 13:41:53 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133152"
-  },
-  {
-    "id": "f8abb4dd2d1e",
-    "title": "Stocks Near Records, Bessent & Qatar See Hormuz Progress, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stocks-near-records-bessent-qatar-see-hormuz-progress-more",
-    "published": "Tue, 04 Aug 2026 13:39:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133157"
-  },
-  {
-    "id": "2ca9007298f0",
-    "title": "Stock Movers: MCD, CAT, PLTR (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-mcd-cat-pltr-podcast-mseor07n",
-    "published": "Tue, 04 Aug 2026 13:20:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133162"
-  },
-  {
-    "id": "26aa9e66675e",
-    "title": "Bloomberg Talks: Eric Cantor (Podcast)",
-    "summary": "Source: Bloomberg, 7:44",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-talks-eric-cantor-podcast",
-    "published": "Tue, 04 Aug 2026 13:19:43 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.133168"
-  },
-  {
-    "id": "dbc689670871",
-    "title": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
-    "summary": "Hopes for an agreement to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds climbed and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-    "published": "Mon, 03 Aug 2026 22:13:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287218"
-  },
-  {
-    "id": "79c2662e12d9",
-    "title": "Jefferies Gets New Evidence of Fake Invoices at Beleaguered Fund",
-    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund",
-    "published": "Tue, 04 Aug 2026 17:44:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287228"
-  },
-  {
-    "id": "6fc3608bc716",
-    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
-    "summary": "OPEC’s crude oil production recouped some more of its wartime losses last month with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data complicated the process of tracking the group’s output, a Bloomberg survey showed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
-    "published": "Tue, 04 Aug 2026 17:33:14 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287233"
-  },
-  {
-    "id": "fa5160342dc0",
-    "title": "AbbVie Set to Sell $10 Billion in Bonds to Fund Apogee Deal",
-    "summary": "AbbVie Inc. has launched a $10 billion investment-grade bond sale to help fund its pending acquisition of fellow drugmaker Apogee Therapeutics Inc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/abbvie-seeks-at-least-8-billion-in-debt-to-fund-apogee-deal",
-    "published": "Tue, 04 Aug 2026 13:09:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287238"
-  },
-  {
-    "id": "3b938c78e243",
-    "title": "Europe's Key Rivers are Drying Up As Extreme Heat Impact Widens",
-    "summary": "Europe’s biggest rivers are drying up after a series of heat waves. That’s disrupting the transport of goods and curbing power generation across the continent, Rachel Graham explains (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/europe-s-key-rivers-are-drying-up-video",
-    "published": "Tue, 04 Aug 2026 17:15:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287244"
-  },
-  {
-    "id": "2af6eee13b9a",
-    "title": "Novo Nordisk Slides as Forecast Boost Fails to Impress",
-    "summary": "Novo Nordisk A/S raised its forecasts for the second time this year, citing higher expectations for its obesity and diabetes drug sales, though the magnitude of the increase failed to impress investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287249"
-  },
-  {
-    "id": "1736896af565",
-    "title": "Griffin’s NYC Office Tower Set to Land $3.3 Billion Construction Loan",
-    "summary": "The team working on Citadel’s new Manhattan skyscraper expects to secure a $3.3 billion construction loan for the project.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/griffin-s-nyc-office-tower-set-to-land-3-3-billion-construction-loan",
-    "published": "Tue, 04 Aug 2026 17:00:17 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287254"
-  },
-  {
-    "id": "f992ed62b013",
-    "title": "McDonald’s Replaces US Boss After Slowest Growth in Over a Year",
-    "summary": "McDonald’s Corp. named a new US president to bring “focus and urgency” to its home market, after the fast-food chain posted its slowest growth in over a year. Bloomberg's Michael Halen joins to discuss this as well as how Taco Bell's parent company, Yum! Brands, was in touch with Michigan health authorities about a parasitic outbreak in early July, weeks before the company officially alerted consumers. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/mcdonald-s-replaces-us-boss-after-slow-growth-video",
-    "published": "Tue, 04 Aug 2026 16:53:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287259"
+    "fetched_at": "2026-08-04T19:47:59.176012"
   },
   {
     "id": "93668dfd9160",
     "title": "Latest Oil Market News and Analysis for Aug. 4",
-    "summary": "Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to a deal to reopen the vital Strait of Hormuz chokepoint.",
+    "summary": "Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to an agreement that would reopen the vital Strait of Hormuz chokepoint.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4",
     "published": "Mon, 03 Aug 2026 22:01:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287264"
+    "fetched_at": "2026-08-04T19:47:59.407782"
   },
   {
-    "id": "da8fc00a8e4b",
-    "title": "El problema del yen ya preocupa también a Estados Unidos",
-    "summary": "El yen japonés se fortaleció con fuerza después de que el gobierno estadounidense interviniera en el mercado cambiario. Pero, ¿por qué la moneda estaba tan débil y qué hay detrás de esa decisión? (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/el-problema-del-yen-ya-preocupa-tambien-a-ee-uu-video",
-    "published": "Tue, 04 Aug 2026 16:31:27 GMT",
+    "id": "6c75bbedf79b",
+    "title": "Jefferies Gets New Evidence of Fake Invoices at Troubled Fund",
+    "summary": "Jeffries has found new evidence that invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are fake. This discovery comes after Jeffries was already reviewing its exposure to iron ore trader Radiant World, after reports that documents provided to financers were not valid. Bloomberg's Sri Natarajan reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-video",
+    "published": "Tue, 04 Aug 2026 19:29:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287273"
+    "fetched_at": "2026-08-04T19:47:59.407796"
   },
   {
-    "id": "db64bdbeef0f",
-    "title": "Hellman & Friedman’s Baker Tilly Calls Off $3 Billion Debt Deal",
-    "summary": "Baker Tilly has dropped plans for a roughly $3 billion leveraged loan that was intended to refinance private credit debt and fund a dividend, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/hellman-friedman-s-baker-tilly-calls-off-3-billion-debt-deal",
-    "published": "Tue, 04 Aug 2026 16:16:58 GMT",
+    "id": "912dd1a77849",
+    "title": "Wayfair Sees Momentum as Stores, High-End Goods Draw Consumers",
+    "summary": "Kate Gulliver, CFO at Wayfair, said that the momentum the furniture company is seeing is the result of initiatives building up over time as Wayfair tries to improve the customer experience. Gulliver also discussed what kind of consumers are buying from Wayfair. She said that the company is seeing momentum from the higher-end consumer with the inclusion of a premium brand 'Perigold' and is drawing in new customers with brick-and-mortar stores.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/wayfair-sees-momentum-with-stores-high-end-goods-video",
+    "published": "Tue, 04 Aug 2026 19:25:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287278"
+    "fetched_at": "2026-08-04T19:47:59.407801"
   },
   {
     "id": "98d5bfcd71dc",
@@ -285,43 +213,61 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/treasuries-rise-as-falling-oil-prices-trim-fed-rate-hike-wagers",
     "published": "Tue, 04 Aug 2026 15:00:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287283"
+    "fetched_at": "2026-08-04T19:47:59.407807"
   },
   {
-    "id": "326ed79b50ee",
-    "title": "European Stocks Close at Record on Upbeat Earnings, Mining Rally",
-    "summary": "European stocks hit a record high, boosted by another strong set of earnings, a rally in mining shares and optimism that a Middle East truce will be reached soon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/european-stocks-scale-record-highs-as-upbeat-earnings-lift-mood",
-    "published": "Tue, 04 Aug 2026 07:22:23 GMT",
+    "id": "c2a8b2112daf",
+    "title": "Jefferies Gets Evidence of Fake Invoices at Trouble Fund",
+    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter. Sapphire Minmetals denies the \"rumors.\" Bloomberg's Sridhar Natarajan reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/jefferies-gets-evidence-of-fake-invoices-at-trouble-fund-video",
+    "published": "Tue, 04 Aug 2026 19:20:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287288"
+    "fetched_at": "2026-08-04T19:47:59.407811"
   },
   {
-    "id": "ae84eedd9a4f",
-    "title": "SpaceX Is Wall Street’s Frothiest Trade: Sloan",
-    "summary": "Short-sellers are making a massive bet against SpaceX. Bob Sloan S3 Partners Founder & Managing Partner calls it one of the frothiest trades the market has ever seen. He joins Bloomberg Open Interest to explain why bears are already billions of dollars ahead, what could trigger a short squeeze, and whether the broader market is finally losing its speculative excess. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-is-wall-street-s-frothiest-trade-sloan-video",
-    "published": "Tue, 04 Aug 2026 15:49:23 GMT",
+    "id": "b4e70490d0bd",
+    "title": "AI’s Great Reverse Run On The Bank",
+    "summary": "When people run towards the source of panic.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/ai-s-great-reverse-run-on-the-bank",
+    "published": "Tue, 04 Aug 2026 19:02:23 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287294"
+    "fetched_at": "2026-08-04T19:47:59.407816"
   },
   {
-    "id": "07c89923c03a",
-    "title": "AI Trade Is In ‘Kindness of Strangers’ Phase, Says One CIO",
-    "summary": "If investors are still harboring major worries about the disappearing cash flows at some Big Tech companies, you’d never know it by looking at the US stock market that’s once again trading near record highs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-trade-has-entered-kindness-of-strangers-phase-says-one-cio",
-    "published": "Tue, 04 Aug 2026 14:03:01 GMT",
+    "id": "99c610dced3d",
+    "title": "AI Boom Is ‘Trickling Down’ to Old-Line Stocks, Wells Fargo Says",
+    "summary": "The flood of AI spending by big tech companies is “trickling down to the broader economy,” according to Wells Fargo &amp; Co., which says that’s poised to push up industrial stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-boom-is-trickling-down-to-old-line-stocks-wells-fargo-says",
+    "published": "Tue, 04 Aug 2026 19:02:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287299"
+    "fetched_at": "2026-08-04T19:47:59.407821"
   },
   {
-    "id": "7c236eab5c95",
-    "title": "Crop Trader ADM Raises 2026 Outlook as Biofuels Drive Growth",
-    "summary": "Archer-Daniels-Midland Co. raised its 2026 profit outlook for a second time, as the crop trader increasingly looks to biofuels as a major driver of growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/crop-trader-adm-raises-profit-outlook-as-biofuels-drive-growth",
-    "published": "Tue, 04 Aug 2026 10:19:20 GMT",
+    "id": "dbc689670871",
+    "title": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
+    "summary": "Hopes for an agreement to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds climbed and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
+    "published": "Mon, 03 Aug 2026 22:13:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287304"
+    "fetched_at": "2026-08-04T19:47:59.407826"
+  },
+  {
+    "id": "da8fc00a8e4b",
+    "title": "El problema del yen ya preocupa también a Estados Unidos",
+    "summary": "El yen japonés se fortaleció con fuerza después de que el gobierno estadounidense interviniera en el mercado cambiario. Pero, ¿por qué la moneda estaba tan débil y qué hay detrás de esa decisión? (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/el-problema-del-yen-ya-preocupa-tambien-a-ee-uu-video",
+    "published": "Tue, 04 Aug 2026 16:31:27 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407831"
+  },
+  {
+    "id": "f7b55bb0aa90",
+    "title": "Codelco Halts Expansion Work at Top Mine on New Seismic Risk",
+    "summary": "Codelco is suspending work on a project designed to extend the life of its biggest copper mine in Chile after identifying a new source of seismic risk a year after a rock burst killed six workers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/codelco-halts-expansion-project-at-top-mine-on-new-seismic-risk",
+    "published": "Tue, 04 Aug 2026 17:54:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407835"
   },
   {
     "id": "a9e4521e28f1",
@@ -330,33 +276,87 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/spacex-s-first-earnings-offer-a-chance-to-reverse-stock-s-plunge",
     "published": "Tue, 04 Aug 2026 08:26:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287309"
+    "fetched_at": "2026-08-04T19:47:59.407843"
   },
   {
-    "id": "d484c7aece0e",
-    "title": "Emerging Market Assets Gain as Oil Drops to About $80 Per Barrel",
-    "summary": "The indexes for emerging-market currencies and stocks advanced on Tuesday, rebounding from an earlier selloff amid optimism the US and Iran are nearing a deal to restart peace talks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/emerging-markets-stay-under-pressure-as-iran-impasse-lifts-oil",
-    "published": "Tue, 04 Aug 2026 10:34:56 GMT",
+    "id": "ca9a951964de",
+    "title": "'Inevitable' US, Iran Will See More Volatility In Coming Months, Says Suzanne Maloney",
+    "summary": "Suzanne Maloney, vice president and director for foreign policy at The Brookings Institution, said that she expects volatility between the US and Iran to continue in the coming months regardless of whether or not the countries reach a deal on the Strait of Hormuz and that volatility will be a 'function of Persian Gulf economics for the foreseeable future.' Maloney also weighed in on the US weapons stockpile, saying that she believes that the availability of munitions has been driving strategic decision making for some time.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/-inevitable-us-iran-will-see-more-volatility-maloney-video",
+    "published": "Tue, 04 Aug 2026 18:38:06 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287314"
+    "fetched_at": "2026-08-04T19:47:59.407848"
   },
   {
-    "id": "f86e76aa0354",
-    "title": "South Africa Seeks Advisers for Creditor Talks on Eskom Spin Off",
-    "summary": "South Africa will hire advisers in the coming weeks to begin negotiations with lenders on a plan to spin off state-owned power utility Eskom Holdings SOC Ltd.’s transmission subsidiary, according to the head of the National Treasury.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/south-africa-seeks-advisers-for-creditor-talks-on-eskom-spin-off",
-    "published": "Tue, 04 Aug 2026 15:05:04 GMT",
+    "id": "7726650140bb",
+    "title": "Sundial’s Richelieu Dennis on Revolt Stake, Essence Fest",
+    "summary": "Bloomberg's Romaine Bosick sits down with Richelieu Dennis, Founder and Chair of The Sundial Group of Companies, as his brand Essence Ventures makes a strategic investment in Revolt's parent company, Offscript Worldwide. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+    "published": "Tue, 04 Aug 2026 18:31:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287319"
+    "fetched_at": "2026-08-04T19:47:59.407853"
   },
   {
-    "id": "89533be07e78",
-    "title": "Bloomberg Surveillance 8/4/2026",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-surveillance-8-4-2026-video",
-    "published": "Tue, 04 Aug 2026 15:01:12 GMT",
+    "id": "6df069fd6eb4",
+    "title": "Copper Tops $14,000 as US Stockpiles Swell Before Tariff Call",
+    "summary": "Copper advanced to its highest level since mid-May, topping $14,000 a ton in London, as traders monitored ballooning volumes held in the US ahead of an expected decision on an import tariff by President Donald Trump.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+    "published": "Tue, 04 Aug 2026 06:24:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-04T17:57:36.287324"
+    "fetched_at": "2026-08-04T19:47:59.407858"
+  },
+  {
+    "id": "2af6eee13b9a",
+    "title": "Wegovy Pill Sales Don’t Live Up to Wall Street Obesity Hype",
+    "summary": "Novo Nordisk A/S raised its forecasts for the second time this year on a rosy outlook for its obesity and diabetes drugs, though the firm’s US shares fell as sales of the new Wegovy weight-loss pill failed to top analysts’ expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
+    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407863"
+  },
+  {
+    "id": "59f0b90febff",
+    "title": "Thoma Bravo Sells Majority Stake in Command Alkon to Francisco Partners",
+    "summary": "Buyout firm Francisco Partners has agreed to acquire a majority stake in construction software maker Command Alkon Inc. from Thoma Bravo, underscoring investor interest in software crucial to specific industries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/thoma-bravo-sells-majority-stake-in-command-alkon-to-francisco-partners",
+    "published": "Tue, 04 Aug 2026 17:56:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407869"
+  },
+  {
+    "id": "f02530548f0b",
+    "title": "Bloomberg News Now",
+    "summary": "Bloomberg News Now \n-u.s. says strait of hormuz deal could come within days\n-oil drops on besant comments as markets rally\n-semiconductor stocks surge, palantir jumps 25%\n-white house hosts ai firms on voluntary safety tests\n-anthropic signs $10b compute deal with volta infra\n-polymarket seeks $20b valuation in new funding round\n-spacex set to report first post‑ipo earnings\n-senate panel advances blanchard for attorney general\n-trade deficit widens as imports fall\n-fed’s paulson keeps open mind on rate path\n-doj monitors polling sites in michigan primary (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-news-now-video-mseykvsn",
+    "published": "Tue, 04 Aug 2026 17:55:21 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407873"
+  },
+  {
+    "id": "d7d98ec618c9",
+    "title": "S&P 500 Rally Faces Earnings Test | Open Interest 8/4/2026",
+    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" A new S&amp;P 500 record is in sight as earnings put the rally to the test. SpaceX and Palantir take center stage, while oil slides on hopes for a US and Iran breakthrough. Plus, Redd Brown joins us on McDonald’s leadership shakeup, Bob Sloan of S3 says SpaceX is the \"frothiest trade the market has even seen.\" Phantom CEO Jim Cantrell takes a deep dive into the space boom, and Goldman's Amanda Lynam joins us with a look at hidden credit stress. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/open-interest-8-4-2026-video",
+    "published": "Tue, 04 Aug 2026 17:47:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407878"
+  },
+  {
+    "id": "79c2662e12d9",
+    "title": "Jefferies Gets New Evidence of Fake Invoices at Beleaguered Fund",
+    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund",
+    "published": "Tue, 04 Aug 2026 17:44:16 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407883"
+  },
+  {
+    "id": "6fc3608bc716",
+    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
+    "summary": "OPEC’s crude oil production recouped some more of its wartime losses last month with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data complicated the process of tracking the group’s output, a Bloomberg survey showed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
+    "published": "Tue, 04 Aug 2026 17:33:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-04T19:47:59.407888"
   }
 ]

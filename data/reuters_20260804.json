@@ -1,13 +1,73 @@
 [
   {
+    "id": "ef6fcfec41f7",
+    "title": "Bloomberg Talks: API CEO Mike Sommers (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 8:18",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-talks-api-ceo-mike-sommers-podcast",
+    "published": "Tue, 04 Aug 2026 19:34:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.031459"
+  },
+  {
+    "id": "e864edc84aae",
+    "title": "Bloomberg Tech: Palantir's Strong Commercial Demand (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 43:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-tech-palantir-s-strong-commercial-demand-podcast",
+    "published": "Tue, 04 Aug 2026 19:21:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.111193"
+  },
+  {
+    "id": "6ddfbeacb8ca",
+    "title": "Qatar: Interim Deal Drafted, Report: Parasite Outbreak Expanded",
+    "title_cn": "卡塔尔：起草临时协议，报告：寄生虫疫情扩大",
+    "summary": "Source: Bloomberg, 6:01",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/qatar-interim-deal-drafted-report-parasite-outbreak-expanded",
+    "published": "Tue, 04 Aug 2026 19:19:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.216124"
+  },
+  {
+    "id": "7ce48b4fb55d",
+    "title": "Stock Movers: Palantir, Wayfair, Chipotle (Podcast)",
+    "title_cn": "库存搬运商：Palantir、Wayfair、Chipotle（播客）",
+    "summary": "Source: Bloomberg, 4:09",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-palantir-wayfair-chipotle-podcast",
+    "published": "Tue, 04 Aug 2026 19:07:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.321289"
+  },
+  {
+    "id": "bf09629fa988",
+    "title": "Balance of Power: Trump Wants Hormuz Deal Immediately (Podcast)",
+    "title_cn": "权力平衡：特朗普希望立即达成霍尔木兹协议（播客）",
+    "summary": "Source: Bloomberg, 39:20",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/balance-of-power-trump-wants-hormuz-deal-immediately-podcast",
+    "published": "Tue, 04 Aug 2026 18:42:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.461545"
+  },
+  {
+    "id": "394b3bcc18f7",
+    "title": "Iran May Let EU Clear Mines, Chipotle Takes Jalapeños off Menu",
+    "title_cn": "伊朗可能允许欧盟清除地雷，Chipotle 将墨西哥辣椒从菜单中剔除",
+    "summary": "Source: Bloomberg, 5:54",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-let-eu-clear-mines-chipotle-takes-jalapenos-off-menu",
+    "published": "Tue, 04 Aug 2026 18:03:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:44.570533"
+  },
+  {
     "id": "2544be4f8de5",
     "title": "Iran May Allow EU to Clear Mines, DOJ Monitoring Michigan Polls",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "伊朗可能允许欧盟清除地雷，司法部监视密歇根州民意调查",
     "summary": "Source: Bloomberg, 5:54",
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-allow-eu-to-clear-mines-doj-monitoring-michigan-polls",
     "published": "Tue, 04 Aug 2026 17:17:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:24.559196"
+    "fetched_at": "2026-08-04T19:47:44.685423"
   },
   {
     "id": "e3303987105d",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-intelligence-palantir-jumps-on-outlook-podcast",
     "published": "Tue, 04 Aug 2026 16:52:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:24.873655"
+    "fetched_at": "2026-08-04T19:47:44.808183"
   },
   {
     "id": "78bf665e8753",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/record-low-rhine-river-levels-hit-europe-s-trade-arteries-as-dry-spell-continues",
     "published": "Tue, 04 Aug 2026 16:33:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:24.989591"
+    "fetched_at": "2026-08-04T19:47:44.923538"
   },
   {
     "id": "f9cce2656110",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/iran-may-let-europe-clear-mines-doj-dispatches-poll-watchers",
     "published": "Tue, 04 Aug 2026 16:28:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.096333"
+    "fetched_at": "2026-08-04T19:47:45.043510"
   },
   {
     "id": "113492fab40a",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/fx-moment-dollar-yen-bearish-push-needs-us-data-validation-next",
     "published": "Tue, 04 Aug 2026 16:24:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.246292"
+    "fetched_at": "2026-08-04T19:47:45.139967"
   },
   {
     "id": "7fed7efddbcd",
@@ -57,17 +117,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/uk-bank-profits-may-be-too-tempting-for-uk-government-to-ignore",
     "published": "Tue, 04 Aug 2026 16:22:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.349695"
+    "fetched_at": "2026-08-04T19:47:45.247791"
   },
   {
     "id": "7033e20634d5",
     "title": "Three Years After Its Debt Restructuring, Carvana Is the Posterchild of LMEs",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "债务重组三年后，Carvana 成为 LME 的典范",
     "summary": "Online car retailer bucks a trend of companies struggling after out-of-court restructurings",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/three-years-after-its-debt-restructuring-carvana-is-the-posterchild-of-lmes",
     "published": "Tue, 04 Aug 2026 16:17:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.426358"
+    "fetched_at": "2026-08-04T19:47:45.377416"
   },
   {
     "id": "ac480f9d9f90",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/qatar-and-us-signal-iran-progress-doj-poll-watchers-in-michigan",
     "published": "Tue, 04 Aug 2026 15:39:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.528519"
+    "fetched_at": "2026-08-04T19:47:45.492305"
   },
   {
     "id": "2186b389b93f",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-zebra-technologies-palantir-coherent-podcast",
     "published": "Tue, 04 Aug 2026 15:24:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.632259"
+    "fetched_at": "2026-08-04T19:47:45.609747"
   },
   {
     "id": "dbd50bf6be8d",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-surveillance-markets-and-fx-podcast",
     "published": "Tue, 04 Aug 2026 14:43:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.762987"
+    "fetched_at": "2026-08-04T19:47:45.738720"
   },
   {
     "id": "2b0c02e165f0",
@@ -107,17 +167,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/progress-signaled-on-us-iran-deal-june-job-openings-fall-more",
     "published": "Tue, 04 Aug 2026 14:36:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.844804"
+    "fetched_at": "2026-08-04T19:47:45.832364"
   },
   {
     "id": "9ef905c44ec2",
     "title": "Stock Movers: Wayfair, Palantir, Spotify (Podcast)",
-    "title_cn": "股票推动者：Wayfair、Palantir、Spotify（播客）",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-wayfair-palantir-spotify-podcast",
     "published": "Tue, 04 Aug 2026 14:31:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:25.936728"
+    "fetched_at": "2026-08-04T19:47:45.922636"
   },
   {
     "id": "366fd83d78c3",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-w-mcd-cat-pltr-podcast",
     "published": "Tue, 04 Aug 2026 14:25:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.040968"
+    "fetched_at": "2026-08-04T19:47:46.038437"
   },
   {
     "id": "ef0a526ee465",
@@ -137,177 +197,37 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-04/estimating-the-right-price-of-usd-jpy-macro-man-podcast",
     "published": "Tue, 04 Aug 2026 14:12:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.125937"
-  },
-  {
-    "id": "00a89c0332e9",
-    "title": "Bloomberg Surveillance TV: August 4th, 2026 (Podcast)",
-    "title_cn": "彭博监控电视：2026 年 8 月 4 日（播客）",
-    "summary": "Source: Bloomberg, 18:60",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-surveillance-tv-august-4th-2026-podcast",
-    "published": "Tue, 04 Aug 2026 13:56:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.255862"
-  },
-  {
-    "id": "956327126674",
-    "title": "Rich Gulf States Are Going Shopping for Missile Bargains",
-    "title_cn": "富裕的海湾国家正在购买导弹便宜货",
-    "summary": "Another round of US-Iran talks is underway. In the meantime, countries in the Gulf, which are back under attack, are looking to boost their arsenals with more budget-friendly counter-drone options.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/rich-gulf-states-are-going-shopping-for-missile-bargains",
-    "published": "Tue, 04 Aug 2026 13:55:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.392883"
-  },
-  {
-    "id": "762e6f5ab997",
-    "title": "Daniel Kretinsky’s Puzzling Plan for West Ham Control",
-    "title_cn": "丹尼尔·克雷廷斯基 (Daniel Kretinsky) 令人费解的西汉姆联控制计划",
-    "summary": "Czech billionaire Daniel Kretinsky faces boardroom battle with Amanda Staveley at London football team.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/daniel-kretinsky-s-puzzling-plan-for-west-ham-control",
-    "published": "Tue, 04 Aug 2026 13:41:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.558153"
-  },
-  {
-    "id": "f8abb4dd2d1e",
-    "title": "Stocks Near Records, Bessent & Qatar See Hormuz Progress, More",
-    "title_cn": "股票接近纪录，贝森特和卡塔尔看到霍尔木兹进展，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stocks-near-records-bessent-qatar-see-hormuz-progress-more",
-    "published": "Tue, 04 Aug 2026 13:39:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.692835"
-  },
-  {
-    "id": "2ca9007298f0",
-    "title": "Stock Movers: MCD, CAT, PLTR (Podcast)",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/stock-movers-mcd-cat-pltr-podcast-mseor07n",
-    "published": "Tue, 04 Aug 2026 13:20:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.832854"
-  },
-  {
-    "id": "26aa9e66675e",
-    "title": "Bloomberg Talks: Eric Cantor (Podcast)",
-    "title_cn": "彭博社谈话：埃里克·坎托（播客）",
-    "summary": "Source: Bloomberg, 7:44",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-talks-eric-cantor-podcast",
-    "published": "Tue, 04 Aug 2026 13:19:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:26.932626"
-  },
-  {
-    "id": "dbc689670871",
-    "title": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
-    "title_cn": "霍尔木兹交易推动标普 500 指数创历史新高：市场结束",
-    "summary": "Hopes for an agreement to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds climbed and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
-    "published": "Mon, 03 Aug 2026 22:13:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.300466"
-  },
-  {
-    "id": "79c2662e12d9",
-    "title": "Jefferies Gets New Evidence of Fake Invoices at Beleaguered Fund",
-    "title_cn": "杰富瑞在陷入困境的基金中获得了虚假发票的新证据",
-    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund",
-    "published": "Tue, 04 Aug 2026 17:44:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.399594"
-  },
-  {
-    "id": "6fc3608bc716",
-    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
-    "title_cn": "调查显示，海湾国家带动 OPEC 7 月产量上升",
-    "summary": "OPEC’s crude oil production recouped some more of its wartime losses last month with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data complicated the process of tracking the group’s output, a Bloomberg survey showed.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
-    "published": "Tue, 04 Aug 2026 17:33:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.500584"
-  },
-  {
-    "id": "fa5160342dc0",
-    "title": "AbbVie Set to Sell $10 Billion in Bonds to Fund Apogee Deal",
-    "title_cn": "艾伯维 (AbbVie) 将出售 100 亿美元债券为 Apogee 交易提供资金",
-    "summary": "AbbVie Inc. has launched a $10 billion investment-grade bond sale to help fund its pending acquisition of fellow drugmaker Apogee Therapeutics Inc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/abbvie-seeks-at-least-8-billion-in-debt-to-fund-apogee-deal",
-    "published": "Tue, 04 Aug 2026 13:09:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.635023"
-  },
-  {
-    "id": "3b938c78e243",
-    "title": "Europe's Key Rivers are Drying Up As Extreme Heat Impact Widens",
-    "title_cn": "随着极端热影响的扩大，欧洲的主要河流正在干涸",
-    "summary": "Europe’s biggest rivers are drying up after a series of heat waves. That’s disrupting the transport of goods and curbing power generation across the continent, Rachel Graham explains (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/europe-s-key-rivers-are-drying-up-video",
-    "published": "Tue, 04 Aug 2026 17:15:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.710202"
-  },
-  {
-    "id": "2af6eee13b9a",
-    "title": "Novo Nordisk Slides as Forecast Boost Fails to Impress",
-    "title_cn": "诺和诺德因预测提振未能给人留下深刻印象而下滑",
-    "summary": "Novo Nordisk A/S raised its forecasts for the second time this year, citing higher expectations for its obesity and diabetes drug sales, though the magnitude of the increase failed to impress investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.828311"
-  },
-  {
-    "id": "1736896af565",
-    "title": "Griffin’s NYC Office Tower Set to Land $3.3 Billion Construction Loan",
-    "title_cn": "格里芬纽约办公大楼将获得 33 亿美元的建筑贷款",
-    "summary": "The team working on Citadel’s new Manhattan skyscraper expects to secure a $3.3 billion construction loan for the project.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/griffin-s-nyc-office-tower-set-to-land-3-3-billion-construction-loan",
-    "published": "Tue, 04 Aug 2026 17:00:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:27.939227"
-  },
-  {
-    "id": "f992ed62b013",
-    "title": "McDonald’s Replaces US Boss After Slowest Growth in Over a Year",
-    "title_cn": "麦当劳在经历一年多以来的最慢增长后更换了美国老板",
-    "summary": "McDonald’s Corp. named a new US president to bring “focus and urgency” to its home market, after the fast-food chain posted its slowest growth in over a year. Bloomberg's Michael Halen joins to discuss this as well as how Taco Bell's parent company, Yum! Brands, was in touch with Michigan health authorities about a parasitic outbreak in early July, weeks before the company officially alerted consumers. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/mcdonald-s-replaces-us-boss-after-slow-growth-video",
-    "published": "Tue, 04 Aug 2026 16:53:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.024941"
+    "fetched_at": "2026-08-04T19:47:46.139202"
   },
   {
     "id": "93668dfd9160",
     "title": "Latest Oil Market News and Analysis for Aug. 4",
     "title_cn": "8 月 4 日最新石油市场新闻和分析",
-    "summary": "Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to a deal to reopen the vital Strait of Hormuz chokepoint.",
+    "summary": "Oil slid to the lowest in over three weeks as optimism grew that the US and Iran are moving closer to an agreement that would reopen the vital Strait of Hormuz chokepoint.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4",
     "published": "Mon, 03 Aug 2026 22:01:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.117371"
+    "fetched_at": "2026-08-04T19:47:46.482467"
   },
   {
-    "id": "da8fc00a8e4b",
-    "title": "El problema del yen ya preocupa también a Estados Unidos",
-    "title_cn": "日元问题也已经让美国担忧",
-    "summary": "El yen japonés se fortaleció con fuerza después de que el gobierno estadounidense interviniera en el mercado cambiario. Pero, ¿por qué la moneda estaba tan débil y qué hay detrás de esa decisión? (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/el-problema-del-yen-ya-preocupa-tambien-a-ee-uu-video",
-    "published": "Tue, 04 Aug 2026 16:31:27 GMT",
+    "id": "6c75bbedf79b",
+    "title": "Jefferies Gets New Evidence of Fake Invoices at Troubled Fund",
+    "title_cn": "杰富瑞获得问题基金伪造发票的新证据",
+    "summary": "Jeffries has found new evidence that invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are fake. This discovery comes after Jeffries was already reviewing its exposure to iron ore trader Radiant World, after reports that documents provided to financers were not valid. Bloomberg's Sri Natarajan reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-video",
+    "published": "Tue, 04 Aug 2026 19:29:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.232552"
+    "fetched_at": "2026-08-04T19:47:46.599077"
   },
   {
-    "id": "db64bdbeef0f",
-    "title": "Hellman & Friedman’s Baker Tilly Calls Off $3 Billion Debt Deal",
-    "title_cn": "Hellman & Friedman 的 Baker Tilly 取消了 30 亿美元的债务交易",
-    "summary": "Baker Tilly has dropped plans for a roughly $3 billion leveraged loan that was intended to refinance private credit debt and fund a dividend, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/hellman-friedman-s-baker-tilly-calls-off-3-billion-debt-deal",
-    "published": "Tue, 04 Aug 2026 16:16:58 GMT",
+    "id": "912dd1a77849",
+    "title": "Wayfair Sees Momentum as Stores, High-End Goods Draw Consumers",
+    "title_cn": "Wayfair 看到商店和高端商品吸引消费者的势头",
+    "summary": "Kate Gulliver, CFO at Wayfair, said that the momentum the furniture company is seeing is the result of initiatives building up over time as Wayfair tries to improve the customer experience. Gulliver also discussed what kind of consumers are buying from Wayfair. She said that the company is seeing momentum from the higher-end consumer with the inclusion of a premium brand 'Perigold' and is drawing in new customers with brick-and-mortar stores.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/wayfair-sees-momentum-with-stores-high-end-goods-video",
+    "published": "Tue, 04 Aug 2026 19:25:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.362517"
+    "fetched_at": "2026-08-04T19:47:46.709686"
   },
   {
     "id": "98d5bfcd71dc",
@@ -317,47 +237,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/treasuries-rise-as-falling-oil-prices-trim-fed-rate-hike-wagers",
     "published": "Tue, 04 Aug 2026 15:00:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.456971"
+    "fetched_at": "2026-08-04T19:47:46.818887"
   },
   {
-    "id": "326ed79b50ee",
-    "title": "European Stocks Close at Record on Upbeat Earnings, Mining Rally",
-    "title_cn": "欧洲股市收盘创历史新高，因盈利乐观、矿业反弹",
-    "summary": "European stocks hit a record high, boosted by another strong set of earnings, a rally in mining shares and optimism that a Middle East truce will be reached soon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/european-stocks-scale-record-highs-as-upbeat-earnings-lift-mood",
-    "published": "Tue, 04 Aug 2026 07:22:23 GMT",
+    "id": "c2a8b2112daf",
+    "title": "Jefferies Gets Evidence of Fake Invoices at Trouble Fund",
+    "title_cn": "杰富瑞集团获得麻烦基金伪造发票的证据",
+    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter. Sapphire Minmetals denies the \"rumors.\" Bloomberg's Sridhar Natarajan reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/jefferies-gets-evidence-of-fake-invoices-at-trouble-fund-video",
+    "published": "Tue, 04 Aug 2026 19:20:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.543453"
+    "fetched_at": "2026-08-04T19:47:46.924954"
   },
   {
-    "id": "ae84eedd9a4f",
-    "title": "SpaceX Is Wall Street’s Frothiest Trade: Sloan",
-    "title_cn": "SpaceX 是华尔街最泡沫的交易：斯隆",
-    "summary": "Short-sellers are making a massive bet against SpaceX. Bob Sloan S3 Partners Founder & Managing Partner calls it one of the frothiest trades the market has ever seen. He joins Bloomberg Open Interest to explain why bears are already billions of dollars ahead, what could trigger a short squeeze, and whether the broader market is finally losing its speculative excess. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-is-wall-street-s-frothiest-trade-sloan-video",
-    "published": "Tue, 04 Aug 2026 15:49:23 GMT",
+    "id": "b4e70490d0bd",
+    "title": "AI’s Great Reverse Run On The Bank",
+    "title_cn": "人工智能对银行的大逆转",
+    "summary": "When people run towards the source of panic.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/ai-s-great-reverse-run-on-the-bank",
+    "published": "Tue, 04 Aug 2026 19:02:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.641383"
+    "fetched_at": "2026-08-04T19:47:47.017786"
   },
   {
-    "id": "07c89923c03a",
-    "title": "AI Trade Is In ‘Kindness of Strangers’ Phase, Says One CIO",
-    "title_cn": "一位首席信息官表示，人工智能贸易正处于“陌生人的善意”阶段",
-    "summary": "If investors are still harboring major worries about the disappearing cash flows at some Big Tech companies, you’d never know it by looking at the US stock market that’s once again trading near record highs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-trade-has-entered-kindness-of-strangers-phase-says-one-cio",
-    "published": "Tue, 04 Aug 2026 14:03:01 GMT",
+    "id": "99c610dced3d",
+    "title": "AI Boom Is ‘Trickling Down’ to Old-Line Stocks, Wells Fargo Says",
+    "title_cn": "富国银行表示，人工智能热潮正在“渗透”到老股股票",
+    "summary": "The flood of AI spending by big tech companies is “trickling down to the broader economy,” according to Wells Fargo &amp; Co., which says that’s poised to push up industrial stocks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-boom-is-trickling-down-to-old-line-stocks-wells-fargo-says",
+    "published": "Tue, 04 Aug 2026 19:02:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.735829"
+    "fetched_at": "2026-08-04T19:47:47.129869"
   },
   {
-    "id": "7c236eab5c95",
-    "title": "Crop Trader ADM Raises 2026 Outlook as Biofuels Drive Growth",
-    "title_cn": "Crop Trader ADM 上调 2026 年展望，生物燃料推动增长",
-    "summary": "Archer-Daniels-Midland Co. raised its 2026 profit outlook for a second time, as the crop trader increasingly looks to biofuels as a major driver of growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/crop-trader-adm-raises-profit-outlook-as-biofuels-drive-growth",
-    "published": "Tue, 04 Aug 2026 10:19:20 GMT",
+    "id": "dbc689670871",
+    "title": "S&P 500 Set for All-Time Highs on Hormuz Deal Push: Markets Wrap",
+    "title_cn": "霍尔木兹交易推动标普 500 指数创历史新高：市场结束",
+    "summary": "Hopes for an agreement to revive the Strait of Hormuz lifted stocks toward all-time highs, bonds climbed and oil sank, with Wall Street’s enthusiasm also fueled by a batch of solid corporate earnings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
+    "published": "Mon, 03 Aug 2026 22:13:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.834093"
+    "fetched_at": "2026-08-04T19:47:47.234819"
+  },
+  {
+    "id": "da8fc00a8e4b",
+    "title": "El problema del yen ya preocupa también a Estados Unidos",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "El yen japonés se fortaleció con fuerza después de que el gobierno estadounidense interviniera en el mercado cambiario. Pero, ¿por qué la moneda estaba tan débil y qué hay detrás de esa decisión? (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/el-problema-del-yen-ya-preocupa-tambien-a-ee-uu-video",
+    "published": "Tue, 04 Aug 2026 16:31:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:47.326235"
+  },
+  {
+    "id": "f7b55bb0aa90",
+    "title": "Codelco Halts Expansion Work at Top Mine on New Seismic Risk",
+    "title_cn": "由于新的地震风险，Codelco 停止了顶矿的扩建工作",
+    "summary": "Codelco is suspending work on a project designed to extend the life of its biggest copper mine in Chile after identifying a new source of seismic risk a year after a rock burst killed six workers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/codelco-halts-expansion-project-at-top-mine-on-new-seismic-risk",
+    "published": "Tue, 04 Aug 2026 17:54:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:48.463769"
   },
   {
     "id": "a9e4521e28f1",
@@ -367,37 +307,227 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/spacex-s-first-earnings-offer-a-chance-to-reverse-stock-s-plunge",
     "published": "Tue, 04 Aug 2026 08:26:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:28.949171"
+    "fetched_at": "2026-08-04T19:47:48.591475"
   },
   {
-    "id": "d484c7aece0e",
-    "title": "Emerging Market Assets Gain as Oil Drops to About $80 Per Barrel",
-    "title_cn": "随着油价跌至每桶 80 美元左右，新兴市场资产上涨",
-    "summary": "The indexes for emerging-market currencies and stocks advanced on Tuesday, rebounding from an earlier selloff amid optimism the US and Iran are nearing a deal to restart peace talks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/emerging-markets-stay-under-pressure-as-iran-impasse-lifts-oil",
-    "published": "Tue, 04 Aug 2026 10:34:56 GMT",
+    "id": "ca9a951964de",
+    "title": "'Inevitable' US, Iran Will See More Volatility In Coming Months, Says Suzanne Maloney",
+    "title_cn": "苏珊娜·马洛尼表示，未来几个月美国和伊朗“不可避免”将出现更多波动",
+    "summary": "Suzanne Maloney, vice president and director for foreign policy at The Brookings Institution, said that she expects volatility between the US and Iran to continue in the coming months regardless of whether or not the countries reach a deal on the Strait of Hormuz and that volatility will be a 'function of Persian Gulf economics for the foreseeable future.' Maloney also weighed in on the US weapons stockpile, saying that she believes that the availability of munitions has been driving strategic decision making for some time.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/-inevitable-us-iran-will-see-more-volatility-maloney-video",
+    "published": "Tue, 04 Aug 2026 18:38:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.046681"
+    "fetched_at": "2026-08-04T19:47:48.717852"
   },
   {
-    "id": "f86e76aa0354",
-    "title": "South Africa Seeks Advisers for Creditor Talks on Eskom Spin Off",
-    "title_cn": "南非为 Eskom 分拆债权人谈判寻求顾问",
-    "summary": "South Africa will hire advisers in the coming weeks to begin negotiations with lenders on a plan to spin off state-owned power utility Eskom Holdings SOC Ltd.’s transmission subsidiary, according to the head of the National Treasury.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/south-africa-seeks-advisers-for-creditor-talks-on-eskom-spin-off",
-    "published": "Tue, 04 Aug 2026 15:05:04 GMT",
+    "id": "7726650140bb",
+    "title": "Sundial’s Richelieu Dennis on Revolt Stake, Essence Fest",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Bloomberg's Romaine Bosick sits down with Richelieu Dennis, Founder and Chair of The Sundial Group of Companies, as his brand Essence Ventures makes a strategic investment in Revolt's parent company, Offscript Worldwide. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/sundial-s-richelieu-dennis-on-revolt-stake-essence-fest-video",
+    "published": "Tue, 04 Aug 2026 18:31:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.142547"
+    "fetched_at": "2026-08-04T19:47:48.795672"
   },
   {
-    "id": "89533be07e78",
-    "title": "Bloomberg Surveillance 8/4/2026",
-    "title_cn": "彭博社监测 2026 年 8 月 4 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-surveillance-8-4-2026-video",
-    "published": "Tue, 04 Aug 2026 15:01:12 GMT",
+    "id": "6df069fd6eb4",
+    "title": "Copper Tops $14,000 as US Stockpiles Swell Before Tariff Call",
+    "title_cn": "关税呼吁前美国库存激增，铜价突破 14,000 美元",
+    "summary": "Copper advanced to its highest level since mid-May, topping $14,000 a ton in London, as traders monitored ballooning volumes held in the US ahead of an expected decision on an import tariff by President Donald Trump.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/copper-marches-closer-to-14-000-as-flows-to-us-tighten-market",
+    "published": "Tue, 04 Aug 2026 06:24:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.222992"
+    "fetched_at": "2026-08-04T19:47:48.941212"
+  },
+  {
+    "id": "2af6eee13b9a",
+    "title": "Wegovy Pill Sales Don’t Live Up to Wall Street Obesity Hype",
+    "title_cn": "Wegovy 药丸销售未能达到华尔街肥胖炒作的效果",
+    "summary": "Novo Nordisk A/S raised its forecasts for the second time this year on a rosy outlook for its obesity and diabetes drugs, though the firm’s US shares fell as sales of the new Wegovy weight-loss pill failed to top analysts’ expectations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
+    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.042284"
+  },
+  {
+    "id": "59f0b90febff",
+    "title": "Thoma Bravo Sells Majority Stake in Command Alkon to Francisco Partners",
+    "title_cn": "Thoma Bravo 将 Command Alkon 的多数股权出售给 Francisco Partners",
+    "summary": "Buyout firm Francisco Partners has agreed to acquire a majority stake in construction software maker Command Alkon Inc. from Thoma Bravo, underscoring investor interest in software crucial to specific industries.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/thoma-bravo-sells-majority-stake-in-command-alkon-to-francisco-partners",
+    "published": "Tue, 04 Aug 2026 17:56:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.147200"
+  },
+  {
+    "id": "f02530548f0b",
+    "title": "Bloomberg News Now",
+    "title_cn": "彭博新闻现在",
+    "summary": "Bloomberg News Now \n-u.s. says strait of hormuz deal could come within days\n-oil drops on besant comments as markets rally\n-semiconductor stocks surge, palantir jumps 25%\n-white house hosts ai firms on voluntary safety tests\n-anthropic signs $10b compute deal with volta infra\n-polymarket seeks $20b valuation in new funding round\n-spacex set to report first post‑ipo earnings\n-senate panel advances blanchard for attorney general\n-trade deficit widens as imports fall\n-fed’s paulson keeps open mind on rate path\n-doj monitors polling sites in michigan primary (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-news-now-video-mseykvsn",
+    "published": "Tue, 04 Aug 2026 17:55:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.257114"
+  },
+  {
+    "id": "d7d98ec618c9",
+    "title": "S&P 500 Rally Faces Earnings Test | Open Interest 8/4/2026",
+    "title_cn": "标准普尔 500 指数反弹面临盈利测试 |未平仓合约 8/4/2026",
+    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" A new S&amp;P 500 record is in sight as earnings put the rally to the test. SpaceX and Palantir take center stage, while oil slides on hopes for a US and Iran breakthrough. Plus, Redd Brown joins us on McDonald’s leadership shakeup, Bob Sloan of S3 says SpaceX is the \"frothiest trade the market has even seen.\" Phantom CEO Jim Cantrell takes a deep dive into the space boom, and Goldman's Amanda Lynam joins us with a look at hidden credit stress. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/open-interest-8-4-2026-video",
+    "published": "Tue, 04 Aug 2026 17:47:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.361661"
+  },
+  {
+    "id": "79c2662e12d9",
+    "title": "Jefferies Gets New Evidence of Fake Invoices at Beleaguered Fund",
+    "title_cn": "杰富瑞在陷入困境的基金中获得了虚假发票的新证据",
+    "summary": "Jefferies Financial Group Inc. has been told that some of the invoices underpinning its financing to an iron ore trader called Sapphire Minmetals Corp. are not genuine, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund",
+    "published": "Tue, 04 Aug 2026 17:44:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.460171"
+  },
+  {
+    "id": "6fc3608bc716",
+    "title": "OPEC Output Rose in July Led by Gulf Nations, Survey Shows",
+    "title_cn": "调查显示，海湾国家带动 OPEC 7 月产量上升",
+    "summary": "OPEC’s crude oil production recouped some more of its wartime losses last month with gains in Kuwait, Saudi Arabia and Iraq, though opaque shipping data complicated the process of tracking the group’s output, a Bloomberg survey showed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/opec-output-rose-in-july-led-by-gulf-nations-survey-shows",
+    "published": "Tue, 04 Aug 2026 17:33:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:49.600083"
+  },
+  {
+    "id": "1e87d8a00558",
+    "title": "Data Centers Exposed US Telecoms to China Hacks, US Panel to Say",
+    "title_cn": "美国专家组表示，美国电信数据中心面临中国黑客攻击",
+    "summary": "US telecommunications companies connected their systems to data centers and related infrastructure in a way that exposed them to cybersecurity vulnerabilities, potentially opening the door to the massive Salt Typhoon hacking campaign that breached several mobile carriers two years ago, according to an upcoming House committee’s report.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/chinese-telecom-hack-exposed-data-centers-house-report-to-say",
+    "published": "Tue, 04 Aug 2026 19:22:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:50.278083"
+  },
+  {
+    "id": "0ec6c9a1a0d1",
+    "title": "Invesco Portfolio Manager on Global Rally Gains",
+    "title_cn": "景顺投资组合经理谈全球反弹收益",
+    "summary": "As the U.S. market approaches the closing bell with the S&amp;P 500 on track for a record closing high, the discussion turns to the global nature of the current rally. Ananya Lodaya, Portfolio Manager of Global Equity at Invesco, provides insights into whether the gains seen in European markets are connected to the ongoing AI race or if they are driven by other factors. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/invesco-portfolio-manager-on-global-rally-gains-video",
+    "published": "Tue, 04 Aug 2026 19:40:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:50.400845"
+  },
+  {
+    "id": "31d498cd3719",
+    "title": "Palantir Short Sellers Take $3 Billion Hit After 30% Stock Surge",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Palantir Technologies Inc.’s stock surge has wiped out all of the year-to-date paper gains for short sellers, saddling them with billions in losses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/palantir-short-sellers-take-3-billion-hit-after-30-stock-surge",
+    "published": "Tue, 04 Aug 2026 19:20:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:50.488455"
+  },
+  {
+    "id": "6e5d4ae7d230",
+    "title": "Palantir Surges as AI Demand Accelerates | Bloomberg Tech 8/4/2026",
+    "title_cn": "随着人工智能需求的加速，Palantir 飙升 |彭博科技 2026 年 8 月 4 日",
+    "summary": "Bloomberg’s Ed Ludlow breaks down Palantir's blockbuster earnings results and strong commercial demand, with US commercial sales in the second quarter rising 149% from a year earlier. Plus, Apple exceeded $10 billion in annual sales in India for the first time last fiscal year. And, Palo Alto Networks doubles down on AI-powered cyber defense. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-tech-8-4-2026-video",
+    "published": "Tue, 04 Aug 2026 19:07:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:51.694642"
+  },
+  {
+    "id": "6b23e28103da",
+    "title": "Hackers Steal Bitcoin, Visa Outlines Stablecoin Plans | Bloomberg Crypto 8/4/2026",
+    "title_cn": "黑客窃取比特币，Visa 概述稳定币计划 |彭博加密货币 8/4/2026",
+    "summary": "\"Bloomberg Crypto\" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: Wintermute CEO Evgeny Gaevoy, Blockchain Association CEO & Former CFTC Commissioner Summer Mersinger, 21Shares Co-Founder & President Ophelia Snyder, and VISA Head of Crypto Cuy Sheffield.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/bloomberg-crypto-8-4-2026-video",
+    "published": "Tue, 04 Aug 2026 19:00:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:51.815954"
+  },
+  {
+    "id": "9c107e71b9a9",
+    "title": "Inside Africa's Data Centers Revolution | Bloomberg Next Africa",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Africa’s digital economy is entering a new era, fueled by rapid growth in cloud computing, artificial intelligence, and demand for reliable digital infrastructure. In this episode of Bloomberg Next Africa, industry leaders explore the opportunities, investment trends and challenges shaping the continent's data centers revolution. The discussion examines how AI adoption, energy availability, sustainability and infrastructure development will define the future of Africa’s digital ecosystem and help unlock the continent’s next wave of growth. The episode features: Jan Hnizdo, CEO of Teraco; James Manyika, SVP of Research & Technology at Google; Johnson Agogbua, Founder & CEO of Kasi Cloud; Robert Skjodt, CEO of Raxio Group. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-07-25/inside-africa-s-data-centers-bloomberg-next-africa-video",
+    "published": "Sat, 25 Jul 2026 01:06:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:51.896188"
+  },
+  {
+    "id": "66674090b576",
+    "title": "Nvidia, Dell Back AI Cloud Startup Volta at $2.4 Billion Value",
+    "title_cn": "Nvidia、戴尔以 24 亿美元的价格收购人工智能云初创公司 Volta",
+    "summary": "Volta Infra Holdings Ltd., a new artificial intelligence cloud company, has raised $300 million in venture funding and secured an additional $5 billion worth of financing to help a wider mix of technology companies gain access to costly AI chips. The funding, set to be announced Tuesday, values Volta at $2.4 billion, and was co-led by Andreessen Horowitz and Altimeter Capital. Nvidia Corp. and Michael Dell also participated. Azora, the asset-management firm providing the financing pool from a mi",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/nvidia-dell-back-ai-cloud-startup-volta-at-2-4-billion-value",
+    "published": "Tue, 04 Aug 2026 11:00:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.042043"
+  },
+  {
+    "id": "215b824ba7cf",
+    "title": "Coatue's Hedge Fund Sees Worst Drop in More Than a Year",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Coatue Management’s hedge fund plunged 8.3% last month, marking the latest tech-focused money manager to be whipsawed after a sharp selloff in AI stocks, though sources say the fund is still up 14.3% year-to-date. Bloomberg's Hema Parmar joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/coatue-s-hedge-fund-sees-worst-drop-in-more-than-a-year-video",
+    "published": "Tue, 04 Aug 2026 18:19:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.129896"
+  },
+  {
+    "id": "24ed557b4f1a",
+    "title": "How Palo Alto Wants AI to Patch Cyber Threats in Hours",
+    "title_cn": "帕洛阿尔托如何希望人工智能在数小时内修复网络威胁",
+    "summary": "Palo Alto Networks is launching a new AI-powered cybersecurity platform designed to help organizations detect vulnerabilities and deploy protections in hours instead of weeks. CEO Nikesh Arora discusses how AI is reshaping both cyberattacks and cyber defense and why he believes enterprises will eventually dedicate as much as 15% of operating expenses to AI. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/nikesh-arora-we-have-to-fight-ai-with-ai-video",
+    "published": "Tue, 04 Aug 2026 18:12:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.236465"
+  },
+  {
+    "id": "1150c385a108",
+    "title": "Every Bank Needs A Stablecoin Strategy: Sheffield",
+    "title_cn": "每家银行都需要稳定币策略：谢菲尔德",
+    "summary": "Cuy Sheffield, Head of Crypto at Visa, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They discuss that Visa has unveiled it's own stablecoin platform. It's designed to let financial firms issue, move and manage stablecoins. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/every-bank-needs-a-stablecoin-strategy-sheffield-video",
+    "published": "Tue, 04 Aug 2026 18:11:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.338344"
+  },
+  {
+    "id": "dfc609fa1768",
+    "title": "AI Spending Is Still Justified, Says Lazard",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Microsoft and Amazon's latest earnings reinforced a key theme in AI, demand for cloud infrastructure continues to outpace supply. Lazard Asset Management Portfolio Manager Celine Woo joins Bloomberg to explain why hyperscalers are still justified in ramping up AI spending and how the shift from training to inference is driving the next phase of growth. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/ai-spending-is-still-justified-says-lazard-video",
+    "published": "Tue, 04 Aug 2026 18:05:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.417465"
+  },
+  {
+    "id": "3dbd1bad86db",
+    "title": "Apple's India Business Hits a Major Milestone",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Apple has surpassed $10 billion in annual sales in India for the first time, highlighting the growing importance of one of its fastest-growing markets. Bloomberg's Dana Wollman breaks down what's driving demand, why the iPhone continues to lead the company's growth in the country, and how incoming CEO John Ternus is beginning to shape Apple's next leadership team. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/apple-s-india-business-hits-a-major-milestone-video",
+    "published": "Tue, 04 Aug 2026 17:56:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.499637"
+  },
+  {
+    "id": "62055c67f4d5",
+    "title": "Will See Continued Interest in Stablecoin Products: Snyder",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Ophelia Snyder, co-founder of 21Shares, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They discuss how Bitcoin miners are pivoting towards becoming AI infrastructure companies. They also discuss how the crypto market is undervaluing early stablecoin implementations results.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/will-see-interest-in-stablecoin-products-snyder-video",
+    "published": "Tue, 04 Aug 2026 17:54:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:52.577463"
   },
   {
     "id": "6974b9dadbd5",
@@ -407,17 +537,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/why-bank-of-america-is-bullish-on-palantir-video",
     "published": "Tue, 04 Aug 2026 17:52:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.669776"
+    "fetched_at": "2026-08-04T19:47:52.673630"
   },
   {
     "id": "2362fd20319d",
     "title": "Hackers Hit Bitcoin’s Safest Hiding Place",
-    "title_cn": "黑客袭击了比特币最安全的藏身之地",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Bloomberg's Lauren Tara LaCapra joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" Hackers have absconded with more than $100 million worth of Bitcoin from thousands of supposedly secure accounts in recent days, setting up another scandal for investors who have been repeatedly preyed upon by thieves in the sector.\n (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/hackers-hit-bitcoin-s-safest-hiding-place-video",
     "published": "Tue, 04 Aug 2026 17:49:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.792203"
+    "fetched_at": "2026-08-04T19:47:52.766418"
   },
   {
     "id": "4e77a7ed1522",
@@ -427,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/palantir-raises-outlook-karp-calls-business-sales-otherworldy",
     "published": "Mon, 03 Aug 2026 20:07:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:29.881191"
+    "fetched_at": "2026-08-04T19:47:52.905281"
   },
   {
     "id": "25d2d89ef9ad",
@@ -437,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/see-more-interest-in-equity-like-tokens-gaevoy-video",
     "published": "Tue, 04 Aug 2026 17:33:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.000323"
+    "fetched_at": "2026-08-04T19:47:53.030871"
   },
   {
     "id": "b2167469b4eb",
@@ -447,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/on-ten-yard-line-on-clarity-act-mersinger-video",
     "published": "Tue, 04 Aug 2026 17:44:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.091552"
+    "fetched_at": "2026-08-04T19:47:53.136036"
   },
   {
     "id": "3add85ceab50",
@@ -457,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/caterpillar-surges-as-data-center-boom-drives-growth-video",
     "published": "Tue, 04 Aug 2026 16:59:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.198722"
+    "fetched_at": "2026-08-04T19:47:53.241288"
   },
   {
     "id": "33c447d21a7b",
@@ -467,137 +597,57 @@
     "link": "https://www.bloomberg.com/news/live-blog/2026-08-04/spacex-second-quarter-earnings-live-updates",
     "published": "Tue, 04 Aug 2026 17:29:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.314261"
+    "fetched_at": "2026-08-04T19:47:53.340114"
   },
   {
-    "id": "167f6743aa55",
-    "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery",
-    "title_cn": "Apple 推出零售员工抽奖活动，为 9 月份 iPhone 发布会做好准备",
-    "summary": "With Apple Inc. gearing up for its biggest product launch of the year, the company is opening a lottery for US retail employees who want to help staff the in-person unveiling.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-gears-up-for-september-iphone-launch-with-retail-employee-lottery",
-    "published": "Tue, 04 Aug 2026 16:56:01 GMT",
+    "id": "2d772507a538",
+    "title": "Qatar, US Signal Progress on Hormuz-Focused Iran Deal",
+    "title_cn": "卡塔尔与美国就霍尔木兹海峡伊朗协议取得进展",
+    "summary": "The prospect of an interim deal focused on the Strait of Hormuz appeared to be gaining traction on Tuesday, with Qatar saying a proposal had been drafted and both American and Iranian officials sounding hopeful about an agreement to reopen the crucial waterway.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/qatar-signals-progress-toward-short-term-deal-between-us-iran",
+    "published": "Tue, 04 Aug 2026 11:36:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.534202"
+    "fetched_at": "2026-08-04T19:47:53.686861"
   },
   {
-    "id": "7705fadac441",
-    "title": "OpenAI Settles Worker Discrimination Allegations With DOJ",
-    "title_cn": "OpenAI 与 DOJ 就工人歧视指控达成和解",
-    "summary": "A unit of OpenAI has reached a settlement with the US Justice Department to resolve allegations that the California-based artificial intelligence company discriminated against US workers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/doj-says-openai-settles-worker-discrimination-allegations",
-    "published": "Tue, 04 Aug 2026 15:15:25 GMT",
+    "id": "20fed964b88e",
+    "title": "Trump Wants Hormuz Deal Immediately | Balance of Power: Early Edition 8/4/2026",
+    "title_cn": "特朗普希望立即达成霍尔木兹协议权力平衡：早期版本 8/4/2026",
+    "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest from the Middle East. On today's show, American Petroleum Institute President Mike Sommers, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino and Brookings Institution Vice President Suzanne Maloney. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/balance-of-power-early-edition-8-4-2026-video",
+    "published": "Tue, 04 Aug 2026 18:47:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.629002"
+    "fetched_at": "2026-08-04T19:47:53.799807"
   },
   {
-    "id": "10a1b34fc545",
-    "title": "Palantir Jumps After ‘Otherworldly’ Demand Lifts Outlook",
+    "id": "735443387e16",
+    "title": "Max Miller Seeks Ethics Probe Into Himself Over Abuse Claims",
+    "title_cn": "马克斯·米勒就虐待指控寻求对自己进行道德调查",
+    "summary": "Embattled Ohio Representative Max Miller said he’s seeking an ethics investigation “to clear my name” after facing calls to resign from Congress amid accusations of domestic abuse.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/max-miller-to-file-for-house-ethics-probe-amid-abuse-allegations",
+    "published": "Tue, 04 Aug 2026 16:20:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-04T19:47:54.439747"
+  },
+  {
+    "id": "84e65f565efa",
+    "title": "Big Oil’s Profits Are in Democrats’ Sights If House Flips",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Palantir Technologies jumped after the company boosted full-year revenue and income forecasts and described commercial demand for its data analytics tools as “otherworldly.” Bloomberg's Mandeep Singh joins to discuss this as well as how Anthropic has struck a deal for computing capacity from Volta Infra Holdings Ltd., a months-old infrastructure startup, to keep pace with demand for its products. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/palantir-jumps-after-otherworldly-demand-lifts-outlook-video",
-    "published": "Tue, 04 Aug 2026 16:33:56 GMT",
+    "summary": "Democrats plan to scrutinize soaring profits in the oil sector if they take control of the House of Representatives in the midterm elections, raising the specter that companies could face congressional investigations and hearings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/big-oil-s-soaring-profits-in-democrats-sights-if-house-flips",
+    "published": "Tue, 04 Aug 2026 15:42:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.706495"
+    "fetched_at": "2026-08-04T19:47:54.525995"
   },
   {
-    "id": "9b4774932911",
-    "title": "T-Mobile Adds Financing for New Phone Fees to Sweeten Upgrades",
-    "title_cn": "T-Mobile 增加新手机费用融资以促进升级",
-    "summary": "T-Mobile US Inc. will allow customers to finance taxes and fees associated with their new handsets in addition to the cost of the device, letting users take home a new phone with no money down. The initiative, announced Tuesday, comes as customers are keeping handsets longer and the industry is shifting away from providing device subsidies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/t-mobile-adds-financing-for-new-phone-fees-to-sweeten-upgrades",
-    "published": "Tue, 04 Aug 2026 15:35:58 GMT",
+    "id": "ef1d0d4ae136",
+    "title": "API CEO Says Higher Oil Prices Will Spur Production Investments",
+    "title_cn": "API首席执行官表示油价上涨将刺激生产投资",
+    "summary": "American Petroleum Institute President and CEO Mike Sommers says higher energy prices now mean investments in future production. Speaking on \"Balance of Power,\" Sommers also says the US should be building more refineries and permitting reform should be a priority for lawmakers. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-04/api-ceo-sees-oil-prices-spurring-more-output-investment-video",
+    "published": "Tue, 04 Aug 2026 17:52:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.822121"
-  },
-  {
-    "id": "cd5ae16ccf6f",
-    "title": "Apple Asks Judge to Bar OpenAI From Using Alleged Trade Secrets",
-    "title_cn": "苹果请求法官禁止 OpenAI 使用所谓的商业秘密",
-    "summary": "Apple Inc. asked a federal judge to immediately order OpenAI to stop using what it calls stolen trade secrets, the latest salvo in its lawsuit accusing the artificial intelligence company of engaging in a coordinated campaign to steal proprietary information about upcoming products.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-asks-judge-to-bar-openai-from-using-alleged-trade-secrets",
-    "published": "Tue, 04 Aug 2026 15:23:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:30.925783"
-  },
-  {
-    "id": "69327062d0fd",
-    "title": "AI Now Fuels Over Half of Africa’s Cybercrime, Study Finds",
-    "title_cn": "研究发现，人工智能现在助长了非洲一半以上的网络犯罪",
-    "summary": "Artificial intelligence is fueling more than half of cybercrime in Africa, enabling criminals to launch faster, more sophisticated attacks as financial losses continue to mount, a new study found.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/ai-now-fuels-over-half-of-africa-s-cybercrime-study-finds",
-    "published": "Tue, 04 Aug 2026 15:17:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.034395"
-  },
-  {
-    "id": "675df88f2427",
-    "title": "Investing in the Space Boom",
-    "title_cn": "投资太空热潮",
-    "summary": "Phantom Space CEO Jim Cantrell explains why SpaceX earnings matter far beyond one company. He argues that space startups must remain frugal, secure real contracts, and focus on profitability—and says SpaceX is evolving into something closer to a nation-state than a traditional competitor. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/investing-in-the-space-boom-video",
-    "published": "Tue, 04 Aug 2026 15:15:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.169841"
-  },
-  {
-    "id": "a608f14692f6",
-    "title": "AI Boom Fuels Small-Cap Rally",
-    "title_cn": "人工智能热潮推动小盘股上涨",
-    "summary": "FTSE Russell’s Indrani De joins Bloomberg Open Interest to explain why the AI boom is spreading into small caps, banks and industrial stocks. She warns that massive capital spending is making markets more vulnerable to higher rates and volatility. She also highlights a growing divide between resilient wealthy consumers and stressed lower-income households. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/ai-boom-fuels-small-cap-rally-video",
-    "published": "Tue, 04 Aug 2026 15:10:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.265988"
-  },
-  {
-    "id": "62d7a4c67169",
-    "title": "Wayfair Rises, Caterpillar Surges on Earnings | Stock Movers",
-    "title_cn": "Wayfair 崛起，卡特彼勒盈利飙升 |库存搬运工",
-    "summary": "On this episode of Stock Movers:\n\n- Wayfair (W) shares jumped after the furniture retailer gave third-quarter guidance during its earnings call. The company said it expects high single-digit revenue growth in the current quarter.\n- McDonald's (MCD) is rising after the fast-food chain reported comparable sales for the second quarter that are slightly below the sell-side consensus estimate, while adjusted EPS was ahead. \n- Caterpillar (CAT) shares are surging after the company’s second-quarter earnings blew past Wall Street’s second-quarter expectations, easing concerns over the growth of power-generation equipment sales to data centers.\n- Palantir (PLTR) shares jumped after the company boosted full-year revenue and income forecasts and described commercial demand for its data analytics tools as “otherworldly.” Palantir now expects $4.89 billion to $4.91 billion in adjusted income from operations this year. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/wayfair-rises-caterpillar-surges-on-earnings-video",
-    "published": "Tue, 04 Aug 2026 14:46:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.375254"
-  },
-  {
-    "id": "49beb30da6bd",
-    "title": "Spotify Users Climb; Third Quarter Forecast Misses Estimates",
-    "title_cn": "Spotify 用户攀升；第三季度预测未达到预期",
-    "summary": "Spotify Technology SA boosted its total users to 777 million in the second quarter, an increase of 12% from the same time last year, while also providing disappointing forecasts for active users and operating income in the current, third quarter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/spotify-users-climb-12-following-splashy-product-announcements",
-    "published": "Tue, 04 Aug 2026 10:02:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.485040"
-  },
-  {
-    "id": "d42a27495fe9",
-    "title": "CoreWeave to Enter Asian Market With Indonesian Data Centers",
-    "title_cn": "CoreWeave 凭借印度尼西亚数据中心进入亚洲市场",
-    "summary": "AI cloud company CoreWeave Inc. is entering the Asian market with its first data centers in the region, expanding to a rapidly growing part of the world that is clamoring for more computing power.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/coreweave-to-enter-asian-market-with-indonesian-data-centers",
-    "published": "Tue, 04 Aug 2026 11:30:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.587387"
-  },
-  {
-    "id": "a2e0a6f98679",
-    "title": "Blackstone Has Pitched Mega Debt Package for Anthropic Chip Deal",
-    "title_cn": "Blackstone 已为 Anthropic 芯片交易提供巨额债务方案",
-    "summary": "Blackstone Inc. has held early discussions with investors to gauge interest in a second mega debt package to finance Anthropic PBC’s use of chips from Alphabet Inc.’s Google.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/blackstone-has-pitched-mega-debt-package-for-anthropic-chip-deal",
-    "published": "Tue, 04 Aug 2026 14:20:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.695843"
-  },
-  {
-    "id": "520982526c98",
-    "title": "Liechtenstein Hunts Hackers as Data on 31,000 Funds Breached",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Liechtenstein is racing to identify the hackers behind a large-scale data breach at the government’s confidential registry of foundations and trusts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/liechtenstein-hunts-hackers-after-names-on-31-000-funds-stolen",
-    "published": "Tue, 04 Aug 2026 13:42:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:31.781551"
+    "fetched_at": "2026-08-04T19:47:55.447066"
   },
   {
     "id": "850e152914c8",
@@ -607,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/cuba-emerges-from-blackout-blaming-genocidal-us-sanctions",
     "published": "Tue, 04 Aug 2026 17:44:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:32.040863"
+    "fetched_at": "2026-08-04T19:47:55.581774"
   },
   {
     "id": "83bfdf738527",
@@ -617,27 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/canadian-employers-urge-carney-to-stop-some-strikes-before-they-begin",
     "published": "Tue, 04 Aug 2026 17:04:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:32.118266"
-  },
-  {
-    "id": "2d772507a538",
-    "title": "Qatar, US Signal Progress on Hormuz-Focused Iran Deal",
-    "title_cn": "卡塔尔与美国就霍尔木兹海峡伊朗协议取得进展",
-    "summary": "The prospect of an interim Iran deal focused on the Strait of Hormuz appeared to be gaining traction on Tuesday, with Qatar saying a proposal had been drafted and American officials sounding hopeful for an agreement to reopen the crucial waterway.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/qatar-signals-progress-toward-short-term-deal-between-us-iran",
-    "published": "Tue, 04 Aug 2026 11:36:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:32.653258"
-  },
-  {
-    "id": "735443387e16",
-    "title": "Max Miller to Seek Ethics Probe Into Himself Over Abuse Claims",
-    "title_cn": "马克斯·米勒将就虐待指控寻求道德调查",
-    "summary": "Embattled Ohio Representative Max Miller said he’s seeking an ethics investigation “to clear my name” after facing calls to resign from Congress amid accusations of domestic abuse.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/max-miller-to-file-for-house-ethics-probe-amid-abuse-allegations",
-    "published": "Tue, 04 Aug 2026 16:20:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:32.768653"
+    "fetched_at": "2026-08-04T19:47:55.694989"
   },
   {
     "id": "aa7cadeff300",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/saudi-arabia-tries-diplomacy-to-stop-houthi-attacks-escalating",
     "published": "Tue, 04 Aug 2026 14:01:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.128343"
+    "fetched_at": "2026-08-04T19:47:55.801016"
   },
   {
     "id": "3ac927e2dc07",
@@ -657,17 +687,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/michigan-democrats-brace-for-shift-in-key-senate-race-video",
     "published": "Tue, 04 Aug 2026 16:20:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.253562"
+    "fetched_at": "2026-08-04T19:47:55.912827"
   },
   {
     "id": "2955ce372f41",
     "title": "Blanche Attorney General Nomination Advanced by Senate Panel",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "布兰奇总检察长提名由参议院小组推进",
     "summary": "Todd Blanche’s nomination to be US attorney general cleared a key Senate hurdle on Tuesday following an agreement to alter President Donald Trump’s settlement with the IRS over leaks of his tax information.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/blanche-attorney-general-nomination-advanced-by-senate-panel",
     "published": "Tue, 04 Aug 2026 15:09:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.330540"
+    "fetched_at": "2026-08-04T19:47:56.036671"
   },
   {
     "id": "d3a99417e650",
@@ -677,17 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/ukraine-gains-ground-as-putin-faces-pressure-video",
     "published": "Tue, 04 Aug 2026 15:51:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.434612"
-  },
-  {
-    "id": "84e65f565efa",
-    "title": "Big Oil’s Soaring Profits in Democrats’ Sights If House Flips",
-    "title_cn": "如果众议院发生翻转，大型石油公司将在民主党人的视野中飙升利润",
-    "summary": "Democrats plan to scrutinize soaring profits in the oil sector if they take control of the House of Representatives in the midterm elections, raising the specter that companies could face congressional investigations and hearings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/big-oil-s-soaring-profits-in-democrats-sights-if-house-flips",
-    "published": "Tue, 04 Aug 2026 15:42:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.539300"
+    "fetched_at": "2026-08-04T19:47:56.179716"
   },
   {
     "id": "eea4e0800730",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/labour-leads-reform-in-uk-poll-in-latest-sign-of-burnham-boost",
     "published": "Tue, 04 Aug 2026 14:46:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.654091"
+    "fetched_at": "2026-08-04T19:47:56.296352"
   },
   {
     "id": "88d6a81e75b2",
@@ -707,17 +727,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/qatar-bessent-signal-iran-deal-could-be-coming-video",
     "published": "Tue, 04 Aug 2026 15:06:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:33.788890"
+    "fetched_at": "2026-08-04T19:47:56.396640"
   },
   {
     "id": "5b2da5a8f1c6",
     "title": "Mamdani Dismisses Business Leaders Advising NYC Mayor’s Fund",
-    "title_cn": "马姆达尼解雇了为纽约市市长基金提供建议的商界领袖",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "New York City Mayor Zohran Mamdani dismissed the business and civic leaders who advised a multimillion-dollar fund that channels private donations into public programs, removing a longstanding group of corporate advisers from City Hall’s philanthropic arm.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/mamdani-dismisses-business-leaders-advising-nyc-s-mayor-s-fund",
     "published": "Mon, 03 Aug 2026 19:33:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:34.145204"
+    "fetched_at": "2026-08-04T19:47:56.480332"
   },
   {
     "id": "f44398372b9a",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/us-sends-election-monitors-to-four-michigan-cities-for-primary",
     "published": "Tue, 04 Aug 2026 14:36:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:34.261542"
+    "fetched_at": "2026-08-04T19:47:56.583782"
   },
   {
     "id": "faa0956dcab2",
@@ -737,27 +757,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/talarico-has-narrow-poll-edge-on-paxton-in-key-texas-senate-race",
     "published": "Tue, 04 Aug 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:34.813338"
+    "fetched_at": "2026-08-04T19:47:56.704599"
   },
   {
     "id": "1fb27d4cdba6",
     "title": "Cantor on Digital Infrastructure, Fed, Inflation, Energy",
-    "title_cn": "坎托谈数字基础设施、美联储、通胀、能源",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Eric Cantor, Moelis & Co. vice chair and former House Majority Leader, talks about what he says is an unprecedented investment cycle driven by a surge in digital infrastructure. He says earnings have been \"stunning.\" Cantor also talks about the performance of Federal Reserve Chairman Kevin Warsh. Cantor speaks on \"Bloomberg Surveillance.\"\n (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-04/cantor-on-digital-infrastructure-fed-inflation-energy-video",
     "published": "Tue, 04 Aug 2026 13:55:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:34.928516"
+    "fetched_at": "2026-08-04T19:47:56.809126"
   },
   {
     "id": "c2e9a8d49e5b",
     "title": "Japan Defense Report Cites China, Russia, NK Military Ties",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "日本防务报告援引中国、俄罗斯和朝鲜的军事关系",
     "summary": "Growing military coordination between China, Russia and North Korea is heightening security risks for Japan, Tokyo said in its latest defense white paper, citing increasingly provocative Chinese-Russian bomber patrols and Moscow’s support for North Korea’s military modernization.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/japan-defense-report-warns-on-china-russia-nk-military-links",
     "published": "Tue, 04 Aug 2026 02:53:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:35.056786"
+    "fetched_at": "2026-08-04T19:47:57.017734"
   },
   {
     "id": "81bd7d39f7f2",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/eu-tries-to-tamp-down-divisions-after-ceuta-migration-surge",
     "published": "Tue, 04 Aug 2026 13:12:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:35.156032"
+    "fetched_at": "2026-08-04T19:47:58.181314"
   },
   {
     "id": "78c84e552354",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-03/trump-s-latest-tariffs-hit-with-new-lawsuit-by-group-of-states",
     "published": "Mon, 03 Aug 2026 20:12:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-04T17:57:35.244343"
-  },
-  {
-    "id": "24ec5df1b8f9",
-    "title": "Michigan Democrats Brace for Tectonic Shift in Key Senate Race",
-    "title_cn": "密歇根州民主党人准备迎接参议院关键竞选的结构性转变",
-    "summary": "The fight between the progressive and centrist wings of the Democratic party reaches its most consequential front of the 2026 midterm primary cycle with Michigan voters on Tuesday set to catapult either Abdul El-Sayed or Haley Stevens to a general election that could decide the balance of power in the US Senate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/michigan-democrats-brace-for-tectonic-shift-in-key-senate-race",
-    "published": "Tue, 04 Aug 2026 10:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:35.333770"
-  },
-  {
-    "id": "96f0ff0e758b",
-    "title": "Bessent Suggests US-Iran Hormuz Deal Possible in Coming Days",
-    "title_cn": "贝森特建议美国与伊朗霍尔木兹协议在未来几天内可能达成",
-    "summary": "US Treasury Secretary Scott Bessent said a deal between the US and Iran over control of the Strait of Hormuz could come as soon as Tuesday, sending oil prices plunging.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/bessent-suggests-us-iran-hormuz-deal-possible-in-coming-days",
-    "published": "Tue, 04 Aug 2026 12:20:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-04T17:57:35.446652"
+    "fetched_at": "2026-08-04T19:47:58.319052"
   }
 ]
