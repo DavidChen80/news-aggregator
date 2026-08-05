@@ -1,5 +1,95 @@
 [
   {
+    "id": "7f245272b3b2",
+    "title": "Fresenius Lifts Earnings Outlook on Hospitals, Drug Strength",
+    "title_cn": "费森尤斯上调医院和药品实力的盈利前景",
+    "summary": "Fresenius SE lifted its full-year earnings forecast after strong second-quarter performances at its hospitals and Kabi drugs business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/fresenius-lifts-earnings-outlook-on-hospitals-drugs-performance",
+    "published": "Wed, 05 Aug 2026 04:17:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:29.484733"
+  },
+  {
+    "id": "55490c812ca8",
+    "title": "Bloomberg Daybreak: El-Sayed Wins Primary (Podcast)",
+    "title_cn": "彭博黎明：埃尔-赛义德赢得初选（播客）",
+    "summary": "Source: Bloomberg, 22:15",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/bloomberg-daybreak-el-sayed-wins-primary-podcast",
+    "published": "Wed, 05 Aug 2026 09:51:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:29.579751"
+  },
+  {
+    "id": "613f2d1573ac",
+    "title": "Michigan Senate Race, Trump Hints Iran Deal is Near, More",
+    "title_cn": "密歇根州参议院竞选，特朗普暗示伊朗协议即将达成",
+    "summary": "Source: Bloomberg, 5:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/michigan-senate-race-trump-hints-iran-deal-is-near-more",
+    "published": "Wed, 05 Aug 2026 09:25:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:29.681434"
+  },
+  {
+    "id": "2136379c38f8",
+    "title": "Stock Movers: Next, Glencore, Heineken (Podcast)",
+    "title_cn": "库存推动者：Next、嘉能可、喜力（播客）",
+    "summary": "Source: Bloomberg, 4:46",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/stock-movers-next-glencore-heineken-podcast",
+    "published": "Wed, 05 Aug 2026 09:02:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:29.777295"
+  },
+  {
+    "id": "4de741f76080",
+    "title": "Bessent Brings Hedge Fund Playbook to Yen Rescue",
+    "title_cn": "Bessent 推出对冲基金手册来拯救​​日元",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/bessent-brings-hedge-fund-playbook-to-yen-rescue",
+    "published": "Wed, 05 Aug 2026 09:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:29.899118"
+  },
+  {
+    "id": "d8c69d522134",
+    "title": "Battery Tax Credits Are Rewriting US Solar Economics (Podcast)",
+    "title_cn": "电池税收抵免正在改写美国太阳能经济（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/battery-tax-credits-are-rewriting-us-solar-economics-podcast",
+    "published": "Wed, 05 Aug 2026 08:48:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:30.008450"
+  },
+  {
+    "id": "7046c8ea207a",
+    "title": "US-Iran Deal Hopes, New China Export Restrictions, More",
+    "title_cn": "美伊协议希望、中国新出口限制等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/us-iran-deal-hopes-new-china-export-restrictions-more",
+    "published": "Wed, 05 Aug 2026 08:36:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:30.098679"
+  },
+  {
+    "id": "fcfaeb85ed2a",
+    "title": "Stock Movers: Novo Nordisk, Next, Infineon (Podcast)",
+    "title_cn": "库存推动者：诺和诺德、Next、英飞凌（播客）",
+    "summary": "Source: Bloomberg, 4:58",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-05/stock-movers-novo-nordisk-next-infineon-podcast",
+    "published": "Wed, 05 Aug 2026 08:22:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:30.208442"
+  },
+  {
+    "id": "4af371a733d3",
+    "title": "Sandoz CEO Views Trump’s Generics Tariff Threat as Opportunity",
+    "title_cn": "山德士首席执行官将特朗普的仿制药关税威胁视为机遇",
+    "summary": "Sandoz Group AG Chief Executive Officer Richard Saynor said the move by US President Donald Trump to potentially impose tariffs on generic medicines is more of an opportunity than a threat to its business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/sandoz-ceo-views-trump-s-generics-tariff-threat-as-opportunity",
+    "published": "Wed, 05 Aug 2026 08:10:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:30.315794"
+  },
+  {
     "id": "20351c17bdf7",
     "title": "Next Lifts Outlook as Middle East Demand, UK Heatwave Boosts Sales",
     "title_cn": "中东需求和英国热浪提振销售，Next 提振前景",
@@ -7,7 +97,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/next-lifts-outlook-as-middle-east-demand-uk-heatwave-boosts-sales",
     "published": "Wed, 05 Aug 2026 07:16:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:15.679493"
+    "fetched_at": "2026-08-05T10:08:30.405069"
+  },
+  {
+    "id": "41d247d6ef04",
+    "title": "Santander Gets Fed Authorization for $12 Billion Webster Deal",
+    "title_cn": "桑坦德银行获得美联储 120 亿美元韦伯斯特交易授权",
+    "summary": "Banco Santander SA has received US Federal Reserve authorization for the purchase of Webster Financial Corp., in what will be one of the largest-ever US transactions by a European lender.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/santander-gets-fed-authorization-for-12-billion-webster-deal",
+    "published": "Wed, 05 Aug 2026 07:13:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:30.500804"
   },
   {
     "id": "f9e379b4ef34",
@@ -17,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/stock-movers-zhongji-innolight-minimax-sk-hynix-podcast",
     "published": "Wed, 05 Aug 2026 06:37:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:15.818509"
+    "fetched_at": "2026-08-05T10:08:30.654075"
   },
   {
     "id": "f3d6fec51209",
@@ -27,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-s-ai-splurge-glencore-s-profit-jump-more",
     "published": "Wed, 05 Aug 2026 06:34:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:15.911803"
+    "fetched_at": "2026-08-05T10:08:30.759409"
   },
   {
     "id": "28a2d24b8702",
@@ -37,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/bloomberg-daybreak-europe-spacex-spooks-investors-podcast",
     "published": "Wed, 05 Aug 2026 05:58:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.016482"
+    "fetched_at": "2026-08-05T10:08:30.858976"
   },
   {
     "id": "165f91a07b2b",
@@ -47,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/oil-drops-on-signs-of-progress-toward-deal-to-reopen-hormuz",
     "published": "Wed, 05 Aug 2026 05:38:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.113313"
+    "fetched_at": "2026-08-05T10:08:31.006545"
   },
   {
     "id": "25705d40e7c3",
@@ -57,17 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-spooks-investors-hopes-rise-for-us-iran-deal-more",
     "published": "Wed, 05 Aug 2026 05:28:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.208917"
-  },
-  {
-    "id": "7f245272b3b2",
-    "title": "Fresenius Lifts Earnings Outlook on Hospitals, Drug Strength",
-    "title_cn": "费森尤斯上调医院和药品实力的盈利前景",
-    "summary": "Fresenius SE lifted its full-year earnings forecast after strong second-quarter performances at its hospitals and Kabi drugs business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/fresenius-lifts-earnings-outlook-on-hospitals-drugs-performance",
-    "published": "Wed, 05 Aug 2026 04:17:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.300591"
+    "fetched_at": "2026-08-05T10:08:31.119540"
   },
   {
     "id": "1c5725a0994d",
@@ -77,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-weighed-by-ai-spend-openai-anthropic-new-security-breach-msfkd6v9",
     "published": "Wed, 05 Aug 2026 04:05:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.401675"
+    "fetched_at": "2026-08-05T10:08:31.214916"
   },
   {
     "id": "4d0a05bfae5e",
@@ -87,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-weighed-by-ai-spend-openai-anthropic-new-security-breach",
     "published": "Wed, 05 Aug 2026 04:03:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.514960"
+    "fetched_at": "2026-08-05T10:08:31.313891"
   },
   {
     "id": "1e0eabcd024b",
@@ -97,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-ai-splurge-openai-anthropic-tests-reveal-new-breaches",
     "published": "Wed, 05 Aug 2026 02:32:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.636098"
+    "fetched_at": "2026-08-05T10:08:31.425358"
   },
   {
     "id": "02e0d8ef5ab8",
@@ -107,157 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-ai-spending-surge-openai-anthropic-new-security-breach",
     "published": "Wed, 05 Aug 2026 01:43:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.747727"
-  },
-  {
-    "id": "f35b0dccd4c2",
-    "title": "Bloomberg Daybreak Asia: SpaceX AI Splurge (Podcast)",
-    "title_cn": "彭博社黎明亚洲：SpaceX 人工智能挥霍（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-05/bloomberg-daybreak-asia-spacex-ai-splurge-podcast",
-    "published": "Wed, 05 Aug 2026 00:56:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.854231"
-  },
-  {
-    "id": "f52377270af5",
-    "title": "SpaceX AI Spend, OpenAI-Anthropic New Security Incidents, More",
-    "title_cn": "SpaceX 人工智能支出、OpenAI-Anthropic 新安全事件等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-05/spacex-ai-spend-openai-anthropic-new-security-incidents-more",
-    "published": "Wed, 05 Aug 2026 00:44:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:16.973069"
-  },
-  {
-    "id": "f77213a9f87d",
-    "title": "SpaceX Weighed By AI Spend, New OpenAI Security Incident, More",
-    "title_cn": "SpaceX 因 AI 支出、新的 OpenAI 安全事件等因素而承压",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/spacex-weighed-by-ai-spend-new-openai-security-incident-more",
-    "published": "Tue, 04 Aug 2026 23:39:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.067198"
-  },
-  {
-    "id": "fb88d668af9c",
-    "title": "SpaceX Earnings, EVs Drive Spending Surge, Housing Downturn",
-    "title_cn": "SpaceX 盈利、电动汽车推动支出激增、房地产低迷",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/spacex-earnings-evs-drive-spending-surge-housing-downturn",
-    "published": "Tue, 04 Aug 2026 23:25:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.194230"
-  },
-  {
-    "id": "77a529e76c50",
-    "title": "SpaceX AI Spending Plans, OpenAI New Security Breach, More",
-    "title_cn": "SpaceX 人工智能支出计划、OpenAI 新安全漏洞等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/spacex-ai-spending-plans-openai-new-security-breach-more",
-    "published": "Tue, 04 Aug 2026 22:51:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.303904"
-  },
-  {
-    "id": "c96cf247772a",
-    "title": "SpaceX's AI Splurge, OpenAI: Models Breached Boundaries, More",
-    "title_cn": "SpaceX 的 AI 挥霍、OpenAI：模型突破了界限等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/spacex-s-ai-splurge-openai-models-breached-boundaries-more",
-    "published": "Tue, 04 Aug 2026 22:10:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.408457"
-  },
-  {
-    "id": "65b121f4179c",
-    "title": "Oil Slumps on Prospects for Hormuz Reopening Deal",
-    "title_cn": "霍尔木兹重新开放协议前景导致油价暴跌",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/oil-slumps-on-prospects-for-hormuz-reopening-deal",
-    "published": "Tue, 04 Aug 2026 21:32:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.497157"
-  },
-  {
-    "id": "d347d6e4a0f4",
-    "title": "SpaceX Beats Wall Street Expectations: Evening Briefing Americas",
-    "title_cn": "SpaceX 超出华尔街预期：美洲晚间简报",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-04/spacex-beats-wall-street-expectations-evening-briefing-americas",
-    "published": "Tue, 04 Aug 2026 21:18:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.591055"
-  },
-  {
-    "id": "fd0b286b0a73",
-    "title": "Bloomberg Businessweek Daily: SpaceX Reports (Podcast)",
-    "title_cn": "彭博商业周刊日报：SpaceX 报告（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-04/bloomberg-businessweek-daily-spacex-reports-podcast",
-    "published": "Tue, 04 Aug 2026 21:12:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:17.702953"
-  },
-  {
-    "id": "14c99a85b1a2",
-    "title": "Gold Jumps With Silver as Markets Track Push to Reopen Hormuz",
-    "title_cn": "随着市场推动霍尔木兹海峡重新开放，黄金与白银一起上涨",
-    "summary": "Gold hit a four-week high as the prospect of an interim deal to reopen the Strait of Hormuz eased concerns about the outlook for inflation and reduced the odds of the Federal Reserve raising interest rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/gold-holds-steady-as-progress-on-hormuz-trims-rate-hike-bets",
-    "published": "Tue, 04 Aug 2026 23:54:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.014188"
-  },
-  {
-    "id": "d6637ca3632f",
-    "title": "Next Lifts Outlook as UK’s Hot Summer Boosts Clothing Sales",
-    "title_cn": "英国炎热夏季提振服装销售，Next 提振前景",
-    "summary": "Next Plc raised its outlook for the third time this fiscal year, after sales surged in the second quarter due to warm UK weather and pent-up demand in the Middle East and northern Europe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/next-lifts-outlook-as-demand-bucks-downbeat-consumer-outlook",
-    "published": "Wed, 05 Aug 2026 06:15:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.121379"
-  },
-  {
-    "id": "1987d21ab272",
-    "title": "Australia Stocks Rise to Record on Iran Hopes, Economic Bets",
-    "title_cn": "由于伊朗希望和经济押注，澳大利亚股市上涨至创纪录水平",
-    "summary": "Australia’s stock benchmark climbed to a record on easing concerns over the US-Iran conflict and supportive signals in the domestic economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/australian-stocks-rise-to-record-on-iran-hopes-economic-bets",
-    "published": "Wed, 05 Aug 2026 00:15:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.225819"
-  },
-  {
-    "id": "2af6eee13b9a",
-    "title": "Novo Underwhelms Investors With Soft Wegovy Pill Sales",
-    "title_cn": "Novo 的软 Wegovy 药丸销售令投资者失望",
-    "summary": "Novo Nordisk A/S’s popular Wegovy weight-loss pill disappointed investors with sales that failed to live up to the hype of an obesity drug whose launch was billed the most successful in history.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
-    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.323393"
-  },
-  {
-    "id": "a14639d26be4",
-    "title": "Schaeffler Targets 1,300 Job Cuts With Early Pension Push",
-    "title_cn": "舍弗勒计划通过提前发放养老金计划裁员 1,300 人",
-    "summary": "Schaeffler AG plans to cut its German workforce through an expanded phased-retirement program as weak automotive demand continues to pressure the supplier.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/schaeffler-targets-1-300-job-cuts-with-early-pension-push",
-    "published": "Wed, 05 Aug 2026 07:00:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.422440"
-  },
-  {
-    "id": "f62c49ae0e04",
-    "title": "Glencore Has Taken a Provision on Radiant World Exposure",
-    "title_cn": "嘉能可已就 Radiant World Exposure 做出规定",
-    "summary": "Glencore Plc said it has taken a provision on its exposure to iron ore trader Radiant World but that the exposure was not material to the company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/glencore-says-it-has-taken-provision-on-radiant-world-exposure",
-    "published": "Wed, 05 Aug 2026 06:49:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.522023"
+    "fetched_at": "2026-08-05T10:08:31.557729"
   },
   {
     "id": "f0ff8096e962",
@@ -267,37 +207,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/allianzgi-to-buy-uob-asset-management-to-grow-in-southeast-asia",
     "published": "Wed, 05 Aug 2026 05:14:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.642497"
+    "fetched_at": "2026-08-05T10:08:31.794879"
   },
   {
-    "id": "7fb8e9116fbb",
-    "title": "Glencore Profit Jumps on Trading Boom and Record Copper",
-    "title_cn": "嘉能可利润因交易繁荣和铜价创纪录而跃升",
-    "summary": "Glencore Plc reported a steep jump in profits after a surge in the price of its most important commodities and its trading unit had one of its best ever periods as the Iran war sent energy prices soaring.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/glencore-profit-jumps-on-trading-boom-and-record-copper",
-    "published": "Wed, 05 Aug 2026 06:07:36 GMT",
+    "id": "72cac50ce478",
+    "title": "Iran War Exposes US Military Aluminum Risk Shown in Pentagon War Game",
+    "title_cn": "伊朗战争暴露五角大楼战争游戏中显示的美国军用铝风险",
+    "summary": "<p>Supplies of an ultra-refined form of the metal used in fighter jets are tight after drones damaged a UAE plant.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/iran-war-exposes-us-military-aluminum-risk-shown-in-pentagon-war-game",
+    "published": "Wed, 05 Aug 2026 10:00:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.756371"
+    "fetched_at": "2026-08-05T10:08:31.940233"
   },
   {
-    "id": "d46d9195350c",
-    "title": "Honda Raises Outlook 30% as Weak Yen, US Demand Lift Profits",
-    "title_cn": "日元疲软、美国需求提升利润，本田将展望上调 30%",
-    "summary": "Honda Motor Co. raised its profit outlook after quarterly results were boosted by a weak yen and strong demand in the US for gas-electric hybrids.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/honda-raises-outlook-30-as-weak-yen-us-demand-lift-profits",
-    "published": "Wed, 05 Aug 2026 06:38:33 GMT",
+    "id": "c127943fffac",
+    "title": "Chanel Sales Jump 16% in First Half (Video)",
+    "title_cn": "香奈儿上半年销售额跃升 16%（视频）",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/chanel-sales-jump-16-in-first-half-video",
+    "published": "Wed, 05 Aug 2026 09:47:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.851195"
+    "fetched_at": "2026-08-05T10:08:32.026883"
   },
   {
-    "id": "ac393cb12a9a",
-    "title": "Horizons Middle East & Africa 8/5/2026",
-    "title_cn": "中东和非洲地平线 8/5/2026",
-    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/horizons-middle-east-africa-8-5-2026-video",
-    "published": "Wed, 05 Aug 2026 06:38:25 GMT",
+    "id": "476addb7ded6",
+    "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Rally in Four Days",
+    "title_cn": "科技股熔涨带动纳斯达克 100 指数在四天内上涨 3.5 万亿美元",
+    "summary": "A dramatic turnaround in technology stocks has powered a $3.5 trillion increase in the Nasdaq 100’s market capitalization in just four days, driven by strong earnings that have emboldened investors about the AI outlook.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days",
+    "published": "Wed, 05 Aug 2026 09:26:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:18.932563"
+    "fetched_at": "2026-08-05T10:08:32.113838"
   },
   {
     "id": "385a45b91c75",
@@ -307,97 +247,187 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/vietnam-s-techcombank-seeks-1-billion-joining-rush-for-funds",
     "published": "Wed, 05 Aug 2026 06:23:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.029386"
+    "fetched_at": "2026-08-05T10:08:32.214782"
   },
   {
-    "id": "e4d4555550d3",
-    "title": "China Sells Long-Dated Offshore Yuan Bonds at Record Low Yields",
-    "title_cn": "中国以创纪录低收益率出售长期离岸人民币债券",
-    "summary": "China sold long-dated yuan-denominated sovereign bonds in Hong Kong at record-low yields, underscoring strong demand from global investors for the offshore issuance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-sells-long-dated-offshore-yuan-bonds-at-record-low-yields",
-    "published": "Wed, 05 Aug 2026 06:12:44 GMT",
+    "id": "f86e76aa0354",
+    "title": "South Africa Seeks Adviser for Eskom Spin-Off Creditor Talks",
+    "title_cn": "南非为 Eskom 分拆债权人谈判寻求顾问",
+    "summary": "South Africa will hire advisers in the coming weeks to begin negotiations with lenders on a plan to spin off state-owned power utility Eskom Holdings SOC Ltd.’s transmission subsidiary, according to the head of the National Treasury.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/south-africa-seeks-advisers-for-creditor-talks-on-eskom-spin-off",
+    "published": "Tue, 04 Aug 2026 15:05:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.120008"
+    "fetched_at": "2026-08-05T10:08:32.317365"
+  },
+  {
+    "id": "a7ea5534afbe",
+    "title": "Wegovy Profitability Will Keep Improving, Novo CEO Says",
+    "title_cn": "Novo 首席执行官表示 Wegovy 盈利能力将持续改善",
+    "summary": "Novo Nordisk Chief Executive Officer Mike Doustdar says the profitability of its popular Wegovy weight-loss pill is \"decent\" and will continue to improve. \"If that was not the case, we would not be launching the product in more and more markets,\" he tells Bloomberg Television.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/wegovy-profitability-will-keep-improving-novo-ceo-says-video",
+    "published": "Wed, 05 Aug 2026 09:15:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:32.415643"
+  },
+  {
+    "id": "68a11a86ed4e",
+    "title": "India Rules Out Early End To FX Deposit Plan, Sees Healthy Flows",
+    "title_cn": "印度排除提前结束外汇存款计划的可能性，资金流动健康",
+    "summary": "India is not considering an early closure of a program aimed at attracting deposits from the country’s 35-million-strong diaspora, with the central bank expecting robust inflows until the window shuts in end-September.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/india-rules-out-early-end-to-fx-deposit-plan-sees-healthy-flows",
+    "published": "Wed, 05 Aug 2026 09:14:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:32.549272"
   },
   {
     "id": "55030afcf2c5",
-    "title": "Stocks Rally to Record, Oil and Dollar Dip on Iran: Markets Wrap",
-    "title_cn": "股市上涨创纪录，伊朗石油和美元下跌：市场结束",
-    "summary": "Global stocks climbed to a record as investors renewed bets on the artificial intelligence trade, driving gains in chipmakers. Oil and the dollar fell on the prospect of an interim US-Iran deal.",
+    "title": "Stock Rally Wavers as Oil Rises on Shipping Threat: Markets Wrap",
+    "title_cn": "航运威胁导致油价上涨，股市涨势动摇：市场总结",
+    "summary": "US stocks paused after a four-day rally as investors assessed the latest earnings from technology megacaps, while oil edged higher as a fresh threat against Middle East shipping tempered optimism over US-Iran talks.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/stock-market-today-dow-s-p-live-updates",
     "published": "Tue, 04 Aug 2026 22:11:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.229227"
+    "fetched_at": "2026-08-05T10:08:32.654627"
   },
   {
-    "id": "68df16247787",
-    "title": "FTSE 100 Live: UK Stocks Rise as Glencore, Next Rally on Earnings",
-    "title_cn": "富时 100 实时指数：随着嘉能可 (Glencore) 盈利下一轮上涨，英国股市上涨",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-08-05/ftse-100-live-pound-gilts-gbp-pmi-data-iran-war-trump-oil-prices-hormuz-news-what-s-moving-uk-markets-right-now-markets-today-msfo884h",
-    "published": "Wed, 05 Aug 2026 05:53:22 GMT",
+    "id": "27fb221be601",
+    "title": "Novo Not Discussing Further Pill Discounts, CEO Says",
+    "title_cn": "首席执行官表示 Novo 不会讨论进一步的药品折扣",
+    "summary": "Novo Nordisk A/S Chief Executive Officer Mike Doustdar talks about the company's performance as its popular Wegovy weight-loss pill disappointed investors with sales that failed to live up to the hype. \"We are not right now discussing further discounts,\" Doustdar tells Bloomberg's Francine Lacqua.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/novo-not-discussing-further-pill-discounts-ceo-says-video",
+    "published": "Wed, 05 Aug 2026 09:08:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.564100"
+    "fetched_at": "2026-08-05T10:08:32.745815"
   },
   {
-    "id": "fe5c161cd32a",
-    "title": "India's Inflation Cushion 'Thinner' Than It Seems",
-    "title_cn": "印度的通胀缓冲比看起来“更薄”",
-    "summary": "The Reserve Bank of India kept its benchmark rate unchanged for a fourth straight review as it waits to see whether higher energy costs from the Iran war spill over into broader inflation. Prior to the decision, Standard Chartered Bank Head of India Economic Research Anubhuti Sahay told us the country's inflation has been benign so far, but the cushion is thinner than it appears. She speaks with Paul Allen on Bloomberg's \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/india-s-inflation-cushion-thinner-than-it-seems-video",
-    "published": "Wed, 05 Aug 2026 05:49:08 GMT",
+    "id": "28401af78de6",
+    "title": "Why Japan Is Splurging on Jewelry as the Yen Weakens",
+    "title_cn": "为什么日本在日元贬值的情况下在珠宝上大肆挥霍",
+    "summary": "Japan's luxury jewelry market boom isn't just about fashion.\n\nInstead, consumers are turning indulgence like jewelry into a hedge against a weaker yen. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/why-japan-is-splurging-on-jewelry-as-the-yen-weakens-video",
+    "published": "Wed, 05 Aug 2026 09:05:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.674057"
+    "fetched_at": "2026-08-05T10:08:32.830648"
   },
   {
-    "id": "4758ddb95f46",
-    "title": "Key Options Trade Displays Abnormal Pattern With India Auction",
-    "title_cn": "印度拍卖的主要期权交易呈现异常模式",
-    "summary": "A key options trade particularly popular in India to bet on volatility on the day equity derivatives expire showed an unusual pattern on Tuesday, highlighting a potential trading opportunity as market players grapple with a new mechanism for determining closing prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/key-options-trade-displays-abnormal-pattern-with-india-auction",
-    "published": "Wed, 05 Aug 2026 04:28:17 GMT",
+    "id": "909d9da899bb",
+    "title": "Why India’s New Closing Auction Is Confusing Traders: Q&A",
+    "title_cn": "为什么印度新的收盘拍卖令交易者感到困惑：问答",
+    "summary": "India’s two equity bourses — the National Stock Exchange of India Ltd. and BSE Ltd. — introduced on Monday an auction to determine the closing price of more than 200 stocks with derivatives contracts, replacing a decades-old methodology.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/why-india-s-new-closing-auction-is-confusing-traders-q-a",
+    "published": "Wed, 05 Aug 2026 09:04:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.761078"
+    "fetched_at": "2026-08-05T10:08:32.939303"
   },
   {
-    "id": "dea0ff0a4c8b",
-    "title": "Pakistan’s Fintech Abhi Eyes Microfinance Bank IPO",
-    "title_cn": "巴基斯坦金融科技公司 Abhi 着眼于小额信贷银行 IPO",
-    "summary": "Abhi Co-Founder & CEO Omair Ansari says the Pakistani fintech group expects to launch an initial public offering of its microlender in early September this year. He speaks with Paul Allen on \"Insight with Haslinda Amin.\"\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/pakistan-s-fintech-abhi-eyes-microfinance-bank-ipo-video",
-    "published": "Wed, 05 Aug 2026 05:19:13 GMT",
+    "id": "6012384c7404",
+    "title": "Barclays, HSBC Say Warsh Boosts Case for Inflation-Linked Bonds",
+    "title_cn": "巴克莱银行和汇丰银行称沃什增强了通胀挂钩债券的理由",
+    "summary": "Barclays Plc and HSBC Holdings Plc say concern the Federal Reserve is dragging its feet on inflation is giving investors another reason to buy bonds that offer protection from accelerating price growth.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/barclays-hsbc-say-warsh-boosts-case-for-inflation-linked-bonds",
+    "published": "Wed, 05 Aug 2026 09:02:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.857227"
+    "fetched_at": "2026-08-05T10:08:33.037306"
   },
   {
-    "id": "07a22263a706",
-    "title": "SoftBank-Backed OfBusiness Is Said to Explore Reviving India IPO",
-    "title_cn": "软银支持的 OfBusiness 据称将探索重振印度 IPO",
-    "summary": "OFB Tech Pvt, the operator of technology supply chain and financing platform OfBusiness, is considering reviving plans for an initial public offering that could raise as much as $800 million, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/softbank-backed-ofbusiness-is-said-to-explore-reviving-india-ipo",
-    "published": "Wed, 05 Aug 2026 04:56:02 GMT",
+    "id": "d58863c6988f",
+    "title": "Lululemon Is At War With Itself",
+    "title_cn": "Lululemon 正在与自己交战",
+    "summary": "Lululemon built its reputation on leggings. But a product launch earlier this year quickly turned into a see-through problem. Now, the embattled athleisure giant has a new CEO and a seemingly fresh start. Lily Meier reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/lululemon-is-at-war-with-itself",
+    "published": "Wed, 05 Aug 2026 09:00:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:19.940158"
+    "fetched_at": "2026-08-05T10:08:33.137606"
   },
   {
-    "id": "30a1bb68650e",
-    "title": "China Optical Stocks Drop on Reports of US Ban | The China Show | 8/5/2026",
-    "title_cn": "美国禁令报道中国眼镜股下跌中国展 | 2026 年 8 月 5 日",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-05/the-china-show-8-5-2026-video",
-    "published": "Wed, 05 Aug 2026 04:46:45 GMT",
+    "id": "8fc2854fa4d1",
+    "title": "LIC Share Sale Sees Tepid Retail Demand After India Upsized Deal",
+    "title_cn": "印度扩大交易规模后，LIC 股票销售看到零售需求不温不火",
+    "summary": "Retail investors largely stayed on the sidelines in India’s share sale in Life Insurance Corp., signaling uneven demand a day after strong bids from institutions led the government to increase the offering’s size to $3.3 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/lic-share-sale-sees-tepid-retail-demand-after-india-upsized-deal",
+    "published": "Wed, 05 Aug 2026 08:43:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.035993"
+    "fetched_at": "2026-08-05T10:08:33.298051"
   },
   {
-    "id": "d166f4c5f051",
-    "title": "US Copper Trades Near Record on Tariff Risks, Hormuz Speculation",
-    "title_cn": "关税风险和霍尔木兹海峡投机导致美国铜价接近历史最高水平",
-    "summary": "Copper futures in New York traded just short of an all-time high, as investors awaited a decision on US tariffs, while also tracking a push to reopen the Strait of Hormuz that lifted demand for risk assets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/us-copper-trades-near-record-on-tariff-risks-hormuz-speculation",
-    "published": "Wed, 05 Aug 2026 04:46:06 GMT",
+    "id": "d6637ca3632f",
+    "title": "Next Lifts Outlook as UK’s Hot Summer Boosts Clothing Sales",
+    "title_cn": "英国炎热夏季提振服装销售，Next 提振前景",
+    "summary": "Next Plc raised its outlook for the third time this fiscal year, driving its shares to a record after sales surged in the second quarter due to warm UK weather and pent-up demand in the Middle East and northern Europe.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/next-lifts-outlook-as-demand-bucks-downbeat-consumer-outlook",
+    "published": "Wed, 05 Aug 2026 06:15:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.133698"
+    "fetched_at": "2026-08-05T10:08:33.393288"
+  },
+  {
+    "id": "2af6eee13b9a",
+    "title": "Novo Underwhelms Investors With Soft Wegovy Pill Sales",
+    "title_cn": "Novo 的软 Wegovy 药丸销售令投资者失望",
+    "summary": "Novo Nordisk A/S’s popular Wegovy weight-loss pill disappointed investors with sales that failed to live up to the hype of an obesity drug whose launch was billed the most successful in history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/novo-nordisk-boosts-forecast-on-soaring-glp-1-sales",
+    "published": "Tue, 04 Aug 2026 16:48:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:33.487716"
+  },
+  {
+    "id": "acec7802cefd",
+    "title": "Siemens Energy CEO Sees Solid Outlook on Broad Electrification",
+    "title_cn": "西门子能源首席执行官看到了广泛电气化的光明前景",
+    "summary": "Siemens Energy AG sought to reassure investors that demand for gas turbines will remain strong into next year, pointing to power-hungry data centers as only one among a range of drivers in the global electrification trend.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/siemens-energy-targets-top-end-of-outlook-range-on-record-orders",
+    "published": "Wed, 05 Aug 2026 05:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:33.576358"
+  },
+  {
+    "id": "06a18825b808",
+    "title": "Mitsubishi UBE Cement Is Said to Plan for December Tokyo IPO",
+    "title_cn": "三菱宇部水泥据称计划12月东京IPO",
+    "summary": "Mitsubishi UBE Cement Corp. is planning to go public as soon as December, according to people familiar with the matter, five years after being formed through units of Japanese materials companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/mitsubishi-ube-cement-is-said-to-plan-for-december-tokyo-listing",
+    "published": "Wed, 05 Aug 2026 03:51:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:33.734455"
+  },
+  {
+    "id": "84e7de3936cc",
+    "title": "SK Hynix Climbs as Investors Bet on Shareholder Return Plan",
+    "title_cn": "投资者押注股东回报计划，SK 海力士股价上涨",
+    "summary": "Shares of SK Hynix Inc. advanced, lifted by an overnight rally in US chipmakers and speculation that the Korean firm may soon unveil buybacks and other details of a broader shareholder return plan.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/sk-hynix-climbs-as-investors-bet-on-shareholder-return-plan",
+    "published": "Wed, 05 Aug 2026 02:37:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:33.833697"
+  },
+  {
+    "id": "e7e6e68622bb",
+    "title": "Yann LeCun Joins New AI Investing Firm 224 Ventures",
+    "title_cn": "Yann LeCun 加入新的人工智能投资公司 224 Ventures",
+    "summary": "Meta Platforms Inc.’s former chief AI scientist Yann LeCun, often called one of the “godfathers of AI,” is joining a new venture firm to invest in artificial intelligence startups.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures",
+    "published": "Wed, 05 Aug 2026 10:00:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:34.135669"
+  },
+  {
+    "id": "048ee5d2e352",
+    "title": "Shein Is Said to Plan Gauging Investor Demand for Hong Kong IPO",
+    "title_cn": "据称 Shein 计划衡量投资者对香港 IPO 的需求",
+    "summary": "Fast-fashion retailer Shein Global Holdings Ltd. is planning to start gauging investor demand for its Hong Kong initial public offering as soon as this week, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/shein-is-said-to-plan-gauging-investor-demand-for-hong-kong-ipo",
+    "published": "Wed, 05 Aug 2026 09:14:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:34.227360"
+  },
+  {
+    "id": "fbdf0c9f48f2",
+    "title": "Sandisk Earnings Give Dip Buyers an Opening After Stock’s Plunge",
+    "title_cn": "闪迪的盈利为股价暴跌后的低迷买家提供了机会",
+    "summary": "Sandisk Corp.’s high flying stock tumbled back to Earth last month. Its earnings after the market closes Wednesday will test whether strong results are enough to entice investors to buy in again.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/sandisk-earnings-give-dip-buyers-an-opening-after-stock-s-plunge",
+    "published": "Wed, 05 Aug 2026 09:09:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:34.315377"
   },
   {
     "id": "6373814adfa3",
@@ -407,7 +437,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/eqt-run-scaleup-europe-fund-invests-in-satellite-startup-iceye",
     "published": "Wed, 05 Aug 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.413789"
+    "fetched_at": "2026-08-05T10:08:34.479306"
+  },
+  {
+    "id": "cc3bed0daf58",
+    "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
+    "title_cn": "报告称，美国对中国光学零件的禁令损害了超大规模企业",
+    "summary": "A potential ban on the import of Chinese optical transceiver modules into the US would inflict collateral damage on US hyperscalers, exacerbating a supply bottleneck that no American firm can ease, research firm Counterpoint warned on Wednesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/us-ban-on-chinese-optical-parts-hurts-hyperscalers-report-says",
+    "published": "Wed, 05 Aug 2026 08:23:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:34.636543"
+  },
+  {
+    "id": "ebcec195a43b",
+    "title": "Taiyo Yuden Raises Earnings Forecast, Capex Plans on AI Demand",
+    "title_cn": "太阳诱电提高盈利预测，资本支出计划满足人工智能需求",
+    "summary": "Taiyo Yuden Co., a maker of a key component used in AI data centers, boosted its full-year earnings outlook by 50% to above estimates and said it’s speeding up production capacity expansion plans to meet accelerating demand.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/taiyo-yuden-raises-earnings-forecast-capex-plans-on-ai-demand",
+    "published": "Wed, 05 Aug 2026 08:17:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:34.799758"
+  },
+  {
+    "id": "61107f31651d",
+    "title": "AMD Slides After AI Growth Outlook Underwhelms Investors",
+    "title_cn": "人工智能增长前景令投资者失望后 AMD 股价下滑",
+    "summary": "Advanced Micro Devices Inc. tumbled in early trading after giving an underwhelming sales outlook, a sign shareholders expected more of a return from the global expansion of AI data centers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally",
+    "published": "Tue, 04 Aug 2026 20:19:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:35.107698"
+  },
+  {
+    "id": "b2f0c26f81ff",
+    "title": "Australia Doubles Down on Data Centers Using Renewable Power",
+    "title_cn": "澳大利亚加大力度建设使用可再生能源的数据中心",
+    "summary": "Australia’s federal government will press on with a nationwide push to ensure new data centers use renewable energy, pledging to pass laws despite opposition to the move from some regional administrations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/australia-doubles-down-on-data-centers-using-renewable-power",
+    "published": "Wed, 05 Aug 2026 07:56:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:35.206610"
+  },
+  {
+    "id": "e9138abd8ad2",
+    "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+    "title_cn": "人工智能需求强劲，英伟达合作伙伴鸿海销售额增长 54%",
+    "summary": "Hon Hai Precision Industry Co. reported a 54.2% increase in monthly sales, signaling sustained demand in global AI infrastructure buildout by customers such as Nvidia Corp.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand",
+    "published": "Wed, 05 Aug 2026 07:37:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:35.303705"
+  },
+  {
+    "id": "1a301a4423b2",
+    "title": "Infineon Falls as AI Boom Concerns Trump Strong Sales Forecast",
+    "title_cn": "人工智能热潮令人担忧，英飞凌股价下跌，销售预测强劲",
+    "summary": "Infineon Technologies AG shares fell after a strong revenue forecast in the current quarter failed to convince investors, who are increasingly worried about high valuations in the chip sector.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises",
+    "published": "Wed, 05 Aug 2026 05:30:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:35.421095"
   },
   {
     "id": "437e0d17accd",
@@ -417,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/moove-hits-2-1-billion-valuation-in-mubadala-led-fundraising",
     "published": "Wed, 05 Aug 2026 07:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.503014"
+    "fetched_at": "2026-08-05T10:08:35.519573"
   },
   {
     "id": "961b1592efb1",
@@ -427,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/moonshot-backer-monolith-seeks-to-raise-500-million-in-new-fund",
     "published": "Wed, 05 Aug 2026 06:39:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.873565"
+    "fetched_at": "2026-08-05T10:08:35.628395"
   },
   {
     "id": "d68ec35d846d",
@@ -437,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/lab-monkeys-for-26-000-show-china-s-biotech-quest-to-rival-us",
     "published": "Tue, 04 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:20.966290"
+    "fetched_at": "2026-08-05T10:08:35.719336"
   },
   {
     "id": "9520ed6dfca4",
@@ -447,17 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-official-newspaper-warns-us-over-expanding-tech-curbs",
     "published": "Wed, 05 Aug 2026 03:50:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.068182"
-  },
-  {
-    "id": "1a301a4423b2",
-    "title": "Infineon Revenue Forecast Beats as AI Power Chip Demand Rises",
-    "title_cn": "AI 电源芯片需求上升，英飞凌收入预测超预期",
-    "summary": "Infineon Technologies AG forecast revenue in the current quarter that beat analysts’ estimates as the German chipmaker profits from rising demand for its data-center chips and price increases.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/infineon-revenue-forecast-beats-as-ai-power-chip-demand-rises",
-    "published": "Wed, 05 Aug 2026 05:30:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.153740"
+    "fetched_at": "2026-08-05T10:08:35.866485"
   },
   {
     "id": "536036ebb910",
@@ -467,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/australia-to-cut-price-of-rooftop-solar-for-factories-afr-says",
     "published": "Tue, 04 Aug 2026 23:40:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.263264"
+    "fetched_at": "2026-08-05T10:08:35.982777"
   },
   {
     "id": "710712eeea41",
@@ -477,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-05/-holistic-ai-safety-approach-needed-rhodium-s-goujon-video",
     "published": "Wed, 05 Aug 2026 02:57:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.355576"
+    "fetched_at": "2026-08-05T10:08:36.157904"
   },
   {
     "id": "592803de28f9",
@@ -487,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/temasek-morgan-stanley-are-said-to-eye-adtek-pre-ipo-investment",
     "published": "Wed, 05 Aug 2026 02:27:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.450764"
+    "fetched_at": "2026-08-05T10:08:36.246303"
   },
   {
     "id": "3d10b1be6bf7",
@@ -497,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-05/spacex-s-ai-splurge-puts-a-damper-on-debut-earnings-video",
     "published": "Wed, 05 Aug 2026 02:20:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.582986"
+    "fetched_at": "2026-08-05T10:08:36.418071"
   },
   {
     "id": "99eb6c9ea247",
@@ -507,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/chinese-optical-stocks-slide-on-report-of-proposed-us-import-ban",
     "published": "Wed, 05 Aug 2026 01:37:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.683376"
+    "fetched_at": "2026-08-05T10:08:36.514380"
   },
   {
     "id": "f99078fdcfe8",
@@ -517,87 +597,127 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/openai-says-models-breached-boundaries-during-outside-testing",
     "published": "Tue, 04 Aug 2026 21:31:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.817749"
+    "fetched_at": "2026-08-05T10:08:36.620555"
   },
   {
-    "id": "94a2d5a95f98",
-    "title": "Coupang’s Losses Widen After Fallout From Data Leak Spreads",
-    "title_cn": "数据泄露事件蔓延后，Coupang 损失扩大",
-    "summary": "Coupang Inc. reported a larger-than-expected loss, underscoring the damage from a massive personal data leak that resulted in heavy administrative fines in South Korea, its primary market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/coupang-s-losses-grow-after-fallout-from-data-breach-deepens",
-    "published": "Tue, 04 Aug 2026 22:21:33 GMT",
+    "id": "eeaa1c085d49",
+    "title": "Oil Normalization to Take 'A Long Time,' Ashford Says",
+    "title_cn": "阿什福德表示，石油正常化需要“很长时间”",
+    "summary": "Emily Ashford, head of energy research at Standard Chartered, discusses energy markets as hopes rise for a US-Iran deal to open the Strait of Hormuz. \"The market's hoping that we see maybe just a short-term pressure release valve,\" she tells Bloomberg Television. Ashford adds that pace of normalization in oil markets will still take \"a long time.\"  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/oil-normalization-to-take-a-long-time-ashford-says-video",
+    "published": "Wed, 05 Aug 2026 10:00:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:21.914890"
+    "fetched_at": "2026-08-05T10:08:37.109057"
   },
   {
-    "id": "753667ce76cb",
-    "title": "Breaking Down SpaceX’s First Earnings Report | The Close 8/4/2026",
-    "title_cn": "SpaceX 首份盈利报告详解 |收盘价 8/4/2026",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Invesco Portfolio Manager, Global Equity Anaya Lodaya, The Sundial Group of Companies Founder & Chair Richelieu Dennis, Mizuho Managing Director, Restaurants Equity Research Nick Setyan, ScottsMiracle-Gro CEO & President Nate Baxter, Gabelli Funds Portfolio Manager & Managing Director, Growth Portfolios John Belton, Gerber Kawasaki Wealth & Investment Management Co-Founder, President & CEO Ross Gerber, GraniteShares Founder & CEO Will Rhind, The Westly Group Founder & Managing Partner Steve Westly, Former Harvard Business School Institute for Strategy & Competitiveness Senior Researcher & Economist Sinead O’Sullivan, Moody’s Ratings Senior VP of Global Project & Infrastructure Finance John Medina, & Generac Holdings CEO, President & Chairman Aaron Jagdfeld. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/the-close-8-4-2026-video",
-    "published": "Tue, 04 Aug 2026 23:08:50 GMT",
+    "id": "e9cba3ea5986",
+    "title": "Low Rivers Pressure Governments Across Europe, Romania Strained",
+    "title_cn": "河流水量减少给欧洲各国政府带来压力，罗马尼亚陷入紧张",
+    "summary": "Drought is adding to strains on a political class in Romania that’s been deadlocked for months over the formation of a new administration.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-05/low-rivers-pressure-governments-across-europe-romania-strained",
+    "published": "Wed, 05 Aug 2026 09:59:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.036072"
+    "fetched_at": "2026-08-05T10:08:37.231303"
   },
   {
-    "id": "1e87d8a00558",
-    "title": "Data Centers Exposed US Carriers to China Hack, House Panel Says",
-    "title_cn": "众议院小组称，数据中心使美国运营商面临中国黑客攻击",
-    "summary": "US telecommunications companies connected their systems to data centers and related infrastructure in a way that exposed them to cybersecurity vulnerabilities, potentially opening the door to the massive Salt Typhoon hacking campaign that breached several mobile carriers two years ago, according to a House committee.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/chinese-telecom-hack-exposed-data-centers-house-report-to-say",
-    "published": "Tue, 04 Aug 2026 19:22:51 GMT",
+    "id": "49d79406f054",
+    "title": "Philippine Court Dismisses Duterte Plea to Void Impeachment",
+    "title_cn": "菲律宾法院驳回杜特尔特关于弹劾无效的请求",
+    "summary": "The Philippine Supreme Court dismissed petitions questioning the House of Representatives’ impeachment proceedings against Vice President Sara Duterte, removing a legal challenge against efforts to oust her.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/philippine-court-dismisses-vp-duterte-s-plea-to-void-impeachment",
+    "published": "Wed, 05 Aug 2026 08:48:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.123672"
+    "fetched_at": "2026-08-05T10:08:37.353486"
   },
   {
-    "id": "e9a11e313cb4",
-    "title": "SoftBank Earnings to Test Appetite for AI Bets Beyond ChatGPT",
-    "title_cn": "软银财报将测试 ChatGPT 之外的 AI 赌注兴趣",
-    "summary": "SoftBank Group Corp.’s stock faces a critical test this week as investors seek reassurance that the company’s AI value extends beyond its debt-fueled bet on embattled ChatGPT operator OpenAI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/softbank-earnings-to-test-appetite-for-ai-bets-beyond-chatgpt",
-    "published": "Tue, 04 Aug 2026 23:00:00 GMT",
+    "id": "f96aa59512cb",
+    "title": "China Hits Back at US With Tighter Drone Export Curbs, Sanctions",
+    "title_cn": "中国通过更严格的无人机出口限制和制裁来回击美国",
+    "summary": "China tightened its exports controls on drones to the US and sanctioned multiple American companies in a series of retaliatory measures against Washington’s widening tech curbs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-hits-back-at-us-with-tighter-drone-export-curbs-sanctions",
+    "published": "Wed, 05 Aug 2026 08:27:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.218468"
+    "fetched_at": "2026-08-05T10:08:37.459873"
   },
   {
-    "id": "61107f31651d",
-    "title": "AMD Shares Slide After AI Growth Outlook Underwhelms Investors",
-    "title_cn": "人工智能增长前景令投资者失望后，AMD 股价下跌",
-    "summary": "Advanced Micro Devices Inc. tumbled in late trading after giving an underwhelming sales outlook, a sign shareholders expected more of a return from the global expansion of AI data centers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/amd-sales-outlook-disappoints-investors-after-ai-fueled-rally",
-    "published": "Tue, 04 Aug 2026 20:19:02 GMT",
+    "id": "1998f3325bbe",
+    "title": "Pentagon Removes Decades of Weapon Test Reports From Public View",
+    "title_cn": "五角大楼从公众视野中删除了数十年的武器测试报告",
+    "summary": "The Pentagon has quietly removed decades of weapons testing publications from its public website, saying adversaries could exploit the data with artificial intelligence even as critics said the move raised transparency concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/pentagon-removes-decades-of-weapon-test-reports-from-public-view",
+    "published": "Wed, 05 Aug 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.305592"
+    "fetched_at": "2026-08-05T10:08:37.566687"
   },
   {
-    "id": "1eb2a07f3e89",
-    "title": "Fmr. Harvard Researcher on the Economics of SpaceX",
-    "title_cn": "先生。哈佛大学 SpaceX 经济学研究员",
-    "summary": "Sinead O'Sullivan, Economist and Former Senior Researcher at Harvard Business School's Institute for Strategy and Competitiveness, discussed the current state and future prospects of SpaceX's Starship program. She emphasized that while investors remain optimistic, the technology is not yet fully developed due to the immense complexity of Starship compared to the Falcon rocket. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/fmr-harvard-researcher-on-the-economics-of-spacex-video",
-    "published": "Tue, 04 Aug 2026 21:23:59 GMT",
+    "id": "543e7f870a7f",
+    "title": "Bangladesh’s Ousted Leader Says She’ll Return Despite Threats",
+    "title_cn": "孟加拉国被罢免的领导人表示，尽管受到威胁，她仍将返回",
+    "summary": "Bangladesh’s ousted leader Sheikh Hasina vowed to return to her country despite facing a death sentence, calling it her “duty” to help rescue a country she described as sliding into economic distress and democratic decline.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/bangladesh-s-ousted-leader-says-she-ll-return-despite-threats",
+    "published": "Wed, 05 Aug 2026 08:54:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.398013"
+    "fetched_at": "2026-08-05T10:08:37.714682"
   },
   {
-    "id": "55aa959dd650",
-    "title": "SpaceX Is a Compelling Investment, Gerber Says",
-    "title_cn": "格伯表示 SpaceX 是一项引人注目的投资",
-    "summary": "SpaceX reports revenue of $7.8 billion for the second quarter, topping Wall Street estimates. But Elon Musk's company reported an operating loss of $1.26 billion from its AI business. Ross Gerber of Gerber Kawasaki Wealth and Investment Management says SpaceX is still a compelling stock to own. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/spacex-is-a-compelling-investment-gerber-says-video",
-    "published": "Tue, 04 Aug 2026 20:29:44 GMT",
+    "id": "b78fc08153d0",
+    "title": "RBC's Bell Expresses Caution on Falling Oil Prices",
+    "title_cn": "加拿大皇家银行贝尔对油价下跌表示谨慎",
+    "summary": "Mike Bell, head of market strategy at RBC BlueBay, discusses the outlook for energy prices as oil slid to the lowest in over three weeks on Tuesday amid optimism over prospects of an agreement that would reopen the Strait of Hormuz. He speaks on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/rbc-s-bell-expresses-caution-on-falling-oil-prices-video",
+    "published": "Wed, 05 Aug 2026 08:53:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.498287"
+    "fetched_at": "2026-08-05T10:08:37.910452"
   },
   {
-    "id": "dcc955b89a1e",
-    "title": "ScottsMiracle-Gro CEO on New Growth Algorithm, Pricing",
-    "title_cn": "ScottsMiracle-Gro 首席执行官谈新增长算法、定价",
-    "summary": "Nate Baxter, CEO and President of Scott'sMiracle-Gro, appeared on the program following the company's recent investor day. He shared that although he has recently assumed the CEO role, his discussions with investors over the past eighteen months have maintained a consistent strategic message. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/scottsmiracle-gro-ceo-on-new-growth-algorithm-pricing-video",
-    "published": "Tue, 04 Aug 2026 21:11:34 GMT",
+    "id": "16d3a0496f11",
+    "title": "Trump Fuels Hopes of Hormuz Reopening With Hints a Deal Is Near",
+    "title_cn": "特朗普暗示即将达成协议，点燃了霍尔木兹重新开放的希望",
+    "summary": "US President Donald Trump said a deal on the Strait of Hormuz is possible as early as Wednesday, as expectations build for an arrangement that allows for the reopening of the crucial waterway for energy markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/trump-fuels-hopes-of-hormuz-reopening-with-hints-a-deal-is-near",
+    "published": "Wed, 05 Aug 2026 08:21:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.608810"
+    "fetched_at": "2026-08-05T10:08:38.352407"
+  },
+  {
+    "id": "c49e5bbf4136",
+    "title": "Yemen’s Houthis Say They’ll Target Tankers in Northern Red Sea",
+    "title_cn": "也门胡塞武装称他们将袭击红海北部的油轮",
+    "summary": "Yemen’s Houthi militant group said it would attack Saudi oil tankers in the northern Red Sea, a potential fresh escalation in its attacks on shipping.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/yemen-s-houthis-say-they-ll-target-tankers-in-northern-red-sea",
+    "published": "Wed, 05 Aug 2026 08:19:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:38.442347"
+  },
+  {
+    "id": "9e62ec5fdd49",
+    "title": "India Court Orders Removal of Abusive Content Targeting Minister",
+    "title_cn": "印度法院下令删除针对部长的辱骂内容",
+    "summary": "An Indian court has issued a temporary order directing US social media firms to take down abusive and AI-generated content targeting a federal minister over the country’s ethanol-blending policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/india-court-orders-removal-of-abusive-content-targeting-minister",
+    "published": "Wed, 05 Aug 2026 08:08:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:38.592141"
+  },
+  {
+    "id": "46871cacb813",
+    "title": "Russian Air Attack Kills 17 With Ukraine Unable to Stop Missiles",
+    "title_cn": "俄罗斯空袭造成17人死亡，乌克兰无法阻止导弹",
+    "summary": "At least 17 people were killed in Russian air attacks on Ukraine overnight amid fresh signs that Kyiv’s ability to defend against missile strikes is becoming exhausted.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/russian-air-attack-kills-17-with-ukraine-unable-to-stop-missiles",
+    "published": "Wed, 05 Aug 2026 07:46:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:38.698953"
+  },
+  {
+    "id": "96f157a4b822",
+    "title": "SpaceX Falls On AI Spending Fears | Daybreak Europe 8/5/2026",
+    "title_cn": "SpaceX 因人工智能支出担忧而倒下欧洲黎明 2026 年 8 月 5 日",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nToday's guest: Christian Bruch, Siemens Energy, CEO; Sven Schneider, Infineon, CFO & Charu Chanana, Saxo, Chief Investment Strategist (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-05/daybreak-europe-8-5-2026-video",
+    "published": "Wed, 05 Aug 2026 07:17:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-05T10:08:38.865525"
   },
   {
     "id": "6a7a67433ee1",
@@ -607,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/el-sayed-wins-michigan-democratic-senate-primary-nbc-projects",
     "published": "Wed, 05 Aug 2026 06:12:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.900099"
+    "fetched_at": "2026-08-05T10:08:38.963744"
   },
   {
     "id": "7a0a9df3c222",
@@ -617,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/wanted-philippines-senator-dela-rosa-still-at-large-officials",
     "published": "Wed, 05 Aug 2026 06:47:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:22.997220"
+    "fetched_at": "2026-08-05T10:08:39.080273"
   },
   {
     "id": "7d62eb6b8537",
@@ -627,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-05/trump-says-strait-of-hormuz-will-be-open-very-soon-video",
     "published": "Wed, 05 Aug 2026 05:39:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.090438"
+    "fetched_at": "2026-08-05T10:08:39.167011"
   },
   {
     "id": "b4b43f7bc016",
@@ -637,17 +757,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/michigan-democratic-primary-for-us-senate-seat-in-dead-heat",
     "published": "Wed, 05 Aug 2026 05:39:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.184906"
+    "fetched_at": "2026-08-05T10:08:39.245895"
   },
   {
     "id": "1f00515039e9",
-    "title": "Iran Weighs Allowing Europe to Clear Mines in Hormuz (Video)",
-    "title_cn": "伊朗考虑允许欧洲清除霍尔木兹的地雷（视频）",
-    "summary": "",
+    "title": "Iran Weighs Allowing Europe to Clear Mines in Hormuz",
+    "title_cn": "伊朗考虑允许欧洲清除霍尔木兹的地雷",
+    "summary": "Iran is considering allowing European nations to remove mines from the Strait of Hormuz in a potential climbdown that could form part of a deal to normalize shipping in the waterway. Iran has repeatedly said it won’t allow foreign countries to join demining efforts, but in private meetings in recent weeks Tehran has softened that stance, according to diplomats familiar with the matter. Bloomberg's Weilun Soon breaks down the situation. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-05/iran-weighs-allowing-europe-to-clear-mines-in-hormuz-video",
     "published": "Wed, 05 Aug 2026 05:12:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.316920"
+    "fetched_at": "2026-08-05T10:08:39.403293"
   },
   {
     "id": "18f3485332f1",
@@ -657,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/trump-says-he-hasn-t-decided-whether-to-keep-pirro-after-clash",
     "published": "Wed, 05 Aug 2026 04:47:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.431367"
+    "fetched_at": "2026-08-05T10:08:39.571847"
   },
   {
     "id": "b2dfe335ce3c",
@@ -667,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-05/european-and-russian-ex-officials-held-talks-on-war-in-ukraine",
     "published": "Wed, 05 Aug 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.540187"
+    "fetched_at": "2026-08-05T10:08:39.664797"
   },
   {
     "id": "2d772507a538",
@@ -677,126 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-04/qatar-signals-progress-toward-short-term-deal-between-us-iran",
     "published": "Tue, 04 Aug 2026 11:36:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.696502"
-  },
-  {
-    "id": "db4b7175ba96",
-    "title": "US Bans Export of Tungsten, Battery Waste to Secure Supplies",
-    "title_cn": "美国禁止出口钨和电池废料以确保供应",
-    "summary": "The US will ban exports of tungsten scrap and recycled battery materials from later this month, less than a week after President Donald Trump handed authorities power to keep potentially critical materials inside the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/us-bans-export-of-tungsten-battery-waste-to-protect-supplies",
-    "published": "Wed, 05 Aug 2026 02:07:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.799356"
-  },
-  {
-    "id": "314008a598ff",
-    "title": "Lula Battles Trump, Milei Over Perceived Election Meddling",
-    "title_cn": "卢拉因特朗普、米莱涉嫌干预选举而与特朗普作斗争",
-    "summary": "Brazil plunged deeper into diplomatic disputes with two of its most important partners in the Americas over what it described as attempts by the conservative governments of the US and Argentina to interfere in its October presidential election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/lula-battles-trump-milei-over-perceived-election-meddling",
-    "published": "Wed, 05 Aug 2026 02:24:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.891792"
-  },
-  {
-    "id": "24ec5df1b8f9",
-    "title": "Michigan Democrats Brace for Tectonic Shift in Key Senate Race",
-    "title_cn": "密歇根州民主党人准备迎接参议院关键竞选的结构性转变",
-    "summary": "The fight between the progressive and centrist wings of the Democratic Party reached its most consequential front of the 2026 midterm primary season as Michigan voters on Tuesday decided whether to send Abdul El-Sayed or Haley Stevens to a general election that could determine the balance of power in the US Senate.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/michigan-democrats-brace-for-tectonic-shift-in-key-senate-race",
-    "published": "Tue, 04 Aug 2026 10:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:23.984463"
-  },
-  {
-    "id": "458d1a569aae",
-    "title": "Treasury Secretary Scott Bessent Draws on Hedge Fund Tactics to Help Rescue Yen",
-    "title_cn": "财政部长斯科特·贝森特利用对冲基金策略帮助拯救日元",
-    "summary": "Scott Bessent wanted to help Japan prop up its currency. So he decided to let the media spy on his notepad, where a to-do list included buying as much as $10 billion in yen.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/treasury-secretary-scott-bessent-draws-on-hedge-fund-tactics-to-help-rescue-yen",
-    "published": "Wed, 05 Aug 2026 00:27:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.095466"
-  },
-  {
-    "id": "b6930e817654",
-    "title": "China’s Open-Weight Models to Be Spared US Tests, US Firms Told",
-    "title_cn": "美国公司告诉中国的开放式重量模型将免受美国测试",
-    "summary": "The White House has told top US artificial intelligence companies that open-weight models being developed by their Chinese rivals won’t be subject to government testing under the Trump administration’s new AI safety framework, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/china-s-open-weight-models-to-be-spared-us-tests-us-firms-told",
-    "published": "Wed, 05 Aug 2026 00:11:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.200621"
-  },
-  {
-    "id": "9af0e0adfc85",
-    "title": "North Korea Warns of More Military Steps Over Japan’s Rearmament",
-    "title_cn": "朝鲜警告将对日本重新军备采取更多军事措施",
-    "summary": "North Korea said it will pursue unspecified “additional military options” in response to Japan’s expanding defense capabilities, accusing Tokyo of reviving the ambitions of a “war criminal state.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-05/north-korea-warns-of-more-military-steps-over-japan-s-rearmament",
-    "published": "Wed, 05 Aug 2026 00:10:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.313983"
-  },
-  {
-    "id": "238c907c8fee",
-    "title": "Michigan Primary To Set Midterms Roadmap | Balance of Power: Late Edition 08/04/2026",
-    "title_cn": "密歇根州初选将制定中期路线图|权力平衡：最新版 08/04/2026",
-    "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Retired Lieutenant General Karen Gibson, a former deputy director of national intelligence for national security partnerships, says the newly disclosed incidents involving OpenAI models show that a proposed federal review framework for advanced AI systems may need to be mandatory. Jessica Taylor, Senate and Governors editor at The Cook Political Report, says Michigan’s Democratic Senate primary is a test of whether the party’s progressive energy can translate to a general election in a closely divided state. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/balance-of-power-late-edition-08-04-2026-video",
-    "published": "Tue, 04 Aug 2026 23:13:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.414397"
-  },
-  {
-    "id": "bfb9e01531cf",
-    "title": "Michigan Is a Test of Democrats’ Leftward Shift: Taylor",
-    "title_cn": "密歇根州是对民主党左倾的考验：泰勒",
-    "summary": "Jessica Taylor, Senate and Governors editor at The Cook Political Report, says Michigan’s Democratic Senate primary is a test of whether the party’s progressive energy can translate to a general election in a closely divided state. Taylor says if Abdul El-Sayed wins, Democrats may have to spend more heavily to retain swing voters against Trump-endorsed Republican Mike Rogers. She also says Senator Susan Collins’ opposition to Todd Blanche’s nomination for attorney general reflects the political need to distance herself from President Trump as she enters what Taylor calls her most vulnerable reelection position yet. She speaks with Kailey Leinz and Joe Mathieu on the late edition of Bloomberg’s “Balance of Power.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/michigan-is-a-test-of-democrats-leftward-shift-taylor-video",
-    "published": "Tue, 04 Aug 2026 22:24:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.517803"
-  },
-  {
-    "id": "d56e28dd5c22",
-    "title": "Mandatory AI Safeguards May Be Needed: Gibson",
-    "title_cn": "可能需要强制性人工智能保障措施：吉布森",
-    "summary": "Retired Lieutenant General Karen Gibson, a former deputy director of national intelligence for national security partnerships, says the newly disclosed incidents involving OpenAI models show that a proposed federal review framework for advanced AI systems may need to be mandatory. Gibson also discusses reports of depleted US munitions stockpiles, arguing that Iran believes time is on its side and that it can make the conflict politically, militarily and economically intolerable for Washington. She speaks with Joe Mathieu and Kailey Leinz on the late edition of Bloomberg’s “Balance of Power.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-04/mandatory-ai-safeguards-may-be-needed-gibson-video",
-    "published": "Tue, 04 Aug 2026 22:13:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.613106"
-  },
-  {
-    "id": "2955ce372f41",
-    "title": "Republican Collins to Oppose Blanche Confirmation to Lead DOJ",
-    "title_cn": "共和党柯林斯反对确认布兰奇领导司法部",
-    "summary": "Hours after Todd Blanche’s nomination to be US attorney general cleared a key Senate vote on Tuesday, Senator Susan Collins, a Maine Republican, said she would oppose the confirmation on the floor.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/blanche-attorney-general-nomination-advanced-by-senate-panel",
-    "published": "Tue, 04 Aug 2026 15:09:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.794499"
-  },
-  {
-    "id": "aa7cadeff300",
-    "title": "Saudi Arabia Tries Diplomacy to Stop Houthi Attacks Growing",
-    "title_cn": "沙特阿拉伯尝试通过外交手段阻止胡塞武装袭击升级",
-    "summary": "Saudi Arabia wants to contain a renewed conflict with Houthi militants through behind-the-scenes diplomacy, according to people familiar with the matter, in a bid to prevent clashes with the Iran-backed group hurting its oil industry and economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/saudi-arabia-tries-diplomacy-to-stop-houthi-attacks-escalating",
-    "published": "Tue, 04 Aug 2026 14:01:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:24.895945"
-  },
-  {
-    "id": "d80f8d933be8",
-    "title": "Fuel Shipping Waiver Extension ‘Quite Likely,’ Energy Chief Says",
-    "title_cn": "能源主管表示，燃料运输豁免“很有可能”延长",
-    "summary": "Trump administration officials are moving toward granting another temporary extension of a waiver of a century-old shipping law that made it easier to move oil, fuel and fertilizer around the US, the nation’s energy chief said Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-04/fuel-shipping-waiver-extension-quite-likely-energy-chief-says",
-    "published": "Tue, 04 Aug 2026 21:08:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-05T07:19:25.002644"
+    "fetched_at": "2026-08-05T10:08:39.772693"
   }
 ]
