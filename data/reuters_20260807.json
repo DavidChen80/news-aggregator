@@ -1,5 +1,95 @@
 [
   {
+    "id": "1b1980ca95db",
+    "title": "Masters in Business: Jack Raines (Podcast)",
+    "title_cn": "商业硕士：杰克·雷恩斯（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/masters-in-business-jack-raines-podcast",
+    "published": "Fri, 07 Aug 2026 19:07:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.312206"
+  },
+  {
+    "id": "c364beb61ecf",
+    "title": "Bloomberg Daybreak Weekend: US CPI Preview (Podcast)",
+    "title_cn": "彭博黎明周末：美国 CPI 预览（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-daybreak-weekend-us-cpi-preview-podcast",
+    "published": "Fri, 07 Aug 2026 19:07:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.444125"
+  },
+  {
+    "id": "c072cdea29b4",
+    "title": "Stock Movers: Atlassian, Airbnb, Sweetgreen (Podcast)",
+    "title_cn": "库存推动者：Atlassian、Airbnb、Sweetgreen（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/stock-movers-atlassian-airbnb-sweetgreen-podcast",
+    "published": "Fri, 07 Aug 2026 19:05:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.564510"
+  },
+  {
+    "id": "a5fe12ebec41",
+    "title": "Week Ahead: Hims & Hers, CoreWeave, Cava Group (Podcast)",
+    "title_cn": "未来一周：Hims & Hers、CoreWeave、Cava Group（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/week-ahead-hims-hers-coreweave-cava-group-podcast",
+    "published": "Fri, 07 Aug 2026 19:01:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.686324"
+  },
+  {
+    "id": "c58aec4a0cd3",
+    "title": "Senate Passes Sanctions, Trump To Appeal Ballroom Defeat, More",
+    "title_cn": "参议院通过制裁，特朗普对舞厅失败提出上诉等等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/senate-passes-sanctions-trump-to-appeal-ballroom-defeat-more-msjb8tul",
+    "published": "Fri, 07 Aug 2026 19:00:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.808063"
+  },
+  {
+    "id": "5321032439ab",
+    "title": "Bloomberg Wall Street Week: August 7th, 2026 (Podcast)",
+    "title_cn": "彭博华尔街周刊：2026 年 8 月 7 日（播客）",
+    "summary": "Source: Bloomberg, 48:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-wall-street-week-august-7th-2026-podcast",
+    "published": "Fri, 07 Aug 2026 18:51:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:38.902084"
+  },
+  {
+    "id": "ec1e686f7c2d",
+    "title": "Bloomberg Tech: Jobs, AI and Tech Earnings (Podcast)",
+    "title_cn": "彭博科技：就业、人工智能和科技收益（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-tech-jobs-ai-and-tech-earnings-podcast",
+    "published": "Fri, 07 Aug 2026 18:44:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:39.095799"
+  },
+  {
+    "id": "ab2042aa6820",
+    "title": "Bloomberg Money: August 7th, 2026 (Podcast)",
+    "title_cn": "彭博财经：2026 年 8 月 7 日（播客）",
+    "summary": "Source: Bloomberg, 42:55",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-money-august-7th-2026-podcast",
+    "published": "Fri, 07 Aug 2026 18:12:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:39.217469"
+  },
+  {
+    "id": "fbf755c2c4a6",
+    "title": "Senate Passes Russia Sanctions Bill, Trump To Appeal Ballroom Defeat, More",
+    "title_cn": "参议院通过俄罗斯制裁法案、特朗普对舞厅失利提出上诉等",
+    "summary": "Listen for the latest from Bloomberg News",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-07/senate-passes-sanctions-trump-to-appeal-ballroom-defeat-more",
+    "published": "Fri, 07 Aug 2026 18:03:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:39.322898"
+  },
+  {
     "id": "41ccca11605c",
     "title": "Bloomberg Talks: David Risher (Podcast)",
     "title_cn": "彭博社谈话：大卫·里舍（播客）",
@@ -7,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-david-risher-podcast",
     "published": "Fri, 07 Aug 2026 17:21:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:15.756537"
+    "fetched_at": "2026-08-07T19:16:39.413452"
   },
   {
     "id": "65a8a6f72459",
@@ -17,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-jason-robins-podcast",
     "published": "Fri, 07 Aug 2026 17:19:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:16.512915"
+    "fetched_at": "2026-08-07T19:16:39.506641"
   },
   {
     "id": "9f7d0eb5c893",
@@ -27,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/jobs-report-eases-rate-hike-bets-cassidy-backs-blanche-more",
     "published": "Fri, 07 Aug 2026 17:02:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:17.902193"
+    "fetched_at": "2026-08-07T19:16:39.612576"
   },
   {
     "id": "56866b8f316f",
@@ -37,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-intelligence-under-armour-cuts-sales-view-podcast",
     "published": "Fri, 07 Aug 2026 16:55:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:18.972205"
+    "fetched_at": "2026-08-07T19:16:39.716745"
   },
   {
     "id": "ad4ad217d048",
@@ -47,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-surveillance-tv-august-7th-2026-podcast",
     "published": "Fri, 07 Aug 2026 16:38:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:19.337219"
+    "fetched_at": "2026-08-07T19:16:39.893468"
   },
   {
     "id": "5f601ad355cc",
@@ -57,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-daniel-driscoll-podcast",
     "published": "Fri, 07 Aug 2026 16:32:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:19.877264"
+    "fetched_at": "2026-08-07T19:16:40.000975"
   },
   {
     "id": "8e9735b4214a",
@@ -67,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/us-employers-shed-jobs-cassidy-backs-blanche-for-ag-more",
     "published": "Fri, 07 Aug 2026 16:13:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.200592"
+    "fetched_at": "2026-08-07T19:16:40.095002"
   },
   {
     "id": "de1a3cfe9b3f",
@@ -77,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/a-new-middle-east-security-framework-takes-shape-in-mecca",
     "published": "Fri, 07 Aug 2026 16:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.298954"
+    "fetched_at": "2026-08-07T19:16:40.197783"
   },
   {
     "id": "f360fa1dbc0f",
@@ -87,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-business-of-sports-novig-s-jacob-fortinsky-podcast",
     "published": "Fri, 07 Aug 2026 15:22:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.425773"
+    "fetched_at": "2026-08-07T19:16:40.344863"
   },
   {
     "id": "a55bbf146102",
@@ -97,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/jobs-miss-eases-fed-pressure-cassidy-backs-blanche-for-ag-more",
     "published": "Fri, 07 Aug 2026 15:17:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.547777"
+    "fetched_at": "2026-08-07T19:16:40.456239"
   },
   {
     "id": "b28fc7c7766d",
@@ -107,127 +197,57 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-07/stock-movers-sweetgreen-under-armour-maplebear-podcast",
     "published": "Fri, 07 Aug 2026 15:17:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.667970"
+    "fetched_at": "2026-08-07T19:16:40.566973"
   },
   {
-    "id": "3b15f9397507",
-    "title": "Bloomberg Talks: Kevin Hassett (Podcast)",
-    "title_cn": "彭博社谈话：凯文·哈塞特（播客）",
-    "summary": "Source: Bloomberg, 14:49",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-kevin-hassett-podcast",
-    "published": "Fri, 07 Aug 2026 14:55:00 GMT",
+    "id": "2c7f28f84943",
+    "title": "NYC Economic Head on City-Run Grocery Stores, Biz Outlook",
+    "title_cn": "纽约市经济主管城市经营杂货店和商业前景",
+    "summary": "NYC's Head of Economic Justice, Julie Su, sits down with Romain Bostick to cover Mayor Mamdani's plan for city-run grocery stores, developing economic growth, and pied-a-tierre taxes. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/nyc-economic-head-on-nyc-run-grocery-stores-biz-outlook-video",
+    "published": "Fri, 07 Aug 2026 19:06:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.787944"
+    "fetched_at": "2026-08-07T19:16:40.891582"
   },
   {
-    "id": "b7d6fafa94ba",
-    "title": "Stock Movers: Sweetgreen, UnderArmour, Doximity (Podcast)",
-    "title_cn": "库存推动者：Sweetgreen、UnderArmour、Doximity（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/stock-movers-sweetgreen-underarmour-doximity-podcast",
-    "published": "Fri, 07 Aug 2026 14:32:29 GMT",
+    "id": "abd601a7bc36",
+    "title": "Odd Lots: What It’s Like to Collaborate With Big Brand Names",
+    "title_cn": "奇怪的很多：与大品牌合作是什么感觉",
+    "summary": "In the age of brand collaborations, how do companies work together to benefit from each other's influence?\n\nOn this episode of the Odd Lots podcast, Fishwife CEO Becca Millstein joins Tracy Alloway and Joe Weisenthal to talk about the company's partnership with brands like Whole Foods and Fly By Jing. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/odd-lots-what-it-s-like-to-collaborate-with-big-brand-names",
+    "published": "Fri, 07 Aug 2026 19:00:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:20.904923"
+    "fetched_at": "2026-08-07T19:16:40.994062"
   },
   {
-    "id": "1e255d7337ab",
-    "title": "Inside DOJ’s Trump Banner and ‘Beautification’ Project",
-    "title_cn": "司法部的特朗普横幅和“美化”项目内部",
-    "summary": "Documents obtained by FOIA Files reveal ethics questions, security oddities and a big price tag behind the festooning of Washington.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/inside-doj-s-trump-banner-and-beautification-project",
-    "published": "Fri, 07 Aug 2026 14:30:01 GMT",
+    "id": "d5f397ded7a6",
+    "title": "How the Food Industry Is Dealing With the Cyclospora Outbreak",
+    "title_cn": "食品工业如何应对环孢子虫爆发",
+    "summary": "Since Taco Bell was linked to the cyclospora outbreak, the fast food chain removed the allegedly implicated lettuce from its supply chain and, in a bid to win back hesitant diners, began offering special discounts on a concoction known as the Enchirito.\n\nBloomberg Businessweek's Deena Shanker joins Max Chafkin and Stacey Vanek Smith on the Everybody's Business podcast to discuss how the food industry is dealing with the growing health crisis. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/how-the-food-industry-is-dealing-with-cyclospora-crisis-video",
+    "published": "Fri, 07 Aug 2026 18:50:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.065544"
+    "fetched_at": "2026-08-07T19:16:41.084011"
   },
   {
-    "id": "e6945602f869",
-    "title": "Stocks Rise as Jobs Fall, Hassett: Trump, Warsh Talk a Lot, More",
-    "title_cn": "哈塞特：随着就业机会的减少，股市上涨：特朗普和沃什谈了很多，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/stocks-rise-as-jobs-fall-hassett-trump-warsh-talk-a-lot-more",
-    "published": "Fri, 07 Aug 2026 14:23:19 GMT",
+    "id": "2ef5181e6c20",
+    "title": "Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets",
+    "title_cn": "就业数据疲软削弱美联储加息押注，美国国债上涨",
+    "summary": "US Treasuries rallied after data showed employers unexpectedly cut jobs in July, suggesting labor market challenges that could impact the Federal Reserve’s willingness to raise interest rates.\n\nThe yield on two-year US Treasuries, which are sensitive to near-term moves in Fed monetary policy, fell as much as nine basis points on Friday to 4.15% as traders cut bets on interest-rate hikes in the coming months. The moves were pared later in the New York trading session as oil rose, though the two-year yield remained about four basis points lower on the day near 4.20%. We get reaction from Tom Tzitzouris, Head of Fixed Income Research at Baird Strategas. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/treasuries-rally-as-jobs-data-trims-fed-rate-hike-bets-video",
+    "published": "Fri, 07 Aug 2026 18:49:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.176236"
+    "fetched_at": "2026-08-07T19:16:41.177221"
   },
   {
-    "id": "6e7a301e7414",
-    "title": "Bloomberg Talks: Rick Rieder (Podcast)",
-    "title_cn": "彭博社谈话：Rick Rieder（播客）",
-    "summary": "Source: Bloomberg, 14:14",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-rick-rieder-podcast",
-    "published": "Fri, 07 Aug 2026 14:21:10 GMT",
+    "id": "93b2efd14cae",
+    "title": "Cyclospora Outbreak Sends Shivers Through Restaurant Stocks",
+    "title_cn": "环孢菌爆发让餐馆股票不寒而栗",
+    "summary": "The cyclospora outbreak in the U.S. tied to lettuce used in restaurants has made more than 10,000 people sick according to the Centers for Disease Control. This has caused fewer people to go out to eat or get fast food. Now this is starting to hurt the restaurant sector. R.J. Hottovy of Placer.ai research covers the space and joins \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/cyclospora-outbreak-puts-pressure-on-restaurant-stocks-video",
+    "published": "Fri, 07 Aug 2026 14:38:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.308263"
-  },
-  {
-    "id": "b214ce4ff1e5",
-    "title": "Bloomberg Talks: Gene Seroka (Podcast)",
-    "title_cn": "彭博社谈话：吉恩·塞罗卡（播客）",
-    "summary": "Source: Bloomberg, 14:14",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-talks-gene-seroka-podcast",
-    "published": "Fri, 07 Aug 2026 14:19:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.424060"
-  },
-  {
-    "id": "1a66131e3169",
-    "title": "Bloomberg Surveillance: July Jobs (Podcast)",
-    "title_cn": "彭博监测：7 月乔布斯（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/bloomberg-surveillance-july-jobs-podcast",
-    "published": "Fri, 07 Aug 2026 14:12:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.588879"
-  },
-  {
-    "id": "52cb994a3b47",
-    "title": "AI Data Center Buildout Stretches Deeper Into Manufacturing Supply Chain",
-    "title_cn": "人工智能数据中心建设深入制造业供应链",
-    "summary": "The construction boom is starting to trickle down more broadly across the industrial ecosystem.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/ai-data-center-buildout-stretches-deeper-into-manufacturing-supply-chain",
-    "published": "Fri, 07 Aug 2026 14:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.765511"
-  },
-  {
-    "id": "1e579aa08c44",
-    "title": "Stocks Rise on Jobs Miss, Market Dial Back Fed Hike Bets, More",
-    "title_cn": "就业机会缺失，股市上涨，市场回落美联储加息押注等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-07/stocks-rise-on-jobs-miss-market-dial-back-fed-hike-bets-more",
-    "published": "Fri, 07 Aug 2026 13:38:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:21.909837"
-  },
-  {
-    "id": "70fda856be7d",
-    "title": "DraftKings Blasts Prediction Bets on Earnings Calls Comments",
-    "title_cn": "DraftKings 猛烈抨击盈利电话会议评论中的预测押注",
-    "summary": "DraftKings Inc. Chief Executive Officer Jason Robins said he doesn’t think it is good that bettors are placing prediction market wagers on what executives say on company earnings calls.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/draftkings-ceo-blasts-prediction-bets-on-earnings-call-comments",
-    "published": "Fri, 07 Aug 2026 17:30:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:22.556439"
-  },
-  {
-    "id": "71801472f696",
-    "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
-    "title_cn": "随着人工智能恐惧消退和兴奋恢复，大型科技股强势回归",
-    "summary": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the world’s biggest technology companies are suddenly leading the way once again.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
-    "published": "Fri, 07 Aug 2026 10:30:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:22.696858"
-  },
-  {
-    "id": "69f75d5973c3",
-    "title": "US Treasury Sparks Debate Over Auction Cutbacks to Temper Yields",
-    "title_cn": "美国财政部引发关于削减拍卖以调节收益率的争论",
-    "summary": "The US Treasury triggered debate this week about something that’s for years been an article of faith about the world’s biggest bond market: the government’s auctions of notes and bonds will just have to keep getting bigger.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasury-sparks-debate-over-auction-cutbacks-to-temper-yields",
-    "published": "Fri, 07 Aug 2026 17:33:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:22.808878"
+    "fetched_at": "2026-08-07T19:16:41.282458"
   },
   {
     "id": "58e19963e068",
@@ -237,7 +257,67 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 06 Aug 2026 22:10:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:22.935143"
+    "fetched_at": "2026-08-07T19:16:41.379047"
+  },
+  {
+    "id": "bffa6c517c4b",
+    "title": "US Stocks Pare Gains as Jobs Data Seen Easing Fed Rate Hike",
+    "title_cn": "由于就业数据显示美联储加息放缓，美国股市收窄涨幅",
+    "summary": "US stocks pared gains on Friday after jobs data showed the US economy unexpectedly shed jobs in July, which could prompt the Federal Reserve to delay interest-rate increases.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-futures-rise-as-trump-touts-iran-progress-awaiting-jobs-data",
+    "published": "Fri, 07 Aug 2026 11:44:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:41.493111"
+  },
+  {
+    "id": "62dfdf1bd0e2",
+    "title": "Phelan Confirmed to Lead Trump’s Council of Economic Advisers",
+    "title_cn": "费兰确认领导特朗普经济顾问委员会",
+    "summary": "The US Senate confirmed Christopher Phelan, a former adviser to the Federal Reserve Bank of Minneapolis, as chairman of the White House Council of Economic Advisers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/phelan-confirmed-to-lead-trump-s-council-of-economic-advisers",
+    "published": "Fri, 07 Aug 2026 18:28:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:41.624471"
+  },
+  {
+    "id": "6bbda60f0f2b",
+    "title": "Once-AAA Bonds on New York Megamall Face $350 Million Loss",
+    "title_cn": "纽约大型购物中心曾经的 AAA 级债券面临 3.5 亿美元损失",
+    "summary": "Pyramid Management Group, a shopping center developer, is buying back the mortgage on a struggling megamall it owns in Syracuse, New York, for cents on the dollar, mostly wiping out bonds that originally carried top ratings.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/once-aaa-bonds-on-new-york-megamall-face-over-350-million-loss",
+    "published": "Fri, 07 Aug 2026 15:34:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:41.710216"
+  },
+  {
+    "id": "70fda856be7d",
+    "title": "DraftKings Blasts Prediction Bets on Earnings Calls Comments",
+    "title_cn": "DraftKings 猛烈抨击盈利电话会议评论中的预测押注",
+    "summary": "DraftKings Inc. Chief Executive Officer Jason Robins said he doesn’t think it is good that bettors are placing prediction market wagers on what executives say on company earnings calls.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/draftkings-ceo-blasts-prediction-bets-on-earnings-call-comments",
+    "published": "Fri, 07 Aug 2026 17:30:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:41.811403"
+  },
+  {
+    "id": "71801472f696",
+    "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+    "title_cn": "随着人工智能恐惧消退和兴奋恢复，大型科技股强势回归",
+    "summary": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the world’s biggest technology companies are suddenly leading the way once again.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
+    "published": "Fri, 07 Aug 2026 10:30:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:41.942536"
+  },
+  {
+    "id": "69f75d5973c3",
+    "title": "US Treasury Sparks Debate Over Auction Cutbacks to Temper Yields",
+    "title_cn": "美国财政部引发关于削减拍卖以调节收益率的争论",
+    "summary": "The US Treasury triggered debate this week about something that’s for years been an article of faith about the world’s biggest bond market: the government’s auctions of notes and bonds will just have to keep getting bigger.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasury-sparks-debate-over-auction-cutbacks-to-temper-yields",
+    "published": "Fri, 07 Aug 2026 17:33:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:42.061819"
   },
   {
     "id": "7fcedcaded86",
@@ -247,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
     "published": "Fri, 07 Aug 2026 16:44:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.100052"
+    "fetched_at": "2026-08-07T19:16:42.169341"
   },
   {
     "id": "cee0e8a91476",
@@ -257,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-tariffs-tortuous-to-soybean-trade-china-diplomat-says",
     "published": "Fri, 07 Aug 2026 16:43:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.239313"
+    "fetched_at": "2026-08-07T19:16:42.274848"
   },
   {
     "id": "a0c13879b393",
@@ -267,17 +347,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/under-armour-cuts-sales-view-on-softer-demand-video",
     "published": "Fri, 07 Aug 2026 16:40:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.362549"
+    "fetched_at": "2026-08-07T19:16:42.397657"
   },
   {
     "id": "1e978ed13dc9",
     "title": "Congo to Investigate Reports of Excess Uranium in Cobalt Exports",
-    "title_cn": "刚果将调查钴出口中铀过量的报道",
+    "title_cn": "刚果将调查钴出口中铀过剩的报道",
     "summary": "The Democratic Republic of Congo will look into reports of excess uranium leaving the country in its exports of battery mineral cobalt, the government said Thursday.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/congo-to-investigate-reports-of-excess-uranium-in-cobalt-exports",
     "published": "Fri, 07 Aug 2026 16:36:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.494819"
+    "fetched_at": "2026-08-07T19:16:42.551997"
   },
   {
     "id": "b05a8b911487",
@@ -287,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/blackrock-s-rieder-sees-ai-helping-buoy-gdp-even-as-hiring-slows",
     "published": "Fri, 07 Aug 2026 16:25:38 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.621552"
+    "fetched_at": "2026-08-07T19:16:42.726703"
   },
   {
     "id": "8702cfd6e1cd",
@@ -297,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/fitch-sees-chile-budget-as-key-to-halting-rising-debt-burden",
     "published": "Fri, 07 Aug 2026 16:20:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.815784"
+    "fetched_at": "2026-08-07T19:16:42.820036"
   },
   {
     "id": "ab75c8a7e802",
@@ -307,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets",
     "published": "Fri, 07 Aug 2026 12:46:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:23.932453"
+    "fetched_at": "2026-08-07T19:16:42.967283"
   },
   {
     "id": "1347d0d0b84d",
@@ -317,87 +397,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus",
     "published": "Fri, 07 Aug 2026 16:13:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.045921"
+    "fetched_at": "2026-08-07T19:16:43.058145"
   },
   {
-    "id": "bffa6c517c4b",
-    "title": "US Stocks Jump as Jobs Data Seen Easing Rate Hike Pressures",
-    "title_cn": "由于就业数据缓解加息压力，美国股市上涨",
-    "summary": "US stocks rose on Friday after jobs data showed the US economy unexpectedly shed jobs in July, which could prompt the Federal Reserve to delay interest-rate increases.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-futures-rise-as-trump-touts-iran-progress-awaiting-jobs-data",
-    "published": "Fri, 07 Aug 2026 11:44:11 GMT",
+    "id": "c47e47be60a0",
+    "title": "US Sanctions Iranian Crypto Exchanges As Talks Continue",
+    "title_cn": "随着谈判继续，美国制裁伊朗加密货币交易所",
+    "summary": "The US ramped up economic pressure on Iran with more sanctions targeting digital asset exchanges and networks connected to the country’s shadow-banking system, as Washington seeks leverage amid ongoing negotiations over the war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-sanctions-iranian-digital-exchanges-as-trump-promises-deal",
+    "published": "Fri, 07 Aug 2026 18:03:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.159993"
+    "fetched_at": "2026-08-07T19:16:43.331632"
   },
   {
-    "id": "1e7914242055",
-    "title": "European Stocks Gain for Fourth Straight Week on Strong Earnings",
-    "title_cn": "欧洲股市因盈利强劲而连续第四周上涨",
-    "summary": "European stocks rose for a fourth week in a row as a stronger-than-expected earnings season and growing M&amp;A chatter lifted regional benchmarks to fresh records.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/european-stocks-set-for-fourth-straight-weekly-gain-on-earnings",
-    "published": "Fri, 07 Aug 2026 07:20:34 GMT",
+    "id": "a0f7ed8911bd",
+    "title": "CAIS CEO Talks New Funding Round, AI’s Fintech Impact",
+    "title_cn": "CAIS 首席执行官谈论新一轮融资以及人工智能对金融科技的影响",
+    "summary": "Matt Brown, Founder, Chairman, and CEO of CAIS, discussed the company's recent $170 million Series D funding round led by Vista and supported by AllianzBernstein, Blue Owl, and Carlyle, which values the alternative asset investment platform at over $2 billion—more than double its previous valuation. Brown highlighted CAIS's 37% organic growth and explained that the new capital will be used to pursue strategic mergers and acquisitions in response to ongoing fintech industry consolidation, enhance AI capabilities to improve the platform's user experience for advisers and asset managers, and provide liquidity to long-term shareholders through an institutional tender offer facilitated by Nasdaq Private Markets. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-06/cais-ceo-talks-new-funding-round-ai-s-fintech-impact-video",
+    "published": "Thu, 06 Aug 2026 21:26:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.295174"
+    "fetched_at": "2026-08-07T19:16:43.443801"
   },
   {
-    "id": "f6b9f61381ac",
-    "title": "Ethan Allen CEO Responds to Activist Push",
-    "title_cn": "伊森艾伦首席执行官回应激进分子的推动",
-    "summary": "Activist investor Douglas Bergeron is pushing to replace Ethan Allen’s entire board, arguing the furniture maker needs an overhaul of its leadership and governance. Ethan Allen Chairman & CEO Farooq Kathwari responds to the activist campaign on Bloomberg Open Interest. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-07/ethan-allen-ceo-responds-to-activist-push-video",
-    "published": "Fri, 07 Aug 2026 15:50:27 GMT",
+    "id": "61a1fc6fd853",
+    "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
+    "title_cn": "就业冲击推动股市走高未平仓合约 8/7/2026",
+    "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Stocks rise after data showed US employers unexpectedly cut jobs in July. Meanwhile, oil wavers as prospects for a lasting agreement to reopen the Strait of Hormuz remain elusive. National Economic Council Director Kevin Hassett, BlackRock’s Rick Rieder and Julia Coronado of MacroPolicy Perspectives react to the surprising jobs report and what it means for the economy and Fed policy. Tanger CEO Stephen Yalof offers a read on the consumer. Plus, Ethan Allen Chairman & CEO Farooq Kathwari responds to an activist campaign seeking to replace the company’s entire board. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/open-interest-8-7-2026-video",
+    "published": "Fri, 07 Aug 2026 17:38:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.436178"
-  },
-  {
-    "id": "e9031992af3b",
-    "title": "Bloomberg Surveillance 8/7/2026",
-    "title_cn": "彭博社监测 2026 年 8 月 7 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-surveillance-8-7-2026-video",
-    "published": "Fri, 07 Aug 2026 15:47:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.559134"
-  },
-  {
-    "id": "a3ab058db8f5",
-    "title": "Brasil protege su selva, Bolivia podría estar pagando el precio",
-    "title_cn": "巴西保护丛林，玻利维亚可能要付出代价",
-    "summary": "Brasil redujo drásticamente la deforestación gracias a una aplicación más estricta de la ley. Pero la destrucción no se detuvo: cruzó la frontera. ¿Cómo se convirtió Bolivia en la nueva crisis de la Amazonía? (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-07/brasil-reduce-la-tala-bolivia-estaria-pagando-el-precio-video",
-    "published": "Fri, 07 Aug 2026 15:39:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.669693"
-  },
-  {
-    "id": "6bbda60f0f2b",
-    "title": "Once-AAA Bonds on New York Megamall Face Over $350 Million Loss",
-    "title_cn": "纽约大型购物中心曾经的 AAA 级债券面临超过 3.5 亿美元的损失",
-    "summary": "Pyramid Management Group, a shopping center developer, is buying back the mortgage on a struggling megamall it owns in Syracuse, New York, for cents on the dollar, mostly wiping out bonds that originally carried top ratings.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/once-aaa-bonds-on-new-york-megamall-face-over-350-million-loss",
-    "published": "Fri, 07 Aug 2026 15:34:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.775969"
-  },
-  {
-    "id": "bf943949740f",
-    "title": "4% Rule Doesn't Reflect Realities of Retirement, Says Bruce Wolfe",
-    "title_cn": "布鲁斯·沃尔夫 (Bruce Wolfe) 表示，4% 规则并不能反映退休的现实",
-    "summary": "Soaring markets have swollen the ranks of 401(k) millionaires, and companies have largely freed themselves from costly traditional pension plans in favor of self-directed, employee-funded savings that bestow tax benefits on employers and workers.\nBruce Wolfe, founder at CS Wolfe & Associates, discusses how inflation and market uncertainty are changing the way we save for, and spend during, retirement. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-07/4-rule-doesn-t-reflect-retirement-realities-says-wolfe-video",
-    "published": "Fri, 07 Aug 2026 15:29:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.874936"
-  },
-  {
-    "id": "d18a7f6f45bf",
-    "title": "Port of LA Partners with California for Vincent Thomas Bridge Project",
-    "title_cn": "洛杉矶港与加州合作开展文森特托马斯大桥项目",
-    "summary": "US importers are rushing goods into the nation’s two busiest ports, pushing up ocean transport costs during the wait for more tariffs and an extended bout of economic uncertainty stemming from the Iran war.\nGene Seroka, CEO of the Port of Los Angeles, discusses port labor, innovation, and supply shocks impacting trade with the US. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-07/port-of-la-partners-with-california-for-bridge-project-video",
-    "published": "Fri, 07 Aug 2026 15:22:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:24.979826"
+    "fetched_at": "2026-08-07T19:16:43.555740"
   },
   {
     "id": "9abbe11d0b30",
@@ -407,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
     "published": "Fri, 07 Aug 2026 17:15:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:25.540377"
+    "fetched_at": "2026-08-07T19:16:43.658481"
   },
   {
     "id": "dd0a0ee92b55",
@@ -417,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/bloomberg-tech-8-07-2026-video",
     "published": "Fri, 07 Aug 2026 17:05:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:25.661378"
+    "fetched_at": "2026-08-07T19:16:43.751800"
   },
   {
     "id": "d347bd811066",
@@ -427,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/why-twilio-sees-more-ai-upside-ahead-video",
     "published": "Fri, 07 Aug 2026 17:04:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:25.771793"
+    "fetched_at": "2026-08-07T19:16:43.853532"
   },
   {
     "id": "352ef237a6c3",
@@ -437,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/world-cup-gives-draftkings-a-new-growth-engine-video",
     "published": "Fri, 07 Aug 2026 17:02:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:25.923988"
+    "fetched_at": "2026-08-07T19:16:43.959577"
   },
   {
     "id": "a68b402d7495",
@@ -447,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/why-take-two-won-t-share-grand-theft-auto-vi-pre-order-numbers",
     "published": "Fri, 07 Aug 2026 17:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.054521"
+    "fetched_at": "2026-08-07T19:16:44.069362"
   },
   {
     "id": "eea10806ece4",
@@ -457,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/gta-vi-preorders-are-unprecedented-take-two-says-video",
     "published": "Fri, 07 Aug 2026 17:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.169461"
+    "fetched_at": "2026-08-07T19:16:44.171660"
   },
   {
     "id": "4052900f9a06",
@@ -467,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/fcc-removes-nationwide-cap-limiting-local-tv-ownership-video",
     "published": "Fri, 07 Aug 2026 16:55:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.293583"
+    "fetched_at": "2026-08-07T19:16:44.260489"
   },
   {
     "id": "30b77b1c5d80",
@@ -477,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/eu-accelerates-sovereign-satellite-plans-citing-defense-needs",
     "published": "Fri, 07 Aug 2026 16:21:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.432244"
+    "fetched_at": "2026-08-07T19:16:44.386132"
   },
   {
     "id": "c8bf2fa5874a",
@@ -487,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/lyft-is-transforming-into-a-global-brand-ceo-says-video",
     "published": "Fri, 07 Aug 2026 16:02:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.571613"
+    "fetched_at": "2026-08-07T19:16:44.492990"
   },
   {
     "id": "6d1c71a24cde",
@@ -497,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/qvc-issues-1-2-billion-of-10-yield-debt-as-it-exits-bankruptcy",
     "published": "Fri, 07 Aug 2026 15:49:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.685053"
+    "fetched_at": "2026-08-07T19:16:44.590742"
   },
   {
     "id": "e6df2e7ec59b",
@@ -507,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/china-s-top-ai-model-evaded-testing-environment-researchers-say",
     "published": "Fri, 07 Aug 2026 07:07:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:26.921258"
+    "fetched_at": "2026-08-07T19:16:44.724735"
   },
   {
     "id": "8c0777b9bdc2",
@@ -517,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/tanger-ceo-yalof-on-retail-traffic-sales-outlook-and-ai-video",
     "published": "Fri, 07 Aug 2026 15:22:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.057961"
+    "fetched_at": "2026-08-07T19:16:44.826058"
   },
   {
     "id": "c8c447a7e0ec",
@@ -527,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/what-deepmind-s-shakeup-means-for-the-uk-s-ai-ambitions-video",
     "published": "Fri, 07 Aug 2026 14:22:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.181348"
+    "fetched_at": "2026-08-07T19:16:44.936107"
   },
   {
     "id": "8de87db5adcf",
@@ -537,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/sk-hynix-is-said-to-mull-options-for-3-billion-chongqing-assets",
     "published": "Fri, 07 Aug 2026 13:36:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.314753"
+    "fetched_at": "2026-08-07T19:16:45.024641"
   },
   {
     "id": "189d3046cfd0",
@@ -547,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/chinese-ai-chipmakers-poised-to-gain-from-beijing-s-tech-push",
     "published": "Fri, 07 Aug 2026 03:32:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.460111"
+    "fetched_at": "2026-08-07T19:16:45.121383"
   },
   {
     "id": "3e8cb88c4e98",
@@ -557,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/indra-wins-1-6-billion-contract-with-eu-satellite-project",
     "published": "Fri, 07 Aug 2026 12:06:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.753033"
+    "fetched_at": "2026-08-07T19:16:45.216795"
   },
   {
     "id": "3f742ec0f3ca",
@@ -567,67 +597,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/must-focus-on-ai-governance-security-control-blundell-video",
     "published": "Fri, 07 Aug 2026 11:10:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:27.871668"
+    "fetched_at": "2026-08-07T19:16:45.301220"
   },
   {
-    "id": "c6e79d3b66cf",
-    "title": "Apple Moves to Capitalize on iPhone Desire in India",
-    "title_cn": "苹果采取行动，充分利用印度对 iPhone 的需求",
-    "summary": "The iPhone maker has added stores and financing deals to get more users",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/apple-moves-to-capitalize-on-iphone-desire-in-india",
-    "published": "Fri, 07 Aug 2026 11:02:01 GMT",
+    "id": "6cc7079dec95",
+    "title": "Cassidy Decides to Support Blanche for Attorney General",
+    "title_cn": "卡西迪决定支持布兰奇担任司法部长",
+    "summary": "Republican Senator Bill Cassidy said he will support Todd Blanche to be the next attorney general. This likely paves the way for his confirmation. Blanche is the former personal attorney of President Donald Trump. Bloomberg's Josh Wingrove reports from the White House. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/cassidy-decides-to-support-blanche-for-attorney-general-video",
+    "published": "Fri, 07 Aug 2026 18:56:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:28.053959"
+    "fetched_at": "2026-08-07T19:16:45.768994"
   },
   {
-    "id": "aeda71fd58b8",
-    "title": "DeepSeek’s Plan to Raise Prices Have a Whole Industry Watching",
-    "title_cn": "DeepSeek的涨价计划引起了整个行业的关注",
-    "summary": "A price hike could blunt the competitiveness of the hard-charging Chinese AI industry.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-07/deepseek-s-plan-to-raise-prices-have-a-whole-industry-watching",
-    "published": "Fri, 07 Aug 2026 10:31:40 GMT",
+    "id": "7d844d7a000e",
+    "title": "US Army to Spend $400 Million on Counter-Drone Lasers",
+    "title_cn": "美国陆军将斥资 4 亿美元用于反无人机激光器",
+    "summary": "The US Army will buy at least $400 million worth of counter-drone lasers from AeroVironment Inc., according to a person familiar with the matter, as militaries seek ways to knock down the unmanned systems proliferating across modern battlefields.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-army-to-spend-400-million-on-aerovironment-anti-drone-lasers",
+    "published": "Fri, 07 Aug 2026 18:17:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:28.257955"
+    "fetched_at": "2026-08-07T19:16:45.879920"
   },
   {
-    "id": "fc263fb52a5c",
-    "title": "US Reviews China’s Offshore Access to Nvidia Chips After AI Breakthroughs",
-    "title_cn": "人工智能取得突破后，美国审查中国对英伟达芯片的海外访问",
-    "summary": "A key US agency is reviewing how Chinese AI firms acquire and access Nvidia Corp. chips overseas, following a spate of technological breakthroughs that highlighted their ability to use the cutting-edge hardware despite Washington’s restrictions on shipments to the Asian country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
-    "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "id": "778c23d58458",
+    "title": "Mamdani’s Handling of Pied-à-Terre Tax Challenged by Homeowners",
+    "title_cn": "马姆达尼对临时住所税的处理受到房主的质疑",
+    "summary": "New York City was sued by a group of homeowners seeking to delay the rollout of Mayor Zohran Mamdani’s new pied-à-terre tax, saying the publication of a list of properties that could be subject to the levy has caused “mass confusion” and invited “unwarranted scrutiny” of their personal information.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/mamdani-s-handling-of-pied-a-terre-tax-challenged-by-homeowners",
+    "published": "Fri, 07 Aug 2026 18:33:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:28.377111"
-  },
-  {
-    "id": "d654d0f08179",
-    "title": "Alito Tells WSJ He’s ‘Here for Another Term’ on Supreme Court",
-    "title_cn": "阿利托告诉《华尔街日报》，他将在最高法院“连任”",
-    "summary": "US Supreme Court Justice Samuel Alito told the Wall Street Journal that he is “here for another term,” casting doubt on the idea that he might retire late this year to ensure President Donald Trump can appoint a successor.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/alito-tells-wsj-he-s-here-for-another-term-on-supreme-court",
-    "published": "Fri, 07 Aug 2026 17:47:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:28.908801"
-  },
-  {
-    "id": "2259dbeab106",
-    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham",
-    "title_cn": "美国参议院通过格雷厄姆倡导的俄罗斯制裁法案",
-    "summary": "The US Senate passed a sweeping new Russia sanctions bill authorizing punishing tariffs on China, India and other top buyers of the country’s oil and gas as well as extended Iran sanctions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-senate-passes-russia-sanctions-bill-championed-by-graham",
-    "published": "Fri, 07 Aug 2026 17:23:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.053043"
-  },
-  {
-    "id": "0dc08f95492a",
-    "title": "Trump Vows Supreme Court Appeal of White House Ballroom Defeat",
-    "title_cn": "特朗普誓言最高法院对白宫宴会厅失败提出上诉",
-    "summary": "President Donald Trump said he would appeal to the Supreme Court after a federal appeals court ruled he lacks the legal authority to build his sprawling White House ballroom without congressional approval.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-vows-supreme-court-appeal-of-white-house-ballroom-defeat",
-    "published": "Fri, 07 Aug 2026 17:19:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.162636"
+    "fetched_at": "2026-08-07T19:16:45.986621"
   },
   {
     "id": "0b61cf5c7140",
@@ -637,7 +637,77 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-warsh-talk-about-economy-all-the-time-hassett-says",
     "published": "Fri, 07 Aug 2026 17:02:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.293449"
+    "fetched_at": "2026-08-07T19:16:46.103499"
+  },
+  {
+    "id": "55d2d7694912",
+    "title": "Senate Nod for US Ambassador to Brazil Could Deepen Showdown",
+    "title_cn": "参议院批准美国驻巴西大使可能会加深摊牌",
+    "summary": "The Senate confirmed Daniel Perez to be the new US ambassador to Brazil on Friday, a move that risks deepening a growing feud with Brasilia, which has yet to give diplomatic approval to President Donald Trump’s pick.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/senate-nod-for-us-ambassador-to-brazil-could-deepen-showdown",
+    "published": "Fri, 07 Aug 2026 18:23:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.231661"
+  },
+  {
+    "id": "d5ffff7a8288",
+    "title": "Trump’s BLS Pick Brett Matsumoto Confirmed in Senate Vote",
+    "title_cn": "特朗普的劳工统计局提名布雷特·松本在参议院投票中得到确认",
+    "summary": "The US Senate confirmed Brett Matsumoto as commissioner of the Bureau of Labor Statistics, reinstating a crucial leadership role after President Donald Trump abruptly fired his predecessor last year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-s-bls-pick-brett-matsumoto-confirmed-in-senate-vote",
+    "published": "Fri, 07 Aug 2026 18:22:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.325948"
+  },
+  {
+    "id": "01936e43c2e0",
+    "title": "Trump Again Moves to Fire Cook, Reviving Fed Independence Fight",
+    "title_cn": "特朗普再次解雇库克，重燃美联储独立之战",
+    "summary": "President Donald Trump has revived his threat to fire Federal Reserve Governor Lisa Cook over unproven allegations of mortgage fraud, according to a letter seen by Bloomberg, a move that could renew a legal fight over the central bank’s independence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-again-moves-to-fire-cook-reviving-fed-independence-fight",
+    "published": "Fri, 07 Aug 2026 18:06:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.435471"
+  },
+  {
+    "id": "8e4b7eb6079c",
+    "title": "US Army Wants to Let Companies Test Weapons Faster",
+    "title_cn": "美国陆军希望让公司更快地测试武器",
+    "summary": "The US Army wants to see new weapons on the battlefield faster. So the Pentagon will open up five military ranges to private industry to let them test drones, counter-drone technology, long-range missiles, low-cost air defense interceptors and other weapons. Bloomberg's Tyler Kendall sat down with US Army Secretary Dan Driscoll.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-07/us-army-wants-to-let-companies-test-weapons-faster-video",
+    "published": "Fri, 07 Aug 2026 18:00:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.523194"
+  },
+  {
+    "id": "d654d0f08179",
+    "title": "Alito Tells WSJ He’s ‘Here for Another Term’ on Supreme Court",
+    "title_cn": "阿利托告诉《华尔街日报》，他将在最高法院“连任”",
+    "summary": "US Supreme Court Justice Samuel Alito told the Wall Street Journal that he is “here for another term,” casting doubt on the idea that he might retire late this year to ensure President Donald Trump can appoint a successor.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/alito-tells-wsj-he-s-here-for-another-term-on-supreme-court",
+    "published": "Fri, 07 Aug 2026 17:47:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.626135"
+  },
+  {
+    "id": "2259dbeab106",
+    "title": "US Senate Passes Russia Sanctions Bill Championed by Graham",
+    "title_cn": "美国参议院通过格雷厄姆倡导的俄罗斯制裁法案",
+    "summary": "The US Senate passed a sweeping new Russia sanctions bill authorizing punishing tariffs on China, India and other top buyers of the country’s oil and gas as well as extended Iran sanctions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-senate-passes-russia-sanctions-bill-championed-by-graham",
+    "published": "Fri, 07 Aug 2026 17:23:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.706007"
+  },
+  {
+    "id": "0dc08f95492a",
+    "title": "Trump Vows Supreme Court Appeal of White House Ballroom Defeat",
+    "title_cn": "特朗普誓言最高法院对白宫宴会厅失败提出上诉",
+    "summary": "President Donald Trump said he would appeal to the Supreme Court after a federal appeals court ruled he lacks the legal authority to build his sprawling White House ballroom without congressional approval.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-07/trump-vows-supreme-court-appeal-of-white-house-ballroom-defeat",
+    "published": "Fri, 07 Aug 2026 17:19:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-07T19:16:46.840877"
   },
   {
     "id": "b8aff8aa9cfd",
@@ -647,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
     "published": "Thu, 06 Aug 2026 18:47:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.410857"
+    "fetched_at": "2026-08-07T19:16:46.942675"
   },
   {
     "id": "4790e53deb42",
@@ -657,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-army-to-host-firms-at-military-bases-to-speed-weapons-tests",
     "published": "Fri, 07 Aug 2026 15:02:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.520791"
+    "fetched_at": "2026-08-07T19:16:47.070017"
   },
   {
     "id": "0134561c91c9",
@@ -667,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/trump-and-warsh-talk-all-the-time-hassett-says-video",
     "published": "Fri, 07 Aug 2026 15:09:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.631384"
+    "fetched_at": "2026-08-07T19:16:47.157679"
   },
   {
     "id": "c087176efc05",
@@ -677,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/cassidy-backs-blanche-paving-way-for-trump-s-attorney-general",
     "published": "Fri, 07 Aug 2026 14:51:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.738206"
+    "fetched_at": "2026-08-07T19:16:47.248911"
   },
   {
     "id": "8072b8c63414",
@@ -687,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/introducing-the-our-town-podcast-video-msj2yhfx",
     "published": "Fri, 07 Aug 2026 15:08:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.869258"
+    "fetched_at": "2026-08-07T19:16:47.353147"
   },
   {
     "id": "53468d906fdd",
@@ -697,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/the-deal-that-may-reshape-the-amazon-s-future",
     "published": "Fri, 07 Aug 2026 15:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:29.993913"
+    "fetched_at": "2026-08-07T19:16:47.465554"
   },
   {
     "id": "06c8ebdb08c8",
@@ -707,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-07/nec-s-hassett-on-us-job-losses-fed-independence-video",
     "published": "Fri, 07 Aug 2026 14:56:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.105665"
+    "fetched_at": "2026-08-07T19:16:47.554932"
   },
   {
     "id": "2ca9942a603b",
@@ -717,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/spain-threatens-to-retaliate-against-italy-over-migration-curbs",
     "published": "Fri, 07 Aug 2026 11:42:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.222745"
+    "fetched_at": "2026-08-07T19:16:47.649627"
   },
   {
     "id": "019b8ad188b5",
@@ -727,76 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-07/nationalizing-water-would-cost-140-billion-burnham-is-warned",
     "published": "Fri, 07 Aug 2026 12:53:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.358631"
-  },
-  {
-    "id": "2cb0c1650c1c",
-    "title": "Cameroon Bonds Slide as President Biya’s Absence Fuels Succession Concerns",
-    "title_cn": "比亚总统缺席引发继任担忧，喀麦隆债券下滑",
-    "summary": "Cameroon’s 93-year-old president hasn’t been seen in public since he boarded a flight to Geneva two months ago, deepening concerns over a succession plan for the world’s oldest ruler.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/president-paul-biya-s-long-absence-unnerves-cameroon-s-bond-investors",
-    "published": "Fri, 07 Aug 2026 07:25:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.466684"
-  },
-  {
-    "id": "d2b4ae90f5d1",
-    "title": "Peru Heals Rift With Mexico by Freeing Leftist Politician",
-    "title_cn": "秘鲁通过释放左翼政客来弥合与墨西哥的裂痕",
-    "summary": "Peru’s government cleared an embattled former prime minister to leave the country and travel to Mexico in a move that eases diplomatic tensions between the two estranged Latin American countries.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/peru-heals-rift-with-mexico-by-freeing-leftist-politician",
-    "published": "Fri, 07 Aug 2026 13:29:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.595540"
-  },
-  {
-    "id": "dfbfdb508a9b",
-    "title": "Trump Administration Considers Order on Autism and Vaccines",
-    "title_cn": "特朗普政府考虑对自闭症和疫苗颁布命令",
-    "summary": "The Trump administration is actively considering issuing an executive order on vaccines and autism as soon as next week, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-06/trump-administration-considers-order-on-autism-and-vaccines",
-    "published": "Thu, 06 Aug 2026 20:34:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.709827"
-  },
-  {
-    "id": "d4e679ec6522",
-    "title": "Argentina Protests: Milei Retreats Even Further to Pass Private Property Bill",
-    "title_cn": "阿根廷抗议：米莱进一步退缩以通过私有财产法案",
-    "summary": "Javier Milei’s government was forced to abandon another section of its private property legislation before it passed, underscoring the Argentine president’s challenges in attracting private investment to the crisis-prone nation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/argentina-protests-milei-retreats-even-further-to-pass-private-property-bill",
-    "published": "Fri, 07 Aug 2026 13:45:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.839888"
-  },
-  {
-    "id": "475652432fc1",
-    "title": "Turkey, Saudi Arabia, Pakistan Agree to Jointly Counter Threats",
-    "title_cn": "土耳其、沙特阿拉伯、巴基斯坦同意共同应对威胁",
-    "summary": "Turkey, Saudi Arabia and Pakistan signed a trilateral defense agreement in Mecca on Friday, establishing a coordinated security posture against the backdrop of the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/turkey-saudi-arabia-and-pakistan-sign-joint-defense-agreement",
-    "published": "Fri, 07 Aug 2026 10:49:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:30.972211"
-  },
-  {
-    "id": "532edfaa9cc9",
-    "title": "South African Police Sound Alarm on Political Crime Before Vote",
-    "title_cn": "南非警方在投票前对政治犯罪发出警报",
-    "summary": "South Africa’s acting police chief said she is deeply concerned about the potential for politically-motivated violence ahead of municipal elections on Nov. 4.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/south-african-police-sound-alarm-on-political-crime-before-vote",
-    "published": "Fri, 07 Aug 2026 12:10:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:31.093935"
-  },
-  {
-    "id": "8e54893586c9",
-    "title": "Steep Rise in UK Immigration Raids Hits Delivery, Construction",
-    "title_cn": "英国移民突袭急剧增加，打击了交付和建筑业",
-    "summary": "A crackdown on illegal workers in the UK has resulted in a stark rise in the number of immigration enforcement visits targeted at the warehouse-delivery and construction sectors, ahead of stricter employment rules coming into force later in the year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-07/steep-rise-in-uk-immigration-raids-hits-delivery-construction",
-    "published": "Fri, 07 Aug 2026 12:06:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-07T18:03:31.219321"
+    "fetched_at": "2026-08-07T19:16:47.742602"
   }
 ]
