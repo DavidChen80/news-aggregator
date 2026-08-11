@@ -1,5 +1,55 @@
 [
   {
+    "id": "0eae27b4d69b",
+    "title": "Trump's New Iran Demands, Anthropic & Riot Platforms Strike Deal",
+    "title_cn": "特朗普的伊朗新要求、人为和防暴平台罢工协议",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/trump-s-new-iran-demands-anthropic-riot-platforms-strike-deal",
+    "published": "Tue, 11 Aug 2026 02:40:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:37.024807"
+  },
+  {
+    "id": "e4dbff49738e",
+    "title": "Iran Hopes Fade, Anthropic Strikes $9B Pact with Riot Platforms",
+    "title_cn": "伊朗希望破灭，Anthropic 与防暴平台达成 9B 美元协议",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/iran-hopes-fade-anthropic-strikes-9b-pact-with-riot-platforms",
+    "published": "Tue, 11 Aug 2026 01:58:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:37.293893"
+  },
+  {
+    "id": "457d43b7a7f4",
+    "title": "Bloomberg Daybreak Asia: Yen, AI Funding in Focus (Podcast)",
+    "title_cn": "彭博社 Daybreak Asia：日元、人工智能融资成为焦点（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/bloomberg-daybreak-asia-yen-ai-funding-in-focus-podcast",
+    "published": "Tue, 11 Aug 2026 01:44:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:37.613091"
+  },
+  {
+    "id": "3fb5f71c2894",
+    "title": "Mercedes, BMW, VW Struggle in China With New EVs Selling Poorly",
+    "title_cn": "梅赛德斯、宝马、大众在中国的新电动车销量不佳",
+    "summary": "<p>The country’s venerable auto brands are falling behind in the world’s biggest car market.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-08-11/mercedes-bmw-vw-struggle-in-china-with-new-evs-selling-poorly",
+    "published": "Tue, 11 Aug 2026 01:00:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:37.742833"
+  },
+  {
+    "id": "bfc02ec4be8a",
+    "title": "Trump Makes New Iran Demands, Nvidia Secures Wall Street Funding",
+    "title_cn": "特朗普向伊朗提出新要求，英伟达获得华尔街资金",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/trump-makes-new-iran-demands-nvidia-secures-wall-street-funding",
+    "published": "Tue, 11 Aug 2026 00:55:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:38.201513"
+  },
+  {
     "id": "60938bbd462c",
     "title": "Iran Deal Hopes Fade, Nvidia Taps Wall Street for $500B Funding",
     "title_cn": "伊朗协议希望破灭，英伟达向华尔街寻求 500B 美元融资",
@@ -7,17 +57,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/iran-deal-hopes-fade-nvidia-taps-wall-street-for-500b-funding",
     "published": "Tue, 11 Aug 2026 00:07:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:00.564487"
+    "fetched_at": "2026-08-11T02:53:38.348863"
   },
   {
     "id": "ed7a3fb88861",
     "title": "Iran Deal Hopes Dim, Mamdani's NYC Pied-a-Terre Tax Paused",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "伊朗协议希望渺茫，马姆达尼的纽约市临时税暂停",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/iran-deal-hopes-dim-mamdani-s-nyc-pied-a-terre-tax-paused",
     "published": "Mon, 10 Aug 2026 23:21:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:00.682222"
+    "fetched_at": "2026-08-11T02:53:39.908482"
   },
   {
     "id": "f0f15378324a",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/gas-fracking-boom-in-outback-macquarie-ai-bet-kpmg-under-scrutiny",
     "published": "Mon, 10 Aug 2026 23:00:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:00.815542"
+    "fetched_at": "2026-08-11T02:53:40.045961"
   },
   {
     "id": "00edf40c94fc",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/bloomberg-law-trump-likely-to-fire-fed-s-cook-again-podcast",
     "published": "Mon, 10 Aug 2026 22:39:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:01.611546"
+    "fetched_at": "2026-08-11T02:53:40.385160"
   },
   {
     "id": "d4da9ef62df7",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/trump-says-hormuz-now-open-oil-rises-on-elusive-iran-pact",
     "published": "Mon, 10 Aug 2026 22:34:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:01.762518"
+    "fetched_at": "2026-08-11T02:53:40.523823"
   },
   {
     "id": "e77c42ae194b",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/wall-street-s-really-big-nvidia-deal-evening-briefing-americas",
     "published": "Mon, 10 Aug 2026 22:10:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:02.579416"
+    "fetched_at": "2026-08-11T02:53:40.673136"
   },
   {
     "id": "d77632e74475",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/yen-extends-slide-as-japan-touts-plans-to-support-currency",
     "published": "Mon, 10 Aug 2026 21:32:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:02.757007"
+    "fetched_at": "2026-08-11T02:53:40.790855"
   },
   {
     "id": "240d4750f0fc",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/trump-signs-vaccine-order-colombia-quake-toll-rising-more",
     "published": "Mon, 10 Aug 2026 21:20:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:03.465114"
+    "fetched_at": "2026-08-11T02:53:40.927050"
   },
   {
     "id": "ca81d894c605",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/stock-movers-rocket-lab-hims-hers-nvidia-podcast",
     "published": "Mon, 10 Aug 2026 21:20:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:04.323335"
+    "fetched_at": "2026-08-11T02:53:41.091261"
   },
   {
     "id": "f06f0d96e5c0",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/bloomberg-businessweek-daily-ai-boosts-intel-demand-podcast",
     "published": "Mon, 10 Aug 2026 21:15:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:05.313296"
+    "fetched_at": "2026-08-11T02:53:41.224709"
   },
   {
     "id": "ec3d645b027b",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/barrick-b-investors-push-back-on-thornton-s-north-american-ipo-plan",
     "published": "Mon, 10 Aug 2026 21:10:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:06.005163"
+    "fetched_at": "2026-08-11T02:53:41.387760"
   },
   {
     "id": "bd45c0b9a884",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/us-shale-cowboys-chase-6-trillion-gas-prize-in-australia-s-outback",
     "published": "Mon, 10 Aug 2026 21:00:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:06.175179"
+    "fetched_at": "2026-08-11T02:53:41.537631"
   },
   {
     "id": "86f9550abb09",
@@ -127,17 +177,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/bessent-s-yen-intervention-draws-from-hedge-fund-playbook-big-take-podcast",
     "published": "Mon, 10 Aug 2026 20:49:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:06.720673"
+    "fetched_at": "2026-08-11T02:53:41.692270"
   },
   {
     "id": "8817fd651548",
     "title": "Big Take: Behind Bessent's Defense of the Yen (Podcast)",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "大观点：Bessent 捍卫日元的背后（播客）",
     "summary": "Source: Bloomberg, 17:47",
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/big-take-behind-bessent-s-defense-of-the-yen-podcast",
     "published": "Mon, 10 Aug 2026 20:36:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:06.837818"
+    "fetched_at": "2026-08-11T02:53:41.830087"
   },
   {
     "id": "e1ef73c63cf8",
@@ -147,117 +197,87 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-10/stock-movers-archer-marinemax-apple-podcast",
     "published": "Mon, 10 Aug 2026 20:16:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:07.416600"
+    "fetched_at": "2026-08-11T02:53:41.977455"
   },
   {
-    "id": "1253dcef2529",
-    "title": "Stocks Close Lower, Trump Signs Order on Vaccine Recommendations",
-    "title_cn": "股市收低，特朗普签署疫苗建议令",
-    "summary": "Source: Bloomberg, 5:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-10/stocks-close-lower-trump-signs-order-on-vaccine-recommendations",
-    "published": "Mon, 10 Aug 2026 20:15:09 GMT",
+    "id": "7926a105da6c",
+    "title": "Nifty 50 Inclusion Could Boost BSE as NSE Gears Up For Listing",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The inclusion could lead to passive flows of about $741 million into BSE.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/nifty-50-inclusion-could-boost-bse-as-nse-gears-up-for-listing",
+    "published": "Tue, 11 Aug 2026 02:43:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:07.817759"
-  },
-  {
-    "id": "3ebc738eac47",
-    "title": "Balance of Power: Policy Pulse for August 10, 2026 (Podcast)",
-    "title_cn": "权力平衡：2026 年 8 月 10 日的政策脉搏（播客）",
-    "summary": "Source: Bloomberg, 16:16",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-10/balance-of-power-policy-pulse-for-august-10-2026-podcast",
-    "published": "Mon, 10 Aug 2026 20:06:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:08.560980"
-  },
-  {
-    "id": "b24b229e55fe",
-    "title": "Bloomberg Businessweek Daily: Grindr Goes AI (Podcast)",
-    "title_cn": "彭博商业周刊日报：Grindr 走向人工智能（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-10/bloomberg-businessweek-daily-grindr-goes-ai-podcast",
-    "published": "Mon, 10 Aug 2026 19:44:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:08.926835"
-  },
-  {
-    "id": "5d71f74e1dff",
-    "title": "Bloomberg Talks: George Arison (Podcast)",
-    "title_cn": "彭博社谈话：乔治·阿里森（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-10/bloomberg-talks-george-arison-podcast",
-    "published": "Mon, 10 Aug 2026 19:43:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:09.839334"
-  },
-  {
-    "id": "394984b1cd24",
-    "title": "Stock Movers: Berkshire Hathaway, Monday.com, Tenax (Podcast)",
-    "title_cn": "股票推动者：伯克希尔哈撒韦公司、Monday.com、Tenax（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-10/stock-movers-berkshire-hathaway-monday-com-tenax-podcast",
-    "published": "Mon, 10 Aug 2026 19:19:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:10.539362"
-  },
-  {
-    "id": "3579f3d9aa9c",
-    "title": "Tencent’s WorkBuddy Sparks AI Turnaround Hopes After Stock Rout",
-    "title_cn": "腾讯的 WorkBuddy 在股市暴跌后激发人工智能扭亏为盈的希望",
-    "summary": "Tencent Holdings Ltd.’s early success with WorkBuddy may give the Chinese Internet giant a chance to catch up after lagging peers in the artificial intelligence race for the past few years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/tencent-s-workbuddy-sparks-ai-turnaround-hopes-after-stock-rout",
-    "published": "Tue, 11 Aug 2026 00:11:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.038573"
+    "fetched_at": "2026-08-11T02:53:42.462495"
   },
   {
     "id": "2d82570aed8a",
-    "title": "Oil Holds Gains, Yen in Focus After Weakening: Markets Wrap",
-    "title_cn": "石油保持上涨，日元走弱后成为焦点：市场总结",
-    "summary": "Oil held onto gains as fading hopes for a deal to reopen the Strait of Hormuz revived inflation concerns before key US data this week.",
+    "title": "Bonds Fall on Inflation Concern, Oil Holds Advance: Markets Wrap",
+    "title_cn": "债券因通胀担忧而下跌，石油上涨：市场总结",
+    "summary": "Government bonds in Asia Pacific followed Treasuries lower as oil’s four-day rally revived inflation concerns before key US consumer price data later this week.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 10 Aug 2026 22:08:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.159927"
+    "fetched_at": "2026-08-11T02:53:42.674575"
+  },
+  {
+    "id": "409a4f901334",
+    "title": "China’s Teapots May Boost Iran Oil Buying as Stockpiles Dwindle",
+    "title_cn": "随着库存减少，中国的茶壶可能会增加伊朗石油购买量",
+    "summary": "Shrinking regional oil stockpiles held by China’s independent refiners in Shandong province may spur increased buying of Iranian crude, offering Tehran a needed boost after a period of slow sales.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-teapots-may-boost-iran-oil-buying-as-stockpiles-dwindle",
+    "published": "Tue, 11 Aug 2026 01:39:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:42.818288"
+  },
+  {
+    "id": "fa196d9c3bc9",
+    "title": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
+    "title_cn": "随着交易者将焦点转向美国通胀，金价攀升至 4,400 美元上方",
+    "summary": "Gold advanced to a two-month high above $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve’s appetite for an interest-rate hike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+    "published": "Mon, 10 Aug 2026 23:33:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:42.957068"
   },
   {
     "id": "30d046d5c5b6",
     "title": "Latest Oil Market News and Analysis for Aug. 11",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "8 月 11 日最新石油市场新闻和分析",
     "summary": "Oil held a four-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
     "published": "Mon, 10 Aug 2026 22:02:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.275925"
+    "fetched_at": "2026-08-11T02:53:43.119589"
+  },
+  {
+    "id": "3579f3d9aa9c",
+    "title": "Tencent’s WorkBuddy Sparks AI Turnaround Hopes After Stock Rout",
+    "title_cn": "腾讯WorkBuddy在股市暴跌后引发人工智能扭转局面的希望",
+    "summary": "Tencent Holdings Ltd.’s early success with WorkBuddy may give the Chinese Internet giant a chance to catch up after lagging peers in the artificial intelligence race for the past few years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/tencent-s-workbuddy-sparks-ai-turnaround-hopes-after-stock-rout",
+    "published": "Tue, 11 Aug 2026 00:11:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:43.260554"
   },
   {
     "id": "7c6eff3f43a8",
     "title": "Colombia Inflation Unexpectedly Slows, Easing Pressure on Rates",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "哥伦比亚通胀意外放缓，利率压力缓解",
     "summary": "Colombia’s inflation rate cooled last month, offering some relief to the central bank after policymakers recently surprised investors by keeping borrowing costs unchanged.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/colombia-inflation-unexpectedly-slows-easing-pressure-on-rates",
     "published": "Mon, 10 Aug 2026 23:47:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.409450"
-  },
-  {
-    "id": "fa196d9c3bc9",
-    "title": "Gold Touches $4,400 as Traders Turn Focus to US Inflation Data",
-    "title_cn": "交易员将焦点转向美国通胀数据 金价触及 4,400 美元",
-    "summary": "Gold advanced through $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve’s appetite for an interest-rate hike.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
-    "published": "Mon, 10 Aug 2026 23:33:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.539692"
+    "fetched_at": "2026-08-11T02:53:43.393718"
   },
   {
     "id": "7b89783cf716",
     "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "交易员纷纷买入新台币期权，押注反弹",
     "summary": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
     "published": "Mon, 10 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.662143"
+    "fetched_at": "2026-08-11T02:53:43.535256"
   },
   {
     "id": "1aa172e21380",
@@ -267,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/sec-alleges-fund-adviser-misled-investors-in-pre-ipo-schemes",
     "published": "Mon, 10 Aug 2026 22:27:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.795761"
+    "fetched_at": "2026-08-11T02:53:43.665923"
   },
   {
     "id": "5bbd004e5f7e",
@@ -277,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video",
     "published": "Mon, 10 Aug 2026 20:48:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:11.938380"
+    "fetched_at": "2026-08-11T02:53:43.799029"
   },
   {
     "id": "42ebf33d72ba",
@@ -287,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/777-partners-files-bankruptcy-after-creditors-liquidation-push",
     "published": "Mon, 10 Aug 2026 21:54:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.082531"
+    "fetched_at": "2026-08-11T02:53:43.948848"
   },
   {
     "id": "5c44d587dde6",
@@ -297,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/outsiders-pay-6-500-for-help-with-sorority-rush-video",
     "published": "Mon, 10 Aug 2026 21:45:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.224027"
+    "fetched_at": "2026-08-11T02:53:44.073634"
   },
   {
     "id": "3f720c6484f5",
@@ -307,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/trump-touts-3b-in-mineral-project-to-counter-china-video",
     "published": "Mon, 10 Aug 2026 21:43:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.417597"
+    "fetched_at": "2026-08-11T02:53:44.195882"
   },
   {
     "id": "6967e88b00ae",
@@ -317,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/hims-hers-lowers-profit-forecast-shares-drop-video",
     "published": "Mon, 10 Aug 2026 21:22:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.562498"
+    "fetched_at": "2026-08-11T02:53:44.343578"
   },
   {
     "id": "cfcb19811717",
@@ -327,27 +347,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/chicago-taps-fitch-senior-director-as-new-cfo-amid-rash-of-exits-msnqjmd6",
     "published": "Mon, 10 Aug 2026 21:20:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.727453"
+    "fetched_at": "2026-08-11T02:53:44.488451"
   },
   {
     "id": "87642794d982",
     "title": "Yen Erases Half of Intervention Gains as Traders Test Bessent",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The yen swung to a loss, sapping momentum from efforts by the US and Japan authorities to boost the currency.",
+    "summary": "The yen has wiped out half of its rally from recent interventions by Japan and the US to boost the currency, a psychologically significant move for traders who remain on alert for further official support.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades",
     "published": "Mon, 10 Aug 2026 03:26:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.838597"
+    "fetched_at": "2026-08-11T02:53:44.613996"
   },
   {
     "id": "41b7bd011b75",
     "title": "Gautam Adani Wins Dismissal of US Securities Fraud Charges",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "高塔姆·阿达尼 (Gautam Adani) 赢得美国证券欺诈指控被驳回",
     "summary": "Gautam Adani won dismissal of US securities fraud charges, ending a blockbuster case that threatened the expansion of the Indian billionaire’s giant conglomerate.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/gautam-adani-wins-dismissal-of-us-securities-fraud-charges",
     "published": "Mon, 10 Aug 2026 19:44:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:12.958308"
+    "fetched_at": "2026-08-11T02:53:44.792885"
   },
   {
     "id": "5f8a76c1bdba",
@@ -357,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/jbs-returns-leadership-to-batista-clan-as-scion-named-next-ceo",
     "published": "Mon, 10 Aug 2026 18:45:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:13.108418"
+    "fetched_at": "2026-08-11T02:53:44.929920"
   },
   {
     "id": "f3cc78320960",
@@ -367,7 +387,7 @@
     "link": "https://www.bloomberg.com/graphics/2026-leveraged-etf-ai-companies/",
     "published": "Mon, 10 Aug 2026 21:00:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:13.233204"
+    "fetched_at": "2026-08-11T02:53:45.049842"
   },
   {
     "id": "9c918db6c752",
@@ -377,27 +397,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
     "published": "Sun, 09 Aug 2026 23:30:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:13.365232"
+    "fetched_at": "2026-08-11T02:53:45.191519"
   },
   {
-    "id": "10a0e0f00edd",
-    "title": "Gotham Greens CEO: Not Good To Have an Outbreak Like This",
-    "title_cn": "哥谭绿队首席执行官：像这样的疫情爆发并不好",
-    "summary": "Craig Stevenson, CEO of Gotham Greens, addressed the ongoing concerns over food safety amid recent recalls linked to salmonella in jalapenos and the widespread Cyclospora outbreak affecting thousands in the U.S. He noted a temporary decline in consumer demand for greens as news of outbreaks circulates, but emphasized that consumer interest in salads remains strong. He speaks with David Gura & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-10/gotham-greens-ceo-not-good-to-have-outbreak-like-this-video",
-    "published": "Mon, 10 Aug 2026 20:56:55 GMT",
+    "id": "773d1b56d0f5",
+    "title": "Amkor Is Said to Explore Stake Sale in $1.5 Billion China Unit",
+    "title_cn": "据说 Amkor 正在探索出售价值 15 亿美元的中国业务的股份",
+    "summary": "Amkor Technology Inc., a provider of outsourced semiconductor assembly and testing services, is considering options including selling a stake in its China business, according to people with knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/amkor-is-said-to-explore-stake-sale-in-1-5-billion-china-unit",
+    "published": "Tue, 11 Aug 2026 01:56:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:13.509567"
+    "fetched_at": "2026-08-11T02:53:45.680935"
   },
   {
-    "id": "d7e06ba8bf37",
-    "title": "Emerging Currencies Weaken as US-Iran Standoff Lifts Dollar",
-    "title_cn": "美伊僵局提振美元，新兴货币走弱",
-    "summary": "Most emerging-market currencies weakened against the dollar on Monday as fading hopes of an imminent US-Iran deal to reopen the Strait of Hormuz sent Brent futures prices higher.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/emerging-market-stocks-currencies-gain-after-soft-us-jobs-data",
-    "published": "Mon, 10 Aug 2026 04:25:49 GMT",
+    "id": "d56b0e65e064",
+    "title": "AI Boom Set to Drive Singapore Growth as High as 5.5% This Year",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Singapore upgraded its 2026 economic growth forecast anew as the artificial intelligence boom lifts trade and manufacturing, offsetting the drag from continued fighting in the Middle East.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year",
+    "published": "Tue, 11 Aug 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:13.655449"
+    "fetched_at": "2026-08-11T02:53:45.801551"
+  },
+  {
+    "id": "e238936e759b",
+    "title": "Apple’s Glass-Centric 20th-Anniversary iPhone Remains on Track for 2027",
+    "title_cn": "Apple 以玻璃为中心的 20 周年纪念版 iPhone 仍将在 2027 年上市",
+    "summary": "Apple Inc. is still planning to offer a glass-centric overhaul of the iPhone for the device’s 20th anniversary, people familiar with the matter said, countering an analyst report that the move had been canceled.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/apple-s-glass-centric-20th-anniversary-iphone-remains-on-track-for-2027",
+    "published": "Tue, 11 Aug 2026 01:30:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:46.016321"
+  },
+  {
+    "id": "974f03fce354",
+    "title": "Webtoon Buys $100 Million Game Studio Stake to Expand Reach",
+    "title_cn": "Webtoon 购买 1 亿美元游戏工作室股份以扩大影响力",
+    "summary": "Webtoon Entertainment Inc. is buying a majority stake in a Korean gaming studio for about $100 million, in its latest push to expand a content portfolio that includes web comics, anime and gaming.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/webtoon-buys-100-million-share-in-game-studio-to-expand-reach",
+    "published": "Mon, 10 Aug 2026 20:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:46.146717"
+  },
+  {
+    "id": "949cc95a15f4",
+    "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
+    "title_cn": "Nvidia 向华尔街承诺提供 5000 亿美元融资",
+    "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to source $500 billion in financing for artificial intelligence infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+    "published": "Mon, 10 Aug 2026 16:56:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:46.275566"
   },
   {
     "id": "c5f00993feff",
@@ -407,27 +457,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/kioxia-says-investment-vehicle-for-sk-hynix-is-top-shareholder",
     "published": "Tue, 11 Aug 2026 00:23:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:14.501763"
-  },
-  {
-    "id": "d56b0e65e064",
-    "title": "AI Boom Set to Drive Singapore Growth as High as 5.5% This Year",
-    "title_cn": "人工智能热潮将推动新加坡今年经济增长高达 5.5%",
-    "summary": "Singapore upgraded its 2026 economic growth forecast anew as the artificial intelligence boom lifts trade, offsetting the drag from continued fighting in the Middle East.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/ai-boom-set-to-drive-singapore-growth-as-high-as-5-5-this-year",
-    "published": "Tue, 11 Aug 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:14.620407"
+    "fetched_at": "2026-08-11T02:53:46.435972"
   },
   {
     "id": "a28c7cdc737e",
     "title": "Anthropic Strikes $9 Billion Cloud Deal With Riot Platforms",
     "title_cn": "Anthropic 与 Riot 平台达成 90 亿美元云交易",
-    "summary": "Anthropic PBC has struck a $9.1 billion deal with Riot Platforms Inc., a Bitcoin mining company that recently began selling AI data center capacity, people familiar with the matter said, underscoring the Claude maker’s efforts to secure enough computing to meet its customers’ demand.",
+    "summary": "Anthropic PBC has struck a $9.1 billion deal with Riot Platforms Inc., a Bitcoin mining company that recently began selling AI data center capacity, people familiar with the matter said, underscoring the Claude maker’s efforts to secure enough computing power to meet its customers’ demand.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
     "published": "Tue, 11 Aug 2026 00:00:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:14.748455"
+    "fetched_at": "2026-08-11T02:53:46.566469"
   },
   {
     "id": "2fa261a33014",
@@ -437,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/goldman-s-boak-on-rba-policy-australia-s-economy-video",
     "published": "Tue, 11 Aug 2026 00:13:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:14.876400"
+    "fetched_at": "2026-08-11T02:53:46.738179"
   },
   {
     "id": "3a9016cb07d4",
@@ -447,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/unitree-s-shanghai-ipo-5-526-times-subscribed-by-retail-buyers",
     "published": "Mon, 10 Aug 2026 11:30:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:15.026428"
+    "fetched_at": "2026-08-11T02:53:46.875687"
   },
   {
     "id": "c9c61c009f16",
@@ -457,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/nvidia-taps-wall-street-for-500-billion-funding-video",
     "published": "Mon, 10 Aug 2026 23:55:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:15.536661"
+    "fetched_at": "2026-08-11T02:53:46.994051"
   },
   {
     "id": "a4de08d4359a",
@@ -467,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/intel-is-said-to-near-share-sale-upsize-to-raise-20-billion",
     "published": "Mon, 10 Aug 2026 23:10:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:15.658298"
+    "fetched_at": "2026-08-11T02:53:47.142685"
   },
   {
     "id": "bc2a0d64f3d5",
@@ -477,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/bank-stock-bull-run-may-have-legs-in-asia-as-ai-trade-wobbles",
     "published": "Mon, 10 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:15.820468"
+    "fetched_at": "2026-08-11T02:53:47.289577"
   },
   {
     "id": "befcc592170d",
@@ -487,17 +527,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
     "published": "Mon, 10 Aug 2026 22:29:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:15.957179"
+    "fetched_at": "2026-08-11T02:53:47.421916"
   },
   {
     "id": "b637e3dadcc9",
     "title": "Trump Media Losses Hit $238 Million as Firm Pivots to Fast Feeds",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "特朗普媒体公司转向快速推送，损失达 2.38 亿美元",
     "summary": "Donald Trump’s social media company posted steeper losses as it careened from a big cryptocurrency bet into a controversial new line of business selling faster access to market-moving posts from the US president.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/trump-media-losses-hit-238-million-as-firm-pivots-to-fast-feeds",
     "published": "Mon, 10 Aug 2026 22:22:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.074630"
+    "fetched_at": "2026-08-11T02:53:47.556083"
   },
   {
     "id": "256113728789",
@@ -507,17 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/five-takeaways-from-zuckerberg-s-manifesto-on-ai-video",
     "published": "Mon, 10 Aug 2026 22:19:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.208730"
-  },
-  {
-    "id": "949cc95a15f4",
-    "title": "Nvidia Taps Wall Street for $500 Billion Funding Commitment",
-    "title_cn": "Nvidia 向华尔街承诺提供 5000 亿美元融资",
-    "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to invest $500 billion in artificial intelligence infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
-    "published": "Mon, 10 Aug 2026 16:56:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.340241"
+    "fetched_at": "2026-08-11T02:53:47.711810"
   },
   {
     "id": "8ba65f99af23",
@@ -527,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/investor-etf-appeal-of-photonics-video",
     "published": "Mon, 10 Aug 2026 18:53:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.638519"
+    "fetched_at": "2026-08-11T02:53:47.856987"
   },
   {
     "id": "87c8d400c227",
@@ -537,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/intel-selling-15-billion-in-common-stock-to-fund-growth",
     "published": "Mon, 10 Aug 2026 11:41:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.785616"
+    "fetched_at": "2026-08-11T02:53:47.989850"
   },
   {
     "id": "87eea0ed2976",
@@ -547,17 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
     "published": "Mon, 10 Aug 2026 20:40:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:16.938131"
-  },
-  {
-    "id": "974f03fce354",
-    "title": "Webtoon Buys $100 Million Share in Game Studio to Expand Reach",
-    "title_cn": "Webtoon 斥资 1 亿美元购买 Game Studio 股份以扩大影响力",
-    "summary": "Webtoon Entertainment Inc. is buying a majority stake in a Korean gaming studio for about $100 million, in its latest push to expand a content portfolio that includes web comics, anime and gaming.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/webtoon-buys-100-million-share-in-game-studio-to-expand-reach",
-    "published": "Mon, 10 Aug 2026 20:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:17.096809"
+    "fetched_at": "2026-08-11T02:53:48.125085"
   },
   {
     "id": "4ec0aac423d0",
@@ -567,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer",
     "published": "Mon, 10 Aug 2026 20:26:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:17.251521"
+    "fetched_at": "2026-08-11T02:53:48.252363"
   },
   {
     "id": "c55f70ba5c07",
@@ -577,27 +597,57 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/bart-scott-on-jets-partnership-with-outfront-video",
     "published": "Mon, 10 Aug 2026 19:32:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:17.393323"
+    "fetched_at": "2026-08-11T02:53:48.386167"
   },
   {
-    "id": "ef91f1459bd4",
-    "title": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio",
-    "title_cn": "OpenAI 正在为其数据中心产品组合聘请电力交易主管",
-    "summary": "OpenAI is hiring a power-trading lead to help manage the expanding energy needs of the electricity-intensive data centers running its artificial intelligence models.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/openai-is-hiring-a-power-trading-lead-for-its-data-center-portfolio",
-    "published": "Mon, 10 Aug 2026 18:38:13 GMT",
+    "id": "b79854262a67",
+    "title": "Trump Defends Infantino as UEFA-Led Schism With FIFA Deepens",
+    "title_cn": "欧足联领导的与国际足联的分裂加深，特朗普为因凡蒂诺辩护",
+    "summary": "US President Donald Trump offered his support to embattled FIFA President Gianni Infantino amid a growing revolt that threatens his leadership.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/trump-defends-infantino-as-uefa-led-schism-with-fifa-deepens",
+    "published": "Tue, 11 Aug 2026 02:45:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:17.544007"
+    "fetched_at": "2026-08-11T02:53:49.172213"
   },
   {
-    "id": "ce9759fb328d",
-    "title": "'Overwhelming Demand' for Crypto ETFs: Mitchnick",
-    "title_cn": "米奇尼克：对加密 ETF 的“压倒性需求”",
-    "summary": "Robert Mitchnick, head of digital assets at BlackRock, joins Isabelle Lee and Eric Balchunas on \"Bloomberg ETF IQ.\" Hackers have stolen more than $130 million worth of Bitcoin from thousands of supposedly secure cold wallets in recent days. The Coldcard wallet hack may strengthen the case for spot Bitcoin ETFs by undermining confidence in self-custody among investors. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-10/-overwhelming-demand-for-crypto-etfs-mitchnick-video",
-    "published": "Mon, 10 Aug 2026 18:33:26 GMT",
+    "id": "1e3911061239",
+    "title": "China Hits US Pecans With 54% Levies Before Xi-Trump Summit",
+    "title_cn": "习近平与特朗普峰会前，中国对美国山核桃征收54%的关税",
+    "summary": "China ordered steep anti-dumping deposits on pecan imports from the US and Mexico, adding another source of trade friction weeks before an expected summit between President Donald Trump and Chinese leader Xi Jinping.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/china-hits-us-pecans-with-steep-levies-before-xi-trump-summit",
+    "published": "Mon, 10 Aug 2026 10:36:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:17.677875"
+    "fetched_at": "2026-08-11T02:53:49.300537"
+  },
+  {
+    "id": "52a021326a81",
+    "title": "Vietnam, Australia to Deepen Defense, Critical Minerals Links",
+    "title_cn": "越南与澳大利亚加强防务和关键矿产合作",
+    "summary": "Australia and Vietnam agreed to deepen military cooperation and support the free flow of essential trade as the two nations’ leaders met in Canberra on Tuesday, with both sides expressing concern over policies that disrupt global supply chains.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/vietnam-australia-to-deepen-defense-critical-minerals-links",
+    "published": "Tue, 11 Aug 2026 02:21:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:49.453481"
+  },
+  {
+    "id": "6ddff976aa19",
+    "title": "Trump Makes Sweeping New Demands on Iran as Deal Hopes Dim",
+    "title_cn": "协议希望渺茫，特朗普对伊朗提出全面新要求",
+    "summary": "US President Donald Trump made sweeping new demands on Iran after Tehran reiterated requests for reparations as part of talks to wind down the conflict, dimming hopes of a quick deal that would reopen the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/trump-lashes-out-after-iranian-demands-with-deal-hopes-dimming",
+    "published": "Mon, 10 Aug 2026 17:41:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:49.585017"
+  },
+  {
+    "id": "013789d8800b",
+    "title": "NZ PM Calls ‘Urgent’ Caucus Meeting Wednesday Over Leadership",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "New Zealand Prime Minister Christopher Luxon has summoned his caucus to an in-person meeting Wednesday in Wellington as questions over his leadership intensify less than three months before the general election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/nz-national-party-to-meet-as-leadership-pressure-mounts-on-luxon",
+    "published": "Mon, 10 Aug 2026 23:05:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-11T02:53:49.702253"
   },
   {
     "id": "465949470009",
@@ -607,37 +657,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/balance-of-power-late-edition-08-10-2026-video",
     "published": "Mon, 10 Aug 2026 23:36:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:18.230590"
+    "fetched_at": "2026-08-11T02:53:49.825172"
   },
   {
     "id": "976a81bf4f64",
     "title": "Drone Hits Tank at Libyan Refinery, Threatening Oil Facilities",
-    "title_cn": "无人机击中利比亚炼油厂的储罐，威胁石油设施",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "A drone attack on an oil refinery in western Libya destroyed a storage tank, putting oil facilities at risk and potentially aggravating fuel shortages in the OPEC nation.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/drone-hits-tank-at-libyan-refinery-threatening-oil-facilities",
     "published": "Mon, 10 Aug 2026 23:06:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:18.346946"
-  },
-  {
-    "id": "6ddff976aa19",
-    "title": "Trump Makes Sweeping New Demands on Iran as Deal Hopes Dim",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "US President Donald Trump made sweeping new demands on Iran after Tehran reiterated requests for reparations as part of talks to wind down the conflict, dimming hopes of a quick deal that would reopen the vital Strait of Hormuz as oil prices surged once again.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/trump-lashes-out-after-iranian-demands-with-deal-hopes-dimming",
-    "published": "Mon, 10 Aug 2026 17:41:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:18.476631"
-  },
-  {
-    "id": "013789d8800b",
-    "title": "NZ National Party to Meet as Leadership Pressure Mounts on Luxon",
-    "title_cn": "Luxon 面临的领导压力越来越大，新西兰国家党将召开会议",
-    "summary": "New Zealand’s governing National Party will hold a meeting tonight as speculation mounts that its lawmakers are trying to remove Prime Minister Christopher Luxon as leader less than three months before a general election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/nz-national-party-to-meet-as-leadership-pressure-mounts-on-luxon",
-    "published": "Mon, 10 Aug 2026 23:05:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:18.700007"
+    "fetched_at": "2026-08-11T02:53:49.938893"
   },
   {
     "id": "511474ed8b10",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/brouillette-strait-control-is-iran-s-nuclear-weapon-video",
     "published": "Mon, 10 Aug 2026 22:47:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.056675"
+    "fetched_at": "2026-08-11T02:53:50.263435"
   },
   {
     "id": "c25419cafb37",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/congress-has-power-to-set-ai-guardrails-vogel-video",
     "published": "Mon, 10 Aug 2026 22:40:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.174453"
+    "fetched_at": "2026-08-11T02:53:50.386530"
   },
   {
     "id": "959e2b1e8409",
@@ -667,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/conley-trump-does-not-have-many-options-on-iran-video",
     "published": "Mon, 10 Aug 2026 22:28:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.327958"
+    "fetched_at": "2026-08-11T02:53:50.528316"
   },
   {
     "id": "7426a694573c",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/the-close-8-10-2026-video",
     "published": "Mon, 10 Aug 2026 22:10:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.458475"
+    "fetched_at": "2026-08-11T02:53:50.663385"
   },
   {
     "id": "a0af007a653b",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/bloomberg-businessweek-daily-8-10-2026-video",
     "published": "Mon, 10 Aug 2026 20:31:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.599291"
+    "fetched_at": "2026-08-11T02:53:50.801302"
   },
   {
     "id": "b077b92bc9eb",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/burnham-touts-plans-to-crack-down-on-uk-vaping-betting-shops",
     "published": "Mon, 10 Aug 2026 21:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.730254"
+    "fetched_at": "2026-08-11T02:53:50.964551"
   },
   {
     "id": "4832ed056a62",
@@ -707,17 +737,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-10/michigan-senate-race-sets-stage-for-midterms-and-2028",
     "published": "Mon, 10 Aug 2026 20:18:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:19.959214"
+    "fetched_at": "2026-08-11T02:53:51.109792"
   },
   {
     "id": "0fbf4ef9fb98",
     "title": "Turkey Passes Law to Achieve Peace With Kurdish Separatists",
-    "title_cn": "土耳其通过法律与库尔德分裂分子实现和平",
+    "title_cn": "土耳其通过法律与库尔德分离主义者实现和平",
     "summary": "Turkish lawmakers adopted legislation laying out the dissolution of a Kurdish separatist group and paving the way for one of the world’s longest insurgencies to come to an end.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/turkey-passes-law-to-achieve-peace-with-kurdish-separatists",
     "published": "Mon, 10 Aug 2026 20:12:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.122649"
+    "fetched_at": "2026-08-11T02:53:51.228934"
   },
   {
     "id": "e9d86fc0af20",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/trump-wants-to-split-up-the-mmr-vaccine-video",
     "published": "Mon, 10 Aug 2026 20:03:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.266702"
+    "fetched_at": "2026-08-11T02:53:51.369862"
   },
   {
     "id": "44544e5a9f8c",
@@ -737,17 +767,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/trump-downplays-talks-with-warsh-amid-fed-independence-doubts",
     "published": "Mon, 10 Aug 2026 20:01:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.400561"
+    "fetched_at": "2026-08-11T02:53:51.503681"
   },
   {
     "id": "68421e8d01b7",
     "title": "Trump Signals Restraint on Iran | Balance of Power 8/10/2026",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "特朗普发出对伊朗保持克制的信号权力平衡 2026 年 8 月 10 日",
     "summary": "On the early edition of Balance of Power, Bloomberg Washington Correspondent Joe Mathieu discusses the latest from the Middle East. On today's show, Democratic Congresswoman Suzan DelBene of Washington, Stonecourt Capital Partner Rick Davis, Harvard Kennedy School Ash Center Visiting Democracy Fellow Jeanne Sheehan Zaino and Princeton University Professor Bernard Haykel. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/radio-balance-of-power-early-edition-8-10-2026-video",
     "published": "Mon, 10 Aug 2026 19:13:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.522538"
+    "fetched_at": "2026-08-11T02:53:51.633379"
   },
   {
     "id": "0ac863c3d63f",
@@ -757,46 +787,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/trump-ready-to-let-economic-pressure-build-on-iran-video",
     "published": "Mon, 10 Aug 2026 19:04:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.694686"
+    "fetched_at": "2026-08-11T02:53:51.779856"
   },
   {
     "id": "39b244a359f4",
     "title": "Democrat Candidates Aren't 'Cookie Cutter,' Says DCCC Chair DelBene",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "DCCC 主席德尔贝内表示，民主党候选人并非“千篇一律”",
     "summary": "Representative Suzan DelBene, who heads the Democratic Congressional Campaign Committee, said Democratic candidates aren't 'cookie-cutter' and that they reflect their communities and the issues that matter to voters in their home districts. DelBene said that the path to winning back the house runs through purple districts around the country and that candidates running in those districts have 'crossover appeal.' (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/democrat-candidates-aren-t-cookie-cutter-says-delbene-video",
     "published": "Mon, 10 Aug 2026 19:04:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.845316"
-  },
-  {
-    "id": "745f863176ae",
-    "title": "Can Trump Influence the Federal Reserve and Interest Rates?",
-    "title_cn": "特朗普能影响美联储和利率吗？",
-    "summary": "Since the start of his second term, President Donald Trump has waged a fierce campaign to impose his will on the Federal Reserve, breaking with the modern convention of walling off the US central bank from political interference, at least publicly. He sought to pressure Jerome Powell, the Fed chairman Trump appointed during his first presidential term, to cut interest rates. And he has attempted to push another Fed governor, Lisa Cook, from her job.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/can-trump-influence-the-federal-reserve-and-interest-rates",
-    "published": "Mon, 10 Aug 2026 18:54:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:20.981278"
-  },
-  {
-    "id": "68fb6f30e338",
-    "title": "Trump Wins Permission to Remove Brand Damage From BBC Suit",
-    "title_cn": "特朗普获得许可消除 BBC 诉讼中的品牌损害",
-    "summary": "President Donald Trump won permission to revise his $10 billion defamation lawsuit against the British Broadcasting Corp. by excluding his earlier claim that a 12-second clip in a documentary caused massive financial damage to his business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/trump-wins-permission-to-revise-bbc-suit-to-remove-brand-damage",
-    "published": "Mon, 10 Aug 2026 15:48:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:21.136270"
-  },
-  {
-    "id": "5c40f2de4c1a",
-    "title": "Russia Bars Anti-War Yabloko Party From Parliamentary Elections",
-    "title_cn": "俄罗斯禁止反战亚布洛科党参加议会选举",
-    "summary": "Russia’s Supreme Court blocked the Yabloko party from appearing on the ballot in September’s elections to the lower house of parliament, effectively banning one of the country’s few political blocs openly calling for an end to the fighting in Ukraine.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/russia-bars-anti-war-yabloko-party-from-parliamentary-elections",
-    "published": "Mon, 10 Aug 2026 17:00:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-11T00:36:21.303849"
+    "fetched_at": "2026-08-11T02:53:51.943838"
   }
 ]
