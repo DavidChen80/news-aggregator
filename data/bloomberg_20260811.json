@@ -1,12 +1,57 @@
 [
   {
+    "id": "26a9946e23f5",
+    "title": "Voters Weigh a Second Round for Zambian President Hichilema",
+    "summary": "Citizens to decide whether to give Hichilema another chance to translate gains into everyday wins.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/voters-weigh-a-second-round-for-zambian-president-hichilema",
+    "published": "Tue, 11 Aug 2026 13:00:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:20.895384"
+  },
+  {
+    "id": "325dfdae1bb1",
+    "title": "Pakistan Signals Progress in Iran War, Intel Raises $20 Billion",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/pakistan-signals-progress-in-iran-war-intel-raises-20-billion",
+    "published": "Tue, 11 Aug 2026 12:47:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:20.895393"
+  },
+  {
+    "id": "de21815278bb",
+    "title": "Modi’s Mining Bill Curbs Indian States’ Revenue Powers",
+    "summary": "The bill seeks to ensure uniformity and predictability in the fiscal regime for the mining sector.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/modi-s-mining-bill-curbs-indian-states-revenue-powers",
+    "published": "Tue, 11 Aug 2026 12:42:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:20.895397"
+  },
+  {
+    "id": "453e57aa185d",
+    "title": "Tech Disruptors: BNY CIO Russell on AI and Bank Modernization",
+    "summary": "“60% of the bank’s code is AI-generated,” Leigh-Ann Russell, chief information officer and global head of engineering at BNY, tells Bloomberg Intelligence senior analysts Paul Gulberg and Anurag Rana. In this episode of the Tech Disruptors podcast, the group discusses how BNY built Eliza, a model-agnostic AI platform and governance layer, to expand access to AI while maintaining control over data, spending and risk. Russell explains how AI is increasing engineering capacity, supporting digital e",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/tech-disruptors-bny-cio-russell-on-ai-and-bank-modernization",
+    "published": "Tue, 11 Aug 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:20.895401"
+  },
+  {
+    "id": "8ab10f1b8fa3",
+    "title": "Talking Transports: Schneider Says Freight Recovery Picking Up",
+    "summary": "The trucking market is in the early stages of a freight recovery, driven more by a structural reduction in capacity than stronger demand. In this Talking Transports podcast, Schneider National President and CEO Jim Filter joins Bloomberg Intelligence’s senior transportation and logistics analyst Lee Klaskow to discuss why regulatory enforcement, slowing driver availability and years of inflationary cost pressure are creating a more favorable pricing environment for carriers. Filter explains how",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-11/talking-transports-schneider-says-freight-recovery-picking-up",
+    "published": "Tue, 11 Aug 2026 12:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:20.895404"
+  },
+  {
     "id": "449c2659bb70",
     "title": "Pakistan Signals Optimism on US-Iran Deal, Oil Wavers, More",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/pakistan-signals-optimism-on-us-iran-deal-oil-wavers-more",
     "published": "Tue, 11 Aug 2026 11:40:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023824"
+    "fetched_at": "2026-08-11T13:24:20.895407"
   },
   {
     "id": "d61414c781c8",
@@ -15,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-cardinal-health-on-holding-intel-podcast",
     "published": "Tue, 11 Aug 2026 11:26:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023836"
+    "fetched_at": "2026-08-11T13:24:20.895410"
   },
   {
     "id": "e3d9cb071710",
@@ -24,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/meet-the-newest-ai-workforce-addition-your-head-of-agent-economics-msok7orq",
     "published": "Tue, 11 Aug 2026 11:10:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023843"
+    "fetched_at": "2026-08-11T13:24:20.895416"
   },
   {
     "id": "7fbf31363945",
@@ -33,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/intel-s-20-billion-share-sale-points-to-resilient-ai-demand",
     "published": "Tue, 11 Aug 2026 11:04:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023849"
+    "fetched_at": "2026-08-11T13:24:20.895420"
   },
   {
     "id": "1745ee6094e0",
@@ -42,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/trump-hardens-iran-stance-president-takes-aim-at-vaccines-more",
     "published": "Tue, 11 Aug 2026 10:22:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023855"
+    "fetched_at": "2026-08-11T13:24:20.895423"
   },
   {
     "id": "87f8527020c9",
@@ -51,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/bloomberg-daybreak-trump-hardens-stance-on-iran-podcast",
     "published": "Tue, 11 Aug 2026 09:49:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023860"
+    "fetched_at": "2026-08-11T13:24:20.895426"
   },
   {
     "id": "91f34fbe4300",
@@ -60,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/trump-hardens-stance-on-iran-vaccine-executive-order-more",
     "published": "Tue, 11 Aug 2026 09:28:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023866"
+    "fetched_at": "2026-08-11T13:24:20.895430"
   },
   {
     "id": "153c2e943d4c",
@@ -69,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-bellway-iwg-alcon-podcast",
     "published": "Tue, 11 Aug 2026 09:01:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023875"
+    "fetched_at": "2026-08-11T13:24:20.895433"
   },
   {
     "id": "638a1691b1ec",
@@ -78,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/trump-s-latest-iran-stance-revives-energy-driven-inflation-fears",
     "published": "Tue, 11 Aug 2026 09:00:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023881"
+    "fetched_at": "2026-08-11T13:24:20.895436"
   },
   {
     "id": "74b69e9cfea5",
@@ -87,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/europe-s-overheated-crops-rivers-trump-s-iran-demands-more",
     "published": "Tue, 11 Aug 2026 08:29:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023887"
+    "fetched_at": "2026-08-11T13:24:20.895440"
   },
   {
     "id": "54d22d3baa33",
@@ -96,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-ihg-rheinmetall-alcon-podcast",
     "published": "Tue, 11 Aug 2026 08:22:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023893"
+    "fetched_at": "2026-08-11T13:24:20.895444"
   },
   {
     "id": "f56e32676ee7",
@@ -105,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/europe-s-fifth-heat-wave-trump-hardens-iran-stance-more",
     "published": "Tue, 11 Aug 2026 07:32:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023898"
+    "fetched_at": "2026-08-11T13:24:20.895446"
   },
   {
     "id": "d7e32bb028bf",
@@ -114,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/housebuilder-bellway-completes-more-homes-calls-for-stamp-duty-cut",
     "published": "Tue, 11 Aug 2026 07:16:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023904"
+    "fetched_at": "2026-08-11T13:24:20.895449"
   },
   {
     "id": "54717f21faba",
@@ -123,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/europe-s-heat-wave-fallout-nvidia-taps-500b-more",
     "published": "Tue, 11 Aug 2026 06:39:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023913"
+    "fetched_at": "2026-08-11T13:24:20.895454"
   },
   {
     "id": "e6568e62a814",
@@ -132,88 +177,97 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/stock-movers-gan-lee-yangzijiang-samsung-podcast",
     "published": "Tue, 11 Aug 2026 06:20:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023919"
+    "fetched_at": "2026-08-11T13:24:20.895457"
   },
   {
-    "id": "1e6a38011d62",
-    "title": "Trump Makes New Demands on Iran as Deal Hopes Dim",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/trump-makes-new-demands-on-iran-as-deal-hopes-dim",
-    "published": "Tue, 11 Aug 2026 06:06:00 GMT",
+    "id": "7a3d4e18fb3f",
+    "title": "India’s Small Traders Lose $9.6 Billion in Options Despite Curbs",
+    "summary": "Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told lawmakers on Tuesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
+    "published": "Tue, 11 Aug 2026 10:37:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023924"
+    "fetched_at": "2026-08-11T13:24:21.227460"
   },
   {
-    "id": "10dd755abf15",
-    "title": "Bloomberg Daybreak Europe: Intense Heat Hits Europe (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/bloomberg-daybreak-europe-intense-heat-hits-europe-podcast",
-    "published": "Tue, 11 Aug 2026 06:02:12 GMT",
+    "id": "136c1a8ce21b",
+    "title": "Severe Thunderstorms Across US Midwest Trigger Flood Warnings",
+    "summary": "The US Midwest and Ohio Valley, including Chicago and Cincinnati, face an enhanced, or level 3, risk of severe thunderstorms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/severe-thunderstorms-across-us-midwest-trigger-flood-warnings",
+    "published": "Tue, 11 Aug 2026 13:07:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023929"
+    "fetched_at": "2026-08-11T13:24:21.227467"
   },
   {
-    "id": "8e0f2ac5d14f",
-    "title": "Heat Hits Power & Crops, Trump's New Iran Demands, More",
-    "summary": "Source: Bloomberg, 7:51",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/heat-hits-power-crops-trump-s-new-iran-demands-more",
-    "published": "Tue, 11 Aug 2026 05:37:12 GMT",
+    "id": "80ebe1f1a29b",
+    "title": "South Africa Vows Eskom Won’t Weaken After Transmission Restructuring",
+    "summary": "South Africa’s presidency rebuked the chairman of Eskom Holdings SOC Ltd. for publicly questioning the plan to restructure the state power utility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/south-africa-vows-eskom-won-t-weaken-after-transmission-restructuring",
+    "published": "Tue, 11 Aug 2026 13:00:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023934"
+    "fetched_at": "2026-08-11T13:24:21.227470"
   },
   {
-    "id": "8e15296e60ce",
-    "title": "All Options Considered: Lessons From Korea’s ETF Volatility",
-    "summary": "South Korea has become a real-world case study in how market concentration, investor enthusiasm and leveraged ETFs can amplify volatility. In this episode, Bloomberg Intelligence’s Tanvir Sandhu, Rena Kwok and Shirley Wong examine how leveraged products can create powerful feedback loops when positioning starts to outweigh fundamentals. They unpack the mechanics of ETF rebalancing, the role of AI and semiconductor enthusiasm in Korea’s recent market swings and the implications for brokerages, fi",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/all-options-considered-lessons-from-korea-s-etf-volatility",
-    "published": "Tue, 11 Aug 2026 05:30:00 GMT",
+    "id": "edda1abbed64",
+    "title": "Europe Stocks Poised to 'Grind Higher,' BNP Paribas Says",
+    "summary": "Benedicte Lowe, Europe equity derivates strategist at BNP Paribas Markets 360, says it's \"undeniable that the macro story is picking up in Europe,\" and that means \"positive picture for stocks.\" She speaks on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-11/europe-stocks-poised-to-grind-higher-bnp-paribas-says-video",
+    "published": "Tue, 11 Aug 2026 07:21:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023941"
+    "fetched_at": "2026-08-11T13:24:21.227474"
   },
   {
-    "id": "e2904b7ad0f2",
-    "title": "Trump Makes New Iran Demands, Nvidia Taps Wall Street for $500B",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/trump-makes-new-iran-demands-nvidia-taps-wall-street-for-500b",
-    "published": "Tue, 11 Aug 2026 03:19:59 GMT",
+    "id": "1c26e375e252",
+    "title": "Buying Opportunity Forms Around S&P Skeptics’ Refusal to Give Up",
+    "summary": "US stocks may be sitting at a record, but anxiety about everything from geopolitics to inflation and a divided Federal Reserve is keeping animal spirits at bay. And that may be just what the rally needs to continue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/buying-opportunity-forms-around-s-p-skeptics-refusal-to-give-up",
+    "published": "Tue, 11 Aug 2026 12:44:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.023946"
+    "fetched_at": "2026-08-11T13:24:21.227477"
   },
   {
-    "id": "5a82153ce80b",
-    "title": "IGH Sees Positive Momentum Continuing in Second Half",
-    "summary": "Elie Maalouf, chief executive officer at InterContinental Hotels Group Plc, discusses the hotel group's first-half performance, factors contributing to demand and the outlook for the second half. \"There's a sense of prosperity,\" Maalouf tells Bloomberg Television. \"And within that sense of prosperity, where people want to spend their time and money is on experiences.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/igh-sees-positive-momentum-continuing-in-second-half",
-    "published": "Tue, 11 Aug 2026 11:50:31 GMT",
+    "id": "82abfbd14bae",
+    "title": "Veritas-Backed Gainwell Kicks Off Bond Part of $5.8 Billion Deal",
+    "summary": "Gainwell Technologies has started the next leg of a broader $5.8 billion debt overhaul that marks the US software sector’s biggest financing of 2026 in the junk-debt market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/veritas-backed-gainwell-kicks-off-bond-part-of-5-8-billion-deal",
+    "published": "Tue, 11 Aug 2026 12:31:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413780"
-  },
-  {
-    "id": "a666e51e156e",
-    "title": "Trump’s Anti-Wind Crusade Is Boosting US Gas",
-    "summary": "The government has reached agreements with a string of wind developers to redirect funds toward fossil fuels.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/trump-s-anti-wind-crusade-is-boosting-us-gas",
-    "published": "Tue, 11 Aug 2026 11:43:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413789"
+    "fetched_at": "2026-08-11T13:24:21.227480"
   },
   {
     "id": "2d82570aed8a",
-    "title": "Stocks Climb as Oil Retreats on Iran Deal Hopes: Markets Wrap",
-    "summary": "Stock futures edged higher and Treasuries pared losses as a rally in crude oil went into reverse on optimism around a possible deal between the US and Iran.",
+    "title": "Stocks Climb as Oil Pares Gain on Iran Deal Hopes: Markets Wrap",
+    "summary": "Stock futures edged higher and Treasuries erased losses as crude oil pared gains on optimism around a possible deal between the US and Iran.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 10 Aug 2026 22:08:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413795"
+    "fetched_at": "2026-08-11T13:24:21.227483"
   },
   {
-    "id": "fa196d9c3bc9",
-    "title": "Gold Pulls Back From Two-Month High as Focus Shifts to Inflation",
-    "summary": "Gold fell from a two-month high ahead of a US inflation report that could provide fresh clues on the Federal Reserve’s appetite for an interest-rate hike.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
-    "published": "Mon, 10 Aug 2026 23:33:50 GMT",
+    "id": "0e8e68ee919d",
+    "title": "A Dozen Ships Switch Oil Outside Hormuz as Barrels Keep Flowing",
+    "summary": "A key oil supply valve from the Middle East that involves shuttle transits through the Strait of Hormuz is continuing to function in the face of a recent spate of attacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/a-dozen-ships-switch-oil-outside-hormuz-as-barrels-keep-flowing",
+    "published": "Tue, 11 Aug 2026 12:17:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413801"
+    "fetched_at": "2026-08-11T13:24:21.227486"
+  },
+  {
+    "id": "929b6185e872",
+    "title": "Bonds Slide Amid Inflation Concerns as Oil Rises on Hormuz Deal Outlook | Bloomberg Brief 08/11/2026",
+    "summary": "Treasuries fall and US equity futures waver as rising oil prices stoke inflation fears. President Trump hardens his stance toward Iran with new demands, clouding the prospect of an immediate agreement on the Strait of Hormuz. AI financing picks up as Nvidia taps investment giants including Apollo and Blackstone to source $500 billion for AI infrastructure. Intel raises $20 billion in an upsized share sale. Laura Cooper of Nuveen discusses the rise in real yields. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-11/bloomberg-brief-08-11-2026-video",
+    "published": "Tue, 11 Aug 2026 12:10:26 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227491"
+  },
+  {
+    "id": "444f3e646f66",
+    "title": "US Stock Futures Rise as Oil Erases Gains on Iran Optimism",
+    "summary": "US stock futures are slightly up before the bell on Tuesday as oil erased an earlier advance while traders await key inflation data for guidance on Federal Reserve interest-rate policy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/us-stock-futures-rise-as-oil-erases-gains-on-iran-optimism",
+    "published": "Tue, 11 Aug 2026 12:10:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227494"
   },
   {
     "id": "30d046d5c5b6",
@@ -222,7 +276,43 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
     "published": "Mon, 10 Aug 2026 22:02:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413806"
+    "fetched_at": "2026-08-11T13:24:21.227497"
+  },
+  {
+    "id": "9f4ff1bee8ae",
+    "title": "IHG Sees Positive Momentum Continuing in Second Half",
+    "summary": "Elie Maalouf, chief executive officer at InterContinental Hotels Group Plc, discusses the hotel group's first-half performance, factors contributing to demand and the outlook for the second half. \"There's a sense of prosperity,\" Maalouf tells Bloomberg Television. \"And within that sense of prosperity, where people want to spend their time and money is on experiences.\" (Corrects company name in headline.) (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-11/ihg-sees-positive-momentum-continuing-in-second-half",
+    "published": "Tue, 11 Aug 2026 11:50:31 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227500"
+  },
+  {
+    "id": "91867c9d02de",
+    "title": "Fed to Take Wait-and-See Stance on Rates: Laura Cooper",
+    "summary": "Laura Cooper, Nuveen Global Investment Strategist, joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief\" to discuss the rise in real yields and the case for the Federal Reserve's policy tightening. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-11/fed-to-take-wait-and-see-stance-on-rates-laura-cooper-video",
+    "published": "Tue, 11 Aug 2026 11:56:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227503"
+  },
+  {
+    "id": "a666e51e156e",
+    "title": "Trump’s Anti-Wind Crusade Is Boosting US Gas",
+    "summary": "The government has reached agreements with a string of wind developers to redirect funds toward fossil fuels.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/trump-s-anti-wind-crusade-is-boosting-us-gas",
+    "published": "Tue, 11 Aug 2026 11:43:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227506"
+  },
+  {
+    "id": "fa196d9c3bc9",
+    "title": "Gold Pulls Back From Two-Month High as Focus Shifts to Inflation",
+    "summary": "Gold fell from a two-month high ahead of a US inflation report that could provide fresh clues on the Federal Reserve’s appetite for an interest-rate hike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
+    "published": "Mon, 10 Aug 2026 23:33:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-11T13:24:21.227509"
   },
   {
     "id": "992b8813be1b",
@@ -231,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/the-pulse-8-11-2026-video",
     "published": "Tue, 11 Aug 2026 11:16:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413811"
+    "fetched_at": "2026-08-11T13:24:21.227512"
   },
   {
     "id": "38ee80b44baa",
@@ -240,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/colombia-quake-levels-buildings-sparks-survivor-search-video",
     "published": "Tue, 11 Aug 2026 11:12:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413817"
+    "fetched_at": "2026-08-11T13:24:21.227515"
   },
   {
     "id": "c0252f565edf",
@@ -249,16 +339,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/turkish-funds-urge-action-as-stock-swings-threaten-msci-status",
     "published": "Tue, 11 Aug 2026 11:05:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413825"
-  },
-  {
-    "id": "7a3d4e18fb3f",
-    "title": "India’s Retail Traders Lost $9.6 Billion in Equity Derivatives",
-    "summary": "Individuals in India lost 916.85 billion rupees ($9.6 billion) buying and selling equity futures and options in the year ended March, down from 1.1 trillion rupees a year earlier, the government told lawmakers on Tuesday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-s-retail-traders-lost-9-6-billion-in-equity-derivatives",
-    "published": "Tue, 11 Aug 2026 10:37:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413830"
+    "fetched_at": "2026-08-11T13:24:21.227517"
   },
   {
     "id": "6275e0f8cf67",
@@ -267,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/resilient-europe-turns-into-a-winning-bet-for-money-managers",
     "published": "Tue, 11 Aug 2026 07:31:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413835"
+    "fetched_at": "2026-08-11T13:24:21.227520"
   },
   {
     "id": "ecb4286d44de",
@@ -276,87 +357,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/retail-footfall-fell-on-lower-tourism-says-spinneys-ceo-video",
     "published": "Tue, 11 Aug 2026 08:04:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413841"
-  },
-  {
-    "id": "3fa54ef8de5d",
-    "title": "Yen Slides Toward 160 per Dollar, Raising Intervention Concerns",
-    "summary": "The yen was slightly weaker and approaching a key level against the dollar that could raise speculation Japanese authorities may intervene again to prop up the Japanese currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/yen-slides-toward-160-per-dollar-raising-intervention-concerns",
-    "published": "Tue, 11 Aug 2026 10:03:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413846"
-  },
-  {
-    "id": "543e4af8cfbb",
-    "title": "TPG Agrees to Buy South Korea’s Lotte Rental for $925 Million",
-    "summary": "TPG Capital has agreed to acquire a 61.2% stake in Lotte Rental Co. for 1.31 trillion won ($925 million), reviving a sale of South Korea’s largest car-rental company months after regulators blocked an earlier takeover.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/tpg-agrees-to-buy-south-korea-s-lotte-rental-for-925-million",
-    "published": "Tue, 11 Aug 2026 09:57:15 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413851"
-  },
-  {
-    "id": "0a62fdd928c1",
-    "title": "Europe Is Ticking a Lot of Boxes for Investors Right Now",
-    "summary": "Earnings and economic growth turn out to be surprisingly robust.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/europe-is-ticking-a-lot-of-boxes-for-investors-right-now",
-    "published": "Tue, 11 Aug 2026 09:56:53 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413856"
-  },
-  {
-    "id": "1725a23cdd62",
-    "title": "Trump Hardens Stance on Iran, Nvidia Taps Wall Street for $500B | The Opening Trade 8/11/2026",
-    "summary": "US President Donald Trump hardened his stance toward Iran as negotiations to reopen the Strait of Hormuz continue, pronouncing that the Islamic Republic must pay reparations for past attacks. Trump made his sweeping new demands on Monday after accusing Tehran of itself seeking compensation for war damages through public statements even though the issue had never been raised in negotiations.\n\nUS investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to source $500 billion in financing for artificial intelligence infrastructure. \n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/the-opening-trade-8-11-2026-video",
-    "published": "Tue, 11 Aug 2026 09:50:52 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413862"
-  },
-  {
-    "id": "ecb29faa9fbc",
-    "title": "Adani Lands $800 Million Data Center Loan as US Drops Charges",
-    "summary": "Indian conglomerate Adani Group has secured a loan of about $800 million from a group of overseas lenders to help fund its push into data centers, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/adani-lands-800-million-data-center-loan-as-us-drops-charges",
-    "published": "Tue, 11 Aug 2026 09:43:38 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413867"
-  },
-  {
-    "id": "9536943e65b3",
-    "title": "Adani Wins Dismissal in US Fraud Case",
-    "summary": "Gautam Adani has won the dismissal of US fraud charges that threatened his global ambitions. After months of legal maneuvering, a major hurdle is gone, potentially clearing the way for the Indian billionaire to expand in the US. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/adani-wins-dismissal-in-us-fraud-case-video",
-    "published": "Tue, 11 Aug 2026 09:24:59 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413872"
-  },
-  {
-    "id": "f10ade6a7965",
-    "title": "Europe's Extreme Heat Wave Crisis Is Getting Worse",
-    "summary": "Another wave of intense heat is sweeping across an already parched Europe this week, raising wildfire risks, threatening crops and drying watersheds feeding the region's critically low rivers. Europe's fifth major heat wave of the year is likely to block moisture-bearing clouds from helping refill rivers such as the Rhine, Po and Danube, where record low water levels have disrupted navigation and power production. Climate change is increasing the frequency and intensity of extreme heat on the world's fastest-warming continent, straining power grids, sapping water supplies and curbing farm output. Our Weather and Climate Reporter Joe Wertz joined Stephen Carroll and Tiwa Adebayo on Bloomberg Radio to discuss.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/europe-s-extreme-heat-wave-crisis-is-getting-worse-video",
-    "published": "Tue, 11 Aug 2026 09:20:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413877"
-  },
-  {
-    "id": "cf4f6a6032a0",
-    "title": "DayOne Data Centers Is Said to Confidentially File for $5 Billion IPO in US",
-    "summary": "<p>DayOne Data Centers has confidentially filed for a US initial public offering, according to people familiar with the matter.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/dayone-data-centers-said-to-confidentially-file-for-5-billion-ipo-us",
-    "published": "Tue, 11 Aug 2026 07:37:15 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413882"
-  },
-  {
-    "id": "9853d64e0003",
-    "title": "Emerging Assets Pressured as Higher Oil Stokes Inflation Worries",
-    "summary": "Most emerging-market currencies weakened and bond yields rose as fading chances of a deal to reopen the Strait of Hormuz hit oil-sensitive assets around the globe.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/emerging-assets-pressured-as-higher-oil-stokes-inflation-worries",
-    "published": "Tue, 11 Aug 2026 08:49:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-11T11:58:13.413887"
+    "fetched_at": "2026-08-11T13:24:21.227523"
   }
 ]
