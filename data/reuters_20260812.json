@@ -1,5 +1,55 @@
 [
   {
+    "id": "5fef7a0c1737",
+    "title": "Oil Price Pressure, CoreWeave Doubles Revenue, More",
+    "title_cn": "油价压力、CoreWeave 收入翻倍等等",
+    "summary": "Source: Bloomberg, 5:23",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/oil-price-pressure-coreweave-doubles-revenue-more",
+    "published": "Wed, 12 Aug 2026 07:39:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:42.932438"
+  },
+  {
+    "id": "e4896cbfc45d",
+    "title": "White Collar Jobs To Move From London to Manchester Amid Burnham Devolution",
+    "title_cn": "伯纳姆权力下放期间，白领工作将从伦敦转移到曼彻斯特",
+    "summary": "White-collar exodus from London, Burnham’s emergency heatwave meeting",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/white-collar-jobs-to-move-from-london-to-manchester-amid-burnham-devolution",
+    "published": "Wed, 12 Aug 2026 07:15:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:43.030641"
+  },
+  {
+    "id": "7563e9019fc6",
+    "title": "Tata Sons Chairman to Step Down After Reappointment Deadlock",
+    "title_cn": "塔塔之子董事长在连任僵局后辞职",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/tata-sons-chairman-to-step-down-after-reappointment-deadlock",
+    "published": "Wed, 12 Aug 2026 07:04:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:43.117326"
+  },
+  {
+    "id": "c0c1fe4b27bf",
+    "title": "Stock Movers: Samsung, Tencent, Taiyo Yuden (Podcast)",
+    "title_cn": "股票走势：三星、腾讯、太阳诱电（播客）",
+    "summary": "Source: Bloomberg, 5:19",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/stock-movers-samsung-tencent-taiyo-yuden-podcast",
+    "published": "Wed, 12 Aug 2026 06:25:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:43.201277"
+  },
+  {
+    "id": "0c2b8b03fa45",
+    "title": "Bloomberg Daybreak Europe: $150 Oil Possible (Podcast)",
+    "title_cn": "彭博社黎明欧洲：油价可能达到 150 美元（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-daybreak-europe-150-oil-possible-podcast",
+    "published": "Wed, 12 Aug 2026 06:14:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:43.306613"
+  },
+  {
     "id": "eb3394ba7ccc",
     "title": "Oil Prices Rise Ahead Of US CPI, CoreWeave Surges, More",
     "title_cn": "油价上涨先于美国消费者物价指数 (CPI)、CoreWeave 飙升等",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/oil-prices-rise-ahead-of-us-cpi-coreweave-surges-more",
     "published": "Wed, 12 Aug 2026 05:45:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.108140"
+    "fetched_at": "2026-08-12T07:43:43.407512"
   },
   {
     "id": "e4abfce13afe",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/situational-awareness-raises-stake-in-taiyo-yuden-lifts-shares",
     "published": "Wed, 12 Aug 2026 03:57:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.218173"
+    "fetched_at": "2026-08-12T07:43:43.502778"
   },
   {
     "id": "07a4e626cee3",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/primary-night-in-america-iran-us-harden-stances-more",
     "published": "Wed, 12 Aug 2026 03:29:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.321880"
+    "fetched_at": "2026-08-12T07:43:43.596261"
   },
   {
     "id": "e1eace513ac7",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-ally-my-pillow-guy-loses-minnesota-governor-gop-primary",
     "published": "Wed, 12 Aug 2026 02:55:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.433262"
+    "fetched_at": "2026-08-12T07:43:43.740421"
   },
   {
     "id": "ce259e186823",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/graham-norman-head-to-sc-runoff-pakistan-says-iran-deal-close",
     "published": "Wed, 12 Aug 2026 02:53:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.536834"
+    "fetched_at": "2026-08-12T07:43:43.841388"
   },
   {
     "id": "42190602edef",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-law-scotus-low-approval-nfl-antitrust-podcast",
     "published": "Wed, 12 Aug 2026 02:47:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.655332"
+    "fetched_at": "2026-08-12T07:43:43.929459"
   },
   {
     "id": "6cebf79e267e",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/tata-sons-chair-chandrasekaran-weighs-exit-before-agm-et-says",
     "published": "Wed, 12 Aug 2026 01:50:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.757011"
+    "fetched_at": "2026-08-12T07:43:44.032621"
   },
   {
     "id": "4c8ea5b69991",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/primary-night-in-america-judge-curbs-trump-mail-in-voting-plan",
     "published": "Wed, 12 Aug 2026 02:09:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.855648"
+    "fetched_at": "2026-08-12T07:43:44.132699"
   },
   {
     "id": "6be263efe8a6",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-daybreak-asia-oil-gains-tech-stocks-rise-podcast",
     "published": "Wed, 12 Aug 2026 02:02:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:08.990302"
+    "fetched_at": "2026-08-12T07:43:44.210158"
   },
   {
     "id": "5f4538db280b",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-talks-yoni-assia-podcast",
     "published": "Wed, 12 Aug 2026 01:53:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.106482"
+    "fetched_at": "2026-08-12T07:43:44.325376"
   },
   {
     "id": "bfc5c98455fc",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-businessweek-daily-rare-earths-special-podcast",
     "published": "Wed, 12 Aug 2026 01:40:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.227035"
+    "fetched_at": "2026-08-12T07:43:44.408431"
   },
   {
     "id": "9298571f73dd",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/graham-advances-in-sc-senate-race-mail-in-vote-ruling-widens",
     "published": "Wed, 12 Aug 2026 01:14:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.333080"
+    "fetched_at": "2026-08-12T07:43:44.496450"
   },
   {
     "id": "09bcba22b1ed",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-12/crypto-boss-eyes-malaysia-s-tech-commune-after-abrupt-closure",
     "published": "Wed, 12 Aug 2026 00:00:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.437477"
+    "fetched_at": "2026-08-12T07:43:44.602621"
   },
   {
     "id": "2adb0beecd61",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-11/iran-us-harden-stances-colombia-quake-death-toll-rises",
     "published": "Tue, 11 Aug 2026 23:52:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.553284"
+    "fetched_at": "2026-08-12T07:43:44.715558"
   },
   {
     "id": "b0fa7941a25f",
@@ -147,87 +197,167 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/commonwealth-bank-s-results-interest-rates-on-hold-new-zealand-pm",
     "published": "Tue, 11 Aug 2026 23:04:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.647576"
-  },
-  {
-    "id": "1f7ff13864e3",
-    "title": "Pakistan Says Iran Deal Near, Coreweave Beats on AI Demand",
-    "title_cn": "巴基斯坦称伊朗协议即将达成，Coreweave 满足人工智能需求",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/pakistan-says-iran-deal-near-coreweave-beats-on-ai-demand",
-    "published": "Tue, 11 Aug 2026 22:51:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.762633"
-  },
-  {
-    "id": "11b5c2b4edee",
-    "title": "New Zealand PM Fights for Political Survival as Party Meets",
-    "title_cn": "新西兰总理在党内会议上为政治生存而战",
-    "summary": "New Zealand Prime Minister Christopher Luxon faces National Party lawmakers on Wednesday with his job on the line, as they question whether he’s the right person to lead them to victory in November’s election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/new-zealand-s-luxon-fights-for-political-survival-as-party-meets",
-    "published": "Tue, 11 Aug 2026 20:56:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.863361"
-  },
-  {
-    "id": "61e5c8f6d811",
-    "title": "Pakistan Says Iran Deal Close, Colombia Quake Deaths Top 180",
-    "title_cn": "巴基斯坦称伊朗协议已达成，哥伦比亚地震死亡人数达 180 人",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/pakistan-says-iran-deal-close-colombia-quake-deaths-top-180",
-    "published": "Tue, 11 Aug 2026 22:20:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:09.963229"
-  },
-  {
-    "id": "d4b6f8d124a4",
-    "title": "Bloomberg Businessweek Daily: US, Iran Harden Stances (Podcast)",
-    "title_cn": "彭博商业周刊：美国、伊朗的强硬立场（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-11/bloomberg-businessweek-daily-us-iran-harden-stances-podcast",
-    "published": "Tue, 11 Aug 2026 21:39:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:10.060824"
-  },
-  {
-    "id": "c2f5141fb41c",
-    "title": "Pakistan Says Iran-US Deal Is Close Despite Hardening Stances",
-    "title_cn": "巴基斯坦表示，尽管立场强硬，伊朗与美国仍接近达成协议",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-11/pakistan-says-iran-us-deal-is-close-despite-hardening-stances",
-    "published": "Tue, 11 Aug 2026 21:31:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:10.156080"
-  },
-  {
-    "id": "afc1ec1da56e",
-    "title": "Indonesian Tech Firm GoTo Faces MSCI Index Exclusion",
-    "title_cn": "印尼科技公司 GoTo 面临 MSCI 指数剔除",
-    "summary": "GoTo Group, the Indonesian ride-hailing and food delivery platform once valued at more than $32 billion, faces the prospect of being dropped from MSCI Inc.’s indexes on Wednesday after a plunge in its share price left the stock difficult to trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-e-commerce-giant-faces-msci-index-exclusion-in-review",
-    "published": "Wed, 12 Aug 2026 03:43:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:10.677231"
+    "fetched_at": "2026-08-12T07:43:44.815203"
   },
   {
     "id": "ea710449d2e7",
-    "title": "Tata Sons Chairman Resigns in Shock Move Ahead of AGM Next Week",
-    "title_cn": "塔塔之子董事长在下周年度股东大会前令人震惊地辞职",
-    "summary": "Natarajan Chandrasekaran has stepped down as chairman of Tata Sons Pvt. ahead of a contentious annual shareholder vote, according to a person familiar with the matter, throwing the salt-to-software conglomerate into uncertainty at a time when it’s spearheading the country’s push into high-tech sectors.",
+    "title": "Tata Sons Chairman N Chandrasekaran Resigns Ahead of AGM Next Week",
+    "title_cn": "塔塔之子董事长 N Chandrasekaran 在下周年度股东大会前辞职",
+    "summary": "Natarajan Chandrasekaran said he will step down as chairman of Tata Sons Pvt. when his term ends in February 2027, throwing the salt-to-software conglomerate into uncertainty at a time when it’s spearheading the country’s push into high-tech sectors.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/tata-sons-chair-chandra-steps-down-leaving-group-leaderless",
     "published": "Wed, 12 Aug 2026 05:38:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:10.789333"
+    "fetched_at": "2026-08-12T07:43:45.180172"
+  },
+  {
+    "id": "d69bd12252c1",
+    "title": "US Futures Rise on CoreWeave Results; Oil Climbs: Markets Wrap",
+    "title_cn": "CoreWeave 业绩带动美国期货上涨；油价攀升：市场总结",
+    "summary": "Stock futures advanced as upbeat results from CoreWeave Inc. and Super Micro Computer Inc. buoyed sentiment ahead of a key US inflation reading later today.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 11 Aug 2026 22:07:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.345317"
+  },
+  {
+    "id": "90402ee52574",
+    "title": "SK Hynix, Samsung Shares Gain as Report Says Temasek to Invest",
+    "title_cn": "报道称淡马锡将投资 SK 海力士和三星股价上涨",
+    "summary": "South Korean chipmakers rallied as risk appetite returned after last month’s rout and traders weighed a local media report that Singapore’s Temasek Holdings Pte plans to invest in Samsung Electronics Co. and SK Hynix Inc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/sk-hynix-samsung-extend-gains-after-report-temasek-to-invest",
+    "published": "Wed, 12 Aug 2026 03:37:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.441019"
+  },
+  {
+    "id": "f28276bdb85e",
+    "title": "Heatwave Slams Europe Straining Energy Supply, E.On CEO Says",
+    "title_cn": "E.On 首席执行官表示，热浪导致欧洲能源供应紧张",
+    "summary": "As Europe is hit by its fifth heatwave, the continent's largest energy provider joins Bloomberg's Guy Johnson and Tom Mackenzie on 'The Opening Trade'. \"We see massive increases in wholesale prices because of the Persian Gulf. We've seen extremely high gas prices putting stress on customers and affordability. Right now we see a very hot summer curtailing output that will lead to short-term distortions. We need to continue but it's stressful.\"\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/e-on-ceo-birnbaun-on-europe-s-energy-supply-video",
+    "published": "Wed, 12 Aug 2026 07:34:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.523469"
+  },
+  {
+    "id": "95b4941c85ed",
+    "title": "Shoprite Jumps as E-Commerce Boom Boosts Full-Year Profit",
+    "title_cn": "电子商务热潮提振全年利润，Shoprite 股价跃升",
+    "summary": "Shoprite Holdings Ltd. climbed the most in 11 months as Africa’s largest supermarket chain said it sees earnings rising as much as 14.7% because of higher sales at its e-commerce unit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/shoprite-raises-earnings-guidance-as-e-commerce-unit-booms",
+    "published": "Wed, 12 Aug 2026 06:40:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.606353"
+  },
+  {
+    "id": "a56bfeda2bc7",
+    "title": "Rakuten Shares Drop After Mobile Losses Fuel Investor Fears",
+    "title_cn": "移动业务亏损加剧投资者担忧后乐天股价下跌",
+    "summary": "Rakuten Group Inc.’s shares sank the most in over two years after the Japanese e-commerce pioneer failed to erase persisting losses at its mobile unit.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/rakuten-shares-fall-most-in-six-months-after-earnings-disappoint",
+    "published": "Wed, 12 Aug 2026 00:33:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.689956"
+  },
+  {
+    "id": "8dbafee6304c",
+    "title": "Latest Oil Market News and Analysis for Aug. 12",
+    "title_cn": "8 月 12 日最新石油市场新闻和分析",
+    "summary": "Oil held on to a sixth day of gains over skepticism about a potential deal to restore energy flows through the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
+    "published": "Tue, 11 Aug 2026 22:04:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.797236"
   },
   {
     "id": "749f0c39b9c0",
     "title": "ABN Amro Beats on Profit, Boosts Key Revenue Source Outlook",
     "title_cn": "荷兰银行利润超预期，提振主要收入来源前景",
-    "summary": "ABN Amro Bank NV reported quarterly profit that beat analysts’ estimates thanks to higher fees and growth in lending income, prompting the Dutch bank to raise the outlook for its biggest revenue source.",
+    "summary": "ABN Amro Bank NV reported quarterly profit that beat analysts’ estimates on higher fees and growth in lending income, prompting the Dutch bank to raise the outlook for its biggest revenue source.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/abn-amro-profit-beats-boosts-outlook-for-key-revenue-source",
     "published": "Wed, 12 Aug 2026 05:20:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:10.904652"
+    "fetched_at": "2026-08-12T07:43:45.893869"
+  },
+  {
+    "id": "734d6a0f0d44",
+    "title": "Norway $2.3 Trillion Fund Posts Best Quarter Since 2020",
+    "title_cn": "挪威 2.3 万亿美元基金录得 2020 年以来最佳季度业绩",
+    "summary": "Norway’s sovereign wealth fund, the world’s largest, reported its best quarterly return in six years, helped by gains from its large holdings in global technology companies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/norway-2-3-trillion-fund-returns-9-4-in-first-half",
+    "published": "Wed, 12 Aug 2026 06:17:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:45.974542"
+  },
+  {
+    "id": "1328f03e56f6",
+    "title": "UAE Shuttles Oil Exports From Iraq Through the Strait of Hormuz",
+    "title_cn": "阿联酋通过霍尔木兹海峡从伊拉克出口石油",
+    "summary": "Abu Dhabi National Oil Co. is offering to shuttle exports of Iraqi oil through the Strait of Hormuz, using its dark-transit playbook to transport Basrah and other crude to refiners in Asia, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/uae-shuttles-oil-exports-from-iraq-through-the-strait-of-hormuz",
+    "published": "Wed, 12 Aug 2026 06:49:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.136560"
+  },
+  {
+    "id": "3fc02206aa36",
+    "title": "Horizons Middle East & Africa 8/12/2026",
+    "title_cn": "中东和非洲地平线 8/12/2026",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/horizons-middle-east-africa-8-12-2026-video",
+    "published": "Wed, 12 Aug 2026 06:29:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.250874"
+  },
+  {
+    "id": "043c2066af2b",
+    "title": "AI Boom Fuels Asian Stocks Even as Oil Climbs | Insight with Haslinda Amin 08/12/2026",
+    "title_cn": "尽管油价上涨，人工智能繁荣仍推动亚洲股市上涨哈斯琳达·阿明的见解 08/12/2026",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/insight-with-haslinda-amin-08-12-2026-video",
+    "published": "Wed, 12 Aug 2026 06:27:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.350541"
+  },
+  {
+    "id": "915d90f2b61f",
+    "title": "New Zealand PM Survives Leadership Challenge as Election Looms",
+    "title_cn": "新西兰总理在选举临近之际克服了领导力挑战",
+    "summary": "New Zealand Prime Minister Christopher Luxon survived a leadership challenge Wednesday, quelling for now a messy bout of infighting less than three months before a general election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/new-zealand-prime-minister-luxon-wins-party-confidence-vote",
+    "published": "Wed, 12 Aug 2026 00:55:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.524125"
+  },
+  {
+    "id": "db43b4283314",
+    "title": "China Pledge on US Soybeans Tested as Private Crushers Hold Back",
+    "title_cn": "中国承诺对美国大豆进行测试，因私人压榨商受阻",
+    "summary": "China’s drive to buy large volumes of US soybeans — a commitment under last year’s trade truce — risks being complicated by a lack of participation from the country’s private traders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/china-pledge-on-us-soybeans-tested-as-private-crushers-hold-back",
+    "published": "Wed, 12 Aug 2026 06:19:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.615799"
+  },
+  {
+    "id": "afc1ec1da56e",
+    "title": "Indonesian Tech Firm GoTo Faces MSCI Index Removal in Review",
+    "title_cn": "印度尼西亚科技公司 GoTo 面临 MSCI 指数剔除审查",
+    "summary": "GoTo Group, the Indonesian ride-hailing and food delivery platform once valued at more than $32 billion, faces the prospect of being dropped from MSCI Inc.’s indexes on Wednesday after a plunge in its share price left the stock difficult to trade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/indonesian-e-commerce-giant-faces-msci-index-exclusion-in-review",
+    "published": "Wed, 12 Aug 2026 03:43:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.719614"
+  },
+  {
+    "id": "c09113387fc2",
+    "title": "Activist Investor Elliott Demands Board Revamp at Northern Star",
+    "title_cn": "激进投资者埃利奥特要求重组北极星董事会",
+    "summary": "Activist investor Elliott Investment Management LP has urged Australia’s biggest gold miner Northern Star Resources Ltd. to overhaul its board, and named six nominees it said would restore market confidence in the company.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/activist-investor-elliott-demands-board-revamp-at-northern-star",
+    "published": "Wed, 12 Aug 2026 06:06:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:46.885635"
   },
   {
     "id": "31f248dddc95",
@@ -237,17 +367,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/india-options-trading-drops-27-as-new-auction-upends-strategies",
     "published": "Wed, 12 Aug 2026 05:47:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.008694"
+    "fetched_at": "2026-08-12T07:43:46.998806"
   },
   {
     "id": "557934b23bcc",
-    "title": "FTSE 100 Live: UK Stocks Set to Fall Again, Pound Holds Steady",
-    "title_cn": "富时 100 指数直播：英国股市将再次下跌，英镑保持稳定",
+    "title": "FTSE 100 Live: UK Stocks Fall For Third Day as Defensives Drop",
+    "title_cn": "富时 100 实时指数：英国股市连续第三天下跌，因防御性下跌",
     "summary": "",
     "link": "https://www.bloomberg.com/news/live-blog/2026-08-12/ftse-100-live-updates-pound-gilts-us-iran-trump-oil-prices-gold-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-mspo1di9",
     "published": "Wed, 12 Aug 2026 05:45:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.102820"
+    "fetched_at": "2026-08-12T07:43:47.099669"
+  },
+  {
+    "id": "f5f54f7bfd48",
+    "title": "Tencent Earnings a Litmus Test for China's AI Sector | The China Show | 8/12/2026",
+    "title_cn": "腾讯盈利是中国人工智能行业的试金石中国展| 2026 年 8 月 12 日",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/the-china-show-8-12-2026-video",
+    "published": "Wed, 12 Aug 2026 05:34:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:47.190698"
   },
   {
     "id": "667219eb91c1",
@@ -257,147 +397,27 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/presight-ceo-ai-productivity-needed-despite-conflict-video",
     "published": "Wed, 12 Aug 2026 05:30:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.217761"
+    "fetched_at": "2026-08-12T07:43:47.286035"
   },
   {
-    "id": "07165450f581",
-    "title": "Godrej Consumer Shares Plunge After CEO’s Sudden Resignation",
-    "title_cn": "首席执行官突然辞职后 Godrej Consumer 股价暴跌",
-    "summary": "Godrej Consumer Products Ltd. shares fell after the Indian soap and mosquito-repellent maker said its Chief Executive Officer Sudhir Sitapati resigned with immediate effect, surprising market watchers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/godrej-consumer-shares-plunge-after-ceo-s-sudden-resignation",
-    "published": "Wed, 12 Aug 2026 05:10:28 GMT",
+    "id": "592b28275875",
+    "title": "Stocks Rise as CoreWeave, Super Micro Boost AI Trade",
+    "title_cn": "CoreWeave 和 Super Micro 推动人工智能贸易，股价上涨",
+    "summary": "Asian stocks rose and US equity-index futures advanced as CoreWeave reported stronger-than-expected sales growth and Super Micro's revenue forecast topped estimates. Bloomberg's Neil Campling reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/digi-neil-campling-on-coreweave-super-micro-sk-hynix",
+    "published": "Wed, 12 Aug 2026 07:35:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.318074"
+    "fetched_at": "2026-08-12T07:43:48.265908"
   },
   {
-    "id": "2674edbe6e42",
-    "title": "StanChart COO Sees AI Boosting Productivity",
-    "title_cn": "渣打银行首席运营官认为人工智能可提高生产力",
-    "summary": "Standard Chartered Group COO, Tanuj Kapilashrami, says AI is helping improve efficiency across banking operations while creating demand for new skills. She also believes India will continue to be a key growth hub for talent and technology. She spoke exclusively with Paul Allen on Insight with Haslinda Amin. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/stanchart-coo-sees-ai-boosting-productivity-video",
-    "published": "Wed, 12 Aug 2026 05:04:20 GMT",
+    "id": "b89168de07bd",
+    "title": "Nvidia Partner Hon Hai’s Profit Beats on Sustained AI Spending",
+    "title_cn": "英伟达合作伙伴鸿海的利润得益于持续的人工智能支出",
+    "summary": "Hon Hai Precision Industry Co. reported a better-than-expected increase in quarterly profit, signaling robust global demand for AI hardware.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/nvidia-partner-hon-hai-s-profit-beats-on-sustained-ai-spending",
+    "published": "Wed, 12 Aug 2026 06:24:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.430891"
-  },
-  {
-    "id": "d69bd12252c1",
-    "title": "Stocks Rise on CoreWeave Results, Oil Extends Gain: Markets Wrap",
-    "title_cn": "CoreWeave 业绩带动股市上涨，油价扩大涨幅：市场总结",
-    "summary": "Asian stocks and US equity-index futures advanced as strong earnings from technology companies lured investors back into the artificial intelligence trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 11 Aug 2026 22:07:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.528946"
-  },
-  {
-    "id": "9192ba214bd7",
-    "title": "AGL Jumps Most in Six Months on Strong Battery Performance",
-    "title_cn": "AGL 凭借强劲的电池性能实现六个月来最大涨幅",
-    "summary": "AGL Energy Ltd. shares jumped the most in six months as Australia’s largest power producer’s batteries helped offset declining wholesale electricity prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/agl-jumps-most-in-six-months-on-strong-battery-performance",
-    "published": "Wed, 12 Aug 2026 04:46:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.643342"
-  },
-  {
-    "id": "8d74c2e28063",
-    "title": "Air India Pilot Tests Positive for Drugs",
-    "title_cn": "印度航空飞行员毒品检测呈阳性",
-    "summary": "The captain of an Air India Ltd. jet that suddenly dropped about 300 feet on a flight last week tested positive for illegal drugs in a second screening, according to people familiar with the matter. Bloomberg's Mihir Mishra shares what the reporting so far can reveal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/air-india-pilot-tests-positive-for-drugs-video",
-    "published": "Wed, 12 Aug 2026 04:36:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.764178"
-  },
-  {
-    "id": "90402ee52574",
-    "title": "SK Hynix, Samsung Shares Extend Gain on Report Temasek to Invest",
-    "title_cn": "SK海力士和三星股价因淡马锡投资报告而扩大涨幅",
-    "summary": "South Korean chipmakers rallied as risk appetite returned after last month’s rout and traders weighed a local media report that Singapore’s Temasek Holdings Pte plans to invest in Samsung Electronics Co. and SK Hynix Inc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/sk-hynix-samsung-extend-gains-after-report-temasek-to-invest",
-    "published": "Wed, 12 Aug 2026 03:37:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.875806"
-  },
-  {
-    "id": "145f11df3f7a",
-    "title": "Markets Brace for US CPI; AI Firms Crush Earnings | The Asia Trade 8/12/2026",
-    "title_cn": "市场为美国消费者物价指数做好准备；人工智能公司的盈利大幅下滑亚洲贸易 8/12/2026",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/the-asia-trade-8-12-2026-video",
-    "published": "Wed, 12 Aug 2026 04:23:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:11.971386"
-  },
-  {
-    "id": "a54d5aeb7688",
-    "title": "Iran, US Harden Stances as Pakistan Says Deal Is Near",
-    "title_cn": "巴基斯坦称协议即将达成协议，伊朗和美国立场趋于强硬",
-    "summary": "Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the long-deadlocked negotiations.  Bloomberg's Abeer Abu Omar has the latest. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/iran-us-harden-stances-as-pakistan-says-deal-is-near-video",
-    "published": "Wed, 12 Aug 2026 04:05:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.073996"
-  },
-  {
-    "id": "8dbafee6304c",
-    "title": "Latest Oil Market News and Analysis for Aug. 12",
-    "title_cn": "8 月 12 日最新石油市场新闻和分析",
-    "summary": "Oil advanced for a sixth day on skepticism about the prospects for a deal that would restore energy flows through the Strait of Hormuz, despite an upbeat assessment from some officials.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
-    "published": "Tue, 11 Aug 2026 22:04:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.185041"
-  },
-  {
-    "id": "248cbc007569",
-    "title": "Gold Advances as Traders Watch US Inflation for Rate-Hike Clues",
-    "title_cn": "交易员关注美国通胀以寻找加息线索，黄金上涨",
-    "summary": "Gold advanced, as traders weighed prospects for a deal to reopen the Strait of Hormuz while awaiting US inflation data that could provide fresh clues on the Federal Reserve’s interest-rate path.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues",
-    "published": "Tue, 11 Aug 2026 23:35:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.310742"
-  },
-  {
-    "id": "83ca7359653b",
-    "title": "JPMorgan Boosts Singapore Stocks Target as Economic Growth Holds",
-    "title_cn": "随着经济增长，摩根大通上调新加坡股市目标",
-    "summary": "JPMorgan Chase &amp; Co. raised its target for Singapore stocks as robust economic growth and a narrowing valuation gap with developed-market peers bolster their outlook.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/jpmorgan-boosts-singapore-stocks-target-as-economic-growth-holds",
-    "published": "Wed, 12 Aug 2026 03:46:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.410581"
-  },
-  {
-    "id": "4bed3aacbe08",
-    "title": "China Taps Deutsche Bank as First Foreign Yuan Clearer in Europe",
-    "title_cn": "中国选择德意志银行作为欧洲首家人民币清算机构",
-    "summary": "China has authorized Deutsche Bank AG as the first non-Chinese lender that can settle yuan transactions in Europe, expanding its clearing network to promote the currency overseas.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/china-taps-deutsche-bank-as-first-foreign-yuan-clearer-in-europe",
-    "published": "Wed, 12 Aug 2026 03:16:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.515139"
-  },
-  {
-    "id": "35c9ae3ace1b",
-    "title": "Korea’s 30-Year Bond Yield Hits Record on Oil, Rate Hike Bets",
-    "title_cn": "韩国30年期债券收益率因石油和加息押注创历史新高",
-    "summary": "South Korea’s 30-year government bond yield climbed to a record, as elevated energy prices and weaker demand from life insurers intensified pressure on the debt market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/korea-s-30-year-bond-yield-hits-record-on-oil-rate-hike-bets",
-    "published": "Wed, 12 Aug 2026 02:55:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.613796"
-  },
-  {
-    "id": "ea35a508b1e6",
-    "title": "India’s Small, Mid-cap Funds Stay Hot With Investors",
-    "title_cn": "印度的中小型基金仍然受到投资者的青睐",
-    "summary": "The smaller stocks have comfortably outpaced large caps this year.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/india-s-small-mid-cap-funds-stay-hot-with-investors",
-    "published": "Wed, 12 Aug 2026 02:50:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:12.709965"
+    "fetched_at": "2026-08-12T07:43:48.357287"
   },
   {
     "id": "f62e7dab3569",
@@ -407,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/vacuum-pump-makers-gases-producers-are-the-new-ai-winners",
     "published": "Wed, 12 Aug 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.223673"
+    "fetched_at": "2026-08-12T07:43:48.456370"
   },
   {
     "id": "dcbd25b244ac",
@@ -417,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/peak-memory-fears-put-focus-on-samsung-sk-hynix-cash-returns",
     "published": "Tue, 11 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.350397"
+    "fetched_at": "2026-08-12T07:43:48.547996"
   },
   {
     "id": "230cc8f42a75",
@@ -427,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/manus-to-resume-independent-operations-in-unwind-of-meta-deal",
     "published": "Tue, 11 Aug 2026 15:31:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.464108"
+    "fetched_at": "2026-08-12T07:43:48.639635"
   },
   {
     "id": "b633837e3678",
@@ -437,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/ai-startup-cognition-in-new-funding-talks-at-40-billion-value",
     "published": "Wed, 12 Aug 2026 03:53:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.584231"
+    "fetched_at": "2026-08-12T07:43:48.741731"
   },
   {
     "id": "6cae16664ffe",
@@ -447,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/counterpoint-s-shah-on-nvidia-circular-deals-video",
     "published": "Wed, 12 Aug 2026 03:09:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.701430"
+    "fetched_at": "2026-08-12T07:43:48.838466"
   },
   {
     "id": "077bfa999b8b",
@@ -457,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/aapa-on-asia-s-airline-industry-passenger-demand-video",
     "published": "Wed, 12 Aug 2026 03:02:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.813743"
+    "fetched_at": "2026-08-12T07:43:48.930789"
   },
   {
     "id": "e92f9c9e510c",
@@ -467,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/south-korea-s-ai-investment-plans-video",
     "published": "Wed, 12 Aug 2026 00:17:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:13.924383"
+    "fetched_at": "2026-08-12T07:43:49.030366"
   },
   {
     "id": "bbf2fe6c79d3",
@@ -477,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/korea-sovereign-wealth-fund-to-join-global-race-for-ai-robotics",
     "published": "Tue, 11 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.042708"
+    "fetched_at": "2026-08-12T07:43:49.123003"
   },
   {
     "id": "18d3f4b537e6",
@@ -487,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
     "published": "Tue, 11 Aug 2026 20:21:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.165855"
+    "fetched_at": "2026-08-12T07:43:49.238087"
   },
   {
     "id": "c79728cec723",
@@ -497,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/redpoint-s-brescia-on-nvidia-s-500b-funding-ai-capex-video",
     "published": "Tue, 11 Aug 2026 21:52:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.267932"
+    "fetched_at": "2026-08-12T07:43:49.333437"
   },
   {
     "id": "0bd5fbaba35b",
@@ -507,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/upwork-ceo-on-ai-disruption-concerns-earnings-slide-video",
     "published": "Tue, 11 Aug 2026 21:46:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.388545"
+    "fetched_at": "2026-08-12T07:43:49.429843"
   },
   {
     "id": "befcc592170d",
@@ -517,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
     "published": "Mon, 10 Aug 2026 22:29:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.518145"
+    "fetched_at": "2026-08-12T07:43:49.531627"
   },
   {
     "id": "adaf4709924e",
@@ -527,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/sequoia-s-250-million-bet-on-america-s-drone-future-video",
     "published": "Tue, 11 Aug 2026 17:50:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.628099"
+    "fetched_at": "2026-08-12T07:43:49.639485"
   },
   {
     "id": "3a3270e136ed",
@@ -537,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/accel-raises-3-5-billion-to-invest-in-emerging-global-ai-startups",
     "published": "Tue, 11 Aug 2026 21:12:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.735194"
+    "fetched_at": "2026-08-12T07:43:49.731146"
   },
   {
     "id": "d474ff4fd694",
@@ -547,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/google-to-add-three-subsea-cable-systems-across-the-americas",
     "published": "Tue, 11 Aug 2026 21:10:38 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.829765"
+    "fetched_at": "2026-08-12T07:43:49.828739"
   },
   {
     "id": "f41b823b1467",
@@ -557,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections",
     "published": "Tue, 11 Aug 2026 20:15:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:14.934018"
+    "fetched_at": "2026-08-12T07:43:49.924653"
   },
   {
     "id": "39c9842619c2",
@@ -567,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/coreweave-took-a-step-in-the-right-direction-gil-luria-video",
     "published": "Tue, 11 Aug 2026 20:58:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.040842"
+    "fetched_at": "2026-08-12T07:43:50.018216"
   },
   {
     "id": "434dab95d051",
@@ -577,27 +597,77 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-11/sitime-ceo-on-role-in-ai-data-centers-renesas-deal-video",
     "published": "Tue, 11 Aug 2026 20:43:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.139625"
+    "fetched_at": "2026-08-12T07:43:50.137011"
   },
   {
-    "id": "f00a5daaf159",
-    "title": "Vertiv CEO on AI Infrastructure Buildout, Supply Chain",
-    "title_cn": "Vertiv 首席执行官谈人工智能基础设施建设、供应链",
-    "summary": "Gio Albertazzi, CEO of Vertiv, joined the program to discuss the company's recent earnings report. Unlike many AI-related companies that often beat revenue expectations but miss on profitability or margins, Vertiv reported the opposite: it beat on margins and profitability but missed on revenue. He speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/vertiv-ceo-on-ai-infrastructure-buildout-supply-chain-video",
-    "published": "Tue, 11 Aug 2026 20:34:39 GMT",
+    "id": "8d6129a724e0",
+    "title": "Coreweave, Super Micro Computer Earnings Fuel Global Tech Rally | Daybreak Europe 8/12/2026",
+    "title_cn": "Coreweave、超微型计算机盈利推动全球科技股上涨欧洲黎明 8/12/2026",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nOn today's show, Asian stocks rose and US equity-index futures advanced as strong earnings from technology companies Coreweave and Super Micro Computer lured investors back into the artificial intelligence trade.\n\nPakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the Strait of Hormuz, even after both sides appeared to toughen their positions in the long-deadlocked negotiations.\n\nAnd the US CPI print is expected to show that energy-related pressures have eased after intensifying in the months immediately following the start of the Iran war. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/daybreak-europe-8-12-2026-video",
+    "published": "Wed, 12 Aug 2026 07:19:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.236462"
+    "fetched_at": "2026-08-12T07:43:50.390882"
   },
   {
-    "id": "ec1dfb6743c7",
-    "title": "Moonshot AI’s Kimi K3: A New Contender in the US-China AI Race: Podcast",
-    "title_cn": "Moonshot AI 的 Kimi K3：中美人工智能竞赛的新竞争者：播客",
-    "summary": "<p>Chinese startup Moonshot has put the AI world on notice. On today’s Big Take Asia podcast: What Kimi K3 means for the future of the global race for AI supremacy.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/moonshot-ai-s-kimi-k3-a-new-contender-in-the-us-china-ai-race-podcast",
-    "published": "Tue, 11 Aug 2026 20:33:33 GMT",
+    "id": "76e64c26ee14",
+    "title": "Burnham Calls Emergency Meeting to Manage Drought and Wildfires",
+    "title_cn": "伯纳姆召开紧急会议应对干旱和野火",
+    "summary": "Prime Minister Andy Burnham will hold an emergency government meeting on the UK’s latest heat wave as the country’s grapples with widespread drought and proliferating wildfires.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/burnham-calls-emergency-meeting-to-manage-drought-and-wildfires",
+    "published": "Wed, 12 Aug 2026 07:03:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.347852"
+    "fetched_at": "2026-08-12T07:43:50.486289"
+  },
+  {
+    "id": "99353616b59d",
+    "title": "Moderate Crowley Wins Wisconsin Primary in Upset, DDHQ Projects",
+    "title_cn": "温和派克劳利在令人沮丧的 DDHQ 项目中赢得威斯康星州初选",
+    "summary": "Moderate Democrat David Crowley is projected to defeat Democratic Socialist Francesca Hong in Wisconsin’s primary for governor, according to Decision Desk HQ, an upset in a race that became a test of the party’s ideological direction.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/crowley-wins-wisconsin-dem-governor-primary-ddhq-projects",
+    "published": "Wed, 12 Aug 2026 06:23:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:50.588400"
+  },
+  {
+    "id": "603feb839ac7",
+    "title": "China Plans First Naval Drills With Indonesia East of Taiwan",
+    "title_cn": "中国计划与印度尼西亚在台湾东部举行首次海军演习",
+    "summary": "China’s navy will conduct joint drills with Indonesia to the east of Taiwan, the first time that Beijing has publicly announced a training for both forces in waters that have become increasingly fraught with tensions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-11/china-indonesia-plan-joint-exercise-in-waters-east-of-taiwan",
+    "published": "Tue, 11 Aug 2026 11:33:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:50.778375"
+  },
+  {
+    "id": "22e71bde5990",
+    "title": "Russia’s Black Sea Port of Novorossiysk on Fire, NASA Data Show",
+    "title_cn": "美国宇航局数据显示，俄罗斯黑海港口新罗西斯克起火",
+    "summary": "Russia’s Black Sea port of Novorossiysk, home to major oil and grain terminals and a naval base, caught fire following a massive drone attack.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/russia-s-black-sea-port-of-novorossiysk-on-fire-nasa-data-show",
+    "published": "Wed, 12 Aug 2026 06:41:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:50.878736"
+  },
+  {
+    "id": "b3bef80b0c07",
+    "title": "Trump Claims Hormuz Control as US, Iran Harden Their Positions",
+    "title_cn": "特朗普宣称控制霍尔木兹海峡，美国和伊朗则强化立场",
+    "summary": "President Donald Trump claimed the US had “total control over the Hormuz Strait,” as Washington and Tehran hardened their stances in deadlocked negotiations over the waterway.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-claims-hormuz-control-as-us-iran-harden-their-positions",
+    "published": "Wed, 12 Aug 2026 06:14:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:50.963950"
+  },
+  {
+    "id": "b5d0c9568dac",
+    "title": "Philippines Risks Crowding Out Borrowers With 2027’s $54 Billion Debt Plan",
+    "title_cn": "菲律宾 2027 年 540 亿美元的债务计划可能会排挤借款人",
+    "summary": "The Philippines’ plan for a massive increase in state borrowing to revive the economy could backfire by crowding out the private sector, analysts say.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/philippines-risks-crowding-out-borrowers-with-2027-s-54-billion-debt-plan",
+    "published": "Wed, 12 Aug 2026 06:10:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T07:43:51.067778"
   },
   {
     "id": "03f91a263218",
@@ -607,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-warns-border-strains-could-weigh-on-china-relations",
     "published": "Tue, 11 Aug 2026 15:15:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.863288"
+    "fetched_at": "2026-08-12T07:43:51.155702"
   },
   {
     "id": "10219396bf00",
@@ -617,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/dsa-s-hong-moderate-democrat-locked-in-tight-wisconsin-primary",
     "published": "Wed, 12 Aug 2026 04:45:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:15.977076"
+    "fetched_at": "2026-08-12T07:43:51.316482"
   },
   {
     "id": "b90e00c289f8",
@@ -627,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/iranian-factions-squabble-over-war-aims-as-khamenei-looks-to-assert-control",
     "published": "Wed, 12 Aug 2026 04:01:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.073956"
+    "fetched_at": "2026-08-12T07:43:51.401707"
   },
   {
     "id": "3a9f631ad124",
@@ -637,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/prabowo-to-face-indonesia-critics-with-key-speeches-as-skepticism-grows",
     "published": "Tue, 11 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.187715"
+    "fetched_at": "2026-08-12T07:43:51.488030"
   },
   {
     "id": "7d7e6e297ea8",
@@ -647,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-says-air-force-one-ruse-was-secret-service-military-call",
     "published": "Wed, 12 Aug 2026 01:24:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.302445"
+    "fetched_at": "2026-08-12T07:43:51.601778"
   },
   {
     "id": "058d62b12a6a",
@@ -657,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/china-adds-more-missile-cells-to-frigate-narrowing-gap-with-us",
     "published": "Wed, 12 Aug 2026 03:09:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.455281"
+    "fetched_at": "2026-08-12T07:43:51.701654"
   },
   {
     "id": "629cd1b09db9",
@@ -667,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/darline-graham-advances-in-south-carolina-senate-race-ddhq-says",
     "published": "Tue, 11 Aug 2026 23:37:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.570643"
+    "fetched_at": "2026-08-12T07:43:51.801179"
   },
   {
     "id": "8563eece5feb",
@@ -677,17 +747,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/myanmar-accused-by-un-of-civilian-attacks-with-drones-motorized-paragliders",
     "published": "Wed, 12 Aug 2026 02:06:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.668394"
+    "fetched_at": "2026-08-12T07:43:51.901982"
   },
   {
     "id": "0f30821515cf",
     "title": "USDA Says Argentine Beef That Missed Inspection Is Recalled",
-    "title_cn": "美国农业部表示召回未经过检验的阿根廷牛肉",
+    "title_cn": "美国农业部表示召回漏检的阿根廷牛肉",
     "summary": "Nearly 30,000 pounds of Argentine beef that wasn’t fully inspected before being distributed in Texas and Florida are being recalled, the US Department of Agriculture said.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/usda-says-argentine-beef-that-missed-inspection-is-recalled",
     "published": "Wed, 12 Aug 2026 02:02:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.776577"
+    "fetched_at": "2026-08-12T07:43:52.005070"
   },
   {
     "id": "eb3be7459929",
@@ -697,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/trump-hardens-stance-iran-clouding-hopes-hormuz-deal",
     "published": "Tue, 11 Aug 2026 05:41:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.874970"
+    "fetched_at": "2026-08-12T07:43:52.094934"
   },
   {
     "id": "c4260e028228",
@@ -707,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/north-korea-fires-ballistic-missile-ahead-of-us-military-drills",
     "published": "Tue, 11 Aug 2026 22:49:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:16.987168"
+    "fetched_at": "2026-08-12T07:43:52.200289"
   },
   {
     "id": "1924f77ff1a5",
@@ -717,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/anwar-s-party-loses-key-politician-as-reform-frustration-grows",
     "published": "Wed, 12 Aug 2026 01:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.105869"
+    "fetched_at": "2026-08-12T07:43:52.294036"
   },
   {
     "id": "6df769082bc7",
@@ -727,76 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/pakistan-says-deal-is-close-as-iran-us-harden-stances-video",
     "published": "Wed, 12 Aug 2026 00:52:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.223570"
-  },
-  {
-    "id": "3430eb996bd3",
-    "title": "Graham, Norman Head to S.C. GOP Senate Runoff, DDHQ Projects",
-    "title_cn": "格雷厄姆和诺曼前往南卡罗来纳州共和党参议院决选，DDHQ 项目",
-    "summary": "Darline Graham and Ralph Norman are projected to advance to a runoff in South Carolina’s Republican Senate primary, according to DDHQ.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/graham-norman-head-to-s-c-gop-senate-runoff-ddhq-projects",
-    "published": "Wed, 12 Aug 2026 00:36:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.323667"
-  },
-  {
-    "id": "0b9b942048b8",
-    "title": "Epstein Victim Files Cleared for Release Over Maxwell’s Protest",
-    "title_cn": "爱泼斯坦受害者档案因麦克斯韦抗议而获准释放",
-    "summary": "A group of undisclosed documents related to government investigations of Jeffrey Epstein can be made public under the 2025 law requiring release of the Epstein files, a federal judge ruled.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/epstein-victim-files-cleared-for-release-over-maxwell-s-protest",
-    "published": "Wed, 12 Aug 2026 00:04:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.429831"
-  },
-  {
-    "id": "404672362b3f",
-    "title": "The US Is Running Out of Weapons It Needs Most | Balance of Power: Late Edition 08/11/2026",
-    "title_cn": "美国最需要的武器即将耗尽权力平衡：最新版 08/11/2026",
-    "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Wendy Sherman, former US deputy secretary of state, weighs in on the hardening rhetoric between the US and Iran with a stark warning: \"For the foreseeable future, if not forever, Iran will control the Strait of Hormuz.\" Representative Jennifer McClellan (D-VA) says she has yet to hear back from House Speaker Mike Johnson after calling for hearings with major AI executives, and acknowledges Democrats have limited ability in the minority to compel them to testify. US Air Force General (Ret.) Charles Wald pushes back on concerns that the US has depleted too much of its advanced weapons stockpile, saying the military remains in “pretty good shape” and can provide air cover over the Strait of Hormuz \"indefinitely.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/balance-of-power-late-edition-08-11-2026-video",
-    "published": "Tue, 11 Aug 2026 23:41:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.557191"
-  },
-  {
-    "id": "7af526755c44",
-    "title": "Judge Widens Block on Trump Mail-in Voting Plan for Midterms",
-    "title_cn": "法官扩大了对特朗普中期选举邮寄投票计划的限制",
-    "summary": "A federal judge in Boston entered a nationwide order blocking the US Postal Service from carrying out President Donald Trump’s directives to overhaul mail-in voting policies before the November midterm elections, expanding an earlier halt that covered roughly half the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/judge-expands-block-on-trump-s-mail-in-voting-plan-for-midterms",
-    "published": "Tue, 11 Aug 2026 21:06:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.671882"
-  },
-  {
-    "id": "e2164b97d553",
-    "title": "China and Oil Shocks Push Climate Down Pacific Islands’ Agenda",
-    "title_cn": "中国和石油危机使太平洋岛国的气候议程被推迟",
-    "summary": "For years, the Pacific islands managed something remarkable — some of the smallest nations in the world persuaded their larger, more powerful allies that climate change was the region’s defining security challenge and pushed them to act.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/china-and-oil-shocks-push-climate-down-pacific-islands-agenda",
-    "published": "Tue, 11 Aug 2026 22:50:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.780711"
-  },
-  {
-    "id": "21729e814fbc",
-    "title": "US Military Is in 'Satisfactory Shape': Ret. General",
-    "title_cn": "退役军人：美国军队状况“令人满意”一般的",
-    "summary": "US Air Force General (Ret.) Charles Wald pushes back on concerns that the US has depleted too much of its advanced weapons stockpile, saying the military remains in “pretty good shape” and can provide air cover over the Strait of Hormuz \"indefinitely.\" The former Deputy Commander of United States European Command also weighs in on a report that President Donald Trump was moved off Air Force One amid a potential threat. He speaks with Joe Mathieu and Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/us-military-is-in-satisfactory-shape-ret-general-video",
-    "published": "Tue, 11 Aug 2026 22:50:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:17.880838"
-  },
-  {
-    "id": "0cb1a57f9840",
-    "title": "Dems Can't Compel AI CEOs to Testify: Rep. McClellan",
-    "title_cn": "民主党不能强迫人工智能首席执行官作证：众议员麦克莱伦",
-    "summary": "Representative Jennifer McClellan (D-VA) says she has yet to hear back from House Speaker Mike Johnson after calling for hearings with major AI executives, and acknowledges Democrats have limited ability in the minority to compel them to testify. The Virginia Democrat says Congress needs bipartisan action on AI safeguards and weighs in on her party's path forward as more progressive candidates compete in Democratic primaries. She speaks with Kailey Leinz and Joe Mathieu on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-11/dems-can-t-compel-ai-ceos-to-testify-rep-mcclellan-video",
-    "published": "Tue, 11 Aug 2026 22:42:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T05:57:18.001316"
+    "fetched_at": "2026-08-12T07:43:52.395661"
   }
 ]
