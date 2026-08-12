@@ -1,5 +1,55 @@
 [
   {
+    "id": "2e8e059d7953",
+    "title": "Bloomberg Talks: Kara Nortman & George Pyne (Podcast)",
+    "title_cn": "彭博社谈话：卡拉·诺特曼和乔治·派恩（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-talks-kara-nortman-george-pyne-podcast",
+    "published": "Wed, 12 Aug 2026 19:19:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:40.094392"
+  },
+  {
+    "id": "e1a07ac8b4b4",
+    "title": "Stock Movers: CoreWeave, Cava, Wendy's (Podcast)",
+    "title_cn": "库存推动者：CoreWeave、Cava、Wendy's（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/stock-movers-coreweave-cava-wendy-s-podcast",
+    "published": "Wed, 12 Aug 2026 19:13:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:40.794579"
+  },
+  {
+    "id": "8f6f5696c739",
+    "title": "Balance of Power: DSA Advance Hits Wisconsin Wall (Podcast)",
+    "title_cn": "权力平衡：DSA Advance 撞上了威斯康星州墙（播客）",
+    "summary": "Source: Bloomberg, 41:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/balance-of-power-dsa-advance-hits-wisconsin-wall-podcast",
+    "published": "Wed, 12 Aug 2026 19:04:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:41.878894"
+  },
+  {
+    "id": "2852bb8fa117",
+    "title": "Lakers Sold to Kushner & Iger, Iran Takes Robust Military Stance",
+    "title_cn": "湖人队被卖给库什纳和艾格，伊朗采取强硬的军事立场",
+    "summary": "Source: Bloomberg, 5:40",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/lakers-sold-to-kushner-iger-iran-takes-robust-military-stance",
+    "published": "Wed, 12 Aug 2026 19:03:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:42.904378"
+  },
+  {
+    "id": "15ed5590bc00",
+    "title": "Bloomberg Tech: Higher CoreWeave, Supermicro Results (Podcast)",
+    "title_cn": "彭博科技：更高的 CoreWeave、Supermicro 结果（播客）",
+    "summary": "Source: Bloomberg, 44:14",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-tech-higher-coreweave-supermicro-results-podcast",
+    "published": "Wed, 12 Aug 2026 18:36:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:43.861770"
+  },
+  {
     "id": "c6dc4d029b65",
     "title": "Blockbuster Lakers Sale, Iran Takes Aggressive Stance, More",
     "title_cn": "湖人队重磅出售、伊朗采取激进立场等等",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/blockbuster-lakers-sale-iran-takes-aggressive-stance-more",
     "published": "Wed, 12 Aug 2026 18:05:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:21.745463"
+    "fetched_at": "2026-08-12T19:27:43.993186"
   },
   {
     "id": "c3f102e30ca6",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/bonds-dollar-and-gold-are-flashing-an-inflation-warning",
     "published": "Wed, 12 Aug 2026 17:13:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:22.103196"
+    "fetched_at": "2026-08-12T19:27:44.120811"
   },
   {
     "id": "7d5b6b7ba885",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/kushner-iger-buy-la-lakers-iran-takes-robust-military-stance",
     "published": "Wed, 12 Aug 2026 17:02:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:22.624725"
+    "fetched_at": "2026-08-12T19:27:44.253511"
   },
   {
     "id": "2ba661a903d8",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-intelligence-coreweave-soars-on-outlook-podcast",
     "published": "Wed, 12 Aug 2026 16:57:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:23.115639"
+    "fetched_at": "2026-08-12T19:27:44.399144"
   },
   {
     "id": "013752822a4d",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-surveillance-tv-august-12th-2026-podcast",
     "published": "Wed, 12 Aug 2026 16:45:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:23.473865"
+    "fetched_at": "2026-08-12T19:27:44.533698"
   },
   {
     "id": "7c2d99e38d40",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/bloomberg-talks-ed-yardeni-podcast",
     "published": "Wed, 12 Aug 2026 16:34:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:23.872465"
+    "fetched_at": "2026-08-12T19:27:44.659496"
   },
   {
     "id": "6bbd33b63e8c",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/lakers-sold-for-record-price-pirro-convenes-special-grand-jury",
     "published": "Wed, 12 Aug 2026 16:16:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:24.454785"
+    "fetched_at": "2026-08-12T19:27:44.785394"
   },
   {
     "id": "dbfb028cd4bf",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/worsening-oil-supply-crunch-following-iran-war-escalation",
     "published": "Wed, 12 Aug 2026 16:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:25.449227"
+    "fetched_at": "2026-08-12T19:27:44.909692"
   },
   {
     "id": "db61e4b3df9c",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/videos/2023-03-02/emotional-recognition-the-future-with-hannah-fry-episode-2",
     "published": "Thu, 02 Mar 2023 01:34:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:26.640105"
+    "fetched_at": "2026-08-12T19:27:45.025570"
   },
   {
     "id": "addcbb4ed7e0",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-sued-over-plan-to-sell-faster-access-to-truth-social-posts",
     "published": "Wed, 12 Aug 2026 15:03:38 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:27.059987"
+    "fetched_at": "2026-08-12T19:27:45.149406"
   },
   {
     "id": "4ca8a4829acb",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/stock-movers-coreweave-cava-super-micro-computer-podcast",
     "published": "Wed, 12 Aug 2026 15:45:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:28.443376"
+    "fetched_at": "2026-08-12T19:27:45.269571"
   },
   {
     "id": "5c76e1e76917",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/lakers-sold-at-a-record-trump-on-hormuz-total-control-more",
     "published": "Wed, 12 Aug 2026 15:32:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:29.494714"
+    "fetched_at": "2026-08-12T19:27:45.400742"
   },
   {
     "id": "456fd48a6240",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/credit-crunch-new-fed-watch-as-rates-not-spreads-drive-credit",
     "published": "Wed, 12 Aug 2026 11:53:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:30.737402"
+    "fetched_at": "2026-08-12T19:27:45.533818"
   },
   {
     "id": "274b623050b8",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/don-t-be-fooled-saaspocalypse-is-still-a-thing",
     "published": "Wed, 12 Aug 2026 14:47:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:31.122309"
+    "fetched_at": "2026-08-12T19:27:45.663673"
   },
   {
     "id": "a7aa2a5a959e",
@@ -147,67 +197,137 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-12/lakers-sold-to-iger-and-kushner-subdued-inflation-more",
     "published": "Wed, 12 Aug 2026 14:40:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:31.675832"
+    "fetched_at": "2026-08-12T19:27:45.792414"
   },
   {
-    "id": "9f5178713823",
-    "title": "Stock Movers: CoreWeave, Super Micro, Lumentum (Podcast)",
-    "title_cn": "库存推动者：CoreWeave、Super Micro、Lumentum（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-12/stock-movers-coreweave-super-micro-lumentum-podcast",
-    "published": "Wed, 12 Aug 2026 14:32:41 GMT",
+    "id": "6f501a7d9145",
+    "title": "Wendy’s Shares Jumps On Peltz Bid News",
+    "title_cn": "佩尔茨出价消息推动温迪股价上涨",
+    "summary": "Bloomberg's Matt Monks joins Romaine Bostick on \"Bloomberg Deals.\" Shares of Wendy’s jumped to their highest in seven weeks after the Financial Times reported that Nelson Peltz’s Trian Fund Management is preparing a bid to take the struggling fast-food chain private. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/wendy-s-shares-jumps-on-peltz-bid-news-video",
+    "published": "Wed, 12 Aug 2026 19:24:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:32.158263"
+    "fetched_at": "2026-08-12T19:27:46.373384"
   },
   {
-    "id": "14fa604ec7a8",
-    "title": "Finding Which Trend Is Your Best Friend: Macro Man Podcast",
-    "title_cn": "寻找哪种趋势是你最好的朋友：Macro Man 播客",
-    "summary": "Source: Bloomberg, 4:53",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-12/finding-which-trend-is-your-best-friend-macro-man-podcast",
-    "published": "Wed, 12 Aug 2026 14:12:19 GMT",
+    "id": "f6d4def8c39d",
+    "title": "Walter Sells Lakers, Seeks Cash to Pay Loans Amid DOJ Probe",
+    "title_cn": "沃尔特出售湖人队，在司法部调查中寻求现金支付贷款",
+    "summary": "Billionaire Mark Walter’s firm is in talks with investors to raise money to help pay down loans on the books of its insurers that had drawn scrutiny from the Justice Department, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/lakers-owner-walter-seeks-cash-to-pay-down-loans-amid-doj-probe",
+    "published": "Wed, 12 Aug 2026 16:59:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:32.773088"
+    "fetched_at": "2026-08-12T19:27:46.869602"
   },
   {
-    "id": "c727eb10a9c6",
-    "title": "Rocket Lab Hedges on Yearend Goal for Neutron’s Debut",
-    "title_cn": "火箭实验室对中子首次亮相的年终目标进行了对冲",
-    "summary": "‘It’s getting a little tighter to get a launch away this year,’ says CEO Peter Beck",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/rocket-lab-hedges-on-yearend-goal-for-neutron-s-debut",
-    "published": "Wed, 12 Aug 2026 14:09:50 GMT",
+    "id": "430379cea884",
+    "title": "Lakers Deal Proves Sports Business Has 'Real Tailwinds'",
+    "title_cn": "湖人队的交易证明体育商业有“真正的顺风车”",
+    "summary": "Kara Nortman, co-founder of Angel City Football Club and managing partner of Monarch Collective, and George Pyne, CEO and founder of Bruin Capital, join Romaine Bostick on \"Bloomberg Deals.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/lakers-deal-proves-sports-business-has-real-tailwinds-video",
+    "published": "Wed, 12 Aug 2026 19:12:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:32.919336"
+    "fetched_at": "2026-08-12T19:27:46.991252"
   },
   {
-    "id": "249e277bc473",
-    "title": "Stocks Rise on Soft CPI and Tech Earnings, Dems Tug-of-War, More",
-    "title_cn": "消费者物价指数（CPI）疲软、科技股盈利、民主党拉锯战等推动股市上涨",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-12/stocks-rise-on-soft-cpi-and-tech-earnings-dems-tug-of-war-more",
-    "published": "Wed, 12 Aug 2026 13:39:26 GMT",
+    "id": "19239399754a",
+    "title": "Ancora Comfortable With Its Offer for H.B. Fuller Unit",
+    "title_cn": "Ancora 对 H.B. 的报价感到满意富勒单位",
+    "summary": "Ancora Holdings Group is pushing to acquire H.B. Fuller Co.'s building adhesives unit for as much as $1.2 billion. James Chadwick is the president of Ancora's alternatives arm. He says the activist investor is comfortable with the offer and it would be a \"win-win\" for shareholders. He speaks on \"Bloomberg Deals.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/ancora-comfortable-with-its-offer-for-h-b-fuller-unit-video",
+    "published": "Wed, 12 Aug 2026 19:09:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:33.419628"
+    "fetched_at": "2026-08-12T19:27:47.110641"
   },
   {
-    "id": "929ca5d06af1",
-    "title": "Tata Group Has a Succession Problem After Chandrasekaran Steps Down",
-    "title_cn": "钱德拉塞卡兰下台后塔塔集团面临继任问题",
-    "summary": "The task of finding a successor to Chandrasekaran falls on a deeply divided board.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/tata-group-has-a-succession-problem-after-chandrasekaran-steps-down",
-    "published": "Wed, 12 Aug 2026 13:18:14 GMT",
+    "id": "4c978ea75bc9",
+    "title": "Sweetgreen CEO Says Cyclospora Hurt Sales",
+    "title_cn": "Sweetgreen 首席执行官表示环孢菌损害了销售",
+    "summary": "Sweetgreen Inc. CEO Jonathan Neman says the cyclospora outbreak had an impact on the business but the US FDA now says it's safe to eat iceberg lettuce again. He says Sweetgreen's supply chain isn’t affected by the cyclospora outbreak and its restaurants don’t serve that kind of lettuce. Neman speaks to Bloomberg's Romaine Bostick. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/sweetgreen-ceo-says-cyclospora-hurt-sales-video",
+    "published": "Wed, 12 Aug 2026 19:05:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:33.811552"
+    "fetched_at": "2026-08-12T19:27:47.242107"
+  },
+  {
+    "id": "e62ef2ac121a",
+    "title": "'Terrific Tail Winds' In Secondaries: Dawn",
+    "title_cn": "中学“很棒的顺风”：黎明",
+    "summary": "Nigel Dawn, global head of private capital at Evercore, joins Romaine Bostick on \"Bloomberg Deals.\" Secondaries deals for private assets surged to a record $121 billion in the first half of 2026, driven by fund managers seeking to hold onto single “trophy” assets longer, according to Evercore.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/-terrific-tail-winds-in-secondaries-dawn-video",
+    "published": "Wed, 12 Aug 2026 19:04:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:47.358829"
+  },
+  {
+    "id": "154306107e0d",
+    "title": "Americans Have Never Paid This Much for Fuel So Late in The Year",
+    "title_cn": "美国人从来没有在今年这么晚的时候为燃油支付过这么多钱",
+    "summary": "It’s peak driving season in the US, and gasoline and diesel prices have never been this expensive this late in the year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/americans-have-never-paid-this-much-for-fuel-so-late-in-the-year",
+    "published": "Wed, 12 Aug 2026 19:02:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:47.482942"
+  },
+  {
+    "id": "99f2de29749a",
+    "title": "It's A 'Weird Time' For The US Economy, Says Christopher Smart",
+    "title_cn": "克里斯托弗·斯玛特表示，对于美国经济来说，这是一个“奇怪的时期”",
+    "summary": "Christopher Smart, managing partner of Arbroath Group and former special assistant to the President at the National Economic Council under Obama, said that it is a 'weird time' for the US Economy as economic data shows solid numbers, but with weakening growth and geopolitical factors creating uncertainty. Smart said while he's sure the US will need data centers and the investment in AI, he is worried about how making profits on those investments have been pushed further and further down the line.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/it-s-a-weird-time-for-the-us-economy-says-smart-video",
+    "published": "Wed, 12 Aug 2026 19:01:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:47.610776"
   },
   {
     "id": "d69bd12252c1",
-    "title": "Stocks, Bonds Rise as Tame CPI Curbs Fed-Hike Bets: Markets Wrap",
-    "title_cn": "温和的消费者物价指数抑制美联储加息押注，股票和债券上涨：市场结束",
-    "summary": "An in-line inflation reading spurred gains in both stocks and bonds, easing concern about imminent Federal Reserve interest-rate increases despite elevated oil prices.",
+    "title": "S&P 500 Rises Toward Record on Tame Inflation Data: Markets Wrap",
+    "title_cn": "通胀数据温和，标普 500 指数升至历史新高：市场总结",
+    "summary": "An in-line inflation reading drove stocks toward fresh all-time highs, easing concern about imminent Federal Reserve interest-rate increases despite elevated oil prices.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
     "published": "Tue, 11 Aug 2026 22:07:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.174164"
+    "fetched_at": "2026-08-12T19:27:47.734940"
+  },
+  {
+    "id": "700862228e25",
+    "title": "Odd Lots Live Is Coming to Los Angeles",
+    "title_cn": "Odd Lot Live 即将登陆洛杉矶",
+    "summary": "See you on 9/17",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-12/odd-lots-live-is-coming-to-los-angeles",
+    "published": "Wed, 12 Aug 2026 18:51:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:47.866272"
+  },
+  {
+    "id": "89c2c6983e5d",
+    "title": "US Stocks Climb Near Record as Earnings Revive Faith in AI Trade",
+    "title_cn": "随着盈利重振人们对人工智能贸易的信心，美国股市攀升至创纪录水平",
+    "summary": "US stocks advanced toward all-time highs, led by the technology sector, after a subdued inflation reading helped ease interest-rate hike concerns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
+    "published": "Wed, 12 Aug 2026 12:15:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:47.989418"
+  },
+  {
+    "id": "78c90772f9ec",
+    "title": "Hong, Crowley 'Two Sides of the Same Coin' Says Republican Rep. Steil",
+    "title_cn": "共和党众议员斯泰尔表示，洪和克劳利是“同一枚硬币的两面”",
+    "summary": "Wisconsin Representative Bryan Steil said that moderate David Crowley and democratic socialist Francesca Hong are 'two sides of the same coin' after Crowley pulled off an upset in the Democratic primary to face Republican Tom Tiffany in the fall. \nSteil said that he expects the race to be close and that he thinks that voters care more about 'kitchen table issues' than 'looking back' at Tiffany's stance on the 2020 election results.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/hong-crowley-two-sides-of-the-same-coin-says-steil-video",
+    "published": "Wed, 12 Aug 2026 18:19:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:48.100388"
+  },
+  {
+    "id": "7b74966a3a8b",
+    "title": "Yen Trades Near 160 Level as Traders Watch for Intervention",
+    "title_cn": "交易员关注干预，日元交易接近 160 水平",
+    "summary": "The yen held steady near the key level of 160 per dollar on Wednesday, keeping investors on the lookout for more intervention by officials in the foreign-exchange market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/yen-trades-near-160-level-keeping-traders-on-intervention-watch",
+    "published": "Wed, 12 Aug 2026 15:10:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:48.217987"
   },
   {
     "id": "ba4b136abc67",
@@ -217,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/emerging-stocks-rise-on-tech-as-currency-traders-await-us-cpi",
     "published": "Wed, 12 Aug 2026 10:25:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.292460"
+    "fetched_at": "2026-08-12T19:27:48.337810"
   },
   {
     "id": "697a81d5fa25",
@@ -227,37 +347,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/market-s-momentum-darlings-resurface-as-optical-stocks-take-off",
     "published": "Wed, 12 Aug 2026 10:45:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.424254"
+    "fetched_at": "2026-08-12T19:27:48.458201"
   },
   {
     "id": "42cd5b877a48",
-    "title": "US Sells 10-Year Bonds at Highest Yields Since Financial Crisis",
-    "title_cn": "美国以金融危机以来最高收益率出售10年期债券",
+    "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
+    "title_cn": "美国以金融危机以来最高收益率出售10年期国债",
     "summary": "A $42 billion auction of 10-year US Treasuries resulted in the highest yield for the benchmark securities since 2007, luring decent appetite from investors who’ve been demanding more compensation to finance the US government.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
     "published": "Wed, 12 Aug 2026 12:58:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.546852"
-  },
-  {
-    "id": "f6d4def8c39d",
-    "title": "Lakers Owner Walter Seeks Cash to Pay Down Loans Amid DOJ Probe",
-    "title_cn": "湖人队老板沃尔特在司法部调查中寻求现金偿还贷款",
-    "summary": "Billionaire Mark Walter’s firm is in talks with investors to raise money to help pay down loans on the books of its insurers that had drawn scrutiny from the Justice Department, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/lakers-owner-walter-seeks-cash-to-pay-down-loans-amid-doj-probe",
-    "published": "Wed, 12 Aug 2026 16:59:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.674690"
-  },
-  {
-    "id": "89c2c6983e5d",
-    "title": "US Stocks Climb as Tech Spurs Rally After Inflation Fears Ease",
-    "title_cn": "通胀担忧缓解后科技股上涨，美国股市上涨",
-    "summary": "US stocks traded higher led by the technology sector, as investors turned their focus on a bumper earnings season after a subdued inflation reading helped ease interest-rate hike concerns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
-    "published": "Wed, 12 Aug 2026 12:15:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.784581"
+    "fetched_at": "2026-08-12T19:27:48.576159"
   },
   {
     "id": "fcb74dfb8518",
@@ -267,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
     "published": "Wed, 12 Aug 2026 16:49:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:34.916925"
+    "fetched_at": "2026-08-12T19:27:48.694436"
   },
   {
     "id": "45fcc3194fa9",
@@ -277,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/data-center-qts-holds-investor-calls-ahead-of-possible-debt-sale",
     "published": "Wed, 12 Aug 2026 16:45:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.059731"
+    "fetched_at": "2026-08-12T19:27:48.803339"
   },
   {
     "id": "f4986937a1e0",
@@ -287,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/yardeni-raises-s-p-500-target-video",
     "published": "Wed, 12 Aug 2026 16:31:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.172809"
+    "fetched_at": "2026-08-12T19:27:48.915468"
   },
   {
     "id": "2badb4962dae",
@@ -297,127 +397,67 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/cava-sales-jump-as-americans-flock-to-pita-chips-salmon-video",
     "published": "Wed, 12 Aug 2026 16:27:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.286143"
+    "fetched_at": "2026-08-12T19:27:49.045525"
   },
   {
-    "id": "cbf059544da9",
-    "title": "Cava Rises on Sales; CoreWeave Soars on AI Outlook | Stock Movers",
-    "title_cn": "卡瓦酒销量上涨； CoreWeave 在 AI 前景中飙升 |库存搬运工",
-    "summary": "On this episode of Stock Movers:\n\n- Cava (CAVA) is also rising this morning as sales jumped with Americans flocking to Pita Chips, Salmon, and other Mediterranean-diet oriented foods.\n- Super Micro (SMCI) is giving a sales outlook that topped even the rosiest projections. That along with Coreweave's report is sending markets higher.\n- CoreWeave (CRWV) is soaring after booming AI demand bolstered the company's revenue outlook. Nebius (NBIS) is also up this morning with earnings coming out. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/cava-rises-on-sales-coreweave-sores-on-ai-outlook-video",
-    "published": "Wed, 12 Aug 2026 15:21:10 GMT",
+    "id": "33c25e1871b6",
+    "title": "Wedding Planner The Knot Grapples With Debt and Ratings Downgrade",
+    "title_cn": "婚礼策划师 The Knot 努力应对债务和评级下调",
+    "summary": "Wedding-planning website The Knot Worldwide Inc.’s credit rating was slashed deep into junk territory as it addressed upcoming debt maturities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/wedding-planner-the-knot-grapples-with-debt-and-ratings-downgrade",
+    "published": "Wed, 12 Aug 2026 19:07:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.417277"
+    "fetched_at": "2026-08-12T19:27:49.637669"
   },
   {
-    "id": "248cbc007569",
-    "title": "Gold Rallies as Tame US Inflation Report Calms Rate Hike Fears",
-    "title_cn": "温和的美国通胀报告平息了加息担忧，金价上涨",
-    "summary": "Gold extended gains above $4,400 an ounce as in-line US inflation data eased concerns about Federal Reserve interest-rate hikes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues",
-    "published": "Tue, 11 Aug 2026 23:35:34 GMT",
+    "id": "e8bef0d01770",
+    "title": "Silicon Data Raises $30.5M to Benchmark AI Compute",
+    "title_cn": "Silicon Data 融资 3050 万美元，用于基准 AI 计算",
+    "summary": "Silicon Data has raised $30.5 million to expand its pricing and performance benchmarks for the rapidly growing AI compute market. CEO Carmen Li joins Bloomberg to discuss the company’s ambition to become an \"independent referee\" for compute, CME’s planned GPU futures tied to Silicon Data benchmarks, and what its data says about the value and depreciation of older chips. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/silicon-data-raises-30-5m-to-benchmark-ai-compute-video",
+    "published": "Wed, 12 Aug 2026 19:07:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.532852"
+    "fetched_at": "2026-08-12T19:27:50.702675"
   },
   {
-    "id": "075de2af07c2",
-    "title": "Lightbridge CEO  Says Nuclear Fuel Is Accelerating",
-    "title_cn": "Lightbridge 首席执行官表示核燃料正在加速发展",
-    "summary": "Lightbridge CEO Seth Grae says the company’s advanced nuclear fuel is progressing faster than expected as testing continues at Idaho National Laboratory. He joins Bloomberg Open Interest to explain why early results look promising, how the fuel could boost output from existing reactors, and why surging US nuclear support could accelerate commercialization. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/lightbridge-ceo-says-nuclear-fuel-is-accelerating-video",
-    "published": "Wed, 12 Aug 2026 15:37:25 GMT",
+    "id": "1379c2979150",
+    "title": "Foundation Capital Bets on AI’s ‘Great Reorg’",
+    "title_cn": "基金会资本押注人工智能的“伟大重组”",
+    "summary": "AI is driving enormous early-stage valuations, but Foundation Capital General Partner Joanne Chen says venture investors still need discipline when backing companies before they have products or customers. Chen joins Bloomberg to discuss how the firm identifies exceptional founders and her view that AI will reorganize companies and remove bottlenecks rather than simply eliminate jobs. Chen joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/foundation-capital-bets-on-ai-s-great-reorg-video",
+    "published": "Wed, 12 Aug 2026 19:05:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.663524"
+    "fetched_at": "2026-08-12T19:27:52.084125"
   },
   {
-    "id": "1d8bb3311a9e",
-    "title": "Bloomberg Surveillance 8/12/2026",
-    "title_cn": "彭博社监测 2026 年 8 月 12 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-surveillance-8-12-2026-video",
-    "published": "Wed, 12 Aug 2026 15:35:50 GMT",
+    "id": "eab44f3409df",
+    "title": "CoreWeave, Supermicro Lead Tech Stocks Higher on Results | Bloomberg Tech 8/12/2026",
+    "title_cn": "CoreWeave、Supermicro 引领科技股业绩走高 |彭博科技 2026 年 8 月 12 日",
+    "summary": "Bloomberg’s Ed Ludlow breaks down positive earnings results from CoreWeave and Supermicro, showing the booming AI market continues to bolster their sales. Plus, Silicon Data raises new funding and puts it to work on building independent benchmarks for AI compute. And, investors are betting AI music startup Suno can be the next Spotify despite concerns about theft and AI slop. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/bloomberg-tech-8-12-2026-video",
+    "published": "Wed, 12 Aug 2026 19:04:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.771672"
+    "fetched_at": "2026-08-12T19:27:53.422204"
   },
   {
-    "id": "3888d5b68839",
-    "title": "Firefly CEO Says Launch Demand Is Surging",
-    "title_cn": "Firefly首席执行官表示发射需求正在激增",
-    "summary": "Firefly Aerospace CEO Jason Kim says launch capacity is tighter than ever as commercial and government demand accelerates. He joins Bloomberg Open Interest to break down the expanded Lockheed Martin partnership, Firefly’s growing lunar and Golden Dome businesses, and how the company is ramping Alpha rocket production to dramatically increase launch cadence. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/firefly-ceo-says-launch-demand-is-surging-video",
-    "published": "Wed, 12 Aug 2026 15:35:32 GMT",
+    "id": "ffbc90ca0465",
+    "title": "Google Takes On Apple, Samsung With New Phones",
+    "title_cn": "谷歌推出新手机挑战苹果三星",
+    "summary": "Google unveiled a slew of new hardware ahead of its Made by Google event, including its latest generation of Pixel smartphones. The new phones feature innovations such as a \"HiLight\" feature that transforms the camera flash into a notification indicator, improved scratch resistance, and brighter displays, but with higher starting prices due to a memory supply crunch. Bloomberg Senior Tech Editor Dana Wollman joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/google-takes-on-apple-samsung-with-new-phones-video",
+    "published": "Wed, 12 Aug 2026 19:01:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:35.914495"
+    "fetched_at": "2026-08-12T19:27:53.552880"
   },
   {
-    "id": "bac0f43865f6",
-    "title": "Josh Kushner, Bob Iger Buy LA Lakers for Over $12 Billion",
-    "title_cn": "乔什·库什纳和鲍勃·艾格以超过 120 亿美元收购洛杉矶湖人队",
-    "summary": "Josh Kushner and Bob Iger are buying the Los Angeles Lakers basketball team for a record-breaking price of more than $12 billion, according to people familiar with the matter.\nRandall Williams, Bloomberg Business of Sports Reporter, discusses the deal. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/josh-kushner-bob-iger-buy-la-lakers-for-over-12b-video",
-    "published": "Wed, 12 Aug 2026 15:31:49 GMT",
+    "id": "5aad50ca3b8a",
+    "title": "Why Open-Weight AI Models Won’t Kill the Closed Model",
+    "title_cn": "为什么开放权重人工智能模型不会杀死封闭模型",
+    "summary": "AI demand continues to outstrip available computing capacity, and Morgan Stanley sees little risk of oversupply anytime soon. US thematic research strategist Michelle Weaver joins Bloomberg to discuss growing evidence of returns from corporate AI adoption, why labor and power remain critical constraints on the data center buildout, and why she expects companies to ultimately use a mix of open and closed AI models. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/why-open-weight-ai-models-won-t-kill-the-closed-model-video",
+    "published": "Wed, 12 Aug 2026 18:59:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:36.033510"
-  },
-  {
-    "id": "1f870ea56be4",
-    "title": "Goldman Sachs to Buy Neos Investments for $2.25 Billion",
-    "title_cn": "高盛将以 22.5 亿美元收购 Neos Investments",
-    "summary": "Goldman Sachs Group will pay as much as $2.25 billion to buy Neos Investments, expanding its asset manager’s reach in the actively managed ETF market. Katherine Doherty reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-buy-neos-investments-for-2-25-billion-video",
-    "published": "Wed, 12 Aug 2026 15:27:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:36.167519"
-  },
-  {
-    "id": "51ee77587000",
-    "title": "US Core Inflation Comes in Subdued, Easing Pressure on Fed",
-    "title_cn": "美国核心通胀放缓，美联储压力减轻",
-    "summary": "Underlying US inflation was subdued in July, likely easing pressure on the Federal Reserve to raise interest rates.\nMarta Norton, Chief Investment Strategist at Empower, reacts to the CPI data. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/us-core-inflation-comes-in-subdued-easing-fed-pressure-video",
-    "published": "Wed, 12 Aug 2026 15:27:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:36.291542"
-  },
-  {
-    "id": "8dbafee6304c",
-    "title": "Latest Oil Market News and Analysis for Aug. 12",
-    "title_cn": "8 月 12 日最新石油市场新闻和分析",
-    "summary": "Oil swung between gains and losses as traders parsed a barrage of data from two leading energy forecasters, while efforts to reach a deal to restore energy flows through the Strait of Hormuz continued in the background.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
-    "published": "Tue, 11 Aug 2026 22:04:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:36.413224"
-  },
-  {
-    "id": "5a4ad25f5a4e",
-    "title": "Bob Iger, Josh Kushner Are Buying the LA Lakers",
-    "title_cn": "鲍勃·艾格、乔什·库什纳正在收购洛杉矶湖人队",
-    "summary": "Josh Kushner and Bob Iger are buying the Los Angeles Lakers basketball team for a record-breaking price of more than $12 billion, according to people familiar with the matter. They are buying the team from financier Mark Walter. Bloomberg's Randall Williams reports.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/bob-iger-josh-kushner-are-buying-the-la-lakers-video",
-    "published": "Wed, 12 Aug 2026 15:04:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:36.547689"
-  },
-  {
-    "id": "b2c3765d74b6",
-    "title": "Brazil Suspends Discord Livestreaming After Teenager’s Death",
-    "title_cn": "青少年死亡后巴西暂停 Discord 直播",
-    "summary": "Brazilian regulators ordered chat app Discord Inc. to halt livestreaming in the South American country after the death of a teenager, part of a push to step up protections for young users of popular social media platforms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/brazil-suspends-discord-livestreaming-after-teenager-s-death",
-    "published": "Wed, 12 Aug 2026 17:38:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.115369"
-  },
-  {
-    "id": "93622d3be7e9",
-    "title": "Cooler Inflation Gives Fed Breathing Room | Open Interest 8/12/2026",
-    "title_cn": "通胀降温给美联储喘息空间未平仓合约 8/12/2026",
-    "summary": "Get a jump start on the US trading day with David Gura and Vonnie Quinn on \"Bloomberg Open Interest.\" Inflation cools, giving the Fed more breathing room as AI earnings reignite the trade. Oil wavers as Trump escalates rhetoric over the Strait of Hormuz. Plus, Goldman makes a $2.25 billion ETF bet, the Lakers sell for a record $12 billion, Firefly CEO Jason Kim on surging launch demand, and Link Logistics CEO Luke Petherbridge on AI’s warehouse boom. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-12/open-interest-8-12-2026-video",
-    "published": "Wed, 12 Aug 2026 17:22:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.261645"
+    "fetched_at": "2026-08-12T19:27:53.669983"
   },
   {
     "id": "0d95967e7e02",
@@ -427,7 +467,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/apple-taps-american-airlines-veteran-as-government-affairs-head",
     "published": "Wed, 12 Aug 2026 16:36:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.394452"
+    "fetched_at": "2026-08-12T19:27:53.807059"
+  },
+  {
+    "id": "b2c3765d74b6",
+    "title": "Brazil Suspends Discord Livestreaming After Teenager’s Death",
+    "title_cn": "青少年死亡后巴西暂停 Discord 直播",
+    "summary": "Brazilian regulators ordered chat app Discord Inc. to halt livestreaming in the South American country after the death of a teenager, part of a push to step up protections for young users of popular social media platforms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/brazil-suspends-discord-livestreaming-after-teenager-s-death",
+    "published": "Wed, 12 Aug 2026 17:38:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:53.927381"
+  },
+  {
+    "id": "93622d3be7e9",
+    "title": "Cooler Inflation Gives Fed Breathing Room | Open Interest 8/12/2026",
+    "title_cn": "通胀降温给美联储喘息空间未平仓合约 8/12/2026",
+    "summary": "Get a jump start on the US trading day with David Gura and Vonnie Quinn on \"Bloomberg Open Interest.\" Inflation cools, giving the Fed more breathing room as AI earnings reignite the trade. Oil wavers as Trump escalates rhetoric over the Strait of Hormuz. Plus, Goldman makes a $2.25 billion ETF bet, the Lakers sell for a record $12 billion, Firefly CEO Jason Kim on surging launch demand, and Link Logistics CEO Luke Petherbridge on AI’s warehouse boom. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-12/open-interest-8-12-2026-video",
+    "published": "Wed, 12 Aug 2026 17:22:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:27:54.062558"
   },
   {
     "id": "e078794ed486",
@@ -437,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/uber-working-on-offering-tween-rides-option-for-kids-10-to-12",
     "published": "Wed, 12 Aug 2026 16:33:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.535432"
+    "fetched_at": "2026-08-12T19:27:54.190341"
   },
   {
     "id": "8e089cac1d48",
@@ -447,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/deepseek-publicizes-efforts-to-challenge-anthropic-s-claude-code",
     "published": "Wed, 12 Aug 2026 16:29:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.673970"
+    "fetched_at": "2026-08-12T19:27:54.314764"
   },
   {
     "id": "2dec83a646db",
@@ -457,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/opinion-google-s-ai-is-killing-the-internet-video",
     "published": "Wed, 12 Aug 2026 15:51:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.801095"
+    "fetched_at": "2026-08-12T19:27:54.440354"
   },
   {
     "id": "1710a93c411b",
@@ -467,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/ai-boom-fuels-warehouse-demand-video",
     "published": "Wed, 12 Aug 2026 15:38:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:37.920915"
+    "fetched_at": "2026-08-12T19:27:54.593960"
   },
   {
     "id": "a07e48271a50",
@@ -477,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/uk-plans-safeguards-to-stop-terrorists-using-ai-for-bioweapons",
     "published": "Wed, 12 Aug 2026 15:26:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.070504"
+    "fetched_at": "2026-08-12T19:27:54.715836"
   },
   {
     "id": "4feebccce491",
@@ -487,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/us-launches-effort-to-speed-trade-in-ai-goods-between-allies",
     "published": "Wed, 12 Aug 2026 14:17:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.198777"
+    "fetched_at": "2026-08-12T19:27:54.846114"
   },
   {
     "id": "a20c04d83ff4",
@@ -497,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/formlabs-partners-with-former-apple-hardware-chief-dan-riccio",
     "published": "Wed, 12 Aug 2026 14:17:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.336911"
+    "fetched_at": "2026-08-12T19:27:54.962489"
   },
   {
     "id": "f38fff1518d6",
@@ -507,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-12/google-s-pixel-11-pro-tries-to-reinvent-the-camera-flash",
     "published": "Wed, 12 Aug 2026 14:00:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.477927"
+    "fetched_at": "2026-08-12T19:27:55.078294"
   },
   {
     "id": "f58f4f19f9f7",
@@ -517,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/german-firms-see-expanding-ai-use-crimping-wages-survey-shows",
     "published": "Wed, 12 Aug 2026 14:10:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.608723"
+    "fetched_at": "2026-08-12T19:27:55.197242"
   },
   {
     "id": "f0811c1efad1",
@@ -527,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/google-unveils-a-new-lineup-of-pixel-phones",
     "published": "Wed, 12 Aug 2026 14:00:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.740664"
+    "fetched_at": "2026-08-12T19:27:55.311040"
   },
   {
     "id": "7edf48ac2e00",
@@ -537,77 +597,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/google-to-track-insulin-trends-with-new-wearables-feature-on-watch-5-fitbit-air",
     "published": "Wed, 12 Aug 2026 14:00:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.859038"
+    "fetched_at": "2026-08-12T19:27:55.437600"
   },
   {
-    "id": "6b99f7256595",
-    "title": "Nebius Reports 514% Jump in AI Cloud Sales as Demand Booms",
-    "title_cn": "Nebius 报告称，随着需求旺盛，人工智能云销售额猛增 514%",
-    "summary": "Nebius Group NV reported a 514% jump in second-quarter sales for its cloud business following strong demand for AI computing power.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/nebius-reports-514-jump-in-ai-cloud-sales-as-demand-booms",
-    "published": "Wed, 12 Aug 2026 11:58:06 GMT",
+    "id": "1111e8d2fc77",
+    "title": "Minouche Shafik Leaves Post as Chief Economic Advisor to UK PM",
+    "title_cn": "米努什·沙菲克 (Minouche Shafik) 辞去英国首相首席经济顾问职务",
+    "summary": "Minouche Shafik, the former Bank of England deputy governor and International Monetary Fund director, has left her post as chief economic advisor to Britain’s prime minister, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/minouche-shafik-leaves-post-as-chief-economic-advisor-to-uk-pm",
+    "published": "Wed, 12 Aug 2026 19:10:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:38.976762"
+    "fetched_at": "2026-08-12T19:27:56.357009"
   },
   {
-    "id": "f41b823b1467",
-    "title": "Super Micro Gives Sales Outlook That Tops Rosiest Projection",
-    "title_cn": "Super Micro 给出了最乐观的销售前景",
-    "summary": "Super Micro Computer Inc. shares jumped after the company gave a revenue forecast for the current quarter that topped analysts’ estimates, a sign the booming artificial intelligence market continues to bolster sales of the company’s servers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/super-micro-gives-sales-forecast-that-tops-rosiest-projections",
-    "published": "Tue, 11 Aug 2026 20:15:12 GMT",
+    "id": "99353616b59d",
+    "title": "Democratic Socialist Advance Hits Wall in Wisconsin Primary",
+    "title_cn": "民主社会主义在威斯康星州初选中遭遇挫折",
+    "summary": "Moderate Democrat David Crowley defeated Democratic Socialist Francesca Hong in Wisconsin’s primary for governor, an upset in a race that had become a test of the party’s ideological direction.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/crowley-wins-wisconsin-dem-governor-primary-ddhq-projects",
+    "published": "Wed, 12 Aug 2026 06:23:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:39.094060"
+    "fetched_at": "2026-08-12T19:27:57.050817"
   },
   {
-    "id": "18d3f4b537e6",
-    "title": "CoreWeave Shares Soar After Booming AI Demand Boosts Outlook",
-    "title_cn": "人工智能需求蓬勃发展提振前景后 CoreWeave 股价飙升",
-    "summary": "CoreWeave Inc., a provider of computing that powers artificial intelligence systems, surged after the AI spending frenzy spurred faster sales growth than anticipated.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/coreweave-revenue-surges-on-booming-demand-for-ai-computing",
-    "published": "Tue, 11 Aug 2026 20:21:32 GMT",
+    "id": "0b7af09c6653",
+    "title": "Trump Media Pitches $1.2 Million Truth API to Wall Street Traders",
+    "title_cn": "特朗普媒体向华尔街交易员推销 120 万美元的 Truth API",
+    "summary": "Donald Trump’s social media company has been leaning on Wall Street’s fear of missing out in its pitch for a controversial new subscription to faster feeds from the president’s Truth Social account.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-media-pitches-1-2-million-truth-api-to-wall-street-traders",
+    "published": "Wed, 12 Aug 2026 18:38:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:39.223875"
+    "fetched_at": "2026-08-12T19:27:57.595576"
   },
   {
-    "id": "e44f8c8afd54",
-    "title": "Tencent Quickens AI Spending After WeChat Ads Charge Growth",
-    "title_cn": "微信广告收费增长后，腾讯加速人工智能支出",
-    "summary": "Tencent Holdings Ltd. more than doubled spending on AI projects and computing to about $7.8 billion last quarter, reflecting the gaming and social media leader’s intensifying efforts to catch up in a critical sphere with rivals like Alibaba Group Holding Ltd.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/tencent-sales-top-estimates-on-wechat-ad-surge-resilient-games",
-    "published": "Wed, 12 Aug 2026 08:39:28 GMT",
+    "id": "abbcf545f20b",
+    "title": "Bolivia Aims to Limit Expropriations With Investment Bill",
+    "title_cn": "玻利维亚旨在通过投资法案限制征用",
+    "summary": "Bolivia’s government is proposing limits on the executive branch’s ability to enact expropriations and nationalizations of private investments in a bid to attract capital to its struggling economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/bolivia-aims-to-limit-expropriations-with-new-investment-bill",
+    "published": "Wed, 12 Aug 2026 14:18:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:39.333168"
-  },
-  {
-    "id": "ff5e3d8a9042",
-    "title": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers",
-    "title_cn": "Lightspeed 为 Anthropic 和 OpenAI 赌注寻求 6 亿美元",
-    "summary": "Lightspeed Venture Partners is seeking about $600 million in a secondary process to extend its ownership of OpenAI and four other assets, as well as a new commitment to Anthropic PBC, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/lightspeed-seeks-600-million-for-anthropic-openai-wagers",
-    "published": "Wed, 12 Aug 2026 13:25:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:39.465671"
-  },
-  {
-    "id": "e2b92742e335",
-    "title": "Mark Bezos’ Fund Faces Fight to Recoup Losses From Fence Startup",
-    "title_cn": "马克·贝佐斯的基金面临着追回 Fence 初创公司损失的斗争",
-    "summary": "A venture capital firm co-founded by Jeff Bezos’ younger brother Mark sank $11.7 million into a startup that fashioned itself as an Uber of fence installation. Now it’s suing the startup’s founder after the company’s collapse amid allegations of fraud and mismanagement.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/mark-bezos-fund-faces-fight-to-recoup-losses-from-fence-startup",
-    "published": "Wed, 12 Aug 2026 13:05:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:39.600358"
-  },
-  {
-    "id": "efe1e4cff007",
-    "title": "Iran Takes More Robust Military Stance With US Talks Frozen",
-    "title_cn": "美国谈判冻结，伊朗采取更强硬的军事立场",
-    "summary": "Iran has reorganized its military to be more aggressive abroad as talks on ending the war with the US remain mired in stalemate, a sign that Tehran is preparing for a protracted era of regional conflict.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
-    "published": "Wed, 12 Aug 2026 12:59:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:40.360225"
+    "fetched_at": "2026-08-12T19:27:58.803991"
   },
   {
     "id": "56cd9d8ade58",
@@ -617,7 +647,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/ukraine-strikes-grain-terminals-at-russia-s-key-black-sea-port",
     "published": "Wed, 12 Aug 2026 09:24:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:40.677978"
+    "fetched_at": "2026-08-12T19:27:58.961529"
+  },
+  {
+    "id": "bab6daa6a35f",
+    "title": "Richest to Profit in Trump’s Capital Gain Tax Ideas for Midterms",
+    "title_cn": "最富有的人将从特朗普的中期选举资本利得税想法中获利",
+    "summary": "The White House is considering throwing its weight behind a push to increase a capital gains tax exemption for primary home sales and cut levies on investments ahead of the midterm election — changes that would disproportionately flow to some of the wealthiest US households.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/richest-to-gain-with-trump-s-capital-gain-tax-ideas-for-midterms",
+    "published": "Wed, 12 Aug 2026 18:27:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:28:00.163712"
+  },
+  {
+    "id": "5ab3da154ec1",
+    "title": "ICE to Spend $20 Million on Electric-Shock Gloves for Agents",
+    "title_cn": "ICE 斥资 2000 万美元为特工购买电击手套",
+    "summary": "Federal immigration agents are looking to buy gloves that can inflict electric shocks on detainees as President Donald Trump intensifies his mass arrest and deportation drive.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/ice-to-spend-20-million-on-electric-shock-gloves-for-agents",
+    "published": "Wed, 12 Aug 2026 18:16:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:28:01.077815"
+  },
+  {
+    "id": "5e3de61223ac",
+    "title": "DOJ Lawyer Evades Ethics Sanction Over Journalist’s Home Search",
+    "title_cn": "美国司法部律师逃避对记者家庭搜查的道德制裁",
+    "summary": "A longtime Justice Department attorney will not face disciplinary action from the Virginia State Bar after a federal judge admonished his conduct in seeking a search warrant against a Washington Post reporter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/doj-lawyer-evades-ethics-sanction-over-journalist-s-home-search",
+    "published": "Wed, 12 Aug 2026 17:43:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:28:01.539352"
+  },
+  {
+    "id": "efe1e4cff007",
+    "title": "Iran Takes More Robust Military Stance With US Talks Frozen",
+    "title_cn": "美国谈判冻结，伊朗采取更强硬的军事立场",
+    "summary": "Iran has reorganized its military to be more aggressive abroad as talks on ending the war with the US remain mired in stalemate, a sign that Tehran is preparing for a protracted era of regional conflict.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-12/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
+    "published": "Wed, 12 Aug 2026 12:59:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-12T19:28:01.669470"
   },
   {
     "id": "63078c1d196c",
@@ -627,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/bulldozers-move-into-big-bend-national-park-for-border-crackdown",
     "published": "Wed, 12 Aug 2026 16:22:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:41.124915"
+    "fetched_at": "2026-08-12T19:28:01.789305"
   },
   {
     "id": "26d77e975b5c",
@@ -637,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/rnc-after-world-cup-sets-up-dallas-for-a-one-two-boost-video",
     "published": "Wed, 12 Aug 2026 16:12:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:41.520363"
+    "fetched_at": "2026-08-12T19:28:01.918794"
   },
   {
     "id": "76e64c26ee14",
@@ -647,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/burnham-calls-emergency-meeting-to-manage-drought-and-wildfires",
     "published": "Wed, 12 Aug 2026 07:03:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:41.902775"
+    "fetched_at": "2026-08-12T19:28:02.050229"
   },
   {
     "id": "8b6a8ce05832",
@@ -657,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/germany-sees-russia-linked-influence-campaign-ahead-of-elections",
     "published": "Wed, 12 Aug 2026 15:59:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:42.452212"
+    "fetched_at": "2026-08-12T19:28:02.179495"
   },
   {
     "id": "50c3d4f87d71",
@@ -667,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/democrats-crazy-train-still-rolling-on-says-haines-video",
     "published": "Wed, 12 Aug 2026 15:38:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:43.127195"
+    "fetched_at": "2026-08-12T19:28:02.284995"
   },
   {
     "id": "87e2c5f3eea7",
@@ -677,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/trump-s-new-birthright-citizenship-curbs-face-legal-challenge",
     "published": "Tue, 11 Aug 2026 16:19:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:43.835620"
+    "fetched_at": "2026-08-12T19:28:02.412221"
   },
   {
     "id": "7af526755c44",
@@ -687,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-11/judge-expands-block-on-trump-s-mail-in-voting-plan-for-midterms",
     "published": "Tue, 11 Aug 2026 21:06:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:44.234186"
+    "fetched_at": "2026-08-12T19:28:02.533247"
   },
   {
     "id": "0aaa3d93b368",
@@ -697,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/russia-eyeing-sabotage-other-attacks-in-europe-officials-warn",
     "published": "Wed, 12 Aug 2026 14:33:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:44.681337"
+    "fetched_at": "2026-08-12T19:28:02.655360"
   },
   {
     "id": "534e08cc85c8",
@@ -707,17 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/oil-tanker-ordered-by-total-others-can-t-unload-after-malagasy-decree",
     "published": "Wed, 12 Aug 2026 14:23:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:45.532985"
-  },
-  {
-    "id": "abbcf545f20b",
-    "title": "Bolivia Aims to Limit Expropriations With New Investment Bill",
-    "title_cn": "玻利维亚旨在通过新投资法案限制征用",
-    "summary": "Bolivia’s government is proposing limits on the executive branch’s ability to enact expropriations and nationalizations of private investments in a bid to attract capital to its struggling economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/bolivia-aims-to-limit-expropriations-with-new-investment-bill",
-    "published": "Wed, 12 Aug 2026 14:18:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:46.367022"
+    "fetched_at": "2026-08-12T19:28:02.774513"
   },
   {
     "id": "24fbed94f2b3",
@@ -727,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-seeks-immediate-halt-to-judge-s-penalties-in-irs-case",
     "published": "Wed, 12 Aug 2026 13:54:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:46.501826"
+    "fetched_at": "2026-08-12T19:28:02.912479"
   },
   {
     "id": "27b8a9e635c4",
@@ -737,66 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-12/primaries-deliver-mixed-night-in-democrats-tug-of-war-video",
     "published": "Wed, 12 Aug 2026 13:47:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-12T18:09:46.695373"
-  },
-  {
-    "id": "a450430aa9ce",
-    "title": "South Africa’s Top Court Rejects Appeal of Impeachment Ruling",
-    "title_cn": "南非最高法院驳回对弹劾裁决的上诉",
-    "summary": "South Africa’s Constitutional Court denied a direct application to appeal a lower court’s ruling that interdicted a committee from holding public hearings as part of a probe into whether the president should be impeached.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/south-africa-s-top-court-rejects-appeal-of-impeachment-ruling",
-    "published": "Wed, 12 Aug 2026 13:40:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:47.534578"
-  },
-  {
-    "id": "99353616b59d",
-    "title": "Democratic Socialist Advance Hits a Wall in Wisconsin Primary",
-    "title_cn": "民主社会主义的进步在威斯康星州初选中碰壁",
-    "summary": "Moderate Democrat David Crowley defeated Democratic Socialist Francesca Hong in Wisconsin’s primary for governor, an upset in a race that had become a test of the party’s ideological direction.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/crowley-wins-wisconsin-dem-governor-primary-ddhq-projects",
-    "published": "Wed, 12 Aug 2026 06:23:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:48.433273"
-  },
-  {
-    "id": "b09027cf53c6",
-    "title": "Thailand Reaffirms US Military Cooperation Amid Trade Talks",
-    "title_cn": "泰国在贸易谈判中重申美国军事合作",
-    "summary": "Thailand reaffirmed its longstanding military relationship with the US on Wednesday, saying security cooperation will remain separate from ongoing negotiations over US tariffs and will not be used as leverage in the talks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/thailand-reaffirms-us-military-cooperation-amid-trade-talks",
-    "published": "Wed, 12 Aug 2026 11:40:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:48.851730"
-  },
-  {
-    "id": "bd6f5f05bba6",
-    "title": "Haitians Fear Kidnapping After Losing Temporary Protected Status in US",
-    "title_cn": "海地人在美国失去临时保护身份后担心被绑架",
-    "summary": "As Washington strips more than 330,000 Haitians of their humanitarian protections and prepares to send them back to the troubled nation, human-rights advocates warn that they could become prime targets in the kidnapping capital of the Caribbean.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/haitians-fear-kidnapping-after-losing-temporary-protected-status-in-us",
-    "published": "Wed, 12 Aug 2026 11:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:49.205366"
-  },
-  {
-    "id": "03f91a263218",
-    "title": "India Warns Border Strains Could Weigh on China Relations",
-    "title_cn": "印度警告边境紧张可能影响中国关系",
-    "summary": "India’s government said any incident at its border with China was considered “serious,” in response to social media speculation of a possible standoff between the two militaries in India’s Arunachal Pradesh.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-11/india-warns-border-strains-could-weigh-on-china-relations",
-    "published": "Tue, 11 Aug 2026 15:15:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:49.348233"
-  },
-  {
-    "id": "e11bbc307c90",
-    "title": "Zhu Rongji, Chinese Premier Who Overhauled Economy, Dies",
-    "title_cn": "改革经济的中国总理朱镕基去世",
-    "summary": "Zhu Rongji, who as China’s premier pushed through reforms at state-owned companies that cost tens of millions of workers their jobs, and who helped engineer China’s entry into the World Trade Organization, has died. He was 97.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-12/zhu-rongji-chinese-premier-who-overhauled-economy-dies-at-97",
-    "published": "Wed, 12 Aug 2026 10:10:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-12T18:09:49.488243"
+    "fetched_at": "2026-08-12T19:28:03.068996"
   }
 ]
