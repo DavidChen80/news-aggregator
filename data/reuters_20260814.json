@@ -1,5 +1,55 @@
 [
   {
+    "id": "b3fd7812aed5",
+    "title": "Stock Movers: Sandisk, Reddit, Tesla (Podcast)",
+    "title_cn": "库存推动者：Sandisk、Reddit、Tesla（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-sandisk-reddit-tesla-podcast",
+    "published": "Fri, 14 Aug 2026 19:23:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:37:59.748195"
+  },
+  {
+    "id": "4be792d7d2f6",
+    "title": "Bloomberg Daybreak Weekend: US Housing Preview (Podcast)",
+    "title_cn": "彭博黎明周末：美国住房预览（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-daybreak-weekend-us-housing-preview-podcast",
+    "published": "Fri, 14 Aug 2026 19:09:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:37:59.855955"
+  },
+  {
+    "id": "db3f034c19e9",
+    "title": "Mangione Pleads Guilty, US Plan for Iran’s Economic Isolation",
+    "title_cn": "曼吉奥内认罪，美国对伊朗经济孤立的计划",
+    "summary": "Source: Bloomberg, 5:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/mangione-pleads-guilty-us-plan-for-iran-s-economic-isolation",
+    "published": "Fri, 14 Aug 2026 19:07:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:37:59.971144"
+  },
+  {
+    "id": "7eaf8768a389",
+    "title": "Week Ahead: Target, Walmart, Deere (Podcast)",
+    "title_cn": "未来一周：塔吉特、沃尔玛、迪尔（播客）",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/week-ahead-target-walmart-deere-podcast",
+    "published": "Fri, 14 Aug 2026 18:54:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:00.081750"
+  },
+  {
+    "id": "8355935ea2f2",
+    "title": "Bloomberg Money: August 14th, 2026 (Podcast)",
+    "title_cn": "彭博财经：2026 年 8 月 14 日（播客）",
+    "summary": "Source: Bloomberg, 37:35",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-money-august-14th-2026-podcast",
+    "published": "Fri, 14 Aug 2026 18:47:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:00.209169"
+  },
+  {
     "id": "32ceee55a095",
     "title": "Bloomberg Wall Street Week: August 14th, 2026 (Podcast)",
     "title_cn": "彭博华尔街周刊：2026 年 8 月 14 日（播客）",
@@ -7,17 +57,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-wall-street-week-august-14th-2026-podcast",
     "published": "Fri, 14 Aug 2026 18:12:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:52.693387"
+    "fetched_at": "2026-08-14T19:38:00.340157"
   },
   {
     "id": "85d400f089cd",
     "title": "Mangione Pleads Guilty, 'Economic Isolation' Plan for Iran, More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "曼吉奥内认罪，对伊朗实施“经济孤立”计划等",
     "summary": "Source: Bloomberg, 5:29",
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/mangione-pleads-guilty-economic-isolation-plan-for-iran-more",
     "published": "Fri, 14 Aug 2026 18:09:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:52.842895"
+    "fetched_at": "2026-08-14T19:38:00.467475"
   },
   {
     "id": "0f22c0750712",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-tech-openai-s-explosive-growth-continues-podcast",
     "published": "Fri, 14 Aug 2026 17:52:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:52.944263"
+    "fetched_at": "2026-08-14T19:38:00.589167"
   },
   {
     "id": "d8af814e6c92",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-talks-mike-wilson-podcast",
     "published": "Fri, 14 Aug 2026 17:25:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.046858"
+    "fetched_at": "2026-08-14T19:38:00.722020"
   },
   {
     "id": "4753823dbd22",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-intelligence-openai-revenue-accelerates-podcast",
     "published": "Fri, 14 Aug 2026 17:19:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.201187"
+    "fetched_at": "2026-08-14T19:38:00.829167"
   },
   {
     "id": "2c95ff20a512",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/mangione-pleads-guilty-bessent-iran-facing-economic-isolation",
     "published": "Fri, 14 Aug 2026 17:11:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.337569"
+    "fetched_at": "2026-08-14T19:38:00.938797"
   },
   {
     "id": "6dc9b6e5e828",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-surveillance-tv-august-14th-2026-podcast",
     "published": "Fri, 14 Aug 2026 16:15:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.438874"
+    "fetched_at": "2026-08-14T19:38:01.170708"
   },
   {
     "id": "ff7e63951821",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/mangione-pleads-guilty-signs-consumers-are-slowing-down-more",
     "published": "Fri, 14 Aug 2026 16:09:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.563271"
+    "fetched_at": "2026-08-14T19:38:01.298979"
   },
   {
     "id": "38caaa569c3d",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/us-threat-to-boost-economic-pressure-on-iran-unnerves-oil-market",
     "published": "Fri, 14 Aug 2026 16:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.660109"
+    "fetched_at": "2026-08-14T19:38:01.432156"
   },
   {
     "id": "2621a9a7ccf2",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/features/2026-alfa-fiscal-cosecha-de-perdidas-fiscales/",
     "published": "Fri, 14 Aug 2026 15:50:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.813788"
+    "fetched_at": "2026-08-14T19:38:01.592707"
   },
   {
     "id": "923a144ed653",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-14/liechtenstein-rules-out-paying-hackers-ransom-after-data-breach",
     "published": "Fri, 14 Aug 2026 15:32:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:53.923591"
+    "fetched_at": "2026-08-14T19:38:01.760318"
   },
   {
     "id": "6eb3ad2d6417",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-sandisk-reddit-york-space-systems-podcast",
     "published": "Fri, 14 Aug 2026 15:26:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.043236"
+    "fetched_at": "2026-08-14T19:38:01.961307"
   },
   {
     "id": "02716af73d77",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-talks-priya-misra-podcast",
     "published": "Fri, 14 Aug 2026 15:26:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.166632"
+    "fetched_at": "2026-08-14T19:38:02.094801"
   },
   {
     "id": "d5bccb202db4",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/mangione-will-plead-guilty-iran-s-economic-isolation-more",
     "published": "Fri, 14 Aug 2026 15:26:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.261963"
+    "fetched_at": "2026-08-14T19:38:02.207503"
   },
   {
     "id": "efbfba4a2350",
@@ -147,77 +197,27 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-business-of-sports-private-money-in-sports-podcast",
     "published": "Fri, 14 Aug 2026 15:16:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.353951"
+    "fetched_at": "2026-08-14T19:38:02.333942"
   },
   {
-    "id": "c6fc0ad847e0",
-    "title": "Bloomberg Masters in Business: Ankur Crawford (Podcast)",
-    "title_cn": "彭博商业硕士：Ankur Crawford（播客）",
-    "summary": "Source: Bloomberg, 75:27",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-masters-in-business-ankur-crawford-podcast",
-    "published": "Fri, 14 Aug 2026 14:49:41 GMT",
+    "id": "a58ff28cea93",
+    "title": "Latest Oil Market News and Analysis for Aug. 14",
+    "title_cn": "8 月 14 日最新石油市场新闻和分析",
+    "summary": "Oil edged higher as traders weighed a US threat to impose unprecedented economic measures on Iran, with the war that snarled the Strait of Hormuz in its sixth month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+    "published": "Thu, 13 Aug 2026 22:04:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.461127"
+    "fetched_at": "2026-08-14T19:38:02.642691"
   },
   {
-    "id": "38076afeb39c",
-    "title": "Bloomberg Businessweek Weekend - August 14th, 2026 (Podcast)",
-    "title_cn": "彭博商业周刊周末 - 2026 年 8 月 14 日（播客）",
-    "summary": "Source: Bloomberg, 38:51",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-businessweek-weekend-august-14th-2026-podcast",
-    "published": "Fri, 14 Aug 2026 14:32:17 GMT",
+    "id": "2e767505d345",
+    "title": "Pricey Diesel to Push Harvest Season Costs Higher, Says Tom Kloza",
+    "title_cn": "汤姆·克洛扎表示，昂贵的柴油将推高收获季节的成本",
+    "summary": "Tom Kloza, chief oil advisor to Gulf Oil, says that disruption in the global oil market from the Iran war is likely to make this harvest season extremely costly as average diesel prices extends over $5 a gallon. Kloza also discussed the impact economic pressure on Iran and said that that likely means the US won't have 'full and unfettered access' to the global oil markets.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/pricey-diesel-to-push-harvest-season-costs-higher-kloza-video",
+    "published": "Fri, 14 Aug 2026 19:02:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.569230"
-  },
-  {
-    "id": "b58717e54a0a",
-    "title": "New FBI Epstein Emails Show Sarah Ferguson Contacted Kash Patel",
-    "title_cn": "新的联邦调查局爱泼斯坦电子邮件显示莎拉·弗格森联系了卡什·帕特尔",
-    "summary": "Internal documents shed new light on the government’s review of the Epstein files and reveal efforts by the former Duchess of York to connect a British socialite with the FBI director.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel",
-    "published": "Fri, 14 Aug 2026 14:30:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.694975"
-  },
-  {
-    "id": "df5a6a1b9aec",
-    "title": "Iran 'Economic Isolation,' Consumer Sentiment Falls, More",
-    "title_cn": "伊朗“经济孤立”、消费者信心下降等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-14/iran-economic-isolation-consumer-sentiment-falls-more",
-    "published": "Fri, 14 Aug 2026 14:27:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.805587"
-  },
-  {
-    "id": "e3fde0b96802",
-    "title": "Stock Movers: Reddit, Applied Materials, Aerovironment (Podcast)",
-    "title_cn": "库存推动者：Reddit、应用材料公司、航空环境（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-reddit-applied-materials-aerovironment-podcast",
-    "published": "Fri, 14 Aug 2026 14:26:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:54.906801"
-  },
-  {
-    "id": "2b0ec8528aae",
-    "title": "US Stocks Slip From Highs as Investors Weigh Consumer Demand",
-    "title_cn": "由于投资者权衡消费者需求，美国股市从高位回落",
-    "summary": "US equities slipped from all-time highs as new data showed that consumer spending softened in July.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
-    "published": "Fri, 14 Aug 2026 12:18:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.200902"
-  },
-  {
-    "id": "15c113f254f5",
-    "title": "The Equity and Credit Disconnect Is Getting Really Big Again",
-    "title_cn": "股权和信贷脱节再次变得严重",
-    "summary": "Are stocks missing something?",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/the-equity-and-credit-disconnect-is-getting-really-big-again",
-    "published": "Fri, 14 Aug 2026 18:15:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.302796"
+    "fetched_at": "2026-08-14T19:38:02.776842"
   },
   {
     "id": "ce6a267b18d4",
@@ -227,7 +227,47 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
     "published": "Thu, 13 Aug 2026 22:10:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.409663"
+    "fetched_at": "2026-08-14T19:38:02.899520"
+  },
+  {
+    "id": "10c4d0d70460",
+    "title": "Winning War With Iran Requires Patience, Says Retired Army Brigadier General",
+    "title_cn": "退役陆军准将表示，赢得与伊朗的战争需要耐心",
+    "summary": "Retired US Army Brigadier General Mark Kimmitt said winning a war with Iran will require patience on the side of the United States because Iran follows a model of resistance and will consider the war a win if they don't lose.  Kimmitt also cast doubt on the idea that the US could win the war with an air campaign alone as the Trump administration moves to put economic rather than military pressure on Iran.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/iran-war-requires-patience-ret-army-brigadier-general-video",
+    "published": "Fri, 14 Aug 2026 18:42:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:03.002452"
+  },
+  {
+    "id": "548a33960e79",
+    "title": "White Sugar Rally Adds to Already-Steep Refining Margins",
+    "title_cn": "白糖价格上涨加剧了本已很高的炼油利润",
+    "summary": "White sugar futures in London rose for a third straight week, slightly outpacing raw sugar and keeping refining margins near their highest levels in two years.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/white-sugar-rally-boosts-refining-as-supply-outlook-tightens",
+    "published": "Fri, 14 Aug 2026 12:33:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:03.144569"
+  },
+  {
+    "id": "2b0ec8528aae",
+    "title": "US Stocks Slip From Highs as Investors Weigh Consumer Demand",
+    "title_cn": "由于投资者权衡消费者需求，美国股市从高位回落",
+    "summary": "US equities slipped from all-time highs as new data showed that consumer spending softened in July.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
+    "published": "Fri, 14 Aug 2026 12:18:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:03.285057"
+  },
+  {
+    "id": "15c113f254f5",
+    "title": "The Equity and Credit Disconnect Is Getting Really Big Again",
+    "title_cn": "股权和信贷脱节再次变得严重",
+    "summary": "Are stocks missing something?",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/the-equity-and-credit-disconnect-is-getting-really-big-again",
+    "published": "Fri, 14 Aug 2026 18:15:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:03.400503"
   },
   {
     "id": "2f1f04687b3f",
@@ -237,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/luigi-mangione-pleads-guilty-in-us-case-over-ceo-killing-video",
     "published": "Fri, 14 Aug 2026 17:50:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.591656"
+    "fetched_at": "2026-08-14T19:38:03.529840"
   },
   {
     "id": "43045118064e",
@@ -247,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/mangione-admits-to-killing-healthcare-ceo-brian-thompson-video",
     "published": "Fri, 14 Aug 2026 17:46:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.697107"
+    "fetched_at": "2026-08-14T19:38:03.652798"
   },
   {
     "id": "f97e8627da39",
@@ -257,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/gold-has-been-in-bull-market-for-25-years-wilson-says-video",
     "published": "Fri, 14 Aug 2026 17:22:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:55.808023"
+    "fetched_at": "2026-08-14T19:38:03.782125"
   },
   {
     "id": "948cf297d28a",
@@ -267,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/braskem-optimistic-on-talks-with-creditors-as-deadline-looms",
     "published": "Fri, 14 Aug 2026 17:18:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.050986"
+    "fetched_at": "2026-08-14T19:38:03.907171"
   },
   {
     "id": "1c5733643f1b",
@@ -277,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/odd-lots-how-el-ninos-actually-work-video",
     "published": "Fri, 14 Aug 2026 17:18:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.154734"
+    "fetched_at": "2026-08-14T19:38:04.065826"
   },
   {
     "id": "220ae8ee8c15",
@@ -287,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/election-angst-fuels-bruising-week-in-brazil-markets",
     "published": "Fri, 14 Aug 2026 15:28:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.314646"
+    "fetched_at": "2026-08-14T19:38:04.191526"
   },
   {
     "id": "73f98b0d9096",
@@ -297,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/russian-regions-report-new-fuel-crunch-as-kyiv-hits-refineries",
     "published": "Fri, 14 Aug 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.416793"
+    "fetched_at": "2026-08-14T19:38:04.319026"
   },
   {
     "id": "2eab06f1a4d1",
@@ -307,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/ankur-crawford-on-choosing-a-job-you-love-video",
     "published": "Fri, 14 Aug 2026 16:33:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.523020"
+    "fetched_at": "2026-08-14T19:38:04.440208"
   },
   {
     "id": "0cacc694a8ae",
@@ -317,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/treasuries-gain-as-weak-retail-sales-data-erode-rate-hike-bets",
     "published": "Fri, 14 Aug 2026 13:10:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.625258"
+    "fetched_at": "2026-08-14T19:38:04.559586"
   },
   {
     "id": "501ed5e647db",
@@ -327,17 +367,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/everybody-s-business-the-rise-of-ai-music-video",
     "published": "Fri, 14 Aug 2026 16:13:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.760247"
-  },
-  {
-    "id": "548a33960e79",
-    "title": "White Sugar Rally Adds to Already-Steep Refining Margins",
-    "title_cn": "白糖价格上涨加剧了本已很高的炼油利润",
-    "summary": "White sugar futures in London headed for a third straight weekly gain, slightly outpacing raw sugar and keeping refining margins near their highest levels in two years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/white-sugar-rally-boosts-refining-as-supply-outlook-tightens",
-    "published": "Fri, 14 Aug 2026 12:33:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.876126"
+    "fetched_at": "2026-08-14T19:38:04.746358"
   },
   {
     "id": "c55e606879f7",
@@ -347,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders",
     "published": "Fri, 14 Aug 2026 04:04:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:56.967570"
+    "fetched_at": "2026-08-14T19:38:04.935050"
   },
   {
     "id": "5b13964180ba",
@@ -357,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/dollar-slides-to-may-low-as-weak-retail-sales-dim-rate-bets",
     "published": "Fri, 14 Aug 2026 13:05:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.073760"
+    "fetched_at": "2026-08-14T19:38:05.040280"
   },
   {
     "id": "9622af47b940",
@@ -367,47 +397,27 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/the-20-million-boom-in-women-s-volleyball-video",
     "published": "Fri, 14 Aug 2026 15:40:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.179837"
+    "fetched_at": "2026-08-14T19:38:05.173007"
   },
   {
-    "id": "69a353456210",
-    "title": "Bloomberg Surveillance 8/14/2026",
-    "title_cn": "彭博社监测 2026 年 8 月 14 日",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-surveillance-8-14-2026-video",
-    "published": "Fri, 14 Aug 2026 15:37:34 GMT",
+    "id": "4030dce8e21e",
+    "title": "UK Issues Emergency Phone Alert as Heat Raises Wildfire Risk",
+    "title_cn": "由于高温增加野火风险，英国发布紧急电话警报",
+    "summary": "The UK government issued a wildfire alert to mobile phones on Friday as drought and the tail end of a heat wave left much of the country at very high fire risk.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/uk-issues-emergency-phone-alert-as-heat-raises-wildfire-risk",
+    "published": "Fri, 14 Aug 2026 19:02:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.279004"
-  },
-  {
-    "id": "c630a3100cfe",
-    "title": "Tyson to Close More Beef Plants as Cattle Shortage Drags On",
-    "title_cn": "由于牛短缺问题持续存在，泰森食品将关闭更多牛肉工厂",
-    "summary": "Tyson Foods Inc. is closing more beef plants as a prolonged cattle shortage continues to force the US beefpacking industry’s restructuring.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/tyson-to-close-more-beef-plants-as-us-cattle-shortage-drags-on",
-    "published": "Thu, 13 Aug 2026 20:22:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.443200"
-  },
-  {
-    "id": "503a4c0bae0a",
-    "title": "‘Economic Isolation’ Plan for Iran, Farage Wins UK Election | The Opening Trade 8/14/2026",
-    "title_cn": "伊朗“经济孤立”计划法拉奇赢得英国大选 |开盘交易 8/14/2026",
-    "summary": "The US will soon announce unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation after almost six months of war. “Watch this space for more announcements coming next week because we are going to apply measures like have never been seen in the history of economic isolation on a country,” Bessent said in an interview with Newsmax on Thursday. \n\nNigel Farage is returning to Parliament after winning a comfortable election with 62.8% of the vote in the constituency centered on Clacton-on-Sea. Farage's victory came over Count Binface, who received 26.7% of the vote.\n\nThe Opening Trade has everything you need to know as markets open across Europe. With analysis you won't find anywhere else, we break down the biggest stories of the day and speak to top guests who have skin in the game. Hosted by Guy Johnson and Tom Mackenzie. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/the-opening-trade-8-14-2026-video",
-    "published": "Fri, 14 Aug 2026 15:14:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.552846"
+    "fetched_at": "2026-08-14T19:38:05.495880"
   },
   {
     "id": "79d4cc0263e8",
-    "title": "New Mexico Gas Pipeline for Oracle Data Center Delayed to 2027",
-    "title_cn": "Oracle 数据中心的新墨西哥州天然气管道推迟至 2027 年",
-    "summary": "A key New Mexico natural gas pipeline project that would supply power-generation systems for a planned Oracle Corp. data center project has been delayed and is now expected to enter service next year.",
+    "title": "Gas Pipeline for Proposed Oracle Data Center Delayed to 2027",
+    "title_cn": "拟议的 Oracle 数据中心天然气管道推迟至 2027 年",
+    "summary": "A key New Mexico natural gas pipeline project that would supply power-generation systems for a planned Oracle Corp. data center has been delayed by nearly six months.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/new-mexico-gas-pipeline-for-oracle-data-center-delayed-to-2027",
     "published": "Fri, 14 Aug 2026 18:13:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.856256"
+    "fetched_at": "2026-08-14T19:38:05.620012"
   },
   {
     "id": "c065f714008b",
@@ -417,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/open-interest-8-14-2026-video",
     "published": "Fri, 14 Aug 2026 18:04:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:57.991791"
+    "fetched_at": "2026-08-14T19:38:05.731637"
   },
   {
     "id": "31bcfd02fd37",
@@ -427,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/bloomberg-tech-8-14-2026-video",
     "published": "Fri, 14 Aug 2026 17:55:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.082255"
+    "fetched_at": "2026-08-14T19:38:05.831026"
   },
   {
     "id": "8d671b0e17f8",
@@ -437,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/beyond-chatbots-the-next-wave-of-ai-video",
     "published": "Fri, 14 Aug 2026 17:52:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.217826"
+    "fetched_at": "2026-08-14T19:38:05.955947"
   },
   {
     "id": "29561a96df5a",
@@ -447,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/openai-on-track-to-double-revenue-ahead-of-ipo-video",
     "published": "Fri, 14 Aug 2026 17:48:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.380822"
+    "fetched_at": "2026-08-14T19:38:06.078800"
   },
   {
     "id": "42c960247f77",
@@ -457,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/-monkey-island-creator-finds-wealthy-investor-for-thimbleweed-park-2",
     "published": "Fri, 14 Aug 2026 16:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.497682"
+    "fetched_at": "2026-08-14T19:38:06.233182"
   },
   {
     "id": "bb2a473b2b58",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-boom-reshapes-commodity-markets-video",
     "published": "Fri, 14 Aug 2026 15:40:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.629877"
+    "fetched_at": "2026-08-14T19:38:06.343817"
   },
   {
     "id": "7f2ad15adcfa",
@@ -477,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-companies-work-for-better-data-not-better-models-video",
     "published": "Fri, 14 Aug 2026 15:16:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.752786"
+    "fetched_at": "2026-08-14T19:38:06.461946"
   },
   {
     "id": "2c612f2ad7f4",
@@ -487,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-fall-most-since-may-2025-video",
     "published": "Fri, 14 Aug 2026 15:00:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.856621"
+    "fetched_at": "2026-08-14T19:38:06.609447"
   },
   {
     "id": "c306814c60c3",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/kushner-s-thrive-capital-invests-215-million-in-amazon",
     "published": "Fri, 14 Aug 2026 14:25:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:58.956233"
+    "fetched_at": "2026-08-14T19:38:06.725247"
   },
   {
     "id": "a185824b4128",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/uk-starts-process-to-water-down-ev-mandate-in-boon-for-carmakers",
     "published": "Fri, 14 Aug 2026 13:29:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.077442"
+    "fetched_at": "2026-08-14T19:38:06.856678"
   },
   {
     "id": "a696ef413c9e",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/french-top-court-blocks-macron-social-media-ban-for-young-teens",
     "published": "Fri, 14 Aug 2026 13:01:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.181805"
+    "fetched_at": "2026-08-14T19:38:06.983713"
   },
   {
     "id": "f384a2931775",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/picky-investors-push-back-on-high-grade-prices-after-debt-deluge",
     "published": "Fri, 14 Aug 2026 14:09:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.301715"
+    "fetched_at": "2026-08-14T19:38:07.090447"
   },
   {
     "id": "926598b18f0f",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-on-ai-s-threat-to-human-creativity-video",
     "published": "Fri, 14 Aug 2026 14:06:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.410877"
+    "fetched_at": "2026-08-14T19:38:07.206436"
   },
   {
     "id": "e216505aa89b",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/reddit-up-applied-materials-gemini-fall-stock-movers-video",
     "published": "Fri, 14 Aug 2026 13:46:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.546156"
+    "fetched_at": "2026-08-14T19:38:07.325436"
   },
   {
     "id": "b81bbc056acc",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/us-retail-sales-drop-more-than-expected-in-july-video",
     "published": "Fri, 14 Aug 2026 13:39:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.654074"
+    "fetched_at": "2026-08-14T19:38:07.437450"
   },
   {
     "id": "a7d07e661219",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
     "published": "Fri, 14 Aug 2026 12:55:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.773107"
+    "fetched_at": "2026-08-14T19:38:07.559053"
   },
   {
     "id": "4f50bb62ac5f",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/odds-of-a-fed-rate-hike-may-rise-emanuel-says-video",
     "published": "Fri, 14 Aug 2026 12:49:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.870974"
+    "fetched_at": "2026-08-14T19:38:07.677177"
   },
   {
     "id": "9db9edd27fa9",
@@ -587,37 +597,47 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/ai-is-driving-wider-growth-says-deutsche-bank-analyst-video",
     "published": "Fri, 14 Aug 2026 12:24:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:33:59.961454"
+    "fetched_at": "2026-08-14T19:38:07.781385"
   },
   {
-    "id": "a416344b2688",
-    "title": "US Oil Growth Faces Headwinds as Shale Producers Cut Spending",
-    "title_cn": "由于页岩油生产商削减支出，美国石油增长面临阻力",
-    "summary": "Some of the largest US oil companies are dialing back capital spending in the country’s shale basins as they use the windfall from high crude prices to boost shareholder returns and pay down debt rather than accelerate production growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-oil-growth-faces-headwinds-as-shale-producers-cut-spending",
-    "published": "Fri, 14 Aug 2026 12:00:00 GMT",
+    "id": "6b1fca040f26",
+    "title": "Consumer Slows, Inflation Impacts Midterm Voters: Money Roundtable",
+    "title_cn": "消费放缓，通货膨胀影响中期选民：金钱圆桌会议",
+    "summary": "Bloomberg's Lily Meier, Isabelle Lee, and Joe Mathieu joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss voter turnout in the midterm elections amid the affordability crisis, US retail sales falling in July by the most in more than a year, and how TikTok influencers are giving financial advice. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/consumer-slows-inflation-impacts-voters-roundtable-video",
+    "published": "Fri, 14 Aug 2026 19:16:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:00.082847"
+    "fetched_at": "2026-08-14T19:38:08.161105"
   },
   {
-    "id": "0fd7c22afe4b",
-    "title": "Major US Defense Firms Race to Make Cheaper Missiles",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Major defense contractors are trying to produce cheaper missiles more quickly, as the Iran war exposes stressed inventories of crucial Patriot interceptors and smaller firms offer more affordable options.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/major-us-defense-firms-race-to-make-cheaper-missiles",
-    "published": "Fri, 14 Aug 2026 18:15:29 GMT",
+    "id": "617f6c5568b0",
+    "title": "Trump’s Economy Pitch Falls Flat With Voters Ahead of Midterms",
+    "title_cn": "特朗普的经济宣传在中期选举前与选民失之交臂",
+    "summary": "For most of his second term, President Donald Trump has been arguing that the “golden age” he promised for America’s economy is already here. There’s hardly been much evidence that voters agreed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/trump-s-economy-pitch-falls-flat-with-voters-ahead-of-midterms",
+    "published": "Fri, 14 Aug 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:00.318921"
+    "fetched_at": "2026-08-14T19:38:08.279161"
   },
   {
-    "id": "b8f5660aec4c",
-    "title": "Presión económica de Trump afecta a población de Irán",
-    "title_cn": "特朗普的经济压力影响伊朗民众",
-    "summary": "<p>Los habitantes en el Régimen Islámico deben recurrir a los pagos en cuotas y al crédito para los productos de primera necesidad.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/presion-economica-de-trump-afecta-a-poblacion-de-iran",
-    "published": "Fri, 14 Aug 2026 18:09:29 GMT",
+    "id": "b7aa4aaad78b",
+    "title": "Trump Dismisses Concerns Over Conditions on USS Lincoln Carrier",
+    "title_cn": "特朗普驳斥了对林肯号航空母舰状况的担忧",
+    "summary": "President Donald Trump downplayed concerns over conditions for sailors aboard the USS Abraham Lincoln, amid an uproar from service members’ families as its deployment to the Middle East approaches nine months.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/trump-dismisses-concerns-over-conditions-on-uss-lincoln-carrier",
+    "published": "Fri, 14 Aug 2026 19:11:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.110095"
+    "fetched_at": "2026-08-14T19:38:08.409486"
+  },
+  {
+    "id": "d5a4de885779",
+    "title": "Trump’s 100% Tariff on Drones Deepens US-China Tech Decoupling",
+    "title_cn": "特朗普对无人机征收100%关税加深中美科技脱钩",
+    "summary": "The Trump administration is imposing tariffs of as much as 100% on imported drones and their components, escalating efforts to reduce US reliance on foreign suppliers and potentially accelerating a decoupling of drone supply chains with China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china",
+    "published": "Thu, 13 Aug 2026 21:35:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:08.548194"
   },
   {
     "id": "e4423aad441b",
@@ -627,7 +647,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/trump-asks-supreme-court-to-let-ballroom-construction-continue",
     "published": "Fri, 14 Aug 2026 13:14:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.196026"
+    "fetched_at": "2026-08-14T19:38:08.654416"
+  },
+  {
+    "id": "09daba3de33b",
+    "title": "Colombia Earthquake: President Deepens Push to Empower Remote Regions",
+    "title_cn": "哥伦比亚地震：总统深化推动偏远地区赋权",
+    "summary": "Yeiner Mena had only recently finished building a new home with his wife in the remote Colombian city of Quibdo when the strongest earthquake in half a century reduced it to rubble.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/colombia-earthquake-president-deepens-push-to-empower-remote-regions",
+    "published": "Fri, 14 Aug 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:08.767980"
+  },
+  {
+    "id": "0fd7c22afe4b",
+    "title": "Major US Defense Firms Race to Make Cheaper Missiles",
+    "title_cn": "美国主要国防公司竞相制造更便宜的导弹",
+    "summary": "Major defense contractors are trying to produce cheaper missiles more quickly, as the Iran war exposes stressed inventories of crucial Patriot interceptors and smaller firms offer more affordable options.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/major-us-defense-firms-race-to-make-cheaper-missiles",
+    "published": "Fri, 14 Aug 2026 18:15:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:08.911105"
+  },
+  {
+    "id": "b8f5660aec4c",
+    "title": "Presión económica de Trump afecta a población de Irán",
+    "title_cn": "特朗普的经济压力影响伊朗民众",
+    "summary": "<p>Los habitantes en el Régimen Islámico deben recurrir a los pagos en cuotas y al crédito para los productos de primera necesidad.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/presion-economica-de-trump-afecta-a-poblacion-de-iran",
+    "published": "Fri, 14 Aug 2026 18:09:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:09.039326"
   },
   {
     "id": "6d01fe17fcd1",
@@ -637,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/senior-white-house-national-security-aide-andy-baker-to-exit",
     "published": "Fri, 14 Aug 2026 15:25:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.311541"
+    "fetched_at": "2026-08-14T19:38:09.174788"
   },
   {
     "id": "65827b24b830",
@@ -647,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/doj-cftc-investigating-iron-ore-trader-radiant-world-s-deals",
     "published": "Fri, 14 Aug 2026 16:59:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.406237"
+    "fetched_at": "2026-08-14T19:38:09.356909"
   },
   {
     "id": "b5e8c76d11ee",
@@ -657,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-military-option-for-cuba-fades-as-trump-focuses-on-sanctions",
     "published": "Fri, 14 Aug 2026 16:47:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.507691"
+    "fetched_at": "2026-08-14T19:38:09.481842"
   },
   {
     "id": "6476f1dcbc94",
@@ -667,7 +717,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/amlo-s-son-says-us-revoked-his-visa-putting-sheinbaum-in-bind",
     "published": "Fri, 14 Aug 2026 13:54:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.607206"
+    "fetched_at": "2026-08-14T19:38:09.753239"
+  },
+  {
+    "id": "e13a0f65162e",
+    "title": "Minnesota Sets Record Nominating Women for Governor and Senator",
+    "title_cn": "明尼苏达州提名女性州长和参议员创下纪录",
+    "summary": "Minnesota voters this week made history for women in politics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/minnesota-sets-record-nominating-women-for-governor-and-senator",
+    "published": "Fri, 14 Aug 2026 16:35:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T19:38:09.889417"
   },
   {
     "id": "3d372abac64c",
@@ -677,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/zambia-resumes-vote-count-after-security-issues-addressed",
     "published": "Fri, 14 Aug 2026 16:12:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.714837"
+    "fetched_at": "2026-08-14T19:38:10.000048"
   },
   {
     "id": "6332ff5c9901",
@@ -687,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/mangione-pleads-guilty-in-us-case-over-ceo-killing-video",
     "published": "Fri, 14 Aug 2026 16:07:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.836987"
+    "fetched_at": "2026-08-14T19:38:10.114905"
   },
   {
     "id": "d95622df26d7",
@@ -697,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/nigeria-orders-asset-freeze-on-nine-terror-financing-suspects",
     "published": "Fri, 14 Aug 2026 16:05:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:01.949310"
+    "fetched_at": "2026-08-14T19:38:10.260418"
   },
   {
     "id": "341d46be808c",
@@ -707,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/sec-prepares-to-ease-rule-on-wall-street-political-donations",
     "published": "Fri, 14 Aug 2026 16:02:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.051373"
+    "fetched_at": "2026-08-14T19:38:10.359923"
   },
   {
     "id": "d7552ffae940",
@@ -717,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/flock-ceo-surprised-by-police-abuse-of-its-technology-video",
     "published": "Fri, 14 Aug 2026 15:46:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.147240"
+    "fetched_at": "2026-08-14T19:38:10.485508"
   },
   {
     "id": "2f2590b25387",
@@ -727,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/madagascar-oil-import-dispute-eases-as-tanker-gives-way-at-port",
     "published": "Fri, 14 Aug 2026 08:44:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.302740"
+    "fetched_at": "2026-08-14T19:38:10.608533"
   },
   {
     "id": "c24eab830b82",
@@ -737,66 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/dutch-leader-urges-farmers-to-stop-highway-protests-after-deaths",
     "published": "Fri, 14 Aug 2026 13:39:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.404302"
-  },
-  {
-    "id": "164f21681eb0",
-    "title": "Joe Rogan Criticizes Trump Media Plan to Sell Early Access to Social Posts",
-    "title_cn": "乔·罗根批评特朗普媒体出售社交帖子抢先体验的计划",
-    "summary": "The plan by President Donald Trump’s media company to sell early access to his market-moving social media posts was a shock to one of his most influential supporters: podcaster Joe Rogan.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/joe-rogan-pans-crazy-trump-plan-to-sell-access-to-social-posts",
-    "published": "Fri, 14 Aug 2026 13:35:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.581371"
-  },
-  {
-    "id": "ca5f8c779ee2",
-    "title": "US Readies Unprecedented ‘Economic Isolation’ Plan for Iran",
-    "title_cn": "美国准备对伊朗实施前所未有的“经济孤立”计划",
-    "summary": "The US will soon announce unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation after almost six months of war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
-    "published": "Fri, 14 Aug 2026 02:50:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.677670"
-  },
-  {
-    "id": "594a11727d33",
-    "title": "Nigel Farage Sees off Satirical Challenger in UK Election",
-    "title_cn": "奈杰尔·法拉奇在英国大选中击败讽刺挑战者",
-    "summary": "Nigel Farage saw off the challenge from Count Binface to secure a return to Parliament.\n\nLizzy Burden explains why the Reform UK leader's problems haven't gone away. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/farage-sees-off-satirical-challenger-in-uk-election-video",
-    "published": "Fri, 14 Aug 2026 13:20:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.782031"
-  },
-  {
-    "id": "8a287ac99edb",
-    "title": "US Targets Iran with New Sanctions and 'Economic Fury'",
-    "title_cn": "美国针对伊朗实施新制裁和“经济愤怒”",
-    "summary": "The US has promised a new round of economic sanctions in order to bring Iran back to the negotiating table after months of war. But the Islamic republic has faced many waves of sanctions for decades and it's unclear what effect a new period of \"economic fury\" will have, as Bloomberg's Tyler Kendall reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/us-targets-iran-with-new-sanctions-and-economic-fury",
-    "published": "Fri, 14 Aug 2026 12:56:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.870520"
-  },
-  {
-    "id": "95ac0ca4beee",
-    "title": "Farage’s Win Over Binface Is One Election He Wants to Forget",
-    "title_cn": "法拉奇战胜宾法斯是他想忘记的一场选举",
-    "summary": "An election that pitted Nigel Farage against a man dressed as a bin, and turned the English resort town of Clacton into a seaside media circus, ended on Friday morning with a fizzle rather than a bang as the victorious Reform UK leader ducked out of public appearances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/farage-s-win-over-binface-is-one-election-he-wants-to-forget",
-    "published": "Fri, 14 Aug 2026 12:20:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:02.999116"
-  },
-  {
-    "id": "ec924cb05ec8",
-    "title": "Indonesia’s Prabowo to Widen Corruption Fight, Narrow Deficit",
-    "title_cn": "印度尼西亚总理普拉博沃将扩大反腐败斗争，缩小赤字",
-    "summary": "Indonesia’s President Prabowo Subianto said he plans to narrow the budget deficit and root out corruption while still pursuing projects to support the most vulnerable citizens, doubling down on his paternalistic style of leadership and vision for the country of nearly 300 million people.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/prabowo-pledges-lower-budget-deficit-strong-growth-in-2027",
-    "published": "Fri, 14 Aug 2026 08:34:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T18:34:03.127820"
+    "fetched_at": "2026-08-14T19:38:10.746238"
   }
 ]
