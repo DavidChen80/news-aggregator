@@ -1,5 +1,55 @@
 [
   {
+    "id": "96053de67a42",
+    "title": "Andy Burnham Eyes Cutting Business Rates for Small Companies",
+    "title_cn": "安迪·伯纳姆 (Andy Burnham) 计划降低小公司的业务利率",
+    "summary": "Burnham eyes business rates; football club takeovers",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/andy-burnham-eyes-cutting-business-rates-for-small-companies",
+    "published": "Fri, 14 Aug 2026 07:18:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:36.761259"
+  },
+  {
+    "id": "7f0d8c8180b5",
+    "title": "Farage Beats Binface, US Pivots to 'Economic Isolation' of Iran",
+    "title_cn": "Farage击败Binface，美国转向“经济孤立”伊朗",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/farage-beats-binface-us-pivots-to-economic-isolation-of-iran",
+    "published": "Fri, 14 Aug 2026 06:37:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:37.128823"
+  },
+  {
+    "id": "fff081915d98",
+    "title": "Stock Movers: JD.com, TSMC, Asics (Podcast)",
+    "title_cn": "库存推动者：京东、台积电、Asics（播客）",
+    "summary": "Source: Bloomberg, 4:24",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/stock-movers-jd-com-tsmc-asics-podcast",
+    "published": "Fri, 14 Aug 2026 06:24:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:37.756637"
+  },
+  {
+    "id": "1f7ab07afd80",
+    "title": "Bloomberg Daybreak Europe: Farage Beats Binface (Podcast)",
+    "title_cn": "彭博黎明欧洲：Farage 击败 Binface（播客）",
+    "summary": "Source: Bloomberg, 19:51",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-daybreak-europe-farage-beats-binface-podcast",
+    "published": "Fri, 14 Aug 2026 06:02:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:38.281919"
+  },
+  {
+    "id": "90711b054ffc",
+    "title": "OpenAI Revenue Run Rate Tops $40 Billion, Doubling From 2025",
+    "title_cn": "OpenAI 收入运行率突破 400 亿美元，自 2025 年起翻一番",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/openai-revenue-run-rate-tops-40-billion-doubling-from-2025",
+    "published": "Fri, 14 Aug 2026 05:58:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:38.385115"
+  },
+  {
     "id": "a05db742d74f",
     "title": "Farage Wins By-Election, Costliest Treasury Sale Since 2001",
     "title_cn": "法拉奇赢得补选，这是自 2001 年以来最昂贵的国债出售",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/farage-wins-by-election-costliest-treasury-sale-since-2001",
     "published": "Fri, 14 Aug 2026 05:52:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:27.758481"
+    "fetched_at": "2026-08-14T07:43:38.799906"
   },
   {
     "id": "76a183a01bda",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/thousands-stranded-in-tokyo-s-narita-airport-on-record-rain-deluge",
     "published": "Fri, 14 Aug 2026 01:06:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:27.843776"
+    "fetched_at": "2026-08-14T07:43:38.921667"
   },
   {
     "id": "5b01f35b0982",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/china-s-rare-earth-dominance-puts-japan-s-forgotten-island-in-spotlight",
     "published": "Fri, 14 Aug 2026 05:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:27.960469"
+    "fetched_at": "2026-08-14T07:43:39.220619"
   },
   {
     "id": "ff67b7a1cbda",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/europe-wants-you-to-learn-to-love-the-stock-market",
     "published": "Fri, 14 Aug 2026 04:30:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.045728"
+    "fetched_at": "2026-08-14T07:43:39.337674"
   },
   {
     "id": "99a279705a6a",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-14/china-s-tourist-wave-is-soft-power-win-not-an-economic-one",
     "published": "Fri, 14 Aug 2026 04:12:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.150113"
+    "fetched_at": "2026-08-14T07:43:39.424893"
   },
   {
     "id": "07de23b376ba",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-14/drones-target-weather-blind-spot-crucial-for-army-and-traders",
     "published": "Fri, 14 Aug 2026 04:00:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.273604"
+    "fetched_at": "2026-08-14T07:43:39.521737"
   },
   {
     "id": "d346611da5d3",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/s-p-hits-all-time-high-openai-revenue-run-rate-tops-40b-more",
     "published": "Fri, 14 Aug 2026 03:09:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.405206"
+    "fetched_at": "2026-08-14T07:43:39.632925"
   },
   {
     "id": "eade0a7fd035",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/s-p-notches-record-after-ppi-openai-tops-40b-run-rate-more",
     "published": "Fri, 14 Aug 2026 02:31:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.497294"
+    "fetched_at": "2026-08-14T07:43:39.754299"
   },
   {
     "id": "41074f169460",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/bloomberg-daybreak-asia-stocks-rise-after-us-ppi-podcast",
     "published": "Fri, 14 Aug 2026 02:11:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.592742"
+    "fetched_at": "2026-08-14T07:43:39.870636"
   },
   {
     "id": "8daad01dddc0",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/markets-rally-after-us-ppi-openai-on-track-to-double-revenue",
     "published": "Fri, 14 Aug 2026 01:57:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.723103"
+    "fetched_at": "2026-08-14T07:43:39.981171"
   },
   {
     "id": "c686fa32fdb7",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-14/india-s-modi-urges-farmers-to-cut-fertilizer-use-as-subsidy-costs-surge",
     "published": "Fri, 14 Aug 2026 01:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.840362"
+    "fetched_at": "2026-08-14T07:43:40.083838"
   },
   {
     "id": "ee69f4474bea",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/s-p-notches-new-all-time-high-openai-revenue-run-rate-tops-40b",
     "published": "Fri, 14 Aug 2026 00:57:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:28.923354"
+    "fetched_at": "2026-08-14T07:43:40.199615"
   },
   {
     "id": "7cc1f049451d",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-14/everybody-s-business-robots-have-stolen-your-summer-podcast",
     "published": "Fri, 14 Aug 2026 00:39:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.018243"
+    "fetched_at": "2026-08-14T07:43:40.300618"
   },
   {
     "id": "4d7166f45f44",
@@ -137,17 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-13/s-p-500-hits-all-time-high-openai-s-revenue-run-rate-tops-40b",
     "published": "Thu, 13 Aug 2026 23:54:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.099202"
-  },
-  {
-    "id": "20f53d793bf8",
-    "title": "Court Lets Trump Halt Tariff Exemption for Low-Cost Goods",
-    "title_cn": "法院允许特朗普停止对低成本商品的关税豁免",
-    "summary": "The Trump administration can continue to collect tariffs on low-dollar imports after a US trade court rejected a challenge to the president’s policies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/us-court-says-trump-can-halt-tariff-exemption-for-low-cost-goods",
-    "published": "Thu, 13 Aug 2026 19:10:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.189869"
+    "fetched_at": "2026-08-14T07:43:40.397594"
   },
   {
     "id": "0cc0f683f91c",
@@ -157,77 +197,117 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-13/bloomberg-law-mangione-expected-plea-la-lakers-sale-podcast",
     "published": "Thu, 13 Aug 2026 23:21:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.348427"
+    "fetched_at": "2026-08-14T07:43:40.512942"
   },
   {
-    "id": "0f3045e382f4",
-    "title": "Third Safety Incident at Sydney Airport Triggers Investigation",
-    "title_cn": "悉尼机场第三起安全事件引发调查",
-    "summary": "Air-safety authorities have started an investigation after a Virgin Australia Holdings Ltd. passenger jet was forced to abort its takeoff at Sydney Airport when a Qantas Airways Ltd. aircraft crossed the runway. It was the third safety incident at the airport in two weeks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/third-safety-incident-at-sydney-airport-triggers-investigation",
-    "published": "Thu, 13 Aug 2026 23:18:39 GMT",
+    "id": "92ad88621b77",
+    "title": "Summer Markets Make Stocks Happy: 3-Minutes MLIV",
+    "title_cn": "夏季市场让股市欢欣鼓舞：3 分钟 MLIV",
+    "summary": "Guy Johnson, Tom Mackenzie and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/summer-markets-make-stocks-happy-3-minutes-mliv-video",
+    "published": "Fri, 14 Aug 2026 07:15:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.439453"
+    "fetched_at": "2026-08-14T07:43:41.117171"
   },
   {
-    "id": "67c3e3baf6e1",
-    "title": "Bloomberg Talks: Daron Acemoglu (Podcast)",
-    "title_cn": "彭博社谈话：达伦·阿西莫格鲁（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-13/bloomberg-talks-daron-acemoglu-podcast",
-    "published": "Thu, 13 Aug 2026 22:56:55 GMT",
+    "id": "a6899cf7b95d",
+    "title": "A Popular UK Bond Trade Suggests Markets Trust Burnham for Now",
+    "title_cn": "受欢迎的英国债券交易表明市场目前信任伯纳姆",
+    "summary": "A go-to trade in the UK gilt markets suggests investors are confident Prime Minister Andy Burnham will stick to his pledge to keep government borrowing in check.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/a-popular-uk-bond-trade-suggests-markets-trust-burnham-for-now",
+    "published": "Fri, 14 Aug 2026 07:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.529836"
-  },
-  {
-    "id": "8182d80fd3c3",
-    "title": "Coal Billionaire Profile, Penny Wong on One Nation, Bird Flu Podcast",
-    "title_cn": "煤炭亿万富翁简介、Penny Wong on One Nation、禽流感播客",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/coal-billionaire-profile-penny-wong-on-one-nation-bird-flu-podcast",
-    "published": "Thu, 13 Aug 2026 22:55:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.618331"
-  },
-  {
-    "id": "76e4c4057c43",
-    "title": "S&P Sets New Record, White House Imposes New Drone Tariffs",
-    "title_cn": "标准普尔创下新纪录，白宫征收新的无人机关税",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-13/s-p-sets-new-record-white-house-imposes-new-drone-tariffs",
-    "published": "Thu, 13 Aug 2026 22:53:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:29.714114"
-  },
-  {
-    "id": "5a02cbabca2a",
-    "title": "FTSE 100 Live: Stock Futures Rise as Stocks Globally Rally",
-    "title_cn": "富时 100 实时指数：随着全球股市上涨，股票期货上涨",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-08-14/ftse-100-live-pound-farage-oil-prices-trump-iran-hormuz-ai-stocks-tech-rally-what-s-moving-uk-markets-right-now-markets-today-mssixn2h",
-    "published": "Fri, 14 Aug 2026 05:46:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.043650"
-  },
-  {
-    "id": "29b189e27d62",
-    "title": "Insight with Haslinda Amin 8/14/2026",
-    "title_cn": "哈斯琳达·阿明的见解 8/14/2026",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/insight-with-haslinda-amin-8-14-2026-video",
-    "published": "Fri, 14 Aug 2026 05:32:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.516962"
+    "fetched_at": "2026-08-14T07:43:41.212880"
   },
   {
     "id": "a58ff28cea93",
     "title": "Latest Oil Market News and Analysis for Aug. 14",
     "title_cn": "8 月 14 日最新石油市场新闻和分析",
-    "summary": "Oil held a decline as tankers laden with crude continued to exit the Persian Gulf, despite persistent threats and limited progress on a deal between Iran and Oman to reopen the Strait of Hormuz.",
+    "summary": "Oil rose after the US threatened to impose multiple economic measures against Iran in a bid to force its hand to reopen the Strait of Hormuz.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
     "published": "Thu, 13 Aug 2026 22:04:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.631996"
+    "fetched_at": "2026-08-14T07:43:41.309567"
+  },
+  {
+    "id": "3a6cbabfff66",
+    "title": "Yen Edges Higher Against Dollar as Traders Weigh BOJ’s Next Move",
+    "title_cn": "交易员权衡日本央行下一步行动，日元兑美元小幅走高",
+    "summary": "The yen strengthened amid growing speculation the Bank of Japan may raise interest rates in the coming months.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/yen-edges-higher-against-dollar-as-traders-weigh-boj-s-next-move",
+    "published": "Fri, 14 Aug 2026 06:45:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.418870"
+  },
+  {
+    "id": "9f4de60819f5",
+    "title": "Quest Global Said to Pick Banks for $1 Billion India IPO",
+    "title_cn": "Quest Global 据称将选择银行进行 10 亿美元的印度 IPO",
+    "summary": "Carlyle Group Inc.-backed Quest Global Services Pte has hired banks for an initial public offering in Mumbai that could raise as much as $1 billion, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/quest-global-said-to-pick-banks-for-1-billion-india-ipo",
+    "published": "Fri, 14 Aug 2026 06:45:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.506000"
+  },
+  {
+    "id": "1e8ec57391bb",
+    "title": "Russia’s Biggest Baltic Port Caught Fire After Drone Attack",
+    "title_cn": "俄罗斯最大的波罗的海港口在无人机袭击后起火",
+    "summary": "An overnight drone strike sparked a fire at Russia’s Baltic port of Ust-Luga, a key gateway for energy and commodity exports, as Ukraine intensifies its campaign against the country’s port infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/russia-s-biggest-baltic-port-caught-fire-after-drone-attack",
+    "published": "Fri, 14 Aug 2026 06:43:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.622007"
+  },
+  {
+    "id": "4a89a8733597",
+    "title": "Gold Retreats Toward $4,300 as Traders Weigh Fed Rate-Hike Path",
+    "title_cn": "交易员权衡美联储加息路径，金价回落至 4,300 美元",
+    "summary": "Gold fell for a second day, as profit-taking stalled a recovery spurred by tame US inflation data and reduced expectations for an interest-rate hike.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-13/gold-steadies-as-traders-weigh-fed-rate-path-and-mideast-tension",
+    "published": "Thu, 13 Aug 2026 23:24:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.706627"
+  },
+  {
+    "id": "83f007d6b135",
+    "title": "Carry Traders Are Exploiting Intervention to Rebuild Yen Shorts",
+    "title_cn": "套利交易者正在利用干预措施重建日元空头",
+    "summary": "Every intervention to prop up the yen is also creating a fresh opportunity to sell it.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/carry-traders-are-exploiting-intervention-to-rebuild-yen-shorts",
+    "published": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.818923"
+  },
+  {
+    "id": "b060ba4083ed",
+    "title": "Horizons Middle East & Africa 8/14/2026",
+    "title_cn": "中东和非洲地平线 8/14/2026",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/horizons-middle-east-africa-8-14-2026-video",
+    "published": "Fri, 14 Aug 2026 06:28:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:41.928798"
+  },
+  {
+    "id": "3f341961d397",
+    "title": "Risks Swirl Amid Rising US Bond Yields: Market Snapshot",
+    "title_cn": "美国债券收益率上升，风险漩涡：市场概况",
+    "summary": "An auction of 10-year and 30-year US treasuries lured decent appetite from investors demanding more compensation to finance the US government. The sales followed a subdued core inflation print, easing pressure on the Federal Reserve to raise interest rates next month. But with soaring government spending, a swelling budget deficit and an investment boom driven by AI demand showing no sign of slowing, investors are questioning whether elevated yields can be sustained. The Opening Trade spoke to guests about the outlook for the US bond market.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/risks-swirl-amid-rising-us-bond-yields-market-snapshot-video",
+    "published": "Fri, 14 Aug 2026 06:15:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.029904"
+  },
+  {
+    "id": "52875ca788e6",
+    "title": "Ferrovial to End Amsterdam Listing as Trading Shifts to US",
+    "title_cn": "随着交易转向美国，法罗维亚将结束阿姆斯特丹上市",
+    "summary": "Ferrovial NV will stop trading in Amsterdam after the infrastructure group gained more volume in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/ferrovial-to-end-amsterdam-listing-as-trading-shifts-to-us",
+    "published": "Fri, 14 Aug 2026 06:13:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.136404"
   },
   {
     "id": "ce6a267b18d4",
@@ -237,7 +317,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
     "published": "Thu, 13 Aug 2026 22:10:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.736396"
+    "fetched_at": "2026-08-14T07:43:42.230559"
+  },
+  {
+    "id": "fbae61942a76",
+    "title": "JD Slumps After First Decline in Over A Decade | The China Show | 8/14/2026",
+    "title_cn": "京东在十多年来首次下跌后暴跌|中国展 | 2026 年 8 月 14 日",
+    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/the-china-show-8-14-2026-video",
+    "published": "Fri, 14 Aug 2026 05:57:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.339222"
+  },
+  {
+    "id": "5a02cbabca2a",
+    "title": "FTSE 100 Live: Bonds Under Pressure as Oil Rises Again",
+    "title_cn": "富时 100 实时指数：随着油价再次上涨，债券面临压力",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-08-14/ftse-100-live-pound-farage-oil-prices-trump-iran-hormuz-ai-stocks-tech-rally-what-s-moving-uk-markets-right-now-markets-today-mssixn2h",
+    "published": "Fri, 14 Aug 2026 05:46:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.426802"
+  },
+  {
+    "id": "752319c7a4f0",
+    "title": "Tankers Are Going Dark for Longer to Get Oil Out of Middle East",
+    "title_cn": "油轮将关闭更长时间以将石油运出中东",
+    "summary": "Supertankers are going dark for longer to get oil through the Strait of Hormuz and the Bab el-Mandeb strait, doubling down on tactics honed in the earlier days of the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/tankers-are-going-dark-for-longer-to-get-oil-out-of-middle-east",
+    "published": "Fri, 14 Aug 2026 05:35:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.546574"
+  },
+  {
+    "id": "29b189e27d62",
+    "title": "Insight with Haslinda Amin 8/14/2026",
+    "title_cn": "哈斯琳达·阿明的见解 8/14/2026",
+    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/insight-with-haslinda-amin-8-14-2026-video",
+    "published": "Fri, 14 Aug 2026 05:32:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.661044"
+  },
+  {
+    "id": "b66dd4d24cb3",
+    "title": "South Africa Taps London to Boost Offshore Adoption of New Benchmark Rate",
+    "title_cn": "南非利用伦敦促进离岸新基准利率的采用",
+    "summary": "South Africa is working with the London Stock Exchange to convert outstanding derivative contracts linked to a soon-to-be-abandoned rand reference rate to the country’s new benchmark.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/south-africa-taps-london-to-boost-offshore-adoption-of-new-benchmark-rate",
+    "published": "Fri, 14 Aug 2026 05:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:42.793219"
   },
   {
     "id": "529b32505a8d",
@@ -247,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/goldman-sachs-on-ai-s-impact-on-jobs-in-india-video",
     "published": "Fri, 14 Aug 2026 05:01:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.852380"
+    "fetched_at": "2026-08-14T07:43:42.899988"
   },
   {
     "id": "44d4899fca89",
@@ -257,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/africa-s-domestic-debt-outshines-em-peers-as-high-yield-chase-intensifies",
     "published": "Fri, 14 Aug 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:30.956500"
+    "fetched_at": "2026-08-14T07:43:42.994944"
   },
   {
     "id": "55fdfde893fe",
@@ -267,147 +397,57 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-10/nyse-president-on-asia-business-ipo-pipeline-video",
     "published": "Mon, 10 Aug 2026 04:30:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.067444"
+    "fetched_at": "2026-08-14T07:43:43.118486"
   },
   {
-    "id": "a4c806a6799b",
-    "title": "PBOC’s First Mid-Month Overnight Reverse Repo Boosts Bonds",
-    "title_cn": "中国人民银行首次月中隔夜逆回购提振债券",
-    "summary": "China’s central bank injected liquidity through overnight reverse repos on Friday, marking its first such operation in the middle of a month in a boost to bond bulls.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/pboc-conducts-mid-month-overnight-reverse-repo-for-first-time",
-    "published": "Fri, 14 Aug 2026 01:32:36 GMT",
+    "id": "3738dd5b6334",
+    "title": "UBS' Fowler Says Parts of Nasdaq Look 'Outright Cheap'",
+    "title_cn": "瑞银的福勒表示纳斯达克的部分股票看起来“非常便宜”",
+    "summary": "Gerry Fowler, chief European equity strategist and head of derivates at UBS, explains why he thinks markets are in an \"unprecedented growth era.\" Speaking on Bloomberg Television, Fowler says the recent bout of de-risking \"appears to now be over,\" and that he expects investors to \"lean back\" into the tech trade as they return from vacation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/ubs-fowler-says-parts-of-nasdaq-look-outright-cheap-video",
+    "published": "Fri, 14 Aug 2026 07:31:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.164302"
+    "fetched_at": "2026-08-14T07:43:43.671611"
   },
   {
-    "id": "d5c8d952c00b",
-    "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran",
-    "title_cn": "美国将对伊朗推出“经济孤立”计划",
-    "summary": "The US will soon announce what it bills as unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation through financial pressure. Bloomberg's Stuart Livingstone-Wallace breaks down what we know about the plans. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-video",
-    "published": "Fri, 14 Aug 2026 04:46:20 GMT",
+    "id": "5fe7f0f13d73",
+    "title": "Japanese Equities Post Best Weekly Gain Since June as Tech Rises",
+    "title_cn": "随着科技股上涨，日本股市录得六月以来最大单周涨幅",
+    "summary": "Japanese stocks posted their best weekly gain in two months after a deceleration in US wholesale inflation eased concerns the Federal Reserve will hike interest rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-stocks-rise-as-us-rate-hike-bets-ease-ai-chip-shares-gain",
+    "published": "Fri, 14 Aug 2026 00:27:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.264113"
+    "fetched_at": "2026-08-14T07:43:43.784671"
   },
   {
-    "id": "bdb8f23ae7d4",
-    "title": "ICICI Joins Indian Banks Chasing Dollar Loans, Swelling Demand",
-    "title_cn": "ICICI 与印度银行一起追逐美元贷款，需求激增",
-    "summary": "India’s ICICI Bank Ltd. has launched a syndicated offshore loan of about $1.45 billion, according to people familiar with the matter, joining a growing number of local banks tapping overseas debt to capitalize on a central bank facility that lowers hedging costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/icici-joins-indian-banks-chasing-dollar-loans-swelling-demand",
-    "published": "Fri, 14 Aug 2026 04:45:58 GMT",
+    "id": "55e37cc6a936",
+    "title": "India Less Exposed to AI Job Risks Than Others, Goldman Says",
+    "title_cn": "高盛表示，印度面临的人工智能就业风险低于其他国家",
+    "summary": "India’s labor force is unlikely to face widespread job losses from artificial intelligence, though some positions in the services sector could be affected, Goldman Sachs Group’s Chief India economist Santanu Sengupta said Friday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-less-exposed-to-ai-job-risks-than-others-goldman-says",
+    "published": "Fri, 14 Aug 2026 06:17:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.351135"
-  },
-  {
-    "id": "f73193834ddf",
-    "title": "OpenAI’s Revenue Run Rate Tops $40B | The Asia Trade 8/14/2026",
-    "title_cn": "OpenAI 的收入运行率突破 400 亿美元 |亚洲贸易 8/14/2026",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/the-asia-trade-8-14-2026-video",
-    "published": "Fri, 14 Aug 2026 04:43:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.446562"
-  },
-  {
-    "id": "c55e606879f7",
-    "title": "EM Assets Buoyed by Easing US Rate Worries, Gains in AI Leaders",
-    "title_cn": "美国利率忧虑缓解，新兴市场资产提振，人工智能领军企业获利",
-    "summary": "Emerging-market stocks and currencies gain as a retreat in a key US inflation measure strengthened hopes that the Federal Reserve may not have to raise interest rates soon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders",
-    "published": "Fri, 14 Aug 2026 04:04:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.530800"
-  },
-  {
-    "id": "90f7da789e6a",
-    "title": "Why a Costly US Bond Sale Is a Warning to Bessent",
-    "title_cn": "为什么昂贵的美国债券发行是一个警告",
-    "summary": "The US government sold 30-year bonds at the highest interest rate in a quarter century, a testament to investors’ demand for greater compensation to finance the nation’s growing deficit. Standard Chartered CIO for North Asia, Raymond Cheng, discusses how long such yields will remain sustainable. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/why-a-costly-us-bond-sale-is-a-warning-to-bessent-video",
-    "published": "Fri, 14 Aug 2026 04:02:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.636069"
-  },
-  {
-    "id": "73f98b0d9096",
-    "title": "Russian Regions Report New Fuel Crunch As Kyiv Hits Refineries",
-    "title_cn": "随着基辅炼油厂受到影响，俄罗斯地区报告出现新的燃料短缺",
-    "summary": "Several regions of Russia are facing fuel shortages again after Ukraine resumed almost daily attacks on oil refineries in the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/russian-regions-report-new-fuel-crunch-as-kyiv-hits-refineries",
-    "published": "Fri, 14 Aug 2026 04:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.728896"
-  },
-  {
-    "id": "bec83343deae",
-    "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet",
-    "title_cn": "中国科技财报重新关注互联网硬件股",
-    "summary": "Chinese tech firms’ early earnings are giving hardware stocks renewed momentum, while internet platforms still struggle to show a full consumer‑demand recovery.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-tech-earnings-renew-focus-on-hardware-stocks-over-internet",
-    "published": "Fri, 14 Aug 2026 03:54:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.817598"
-  },
-  {
-    "id": "85305cb24df1",
-    "title": "Vietnam’s SCIC Plans Broad Divestment as FTSE Upgrade Nears",
-    "title_cn": "随着富时指数升级临近，越南 SCIC 计划大规模撤资",
-    "summary": "Vietnam’s state investment arm plans to exit dozens of companies over the next four years, freeing up capital and potentially boosting the supply of tradable shares as the country prepares for its elevation to emerging-market status.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/vietnam-s-scic-plans-broad-divestment-as-ftse-upgrade-nears",
-    "published": "Fri, 14 Aug 2026 03:42:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:31.909157"
-  },
-  {
-    "id": "3931228a1ed6",
-    "title": "Can Dogs Transform Cancer Screening?",
-    "title_cn": "狗能改变癌症筛查吗？",
-    "summary": "Dogs have been used to sniff out drugs, explosives and even Covid. Could cancer be next? An Indian startup is combining canine noses with AI in an effort to make cancer screening cheaper and more accessible.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/can-dogs-transform-cancer-screening-video",
-    "published": "Fri, 14 Aug 2026 03:33:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.004234"
-  },
-  {
-    "id": "539b1fd294c1",
-    "title": "MTR CEO: Hong Kong Core Business Solid",
-    "title_cn": "港铁行政总裁：香港核心业务稳健",
-    "summary": "Jeny Yeung, CEO at railway operator MTR, says the Hong Kong property market and transport patronage has stabilized. She speaks on \"Bloomberg: The China Show\" after the company posted first-half revenue that beat estimates.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-14/mtr-ceo-hong-kong-core-business-solid-video",
-    "published": "Fri, 14 Aug 2026 03:24:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.094785"
-  },
-  {
-    "id": "aa515cb3fa9d",
-    "title": "Fast Money Bets on November RBA Hike in Fight Against Inflation",
-    "title_cn": "快钱押注澳洲联储11月加息以对抗通胀",
-    "summary": "Speculative investors are increasingly betting the Reserve Bank of Australia will raise interest rates again in November as inflation remains above the central bank’s target.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/fast-money-bets-on-november-rba-hike-in-fight-against-inflation",
-    "published": "Fri, 14 Aug 2026 03:23:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.188639"
-  },
-  {
-    "id": "9683ab5e410b",
-    "title": "India Bar Council Retreats Amid ‘Cockroach’ Protest Threat",
-    "title_cn": "印度律师协会因“蟑螂”抗议威胁而撤退",
-    "summary": "India’s national regulator for lawyers reversed an order barring an entire graduating class at one of the country’s leading law schools from enrolling as advocates, hours after the move triggered backlash and threats of protests.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/india-bar-council-retreats-after-cockroach-protest-threat",
-    "published": "Fri, 14 Aug 2026 00:11:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.296670"
+    "fetched_at": "2026-08-14T07:43:43.886204"
   },
   {
     "id": "7c39f02a1069",
-    "title": "Z.ai Aims to Catch Anthropic, OpenAI in Coding With New AI Model",
-    "title_cn": "Z.ai 旨在通过新的 AI 模型在编码方面赶上 Anthropic、OpenAI",
+    "title": "Z.ai to Rival Anthropic, OpenAI in Coding With New AI Model",
+    "title_cn": "Z.ai 与竞争对手 Anthropic、OpenAI 合作开发新的 AI 模型",
     "summary": "Z.ai Co. is set to upgrade its flagship AI model, adding to a series of Chinese open-weight offerings seeking to outcompete Anthropic PBC and OpenAI.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
     "published": "Fri, 14 Aug 2026 05:00:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.637153"
+    "fetched_at": "2026-08-14T07:43:43.980738"
+  },
+  {
+    "id": "23a322b3de3c",
+    "title": "Nintendo Shares Rise as ‘Pokopia’ Global Sales Top 5 Million",
+    "title_cn": "《Pokopia》全球销量突破 500 万部任天堂股价上涨",
+    "summary": "Nintendo Co. shares surged after global sales of its hit game Pokémon Pokopia topped 5 million units since its March launch, with some analysts saying the stock is back on its upward trajectory.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/nintendo-shares-rise-as-pokopia-global-sales-top-5-million",
+    "published": "Fri, 14 Aug 2026 05:35:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-14T07:43:44.089754"
   },
   {
     "id": "6ad724eaf4df",
@@ -417,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/will-i-am-why-human-creativity-will-survive",
     "published": "Fri, 14 Aug 2026 05:00:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.744927"
+    "fetched_at": "2026-08-14T07:43:44.188205"
   },
   {
     "id": "c60d75d1b8e5",
@@ -427,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/energy-traders-use-drones-to-cash-in-on-better-weather-forecasts",
     "published": "Fri, 14 Aug 2026 04:00:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.859313"
+    "fetched_at": "2026-08-14T07:43:44.300125"
   },
   {
     "id": "bd1310a9e70e",
@@ -437,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/jd-com-profit-beats-estimates-after-food-delivery-fight-calms",
     "published": "Thu, 13 Aug 2026 10:05:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:32.961065"
+    "fetched_at": "2026-08-14T07:43:44.404662"
   },
   {
     "id": "64ae56124a22",
@@ -447,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-s-power-futures-get-boost-as-utilities-hedge-price-risk",
     "published": "Fri, 14 Aug 2026 01:55:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.065092"
+    "fetched_at": "2026-08-14T07:43:44.512487"
   },
   {
     "id": "a8e833ae7c6b",
@@ -457,17 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/lenovo-cfo-on-business-strategy-ai-demand-video",
     "published": "Fri, 14 Aug 2026 03:21:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.169416"
-  },
-  {
-    "id": "5fe7f0f13d73",
-    "title": "Japan Stocks Headed for Best Weekly Rise Since June on AI Gains",
-    "title_cn": "人工智能收益推动日本股市创 6 月以来最大单周涨幅",
-    "summary": "Japanese stocks are headed for their best weekly gain in about two months led by a tech rally after US wholesale inflation decelerated, easing concerns about immediate interest-rate increases by the Federal Reserve.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/japan-stocks-rise-as-us-rate-hike-bets-ease-ai-chip-shares-gain",
-    "published": "Fri, 14 Aug 2026 00:27:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.292303"
+    "fetched_at": "2026-08-14T07:43:44.610018"
   },
   {
     "id": "206e88421d62",
@@ -477,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/alibaba-baidu-kuaishou-address-mounting-ai-costs-as-competition-intensifies",
     "published": "Fri, 14 Aug 2026 01:43:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.380330"
+    "fetched_at": "2026-08-14T07:43:44.712300"
   },
   {
     "id": "42727ec47eb9",
@@ -487,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/indian-startup-leans-on-cancer-sniffing-dogs-and-ai-for-early-detection",
     "published": "Fri, 14 Aug 2026 01:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.474183"
+    "fetched_at": "2026-08-14T07:43:44.830253"
   },
   {
     "id": "38cb727dc1be",
@@ -497,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/thrive-investor-letter-reveals-openai-fueled-growth-stake-sale",
     "published": "Fri, 14 Aug 2026 00:55:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.562509"
+    "fetched_at": "2026-08-14T07:43:44.937672"
   },
   {
     "id": "cf53790a4294",
@@ -507,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/read-joshua-kushner-s-first-formal-thrive-capital-investor-letter",
     "published": "Fri, 14 Aug 2026 00:53:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.644146"
+    "fetched_at": "2026-08-14T07:43:45.028563"
   },
   {
     "id": "46b0531be8b5",
@@ -517,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/hpe-wins-approval-for-doj-settlement-on-14-billion-juniper-deal",
     "published": "Thu, 13 Aug 2026 15:13:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.728374"
+    "fetched_at": "2026-08-14T07:43:45.139374"
   },
   {
     "id": "db618b257fc7",
@@ -527,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-s-csi-300-set-to-lose-appeal-before-adding-cxmt-bi-says",
     "published": "Fri, 14 Aug 2026 00:11:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.843314"
+    "fetched_at": "2026-08-14T07:43:45.249668"
   },
   {
     "id": "eadd6cbb98b4",
@@ -537,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/apple-app-store-commission-rate-proceedings-can-move-forward",
     "published": "Thu, 13 Aug 2026 21:00:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:33.929084"
+    "fetched_at": "2026-08-14T07:43:45.344034"
   },
   {
     "id": "8882cd8a9d4d",
@@ -547,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-13/the-close-8-13-2026-video",
     "published": "Thu, 13 Aug 2026 22:23:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.021690"
+    "fetched_at": "2026-08-14T07:43:45.457242"
   },
   {
     "id": "34c4d877819f",
@@ -557,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-13/vmg-managing-partner-on-consumer-branding-demand-video",
     "published": "Thu, 13 Aug 2026 21:55:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.127087"
+    "fetched_at": "2026-08-14T07:43:45.571365"
   },
   {
     "id": "e77299dadbce",
@@ -567,37 +597,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-13/jab-cio-on-private-markets-outlook-video",
     "published": "Thu, 13 Aug 2026 21:38:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.240889"
+    "fetched_at": "2026-08-14T07:43:45.684906"
   },
   {
-    "id": "ac6d1984e353",
-    "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO",
-    "title_cn": "OpenAI IPO 前收入运行率突破 400 亿美元",
-    "summary": "OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
-    "published": "Thu, 13 Aug 2026 21:36:04 GMT",
+    "id": "4714983c4aa3",
+    "title": "US Debt Costs Climb; Farage Wins UK Special Election | Daybreak Europe 8/14/2026",
+    "title_cn": "美国债务成本攀升；法拉奇赢得英国特别选举 |欧洲黎明 2026 年 8 月 14 日",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nOn today's show, The US government sold 30-year bonds at the highest interest rate in a quarter century, a testament to investors’ demand for greater compensation to finance the nation’s growing deficit.\n\nOpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.\n\nToday's guest: Alexandra Ivanova, Fixed Income Team Fund Manager, Invesco. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/daybreak-europe-8-14-2026-video",
+    "published": "Fri, 14 Aug 2026 07:01:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.344004"
+    "fetched_at": "2026-08-14T07:43:46.228193"
   },
   {
-    "id": "2a02f90be9a5",
-    "title": "Jll: See Less ‘Aspirational’ Retail, More Value-Hunting",
-    "title_cn": "Jll：减少“理想”零售，更多追求价值",
-    "summary": "Naveen Jaggi, President of Retail Advisory Services at JLL, discusses the recent easing of inflation and its impact on retail demand, highlighting a notable rebound in the second quarter. Jaggi points out that malls, after a decade of closures, are seeing renewed interest, particularly among younger consumers embracing 'mall maxing.' He speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/jll-see-less-aspirational-retail-more-value-hunting-video",
-    "published": "Thu, 13 Aug 2026 21:29:46 GMT",
+    "id": "ca5f8c779ee2",
+    "title": "US Readies Unprecedented ‘Economic Isolation’ Plan for Iran",
+    "title_cn": "美国准备对伊朗实施前所未有的“经济孤立”计划",
+    "summary": "The US will soon announce unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation after almost six months of war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
+    "published": "Fri, 14 Aug 2026 02:50:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.433221"
+    "fetched_at": "2026-08-14T07:43:46.349288"
   },
   {
-    "id": "ef3bba30f42e",
-    "title": "Applied Materials Forecast Gets Tepid Reaction After Rally",
-    "title_cn": "应用材料公司的预测在反弹后反应不温不火",
-    "summary": "Applied Materials Inc. delivered an estimate-beating forecast that still got a lukewarm reaction from investors, a sign of the lofty hopes surrounding a company that’s key to the AI boom.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-13/applied-materials-forecast-gets-tepid-reaction-after-stock-rally",
-    "published": "Thu, 13 Aug 2026 20:24:05 GMT",
+    "id": "2ee45f59a8ca",
+    "title": "UK's Farage Defeats Count Binface in Special Election",
+    "title_cn": "英国法拉奇在特别选举中击败宾法斯伯爵",
+    "summary": "Reform UK leader Nigel Farage is returning to Parliament after an election win in the constituency centered on the English resort town of Clacton-on-Sea. Farage got 62.8% of the vote, comfortably defeating his main competitor — the satirical candidate Count Binface, who received a personal-best 26.7%. The governing Labour Party and the opposition Conservatives both boycotted the special election. Bloomberg’s Lucy White has the details. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-14/uk-s-farage-defeats-count-binface-in-special-election-video",
+    "published": "Fri, 14 Aug 2026 06:02:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:34.527493"
+    "fetched_at": "2026-08-14T07:43:46.468590"
   },
   {
     "id": "25607b602abd",
@@ -607,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/farage-retains-seat-in-uk-election-meant-to-counter-ethics-probe",
     "published": "Fri, 14 Aug 2026 05:05:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:35.206690"
+    "fetched_at": "2026-08-14T07:43:46.581719"
   },
   {
     "id": "36224b8763dc",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/marcos-says-energy-exploration-talks-with-china-moving-forward",
     "published": "Fri, 14 Aug 2026 04:30:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:35.299414"
+    "fetched_at": "2026-08-14T07:43:46.710928"
   },
   {
     "id": "fc771431d70b",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-14/uk-s-farage-retains-seat-after-winning-clacton-election-video",
     "published": "Fri, 14 Aug 2026 05:18:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:35.397897"
+    "fetched_at": "2026-08-14T07:43:46.805753"
   },
   {
     "id": "d5a4de885779",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/trump-imposes-100-tariffs-on-certain-drones-countering-china",
     "published": "Thu, 13 Aug 2026 21:35:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:35.589720"
+    "fetched_at": "2026-08-14T07:43:47.003243"
   },
   {
     "id": "44e478acc26a",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/china-calls-new-zealand-a-pawn-after-espionage-accusation",
     "published": "Fri, 14 Aug 2026 04:57:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:35.701773"
+    "fetched_at": "2026-08-14T07:43:47.112039"
   },
   {
     "id": "1cd2b031c3fc",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/australia-foreign-minister-to-say-far-right-party-weakens-nation",
     "published": "Thu, 13 Aug 2026 11:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.068663"
+    "fetched_at": "2026-08-14T07:43:47.219041"
   },
   {
     "id": "f540ccbb098a",
@@ -667,17 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/korean-president-s-support-dips-to-record-low-on-housing-costs",
     "published": "Fri, 14 Aug 2026 02:58:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.165114"
-  },
-  {
-    "id": "ca5f8c779ee2",
-    "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week",
-    "title_cn": "美国将于下周推出针对伊朗的“经济孤立”计划",
-    "summary": "The US will soon announce what it bills as unprecedented economic measures against Iran, Treasury Secretary Scott Bessent said, intensifying the Trump administration’s effort to force Tehran’s capitulation through financial pressure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-14/us-to-roll-out-economic-isolation-plan-for-iran-next-week",
-    "published": "Fri, 14 Aug 2026 02:50:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.270816"
+    "fetched_at": "2026-08-14T07:43:47.356576"
   },
   {
     "id": "5c56f4d0f5da",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/live-blog/2026-08-14/indonesia-state-of-the-nation-and-budget",
     "published": "Fri, 14 Aug 2026 01:59:38 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.599948"
+    "fetched_at": "2026-08-14T07:43:47.453760"
   },
   {
     "id": "64f631d3abcb",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/north-korea-says-new-us-nuclear-strategy-will-trigger-fresh-arms-race",
     "published": "Fri, 14 Aug 2026 01:05:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.717125"
+    "fetched_at": "2026-08-14T07:43:47.560406"
   },
   {
     "id": "e3454006cb32",
@@ -707,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-14/kushner-to-visit-israel-next-week-for-talks-on-gaza-peace-plan",
     "published": "Fri, 14 Aug 2026 01:01:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.819961"
+    "fetched_at": "2026-08-14T07:43:47.664907"
   },
   {
     "id": "7edbb092e72b",
@@ -717,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/california-advances-bill-to-expand-antitrust-enforcement-law",
     "published": "Thu, 13 Aug 2026 21:47:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.915070"
+    "fetched_at": "2026-08-14T07:43:47.775987"
   },
   {
     "id": "24747444f8db",
@@ -727,27 +747,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/kennedy-center-board-votes-to-close-for-two-years-for-renovation",
     "published": "Thu, 13 Aug 2026 17:47:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:36.996004"
+    "fetched_at": "2026-08-14T07:43:47.881027"
   },
   {
     "id": "626798532377",
     "title": "New Carrier To Replace USS Lincoln in Middle East | Balance of Power: Late Edition 08/13/2026",
-    "title_cn": "新航母将在中东取代林肯号航空母舰权力平衡：最新版 08/13/2026",
+    "title_cn": "新航母将取代中东的林肯号航空母舰权力平衡：最新版 08/13/2026",
     "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Former Secretary of Defense Mark Esper, says he agrees with President Trump's strategy for an economic blockade and expects US forces to remain in the region for an extended period. Cait Conley, Democratic Candidate for US House in New York's 17th District, says data centers can be a net positive for communities. Sen. Jack Reed (D-RI) says the Pentagon has failed to adequately communicate with both Republicans and Democrats about operations in Iran. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-13/balance-of-power-late-edition-08-13-2026-video",
     "published": "Thu, 13 Aug 2026 23:38:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.095146"
+    "fetched_at": "2026-08-14T07:43:47.992912"
   },
   {
     "id": "6ced409e86b8",
     "title": "Money Flow Linked to Human Smuggling Plunges in Trump Crackdown",
-    "title_cn": "特朗普镇压期间与人口走私相关的资金流量锐减",
+    "title_cn": "特朗普镇压期间与人口走私有关的资金流量锐减",
     "summary": "Reports of possible transactions for human smuggling through money-transfer businesses and banks fell by over 60% in 2025, according to a US Treasury report.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/money-flow-linked-to-human-smuggling-plunges-in-trump-crackdown",
     "published": "Thu, 13 Aug 2026 23:37:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.177190"
+    "fetched_at": "2026-08-14T07:43:48.093921"
   },
   {
     "id": "47d4ac4707a2",
@@ -757,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-13/colombia-earthquake-aid-from-mexican-search-and-rescue-team-rejected",
     "published": "Thu, 13 Aug 2026 14:50:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.277364"
+    "fetched_at": "2026-08-14T07:43:48.188825"
   },
   {
     "id": "9c52d965fcae",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-12/trump-reverts-to-economic-squeeze-of-entrenched-iranian-regime",
     "published": "Wed, 12 Aug 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.361134"
+    "fetched_at": "2026-08-14T07:43:48.303876"
   },
   {
     "id": "d818db9b955c",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-13/esper-expect-us-to-be-in-region-for-extended-time-video",
     "published": "Thu, 13 Aug 2026 22:49:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.456450"
-  },
-  {
-    "id": "2ff79d549fd9",
-    "title": "Conley: AI Can Be Net Positive for Communities",
-    "title_cn": "康利：人工智能可以为社区带来积极的影响",
-    "summary": "Cait Conley, Democratic Candidate for US House in New York's 17th District, says data centers can be a net positive for communities. Conley notes AI poses serious risks and that companies need to do the right thing as the technology advances. Conley also discusses her race against Rep. Mike Lawler (R-NY) and the controversy surrounding Rep. Max Miller's (R-OH) donation to Lawler's race. She speaks with Joe Mathieu and Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/conley-ai-can-be-net-positive-for-communities-video",
-    "published": "Thu, 13 Aug 2026 22:43:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.546844"
-  },
-  {
-    "id": "7b2f7f38c956",
-    "title": "Reed: No Good Choices at Moment With Iran",
-    "title_cn": "里德：目前与伊朗没有好的选择",
-    "summary": "Sen. Jack Reed (D-RI) says the Pentagon has failed to adequately communicate with both Republicans and Democrats about operations in Iran. Reed says that issues with prolonged deployments and operations are not isolated to USS Abraham Lincoln but as well as other ships and units on the ground. Reed says Senate Armed Services Committee Chairman Roger Wicker shares concerns about the Lincoln and that the issue should come before the committee. He speaks with Joe Mathieu and Kailey Leinz on the late edition of Bloomberg's \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-13/reed-no-good-choices-at-moment-with-iran-video",
-    "published": "Thu, 13 Aug 2026 22:26:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-14T05:57:37.684568"
+    "fetched_at": "2026-08-14T07:43:48.402112"
   }
 ]
