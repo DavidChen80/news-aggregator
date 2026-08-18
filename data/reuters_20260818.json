@@ -1,5 +1,35 @@
 [
   {
+    "id": "761a18a19842",
+    "title": "US-Iran Dimming Peace Hopes, Anthropic $65B Revenue Run Rate",
+    "title_cn": "美伊和平希望黯淡，Anthropic $65B 收入运行率",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-iran-dimming-peace-hopes-anthropic-65b-revenue-run-rate",
+    "published": "Tue, 18 Aug 2026 03:25:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:22.271828"
+  },
+  {
+    "id": "923fceaf5b42",
+    "title": "CSL Soars Most Since 2001 After Eyeing Return to Profit Growth",
+    "title_cn": "CSL 利润恢复增长，股价自 2001 年以来涨幅最大",
+    "summary": "Shares of CSL Ltd. surged as much as 18%, the most since June 2001, in a relief rally as the embattled company managed to marginally beat revenue estimates while flagging that it expects to return to profit growth next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
+    "published": "Mon, 17 Aug 2026 22:44:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:22.874289"
+  },
+  {
+    "id": "db5cb71a4bef",
+    "title": "Trump Rejects Iran Truce Extension, Anthropic Revenue Surge",
+    "title_cn": "特朗普拒绝延长伊朗停战协议，人为收入激增",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-18/trump-rejects-iran-truce-extension-anthropic-revenue-surge",
+    "published": "Tue, 18 Aug 2026 02:59:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:23.852591"
+  },
+  {
     "id": "48e9cde5cad6",
     "title": "Bloomberg Daybreak Asia: Mideast Risk, BHP Profit (Podcast)",
     "title_cn": "彭博黎明亚洲：中东风险，必和必拓利润（播客）",
@@ -7,27 +37,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-daybreak-asia-mideast-risk-bhp-profit-podcast",
     "published": "Tue, 18 Aug 2026 02:46:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:19.696329"
+    "fetched_at": "2026-08-18T03:52:23.981997"
   },
   {
     "id": "f4b538bb287a",
     "title": "US-Iran Peace Prospects Dim, Anthropic $65B Revenue Surge, More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "美伊和平前景黯淡，人为的 $65B 收入激增，更多",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-iran-peace-prospects-dim-anthropic-65b-revenue-surge-more",
     "published": "Tue, 18 Aug 2026 02:00:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:19.845841"
-  },
-  {
-    "id": "923fceaf5b42",
-    "title": "CSL Shares Surge Most Since 2001 as Outlook Reassures Investors",
-    "title_cn": "展望让投资者放心，CSL 股价自 2001 年以来涨幅最大",
-    "summary": "Shares of CSL Ltd. soared as much as 18%, the most since June 2001, after the profit outlook from Australia’s largest healthcare company reassured investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/australia-s-csl-sees-2027-npat-growth-at-5-at-constant-currency",
-    "published": "Mon, 17 Aug 2026 22:44:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:20.670293"
+    "fetched_at": "2026-08-18T03:52:24.408291"
   },
   {
     "id": "454ac9003c1f",
@@ -37,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/mideast-peace-prospects-dim-anthropic-65b-annualized-revenue",
     "published": "Tue, 18 Aug 2026 01:08:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:21.644396"
+    "fetched_at": "2026-08-18T03:52:24.525749"
   },
   {
     "id": "dbbf7e1ae4ba",
@@ -47,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-iran-peace-prospects-dim-anthropic-revenue-surges-more",
     "published": "Tue, 18 Aug 2026 00:06:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:22.900162"
+    "fetched_at": "2026-08-18T03:52:24.660377"
   },
   {
     "id": "8966f7dc8284",
@@ -57,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/brookfield-in-talks-with-reliance-worldwide-bhp-earnings-csl",
     "published": "Mon, 17 Aug 2026 23:29:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:24.165239"
+    "fetched_at": "2026-08-18T03:52:24.793841"
   },
   {
     "id": "340fc9cb90b4",
@@ -67,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/middle-east-peace-prospects-dim-anthropic-run-rate-tops-65b",
     "published": "Mon, 17 Aug 2026 22:59:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:25.526606"
+    "fetched_at": "2026-08-18T03:52:24.921221"
   },
   {
     "id": "22ff8851d5bf",
@@ -77,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/amazon-spends-5-million-against-a-mamdani-approved-nyc-bill",
     "published": "Mon, 17 Aug 2026 22:13:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:25.738388"
+    "fetched_at": "2026-08-18T03:52:25.094206"
   },
   {
     "id": "2c08e595d2b9",
@@ -87,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/big-take-amazon-spends-against-mamdani-approved-bill-podcast",
     "published": "Mon, 17 Aug 2026 22:11:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:25.927461"
+    "fetched_at": "2026-08-18T03:52:25.237089"
   },
   {
     "id": "51f1f1a21a70",
@@ -97,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/trump-rejects-iran-truce-extension-anthropic-65b-run-rate",
     "published": "Mon, 17 Aug 2026 22:05:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.108843"
+    "fetched_at": "2026-08-18T03:52:25.369782"
   },
   {
     "id": "760344e9e903",
@@ -107,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/long-bond-yields-flash-a-new-warning-evening-briefing-americas",
     "published": "Mon, 17 Aug 2026 22:00:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.292636"
+    "fetched_at": "2026-08-18T03:52:25.501160"
   },
   {
     "id": "8cff3543e5f8",
@@ -117,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-talks-derek-lewis-podcast",
     "published": "Mon, 17 Aug 2026 21:41:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.465472"
+    "fetched_at": "2026-08-18T03:52:25.628258"
   },
   {
     "id": "03c8265c2c38",
@@ -127,17 +147,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-talks-kahina-van-dyke-podcast",
     "published": "Mon, 17 Aug 2026 21:39:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.625203"
+    "fetched_at": "2026-08-18T03:52:25.771975"
   },
   {
     "id": "e6945b3f2385",
     "title": "Trump Says He’s in No Hurry to End War With Iran",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "特朗普表示他并不急于结束与伊朗的战争",
     "summary": "Get caught up.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-says-he-s-in-no-hurry-to-end-war-with-iran",
     "published": "Mon, 17 Aug 2026 21:33:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.745927"
+    "fetched_at": "2026-08-18T03:52:25.886767"
   },
   {
     "id": "087efd54e805",
@@ -147,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/linamar-s-hasenfratz-net-worth-hits-1-8-billion-revealing-trump-tariff-limits",
     "published": "Mon, 17 Aug 2026 21:24:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:26.914922"
+    "fetched_at": "2026-08-18T03:52:26.019424"
   },
   {
     "id": "b65416464f89",
@@ -157,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/stock-movers-spacex-jetblue-nike-podcast",
     "published": "Mon, 17 Aug 2026 21:17:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:27.061730"
+    "fetched_at": "2026-08-18T03:52:26.149004"
   },
   {
     "id": "d68c138b3c28",
@@ -167,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-talks-harmeet-dhillon-podcast",
     "published": "Mon, 17 Aug 2026 21:07:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:27.242021"
+    "fetched_at": "2026-08-18T03:52:26.311461"
   },
   {
     "id": "e0c1824080a7",
@@ -177,37 +197,77 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-17/us-iran-peace-dim-anthropic-run-rate-hits-65-billion-more",
     "published": "Mon, 17 Aug 2026 20:58:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:27.408465"
+    "fetched_at": "2026-08-18T03:52:26.441834"
   },
   {
-    "id": "a6352cfe1abe",
-    "title": "Bloomberg Businessweek Daily: Income Stacking (Podcast)",
-    "title_cn": "彭博商业周刊日报：收入叠加（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-income-stacking-podcast",
-    "published": "Mon, 17 Aug 2026 20:50:46 GMT",
+    "id": "0552a8281129",
+    "title": "Hong Kong Exchange Renews CEO Chan’s Contract as IPOs Boom",
+    "title_cn": "随着首次公开募股的蓬勃发展，香港交易所与首席执行官陈先生续签合同",
+    "summary": "Hong Kong Exchanges &amp; Clearing Ltd. has extended Chief Executive Officer Bonnie Chan’s contract for a three-year term from March 2027, as the bourse rides a surge in initial public offerings and strong trading volumes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom",
+    "published": "Mon, 17 Aug 2026 12:45:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:27.586066"
+    "fetched_at": "2026-08-18T03:52:26.806666"
   },
   {
-    "id": "f171f97ccdc8",
-    "title": "Bloomberg Businessweek Daily: US-Iran Peace Dims (Podcast)",
-    "title_cn": "彭博商业周刊日报：美伊和平前景黯淡（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-17/bloomberg-businessweek-daily-us-iran-peace-dims-podcast",
-    "published": "Mon, 17 Aug 2026 20:21:08 GMT",
+    "id": "f6b30fd407e1",
+    "title": "Yardeni Says Not Pushing Panic Button on Bond Vigilantes Yet",
+    "title_cn": "亚德尼表示尚未对债券治安维持者按下恐慌按钮",
+    "summary": "There’s no reason to panic on the US bond market just yet, even as investors are showing growing signs of unease over rising government debt, according to Yardeni Research.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/yardeni-warns-bond-vigilantes-stirring-as-us-yields-near-5",
+    "published": "Tue, 18 Aug 2026 01:55:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:27.786061"
+    "fetched_at": "2026-08-18T03:52:27.716246"
+  },
+  {
+    "id": "525efff426c3",
+    "title": "BHP CEO: China Iron Ore Demand Remains Steady​‌",
+    "title_cn": "必和必拓首席执行官：中国铁矿石需求保持稳定​‌",
+    "summary": "China's iron ore demand remains steady, supported by manufacturing activity, according to BHP CEO Brandon Craig. He also says stronger Indian demand for metallurgical coal should support the market. He spoke with Haidi Stoud-Watts on Insight with Haslinda Amin.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/bhp-ceo-china-iron-ore-demand-remains-steady-video",
+    "published": "Tue, 18 Aug 2026 03:39:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:27.904232"
+  },
+  {
+    "id": "d9bd437c01cb",
+    "title": "Latest Oil Market News and Analysis for Aug. 18",
+    "title_cn": "8 月 18 日最新石油市场新闻和分析",
+    "summary": "Oil gained as prospects for a near-term resolution of the US-Iran war receded, with a fresh vessel attack reported in the Strait of Hormuz.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
+    "published": "Mon, 17 Aug 2026 22:01:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:28.013952"
+  },
+  {
+    "id": "580970ca2b6b",
+    "title": "Gold Steadies Near $4,400 on Reduced Expectations for Rate Hike",
+    "title_cn": "由于加息预期降低，金价稳定在 4,400 美元附近",
+    "summary": "Gold steadied near $4,400 an ounce as reduced prospects for an interest-rate hike by the Federal Reserve weighed on the US dollar, making bullion cheaper for most buyers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
+    "published": "Mon, 17 Aug 2026 23:20:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:28.649392"
+  },
+  {
+    "id": "a1231491c9e7",
+    "title": "Indian Rupee, Bond Bets Retreat as Dollar Swap Window Ends Early",
+    "title_cn": "由于美元互换窗口提前结束，印度卢比和债券押注回落",
+    "summary": "Caught off-guard by India’s decision to close early a special window to draw foreign-currency deposits, traders are now paring bets on gains in the rupee and short-term bonds.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/indian-rupee-bond-bets-retreat-as-dollar-swap-window-ends-early",
+    "published": "Tue, 18 Aug 2026 03:32:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:28.807249"
   },
   {
     "id": "eb0b7dc88a24",
     "title": "Asian Bonds Follow Treasuries Lower, Oil Gains: Markets Wrap",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "亚洲债券跟随美国国债走低，石油上涨：市场结束",
     "summary": "Asian bonds followed Treasuries lower as concerns over government finances mounted, while higher oil prices added to fears that inflation will quicken. Stocks declined.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 17 Aug 2026 22:07:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:28.401880"
+    "fetched_at": "2026-08-18T03:52:28.929887"
   },
   {
     "id": "83ee2d1812b7",
@@ -217,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/prabowo-s-pragmatic-speech-comforts-weary-indonesia-investors",
     "published": "Tue, 18 Aug 2026 01:02:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:29.480645"
+    "fetched_at": "2026-08-18T03:52:29.045917"
   },
   {
     "id": "a43c21190a83",
@@ -227,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out",
     "published": "Tue, 18 Aug 2026 02:43:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:29.640006"
+    "fetched_at": "2026-08-18T03:52:29.175949"
   },
   {
     "id": "aa819d02ac57",
@@ -237,17 +297,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/indian-ipos-shine-bright-even-as-nifty-loses-momentum",
     "published": "Tue, 18 Aug 2026 02:36:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:29.839510"
-  },
-  {
-    "id": "0552a8281129",
-    "title": "Hong Kong Exchange Renews CEO Chan’s Contract as IPOs Boom",
-    "title_cn": "随着首次公开募股的蓬勃发展，香港交易所与首席执行官陈先生续签合同",
-    "summary": "ong Kong Exchanges &amp; Clearing Ltd. has extended Chief Executive Officer Bonnie Chan’s contract for a three-year term from March 2027, as the bourse rides a surge in initial public offerings and strong trading volumes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/hkex-renews-ceo-chan-s-contract-for-three-years-amid-ipo-boom",
-    "published": "Mon, 17 Aug 2026 12:45:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:30.184906"
+    "fetched_at": "2026-08-18T03:52:29.341332"
   },
   {
     "id": "f47920a6032e",
@@ -257,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/saudis-offer-oil-from-near-oman-in-possible-sign-of-shuttling",
     "published": "Mon, 17 Aug 2026 13:38:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:30.535213"
+    "fetched_at": "2026-08-18T03:52:29.456687"
   },
   {
     "id": "9bfc7993427c",
@@ -267,27 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/indian-lenders-set-record-with-8-billion-in-dollar-bond-sales",
     "published": "Mon, 17 Aug 2026 06:26:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:31.505567"
-  },
-  {
-    "id": "d9bd437c01cb",
-    "title": "Latest Oil Market News and Analysis for Aug. 18",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Oil climbed for a third day as prospects for a near-term resolution of the US-Iran war receded, with President Donald Trump saying he’s not interested in extending an expiring agreement with Tehran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
-    "published": "Mon, 17 Aug 2026 22:01:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:31.624355"
-  },
-  {
-    "id": "f6b30fd407e1",
-    "title": "Yardeni Warns Bond Vigilantes Stirring as US Yields Near 5%",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Yardeni Research warned that investors are showing growing signs of unease over rising government debt, though it said there’s no reason to push the panic button on the US bond market just yet.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/yardeni-warns-bond-vigilantes-stirring-as-us-yields-near-5",
-    "published": "Tue, 18 Aug 2026 01:55:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:31.758538"
+    "fetched_at": "2026-08-18T03:52:29.588967"
   },
   {
     "id": "9a722b6a7de6",
@@ -297,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-ties-sink-bonds-of-135-billion-life-insurer-sammons",
     "published": "Mon, 17 Aug 2026 17:29:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:31.914738"
+    "fetched_at": "2026-08-18T03:52:29.707967"
   },
   {
     "id": "e151522acd6d",
@@ -307,17 +337,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/studio-ghibli-s-deepest-secret-is-what-comes-next-video",
     "published": "Tue, 18 Aug 2026 00:42:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.083237"
-  },
-  {
-    "id": "580970ca2b6b",
-    "title": "Gold Holds Two-Day Gain on Reduced Rate-Hike Expectations",
-    "title_cn": "由于加息预期降低，黄金保持两日涨幅",
-    "summary": "Gold held a two-day gain as reduced prospects for an interest-rate hike by the Federal Reserve weighed on the US dollar, making bullion cheaper for most buyers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/gold-holds-two-day-gain-on-reduced-rate-hike-expectations",
-    "published": "Mon, 17 Aug 2026 23:20:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.245713"
+    "fetched_at": "2026-08-18T03:52:29.833667"
   },
   {
     "id": "b2b532461563",
@@ -327,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/m-g-backs-korean-bonds-sees-too-many-rate-hikes-priced-in",
     "published": "Tue, 18 Aug 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.443851"
+    "fetched_at": "2026-08-18T03:52:29.965131"
   },
   {
     "id": "d6085e112f96",
@@ -337,17 +357,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus",
     "published": "Mon, 17 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.619555"
+    "fetched_at": "2026-08-18T03:52:30.091209"
   },
   {
     "id": "3f82bd3b9d98",
     "title": "Petrobras Mulls Improving Braskem Credit Terms Amid Debt Talks",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "巴西国家石油公司在债务谈判中考虑改善 Braskem 信贷条件",
     "summary": "Brazil’s Petrobras is weighing whether to grant improved payment terms to Braskem on some contracts as the petrochemical producer races against the clock to find a solution for its debt woes ahead of an August 24 deadline to avoid filing for bankruptcy protection, according to people familiar with the matter.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/petrobras-mulls-improving-braskem-credit-terms-amid-debt-talks",
     "published": "Mon, 17 Aug 2026 22:35:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.791730"
+    "fetched_at": "2026-08-18T03:52:30.228612"
   },
   {
     "id": "01d43519886e",
@@ -357,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-likes-the-idea-of-declaring-hormuz-a-territory-video",
     "published": "Mon, 17 Aug 2026 22:00:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:32.957391"
+    "fetched_at": "2026-08-18T03:52:30.358571"
   },
   {
     "id": "d45797410afb",
@@ -367,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/cargill-s-annual-earnings-rise-as-volatility-benefits-trading",
     "published": "Mon, 17 Aug 2026 22:06:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:33.115031"
+    "fetched_at": "2026-08-18T03:52:30.494002"
   },
   {
     "id": "46016006eed0",
@@ -377,37 +397,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/bolivia-hikes-diesel-prices-for-big-buyers-to-tame-supply-shock",
     "published": "Mon, 17 Aug 2026 18:59:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:33.261869"
+    "fetched_at": "2026-08-18T03:52:30.633656"
   },
   {
-    "id": "97974a556bc1",
-    "title": "Guggenheim Rushes to Clarify 77% Earnings Drop After Loan Slides",
-    "title_cn": "古根海姆急于澄清贷款下滑后收益下降 77%",
-    "summary": "A financing entity of Guggenheim Investments moved to explain a steep decline in second-quarter earnings after the disclosure sent its loan price tumbling.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
-    "published": "Mon, 17 Aug 2026 21:23:39 GMT",
+    "id": "b3d5ebe4300d",
+    "title": "Alphabet’s Australian Bond Offers Pickup Over Dollar Debt",
+    "title_cn": "Alphabet 的澳大利亚债券价格较美元债券有所回升",
+    "summary": "Alphabet Inc. started marketing its debut Australian debt, offering investors a pickup over what they’d get on its US dollar notes, as the tech giant embarks on another multi-billion dollar fundraising amid skyrocketing AI spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
+    "published": "Mon, 17 Aug 2026 23:51:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:33.435137"
+    "fetched_at": "2026-08-18T03:52:31.372024"
   },
   {
-    "id": "692c44d6e231",
-    "title": "Hydro-Quebec Inks $36 Billion Energy Deal With Newfoundland",
-    "title_cn": "魁北克水电公司与纽芬兰签署价值 360 亿美元的能源协议",
-    "summary": "The Canadian province of Newfoundland and Labrador managed to boost the value of a new 50-year electricity supply agreement with Hydro-Quebec, likely ending a long-running dispute.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/hydro-quebec-reaches-36-billion-energy-deal-with-newfoundland",
-    "published": "Mon, 17 Aug 2026 16:24:56 GMT",
+    "id": "b280aa5d4844",
+    "title": "Anthropic’s Annualized Revenue Tops $65 Billion Before IPO",
+    "title_cn": "Anthropic IPO 前年收入突破 650 亿美元",
+    "summary": "Anthropic PBC is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter, up more than sevenfold from its pace at the end of last year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+    "published": "Mon, 17 Aug 2026 19:37:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:33.603306"
+    "fetched_at": "2026-08-18T03:52:31.501520"
   },
   {
     "id": "79fc1eb315e8",
     "title": "Korea Jettisons Startup From High-Stakes Sovereign AI Contest",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "韩国放弃高风险主权人工智能竞赛初创公司",
     "summary": "South Korea eliminated a team led by Motif Technologies Co. from its sovereign AI competition, narrowing the high-stakes contest to three remaining groups.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/korea-jettisons-startup-from-high-stakes-sovereign-ai-contest",
     "published": "Tue, 18 Aug 2026 02:00:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.046308"
+    "fetched_at": "2026-08-18T03:52:31.616151"
   },
   {
     "id": "b382c51700ce",
@@ -417,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/korea-denies-report-on-discussing-chips-as-first-us-investment",
     "published": "Tue, 18 Aug 2026 00:35:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.208493"
+    "fetched_at": "2026-08-18T03:52:31.738063"
   },
   {
     "id": "b4eb54dad8b0",
@@ -427,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/kahina-van-dyke-on-stablecoins-fintech-consolidation-video",
     "published": "Mon, 17 Aug 2026 20:13:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.405228"
+    "fetched_at": "2026-08-18T03:52:31.864169"
   },
   {
     "id": "b59bdd1cfa60",
@@ -437,27 +457,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-earnings-key-to-extending-stock-s-best-rally-in-a-year",
     "published": "Tue, 18 Aug 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.592488"
-  },
-  {
-    "id": "b3d5ebe4300d",
-    "title": "Alphabet Kicks Off Aussie Dollar Bond Sale as AI Spending Soars",
-    "title_cn": "随着人工智能支出飙升，Alphabet 启动澳元债券发售",
-    "summary": "Alphabet Inc. started marketing its debut Australian debt offering as the US tech giant targets its latest multi-billion dollar fundraising, with AI spending skyrocketing.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-kicks-off-aussie-dollar-bond-sale-as-ai-spending-soars",
-    "published": "Mon, 17 Aug 2026 23:51:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.764850"
+    "fetched_at": "2026-08-18T03:52:31.994268"
   },
   {
     "id": "f9fca71f5be1",
     "title": "Stocks & Bonds Fall as Oil Rises on Geopolitical Tensions | The Close 8/17/2026",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "地缘政治紧张局势导致石油价格上涨，股票和债券下跌收盘价 2026 年 8 月 17 日",
     "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Morgan Stanley Private Wealth Management Executive Director Katerina Simonetti, S&amp;P Global Ratings Chief Analytical Officer for Governments Nora Wittstruck, Former PepsiCo President Derek Lewis, BNP Paribas US Head Equity & Derivative Strategy Greg Boutle, JPMorgan Asset Management Global Alternatives Strategist Aaron Mulvihill, Advent International Operating Partner Kahina Van Dyke, & Citi Retailing/Broadlines & Hardlines Analyst Steven Zaccone. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/the-close-8-17-2026-video",
     "published": "Mon, 17 Aug 2026 21:59:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:34.898351"
+    "fetched_at": "2026-08-18T03:52:32.136936"
   },
   {
     "id": "e59ee70c26b3",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/facebook-instagram-under-scrutiny-in-meta-social-media-addiction-trial",
     "published": "Mon, 17 Aug 2026 21:43:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.035807"
+    "fetched_at": "2026-08-18T03:52:32.270727"
   },
   {
     "id": "e2dae4a2cdcd",
@@ -477,27 +487,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/big-take-how-amazon-landed-on-mamdani-s-labor-agenda-video",
     "published": "Mon, 17 Aug 2026 21:22:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.200373"
+    "fetched_at": "2026-08-18T03:52:32.383996"
   },
   {
     "id": "d23431fb64cd",
     "title": "Mexico Explores Ways to Regulate Social Media Among Children",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "墨西哥探索监管儿童社交媒体的方法",
     "summary": "Mexico is exploring ways to regulate the use of social media by children and adolescents, as countries such as Australia and Brazil have done, with government-led discussions on the harmful effects of platforms like Instagram and TikTok.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/mexico-explores-ways-to-regulate-social-media-among-children",
     "published": "Mon, 17 Aug 2026 20:29:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.420839"
-  },
-  {
-    "id": "b280aa5d4844",
-    "title": "Anthropic’s Annualized Revenue Surpasses $65 Billion Before IPO",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Anthropic PBC is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter, up more than sevenfold from its pace at the end of last year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-    "published": "Mon, 17 Aug 2026 19:37:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.551686"
+    "fetched_at": "2026-08-18T03:52:32.508875"
   },
   {
     "id": "729196cc503d",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/kkr-s-internet-brands-readies-debt-refinancing-in-near-term",
     "published": "Mon, 17 Aug 2026 19:14:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.706264"
+    "fetched_at": "2026-08-18T03:52:32.653297"
   },
   {
     "id": "82c28845ed87",
@@ -517,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
     "published": "Mon, 17 Aug 2026 14:11:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:35.887378"
+    "fetched_at": "2026-08-18T03:52:32.766230"
   },
   {
     "id": "52c285669707",
@@ -527,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/bedrock-brings-autonomous-driving-to-construction-video",
     "published": "Mon, 17 Aug 2026 18:34:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.036166"
+    "fetched_at": "2026-08-18T03:52:32.880038"
   },
   {
     "id": "332043ea44be",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/the-world-s-richest-families-bet-on-spacex-video",
     "published": "Mon, 17 Aug 2026 18:31:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.199728"
+    "fetched_at": "2026-08-18T03:52:33.015888"
   },
   {
     "id": "98eaa240fe93",
@@ -547,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/stripe-to-buy-ai-firm-openrouter-in-7-billion-deal-video",
     "published": "Mon, 17 Aug 2026 18:30:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.399376"
+    "fetched_at": "2026-08-18T03:52:33.139912"
   },
   {
     "id": "e1cdd3e1c9df",
@@ -557,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-tech-8-17-2026-video",
     "published": "Mon, 17 Aug 2026 18:30:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.598889"
+    "fetched_at": "2026-08-18T03:52:33.262393"
   },
   {
     "id": "5cabe9c2a481",
@@ -567,17 +567,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-entering-a-riskier-phase-says-parnassus-cio-video",
     "published": "Mon, 17 Aug 2026 18:26:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.754259"
+    "fetched_at": "2026-08-18T03:52:33.376712"
   },
   {
     "id": "42358227cbef",
     "title": "Anthropic’s Revenue Surges as IPO Speculation Builds",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "随着 IPO 投机的增加，Anthropic 的收入激增",
     "summary": "Anthropic is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News. This comes as speculation builds around a potential IPO. Bloomberg’s Rachel Metz breaks down the latest financial figures and how they compare with OpenAI’s growth. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/anthropic-s-revenue-surges-as-ipo-speculation-builds-video",
     "published": "Mon, 17 Aug 2026 18:24:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:36.923315"
+    "fetched_at": "2026-08-18T03:52:33.503427"
   },
   {
     "id": "b5f21f4dbe3d",
@@ -587,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/sonos-plans-new-soundbar-ahead-of-september-hardware-reveal",
     "published": "Mon, 17 Aug 2026 17:19:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:37.084522"
+    "fetched_at": "2026-08-18T03:52:33.640798"
   },
   {
     "id": "3cde39e5d973",
@@ -597,7 +597,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/andreessen-horowitz-focus-of-doj-probe-over-board-directors",
     "published": "Mon, 17 Aug 2026 17:13:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:37.259737"
+    "fetched_at": "2026-08-18T03:52:33.769961"
+  },
+  {
+    "id": "659036893b52",
+    "title": "Myanmar’s Leader to Meet Putin on First Moscow Trip as President",
+    "title_cn": "缅甸领导人将在就任总统后首次莫斯科之行中会见普京",
+    "summary": "Myanmar President Min Aung Hlaing is set to meet Russian leader Vladimir Putin on Tuesday, the former junta chief’s first trip to one of the isolated country’s closest allies since taking office in April after a widely criticized election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/myanmar-s-leader-to-meet-putin-on-first-moscow-trip-as-president",
+    "published": "Tue, 18 Aug 2026 03:01:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T03:52:34.946488"
   },
   {
     "id": "cfd8024fa318",
@@ -607,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/south-korea-s-lee-pushes-for-nuclear-sub-deal-after-trump-rebuke",
     "published": "Tue, 18 Aug 2026 02:30:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:38.331551"
+    "fetched_at": "2026-08-18T03:52:35.071799"
   },
   {
     "id": "d4ef9e7773dc",
@@ -617,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-xi-to-skip-un-meeting-during-trip-to-us-politico-says",
     "published": "Tue, 18 Aug 2026 02:27:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:38.605307"
+    "fetched_at": "2026-08-18T03:52:35.202607"
   },
   {
     "id": "2547a1a62fbe",
@@ -627,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/cockroach-janta-party-why-india-s-gen-z-movement-is-a-challenge-for-modi",
     "published": "Tue, 18 Aug 2026 02:04:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:39.569310"
+    "fetched_at": "2026-08-18T03:52:35.341094"
   },
   {
     "id": "78d40e147d9e",
@@ -637,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/zambia-s-pro-business-president-secures-second-term-in-election",
     "published": "Tue, 18 Aug 2026 01:03:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:40.256007"
+    "fetched_at": "2026-08-18T03:52:35.468682"
   },
   {
     "id": "41e322fda511",
@@ -647,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/trump-says-north-korea-s-kim-jong-un-replied-to-call-for-talks",
     "published": "Mon, 17 Aug 2026 18:23:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:40.428204"
+    "fetched_at": "2026-08-18T03:52:35.579902"
   },
   {
     "id": "677407e70b48",
@@ -657,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/balance-of-power-late-edition-08-17-2026-video",
     "published": "Mon, 17 Aug 2026 23:54:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:40.598961"
+    "fetched_at": "2026-08-18T03:52:35.708841"
   },
   {
     "id": "6ab7b4851438",
@@ -667,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/former-ag-blanche-is-partly-right-on-doj-independence-video",
     "published": "Mon, 17 Aug 2026 23:09:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:40.792141"
+    "fetched_at": "2026-08-18T03:52:35.851038"
   },
   {
     "id": "f80c3c86851b",
@@ -677,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/mexico-s-extortion-level-hits-11-year-high-as-other-crimes-fall",
     "published": "Mon, 17 Aug 2026 23:07:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:40.944465"
+    "fetched_at": "2026-08-18T03:52:35.983613"
   },
   {
     "id": "cd3ed034708a",
@@ -687,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/o-hanlon-trump-s-iran-decisions-have-been-impulsive-video",
     "published": "Mon, 17 Aug 2026 23:02:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:41.096793"
+    "fetched_at": "2026-08-18T03:52:36.094067"
   },
   {
     "id": "fd505c20920b",
@@ -697,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/messina-on-fl-primary-dem-2028-primary-calendar-video",
     "published": "Mon, 17 Aug 2026 22:57:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:41.435365"
+    "fetched_at": "2026-08-18T03:52:36.217924"
   },
   {
     "id": "b9c0633f1495",
@@ -707,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-shouldn-t-rush-iran-strategy-rep-issa-video",
     "published": "Mon, 17 Aug 2026 22:46:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:41.587129"
+    "fetched_at": "2026-08-18T03:52:36.344103"
   },
   {
     "id": "629f5c56bbf1",
@@ -717,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
     "published": "Mon, 17 Aug 2026 11:36:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:41.773158"
+    "fetched_at": "2026-08-18T03:52:36.472577"
   },
   {
     "id": "b966c312fccf",
@@ -727,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/trump-s-big-bend-border-project-paused-after-bulldozers-arrive",
     "published": "Mon, 17 Aug 2026 18:58:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:41.968578"
+    "fetched_at": "2026-08-18T03:52:36.605567"
   },
   {
     "id": "fa512436fcc2",
@@ -737,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/doj-official-flags-stanford-for-scrutiny-over-foreign-donations",
     "published": "Mon, 17 Aug 2026 21:54:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:42.148766"
+    "fetched_at": "2026-08-18T03:52:36.731501"
   },
   {
     "id": "544dc71e3a70",
@@ -747,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/trump-s-civil-rights-chief-dhillon-on-election-security-dei",
     "published": "Mon, 17 Aug 2026 21:25:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:42.320647"
+    "fetched_at": "2026-08-18T03:52:36.864344"
   },
   {
     "id": "337c3a3e249b",
@@ -757,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/ai-buildout-benefits-challenges-as-chip-stocks-rally-video",
     "published": "Mon, 17 Aug 2026 20:53:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:42.500016"
+    "fetched_at": "2026-08-18T03:52:36.984780"
   },
   {
     "id": "323d4673cae3",
@@ -767,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/doj-plans-to-deploy-1-000-monitors-to-watch-midterm-elections",
     "published": "Mon, 17 Aug 2026 20:34:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:42.669909"
+    "fetched_at": "2026-08-18T03:52:37.123653"
   },
   {
     "id": "974e4c87dfb9",
@@ -777,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-says-kim-jong-treats-him-with-great-respect-video",
     "published": "Mon, 17 Aug 2026 20:12:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:42.846911"
+    "fetched_at": "2026-08-18T03:52:37.253605"
   },
   {
     "id": "c202a3160363",
@@ -787,16 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-says-s-korea-refused-to-help-on-iran-video",
     "published": "Mon, 17 Aug 2026 19:46:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T02:59:43.007203"
-  },
-  {
-    "id": "f9309eda7e33",
-    "title": "Trump Says Oman Hasn’t Behaved Very Well (Q&A)",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Trump spoke to reporters in the Oval Office saying Oman hasn’t behaved well, “but we’d handle them very easily.” He also touched on possible talks with North Korea, when asked if Kim had replied to entreaties for talks, Trump said “he has” without elaborating. The president called the development “very positive.” The White House did not immediately respond to a request for further details. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-says-oman-hasn-t-behaved-very-well-q-a-video",
-    "published": "Mon, 17 Aug 2026 19:38:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T02:59:43.157031"
+    "fetched_at": "2026-08-18T03:52:37.377618"
   }
 ]
