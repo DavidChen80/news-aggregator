@@ -1,5 +1,55 @@
 [
   {
+    "id": "6b4c72839ec6",
+    "title": "Bloomberg Talks: Rati Sahi Levesque (Podcast)",
+    "title_cn": "彭博社谈话：Rati Sahi Levesque（播客）",
+    "summary": "Source: Bloomberg, 7:42",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-rati-sahi-levesque-podcast",
+    "published": "Tue, 18 Aug 2026 15:48:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:36.080383"
+  },
+  {
+    "id": "fbd4c9c64843",
+    "title": "Bally’s Gambles on a Bronx Casino — and Its Future",
+    "title_cn": "Bally 在布朗克斯赌场的赌博及其未来",
+    "summary": "The risk of breaching loan terms has left its survival as a going concern in doubt",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/bally-s-gambles-on-a-bronx-casino-and-its-future",
+    "published": "Tue, 18 Aug 2026 15:45:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:36.459740"
+  },
+  {
+    "id": "8cfb9bd0db55",
+    "title": "Bloomberg Hot Putsuit!: Singer Vehicle Design (Podcast)",
+    "title_cn": "彭博社热推！：歌手车辆设计（播客）",
+    "summary": "Source: Bloomberg, 80:21",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-hot-putsuit-singer-vehicle-design-podcast",
+    "published": "Tue, 18 Aug 2026 15:45:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:36.907835"
+  },
+  {
+    "id": "cd54b010358a",
+    "title": "Trump: No Talks with Iran, Meta Trial Under Way, More",
+    "title_cn": "特朗普：没有与伊朗进行谈判，Meta审判正在进行中等等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-18/trump-no-talks-with-iran-meta-trial-under-way-more",
+    "published": "Tue, 18 Aug 2026 15:35:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:37.426903"
+  },
+  {
+    "id": "e2fc15e2f250",
+    "title": "Davidson Kempner’s Arb Team Aims for ‘Complexity Premium’ in M&A Bets",
+    "title_cn": "Davidson Kempner 的套利团队致力于在并购赌注中实现“复杂性溢价”",
+    "summary": "Hedge fund report finds that large deals are facing a surge in regulatory reviews, and delivering rewards for some.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/davidson-kempner-s-arb-team-aims-for-complexity-premium-in-m-a-bets",
+    "published": "Tue, 18 Aug 2026 15:15:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:37.880526"
+  },
+  {
     "id": "e245706cf856",
     "title": "Bloomberg Talks: Liz Ann Sonders (Podcast)",
     "title_cn": "彭博社谈话：Liz Ann Sonders（播客）",
@@ -7,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-liz-ann-sonders-podcast",
     "published": "Tue, 18 Aug 2026 15:11:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:52.485131"
+    "fetched_at": "2026-08-18T15:50:37.980955"
   },
   {
     "id": "096d98e0dfef",
@@ -17,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-surveillance-tv-august-18th-2026-podcast",
     "published": "Tue, 18 Aug 2026 14:44:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:52.689978"
+    "fetched_at": "2026-08-18T15:50:38.133500"
   },
   {
     "id": "40340190972e",
@@ -27,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/trump-no-talks-with-iran-doj-to-monitor-primaries-more",
     "published": "Tue, 18 Aug 2026 14:34:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:53.273851"
+    "fetched_at": "2026-08-18T15:50:38.230269"
   },
   {
     "id": "5c96596cbc43",
@@ -37,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-talks-sridhar-ramaswamy-podcast",
     "published": "Tue, 18 Aug 2026 14:31:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:53.646458"
+    "fetched_at": "2026-08-18T15:50:38.324693"
   },
   {
     "id": "d7e52c260f81",
@@ -47,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-fabrinet-baidu-adrs-klarna-podcast",
     "published": "Tue, 18 Aug 2026 14:16:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:54.560536"
+    "fetched_at": "2026-08-18T15:50:38.425468"
   },
   {
     "id": "1cccf3a42c8d",
@@ -57,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/ai-fundamentals-aren-t-the-same-as-the-trade-macro-man-podcast",
     "published": "Tue, 18 Aug 2026 14:07:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:55.210914"
+    "fetched_at": "2026-08-18T15:50:38.534382"
   },
   {
     "id": "1e0e39375d6f",
@@ -67,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-surveillance-policy-pivots-and-fx-risks-podcast",
     "published": "Tue, 18 Aug 2026 14:07:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:55.629704"
+    "fetched_at": "2026-08-18T15:50:38.654981"
   },
   {
     "id": "07cab914c80e",
@@ -77,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/stocks-fall-at-open-trump-no-talks-planned-with-iran-more",
     "published": "Tue, 18 Aug 2026 13:40:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:55.765126"
+    "fetched_at": "2026-08-18T15:50:38.762304"
   },
   {
     "id": "f1313571036a",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/trump-shuts-the-60-day-window-for-iran-peace-deal",
     "published": "Tue, 18 Aug 2026 13:26:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:55.893301"
+    "fetched_at": "2026-08-18T15:50:38.868146"
   },
   {
     "id": "d644fa092c49",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-klarna-amylyx-bath-body-works-podcast",
     "published": "Tue, 18 Aug 2026 13:10:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.032152"
+    "fetched_at": "2026-08-18T15:50:38.995325"
   },
   {
     "id": "abdd136bcbae",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/kenya-m-pesa-enter-a-new-era-in-the-mobile-money-revolution-with-ziidi",
     "published": "Tue, 18 Aug 2026 13:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.140617"
+    "fetched_at": "2026-08-18T15:50:39.092907"
   },
   {
     "id": "8d32480ea48a",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/meta-s-landmark-trial-hormuz-standoff-drags-on-more",
     "published": "Tue, 18 Aug 2026 12:48:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.281033"
+    "fetched_at": "2026-08-18T15:50:39.185241"
   },
   {
     "id": "4ec3878d4bfd",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/india-s-national-stock-exchange-heads-for-a-55-billion-payday",
     "published": "Tue, 18 Aug 2026 12:36:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.430856"
+    "fetched_at": "2026-08-18T15:50:39.288660"
   },
   {
     "id": "4855d9209117",
@@ -137,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/vanguards-of-healthcare-novartis-builds-from-biology",
     "published": "Tue, 18 Aug 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.594679"
+    "fetched_at": "2026-08-18T15:50:39.390748"
   },
   {
     "id": "571786f924d6",
@@ -147,57 +197,77 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/talking-transports-paycargo-speeds-supply-chains-with-ai-tools",
     "published": "Tue, 18 Aug 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:56.924192"
+    "fetched_at": "2026-08-18T15:50:39.501466"
   },
   {
-    "id": "7ddf52b35b65",
-    "title": "Tech Disruptors: Sierra’s Clay Bavor on Long-Horizon AI Agents",
-    "title_cn": "技术颠覆者：Sierra 的 Clay Bavor 谈长期人工智能代理",
-    "summary": "“Ninety percent of all of our proofs of concept convert to long-term contracts because the ROI case is so clear,” Clay Bavor, co-founder of Sierra, tells Bloomberg Intelligence senior technology analyst Anurag Rana. The pair discuss the evolution from single-interaction service bots to long-horizon agents that can reason across weeks or months, coordinate conversations across multiple channels and pursue high-value outcomes such as mortgage origination, customer retention and sales. Bavor explai",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/tech-disruptors-sierra-s-clay-bavor-on-long-horizon-ai-agents",
-    "published": "Tue, 18 Aug 2026 12:00:00 GMT",
+    "id": "cc9e35ae1407",
+    "title": "Bitcoin Whales End Selling Spree, Adding $2.9 Billion in 60 Days",
+    "title_cn": "比特币鲸鱼结束抛售热潮，60 天内增加 29 亿美元",
+    "summary": "Bitcoin has spent months mired in a slump that has driven out retail traders, drained billions from crypto funds and turned one of its biggest buyers into a seller. Now, investors searching for signs of a bottom are getting a modicum of relief from an old source: Bitcoin whales are buying again.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/bitcoin-whales-end-selling-spree-adding-2-9-billion-in-60-days",
+    "published": "Tue, 18 Aug 2026 15:39:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:57.072290"
+    "fetched_at": "2026-08-18T15:50:40.072632"
   },
   {
-    "id": "7a910d7162ab",
-    "title": "Trump's Hard Line on Iran, Landmark Social Media Trial Begins",
-    "title_cn": "特朗普对伊朗采取强硬立场，具有里程碑意义的社交媒体审判开始",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/trump-s-hard-line-on-iran-landmark-social-media-trial-begins",
-    "published": "Tue, 18 Aug 2026 11:43:03 GMT",
+    "id": "307192e12465",
+    "title": "Raw Sugar Advances to 14-Month High on Global Supply Concerns",
+    "title_cn": "由于全球供应担忧，原糖价格升至 14 个月高位",
+    "summary": "Raw sugar futures rose to the highest in more than a year as India, the world’s second-largest producer, is considering cutting import duties on the commodity in the latest sign of global supply constraint.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/raw-sugar-advances-to-14-month-high-on-global-supply-concerns",
+    "published": "Tue, 18 Aug 2026 15:32:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:57.188495"
+    "fetched_at": "2026-08-18T15:50:40.188703"
   },
   {
-    "id": "b64a1c14a021",
-    "title": "Stock Movers: Home Depot, Baidu, Alibaba (Podcast)",
-    "title_cn": "库存推动者：家得宝、百度、阿里巴巴（播客）",
-    "summary": "Source: Bloomberg, 4:31",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-home-depot-baidu-alibaba-podcast",
-    "published": "Tue, 18 Aug 2026 11:04:08 GMT",
+    "id": "8b12c13d1917",
+    "title": "Chip Stocks Get Hit as Global Bond Anxiety Builds",
+    "title_cn": "全球债券焦虑加剧，芯片股受到打击",
+    "summary": "A selloff in chipmakers sent stocks lower, with the market also falling as inflation angst and rising government debt kept bond yields elevated.\nJohn Mowrey, CIO at NFJ Investment Group, discusses AI capex spending and equities reaching all-time highs. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/chip-stocks-get-hit-as-global-bond-anxiety-builds-video",
+    "published": "Tue, 18 Aug 2026 15:31:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:57.315553"
+    "fetched_at": "2026-08-18T15:50:40.328399"
   },
   {
-    "id": "27fde87853b1",
-    "title": "Futures Dip as Long-Term Debt Cost Climb to Highest in Decade",
-    "title_cn": "随着长期债务成本攀升至十年来最高水平，期货下跌",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/futures-dip-as-long-term-debt-cost-climb-to-highest-in-decade",
-    "published": "Tue, 18 Aug 2026 10:50:04 GMT",
+    "id": "941be02c8ac5",
+    "title": "Long-Term Debt Costs Soar to Highest in Decades as Bonds Slump",
+    "title_cn": "随着债券暴跌，长期债务成本飙升至数十年来的最高水平",
+    "summary": "Longer-maturity bonds are at the epicenter of investor angst about everything from inflation to the debt-laden artificial-intelligence boom — and governments are paying the price.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/bond-rout-sends-long-term-borrowing-costs-to-highest-in-decades",
+    "published": "Tue, 18 Aug 2026 04:25:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:57.577462"
+    "fetched_at": "2026-08-18T15:50:40.428037"
   },
   {
-    "id": "bcb0171c765b",
-    "title": "Bloomberg Daybreak: Trump Takes Hard Line on Iran (Podcast)",
-    "title_cn": "彭博黎明：特朗普对伊朗采取强硬立场（播客）",
-    "summary": "Source: Bloomberg, 15:40",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-daybreak-trump-takes-hard-line-on-iran-podcast",
-    "published": "Tue, 18 Aug 2026 09:45:33 GMT",
+    "id": "aa5a0062af58",
+    "title": "Bank of Israel's Yaron Says Next Policy Meeting Will Be a Live One",
+    "title_cn": "以色列央行行长亚龙表示下一次政策会议将是现场会议",
+    "summary": "Bank of Israel Governor Amir Yaron says Israel's economy has shown resilience during the war in Iran but warns there's a big fiscal policy challenge ahead. He speaks with Dani Burger on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/bank-of-israel-s-yaron-next-meeting-will-be-a-live-one-video",
+    "published": "Tue, 18 Aug 2026 15:18:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:57.703264"
+    "fetched_at": "2026-08-18T15:50:40.543047"
+  },
+  {
+    "id": "0559a24c2f36",
+    "title": "Bath & Body Works Surges on Stock Recommendation; Klarna Drops on Guidance | Stock Movers",
+    "title_cn": "Bath & Body Works 因股票推荐而飙升；克拉纳放弃指导|库存搬运工",
+    "summary": "On this episode of Stock Movers:\n\n- Shares of Klarna (KLAR) plunged in premarket trading after the payments company reported full year revenue and gross merchandise value guidance that missed expectations. The company cited foreign exchange pressures and volumes in Germany, even as it reported a profit beat for the second straight quarter. \n- Shares of Amylyx Pharmaceuticals (AMLX) extended its rally in the early session to as much as 54%, after the drug developer said a late-stage trial of its experimental drug met its primary endpoint as a treatment for patients who experience low blood sugar levels following bariatric surgery. \n- Shares of Bath & Body Works (BBWI) surged ahead of the opening bell after Citi raised its recommendation on the stock to buy from neutral. Analyst Paul Lejuez cited a favorable risk/reward outlook in his note. The company is slated to release earnings next week. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/bath-body-works-surges-klarna-drops-on-guidance-video",
+    "published": "Tue, 18 Aug 2026 15:11:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:40.636410"
+  },
+  {
+    "id": "d34026ab3e87",
+    "title": "Colombian GDP Growth Jumped to 3.5% in Boost for New Government",
+    "title_cn": "新政府推动哥伦比亚 GDP 增长跃至 3.5%",
+    "summary": "Colombian growth beat expectations in the second quarter, handing President Abelardo de la Espriella a buoyant economy as he starts his four-year term.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/colombian-gdp-growth-jumped-to-3-5-in-boost-for-new-government",
+    "published": "Tue, 18 Aug 2026 15:11:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:40.765506"
   },
   {
     "id": "567afd87dfa1",
@@ -207,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/the-realreal-bets-on-luxury-resale-boom-video",
     "published": "Tue, 18 Aug 2026 15:01:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.217924"
+    "fetched_at": "2026-08-18T15:50:40.861501"
   },
   {
     "id": "eb0b7dc88a24",
@@ -217,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 17 Aug 2026 22:07:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.346766"
+    "fetched_at": "2026-08-18T15:50:40.992575"
   },
   {
     "id": "2d8359c51cdc",
@@ -227,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/bofa-sees-nvidia-trading-at-up-to-50-discount-on-ai-risks",
     "published": "Tue, 18 Aug 2026 14:52:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.467049"
+    "fetched_at": "2026-08-18T15:50:41.110292"
   },
   {
     "id": "97974a556bc1",
@@ -237,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
     "published": "Mon, 17 Aug 2026 21:23:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.590746"
+    "fetched_at": "2026-08-18T15:50:41.220697"
   },
   {
     "id": "d9bd437c01cb",
@@ -247,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
     "published": "Mon, 17 Aug 2026 22:01:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.717146"
+    "fetched_at": "2026-08-18T15:50:41.334452"
   },
   {
     "id": "1e282c89522e",
@@ -257,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/blackstone-blue-owl-tap-bond-market-video",
     "published": "Tue, 18 Aug 2026 14:39:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:58.932888"
+    "fetched_at": "2026-08-18T15:50:41.449757"
   },
   {
     "id": "3829485f0b85",
@@ -267,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/germany-is-set-to-sell-30-year-bonds-at-highest-yield-since-2011",
     "published": "Tue, 18 Aug 2026 07:37:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.053774"
+    "fetched_at": "2026-08-18T15:50:41.591879"
   },
   {
     "id": "b63ee74f20b1",
@@ -277,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/goldman-sachs-bulks-up-asset-management-business-video",
     "published": "Tue, 18 Aug 2026 14:25:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.189651"
+    "fetched_at": "2026-08-18T15:50:41.705662"
   },
   {
     "id": "e8c9f4911eee",
@@ -287,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/global-bonds-slump-sends-borrowing-costs-soaring-video",
     "published": "Tue, 18 Aug 2026 13:36:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.306000"
+    "fetched_at": "2026-08-18T15:50:41.833900"
   },
   {
     "id": "4baf23255aec",
@@ -297,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/klarna-reports-second-quarter-profit-as-it-widens-user-offerings",
     "published": "Tue, 18 Aug 2026 11:33:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.424964"
+    "fetched_at": "2026-08-18T15:50:41.932482"
   },
   {
     "id": "be6b6a7ad98a",
@@ -307,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/where-to-hide-from-an-ai-crash-video",
     "published": "Tue, 18 Aug 2026 14:13:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.551764"
+    "fetched_at": "2026-08-18T15:50:42.036340"
   },
   {
     "id": "43b5ac5450b7",
@@ -317,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/blackstone-backed-qts-kicks-off-data-center-bond-at-hefty-cost",
     "published": "Tue, 18 Aug 2026 14:06:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.661514"
+    "fetched_at": "2026-08-18T15:50:42.174097"
   },
   {
     "id": "b89169c48577",
@@ -327,77 +397,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/russia-s-oil-exports-extend-their-slump-amid-ukrainian-drone-strikes",
     "published": "Tue, 18 Aug 2026 14:01:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.781565"
+    "fetched_at": "2026-08-18T15:50:42.288306"
   },
   {
-    "id": "e71b9af6e97a",
-    "title": "Energy Stocks Soar to Record as Oil Rises on Trump’s Hard Line",
-    "title_cn": "特朗普强硬立场导致油价上涨，能源股飙升至创纪录水平",
-    "summary": "Energy stocks are closing in on record levels reached earlier this year amid the Middle East war as investors see diminishing prospects for a near-term ceasefire that could ease the standoff in the crucial Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line",
-    "published": "Tue, 18 Aug 2026 13:59:04 GMT",
+    "id": "e59ee70c26b3",
+    "title": "Facebook, Instagram Under Scrutiny in Meta Social Media Addiction Trial",
+    "title_cn": "Facebook、Instagram 在元社交媒体成瘾试验中接受审查",
+    "summary": "Meta Platforms Inc. is headed to court Tuesday for a high-stakes showdown with a coalition of state attorneys general over claims that the company deliberately designed Facebook and Instagram to encourage compulsive use among young users.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-17/facebook-instagram-under-scrutiny-in-meta-social-media-addiction-trial",
+    "published": "Mon, 17 Aug 2026 21:43:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:14:59.892080"
-  },
-  {
-    "id": "266880df3fdf",
-    "title": "Braskem’s Mexico Unit Files for Prepackaged Bankruptcy in US",
-    "title_cn": "Braskem 墨西哥子公司在美国申请破产保护",
-    "summary": "Mexico’s Braskem Idesa SAPI, a joint venture between Brazil’s Braskem SA and the conglomerate of Mexican tycoon Carlos Slim, has filed for a prepackaged bankruptcy protection, as mounting financial strain and a worsening liquidity crunch weigh on the company.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
-    "published": "Tue, 18 Aug 2026 06:19:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:00.029975"
-  },
-  {
-    "id": "0b3ca9e985a0",
-    "title": "US Stocks Drop, Led by Tech, as Bond-Yield Spike Sparks Angst",
-    "title_cn": "债券收益率飙升引发担忧，美国股市下跌，科技股领跌",
-    "summary": "US stocks fell at the open on Tuesday as rising bond yields and an early-morning spike in oil prices unnerved investors, prompting them to pare back some of their riskier trades including bets on AI and related tech.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
-    "published": "Tue, 18 Aug 2026 06:51:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:00.159485"
-  },
-  {
-    "id": "79809b30ad69",
-    "title": "AI Election Backlash Is Shaping Wall Street’s Stock Market Views",
-    "title_cn": "人工智能选举的强烈反对正在影响华尔街的股市观点",
-    "summary": "The backlash against artificial intelligence and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-election-backlash-is-shaping-wall-street-s-stock-market-views",
-    "published": "Tue, 18 Aug 2026 11:58:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:00.281375"
-  },
-  {
-    "id": "ea9cc0e68a54",
-    "title": "Fed Should ‘Just Hike and Move on With It,’ Says JPM’s Herr",
-    "title_cn": "摩根大通的先生表示，美联储应该“加息并继续前进”",
-    "summary": "“I don’t think it matters what the Fed does,” says Kay Herr, US GFICC CIO at JPMorgan Asset Management, in reference to the rally in yields, as the market “really doesn’t love the fact that we don’t have forward guidance.” She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/fed-should-just-hike-and-move-on-with-it-jpm-s-herr-video",
-    "published": "Tue, 18 Aug 2026 13:30:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:00.408297"
-  },
-  {
-    "id": "5c6121f9ae50",
-    "title": "Breaking Down the Global Bond Selloff",
-    "title_cn": "打破全球债券抛售",
-    "summary": "The global bond selloff continues with long-dated bond yields pushing further into multidecade highs. Ira Jersey of Bloomberg Intelligence has more on what could be causing all this on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/breaking-down-the-global-bond-selloff-video",
-    "published": "Tue, 18 Aug 2026 13:12:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:32.206392"
-  },
-  {
-    "id": "5c0e4e2431c1",
-    "title": "Bond Selloff Is Mostly a Fed Story, Says BofA’s Cabana",
-    "title_cn": "美国银行卡巴纳表示，债券抛售主要是美联储的故事",
-    "summary": "Mark Cabana, head of US rates strategy at BofA Global Research, explains the factors he sees contributing to the US bond selloff. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/bond-selloff-is-mostly-a-fed-story-says-bofa-s-cabana-video",
-    "published": "Tue, 18 Aug 2026 13:09:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:32.330358"
+    "fetched_at": "2026-08-18T15:50:42.957078"
   },
   {
     "id": "c2c7020f9d83",
@@ -407,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/ant-group-said-to-sell-3-paytm-stake-in-309-million-deal",
     "published": "Tue, 18 Aug 2026 11:20:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.016614"
+    "fetched_at": "2026-08-18T15:50:43.071664"
   },
   {
     "id": "514fa58fdc3e",
@@ -417,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/snowflake-s-plan-to-cut-ai-costs-video",
     "published": "Tue, 18 Aug 2026 13:46:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.116585"
+    "fetched_at": "2026-08-18T15:50:43.182250"
   },
   {
     "id": "3b2e1de009f9",
@@ -427,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/what-are-flock-cameras-why-are-they-so-controversial",
     "published": "Tue, 18 Aug 2026 14:39:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.281812"
+    "fetched_at": "2026-08-18T15:50:43.291407"
   },
   {
     "id": "2576618d2c6f",
@@ -437,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/baidu-posts-fifth-straight-sales-drop-after-ai-lags-rivals",
     "published": "Tue, 18 Aug 2026 09:12:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.394210"
+    "fetched_at": "2026-08-18T15:50:43.421944"
   },
   {
     "id": "4d04cb62d351",
@@ -447,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/where-to-hide-during-market-shocks-video",
     "published": "Tue, 18 Aug 2026 14:01:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.525329"
+    "fetched_at": "2026-08-18T15:50:43.544839"
   },
   {
     "id": "e6ef1e06e57e",
@@ -457,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/apple-s-anti-ai-position-suddenly-becomes-stock-market-baggage",
     "published": "Tue, 18 Aug 2026 09:07:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.656578"
+    "fetched_at": "2026-08-18T15:50:43.681714"
   },
   {
     "id": "7e225cc5f53b",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/alibaba-shares-jump-5-as-alipay-launches-new-merchant-platform",
     "published": "Tue, 18 Aug 2026 08:09:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.765078"
+    "fetched_at": "2026-08-18T15:50:43.789577"
   },
   {
     "id": "bc8606a496d4",
@@ -477,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/anthropic-s-annualized-revenue-tops-65-billion-video",
     "published": "Tue, 18 Aug 2026 12:55:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:33.888649"
+    "fetched_at": "2026-08-18T15:50:43.900568"
   },
   {
     "id": "ba8124070404",
@@ -487,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/bytedance-draws-over-30-billion-in-orders-for-jumbo-bank-loan",
     "published": "Tue, 18 Aug 2026 12:55:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.015176"
+    "fetched_at": "2026-08-18T15:50:44.010592"
   },
   {
     "id": "73021ee4c748",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/xiaomi-profit-falls-after-memory-crunch-hits-smartphone-demand",
     "published": "Tue, 18 Aug 2026 09:38:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.133425"
+    "fetched_at": "2026-08-18T15:50:44.121578"
   },
   {
     "id": "d4a8931583b8",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/intesa-s-spacex-stake-worth-almost-1-billion-at-end-of-june",
     "published": "Tue, 18 Aug 2026 11:11:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.251559"
+    "fetched_at": "2026-08-18T15:50:44.232694"
   },
   {
     "id": "a2c24a1b9f63",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/integral-ai-s-demise-signals-hurdles-ahead-for-robotics",
     "published": "Tue, 18 Aug 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.351120"
+    "fetched_at": "2026-08-18T15:50:44.325886"
   },
   {
     "id": "cfa1fcb57395",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/data-center-gas-plants-to-boost-us-power-emissions-by-20",
     "published": "Tue, 18 Aug 2026 11:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.468773"
+    "fetched_at": "2026-08-18T15:50:44.445349"
   },
   {
     "id": "98e3b9977c2e",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/openai-s-new-chatgpt-for-teens-has-safety-and-study-features",
     "published": "Tue, 18 Aug 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.580569"
+    "fetched_at": "2026-08-18T15:50:44.577991"
   },
   {
     "id": "6ae782cf834a",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/ai-is-starting-to-create-jobs-in-the-uk",
     "published": "Tue, 18 Aug 2026 10:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.693200"
+    "fetched_at": "2026-08-18T15:50:44.695425"
   },
   {
     "id": "d512adef2a1e",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/what-s-at-stake-for-meta-in-landmark-social-media-trial-video",
     "published": "Tue, 18 Aug 2026 10:00:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.820306"
+    "fetched_at": "2026-08-18T15:50:44.784892"
   },
   {
     "id": "1b405c4a313d",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/mark-cuban-backed-physical-ai-startup-nears-500-million-spac-deal",
     "published": "Tue, 18 Aug 2026 10:00:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:34.924058"
+    "fetched_at": "2026-08-18T15:50:44.876590"
   },
   {
     "id": "3aff1ce26751",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
     "published": "Tue, 18 Aug 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:35.056183"
+    "fetched_at": "2026-08-18T15:50:44.996139"
   },
   {
     "id": "a7aabd00b73f",
@@ -587,27 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/pony-ai-s-robotaxi-revenue-reaches-record-as-sales-jump-69",
     "published": "Tue, 18 Aug 2026 09:47:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:35.181284"
-  },
-  {
-    "id": "2347e07d2fe5",
-    "title": "Why Long-Dated Bonds Are at Center of Investor Angst",
-    "title_cn": "为什么长期债券成为投资者焦虑的焦点",
-    "summary": "Yields on 30-year US Treasuries rose to the highest since 2007 this week, while French borrowing costs hit the loftiest since 2008 and their German peers traded at 2011 levels. While domestic factors have a role in each market, the structural forces driving up yields are global in nature, as Bloomberg's Ven Ram explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/why-long-dated-bonds-are-at-epicenter-of-investor-angst-video",
-    "published": "Tue, 18 Aug 2026 08:48:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:35.310775"
-  },
-  {
-    "id": "5e4ad08a6111",
-    "title": "Botswana Transport Minister Noah Salakae Resigns",
-    "title_cn": "博茨瓦纳交通部长诺亚·萨拉凯辞职",
-    "summary": "Botswana’s transport and infrastructure minister, Noah Salakae, tendered his resignation to lawmakers, citing a probe into alleged corruption.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/botswana-transport-minister-noah-salakae-resigns",
-    "published": "Tue, 18 Aug 2026 15:01:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:36.547402"
+    "fetched_at": "2026-08-18T15:50:45.112247"
   },
   {
     "id": "b213f6902156",
@@ -617,7 +607,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/estonia-probes-russia-link-in-fire-at-defense-manufacturer",
     "published": "Tue, 18 Aug 2026 14:53:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:36.710265"
+    "fetched_at": "2026-08-18T15:50:45.654278"
+  },
+  {
+    "id": "e4a581158590",
+    "title": "US to Lift Strict Anti-Terrorism Conditions on Nigerian Vessels",
+    "title_cn": "美国取消对尼日利亚船只的严格反恐条件",
+    "summary": "The US is easing long-standing conditions on Nigerian vessels entering its waters, after ports in the West African nation were judged to have improved their anti-terrorism safeguards.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-to-lift-strict-anti-terrorism-conditions-on-nigerian-vessels",
+    "published": "Tue, 18 Aug 2026 15:31:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:45.779178"
+  },
+  {
+    "id": "ab3455afcde2",
+    "title": "US-Iran Peace Prospects Dim as Trump Rejects Truce Extension",
+    "title_cn": "特朗普拒绝延长停战协议，美伊和平前景黯淡",
+    "summary": "The prospects for peace in the Middle East suffered a fresh setback, with President Donald Trump saying he’s not interested in extending the expiring agreement with Iran and tensions flaring anew in the Strait of Hormuz.\nWayne Sanders, Senior Defense Analyst for Bloomberg Intelligence, discusses the latest Iran headlines and the ramp-up of American military production. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-18/us-iran-peace-prospects-dim-as-trump-rejects-extension-video",
+    "published": "Tue, 18 Aug 2026 15:17:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:45.861310"
+  },
+  {
+    "id": "5e4ad08a6111",
+    "title": "Botswana Transport Minister Noah Salakae Resigns",
+    "title_cn": "博茨瓦纳交通部长诺亚·萨拉凯辞职",
+    "summary": "Botswana’s transport and infrastructure minister, Noah Salakae, tendered his resignation to lawmakers, citing a probe into alleged corruption.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/botswana-transport-minister-noah-salakae-resigns",
+    "published": "Tue, 18 Aug 2026 15:01:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-18T15:50:45.977729"
   },
   {
     "id": "d1939871c2d1",
@@ -627,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/quebec-separatists-won-t-hold-independence-vote-until-trump-is-gone",
     "published": "Tue, 18 Aug 2026 14:32:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:36.824619"
+    "fetched_at": "2026-08-18T15:50:46.076535"
   },
   {
     "id": "dc14462b7e3a",
@@ -637,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/pakistan-top-court-orders-ex-pm-imran-khan-be-moved-to-hospital",
     "published": "Tue, 18 Aug 2026 08:43:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:36.917098"
+    "fetched_at": "2026-08-18T15:50:46.173482"
   },
   {
     "id": "4924a44613cb",
@@ -647,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/zimbabwe-s-president-appoints-us-sanctioned-tycoon-to-senate",
     "published": "Tue, 18 Aug 2026 14:11:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.012933"
+    "fetched_at": "2026-08-18T15:50:46.295966"
   },
   {
     "id": "459d23253e27",
@@ -657,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/australia-to-crack-down-on-high-pressure-sales-for-pension-plans",
     "published": "Tue, 18 Aug 2026 14:01:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.155224"
+    "fetched_at": "2026-08-18T15:50:46.407152"
   },
   {
     "id": "659036893b52",
@@ -667,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/myanmar-s-leader-to-meet-putin-on-first-moscow-trip-as-president",
     "published": "Tue, 18 Aug 2026 03:01:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.283743"
+    "fetched_at": "2026-08-18T15:50:46.572324"
   },
   {
     "id": "dbbff072695e",
@@ -677,17 +697,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
     "published": "Tue, 18 Aug 2026 07:27:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.405886"
+    "fetched_at": "2026-08-18T15:50:46.701465"
   },
   {
     "id": "218007eacc30",
     "title": "Burnham Says He’s Not Embarrassed After Messaging Top Trump Aide Impersonator",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "伯纳姆表示，在给特朗普高级助手模仿者发消息后，他并不感到尴尬",
     "summary": "UK Prime Minister Andy Burnham said he is not embarrassed after exchanging messages with someone pretending to be Donald Trump’s chief of staff, insisting he “did everything right.”",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/burnham-says-he-s-not-embarrassed-after-messaging-top-trump-aide-impersonator",
     "published": "Tue, 18 Aug 2026 12:47:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.513253"
+    "fetched_at": "2026-08-18T15:50:46.805118"
   },
   {
     "id": "fa512436fcc2",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/doj-official-flags-stanford-for-scrutiny-over-foreign-donations",
     "published": "Mon, 17 Aug 2026 21:54:58 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.612031"
+    "fetched_at": "2026-08-18T15:50:46.907816"
   },
   {
     "id": "f85007ff380c",
@@ -707,17 +727,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
     "published": "Tue, 18 Aug 2026 11:23:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.719448"
+    "fetched_at": "2026-08-18T15:50:47.018528"
   },
   {
     "id": "f4ae745f68a2",
     "title": "USS Lincoln Scrutiny Amplifies Democrats’ Iran War Critiques",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "林肯号航空母舰的审查放大了民主党对伊朗战争的批评",
     "summary": "Democrats have voiced growing concern about conditions aboard the aircraft carrier.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/uss-lincoln-scrutiny-amplifies-democrats-iran-war-critiques",
     "published": "Tue, 18 Aug 2026 11:21:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.815237"
+    "fetched_at": "2026-08-18T15:50:47.145261"
   },
   {
     "id": "4a1119249885",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-pick-in-gop-florida-governor-race-byron-donalds-must-win-crowded-primary",
     "published": "Tue, 18 Aug 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:37.927431"
+    "fetched_at": "2026-08-18T15:50:47.256814"
   },
   {
     "id": "b966c312fccf",
@@ -737,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-17/trump-s-big-bend-border-project-paused-after-bulldozers-arrive",
     "published": "Mon, 17 Aug 2026 18:58:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:45.406296"
+    "fetched_at": "2026-08-18T15:50:47.343367"
   },
   {
     "id": "6e4ae9372311",
@@ -747,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-plays-kim-jong-un-card-to-pressure-south-korea-over-trade",
     "published": "Tue, 18 Aug 2026 10:48:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:45.530543"
+    "fetched_at": "2026-08-18T15:50:47.453356"
   },
   {
     "id": "d4ef9e7773dc",
@@ -757,17 +777,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-xi-to-skip-un-meeting-during-trip-to-us-politico-says",
     "published": "Tue, 18 Aug 2026 02:27:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:45.692268"
+    "fetched_at": "2026-08-18T15:50:47.567129"
   },
   {
     "id": "fbfcb2c600ec",
     "title": "Indonesia’s Prabowo Aims for Boring to Soothe Worried Investors",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "印度尼西亚的普拉博沃旨在通过无聊来安抚忧心忡忡的投资者",
     "summary": "The president tries pragmatism after jolting markets with big changes to the economy.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/indonesia-s-prabowo-aims-for-boring-to-soothe-worried-investors",
     "published": "Tue, 18 Aug 2026 09:59:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:45.787795"
+    "fetched_at": "2026-08-18T15:50:47.666689"
   },
   {
     "id": "8c6258dea1f4",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/russia-threatens-uk-over-ukraine-using-british-drones-in-attacks",
     "published": "Tue, 18 Aug 2026 07:01:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-18T15:15:45.899744"
-  },
-  {
-    "id": "026770221ef5",
-    "title": "Trump Takes Hard Line on Iran With Control of Hormuz in Limbo",
-    "title_cn": "特朗普对伊朗采取强硬立场，控制霍尔木兹海峡",
-    "summary": "US President Donald Trump said he won’t try to revive a stalled truce with Iran, leaving the simmering conflict in the Middle East and a tussle for control of the Strait of Hormuz stuck in limbo. Bloomberg's Abeer Abu Omar has more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/trump-takes-hard-line-on-iran-with-hormuz-in-limbo-video",
-    "published": "Tue, 18 Aug 2026 08:39:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:46.020537"
-  },
-  {
-    "id": "37c22b974c9b",
-    "title": "China’s Top Envoy to Visit Seoul as Trump Shakes US-Korea Ties",
-    "title_cn": "特朗普动摇美韩关系之际，中国最高特使将访问首尔",
-    "summary": "Chinese Foreign Minister Wang Yi will visit South Korea for two days from Wednesday, stepping up engagement with Seoul as President Donald Trump sows doubts about Washington’s reliability in the region.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-top-envoy-to-visit-seoul-as-trump-shakes-us-korea-ties",
-    "published": "Tue, 18 Aug 2026 07:46:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-18T15:15:46.145607"
+    "fetched_at": "2026-08-18T15:50:47.793948"
   }
 ]
