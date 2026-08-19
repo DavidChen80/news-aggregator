@@ -1,133 +1,53 @@
 [
   {
-    "id": "69feb1b4a6ed",
-    "title": "US-Canada trade talks",
-    "title_cn": "美加贸易谈判",
-    "summary": "Trump said a deal was close, subject to paperwork, while Carney was more circumspect about the progress",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/us-canada-trade-talks",
-    "published": "Wed, 19 Aug 2026 11:00:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.250576"
-  },
-  {
-    "id": "a0bff6781ce1",
-    "title": "Monte Paschi CEO May Present Bids for Banco BPM, Banca Generali: Report",
-    "title_cn": "Monte Paschi 首席执行官可能会对 Banco BPM 和 Banca Generali 提出投标：报告",
-    "summary": "Banca Monte dei Paschi di Siena SpA’s board of directors is set to review strategic alternatives to Intesa Sanpaolo SpA’s takeover bid that may include offers for Banco BPM SpA and for Banca Generali SpA, a person familiar with the matter said.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/paschi-ceo-mulling-bids-for-banco-bpm-banca-generali-sole-says",
-    "published": "Wed, 19 Aug 2026 06:26:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.366558"
-  },
-  {
-    "id": "c887f4c5825e",
-    "title": "Trump Delays Canada Tariffs at Last Minute After Tentative Deal",
-    "title_cn": "特朗普在临时协议后最后一刻推迟对加拿大征收关税",
-    "summary": "Here’s what you need to know to start your day",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/trump-delays-canada-tariffs-at-last-minute-after-tentative-deal",
-    "published": "Wed, 19 Aug 2026 10:41:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.491457"
-  },
-  {
-    "id": "b03afcc6abc9",
-    "title": "Florida Primary Election Upset, Canada Tariffs Delayed, More",
-    "title_cn": "佛罗里达州初选失控、加拿大关税推迟等等",
-    "summary": "Source: Bloomberg, 5:59",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/florida-primary-election-upset-canada-tariffs-delayed-more",
-    "published": "Wed, 19 Aug 2026 10:24:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.585325"
-  },
-  {
-    "id": "df10bc18a3c3",
-    "title": "Masters of the Muniverse: JPMorgan and the Muni SMA Revolution",
-    "title_cn": "宇宙大师：摩根大通和 Muni SMA 革命",
-    "summary": "Municipal separately managed accounts (SMAs) have exploded 16-fold in market share, becoming a predominant investment vehicle in the post-global financial crisis world, with tight spreads and low ratios making alpha elusive. In this episode of Masters of the Muniverse, Bloomberg Intelligence’s new head of municipal research and strategy, Matthew Gastall, sits down with two guests from JPMorgan, the world’s second-largest SMA provider. Dan Freise, senior portfolio manager and lead trader at J.P.",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/masters-of-the-muniverse-jpmorgan-and-the-muni-sma-revolution",
-    "published": "Wed, 19 Aug 2026 10:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.697486"
-  },
-  {
-    "id": "4a24bb4251cc",
-    "title": "Bloomberg Daybreak: Trump Delays Canada Tariffs (Podcast)",
-    "title_cn": "彭博黎明：特朗普推迟对加拿大征收关税（播客）",
-    "summary": "Source: Bloomberg, 15:60",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-trump-delays-canada-tariffs-podcast",
-    "published": "Wed, 19 Aug 2026 09:42:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.804445"
-  },
-  {
-    "id": "c3033bb41ba5",
-    "title": "Tech Rally at Risk as Rising Yields Drive up Borrowing Costs for AI Buildout",
-    "title_cn": "由于收益率上升推高人工智能建设的借贷成本，科技股涨势面临风险",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/tech-rally-at-risk-as-rising-yields-drive-up-borrowing-costs-for-ai-buildout",
-    "published": "Wed, 19 Aug 2026 09:32:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:17.958512"
-  },
-  {
-    "id": "ae895511aacc",
-    "title": "Primary Election Results, Trump Delays Canada Tariffs, More",
-    "title_cn": "初选结果、特朗普推迟对加拿大征收关税等",
-    "summary": "Source: Bloomberg, 6:01",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/primary-election-results-trump-delays-canada-tariffs-more",
-    "published": "Wed, 19 Aug 2026 09:30:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.051979"
-  },
-  {
-    "id": "4c11ae0b16ec",
-    "title": "Stock Movers: Trainline, Smith & Nephew, Straumann (Podcast)",
-    "title_cn": "库存搬运商：Trainline、Smith & Nephew、Straumann（播客）",
-    "summary": "Source: Bloomberg, 4:02",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-trainline-smith-nephew-straumann-podcast",
-    "published": "Wed, 19 Aug 2026 09:18:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.179671"
-  },
-  {
-    "id": "e80940da1cce",
-    "title": "Global Chip Stock Drop, Florida Democrat Primary Surprise, More",
-    "title_cn": "全球芯片库存下跌、佛罗里达州民主党初选意外等",
+    "id": "e2e50f846102",
+    "title": "Surprise in Florida Primary, Canadian Tariffs Delayed, More",
+    "title_cn": "佛罗里达州初选的惊喜、加拿大关税推迟等等",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/global-chip-stock-drop-florida-democrat-primary-surprise-more",
-    "published": "Wed, 19 Aug 2026 08:53:30 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/surprise-in-florida-primary-canadian-tariffs-delayed-more",
+    "published": "Wed, 19 Aug 2026 11:37:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.264592"
+    "fetched_at": "2026-08-19T11:42:03.223904"
   },
   {
-    "id": "0f1bff459bb1",
-    "title": "Global Chip Stocks Fall, Swiss Neutrality Vote, More",
-    "title_cn": "全球芯片股下跌、瑞士中立投票等",
+    "id": "03bd4da3d965",
+    "title": "Burnham Takes On a Problem That Defeated Him in Manchester",
+    "title_cn": "伯纳姆直面在曼彻斯特击败他的问题",
+    "summary": "The first policy that Andy Burnham announced when he became prime minister was £330 million ($447 million) to end homelessness. It raised the question of how he could stop people sleeping on the streets of Britain when he’d failed to eliminate the problem during his nine years as mayor of Greater Manchester.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/burnham-takes-on-a-problem-that-defeated-him-in-manchester",
+    "published": "Wed, 19 Aug 2026 11:18:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:03.463469"
+  },
+  {
+    "id": "df32e6fdcb4f",
+    "title": "European Financial Firms Set for Record €228 Billion in Payouts",
+    "title_cn": "欧洲金融公司支出创历史新高 2280 亿欧元",
+    "summary": "European banks and other financial companies are set to pay out a record €228 billion ($264.7 billion) this year to shareholders, according to Bloomberg Intelligence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/european-financial-firms-set-for-record-228-billion-in-payouts",
+    "published": "Wed, 19 Aug 2026 11:17:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:03.607624"
+  },
+  {
+    "id": "52a3b8d3f519",
+    "title": "Zero: This Century’s Growth Story Is Climate, Not AI (Podcast)",
+    "title_cn": "零：本世纪的增长故事是气候，而不是人工智能（播客）",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/global-chip-stocks-fall-swiss-neutrality-vote-more",
-    "published": "Wed, 19 Aug 2026 08:53:17 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/zero-this-century-s-growth-story-is-climate-not-ai-podcast",
+    "published": "Wed, 19 Aug 2026 11:13:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.385042"
+    "fetched_at": "2026-08-19T11:42:03.714276"
   },
   {
-    "id": "9397e81c7001",
-    "title": "Stock Movers: Carlsberg, Frontline, Smith & Nephew (Podcast)",
-    "title_cn": "库存推动者：Carlsberg、Frontline、Smith & Nephew（播客）",
-    "summary": "Source: Bloomberg, 5:12",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-carlsberg-frontline-smith-nephew-podcast",
-    "published": "Wed, 19 Aug 2026 08:13:51 GMT",
+    "id": "cebd79fad3f7",
+    "title": "Stock Movers: Target, Lowe's, SK Hynix (Podcast)",
+    "title_cn": "库存推动者：Target、Lowe's、SK Hynix（播客）",
+    "summary": "Source: Bloomberg, 4:28",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-target-lowe-s-sk-hynix-podcast",
+    "published": "Wed, 19 Aug 2026 11:11:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.502955"
-  },
-  {
-    "id": "423e89c2ad0e",
-    "title": "Energy Bill Rise Pushes UK Inflation Higher, Piling More Pressure on Consumers",
-    "title_cn": "能源费用上涨推高英国通胀，给消费者带来更大压力",
-    "summary": "Inflation accelerates; Trainline under investigation",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/energy-bill-rise-pushes-uk-inflation-higher-piling-more-pressure-on-consumers",
-    "published": "Wed, 19 Aug 2026 07:19:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.582773"
+    "fetched_at": "2026-08-19T11:42:03.817164"
   },
   {
     "id": "8d11861ca595",
@@ -137,67 +57,197 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/virgin-atlantic-trainline-face-uk-probe-over-misleading-retail-pricing",
     "published": "Wed, 19 Aug 2026 07:06:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.684418"
+    "fetched_at": "2026-08-19T11:42:03.919647"
   },
   {
-    "id": "376b886a6784",
-    "title": "UK Inflation Climbs to Four-Month High, US Primaries, More",
-    "title_cn": "英国通胀攀升至四个月高点、美国初选等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/uk-inflation-climbs-to-four-month-high-us-primaries-more",
-    "published": "Wed, 19 Aug 2026 06:59:56 GMT",
+    "id": "b81ba4568d42",
+    "title": "Private Equity’s ‘Living Dead’: Thousands of Zombie Firms Comatose Since 2021",
+    "title_cn": "私募股权“活死人”：2021年以来数千家僵尸公司陷入昏迷",
+    "summary": "Problem companies are growing in number and may be beyond help as tighter credit conditions loom, PitchBook says",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/private-equity-s-living-dead-thousands-of-zombie-firms-comatose-since-2021",
+    "published": "Wed, 19 Aug 2026 11:04:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.804433"
+    "fetched_at": "2026-08-19T11:42:04.112451"
   },
   {
-    "id": "8b1b12bd2aa0",
-    "title": "Investors Ditch Chip Stocks After Global Bond Selloff",
-    "title_cn": "全球债券抛售后投资者抛弃芯片股",
+    "id": "69feb1b4a6ed",
+    "title": "US-Canada trade talks",
+    "title_cn": "美加贸易谈判",
+    "summary": "Trump said a deal was close, subject to paperwork, while Carney was more circumspect about the progress",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/us-canada-trade-talks",
+    "published": "Wed, 19 Aug 2026 11:00:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.233141"
+  },
+  {
+    "id": "a0bff6781ce1",
+    "title": "Monte Paschi CEO May Present Bids for Banco BPM, Banca Generali: Report",
+    "title_cn": "Monte Paschi 首席执行官可能会对 Banco BPM 和 Banca Generali 提出投标：报告",
+    "summary": "Banca Monte dei Paschi di Siena SpA’s board of directors is set to review strategic alternatives to Intesa Sanpaolo SpA’s takeover bid that may include offers for Banco BPM SpA and for Banca Generali SpA, a person familiar with the matter said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/paschi-ceo-mulling-bids-for-banco-bpm-banca-generali-sole-says",
+    "published": "Wed, 19 Aug 2026 06:26:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.346398"
+  },
+  {
+    "id": "c887f4c5825e",
+    "title": "Trump Delays Canada Tariffs at Last Minute After Tentative Deal",
+    "title_cn": "特朗普在临时协议后最后一刻推迟对加拿大征收关税",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/trump-delays-canada-tariffs-at-last-minute-after-tentative-deal",
+    "published": "Wed, 19 Aug 2026 10:41:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.463354"
+  },
+  {
+    "id": "b03afcc6abc9",
+    "title": "Florida Primary Election Upset, Canada Tariffs Delayed, More",
+    "title_cn": "佛罗里达州初选失控、加拿大关税推迟等等",
+    "summary": "Source: Bloomberg, 5:59",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/florida-primary-election-upset-canada-tariffs-delayed-more",
+    "published": "Wed, 19 Aug 2026 10:24:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.579856"
+  },
+  {
+    "id": "df10bc18a3c3",
+    "title": "Masters of the Muniverse: JPMorgan and the Muni SMA Revolution",
+    "title_cn": "宇宙大师：摩根大通和 Muni SMA 革命",
+    "summary": "Municipal separately managed accounts (SMAs) have exploded 16-fold in market share, becoming a predominant investment vehicle in the post-global financial crisis world, with tight spreads and low ratios making alpha elusive. In this episode of Masters of the Muniverse, Bloomberg Intelligence’s new head of municipal research and strategy, Matthew Gastall, sits down with two guests from JPMorgan, the world’s second-largest SMA provider. Dan Freise, senior portfolio manager and lead trader at J.P.",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/masters-of-the-muniverse-jpmorgan-and-the-muni-sma-revolution",
+    "published": "Wed, 19 Aug 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.695008"
+  },
+  {
+    "id": "4a24bb4251cc",
+    "title": "Bloomberg Daybreak: Trump Delays Canada Tariffs (Podcast)",
+    "title_cn": "彭博黎明：特朗普推迟对加拿大征收关税（播客）",
+    "summary": "Source: Bloomberg, 15:60",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-trump-delays-canada-tariffs-podcast",
+    "published": "Wed, 19 Aug 2026 09:42:58 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:04.869786"
+  },
+  {
+    "id": "c3033bb41ba5",
+    "title": "Tech Rally at Risk as Rising Yields Drive up Borrowing Costs for AI Buildout",
+    "title_cn": "由于收益率上升推高人工智能建设的借贷成本，科技股涨势面临风险",
     "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/investors-ditch-chip-stocks-after-global-bond-selloff",
-    "published": "Wed, 19 Aug 2026 06:28:02 GMT",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/tech-rally-at-risk-as-rising-yields-drive-up-borrowing-costs-for-ai-buildout",
+    "published": "Wed, 19 Aug 2026 09:32:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:18.935433"
+    "fetched_at": "2026-08-19T11:42:04.971191"
   },
   {
-    "id": "f2146a8b9d2a",
-    "title": "Stock Movers: Unitree, Baidu, Xiaomi (Podcast)",
-    "title_cn": "股票推动者：Unitree、百度、小米（播客）",
-    "summary": "Source: Bloomberg, 5:11",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-unitree-baidu-xiaomi-podcast",
-    "published": "Wed, 19 Aug 2026 06:27:11 GMT",
+    "id": "ae895511aacc",
+    "title": "Primary Election Results, Trump Delays Canada Tariffs, More",
+    "title_cn": "初选结果、特朗普推迟对加拿大征收关税等",
+    "summary": "Source: Bloomberg, 6:01",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/primary-election-results-trump-delays-canada-tariffs-more",
+    "published": "Wed, 19 Aug 2026 09:30:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:19.063081"
+    "fetched_at": "2026-08-19T11:42:05.060835"
   },
   {
-    "id": "d13155a659e4",
-    "title": "'AI Tentacle’ Market Risk, US Primary Results, More",
-    "title_cn": "“人工智能触手”市场风险、美国初选结果等",
+    "id": "4c11ae0b16ec",
+    "title": "Stock Movers: Trainline, Smith & Nephew, Straumann (Podcast)",
+    "title_cn": "库存搬运商：Trainline、Smith & Nephew、Straumann（播客）",
+    "summary": "Source: Bloomberg, 4:02",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-trainline-smith-nephew-straumann-podcast",
+    "published": "Wed, 19 Aug 2026 09:18:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:05.192645"
+  },
+  {
+    "id": "e80940da1cce",
+    "title": "Global Chip Stock Drop, Florida Democrat Primary Surprise, More",
+    "title_cn": "全球芯片库存下跌、佛罗里达州民主党初选意外等",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/-ai-tentacle-market-risk-us-primary-results-more",
-    "published": "Wed, 19 Aug 2026 06:15:37 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/global-chip-stock-drop-florida-democrat-primary-surprise-more",
+    "published": "Wed, 19 Aug 2026 08:53:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:19.157934"
+    "fetched_at": "2026-08-19T11:42:05.295484"
   },
   {
-    "id": "ac221541f327",
-    "title": "Bloomberg Daybreak Europe: ‘AI Tentacle’ Market Risk (Podcast)",
-    "title_cn": "彭博黎明欧洲：“人工智能触手”市场风险（播客）",
+    "id": "0f1bff459bb1",
+    "title": "Global Chip Stocks Fall, Swiss Neutrality Vote, More",
+    "title_cn": "全球芯片股下跌、瑞士中立投票等",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-19/bloomberg-daybreak-europe-ai-tentacle-market-risk-podcast",
-    "published": "Wed, 19 Aug 2026 05:50:58 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/global-chip-stocks-fall-swiss-neutrality-vote-more",
+    "published": "Wed, 19 Aug 2026 08:53:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:19.274432"
+    "fetched_at": "2026-08-19T11:42:05.518757"
   },
   {
-    "id": "1ee826046e30",
-    "title": "Defense Tech Firm Lyntris, Backers Raise $297.5 Million in IPO",
-    "title_cn": "国防科技公司 Lyntris 及其支持者在 IPO 中筹集 2.975 亿美元",
-    "summary": "Lyntris Inc. and some of its backers raised $297.5 million in a downsized US initial public offering that priced below its marketed range.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/defense-tech-firm-lyntris-backers-raise-297-5-million-in-ipo",
-    "published": "Wed, 19 Aug 2026 03:49:28 GMT",
+    "id": "9397e81c7001",
+    "title": "Stock Movers: Carlsberg, Frontline, Smith & Nephew (Podcast)",
+    "title_cn": "库存推动者：Carlsberg、Frontline、Smith & Nephew（播客）",
+    "summary": "Source: Bloomberg, 5:12",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/stock-movers-carlsberg-frontline-smith-nephew-podcast",
+    "published": "Wed, 19 Aug 2026 08:13:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:19.361934"
+    "fetched_at": "2026-08-19T11:42:05.604227"
+  },
+  {
+    "id": "423e89c2ad0e",
+    "title": "Energy Bill Rise Pushes UK Inflation Higher, Piling More Pressure on Consumers",
+    "title_cn": "能源费用上涨推高英国通胀，给消费者带来更大压力",
+    "summary": "Inflation accelerates; Trainline under investigation",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/energy-bill-rise-pushes-uk-inflation-higher-piling-more-pressure-on-consumers",
+    "published": "Wed, 19 Aug 2026 07:19:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:05.693641"
+  },
+  {
+    "id": "d48104b45b62",
+    "title": "Gold Edges Higher as Dollar Slips and US Bonds Stabilize",
+    "title_cn": "随着美元下跌和美国债券企稳，金价小幅走高",
+    "summary": "Gold rose as a selloff in US bonds eased and the greenback fell, relieving pressure on the precious metal after it fell the most in almost a month on Tuesday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
+    "published": "Tue, 18 Aug 2026 23:42:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.108193"
+  },
+  {
+    "id": "5c2b449c4b7e",
+    "title": "What Is Iran’s Ability to Target US Bases in Europe?",
+    "title_cn": "伊朗瞄准美国在欧洲基地的能力有多大？",
+    "summary": "Former US Central Command Director of Intelligence Lt. General Karen Gibson (Ret.) examines Iran’s capabilities for launching attacks on US military bases in Europe. The Financial Times reports that the Islamic Republic is weighing strikes should President Donald Trump escalate the war in the Middle East. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/what-is-iran-s-ability-to-target-us-bases-in-europe-video",
+    "published": "Wed, 19 Aug 2026 11:25:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.255105"
+  },
+  {
+    "id": "1e0b05c2a041",
+    "title": "Ethiopia’s Birr Sinks as Central Bank Burns Through Dollars",
+    "title_cn": "埃塞俄比亚比尔因央行烧毁美元而下跌",
+    "summary": "Ethiopia is burning through billions of dollars in a frantic — and so far unsuccessful — bid to stem the selloff in its currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ethiopia-s-currency-sinks-as-central-bank-burns-through-dollars",
+    "published": "Wed, 19 Aug 2026 06:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.357122"
+  },
+  {
+    "id": "267c1cc71221",
+    "title": "Copper Rushes Into LME Warehouses to Ease Historic Supply Crunch",
+    "title_cn": "铜涌入 LME 仓库以缓解历史性的供应紧缩",
+    "summary": "A historic squeeze on the copper market eased somewhat after large inflows of readily available metal into the London Metal Exchange, although signs of underlying physical tightness remain.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
+    "published": "Wed, 19 Aug 2026 03:07:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.516067"
+  },
+  {
+    "id": "87056d4ed32d",
+    "title": "Stocks Waver as Oil Keeps Bonds Under Pressure: Markets Wrap",
+    "title_cn": "由于石油使债券承受压力，股市波动：市场结束",
+    "summary": "Stocks wavered and long-dated bonds remained under pressure as higher oil prices kept traders cautious following days of yields at multidecade highs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.621572"
   },
   {
     "id": "abf7b202fbd1",
@@ -207,7 +257,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/lowe-s-cuts-outlook-as-soft-housing-market-curbs-demand",
     "published": "Wed, 19 Aug 2026 10:16:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:19.903150"
+    "fetched_at": "2026-08-19T11:42:06.710689"
+  },
+  {
+    "id": "a3da346282a5",
+    "title": "EQT Takes Majority Stake in Melbourne Storm Rugby League Club",
+    "title_cn": "EQT 收购墨尔本风暴橄榄球联盟俱乐部多数股权",
+    "summary": "Swedish buyout firm EQT AB has moved into a niche corner of the global sports market by taking a majority stake in Melbourne Storm, one of Australia’s leading rugby league clubs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/eqt-takes-majority-stake-in-melbourne-storm-rugby-league-club",
+    "published": "Wed, 19 Aug 2026 10:50:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:06.825087"
   },
   {
     "id": "e5c7e4fca927",
@@ -217,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/saudis-give-full-oil-allocations-to-at-least-three-europe-buyers",
     "published": "Wed, 19 Aug 2026 10:38:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.055502"
+    "fetched_at": "2026-08-19T11:42:06.928733"
   },
   {
     "id": "e6706c7ef580",
@@ -227,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/hkex-sees-strong-ipo-pipeline-with-international-firms-video",
     "published": "Wed, 19 Aug 2026 10:33:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.153671"
+    "fetched_at": "2026-08-19T11:42:07.037798"
   },
   {
     "id": "d6a0f1fc7e07",
@@ -237,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/india-says-monsoon-crop-sowing-has-recovered-after-july-rains",
     "published": "Wed, 19 Aug 2026 09:40:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.253292"
+    "fetched_at": "2026-08-19T11:42:07.132782"
   },
   {
     "id": "661eefe106ad",
@@ -247,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/markets-are-boring-but-not-concerning-deutsche-bank-video",
     "published": "Wed, 19 Aug 2026 10:17:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.378003"
+    "fetched_at": "2026-08-19T11:42:07.240763"
   },
   {
     "id": "ebfd83bed453",
@@ -257,17 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/deutsche-bank-s-uleer-says-stocks-can-power-through-rate-rise",
     "published": "Wed, 19 Aug 2026 10:13:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.478780"
-  },
-  {
-    "id": "87056d4ed32d",
-    "title": "Stocks Waver as Rising Oil Keeps Yields Elevated: Markets Wrap",
-    "title_cn": "油价上涨导致收益率走高，股市波动：市场总结",
-    "summary": "US stocks wavered and global bonds remained under pressure as higher oil prices kept traders cautious after days that saw rates at levels not seen in decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.561903"
+    "fetched_at": "2026-08-19T11:42:07.328085"
   },
   {
     "id": "c1da26ea5320",
@@ -277,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court",
     "published": "Wed, 19 Aug 2026 00:51:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.671731"
+    "fetched_at": "2026-08-19T11:42:07.474916"
   },
   {
     "id": "a56338194190",
@@ -287,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/shorter-is-better-to-bond-traders-seeking-shelter",
     "published": "Wed, 19 Aug 2026 10:10:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:20.775443"
+    "fetched_at": "2026-08-19T11:42:07.587679"
   },
   {
     "id": "53df450b4d78",
@@ -297,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/second-nord-stream-sabotage-suspect-arrested-in-croatia",
     "published": "Wed, 19 Aug 2026 10:03:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.005398"
+    "fetched_at": "2026-08-19T11:42:07.683909"
   },
   {
     "id": "62a90b380c2f",
@@ -307,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/anwar-s-taiwan-remarks-draw-praise-from-china-taipei-rebuke",
     "published": "Wed, 19 Aug 2026 10:00:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.167893"
+    "fetched_at": "2026-08-19T11:42:07.794221"
   },
   {
     "id": "83237c445dd6",
@@ -317,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/latest-oil-market-news-and-analysis-for-aug-19",
     "published": "Tue, 18 Aug 2026 22:02:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.275402"
+    "fetched_at": "2026-08-19T11:42:07.888229"
   },
   {
     "id": "7ae70f893fe2",
@@ -327,17 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/eqt-is-said-to-mull-sale-of-english-language-schools-in-vietnam",
     "published": "Wed, 19 Aug 2026 09:25:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.376559"
-  },
-  {
-    "id": "267c1cc71221",
-    "title": "Copper Holds Loss as Deliveries to LME Mitigate Supply Crunch",
-    "title_cn": "铜价因向 LME 交货缓解供应紧缩而保持亏损",
-    "summary": "Copper declined, while readily available stocks on the London Metal Exchange swelled to ease a historic squeeze on supplies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/copper-holds-loss-as-deliveries-to-lme-mitigate-supply-crunch",
-    "published": "Wed, 19 Aug 2026 03:07:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.460432"
+    "fetched_at": "2026-08-19T11:42:07.984060"
   },
   {
     "id": "0eac6fcdf708",
@@ -347,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/shell-trader-mansfield-resigns-after-26-years-at-oil-major",
     "published": "Wed, 19 Aug 2026 09:16:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.565939"
+    "fetched_at": "2026-08-19T11:42:08.073154"
   },
   {
     "id": "8e38edb62aff",
@@ -357,47 +397,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/two-chinese-supertankers-u-turn-in-hormuz-as-risks-remain-high",
     "published": "Wed, 19 Aug 2026 05:15:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.678202"
+    "fetched_at": "2026-08-19T11:42:08.178852"
   },
   {
-    "id": "083dea7e1ab5",
-    "title": "Copper's Upward Trend Can Continue, BlackRock Says",
-    "title_cn": "贝莱德表示铜价的上涨趋势可能会持续",
-    "summary": "\"The trend is very much your friend,\" says Evy Hambro, head of fundamental equities thematic and sector investing at BlackRock, when asked about the rise in copper prices. \"We are seeing a very tight market,\" he tells Bloomberg Television. \"It's very easy to say: well, okay, it's gone up a lot and we should ignore it, and it's too late. The reality is, if you've done that you've missed out.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/copper-s-upward-trend-can-continue-blackrock-says-video",
-    "published": "Wed, 19 Aug 2026 09:15:05 GMT",
+    "id": "8b321049657b",
+    "title": "Nvidia Tries to Spur the AI Boom Into the Future",
+    "title_cn": "Nvidia 试图推动 AI 繁荣走向未来",
+    "summary": "The company seeks to extend demand for the technology to a time chips will be plentiful",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/nvidia-tries-to-spur-the-ai-boom-into-the-future",
+    "published": "Wed, 19 Aug 2026 11:02:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.761467"
-  },
-  {
-    "id": "e1122b637520",
-    "title": "Libyan Protests Flare as Government Struggles to Keep Lights On",
-    "title_cn": "政府努力维持照明，利比亚抗议活动爆发",
-    "summary": "Protests broke out again in the Libyan capital after the energy-rich country suffered its third widespread blackout in two days, fueling public anger over deteriorating basic services.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/libyan-protests-flare-as-government-struggles-to-keep-lights-on",
-    "published": "Wed, 19 Aug 2026 08:56:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.860216"
-  },
-  {
-    "id": "31555094e9fe",
-    "title": "Bond Traders Are Hedging the Risk Fed Pivots to Cuts in 2027",
-    "title_cn": "债券交易员正在对冲美联储在 2027 年转向降息的风险",
-    "summary": "Bond traders are changing gears again. After a raft of data helped all but price out interest-rate hikes for the rest of the year, wagers in the options market are looking to hedge the risk that the Federal Reserve pivots to cutting rates in 2027.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/bond-traders-are-hedging-risk-fed-pivots-to-rate-cuts-in-2027",
-    "published": "Tue, 18 Aug 2026 20:30:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:21.972992"
-  },
-  {
-    "id": "dbce8f696da1",
-    "title": "Egypt Bond Risk at 2014 Low Shows Decade of Debt Distress Easing",
-    "title_cn": "2014 年埃及债券风险处于低位，表明十年来债务危机有所缓解",
-    "summary": "Record foreign-currency reserves and a vote of confidence from the International Monetary Fund have cut Egypt’s risk premium to the lowest since 2014.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/egypt-bond-risk-at-2014-low-shows-decade-of-debt-distress-easing",
-    "published": "Wed, 19 Aug 2026 08:35:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:22.078189"
+    "fetched_at": "2026-08-19T11:42:08.578811"
   },
   {
     "id": "97c7bcb5a031",
@@ -407,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/amazon-s-new-order-confirmation-emails-seen-boosting-phishing-risk",
     "published": "Wed, 19 Aug 2026 11:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:22.911634"
+    "fetched_at": "2026-08-19T11:42:08.690372"
   },
   {
     "id": "e67594875571",
@@ -417,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/ai-data-center-political-opposition-to-bring-stock-market-winners-and-losers",
     "published": "Wed, 19 Aug 2026 10:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.017305"
+    "fetched_at": "2026-08-19T11:42:08.817969"
   },
   {
     "id": "0f4cb4493f3b",
@@ -427,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-19/tech-tries-charm-offensive-to-save-trillion-dollar-ai-buildout",
     "published": "Wed, 19 Aug 2026 10:00:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.115634"
+    "fetched_at": "2026-08-19T11:42:08.938317"
   },
   {
     "id": "d4149f4ca605",
@@ -437,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/amazon-to-expand-drone-deliveries-to-suburban-chicago-atlanta",
     "published": "Wed, 19 Aug 2026 10:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.210572"
+    "fetched_at": "2026-08-19T11:42:09.047743"
   },
   {
     "id": "9bba82f7cf74",
@@ -447,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/kuaishou-earnings-drop-by-a-third-hit-by-ai-and-creator-costs",
     "published": "Wed, 19 Aug 2026 09:54:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.314187"
+    "fetched_at": "2026-08-19T11:42:09.166069"
   },
   {
     "id": "711fcbeff94a",
@@ -457,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
     "published": "Wed, 19 Aug 2026 06:56:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.426937"
+    "fetched_at": "2026-08-19T11:42:09.337203"
   },
   {
     "id": "4957df3c16cf",
@@ -467,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/sk-hynix-plans-29-billion-share-buyback-video",
     "published": "Wed, 19 Aug 2026 09:44:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.593950"
+    "fetched_at": "2026-08-19T11:42:09.431126"
   },
   {
     "id": "f8c09bfdb7db",
@@ -477,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/bain-unit-proterial-seeks-1-3-billion-from-japan-wire-firm-sale",
     "published": "Wed, 19 Aug 2026 03:15:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.685847"
+    "fetched_at": "2026-08-19T11:42:09.512692"
   },
   {
     "id": "b5d779ce1d2b",
@@ -487,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex",
     "published": "Wed, 19 Aug 2026 02:26:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.784076"
+    "fetched_at": "2026-08-19T11:42:09.620500"
   },
   {
     "id": "3aff1ce26751",
@@ -497,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/robot-dogs-make-chinese-billionaire-even-richer-despite-us-curbs",
     "published": "Tue, 18 Aug 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.892360"
+    "fetched_at": "2026-08-19T11:42:09.717987"
   },
   {
     "id": "7f786fcd8358",
@@ -507,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/europe-needs-to-spend-3t-to-cut-foreign-tech-reliance-video",
     "published": "Wed, 19 Aug 2026 08:53:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:23.992950"
+    "fetched_at": "2026-08-19T11:42:09.830246"
   },
   {
     "id": "75aba75c1544",
@@ -517,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/traders-weigh-concerns-surrounding-ai-buildout-video",
     "published": "Wed, 19 Aug 2026 08:23:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.104005"
+    "fetched_at": "2026-08-19T11:42:09.941539"
   },
   {
     "id": "c1470cbff1eb",
@@ -527,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
     "published": "Tue, 18 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.215560"
+    "fetched_at": "2026-08-19T11:42:10.053886"
   },
   {
     "id": "493a6e88bf51",
@@ -537,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost",
     "published": "Wed, 19 Aug 2026 03:56:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.320840"
+    "fetched_at": "2026-08-19T11:42:10.152906"
   },
   {
     "id": "d3c3840ba1a1",
@@ -547,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate",
     "published": "Tue, 18 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.408417"
+    "fetched_at": "2026-08-19T11:42:10.261136"
   },
   {
     "id": "838d87b344f0",
@@ -557,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/chip-selloff-extends-to-asia-as-samsung-sk-hynix-slump-video",
     "published": "Wed, 19 Aug 2026 05:52:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.511300"
+    "fetched_at": "2026-08-19T11:42:10.354079"
   },
   {
     "id": "6bd58f01e2b6",
@@ -567,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/the-china-show-8-19-2026-video",
     "published": "Wed, 19 Aug 2026 05:43:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.621105"
+    "fetched_at": "2026-08-19T11:42:10.444093"
   },
   {
     "id": "eb9c8bbfac63",
@@ -577,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/unitree-ipo-why-investors-are-betting-big-on-china-s-humanoid-robots",
     "published": "Wed, 19 Aug 2026 05:03:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.732339"
+    "fetched_at": "2026-08-19T11:42:10.533228"
   },
   {
     "id": "6c1eaded6e05",
@@ -587,27 +597,47 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/pony-ai-ceo-peng-optimistic-on-growth-outlook-video",
     "published": "Wed, 19 Aug 2026 04:45:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.819110"
+    "fetched_at": "2026-08-19T11:42:10.714295"
   },
   {
-    "id": "05daa47f74d0",
-    "title": "LG AI Research's Lee on The Importance of Sovereign AI",
-    "title_cn": "LG AI Research 的 Lee 谈主权人工智能的重要性",
-    "summary": "LG AI Research Head of Superintelligence Lab Lee Moon Tae shares his perspective on the future of superintelligence, the opportunities it unlocks and the responsibilities that come with building AI for the next era. He speaks with Haslinda Amin from the sidelines of 'AI Summit Seoul & Expo 2026'. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/lg-ai-research-s-lee-on-the-importance-of-sovereign-ai-video",
-    "published": "Wed, 19 Aug 2026 04:23:34 GMT",
+    "id": "e018e42f32ea",
+    "title": "Data Center Opponents Force Big Tech to Try a Charm Offensive",
+    "title_cn": "数据中心的对手迫使大型科技公司尝试魅力攻势",
+    "summary": "Amid bipartisan backlash, tech firms try softer approaches to win approval.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/data-center-opponents-force-big-tech-to-try-a-charm-offensive",
+    "published": "Wed, 19 Aug 2026 11:19:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:24.914932"
+    "fetched_at": "2026-08-19T11:42:11.011592"
   },
   {
     "id": "7bfd09e6d3bb",
-    "title": "Ukraine Gets Defense Chief as Ex-Minister Seeks Vote",
-    "title_cn": "乌克兰前部长寻求投票任命国防部长",
-    "summary": "Ukrainian lawmakers approved Yevhenii Khmara as defense minister as President Volodymyr Zelenskyy seeks to defuse domestic tensions sparked by his government reshuffle.",
+    "title": "Ukraine Gets New Defense Chief as Ex-Minister Seeks Election",
+    "title_cn": "乌克兰任命新国防部长，前部长寻求选举",
+    "summary": "Ukrainian lawmakers approved Yevhenii Khmara for defense minister as President Volodymyr Zelenskyy seeks to defuse domestic tensions sparked by his government reshuffle.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/ukraine-gets-new-defense-chief-as-ex-minister-calls-for-election",
     "published": "Wed, 19 Aug 2026 10:33:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:25.747689"
+    "fetched_at": "2026-08-19T11:42:11.122964"
+  },
+  {
+    "id": "8cd8edeea346",
+    "title": "Burnham Vows ‘Huge Transfer of Power’ From Treasury to No. 10 North",
+    "title_cn": "伯纳姆誓言从财政部向北十号进行“巨大的权力转移”",
+    "summary": "Prime Minister Andy Burnham said he will shift responsibility for economic growth away from the UK Treasury and toward his new office in the north of England.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/burnham-vows-huge-transfer-of-power-from-treasury-to-no-10-north",
+    "published": "Wed, 19 Aug 2026 07:09:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:11.207557"
+  },
+  {
+    "id": "0ac7b1caaf16",
+    "title": "Former DNC Chair Debbie Wasserman Schultz Wins House Primary",
+    "title_cn": "民主党全国委员会前主席黛比·沃瑟曼·舒尔茨赢得众议院初选",
+    "summary": "Former Democratic National Committee Chair Debbie Wasserman Schultz, a prolific fundraiser and a once-prominent messenger for the party, prevailed Tuesday in a South Florida congressional primary campaign marked by controversy over race and redistricting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/former-dnc-chair-debbie-wasserman-schultz-wins-house-primary",
+    "published": "Tue, 18 Aug 2026 23:29:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T11:42:11.327690"
   },
   {
     "id": "01b025301499",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/poland-plans-middle-class-tax-overhaul-ahead-of-election-as-bracket-creep-bites",
     "published": "Wed, 19 Aug 2026 10:45:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.432001"
+    "fetched_at": "2026-08-19T11:42:11.431804"
   },
   {
     "id": "460c88e35228",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/progressive-nixon-downs-vindman-in-florida-senate-primary-race",
     "published": "Wed, 19 Aug 2026 00:23:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.543601"
+    "fetched_at": "2026-08-19T11:42:11.795910"
   },
   {
     "id": "64081cfff21c",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-pauses-50-canada-tariffs-for-three-days-subject-to-a-deal-mszgvwa3",
     "published": "Wed, 19 Aug 2026 02:23:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.635831"
+    "fetched_at": "2026-08-19T11:42:12.091756"
   },
   {
     "id": "fe614a673aed",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/uae-cuts-economic-ties-with-iran-after-missiles-target-territory",
     "published": "Wed, 19 Aug 2026 07:44:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.738107"
+    "fetched_at": "2026-08-19T11:42:12.349088"
   },
   {
     "id": "1e5f542270e4",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/israel-turkey-tensions-rise-after-strikes-on-syria-air-base",
     "published": "Wed, 19 Aug 2026 10:13:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.847660"
+    "fetched_at": "2026-08-19T11:42:12.469913"
   },
   {
     "id": "908b002393c5",
@@ -667,17 +697,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/trump-allies-advance-critics-stumble-in-us-primaries-video",
     "published": "Wed, 19 Aug 2026 10:03:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:26.950172"
+    "fetched_at": "2026-08-19T11:42:12.568820"
   },
   {
     "id": "0334b9c3b77c",
     "title": "A Challenge to Zelenskyy on War and Democracy in Ukraine",
-    "title_cn": "就乌克兰的战争与民主向泽连斯基提出挑战",
+    "title_cn": "乌克兰战争与民主问题对泽连斯基的挑战",
     "summary": "Like the president, parliament last faced elections in 2019.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/a-challenge-to-zelenskyy-on-war-and-democracy-in-ukraine",
     "published": "Wed, 19 Aug 2026 09:59:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.044964"
+    "fetched_at": "2026-08-19T11:42:12.683352"
   },
   {
     "id": "b341ab9917fa",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-sanctions-top-icc-officials-and-vows-to-dismantle-court",
     "published": "Tue, 18 Aug 2026 20:36:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.146570"
+    "fetched_at": "2026-08-19T11:42:12.772336"
   },
   {
     "id": "2eb964bc4f29",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/zelenskyy-s-popular-ex-minister-calls-for-ukrainian-election",
     "published": "Tue, 18 Aug 2026 21:18:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.245666"
+    "fetched_at": "2026-08-19T11:42:12.878155"
   },
   {
     "id": "732c7fb40012",
@@ -707,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/pakistan-to-fight-court-order-moving-jailed-khan-to-hospital",
     "published": "Wed, 19 Aug 2026 08:19:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.355272"
+    "fetched_at": "2026-08-19T11:42:12.989848"
   },
   {
     "id": "8291a6dcf9bf",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/uae-cuts-economic-ties-with-iran-video",
     "published": "Wed, 19 Aug 2026 08:28:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.443735"
+    "fetched_at": "2026-08-19T11:42:13.079915"
   },
   {
     "id": "b8ebe74295d4",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/ukraine-strike-sparks-fire-at-russian-refinery-in-ufa",
     "published": "Wed, 19 Aug 2026 07:49:41 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.526638"
+    "fetched_at": "2026-08-19T11:42:13.190096"
   },
   {
     "id": "ba997d3d4c74",
@@ -737,17 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/tight-alaska-primary-previews-race-that-may-tip-senate-majority",
     "published": "Wed, 19 Aug 2026 05:18:07 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.624426"
-  },
-  {
-    "id": "8cd8edeea346",
-    "title": "Burnham Vows ‘Huge Transfer of Power’ From Treasury to No. 10 North",
-    "title_cn": "伯纳姆誓言从财政部向北十号进行“巨大的权力转移”",
-    "summary": "Prime Minister Andy Burnham will shift responsibility for economic growth away from the UK Treasury and toward his new office in the north of England, he said in a newspaper interview.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/burnham-vows-huge-transfer-of-power-from-treasury-to-no-10-north",
-    "published": "Wed, 19 Aug 2026 07:09:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.727332"
+    "fetched_at": "2026-08-19T11:42:13.324202"
   },
   {
     "id": "ee8e5c386ffe",
@@ -757,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/daybreak-europe-8-19-2026-video",
     "published": "Wed, 19 Aug 2026 06:49:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.834172"
+    "fetched_at": "2026-08-19T11:42:13.443656"
   },
   {
     "id": "00267266a6e6",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/trump-delays-50-tariffs-on-canadian-products-video",
     "published": "Wed, 19 Aug 2026 06:14:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:27.947039"
+    "fetched_at": "2026-08-19T11:42:13.559191"
   },
   {
     "id": "ba313533f66f",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/vietnam-seeks-to-clear-land-before-compensation-in-overhaul-plan",
     "published": "Wed, 19 Aug 2026 05:05:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T11:03:28.052976"
-  },
-  {
-    "id": "f3479d03429a",
-    "title": "Malaysia Raises Concerns Over US-Backed Philippine Military Base",
-    "title_cn": "马来西亚对美国支持的菲律宾军事基地表示担忧",
-    "summary": "Malaysian Prime Minister Anwar Ibrahim pledged to bolster the country’s defenses, citing concerns over a US-backed Philippine military outpost just miles from Malaysia’s eastern state of Sabah.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/malaysia-raises-concerns-over-us-backed-philippine-military-base",
-    "published": "Wed, 19 Aug 2026 04:34:53 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:28.150113"
-  },
-  {
-    "id": "37c22b974c9b",
-    "title": "China Tests South Korea Opening as Trump Unsettles Alliance",
-    "title_cn": "特朗普扰乱联盟，中国试探韩国开放",
-    "summary": "Chinese Foreign Minister Wang Yi’s first trip to South Korea in nearly five years offers Beijing a chance to further stabilize ties with its neighbor while capitalizing on the growing tensions between Seoul and Washington.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-top-envoy-to-visit-seoul-as-trump-shakes-us-korea-ties",
-    "published": "Tue, 18 Aug 2026 07:46:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T11:03:28.271386"
+    "fetched_at": "2026-08-19T11:42:13.655880"
   }
 ]
