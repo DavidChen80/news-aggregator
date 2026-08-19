@@ -1,5 +1,25 @@
 [
   {
+    "id": "d61cae50a1d7",
+    "title": "Trump Pauses 50% Canada Tariffs, Overton Tapped to Run FDA, More",
+    "title_cn": "特朗普暂停对加拿大征收 50% 关税，奥弗顿被任命为 FDA 负责人等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/trump-pauses-50-canada-tariffs-overton-tapped-to-run-fda-more",
+    "published": "Wed, 19 Aug 2026 02:42:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:25.805606"
+  },
+  {
+    "id": "18f37eb8c027",
+    "title": "Trump Taps Overton to Lead FDA, Chip Selloff Hits Stocks, More",
+    "title_cn": "特朗普任命奥弗顿领导 FDA，芯片抛售打击股市等",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-19/trump-taps-overton-to-lead-fda-chip-selloff-hits-stocks-more",
+    "published": "Wed, 19 Aug 2026 02:03:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:25.925536"
+  },
+  {
     "id": "d70f620cbc60",
     "title": "Florida Governor Race Set, Trump Taps Overton to Run FDA, More",
     "title_cn": "佛罗里达州州长竞选确定，特朗普任命奥弗顿来管理 FDA 等",
@@ -7,17 +27,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-19/florida-governor-race-set-trump-taps-overton-to-run-fda-more",
     "published": "Wed, 19 Aug 2026 01:22:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:27.416160"
+    "fetched_at": "2026-08-19T03:01:26.016990"
   },
   {
     "id": "85ea224bd566",
     "title": "Donalds-Jolly to Square Off for Florida Governor, Chip Rout",
-    "title_cn": "唐纳德-乔利将争夺佛罗里达州州长奇普·劳特",
+    "title_cn": "唐纳德·乔利 (Donalds-Jolly) 准备竞选佛罗里达州州长奇普·劳特 (Chip Rout)",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-19/donalds-jolly-to-square-off-for-florida-governor-chip-rout",
     "published": "Wed, 19 Aug 2026 00:19:48 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:27.755549"
+    "fetched_at": "2026-08-19T03:01:26.177921"
   },
   {
     "id": "be4673076aeb",
@@ -27,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-law-trial-over-tupac-shakur-s-murder-podcast",
     "published": "Tue, 18 Aug 2026 23:27:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:27.902555"
+    "fetched_at": "2026-08-19T03:01:26.323698"
   },
   {
     "id": "de7d75cf008a",
@@ -37,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-canada-deal-hopes-fade-chip-rout-pulls-stocks-down-more",
     "published": "Tue, 18 Aug 2026 22:54:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.049013"
+    "fetched_at": "2026-08-19T03:01:26.418289"
   },
   {
     "id": "506e93867c92",
@@ -47,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/barrenjoey-new-zealand-shakeup-mushroom-murders-australia-briefing",
     "published": "Tue, 18 Aug 2026 22:46:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.208459"
+    "fetched_at": "2026-08-19T03:01:26.580475"
   },
   {
     "id": "b0ce70c3c906",
@@ -57,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/meta-s-landmark-trial-chip-selloff-tanks-stocks-more",
     "published": "Tue, 18 Aug 2026 22:10:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.346388"
+    "fetched_at": "2026-08-19T03:01:26.744482"
   },
   {
     "id": "d461c74f5179",
@@ -67,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/chipmaker-selloff-drags-down-markets-evening-briefing-americas",
     "published": "Tue, 18 Aug 2026 21:43:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.474243"
+    "fetched_at": "2026-08-19T03:01:26.837201"
   },
   {
     "id": "d6af2a68bcb4",
@@ -77,17 +97,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/how-north-korea-is-raking-in-billions-big-take-asia-podcast",
     "published": "Tue, 18 Aug 2026 21:43:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.615220"
+    "fetched_at": "2026-08-19T03:01:26.939309"
   },
   {
     "id": "a10ab442ee52",
     "title": "US Says Tariff Deal a Coin Flip as Carney, Trump Speak Before Midnight Deadline",
-    "title_cn": "卡尼和特朗普在午夜截止日期前发表讲话，美国称关税协议是一枚硬币翻转",
+    "title_cn": "卡尼和特朗普在午夜截止日期前发表讲话，美国称关税协议是硬币翻转",
     "summary": "Plus: Quebec separatists say no referendum while Trump’s in office",
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/us-says-tariff-deal-a-coin-flip-as-carney-trump-speak-before-midnight-deadline",
     "published": "Tue, 18 Aug 2026 21:42:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.751754"
+    "fetched_at": "2026-08-19T03:01:27.050640"
   },
   {
     "id": "4fe911c81071",
@@ -97,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-targa-meta-duolingo-podcast",
     "published": "Tue, 18 Aug 2026 21:35:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:28.900668"
+    "fetched_at": "2026-08-19T03:01:27.147671"
   },
   {
     "id": "763f33bb1aa7",
@@ -107,17 +127,17 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/baidu-xiaomi-profits-slide-as-ai-chip-costs-mount",
     "published": "Tue, 18 Aug 2026 21:31:16 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.041388"
+    "fetched_at": "2026-08-19T03:01:27.264151"
   },
   {
     "id": "935d5d1f98be",
     "title": "US-Canada Hopes Fade, Meta Trial Begins, More",
-    "title_cn": "美加希望破灭，元审判开始，等等",
+    "title_cn": "美加希望破灭，元审判开始，更多",
     "summary": "Source: Bloomberg, 5:43",
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-canada-hopes-fade-meta-trial-begins-more",
     "published": "Tue, 18 Aug 2026 21:08:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.191424"
+    "fetched_at": "2026-08-19T03:01:27.387577"
   },
   {
     "id": "280a7e1aafcb",
@@ -127,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-businessweek-daily-bond-market-slumps-podcast",
     "published": "Tue, 18 Aug 2026 21:07:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.340784"
+    "fetched_at": "2026-08-19T03:01:27.490816"
   },
   {
     "id": "edec81ceceaa",
@@ -137,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-businessweek-daily-agentic-healthcare-podcast",
     "published": "Tue, 18 Aug 2026 21:02:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.477767"
+    "fetched_at": "2026-08-19T03:01:28.035629"
   },
   {
     "id": "abaf5b3175a2",
@@ -147,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/big-take-asia-north-korea-s-new-economic-windfall-podcast",
     "published": "Tue, 18 Aug 2026 20:54:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.627486"
+    "fetched_at": "2026-08-19T03:01:28.134736"
   },
   {
     "id": "e604b93ebf78",
@@ -157,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/chip-rout-pulls-stocks-down-us-canada-hopes-fade-more",
     "published": "Tue, 18 Aug 2026 20:25:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.792410"
+    "fetched_at": "2026-08-19T03:01:28.243872"
   },
   {
     "id": "95c42c6fac95",
@@ -167,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-amylyx-targa-klarna-podcast",
     "published": "Tue, 18 Aug 2026 20:10:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:29.946841"
+    "fetched_at": "2026-08-19T03:01:28.340532"
   },
   {
     "id": "2f886a071202",
@@ -177,137 +197,37 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-18/bloomberg-tech-anthropic-s-65-billion-surge-podcast",
     "published": "Tue, 18 Aug 2026 19:21:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:30.111319"
-  },
-  {
-    "id": "e0380ad23b5c",
-    "title": "US & Canada Hopes Fade, States Allege Meta Exploits Youths, More",
-    "title_cn": "美国和加拿大的希望破灭，各国指控 Meta 剥削青少年等",
-    "summary": "Source: Bloomberg, 5:59",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/us-canada-hopes-fade-states-allege-meta-exploits-youths-more",
-    "published": "Tue, 18 Aug 2026 19:16:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:30.247120"
-  },
-  {
-    "id": "0985fbc51354",
-    "title": "Stock Movers: Klarna, Home Depot, Duolingo (Podcast)",
-    "title_cn": "库存搬运商：Klarna、Home Depot、Duolingo（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-18/stock-movers-klarna-home-depot-duolingo-podcast",
-    "published": "Tue, 18 Aug 2026 19:16:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:30.390264"
-  },
-  {
-    "id": "3ee97d3678dc",
-    "title": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
-    "title_cn": "由于对收益率上升的担忧，韩国股市首当其冲地遭遇芯片抛售",
-    "summary": "South Korea led a selloff in Asian chip stocks, as rising bond yields exacerbated worry over the large sums of cash being shelled out by Big Tech.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/korea-bears-brunt-as-higher-bond-yields-weigh-on-chip-stocks",
-    "published": "Wed, 19 Aug 2026 00:42:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:30.918077"
-  },
-  {
-    "id": "d0406cdc16bf",
-    "title": "Terton Opposes Korea’s Golfzon on Second Buyout Bid",
-    "title_cn": "Terton 反对韩国 Golfzon 的第二次收购竞标",
-    "summary": "A second attempt to take South Korea’s Golfzon Holdings Co. private is facing renewed resistance from a minority shareholder, with the stock now trading above the tender price in a sign the buyer may struggle to win over investors on the current terms.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
-    "published": "Tue, 18 Aug 2026 23:38:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:31.066743"
-  },
-  {
-    "id": "83635f1636be",
-    "title": "Japan Bond Volatility Is Pumping Up Futures Trading in Singapore",
-    "title_cn": "日本债券波动加剧了新加坡的期货交易",
-    "summary": "Global funds and relative-value traders are driving a surge in Japan bond futures trading in Singapore, drawn by rising volatility.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/japan-bond-volatility-is-pumping-up-futures-trading-in-singapore",
-    "published": "Wed, 19 Aug 2026 01:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:31.284593"
-  },
-  {
-    "id": "6b19a63212b1",
-    "title": "Hitachi Construction Shares Drop After $740 Million Block Trade",
-    "title_cn": "日立建筑股价在 7.4 亿美元大宗交易后下跌",
-    "summary": "Hitachi Construction Machinery Co.’s shares fell the most in almost three weeks after its major shareholder Hitachi Ltd. offloaded all holding, in the latest move by the Japanese conglomerate to divest some of its assets to focus on core businesses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/hitachi-construction-shares-drop-after-740-million-block-trade",
-    "published": "Wed, 19 Aug 2026 00:58:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:31.436538"
-  },
-  {
-    "id": "d48104b45b62",
-    "title": "Gold Holds Losses as Bond Selloff, Hormuz Limbo Weigh on Outlook",
-    "title_cn": "债券抛售、霍尔木兹地狱边境令前景承压，黄金承压下跌",
-    "summary": "Gold steadied after the biggest drop in almost a month as a bond rout and deadlock in the Strait of Hormuz dimmed the outlook for the precious metal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-    "published": "Tue, 18 Aug 2026 23:42:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:31.614198"
-  },
-  {
-    "id": "87056d4ed32d",
-    "title": "Chip Selloff Extends to Asia, Treasuries Stabilize: Markets Wrap",
-    "title_cn": "芯片抛售蔓延至亚洲，国债企稳：市场总结",
-    "summary": "Asian stocks dropped as a semiconductor selloff deepened, with investors retreating from one of the year’s hottest trades amid elevated bond yields and geopolitical uncertainty. Treasuries stabilized after recent losses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:31.790727"
-  },
-  {
-    "id": "c1da26ea5320",
-    "title": "Evergrande Liquidators Challenge Hong Kong Watchdog in Court",
-    "title_cn": "恒大清算人在法庭上挑战香港监管机构",
-    "summary": "A Hong Kong court is set to hear arguments on whether a deal that set up a fund to compensate China Evergrande minority shareholders is valid.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court",
-    "published": "Wed, 19 Aug 2026 00:51:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.008844"
-  },
-  {
-    "id": "08bce893b458",
-    "title": "Australian Housing Shares Surge as Earnings Defy Property Slump",
-    "title_cn": "澳大利亚房地产股飙升，收益顶住房地产低迷",
-    "summary": "Shares of two of Australia’s largest property developers surged after stronger full-year earnings showed resilience in the face of a housing market downturn.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/australian-housing-shares-surge-as-earnings-defy-property-slump",
-    "published": "Wed, 19 Aug 2026 00:51:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.152909"
+    "fetched_at": "2026-08-19T03:01:28.445354"
   },
   {
     "id": "b26e1acf2037",
-    "title": "Japanese Stocks Slide as Bond Market Anxiety Hits AI Sentiment",
-    "title_cn": "由于债券市场焦虑打击人工智能情绪，日本股市下滑",
-    "summary": "Japan’s Nikkei Stock Average slumped for a second day, weighed down by chip-related stocks as anxiety over surging bond yields sapped risk appetite from the AI trade.",
+    "title": "Japanese Stocks Slump as Bond Market Anxiety Hits AI Sentiment",
+    "title_cn": "由于债券市场焦虑打击人工智能情绪，日本股市暴跌",
+    "summary": "Japan’s Nikkei Stock Average fell for a second day, weighed down by AI-related stocks as anxiety over surging bond yields sapped risk appetite.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/japanese-stocks-slide-as-bond-market-anxiety-hits-ai-sentiment",
     "published": "Wed, 19 Aug 2026 00:22:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.305590"
+    "fetched_at": "2026-08-19T03:01:28.835297"
   },
   {
-    "id": "b4cbc992241a",
-    "title": "Trump Takes Hard Line as Hormuz Tensions Mark New Normal",
-    "title_cn": "霍尔木兹紧张局势标志着新常态，特朗普采取强硬立场",
-    "summary": "US President Donald Trump insisted that there were no talks ongoing with Iran, leaving the conflict in the Middle East and control of the Strait of Hormuz stuck in limbo. Bloomberg's Jeff Mason shares his perpective. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/trump-takes-hard-line-as-hormuz-tensions-mark-new-normal-video",
-    "published": "Wed, 19 Aug 2026 00:17:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.445673"
-  },
-  {
-    "id": "8d8024b063b6",
-    "title": "China Bonds Buck Global Selloff on Policy Divide With Peers",
-    "title_cn": "中国债券因与同行的政策分歧而顶住全球抛售",
-    "summary": "A relentless drop in China’s long-end yields is driving an aggressive curve flattening, laying bare a stark macro rift with global markets where long-dated rates have hit multi-year peaks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers",
+    "id": "5ae9b9aa35e2",
+    "title": "Hong Kong Exchanges Non-Equity Push Seen Key for Stock Boost",
+    "title_cn": "香港交易所非股权推动被视为股市提振的关键",
+    "summary": "With record trading volumes and new listings providing little boost for shares of Hong Kong Exchanges &amp; Clearing Ltd., analysts are increasingly looking for a jolt from the company’s expansion of non-equity business.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost",
     "published": "Tue, 18 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.583142"
+    "fetched_at": "2026-08-19T03:01:28.936368"
+  },
+  {
+    "id": "08bce893b458",
+    "title": "Australia Housing Shares Jump as Tax Rules Favor New Builds",
+    "title_cn": "由于税收规则有利于新建筑，澳大利亚房地产股上涨",
+    "summary": "Shares of two of Australia’s largest property developers surged the most in around six years as tax changes favoring new builds offered a potential boost to residential development.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/australian-housing-shares-surge-as-earnings-defy-property-slump",
+    "published": "Wed, 19 Aug 2026 00:51:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.030480"
   },
   {
     "id": "83237c445dd6",
@@ -317,7 +237,137 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/latest-oil-market-news-and-analysis-for-aug-19",
     "published": "Tue, 18 Aug 2026 22:02:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.784337"
+    "fetched_at": "2026-08-19T03:01:29.142737"
+  },
+  {
+    "id": "a103d3b42087",
+    "title": "NSE Eyes $55 Billion Valuation in IPO While Rival BSE’s Shares Lose Favor",
+    "title_cn": "NSE 瞄准 IPO 估值 550 亿美元，而竞争对手 BSE 股价失宠",
+    "summary": "The IPO is expected to launch in the second half of September.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-19/nse-eyes-55-billion-valuation-in-ipo-while-rival-bse-s-shares-lose-favor",
+    "published": "Wed, 19 Aug 2026 02:30:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.287863"
+  },
+  {
+    "id": "1948a00f6d43",
+    "title": "Humanoids Make Stock Market Debut in China’s AI Push",
+    "title_cn": "类人机器人在中国人工智能推动下首次亮相股市",
+    "summary": "China's humanoids have made their stock market debut.\n\nUnitree Robotics has just become China's first publicly traded humanoid robot maker, adding investor firepower to the country's AI ambitions. Winnie Hsu explains. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/humanoids-make-stock-market-debut-in-china-s-ai-push-video",
+    "published": "Wed, 19 Aug 2026 02:24:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.408929"
+  },
+  {
+    "id": "923ed353d5b6",
+    "title": "Oasis Urges Kakaku.com to Withdraw Support for EQT’s Buyout Bid",
+    "title_cn": "Oasis 敦促 Kakaku.com 撤回对 EQT 收购要约的支持",
+    "summary": "Kakaku.com Inc. shareholder Oasis Management Co. has asked the company to withdraw its support for EQT AB’s buyout bid on grounds that the offer is too low, escalating a bidding war for the Japanese price comparison site.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/oasis-urges-kakaku-com-to-withdraw-support-for-eqt-s-buyout-bid",
+    "published": "Wed, 19 Aug 2026 02:07:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.508743"
+  },
+  {
+    "id": "87056d4ed32d",
+    "title": "Chip Selloff Extends to Asia, Treasuries Stabilize: Markets Wrap",
+    "title_cn": "芯片抛售蔓延至亚洲，国债企稳：市场总结",
+    "summary": "Asian stocks dropped as a semiconductor selloff deepened, with investors retreating from one of the year’s hottest trades amid elevated bond yields and geopolitical uncertainty. Treasuries stabilized following recent losses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
+    "published": "Tue, 18 Aug 2026 22:11:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.618543"
+  },
+  {
+    "id": "d0406cdc16bf",
+    "title": "Terton Capital Opposes Korea’s Golfzon on Second Buyout Bid",
+    "title_cn": "Terton Capital 反对韩国 Golfzon 的第二次收购竞标",
+    "summary": "A second attempt to take South Korea’s Golfzon Holdings Co. private is facing renewed resistance from a minority shareholder, with the stock now trading above the tender price in a sign the buyer may struggle to win over investors on the current terms.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
+    "published": "Tue, 18 Aug 2026 23:38:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.709417"
+  },
+  {
+    "id": "e6fd25890736",
+    "title": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
+    "title_cn": "PHP/美元：随着油价上涨，菲律宾比索跌至新低",
+    "summary": "The Philippine peso fell to a record low against the dollar as higher oil prices put renewed pressure on the currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise",
+    "published": "Wed, 19 Aug 2026 01:41:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.795968"
+  },
+  {
+    "id": "3ee97d3678dc",
+    "title": "Korean Stocks Bear Brunt of Chip Slide Spurred by Rise in Yields",
+    "title_cn": "收益率上升刺激芯片下滑，韩国股市首当其冲",
+    "summary": "South Korea led a selloff in Asian chip stocks, as rising bond yields exacerbated worry over the large sums of cash being shelled out by Big Tech.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/korea-bears-brunt-as-higher-bond-yields-weigh-on-chip-stocks",
+    "published": "Wed, 19 Aug 2026 00:42:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.884399"
+  },
+  {
+    "id": "83635f1636be",
+    "title": "Japan Bond Volatility Is Pumping Up Futures Trading in Singapore",
+    "title_cn": "日本债券波动加剧了新加坡的期货交易",
+    "summary": "Global funds and relative-value traders are driving a surge in Japan bond futures trading in Singapore, drawn by rising volatility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/japan-bond-volatility-is-pumping-up-futures-trading-in-singapore",
+    "published": "Wed, 19 Aug 2026 01:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:29.996416"
+  },
+  {
+    "id": "6b19a63212b1",
+    "title": "Hitachi Construction Shares Drop After $740 Million Block Trade",
+    "title_cn": "日立建筑股价在 7.4 亿美元大宗交易后下跌",
+    "summary": "Hitachi Construction Machinery Co.’s shares fell the most in almost three weeks after its major shareholder Hitachi Ltd. offloaded all holding, in the latest move by the Japanese conglomerate to divest some of its assets to focus on core businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/hitachi-construction-shares-drop-after-740-million-block-trade",
+    "published": "Wed, 19 Aug 2026 00:58:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:30.081760"
+  },
+  {
+    "id": "d48104b45b62",
+    "title": "Gold Holds Losses as Bond Selloff, Hormuz Limbo Weigh on Outlook",
+    "title_cn": "债券抛售、霍尔木兹地狱边境令前景承压，黄金承压下跌",
+    "summary": "Gold steadied after the biggest drop in almost a month as a bond rout and deadlock in the Strait of Hormuz dimmed the outlook for the precious metal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
+    "published": "Tue, 18 Aug 2026 23:42:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:30.161778"
+  },
+  {
+    "id": "c1da26ea5320",
+    "title": "Evergrande Liquidators Challenge Hong Kong Watchdog in Court",
+    "title_cn": "恒大清算人在法庭上挑战香港监管机构",
+    "summary": "A Hong Kong court is set to hear arguments on whether a deal that set up a fund to compensate China Evergrande minority shareholders is valid.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court",
+    "published": "Wed, 19 Aug 2026 00:51:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:30.256495"
+  },
+  {
+    "id": "b4cbc992241a",
+    "title": "Trump Takes Hard Line as Hormuz Tensions Mark New Normal",
+    "title_cn": "霍尔木兹紧张局势标志着新常态，特朗普采取强硬立场",
+    "summary": "US President Donald Trump insisted that there were no talks ongoing with Iran, leaving the conflict in the Middle East and control of the Strait of Hormuz stuck in limbo. Bloomberg's Jeff Mason shares his perpective. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-19/trump-takes-hard-line-as-hormuz-tensions-mark-new-normal-video",
+    "published": "Wed, 19 Aug 2026 00:17:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:30.379477"
+  },
+  {
+    "id": "8d8024b063b6",
+    "title": "China Bonds Buck Global Selloff on Policy Divide With Peers",
+    "title_cn": "中国债券因与同行的政策分歧而顶住全球抛售",
+    "summary": "A relentless drop in China’s long-end yields is driving an aggressive curve flattening, laying bare a stark macro rift with global markets where long-dated rates have hit multi-year peaks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/china-s-flatter-bond-curve-shows-deeper-policy-divide-with-peers",
+    "published": "Tue, 18 Aug 2026 23:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:30.554062"
   },
   {
     "id": "a5f8d6baeb67",
@@ -327,17 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal",
     "published": "Tue, 18 Aug 2026 23:36:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:32.959570"
-  },
-  {
-    "id": "5ae9b9aa35e2",
-    "title": "Hong Kong Exchanges’ Non-Equity Push Seen as Key for Stock Boost",
-    "title_cn": "香港交易所的非股权推动被视为股市提振的关键",
-    "summary": "With record trading volumes and new listings providing little boost for shares of Hong Kong Exchanges &amp; Clearing Ltd., analysts are increasingly looking for a jolt from the company’s expansion of non-equity business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/hong-kong-exchanges-non-equity-push-seen-as-key-for-stock-boost",
-    "published": "Tue, 18 Aug 2026 23:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.114586"
+    "fetched_at": "2026-08-19T03:01:30.656353"
   },
   {
     "id": "2640c66f122d",
@@ -347,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/fletcher-building-waiting-on-meaningful-recovery-in-nz-demand",
     "published": "Tue, 18 Aug 2026 21:40:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.267354"
+    "fetched_at": "2026-08-19T03:01:30.753953"
   },
   {
     "id": "b8b506166a50",
@@ -357,57 +397,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/japan-s-earnings-surprise-analysts-to-fuel-bets-for-broad-rally",
     "published": "Tue, 18 Aug 2026 22:42:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.409594"
+    "fetched_at": "2026-08-19T03:01:30.851240"
   },
   {
-    "id": "2bfffaf476c3",
-    "title": "Roz Brewer Talks College Aid, Walgreens During Covid and Retail",
-    "title_cn": "罗兹·布鲁尔 (Roz Brewer) 谈论疫情期间的大学援助、沃尔格林 (Walgreens) 和零售业",
-    "summary": "Spelman College Chair Emerita Rosalind \"Roz\" Brewer, former CEO of Walgreens Boots Alliance, says that she \"never looked back to the lab\" after moving from working as an organic chemist at Kimberly-Clarke to moving to the corporate side of the business. Speaking to Romaine Bostick at Bloomberg New Voices in Martha's Vineyard, Massachusetts, Brewer says that the timing of her joining Walgreens during the Covid-19 pandemic gave her the best chance to make changes, as times of crisis often provide the best opportunities to do so. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/roz-brewer-talks-college-aid-walgreens-and-retail-video",
-    "published": "Tue, 18 Aug 2026 22:15:18 GMT",
+    "id": "c5763f7abc72",
+    "title": "WiseTech Raided by Australia Antitrust Watchdog; Stock Sinks",
+    "title_cn": "慧咨科技遭澳大利亚反垄断监管机构突击搜查；股票下跌",
+    "summary": "WiseTech Global Ltd. said Australian antitrust authorities demanded the company hand over documents and data as part of an investigation into alleged breaches of competition law. The company’s stock tumbled.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/wisetech-raided-by-australian-antitrust-regulator-shares-plunge",
+    "published": "Wed, 19 Aug 2026 02:33:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.545524"
+    "fetched_at": "2026-08-19T03:01:31.134991"
   },
   {
-    "id": "bef02410fb89",
-    "title": "Gluten-Free Brand Breaks Out in Saturated Market",
-    "title_cn": "无麸质品牌在饱和市场中突围",
-    "summary": "Feel Good Foods has been selling gluten-free frozen foods since 2012, eventually starting to outsell legacy frozen food brands like PF Chang's and TGI Fridays. CEO Vanessa Phillips founded the brand after being diagnosed with celiac disease and college, and refusing to give up her favorite foods. She says the brand doesn't just serve gluten-free consumers, saying most customers buy the product because it \"works for them and their lifestyle.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/gluten-free-brand-breaks-out-in-saturated-market-video",
-    "published": "Tue, 18 Aug 2026 22:09:02 GMT",
+    "id": "b5d779ce1d2b",
+    "title": "China Recovers Rocket on Land in Push to Catch Up With SpaceX",
+    "title_cn": "中国在陆地上回收火箭以追赶SpaceX",
+    "summary": "China said it recovered a rocket booster on land for the first time, a major step toward catching up with US firms like Elon Musk’s SpaceX.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/china-recovers-rocket-on-land-in-push-to-catch-up-with-spacex",
+    "published": "Wed, 19 Aug 2026 02:26:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.709757"
-  },
-  {
-    "id": "675f010f97de",
-    "title": "KKR Real Estate Lender’s Woes Attract Investment Firm Mavik",
-    "title_cn": "KKR 房地产贷款人的困境吸引了投资公司 Mavik",
-    "summary": "An investment firm that specializes in commercial real estate distress is betting that a lender managed by KKR &amp; Co. is likely to sell its loan portfolio at or around book value.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/kkr-real-estate-lender-s-woes-attract-distressed-investor-mavik",
-    "published": "Tue, 18 Aug 2026 20:08:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:33.853462"
-  },
-  {
-    "id": "b9b38f127241",
-    "title": "Roz Brewer Says US Retail Needs Global Partners",
-    "title_cn": "罗兹·布鲁尔 (Roz Brewer) 表示美国零售业需要全球合作伙伴",
-    "summary": "Spelman College Chair Emerita Rosalind \"Roz\" Brewer, former CEO of Walgreens Boots Alliance, discusses the state of the US consumer in the current economy with Bloomberg's Romaine Bostick at the Bloomberg New Voices event in Martha’s Vineyard. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/roz-brewer-says-us-retail-needs-global-partners-video",
-    "published": "Tue, 18 Aug 2026 22:01:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:34.010418"
+    "fetched_at": "2026-08-19T03:01:31.222484"
   },
   {
     "id": "c1470cbff1eb",
     "title": "Unitree Robotics Surges 629% After $904 Million Shanghai IPO",
-    "title_cn": "Unitree Robotics 在上海 IPO 融资 9.04 亿美元后股价飙升 629%",
-    "summary": "Unitree Robotics shares rose 629% in its Shanghai trading debut after raising 6.1 billion yuan ($904 million) in an initial public offering that will make it the first publicly traded humanoid robot maker in mainland China.",
+    "title_cn": "Unitree Robotics 在上海首次公开募股 9.04 亿美元后股价飙升 629%",
+    "summary": "Unitree Robotics shares opened 629% higher in their Shanghai trading debut after raising 6.1 billion yuan ($904 million) in an initial public offering that will make it the first publicly traded humanoid robot maker in mainland China.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/unitree-robotics-set-to-debut-after-904-million-shanghai-ipo",
     "published": "Tue, 18 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:34.530235"
+    "fetched_at": "2026-08-19T03:01:31.403073"
   },
   {
     "id": "0ec6b68e86cf",
@@ -417,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-startup-temporal-in-talks-for-a-valuation-of-at-least-12-billion",
     "published": "Wed, 19 Aug 2026 01:05:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:34.687446"
+    "fetched_at": "2026-08-19T03:01:31.521806"
   },
   {
     "id": "ff877c388c7b",
@@ -427,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/cerebras-cbrs-says-its-new-computer-boosts-ai-speed-advantage-over-nvidia",
     "published": "Wed, 19 Aug 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:34.813235"
+    "fetched_at": "2026-08-19T03:01:31.622289"
   },
   {
     "id": "d3c3840ba1a1",
@@ -437,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/ai-boom-and-energy-shocks-see-growth-in-southeast-asia-bifurcate",
     "published": "Tue, 18 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.005274"
+    "fetched_at": "2026-08-19T03:01:31.715284"
   },
   {
     "id": "931168ee3b82",
@@ -447,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/the-close-8-18-2026-video",
     "published": "Tue, 18 Aug 2026 22:25:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.138343"
+    "fetched_at": "2026-08-19T03:01:31.827825"
   },
   {
     "id": "c667c6ecb77f",
@@ -457,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/ceo-of-cuban-backed-fort-robotics-on-500m-spac-deal-video",
     "published": "Tue, 18 Aug 2026 21:54:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.316205"
+    "fetched_at": "2026-08-19T03:01:31.914965"
   },
   {
     "id": "e778d758c5f2",
@@ -467,17 +487,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/australia-s-stock-market-seen-as-ai-haven-video",
     "published": "Tue, 18 Aug 2026 21:46:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.453174"
+    "fetched_at": "2026-08-19T03:01:32.028753"
   },
   {
     "id": "716c5b9992c9",
     "title": "Leaning Into AI Helps VC Founders, Says Revolution's Hall",
-    "title_cn": "Revolution's Hall 表示，进军人工智能有助于风险投资创始人",
+    "title_cn": "Revolution’s Hall 表示，进军人工智能有助于风险投资创始人",
     "summary": "David Hall, managing partner at Revolution, talks about how artificial intelligence is helping  entrepreneurs of color compete. He speaks with Romaine Bostick at the Bloomberg New Voices event in Martha's Vineyard. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/leaning-into-ai-helps-vc-founders-david-hall-says-video",
     "published": "Tue, 18 Aug 2026 21:40:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.593516"
+    "fetched_at": "2026-08-19T03:01:32.132632"
   },
   {
     "id": "879f13ff362a",
@@ -487,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-crypto-8-18-2026-video",
     "published": "Tue, 18 Aug 2026 21:31:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.733683"
+    "fetched_at": "2026-08-19T03:01:32.218331"
   },
   {
     "id": "9529a63b183c",
@@ -497,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/midi-health-ceo-on-multibillion-dollar-menopause-market-video",
     "published": "Tue, 18 Aug 2026 21:16:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:35.885810"
+    "fetched_at": "2026-08-19T03:01:32.381965"
   },
   {
     "id": "af605e94dbd4",
@@ -507,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/kavita-gupta-comments-on-bitcoin-whales-buying-spree-video",
     "published": "Tue, 18 Aug 2026 21:03:17 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.022816"
+    "fetched_at": "2026-08-19T03:01:32.488996"
   },
   {
     "id": "e3e383fc2ae6",
@@ -517,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/we-have-a-lot-of-runway-for-growth-securitize-ceo-video",
     "published": "Tue, 18 Aug 2026 20:57:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.174257"
+    "fetched_at": "2026-08-19T03:01:32.593046"
   },
   {
     "id": "bbea464fe1b0",
@@ -527,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-plans-to-give-ceo-extra-voting-power-information-says",
     "published": "Tue, 18 Aug 2026 20:53:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.326583"
+    "fetched_at": "2026-08-19T03:01:32.680567"
   },
   {
     "id": "e7b1f32b4ea0",
@@ -537,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/higgsfield-ceo-on-intel-backing-5-4-billion-valuation-video",
     "published": "Tue, 18 Aug 2026 20:53:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.478550"
+    "fetched_at": "2026-08-19T03:01:32.782375"
   },
   {
     "id": "94c36d2407ee",
@@ -547,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/shooting-to-be-ipo-ready-by-2027-falconx-ceo-video",
     "published": "Tue, 18 Aug 2026 20:43:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.626358"
+    "fetched_at": "2026-08-19T03:01:32.863899"
   },
   {
     "id": "70ff51654c93",
@@ -557,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/pennsylvania-governor-shapiro-puts-guardrails-on-data-centers",
     "published": "Tue, 18 Aug 2026 18:31:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.776316"
+    "fetched_at": "2026-08-19T03:01:32.951900"
   },
   {
     "id": "781be84a0612",
@@ -567,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/trying-to-connect-real-and-digital-worlds-moneygram-ceo-video",
     "published": "Tue, 18 Aug 2026 20:38:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:36.909109"
+    "fetched_at": "2026-08-19T03:01:33.040228"
   },
   {
     "id": "6346003d6261",
@@ -577,27 +597,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/kalshi-s-40b-valuation-is-staggering-yesha-yadav-video",
     "published": "Tue, 18 Aug 2026 20:30:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:37.049239"
+    "fetched_at": "2026-08-19T03:01:33.143196"
   },
   {
-    "id": "75c2a53757b0",
-    "title": "Bitcoin Whales Add 43,000 Bitcoin in 60 Days",
-    "title_cn": "比特币鲸鱼在 60 天内增加了 43,000 个比特币",
-    "summary": "Bitcoin whales have added about 43,000 Bitcoin over the past 60 days, worth roughly $2.75 billion at current prices, according to CryptoQuant. Kavita Gupta, founder & general partner of the Delta Blockchain Fund, says she sees a movement of Bitcoin, rather than buying of Bitcoin. She joins \"Bloomberg Crypto.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/bitcoin-whales-add-43-000-bitcoin-in-60-days-video",
-    "published": "Tue, 18 Aug 2026 19:55:25 GMT",
+    "id": "dbbff072695e",
+    "title": "Trump Takes Iran Hard Line as Hormuz Tensions Set New Normal",
+    "title_cn": "霍尔木兹紧张局势进入新常态，特朗普对伊朗采取强硬立场",
+    "summary": "US President Donald Trump insisted Tuesday that there were no talks ongoing with Iran, leaving the simmering conflict in the Middle East and control of the Strait of Hormuz stuck in limbo.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
+    "published": "Tue, 18 Aug 2026 07:27:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:37.235071"
+    "fetched_at": "2026-08-19T03:01:35.212658"
   },
   {
-    "id": "ebb95d3bab75",
-    "title": "Expect Volatility In Results: Securitize CEO",
-    "title_cn": "预计结果会出现波动：首席执行官证券化",
-    "summary": "Carlos Domingo, CEO & co-founder Securitize, joins Scarlet Fu and Dushyant Shahrawat on \"Bloomberg Crypto.\" They discuss Securitize's  launch of the Neuberger Securitize High Income Tokenized Fund (\"HINC\") and the company's recently announced earnings. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-18/expect-volatility-in-results-securitize-ceo-video",
-    "published": "Tue, 18 Aug 2026 19:53:55 GMT",
+    "id": "64081cfff21c",
+    "title": "Trump Pauses Canada Tariffs for Three Days Subject to a Deal",
+    "title_cn": "特朗普根据协议暂停加拿大关税三天",
+    "summary": "The Trump administration agreed to delay 50% tariffs on billions of dollars of Canadian products for three days following high-stakes negotiations in Washington.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-pauses-50-canada-tariffs-for-three-days-subject-to-a-deal-mszgvwa3",
+    "published": "Wed, 19 Aug 2026 02:23:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:37.384263"
+    "fetched_at": "2026-08-19T03:01:35.304979"
+  },
+  {
+    "id": "d4605c547e72",
+    "title": "Australia’s Albanese Thanks Thai PM Anutin for Offer of Jet Fuel",
+    "title_cn": "澳大利亚阿尔巴尼斯感谢泰国总理阿努廷提供航空燃油",
+    "summary": "Australian Prime Minister Anthony Albanese expressed gratitude to his Thai counterpart Anutin Charnvirakul for an offer to supply jet fuel.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/australia-s-albanese-thanks-thai-pm-anutin-for-offer-of-jet-fuel",
+    "published": "Wed, 19 Aug 2026 01:17:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-19T03:01:35.398325"
   },
   {
     "id": "5d8153e62642",
@@ -607,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/south-korea-says-joint-military-drills-with-us-to-be-curtailed",
     "published": "Wed, 19 Aug 2026 01:16:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:37.951738"
+    "fetched_at": "2026-08-19T03:01:35.498711"
   },
   {
     "id": "052b4b912271",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/donalds-wins-florida-gop-governor-primary-ap-projects",
     "published": "Wed, 19 Aug 2026 00:00:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.115612"
+    "fetched_at": "2026-08-19T03:01:35.590237"
   },
   {
     "id": "460c88e35228",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/progressive-nixon-downs-vindman-in-florida-senate-primary-race",
     "published": "Wed, 19 Aug 2026 00:23:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.336012"
+    "fetched_at": "2026-08-19T03:01:35.685652"
   },
   {
     "id": "6e4ae9372311",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-plays-kim-jong-un-card-to-pressure-south-korea-over-trade",
     "published": "Tue, 18 Aug 2026 10:48:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.460821"
+    "fetched_at": "2026-08-19T03:01:35.785304"
   },
   {
     "id": "b37ea0c97d04",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/balance-of-power-late-edition-08-18-2026-video",
     "published": "Tue, 18 Aug 2026 23:45:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.604373"
+    "fetched_at": "2026-08-19T03:01:35.974888"
   },
   {
     "id": "0ac7b1caaf16",
@@ -657,17 +687,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/former-dnc-chair-debbie-wasserman-schultz-wins-house-primary",
     "published": "Tue, 18 Aug 2026 23:29:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.763556"
+    "fetched_at": "2026-08-19T03:01:36.065807"
   },
   {
     "id": "4a1119249885",
     "title": "Trump Pick in GOP Florida Governor Race Byron Donalds Must Win Crowded Primary",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "特朗普在共和党佛罗里达州州长竞选中选择拜伦唐纳德必须赢得拥挤的初选",
     "summary": "Byron Donalds is holding most of the cards as Florida’s Republican voters decide who will be their candidate for the next Governor.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-pick-in-gop-florida-governor-race-byron-donalds-must-win-crowded-primary",
     "published": "Tue, 18 Aug 2026 11:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:38.862824"
+    "fetched_at": "2026-08-19T03:01:36.157576"
   },
   {
     "id": "1e659561962f",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/lower-deficits-are-key-to-affordability-macguineas-video",
     "published": "Tue, 18 Aug 2026 22:42:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.010862"
+    "fetched_at": "2026-08-19T03:01:36.259826"
   },
   {
     "id": "5b17fbe42d6a",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/crayton-questions-doj-election-monitor-push-video",
     "published": "Tue, 18 Aug 2026 22:35:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.148768"
+    "fetched_at": "2026-08-19T03:01:36.362042"
   },
   {
     "id": "f859e67346f7",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/rep-malliotakis-pushes-capital-gains-relief-for-seniors-video",
     "published": "Tue, 18 Aug 2026 22:28:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.283813"
+    "fetched_at": "2026-08-19T03:01:36.453440"
   },
   {
     "id": "1f66827b0997",
@@ -707,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/house-epstein-panel-chair-threatens-leon-black-with-contempt",
     "published": "Tue, 18 Aug 2026 22:11:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.421663"
+    "fetched_at": "2026-08-19T03:01:36.551336"
   },
   {
     "id": "3d52c646fbb5",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/bolsonaro-names-ex-energy-minister-as-campaign-economic-adviser",
     "published": "Tue, 18 Aug 2026 21:57:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.595970"
+    "fetched_at": "2026-08-19T03:01:36.652926"
   },
   {
     "id": "2644be6580f1",
@@ -727,17 +757,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-dig-in-on-tariff-negotations-as-deal-hopes-fade",
     "published": "Tue, 18 Aug 2026 18:39:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.731691"
+    "fetched_at": "2026-08-19T03:01:36.745724"
   },
   {
     "id": "73d8ddd0e939",
     "title": "Global Bond Slump Raises Fed Questions | Bloomberg Businessweek Daily 8/18/2026",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "全球债券暴跌引发美联储疑问彭博商业周刊日报 8/18/2026",
     "summary": "Long-term debt costs are soaring as the bond market slumps. Bloomberg's Chief US Interest Rate Strategist Ira Jersey and Corporate Finance Reporter Davide Barbuscia explain why this jump is happening and what it signals to the Fed. Then, Empower Chief Investment Strategist Marta Norton on this week's global bond slump and how it's changing investor positioning. Plus, China Beige Book COO Shehzad Qazi previews next month's meeting between China's Xi Jinping and President Trump, and the future of trade between the two countries. Finally, Root CEO Alex Timm discusses how his company uses AI to help determine behavior-based car insurance. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/bloomberg-businessweek-daily-8-18-2026-video",
     "published": "Tue, 18 Aug 2026 21:45:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.832689"
+    "fetched_at": "2026-08-19T03:01:36.846986"
   },
   {
     "id": "2eb964bc4f29",
@@ -747,27 +777,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/zelenskyy-s-popular-ex-minister-calls-for-ukrainian-election",
     "published": "Tue, 18 Aug 2026 21:18:29 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:39.966036"
+    "fetched_at": "2026-08-19T03:01:36.943902"
   },
   {
     "id": "737f8a17b084",
     "title": "UAE Says Iran Fired Two Missiles at Country as War Drags On",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title_cn": "阿联酋表示，随着战争的持续，伊朗向该国发射了两枚导弹",
     "summary": "The United Arab Emirates said that two ballistic missiles were fired toward the country from Iran, the Islamic Republic’s first known attack on the Gulf nation since May as the wider Middle East war continues unabated.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-18/uae-says-iran-fired-two-missiles-at-country-as-war-drags-on",
     "published": "Tue, 18 Aug 2026 19:03:38 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:40.075133"
-  },
-  {
-    "id": "dbbff072695e",
-    "title": "Trump Takes Iran Hard Line as Hormuz Tensions Mark New Normal",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "US President Donald Trump insisted Tuesday that there were no talks ongoing with Iran, leaving the simmering conflict in the Middle East and control of the Strait of Hormuz stuck in limbo.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
-    "published": "Tue, 18 Aug 2026 07:27:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:40.176259"
+    "fetched_at": "2026-08-19T03:01:37.030070"
   },
   {
     "id": "cc7905265823",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-18/big-take-asia-north-korea-s-new-economic-windfall-video",
     "published": "Tue, 18 Aug 2026 19:26:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-19T01:47:40.346689"
-  },
-  {
-    "id": "b341ab9917fa",
-    "title": "US Sanctions Top ICC Officials and Vows to ‘Dismantle’ Court",
-    "title_cn": "美国制裁国际刑事法院高级官员并誓言“解散”法院",
-    "summary": "The Trump administration announced sanctions on the president and senior trial lawyer of the International Criminal Court, further escalating pressure against an institution that it says has unfairly targeted the US and Israel.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-sanctions-top-icc-officials-and-vows-to-dismantle-court",
-    "published": "Tue, 18 Aug 2026 20:36:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:40.497178"
-  },
-  {
-    "id": "8d7ff02b8b40",
-    "title": "Florida’s Primaries Test Political Clout Ahead of Midterms",
-    "title_cn": "佛罗里达州初选在中期选举前测试政治影响力",
-    "summary": "How the Sunshine State could set the tone for the November election.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-18/florida-s-primaries-test-political-clout-ahead-of-midterms",
-    "published": "Tue, 18 Aug 2026 20:28:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-19T01:47:40.628701"
+    "fetched_at": "2026-08-19T03:01:37.200659"
   }
 ]
