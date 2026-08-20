@@ -1,5 +1,35 @@
 [
   {
+    "id": "4a070d047e92",
+    "title": "China Sentences Evergrande’s Hui to Life for ‘Heinous’ Crime",
+    "title_cn": "中国以“十恶不赦”罪名判处恒大球员回族无期徒刑",
+    "summary": "China Evergrande Group’s founder Hui Ka Yan has been sentenced to life in prison, bringing an end to one of the most dramatic rise and fall stories in China’s corporate history.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/china-sentences-evergrande-founder-hui-ka-yan-to-life-in-prison",
+    "published": "Thu, 20 Aug 2026 04:16:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:54.596102"
+  },
+  {
+    "id": "22178229fbbe",
+    "title": "EV Boom Changes Lanes as New Markets Take the Wheel (Podcast)",
+    "title_cn": "随着新市场的主导，电动汽车的繁荣改变了方向（播客）",
+    "summary": "The electric vehicle boom is entering a new phase. As China’s market matures and the US steps back from EVs, emerging markets are becoming the new hotspot for electrified transport. At the same time, autonomous and shared vehicles are changing how cars are used. Robotaxis can travel much farther each year than private cars, potentially allowing fewer vehicles to provide the same amount of mobility. So as EV adoption evolves and autonomous driving takes off, what does the next phase of road trans",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/ev-boom-changes-lanes-as-new-markets-take-the-wheel-podcast",
+    "published": "Thu, 20 Aug 2026 09:54:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:54.692442"
+  },
+  {
+    "id": "bc01e213d554",
+    "title": "Bloomberg Daybreak: Trump Declares Economic Warfare (Podcast)",
+    "title_cn": "彭博黎明：特朗普宣布经济战（播客）",
+    "summary": "Source: Bloomberg, 16:06",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-daybreak-trump-declares-economic-warfare-podcast",
+    "published": "Thu, 20 Aug 2026 09:50:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:54.795135"
+  },
+  {
     "id": "9f10cf66b313",
     "title": "Stock Movers: JD Sports, Aegon, Trainline (Podcast)",
     "title_cn": "库存推动者：JD Sports、Aegon、Trainline（播客）",
@@ -7,7 +37,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-jd-sports-aegon-trainline-podcast",
     "published": "Thu, 20 Aug 2026 09:35:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:47.980693"
+    "fetched_at": "2026-08-20T10:11:54.893318"
   },
   {
     "id": "ce50ab284fd5",
@@ -17,7 +47,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/trump-s-economic-warfare-treasury-rally-starts-to-fade-more",
     "published": "Thu, 20 Aug 2026 09:33:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.355931"
+    "fetched_at": "2026-08-20T10:11:55.255873"
   },
   {
     "id": "f71c5daece11",
@@ -27,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/trump-turns-to-economic-warfare-with-china-in-crosshairs",
     "published": "Thu, 20 Aug 2026 09:06:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.469821"
+    "fetched_at": "2026-08-20T10:11:55.372205"
   },
   {
     "id": "7898d1bbca7c",
@@ -37,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-jd-sports-novonesis-sartorius-podcast",
     "published": "Thu, 20 Aug 2026 08:08:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.590323"
+    "fetched_at": "2026-08-20T10:11:55.478689"
   },
   {
     "id": "088116cd2807",
@@ -47,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/india-s-skyroot-rocket-launch-shows-successes-and-problems-facing-deep-tech",
     "published": "Thu, 20 Aug 2026 07:41:50 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.696010"
+    "fetched_at": "2026-08-20T10:11:55.630797"
   },
   {
     "id": "276c34767041",
@@ -57,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/recruiter-hays-sets-new-strategy-as-ai-macro-economy-hits-hiring",
     "published": "Thu, 20 Aug 2026 07:16:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.819031"
+    "fetched_at": "2026-08-20T10:11:55.730158"
   },
   {
     "id": "cde8525c3c37",
@@ -67,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/china-narrows-us-ai-lead-uk-s-greens-tout-bank-tax-more",
     "published": "Thu, 20 Aug 2026 06:56:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:48.968515"
+    "fetched_at": "2026-08-20T10:11:55.818619"
   },
   {
     "id": "b45e28f94b8a",
@@ -77,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-sk-hynix-kuaishou-sino-biopharma-podcast",
     "published": "Thu, 20 Aug 2026 06:46:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.071681"
+    "fetched_at": "2026-08-20T10:11:55.936066"
   },
   {
     "id": "aa1ebac041b1",
@@ -87,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/markets-rise-after-bessent-s-bond-bet",
     "published": "Thu, 20 Aug 2026 06:26:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.174206"
+    "fetched_at": "2026-08-20T10:11:56.042115"
   },
   {
     "id": "27b790be8ce6",
@@ -97,27 +127,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/china-s-ai-cost-advantage-harry-meghan-leaving-us-more",
     "published": "Thu, 20 Aug 2026 05:59:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.617397"
+    "fetched_at": "2026-08-20T10:11:56.139898"
   },
   {
     "id": "03af60e60115",
     "title": "Bloomberg Daybreak Europe: China’s Cheap AI Edge (Podcast)",
-    "title_cn": "彭博社 Daybreak Europe：中国廉价的人工智能优势（播客）",
+    "title_cn": "彭博欧洲黎明：中国廉价的人工智能优势（播客）",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-daybreak-europe-china-s-cheap-ai-edge-podcast",
     "published": "Thu, 20 Aug 2026 05:57:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.716093"
-  },
-  {
-    "id": "4a070d047e92",
-    "title": "China Sentences Evergrande’s Hui to Life for ‘Heinous’ Crime",
-    "title_cn": "中国以“十恶不赦”罪名判处恒大球员回族无期徒刑",
-    "summary": "China Evergrande Group’s founder Hui Ka Yan has been sentenced to life in prison, bringing an end to one of the most dramatic rise and fall stories in China’s corporate history.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/china-sentences-evergrande-founder-hui-ka-yan-to-life-in-prison",
-    "published": "Thu, 20 Aug 2026 04:16:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.834107"
+    "fetched_at": "2026-08-20T10:11:56.249318"
   },
   {
     "id": "124dcf49e463",
@@ -127,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/samsung-planning-shareholder-return-of-72-billion-report-says",
     "published": "Thu, 20 Aug 2026 03:28:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:49.945769"
+    "fetched_at": "2026-08-20T10:11:56.337122"
   },
   {
     "id": "17673a0b2652",
@@ -137,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/hong-kong-drafts-new-five-year-plan-for-its-free-market",
     "published": "Thu, 20 Aug 2026 04:17:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.056280"
+    "fetched_at": "2026-08-20T10:11:56.497671"
   },
   {
     "id": "cd9fb45218c1",
@@ -147,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/us-set-to-cut-tariffs-on-canada-metals-autos-us-debt-hits-40t",
     "published": "Thu, 20 Aug 2026 03:22:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.141114"
+    "fetched_at": "2026-08-20T10:11:56.610909"
   },
   {
     "id": "e4de0be188ea",
@@ -157,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/us-to-cut-canada-auto-tariffs-us-public-debt-hits-40-trillion",
     "published": "Thu, 20 Aug 2026 02:49:33 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.245899"
+    "fetched_at": "2026-08-20T10:11:56.770847"
   },
   {
     "id": "3676119c1bb5",
@@ -167,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-daybreak-asia-treasury-buyback-asia-ipo-podcast",
     "published": "Thu, 20 Aug 2026 02:36:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.376484"
+    "fetched_at": "2026-08-20T10:11:56.933820"
   },
   {
     "id": "58aea85edcd3",
@@ -177,27 +197,57 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/morgan-stanley-is-said-to-hire-barclays-tech-dealmaker-tim-luke",
     "published": "Thu, 20 Aug 2026 01:40:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.518025"
+    "fetched_at": "2026-08-20T10:11:57.415454"
   },
   {
-    "id": "304b870cd175",
-    "title": "Australia House Price Downturn Hits Banks CBA, Westpac, ANZ and NAB: Podcast",
-    "title_cn": "澳大利亚房价低迷打击银行 CBA、Westpac、ANZ 和 NAB：播客",
-    "summary": "<p>The Big Four banks are seeing the housing downturn up close. Here’s what their bosses say comes next.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/australia-house-price-downturn-hits-banks-cba-westpac-anz-and-nab-podcast",
-    "published": "Thu, 20 Aug 2026 01:51:17 GMT",
+    "id": "04bec8eb5ac4",
+    "title": "Treasury Bond Fix Could Backfire, Warns JPMorgan",
+    "title_cn": "摩根大通警告国债修复可能适得其反",
+    "summary": "JPMorgan is warning that the US Treasury's surprise move to bring down long-term borrowing costs could make things worse. Scott Bessent's Treasury said yesterday it would at least double the size of its bond buybacks. That initially sent long-term yields lower. But JPMorgan says the move addresses the symptoms rather than the cause of America's ballooning debt pile. The bank warns that without real fiscal consolidation, investors could lose confidence and push borrowing costs even higher. The warning comes as US national debt has topped $40 trillion, raising the stakes as Washington continues to sell more securities. Our Markets Live Strategist Skylar Montgomery Koning joins Stephen Carroll and James Woolcock to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/treasury-bond-fix-could-backfire-warns-jpmorgan-video",
+    "published": "Thu, 20 Aug 2026 10:06:14 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.616036"
+    "fetched_at": "2026-08-20T10:11:57.987309"
   },
   {
-    "id": "ae1701094fef",
-    "title": "US Eyes Lower Tariffs on Some Canada Goods, $40T US Debt, More",
-    "title_cn": "美国考虑降低部分加拿大商品的关税、40吨美国债务等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-20/us-eyes-lower-tariffs-on-some-canada-goods-40t-us-debt-more",
-    "published": "Thu, 20 Aug 2026 01:42:45 GMT",
+    "id": "059d7bf2137a",
+    "title": "Riskier AT1 Debt Is Most Stable in This Upside-Down Bond Market",
+    "title_cn": "在这个颠倒的债券市场中，风险较高的 AT1 债务最为稳定",
+    "summary": "The latest convulsions in bond markets exposed a quirk: Some of the riskiest, most complex structures have ended up being among the most stable.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/riskier-at1-debt-is-most-stable-in-this-upside-down-bond-market",
+    "published": "Thu, 20 Aug 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:50.723459"
+    "fetched_at": "2026-08-20T10:11:58.311927"
+  },
+  {
+    "id": "701da2e1f269",
+    "title": "Treasury Buyback Gives Gold Another Lease of Life, UBS Says",
+    "title_cn": "瑞银表示，国债回购让黄金重获新生",
+    "summary": "UBS Chief Strategist Bhanu Baweja discusses Treasury Secretary Scott Bessent’s plan to increase buybacks of longer-dated debt and its impact on wider markets including currencies and gold. \"The fact that they want to keep long-end yields in check probably gives another lease of life to the gold trade,\" Baweja tells Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/treasury-buyback-gives-gold-another-lease-of-life-ubs-video",
+    "published": "Thu, 20 Aug 2026 09:53:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:58.418064"
+  },
+  {
+    "id": "67c48032a615",
+    "title": "China Buys Saudi Crude in Rare Tender as Imports Stay Muted",
+    "title_cn": "由于进口保持低迷，中国以罕见的价格购买沙特原油",
+    "summary": "China has bought millions of barrels of Saudi crude offered via a rare tender and under long-term contracts, although overall purchases still remain well below pre-war levels.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/china-buys-saudi-crude-in-rare-tender-as-imports-stay-muted",
+    "published": "Thu, 20 Aug 2026 09:43:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:58.583136"
+  },
+  {
+    "id": "909d9da899bb",
+    "title": "India’s Closing Auction Faces Early Manipulation Test: Q&A",
+    "title_cn": "印度的收盘拍卖面临早期操纵测试：问答",
+    "summary": "India’s newly introduced auction-based system to determine end-of-day prices for over 200 stocks has faced backlash after producing unexpected swings during closing sessions.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-05/why-india-s-new-closing-auction-is-confusing-traders-q-a",
+    "published": "Wed, 05 Aug 2026 09:04:13 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:11:58.686693"
   },
   {
     "id": "14238218f91f",
@@ -207,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 19 Aug 2026 22:12:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.252329"
+    "fetched_at": "2026-08-20T10:11:58.790425"
   },
   {
     "id": "c7e6f018d816",
@@ -217,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
     "published": "Thu, 20 Aug 2026 01:29:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.344280"
+    "fetched_at": "2026-08-20T10:11:58.881161"
   },
   {
     "id": "d076a419844a",
@@ -227,17 +277,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/singapore-authorities-begin-looking-into-trader-radiant-world",
     "published": "Thu, 20 Aug 2026 01:59:25 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.438477"
+    "fetched_at": "2026-08-20T10:11:59.043779"
   },
   {
     "id": "17bc34e2d34d",
     "title": "Bessent’s Plan at Best ‘Circuit Breaker’ for Global Bond Slump",
-    "title_cn": "Bessent的计划是应对全球债券暴跌的最佳“熔断机制”",
+    "title_cn": "Bessent的计划是应对全球债券暴跌的最佳“断路器”",
     "summary": "The global bond rally triggered by Treasury Secretary Scott Bessent’s plan to increase buybacks of longer-dated debt may prove short lived, with analysts citing persistent worries about fiscal woes and sticky inflation globally.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump",
     "published": "Thu, 20 Aug 2026 09:23:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.556709"
+    "fetched_at": "2026-08-20T10:11:59.164792"
   },
   {
     "id": "a1e1ec52a42f",
@@ -247,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/thales-selling-bonds-to-help-fund-deal-for-sea-drone-maker-exail",
     "published": "Thu, 20 Aug 2026 09:16:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.656249"
+    "fetched_at": "2026-08-20T10:11:59.259484"
   },
   {
     "id": "bd30baa9a3af",
@@ -257,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/palm-oil-hits-highest-since-2024-as-biofuels-el-nino-cut-supply",
     "published": "Thu, 20 Aug 2026 03:33:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.768453"
+    "fetched_at": "2026-08-20T10:11:59.350564"
   },
   {
     "id": "be39386cea23",
@@ -267,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/why-vanderbilt-may-be-the-future-of-college-sports-video",
     "published": "Thu, 20 Aug 2026 09:07:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.862215"
+    "fetched_at": "2026-08-20T10:11:59.461414"
   },
   {
     "id": "1a7e4e05a4bc",
@@ -277,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/dollar-risks-becoming-biggest-loser-from-bessent-s-bond-buying",
     "published": "Thu, 20 Aug 2026 05:50:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:51.964402"
+    "fetched_at": "2026-08-20T10:11:59.577792"
   },
   {
     "id": "30c19e11c5f0",
@@ -287,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/aegon-sticks-with-winning-steepener-bet-despite-us-bond-buying",
     "published": "Thu, 20 Aug 2026 08:54:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.061467"
+    "fetched_at": "2026-08-20T10:11:59.733526"
   },
   {
     "id": "32ff3097c408",
@@ -297,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/jakarta-futures-exchange-eyes-role-in-planned-commodities-bourse",
     "published": "Thu, 20 Aug 2026 08:47:21 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.172326"
+    "fetched_at": "2026-08-20T10:11:59.837723"
   },
   {
     "id": "cb4bedd1067a",
@@ -307,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems",
     "published": "Thu, 20 Aug 2026 08:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.281803"
+    "fetched_at": "2026-08-20T10:11:59.927554"
   },
   {
     "id": "6be63041a0b3",
@@ -317,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/odd-lots-what-happens-if-ai-solves-every-problem-podcast",
     "published": "Thu, 20 Aug 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.390234"
+    "fetched_at": "2026-08-20T10:12:00.076771"
   },
   {
     "id": "63a62629c1c8",
@@ -327,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/latest-oil-market-news-and-analysis-for-aug-19",
     "published": "Wed, 19 Aug 2026 22:03:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.494096"
+    "fetched_at": "2026-08-20T10:12:00.174580"
   },
   {
     "id": "ca1e15d565ae",
@@ -337,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/ukraine-s-grain-shipments-are-at-a-virtual-halt-video",
     "published": "Thu, 20 Aug 2026 07:50:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.588270"
+    "fetched_at": "2026-08-20T10:12:00.348349"
   },
   {
     "id": "f7c8a944af32",
@@ -347,57 +397,27 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/bessent-gets-short-term-bond-market-win-3-minutes-mliv-video",
     "published": "Thu, 20 Aug 2026 07:48:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.720305"
+    "fetched_at": "2026-08-20T10:12:00.459522"
   },
   {
-    "id": "dea742bb8ac5",
-    "title": "Australia Outraged as Israel Ends Probe of Aid Worker Death",
-    "title_cn": "以色列结束对援助人员死亡的调查，澳大利亚感到愤怒",
-    "summary": "Australia’s government said it is “outraged” that Israel failed to charge any of the soldiers responsible for the 2024 killing of an Australian aid worker, with Canberra formally protesting the decision.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/australia-outraged-at-israel-ending-probe-of-aid-worker-death",
-    "published": "Thu, 20 Aug 2026 00:01:26 GMT",
+    "id": "f77fac66f7a0",
+    "title": "Alibaba’s Profit Dives 75% After Amping Up AI Spending",
+    "title_cn": "加大人工智能支出后阿里巴巴利润暴跌 75%",
+    "summary": "Alibaba Group Holding Ltd.’s profit plunged more than 75% after China’s e-commerce leader ratcheted up AI spending while grappling with a broad Chinese consumption slowdown.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/alibaba-s-revenue-climbs-9-in-testament-to-china-s-ai-boom",
+    "published": "Thu, 20 Aug 2026 09:39:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.811666"
+    "fetched_at": "2026-08-20T10:12:00.942950"
   },
   {
-    "id": "c2d7bec2409f",
-    "title": "NSE Said to Plan Allowing Trading Its Shares on Own Platform",
-    "title_cn": "据称 NSE 计划允许在自己的平台上交易其股票",
-    "summary": "National Stock Exchange of India Ltd. may allow its shares to trade on its own platform after listing them on rival BSE Ltd., people familiar with the matter said, a move that could eventually shift trading volumes and pave the way for the stock’s inclusion in NSE’s benchmark indexes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/nse-said-to-plan-allowing-trading-its-shares-on-own-platform",
-    "published": "Thu, 20 Aug 2026 07:24:34 GMT",
+    "id": "4609face3d53",
+    "title": "China Humanoid Robots Shift to Industrial Utility",
+    "title_cn": "中国仿人机器人转向工业用途",
+    "summary": "At this year's World Robot Conference in Beijing, Chinese humanoid robot maker Unitree’s founder declared that humanoid robots could take off commercially in just two years. The industry is moving beyond viral entertainment, sharpening its focus on real-world uses—from factory assembly lines to household chores. Allen Wan reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/china-humanoid-robots-shift-to-industrial-utility-video",
+    "published": "Thu, 20 Aug 2026 09:40:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.896180"
-  },
-  {
-    "id": "23900e3188e2",
-    "title": "RBI Chief Estimates $80 Billion Inflow From Rupee Measures",
-    "title_cn": "印度储备银行行长估计卢比措施将流入 800 亿美元",
-    "summary": "India expects to garner at least $80 billion in foreign-currency inflows from its recent measures to attract dollars into the country, its central bank chief said in an interview published Thursday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/rbi-s-net-short-dollar-position-very-manageable-malhotra-says",
-    "published": "Thu, 20 Aug 2026 01:55:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:52.995234"
-  },
-  {
-    "id": "6d8e197c8433",
-    "title": "Younan: Regional Tensions Not New for Sovereign Funds",
-    "title_cn": "尤南：地区紧张局势对主权基金来说并不新鲜",
-    "summary": "Strategic partnerships are becoming increasingly important for sovereign wealth funds in the Gulf region. Despite recent geopolitical volatility, Gulf SWFs have continued investing actively, in an effort to prioritize long term value creation and reduce risk. Wael Younan, Sovereign Wealth Management Head at TCW Group spoke to Bloomberg’s Abeer Abu Omar about the strategy of these funds in light of geopolitical tensions. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/younan-regional-tensions-not-new-for-sovereign-funds-video",
-    "published": "Thu, 20 Aug 2026 07:13:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:53.102458"
-  },
-  {
-    "id": "a21a23f88e11",
-    "title": "Gold Holds Near $4,500 as US Treasury Buyback Sends Yields Lower",
-    "title_cn": "美国国债回购导致收益率走低，金价维持在 4,500 美元附近",
-    "summary": "Gold was largely holding its biggest gain in six months after the US Treasury Department made a surprise move to rein in long-term borrowing costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
-    "published": "Wed, 19 Aug 2026 23:34:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:53.197883"
+    "fetched_at": "2026-08-20T10:12:01.110579"
   },
   {
     "id": "0418b3a6170e",
@@ -407,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/labubu-maker-set-for-drastic-growth-slowdown-as-bears-gather",
     "published": "Wed, 19 Aug 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:53.752157"
+    "fetched_at": "2026-08-20T10:12:01.412434"
   },
   {
     "id": "b552f050a4d2",
@@ -417,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-problems-video",
     "published": "Thu, 20 Aug 2026 08:14:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:53.859309"
+    "fetched_at": "2026-08-20T10:12:01.575787"
   },
   {
     "id": "21a81a07c1cc",
@@ -427,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/samsung-sk-hynix-prepare-record-shareholder-returns-video",
     "published": "Thu, 20 Aug 2026 08:04:12 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:53.974532"
+    "fetched_at": "2026-08-20T10:12:01.733162"
   },
   {
     "id": "62fa08eccd1d",
@@ -437,17 +457,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/hays-shifts-to-hard-to-replace-roles-as-ai-reshapes-hiring",
     "published": "Thu, 20 Aug 2026 07:47:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.085061"
+    "fetched_at": "2026-08-20T10:12:01.877524"
   },
   {
     "id": "a2d2d2cfe4ca",
     "title": "Thai PM’s Family Firm Eyes $1.5 Billion Data Center Bids",
-    "title_cn": "泰国总理家族企业有意竞标 15 亿美元的数据中心",
+    "title_cn": "泰国总理的家族企业着眼于 15 亿美元的数据中心投标",
     "summary": "Stecon Group Pcl plans to bid for three data-center construction projects worth a combined 49.8 billion baht ($1.5 billion), betting on the sector to drive further growth as technology investment surges in Thailand.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/thai-pm-anutin-s-family-firm-eyes-1-5-billion-data-center-bids",
     "published": "Thu, 20 Aug 2026 06:03:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.212072"
+    "fetched_at": "2026-08-20T10:12:02.044718"
   },
   {
     "id": "fd5c70e371a6",
@@ -457,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/sk-hynix-reaches-tentative-deal-with-union-on-wages-yonhap-says",
     "published": "Thu, 20 Aug 2026 06:43:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.316678"
+    "fetched_at": "2026-08-20T10:12:02.139446"
   },
   {
     "id": "63b48aab39da",
@@ -467,7 +487,7 @@
     "link": "https://www.bloomberg.com/sessions/2026-08-20/why-are-chinese-citizens-more-optimistic-about-ai-than-americans-live-q-amp-a",
     "published": "Thu, 20 Aug 2026 06:28:28 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.425258"
+    "fetched_at": "2026-08-20T10:12:02.284468"
   },
   {
     "id": "16f74c46562b",
@@ -477,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
     "published": "Thu, 20 Aug 2026 06:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.520341"
+    "fetched_at": "2026-08-20T10:12:02.381657"
   },
   {
     "id": "7f1b65c9fee2",
@@ -487,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/convergence-backed-comsol-to-build-new-south-africa-5g-network",
     "published": "Thu, 20 Aug 2026 05:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.634930"
+    "fetched_at": "2026-08-20T10:12:02.527166"
   },
   {
     "id": "a694f431d987",
@@ -497,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/unitree-founder-sees-robots-reaching-mass-market-within-decade",
     "published": "Thu, 20 Aug 2026 02:49:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.741630"
+    "fetched_at": "2026-08-20T10:12:02.636259"
   },
   {
     "id": "d8cb8b567437",
@@ -507,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/china-s-xynova-on-developing-human-like-robot-hands-video",
     "published": "Thu, 20 Aug 2026 04:20:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.845459"
+    "fetched_at": "2026-08-20T10:12:02.754608"
   },
   {
     "id": "e3c204163eef",
@@ -517,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/aia-cfo-on-1h26-results-video",
     "published": "Thu, 20 Aug 2026 02:31:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:54.957671"
+    "fetched_at": "2026-08-20T10:12:02.954656"
   },
   {
     "id": "d0fa39c0668c",
@@ -527,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/leadshine-s-zheng-on-china-s-robotics-supply-chain-video",
     "published": "Thu, 20 Aug 2026 04:05:05 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.056699"
+    "fetched_at": "2026-08-20T10:12:03.109013"
   },
   {
     "id": "42b1a3cad615",
@@ -537,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/evolution-mining-ceo-on-fy-results-video",
     "published": "Thu, 20 Aug 2026 02:28:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.165379"
+    "fetched_at": "2026-08-20T10:12:03.277164"
   },
   {
     "id": "493a6e88bf51",
@@ -547,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/alphabet-set-to-sell-long-aussie-bond-at-record-near-7-cost",
     "published": "Wed, 19 Aug 2026 03:56:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.279635"
+    "fetched_at": "2026-08-20T10:12:03.423100"
   },
   {
     "id": "711fcbeff94a",
@@ -557,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/sk-hynix-announces-28-6-billion-share-buy-back-on-ai-boom",
     "published": "Wed, 19 Aug 2026 06:56:06 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.459835"
+    "fetched_at": "2026-08-20T10:12:03.525632"
   },
   {
     "id": "8ecb484e4cce",
@@ -567,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak",
     "published": "Wed, 19 Aug 2026 23:05:35 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.569749"
+    "fetched_at": "2026-08-20T10:12:03.623110"
   },
   {
     "id": "a9b9cbaa883f",
@@ -577,27 +597,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/the-close-8-19-2026-video",
     "published": "Wed, 19 Aug 2026 22:11:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.657126"
+    "fetched_at": "2026-08-20T10:12:03.726633"
   },
   {
-    "id": "266d388e3602",
-    "title": "PGIM’s Greg Peters on Bessent’s Debt Buyback Boost",
-    "title_cn": "PGIM 的 Greg Peters 谈 Bessent 的债务回购计划",
-    "summary": "Greg Peters, Co-CIO of Public and Private Fixed Income at PGIM, discussed the Treasury's recent decision to boost debt buybacks for 10-year to 30-year securities. The cap on buybacks has been doubled from $2 billion to $4 billion, reflecting an aggressive move to manage the debt portfolio. He speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-19/pgim-s-greg-peters-on-bessent-s-debt-buyback-boost-video",
-    "published": "Wed, 19 Aug 2026 21:35:39 GMT",
+    "id": "1e40322e5b12",
+    "title": "Trump Says US Is Waging Economic Warfare Against Iran",
+    "title_cn": "特朗普称美国正在对伊朗发动经济战",
+    "summary": "US President Donald Trump threatened Iran and its trading partners with economic isolation after months of military strikes and a maritime blockade failed to force Tehran to capitulate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-says-us-starting-economic-warfare-operation-against-iran",
+    "published": "Wed, 19 Aug 2026 23:06:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.749351"
+    "fetched_at": "2026-08-20T10:12:03.967085"
   },
   {
-    "id": "ad5ac99fcd53",
-    "title": "AI Chip Startup Fractile in Talks for $6.5 Billion Value After Anthropic Deal",
-    "title_cn": "AI 芯片初创公司 Fractile 在 Anthrotic 交易后洽谈价值 65 亿美元",
-    "summary": "Fractile, a startup developing chips tailored for artificial intelligence use that has a deal to supply Anthropic PBC, is in advanced talks to notch a valuation more than six times higher than the price it landed in May.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
-    "published": "Wed, 19 Aug 2026 18:31:58 GMT",
+    "id": "8ff808d5da30",
+    "title": "Brazil President Lula Rides Trump Backlash to Cusp of History",
+    "title_cn": "巴西总统卢拉将特朗普的强烈反对推向历史的风口浪尖",
+    "summary": "The president’s odds of reelection are more than 60% in betting markets, but Brazil remains polarized and voters unpredictable.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/brazil-president-lula-rides-trump-backlash-to-cusp-of-history",
+    "published": "Thu, 20 Aug 2026 09:59:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:55.851580"
+    "fetched_at": "2026-08-20T10:12:04.084257"
+  },
+  {
+    "id": "4254309480f2",
+    "title": "China Says Trump’s Economic Warfare Won’t Solve Iran Crisis",
+    "title_cn": "中国称特朗普的经济战无法解决伊朗危机",
+    "summary": "China said President Donald Trump’s threat to launch “economic warfare” on Iran and its trading partners wouldn’t work, urging cool heads to prevail.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/china-says-trump-s-economic-warfare-won-t-solve-iran-crisis",
+    "published": "Thu, 20 Aug 2026 09:36:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-20T10:12:04.178757"
   },
   {
     "id": "b9a3ec1448dd",
@@ -607,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
     "published": "Thu, 20 Aug 2026 00:30:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.411803"
+    "fetched_at": "2026-08-20T10:12:04.615227"
   },
   {
     "id": "7531a3430a35",
@@ -617,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/uk-s-miliband-plans-sanctions-over-israeli-settlement-expansion",
     "published": "Thu, 20 Aug 2026 00:13:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.517284"
+    "fetched_at": "2026-08-20T10:12:05.033992"
   },
   {
     "id": "72eba3a55efb",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/russian-strikes-leave-ukraine-farmers-with-piles-of-unsold-grain",
     "published": "Thu, 20 Aug 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.639325"
+    "fetched_at": "2026-08-20T10:12:05.145677"
   },
   {
     "id": "6866c1cd8103",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-20/brazil-election-lula-seen-as-frontrunner-over-flavio-bolsonaro",
     "published": "Thu, 20 Aug 2026 09:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.753812"
+    "fetched_at": "2026-08-20T10:12:05.255673"
   },
   {
     "id": "c39a3e5720aa",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/trump-s-aircraft-carrier-order-will-raise-costs-contractor-says",
     "published": "Thu, 20 Aug 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.875206"
+    "fetched_at": "2026-08-20T10:12:05.365984"
   },
   {
     "id": "746cc78d6312",
@@ -657,17 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/taiwan-cabinet-approves-record-35-1-billion-for-defense-in-2027",
     "published": "Thu, 20 Aug 2026 07:52:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:56.967782"
-  },
-  {
-    "id": "1e40322e5b12",
-    "title": "Trump Says US Is Waging Economic Warfare Against Iran",
-    "title_cn": "特朗普称美国正在对伊朗发动经济战",
-    "summary": "US President Donald Trump announced plans to subject Iran to an “economic D-Day,” underscoring his rising frustration with Tehran’s refusal to capitulate despite military strikes and an American blockade targeting its oil exports.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-says-us-starting-economic-warfare-operation-against-iran",
-    "published": "Wed, 19 Aug 2026 23:06:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.060274"
+    "fetched_at": "2026-08-20T10:12:05.453459"
   },
   {
     "id": "70d7731fe658",
@@ -677,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/daybreak-europe-8-20-2026-video",
     "published": "Thu, 20 Aug 2026 07:01:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.176375"
+    "fetched_at": "2026-08-20T10:12:05.583122"
   },
   {
     "id": "201590c91667",
@@ -687,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/zambia-ex-transport-minister-killed-in-raid-on-politician-s-home",
     "published": "Thu, 20 Aug 2026 05:30:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.268200"
+    "fetched_at": "2026-08-20T10:12:05.668511"
   },
   {
     "id": "450ab32cae7e",
@@ -697,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/pakistan-blasts-us-envoy-s-remark-about-disputed-kashmir-region",
     "published": "Thu, 20 Aug 2026 03:47:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.372622"
+    "fetched_at": "2026-08-20T10:12:05.765317"
   },
   {
     "id": "35162bd7ade8",
@@ -707,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/will-trump-and-kim-jong-un-meet-why-us-is-seeking-to-reengage-with-north-korea",
     "published": "Thu, 20 Aug 2026 03:08:22 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.479404"
+    "fetched_at": "2026-08-20T10:12:05.874532"
   },
   {
     "id": "fbf9e581e342",
@@ -717,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/china-tests-a-new-maritime-presence-east-of-taiwan-report-says",
     "published": "Thu, 20 Aug 2026 03:00:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.572474"
+    "fetched_at": "2026-08-20T10:12:06.035279"
   },
   {
     "id": "6e149a8d72e2",
@@ -727,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/north-korea-says-no-trump-kim-talks-still-sees-us-as-hostile",
     "published": "Wed, 19 Aug 2026 15:12:11 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.678801"
+    "fetched_at": "2026-08-20T10:12:06.152973"
   },
   {
     "id": "fa9a529c4af3",
@@ -737,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/us-said-to-halve-tariffs-on-canada-steel-aluminum-in-trade-deal",
     "published": "Wed, 19 Aug 2026 17:43:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.802290"
+    "fetched_at": "2026-08-20T10:12:06.318051"
   },
   {
     "id": "1b6c7e5251c7",
@@ -747,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/balance-of-power-late-edition-08-19-2026-video",
     "published": "Wed, 19 Aug 2026 23:18:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:57.909772"
+    "fetched_at": "2026-08-20T10:12:06.422092"
   },
   {
     "id": "a7572c9bc260",
@@ -757,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/higher-interest-rates-are-likely-here-to-stay-furman-video",
     "published": "Wed, 19 Aug 2026 22:35:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:58.001083"
+    "fetched_at": "2026-08-20T10:12:06.529526"
   },
   {
     "id": "3b8b0b705d28",
@@ -767,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/rep-subramanyam-data-centers-need-community-buy-in-video",
     "published": "Wed, 19 Aug 2026 22:28:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:58.108634"
+    "fetched_at": "2026-08-20T10:12:06.633298"
   },
   {
     "id": "69ea4a9a72e4",
@@ -777,26 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-19/bloomberg-businessweek-daily-8-19-2026-video",
     "published": "Wed, 19 Aug 2026 22:22:45 GMT",
     "source": "International",
-    "fetched_at": "2026-08-20T09:38:58.228403"
-  },
-  {
-    "id": "ce0e1c06b840",
-    "title": "Trump Set to Cut Canada Auto Tariffs to 15% in Trade Deal",
-    "title_cn": "特朗普将在贸易协议中将加拿大汽车关税削减至 15%",
-    "summary": "The Trump administration is poised to reduce tariffs on automobiles imported from Canada to 15% from 25% as part of a broader deal that would see the US neighbor drop retaliatory trade measures, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-offers-to-cut-canada-auto-tariffs-to-15-in-trade-deal",
-    "published": "Wed, 19 Aug 2026 20:51:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:58.322126"
-  },
-  {
-    "id": "ec9bafd22c25",
-    "title": "Anxious Manufacturers Await Canada-US Deal to Avoid 50% Tariffs",
-    "title_cn": "焦虑的制造商等待加拿大与美国达成避免 50% 关税的协议",
-    "summary": "Canadian companies facing 50% tariffs on exports to the US remained in limbo as President Donald Trump delayed a deadline to finalize a deal until Friday — prolonging uncertainty weighing on Canada’s economy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/anxious-manufacturers-await-canada-us-deal-to-avoid-50-tariffs",
-    "published": "Wed, 19 Aug 2026 20:39:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-20T09:38:58.409607"
+    "fetched_at": "2026-08-20T10:12:06.745152"
   }
 ]
