@@ -1,12 +1,57 @@
 [
   {
+    "id": "9164b3eef8f4",
+    "title": "Bloomberg Talks: Vlad Tenev (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-talks-vlad-tenev-podcast",
+    "published": "Thu, 20 Aug 2026 19:40:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.277890"
+  },
+  {
+    "id": "510884441012",
+    "title": "Bessent on Buybacks Boost, Anthropic to Match or Top SpaceX IPO",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bessent-on-buybacks-boost-anthropic-to-match-or-top-spacex-ipo",
+    "published": "Thu, 20 Aug 2026 19:39:55 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.277906"
+  },
+  {
+    "id": "f929560c4915",
+    "title": "Bloomberg Talks: Michael Selig (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-talks-michael-selig-podcast",
+    "published": "Thu, 20 Aug 2026 19:34:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.277912"
+  },
+  {
+    "id": "7f091ba647cc",
+    "title": "Tech Disruptors: GitLab on Agentic Infrastructure, AI Controls",
+    "summary": "Faster AI code generation is increasing the need for governance, security and control across the software-development life cycle, says Bill Staples, GitLab’s CEO. Staples joins Bloomberg Intelligence analyst Mandeep Singh on this episode of the Tech Disruptors podcast to discuss GitLab’s position as a cloud- and model-neutral orchestration layer for coding agents, as well as the shift from seat-based subscriptions toward a hybrid model that includes consumption pricing for agentic workloads.",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/tech-disruptors-gitlab-on-agentic-infrastructure-ai-controls",
+    "published": "Thu, 20 Aug 2026 19:10:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.277918"
+  },
+  {
+    "id": "54e29bd442e9",
+    "title": "Balance of Power: US Debt Hits $40 Trillion (Podcast)",
+    "summary": "Source: Bloomberg, 40:45",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-20/balance-of-power-us-debt-hits-40-trillion-podcast",
+    "published": "Thu, 20 Aug 2026 19:06:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.277924"
+  },
+  {
     "id": "0cfebeebc0ac",
     "title": "Bessent Bets on Bigger Buybacks, Anthropic Preps for Record IPO",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bessent-bets-on-bigger-buybacks-anthropic-preps-for-record-ipo",
     "published": "Thu, 20 Aug 2026 18:37:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440808"
+    "fetched_at": "2026-08-20T19:46:49.277929"
   },
   {
     "id": "0cad4f116edb",
@@ -15,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bessent-to-detail-buybacks-iran-pressure-soon-walmart-sales",
     "published": "Thu, 20 Aug 2026 17:42:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440826"
+    "fetched_at": "2026-08-20T19:46:49.277934"
   },
   {
     "id": "fc504ea6f21d",
@@ -24,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-intelligence-walmart-tumbles-on-us-sales-podcast",
     "published": "Thu, 20 Aug 2026 17:22:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440833"
+    "fetched_at": "2026-08-20T19:46:49.277943"
   },
   {
     "id": "88799372bacc",
@@ -33,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/russia-ukraine-trade-more-missile-drone-strikes-evening-briefing-europe",
     "published": "Thu, 20 Aug 2026 16:41:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440839"
+    "fetched_at": "2026-08-20T19:46:49.277950"
   },
   {
     "id": "6029de5a5117",
@@ -42,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/macro-matters-mariner-cio-e-g-fisher-on-liquidity-and-credit",
     "published": "Thu, 20 Aug 2026 16:36:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440844"
+    "fetched_at": "2026-08-20T19:46:49.277955"
   },
   {
     "id": "ef0b174cc8bb",
@@ -51,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bessent-flags-bigger-buyback-potential-walmart-sales-slide",
     "published": "Thu, 20 Aug 2026 16:34:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440849"
+    "fetched_at": "2026-08-20T19:46:49.277961"
   },
   {
     "id": "1afb7cb9e96e",
@@ -60,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/mark-cuban-roars-back-with-investments-and-opinions",
     "published": "Thu, 20 Aug 2026 16:31:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440854"
+    "fetched_at": "2026-08-20T19:46:49.277969"
   },
   {
     "id": "b17d094a1df3",
@@ -69,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/uk-bank-tax-will-labour-turn-up-the-heat-on-lenders",
     "published": "Thu, 20 Aug 2026 16:01:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440864"
+    "fetched_at": "2026-08-20T19:46:49.277975"
   },
   {
     "id": "5cf5584b0832",
@@ -78,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bessent-buybacks-could-be-more-iran-announcement-monday-more",
     "published": "Thu, 20 Aug 2026 15:30:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440870"
+    "fetched_at": "2026-08-20T19:46:49.277980"
   },
   {
     "id": "ba817be5309e",
@@ -87,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/choppin-it-up-hershey-s-rothman-on-re-skilling-the-workforce",
     "published": "Thu, 20 Aug 2026 15:17:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440876"
+    "fetched_at": "2026-08-20T19:46:49.277985"
   },
   {
     "id": "2a19c69accf9",
@@ -96,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-walmart-alibaba-adrs-coty-podcast",
     "published": "Thu, 20 Aug 2026 15:16:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440882"
+    "fetched_at": "2026-08-20T19:46:49.277991"
   },
   {
     "id": "58aea85edcd3",
@@ -105,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/morgan-stanley-is-said-to-hire-barclays-tech-dealmaker-tim-luke",
     "published": "Thu, 20 Aug 2026 01:40:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440888"
+    "fetched_at": "2026-08-20T19:46:49.277996"
   },
   {
     "id": "e2523c114085",
@@ -114,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-surveillance-tv-august-20th-2026-podcast",
     "published": "Thu, 20 Aug 2026 14:56:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440893"
+    "fetched_at": "2026-08-20T19:46:49.278001"
   },
   {
     "id": "e1bb84b7560f",
@@ -123,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-walmart-advance-auto-parts-coty-podcast",
     "published": "Thu, 20 Aug 2026 14:31:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440898"
+    "fetched_at": "2026-08-20T19:46:49.278006"
   },
   {
     "id": "a005fde02c53",
@@ -132,169 +177,16 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-20/treasuries-give-up-gains-trump-declares-economic-warfare-more",
     "published": "Thu, 20 Aug 2026 14:30:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440902"
+    "fetched_at": "2026-08-20T19:46:49.278011"
   },
   {
-    "id": "48bf92fc4ffb",
-    "title": "Bloomberg Surveillance: Fed Minutes & Bond Buybacks (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-surveillance-fed-minutes-bond-buybacks-podcast-mt1m6mb0",
-    "published": "Thu, 20 Aug 2026 14:27:03 GMT",
+    "id": "346458e0e192",
+    "title": "Texas Stock Exchange Gets Ready to Welcome PWRX, ETF Focused on AI, Power Demand",
+    "summary": "The sheer volume of new fund launches has made ETF listings an increasingly important prize for exchanges.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/texas-stock-exchange-gets-ready-to-welcome-pwrx-etf-focused-on-ai-power-demand",
+    "published": "Thu, 20 Aug 2026 19:44:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440907"
-  },
-  {
-    "id": "b9d49c0f0ef0",
-    "title": "Shein’s Talks With Potential Cornerstone Investors Suggest Valuation Tests Await",
-    "summary": "Fast-fashion retailer is in talks with potential cornerstone investors in its Hong Kong listing.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/shein-s-talks-with-potential-cornerstone-investors-suggest-valuation-tests-await",
-    "published": "Thu, 20 Aug 2026 14:03:33 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440913"
-  },
-  {
-    "id": "d20cd486edb2",
-    "title": "Bloomberg Surveillance: Fed Minutes & Bond Buybacks (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-20/bloomberg-surveillance-fed-minutes-bond-buybacks-podcast",
-    "published": "Thu, 20 Aug 2026 13:57:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440918"
-  },
-  {
-    "id": "c3574ad5c9b1",
-    "title": "Stocks Fall, Bonds Erase Gains, Daly: Market Trusts Fed, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-20/stocks-fall-bonds-erase-gains-daly-market-trusts-fed-more",
-    "published": "Thu, 20 Aug 2026 13:38:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440926"
-  },
-  {
-    "id": "4d9383e17684",
-    "title": "Stock Movers: Walmart, Advanced Auto Parts, Coty (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-20/stock-movers-walmart-advanced-auto-parts-coty-podcast",
-    "published": "Thu, 20 Aug 2026 13:14:18 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.440931"
-  },
-  {
-    "id": "baf6a5f41fa6",
-    "title": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps",
-    "summary": "US stocks fell on Thursday as oil prices rose and a rally in government bonds sputtered, sending yields higher. Walmart Inc.’s earnings disappointed, pressuring shares of the retail giant and peers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps",
-    "published": "Thu, 20 Aug 2026 12:13:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690916"
-  },
-  {
-    "id": "18ef3e8fa284",
-    "title": "'Desperate Attempt' To Lower Yields: Jonathan Levin",
-    "summary": "Bloomberg Opinion's Jonathan Levin joins Scarlet Fu on \"Bloomberg Real Yield.\" Treasury Secretary Scott Bessent said today that he’s prepared to expand efforts to buy back costlier debt and that the administration will be unveiling a new fiscal initiative to address the highest borrowing costs in years. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/-desperate-attempt-to-lower-yields-jonathan-levin-video",
-    "published": "Thu, 20 Aug 2026 18:20:59 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690930"
-  },
-  {
-    "id": "14238218f91f",
-    "title": "Stocks, Bonds Fall on Doubts Over Treasury’s Plan: Markets Wrap",
-    "summary": "A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is just a short-term fix, with higher energy prices stoking worries about inflation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
-    "published": "Wed, 19 Aug 2026 22:12:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690937"
-  },
-  {
-    "id": "019e4a1c77c4",
-    "title": "US Housing Affordability Gauge Worsens for First Time Since 2023",
-    "summary": "A key measure of US housing affordability worsened for the first time in almost three years, as higher borrowing costs soaked up a bigger chunk of earnings for new homebuyers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-housing-affordability-gauge-worsens-for-first-time-since-2023",
-    "published": "Thu, 20 Aug 2026 17:32:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690942"
-  },
-  {
-    "id": "b5cd7604719b",
-    "title": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’",
-    "summary": "Treasury Secretary Scott Bessent’s intervention to bring down long-term borrowing costs is another complication for the Federal Reserve as it grapples with whether to raise interest rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-treasury-twist-clouds-warsh-s-plea-to-play-the-ball",
-    "published": "Thu, 20 Aug 2026 17:27:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690962"
-  },
-  {
-    "id": "451a0230bf51",
-    "title": "Clearlake’s FinThrive Posts Earnings Drop, Taps Line of Credit",
-    "summary": "Clearlake Capital Group’s FinThrive Inc. said earnings fell 17% in the second quarter, as it drew on a $150 million credit line to bolster liquidity, according to people with knowledge of the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/clearlake-s-finthrive-posts-earnings-drop-taps-line-of-credit",
-    "published": "Thu, 20 Aug 2026 17:13:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690967"
-  },
-  {
-    "id": "125f6584d1d6",
-    "title": "Citi Turns Negative on Dollar After Warning on US Buyback Risk",
-    "summary": "Currency strategists at Citigroup Inc. turned bearish on the US dollar in the near term, as markets gear up for a less hawkish Federal Reserve, midterm elections and more debt buybacks from the US Treasury.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/citi-turns-negative-on-dollar-after-warning-on-us-buyback-risk",
-    "published": "Thu, 20 Aug 2026 16:48:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690973"
-  },
-  {
-    "id": "3bbb3b31c694",
-    "title": "Emerging FX Trade Mixed as Treasury’s Buyback Boost Fades",
-    "summary": "Emerging-market currencies traded mixed on Thursday as the dollar regained some ground from its drop the day before when the US Treasury announced increased bond buybacks, with many now seeing the impact as “temporary.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/emerging-fx-gains-as-bessent-put-burnishes-carry-trade-appeal",
-    "published": "Thu, 20 Aug 2026 10:47:34 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690978"
-  },
-  {
-    "id": "a21a23f88e11",
-    "title": "Gold Wavers as Yields Rebound, Oil Jump Fuels Inflation Worries",
-    "summary": "Gold wavered as bond yields rebounded, with the Treasury’s surprise buyback plan seen as a short-term fix, while rising oil prices fueled concern that inflation will prompt the Federal Reserve to raise interest rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
-    "published": "Wed, 19 Aug 2026 23:34:15 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690983"
-  },
-  {
-    "id": "d9b0db43c7ac",
-    "title": "US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal",
-    "summary": "The tentative trade deal between the US and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, according to people familiar with the matter.\nTariffs on the non-US content in autos exported from Canada would be reduced to 15% from 25%, and the move on steel and aluminum under discussion would generally halve US tariffs on imports of the two metals. Bloomberg's Derek Decloet joins to discuss. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-20/us-set-to-cut-tariffs-on-canada-metals-autos-video",
-    "published": "Thu, 20 Aug 2026 16:21:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690988"
-  },
-  {
-    "id": "729f18f90f60",
-    "title": "India Allows Tax-Free Sugar Import in Rare Move to Cool Prices",
-    "summary": "India, the world’s second-biggest sugar producer, has allowed mills and refiners to import duty-free raw sugar in an effort to tame record local prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-allows-tax-free-sugar-import-in-rare-move-to-cool-prices",
-    "published": "Thu, 20 Aug 2026 14:56:13 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.690996"
-  },
-  {
-    "id": "88d109ed1670",
-    "title": "Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers",
-    "summary": "Bitcoin extended gains to beyond $72,000 on Thursday after a record squeeze forced bearish traders out of the market, but signs that fresh leveraged longs are replacing them remain limited.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers",
-    "published": "Thu, 20 Aug 2026 16:16:14 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691001"
-  },
-  {
-    "id": "0ae4f5ddcf1b",
-    "title": "Vylor Is Set to Raise $1.1 Billion in Pre-Spinoff Bond Sale",
-    "summary": "Vylor Inc. has launched a $1.1 billion sale of investment-grade bonds that will help finance a payout to parent Corteva Inc., as a spinoff of the seed company nears.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/vylor-offers-high-grade-debt-in-market-s-latest-pre-spinoff-deal",
-    "published": "Thu, 20 Aug 2026 14:17:57 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691006"
+    "fetched_at": "2026-08-20T19:46:49.477356"
   },
   {
     "id": "63a62629c1c8",
@@ -303,7 +195,160 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-19/latest-oil-market-news-and-analysis-for-aug-19",
     "published": "Wed, 19 Aug 2026 22:03:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691012"
+    "fetched_at": "2026-08-20T19:46:49.477371"
+  },
+  {
+    "id": "512c12066394",
+    "title": "Crypto Will Get Rules One Way or Another, CFTC Head Says",
+    "summary": "The crypto industry will get market structure rules even if Congress fails to pass landmark legislation, the head of the Commodity Futures Trading Commission said Thursday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/crypto-industry-will-get-rules-one-way-or-another-selig-says",
+    "published": "Thu, 20 Aug 2026 12:49:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477379"
+  },
+  {
+    "id": "7afb070d85d4",
+    "title": "The Case Against “AI”",
+    "summary": "Let’s call it Synthetic Intelligence",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/the-case-against-ai",
+    "published": "Thu, 20 Aug 2026 19:09:11 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477387"
+  },
+  {
+    "id": "63d1ed67a827",
+    "title": "CIG's Rubenstein Expects Housing Rents to Keep Rising",
+    "summary": "Clear Investment Group CEO Amy Rubenstein says apartment renting is more affordable than buying a house for now as construction costs keep on rising. She talks about the state of housing on Bloomberg Businessweek Daily. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/cig-s-rubenstein-expects-housing-rents-to-keep-rising-video",
+    "published": "Thu, 20 Aug 2026 19:08:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477394"
+  },
+  {
+    "id": "62f6ef64bd9e",
+    "title": "US-Canada Trade Draft Pressures Mexico to Match Terms",
+    "summary": "Canada’s preliminary trade deal with the US caught Mexican officials and business leaders off guard. Now, Mexico wants one of its own, as questions grow over whether months of painstaking engagement can deliver comparable tariff relief from Donald Trump.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-canada-trade-draft-piles-pressure-on-mexico-to-match-terms",
+    "published": "Thu, 20 Aug 2026 00:58:55 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477402"
+  },
+  {
+    "id": "14238218f91f",
+    "title": "Stocks, Bonds Fall as ‘Bessent Put’ Relief Fades: Markets Wrap",
+    "summary": "A rally in bonds fizzled out and stocks fell on bets the Treasury’s plan to curb borrowing costs is just a short-term fix, with higher energy prices stoking worries about inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+    "published": "Wed, 19 Aug 2026 22:12:30 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477409"
+  },
+  {
+    "id": "801bad5c0588",
+    "title": "Carlyle-Backed TAMKO Sees Earnings Drop After Debt-Funded Payout",
+    "summary": "Roof shingle-maker TAMKO Building Products reported a more than 50% drop in earnings just weeks after borrowing money to fund a dividend to its owners, according to people with knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/carlyle-backed-tamko-sees-earnings-drop-after-debt-funded-payout",
+    "published": "Thu, 20 Aug 2026 19:00:25 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477416"
+  },
+  {
+    "id": "0a2710e8ed2c",
+    "title": "Trump-Backed Dronemaker Signs Deal With Gulf-Based Energy Firm",
+    "summary": "A dronemaker backed by President Donald Trump’s sons struck a $22.3 million deal to sell counter-drone detection equipment to an energy company in the Persian Gulf, capitalizing on private firms’ push to protect themselves amid fallout from the Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/trump-backed-dronemaker-signs-deal-with-gulf-based-energy-firm",
+    "published": "Thu, 20 Aug 2026 19:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477421"
+  },
+  {
+    "id": "baf6a5f41fa6",
+    "title": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps",
+    "summary": "US stocks fell on Thursday as oil prices rose and a rally in government bonds sputtered, sending yields higher. Walmart Inc.’s earnings disappointed, pressuring shares of the retail giant and peers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps",
+    "published": "Thu, 20 Aug 2026 12:13:11 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477426"
+  },
+  {
+    "id": "18ef3e8fa284",
+    "title": "'Desperate Attempt' To Lower Yields: Jonathan Levin",
+    "summary": "Bloomberg Opinion's Jonathan Levin joins Scarlet Fu on \"Bloomberg Real Yield.\" Treasury Secretary Scott Bessent said today that he’s prepared to expand efforts to buy back costlier debt and that the administration will be unveiling a new fiscal initiative to address the highest borrowing costs in years. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/-desperate-attempt-to-lower-yields-jonathan-levin-video",
+    "published": "Thu, 20 Aug 2026 18:20:59 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477431"
+  },
+  {
+    "id": "451a0230bf51",
+    "title": "Clearlake’s FinThrive Posts Earnings Drop, Taps Line of Credit",
+    "summary": "Clearlake Capital Group’s FinThrive Inc. said earnings fell 17% in the second quarter, as it drew on a $150 million credit line to bolster liquidity, according to people with knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/clearlake-s-finthrive-posts-earnings-drop-taps-line-of-credit",
+    "published": "Thu, 20 Aug 2026 17:13:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477436"
+  },
+  {
+    "id": "125f6584d1d6",
+    "title": "Citi Turns Negative on Dollar After Warning on US Buyback Risk",
+    "summary": "Currency strategists at Citigroup Inc. turned bearish on the US dollar in the near term, as markets gear up for a less hawkish Federal Reserve, midterm elections and more debt buybacks from the US Treasury.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/citi-turns-negative-on-dollar-after-warning-on-us-buyback-risk",
+    "published": "Thu, 20 Aug 2026 16:48:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477445"
+  },
+  {
+    "id": "3bbb3b31c694",
+    "title": "Emerging FX Trade Mixed as Treasury’s Buyback Boost Fades",
+    "summary": "Emerging-market currencies traded mixed on Thursday as the dollar regained some ground from its drop the day before when the US Treasury announced increased bond buybacks, with many now seeing the impact as “temporary.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/emerging-fx-gains-as-bessent-put-burnishes-carry-trade-appeal",
+    "published": "Thu, 20 Aug 2026 10:47:34 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477450"
+  },
+  {
+    "id": "a21a23f88e11",
+    "title": "Gold Wavers as Yields Rebound, Oil Jump Fuels Inflation Worries",
+    "summary": "Gold wavered as bond yields rebounded, with the Treasury’s surprise buyback plan seen as a short-term fix, while rising oil prices fueled concern that inflation will prompt the Federal Reserve to raise interest rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-19/gold-holds-near-4-500-as-us-treasury-buyback-sends-yields-lower",
+    "published": "Wed, 19 Aug 2026 23:34:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477455"
+  },
+  {
+    "id": "d9b0db43c7ac",
+    "title": "US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal",
+    "summary": "The tentative trade deal between the US and Canada would lower tariffs on certain Canadian exports of steel and aluminum to 25% and cut duties on Canadian auto exports to 15%, according to people familiar with the matter.\nTariffs on the non-US content in autos exported from Canada would be reduced to 15% from 25%, and the move on steel and aluminum under discussion would generally halve US tariffs on imports of the two metals. Bloomberg's Derek Decloet joins to discuss. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-20/us-set-to-cut-tariffs-on-canada-metals-autos-video",
+    "published": "Thu, 20 Aug 2026 16:21:42 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477461"
+  },
+  {
+    "id": "729f18f90f60",
+    "title": "India Allows Tax-Free Sugar Import in Rare Move to Cool Prices",
+    "summary": "India, the world’s second-biggest sugar producer, has allowed mills and refiners to import duty-free raw sugar in an effort to tame record local prices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-allows-tax-free-sugar-import-in-rare-move-to-cool-prices",
+    "published": "Thu, 20 Aug 2026 14:56:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477466"
+  },
+  {
+    "id": "88d109ed1670",
+    "title": "Bitcoin’s Short Squeeze Leaves Rally Hunting for Real Buyers",
+    "summary": "Bitcoin extended gains to beyond $72,000 on Thursday after a record squeeze forced bearish traders out of the market, but signs that fresh leveraged longs are replacing them remain limited.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bitcoin-s-short-squeeze-leaves-rally-hunting-for-real-buyers",
+    "published": "Thu, 20 Aug 2026 16:16:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477471"
+  },
+  {
+    "id": "0ae4f5ddcf1b",
+    "title": "Vylor Is Set to Raise $1.1 Billion in Pre-Spinoff Bond Sale",
+    "summary": "Vylor Inc. has launched a $1.1 billion sale of investment-grade bonds that will help finance a payout to parent Corteva Inc., as a spinoff of the seed company nears.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-20/vylor-offers-high-grade-debt-in-market-s-latest-pre-spinoff-deal",
+    "published": "Thu, 20 Aug 2026 14:17:57 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-20T19:46:49.477508"
   },
   {
     "id": "cbde5f10967b",
@@ -312,51 +357,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/deere-narrows-profit-outlook-as-farm-recovery-seen-in-2027",
     "published": "Thu, 20 Aug 2026 10:12:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691017"
-  },
-  {
-    "id": "20e60d25a8c8",
-    "title": "European Stocks Extend Worst Losing Streak in Three Years",
-    "summary": "(Click here or type SQUA &lt;GO&gt; to listen to Bloomberg’s new EMEA Equities Squawk)",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/european-stocks-steady-as-earnings-driven-rally-loses-steam",
-    "published": "Thu, 20 Aug 2026 07:21:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691022"
-  },
-  {
-    "id": "abca5196da4a",
-    "title": "Corn Breaks $5 Level as US Crop Tour Points to Tighter Supplies",
-    "summary": "Corn futures topped the $5-a-bushel mark for the first time in 18 months as weaker-than-expected US crop tour results added to global supply concerns for the staple grain.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/corn-breaks-5-level-as-us-crop-tour-points-to-tighter-supplies",
-    "published": "Thu, 20 Aug 2026 02:25:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691028"
-  },
-  {
-    "id": "17bc34e2d34d",
-    "title": "US 30-Year Bonds Reverse Gains From Treasury’s Buyback Surprise",
-    "summary": "US Treasuries fell a day after the Trump administration’s surprise decision to increase buybacks of longer-dated bonds, showing the move did little to counter angst about the surging government debt that pushed some yields to a 19-year high.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-plan-at-best-circuit-breaker-for-global-bond-slump",
-    "published": "Thu, 20 Aug 2026 09:23:46 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691034"
-  },
-  {
-    "id": "a1e1ec52a42f",
-    "title": "Thales Sells €1 Billion Bond to Help Fund Exail Acquisition",
-    "summary": "French defense company Thales SA sold a €1 billion ($1.2 billion) bond on Thursday to help fund its acquisition of maritime robotics firm Exail Technologies SA.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/thales-selling-bonds-to-help-fund-deal-for-sea-drone-maker-exail",
-    "published": "Thu, 20 Aug 2026 09:16:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691039"
-  },
-  {
-    "id": "680c5f8016d2",
-    "title": "‘Don’t Get Too Greedy,’ Says Bond Veteran as Credit Gets Pricey",
-    "summary": "Scott Colbert has rarely felt the need to dig in during his four decades as a bond investor. Now, he says, is one of those times.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/-don-t-get-too-greedy-says-bond-veteran-as-credit-gets-pricey",
-    "published": "Thu, 20 Aug 2026 15:45:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-20T19:00:58.691045"
+    "fetched_at": "2026-08-20T19:46:49.477515"
   }
 ]
