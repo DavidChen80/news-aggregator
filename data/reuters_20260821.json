@@ -1,5 +1,65 @@
 [
   {
+    "id": "4afbdf16cca7",
+    "title": "Carlsberg Sees Growth in Alcohol-Free Beer and Soft Drinks",
+    "title_cn": "嘉士伯看到无酒精啤酒和软饮料的增长",
+    "summary": "Brewer sees growth in soft drinks and alcohol-free beer",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/carlsberg-sees-growth-in-alcohol-free-beer-and-soft-drinks",
+    "published": "Fri, 21 Aug 2026 10:01:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:50.665449"
+  },
+  {
+    "id": "34488e1c5cbc",
+    "title": "State of Distressed: Burian, Stark on the Preordained Bankruptcy",
+    "title_cn": "苦恼状态：布里安、斯塔克论注定的破产",
+    "summary": "To demonstrate how the modern bankruptcy system often feels prepackaged and inevitable, Brown Rudnick’s Robert Stark compares the current state of Chapter 11 to a trip to the local bureaucracy: “We could do everything that is being done now by setting up bankruptcy at a DMV, go cut your deal in the back room, bring your $60 check, stand in line, and get a rubber stamp by the DMV.” Stark and Houlihan Lokey’s Saul Burian join Bloomberg Intelligence analysts Negisa Balluku and Phil Brendel to explo",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-21/state-of-distressed-burian-stark-on-the-preordained-bankruptcy",
+    "published": "Fri, 21 Aug 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:50.788290"
+  },
+  {
+    "id": "44982907fb7d",
+    "title": "Stock Movers: Paschi, Renault, Nibe (Podcast)",
+    "title_cn": "库存搬运商：Paschi、雷诺、Nibe（播客）",
+    "summary": "Source: Bloomberg, 3:57",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-21/stock-movers-paschi-renault-nibe-podcast",
+    "published": "Fri, 21 Aug 2026 09:50:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:50.898438"
+  },
+  {
+    "id": "b0169bdcdbff",
+    "title": "Bloomberg Daybreak: Fresh Iran Measures (Podcast)",
+    "title_cn": "彭博社黎明：伊朗的新措施（播客）",
+    "summary": "Source: Bloomberg, 19:03",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bloomberg-daybreak-fresh-iran-measures-podcast",
+    "published": "Fri, 21 Aug 2026 09:48:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:51.069285"
+  },
+  {
+    "id": "e8ac442d0b92",
+    "title": "Trump Plan to Choke Iran's Economy, Bessent's Buybacks, More",
+    "title_cn": "特朗普计划扼杀伊朗经济、贝森特的回购等等",
+    "summary": "Source: Bloomberg, 6:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-21/trump-plan-to-choke-iran-s-economy-bessent-s-buybacks-more",
+    "published": "Fri, 21 Aug 2026 09:44:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:51.179661"
+  },
+  {
+    "id": "ebc19113de41",
+    "title": "Samsung, SK Hynix Under Pressure to Share Bumper Profits",
+    "title_cn": "三星、SK海力士面临分享丰厚利润的压力",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/samsung-sk-hynix-under-pressure-to-share-bumper-profits",
+    "published": "Fri, 21 Aug 2026 09:43:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:51.344705"
+  },
+  {
     "id": "df6e464c4f78",
     "title": "Next Africa: How the Iran War Reshaped the Oil Trade (Podcast)",
     "title_cn": "下一个非洲：伊朗战争如何重塑石油贸易（播客）",
@@ -7,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/next-africa-how-the-iran-war-reshaped-the-oil-trade-podcast-mt2qfvrg",
     "published": "Fri, 21 Aug 2026 09:14:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:18.743524"
+    "fetched_at": "2026-08-21T10:12:51.445989"
   },
   {
     "id": "3f6cd04a65a8",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/italian-bank-bids-eurozone-activity-edges-up-more",
     "published": "Fri, 21 Aug 2026 09:03:27 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:19.775025"
+    "fetched_at": "2026-08-21T10:12:51.555988"
   },
   {
     "id": "2ba0fff0b23f",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/stock-movers-monte-paschi-renault-cts-eventim-podcast",
     "published": "Fri, 21 Aug 2026 08:27:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:20.384277"
+    "fetched_at": "2026-08-21T10:12:51.682881"
   },
   {
     "id": "997e210a481f",
@@ -37,17 +97,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/anthropic-preparing-huge-ipo-italy-s-bank-bids-more",
     "published": "Fri, 21 Aug 2026 08:02:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:20.971059"
+    "fetched_at": "2026-08-21T10:12:51.779182"
   },
   {
     "id": "14197cc91ea8",
     "title": "Anthropic Seeks Mega-IPO, Monte Paschi's Bank Bids, More",
-    "title_cn": "Anthropic 寻求大型 IPO、Monte Paschi 的银行出价等",
+    "title_cn": "Anthropic 寻求大型 IPO、Monte Paschi 的银行投标等",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/anthropic-seeks-mega-ipo-monte-paschi-s-bank-bids-more",
     "published": "Fri, 21 Aug 2026 07:41:24 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:22.328634"
+    "fetched_at": "2026-08-21T10:12:51.886866"
   },
   {
     "id": "84c0442b3f9d",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/uk-posts-deficit-retail-sales-fall-ahead-of-labour-autumn-budget",
     "published": "Fri, 21 Aug 2026 07:15:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:23.049305"
+    "fetched_at": "2026-08-21T10:12:52.057881"
   },
   {
     "id": "df603aed4108",
@@ -67,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/next-africa-how-the-iran-war-reshaped-the-oil-trade-podcast",
     "published": "Fri, 21 Aug 2026 07:15:10 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:23.197527"
+    "fetched_at": "2026-08-21T10:12:52.169975"
   },
   {
     "id": "b7fb7e3bf033",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/stock-movers-samsung-electronics-unimicron-pop-mart-podcast",
     "published": "Fri, 21 Aug 2026 06:34:23 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:23.694325"
+    "fetched_at": "2026-08-21T10:12:52.296484"
   },
   {
     "id": "0d12a33a33e8",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/anthropic-mega-ipo-hope-us-stocks-bubble-warning-more",
     "published": "Fri, 21 Aug 2026 06:14:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:24.698616"
+    "fetched_at": "2026-08-21T10:12:52.413254"
   },
   {
     "id": "e2a618ed57f9",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/anthropic-expects-to-match-or-top-spacex-s-record-ipo-size",
     "published": "Fri, 21 Aug 2026 06:12:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:24.874219"
+    "fetched_at": "2026-08-21T10:12:52.530314"
   },
   {
     "id": "941d21208086",
@@ -107,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/bloomberg-daybreak-europe-stock-bubble-warning-podcast",
     "published": "Fri, 21 Aug 2026 05:50:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:25.642247"
+    "fetched_at": "2026-08-21T10:12:52.696619"
   },
   {
     "id": "b03621f265a8",
@@ -117,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/jpy-usd-japan-s-weak-yen-prompts-calls-for-faster-boj-rate-hikes",
     "published": "Fri, 21 Aug 2026 04:58:42 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:25.832067"
+    "fetched_at": "2026-08-21T10:12:52.859082"
   },
   {
     "id": "652db9d0cc6b",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/bonds-investors-backing-ukraine-in-war-get-rewarded",
     "published": "Fri, 21 Aug 2026 04:30:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.020751"
+    "fetched_at": "2026-08-21T10:12:52.984789"
   },
   {
     "id": "793a2bbef958",
@@ -137,97 +197,57 @@
     "link": "https://www.bloomberg.com/features/2026-hamid-karzai-weekend-interview/",
     "published": "Fri, 21 Aug 2026 04:01:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.178863"
+    "fetched_at": "2026-08-21T10:12:53.086159"
   },
   {
-    "id": "21b5ece39f1a",
-    "title": "Why China’s Policymakers Will Ride Out Poor Economic Data",
-    "title_cn": "为什么中国决策者能够安然度过糟糕的经济数据",
-    "summary": "Policymakers have many reasons to try waiting out headwinds confronting growth.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/why-china-s-policymakers-will-ride-out-poor-economic-data",
-    "published": "Fri, 21 Aug 2026 03:59:17 GMT",
+    "id": "e82919fc8d84",
+    "title": "Euro-Zone Business Activity Sees Surprise Improvement (Video)",
+    "title_cn": "欧元区商业活动出现意外改善（视频）",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/euro-zone-business-activity-sees-surprise-improvement-video",
+    "published": "Fri, 21 Aug 2026 10:11:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.336966"
+    "fetched_at": "2026-08-21T10:12:53.411387"
   },
   {
-    "id": "341666d02cad",
-    "title": "Bessent Signals Larger Buybacks, Anthropic Preps for Record IPO",
-    "title_cn": "Bessent 暗示将进行更大规模的回购，Anthropic 正在为创纪录的 IPO 做准备",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bessent-signals-larger-buybacks-anthropic-preps-for-record-ipo",
-    "published": "Fri, 21 Aug 2026 03:29:02 GMT",
+    "id": "0536dddeac33",
+    "title": "RBI Deputy Gupta Sounds Upbeat on Economy, Sees 7% Growth",
+    "title_cn": "印度储备银行副行长古普塔对经济持乐观态度，预计经济增长 7%",
+    "summary": "India’s economy may outperform the central bank’s forecasts this financial year, according to Deputy Governor Poonam Gupta, as growth closer to 7% leaves policymakers watching for the need to raise borrowing costs if it further fans inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-21/india-economic-growth-may-beat-rbi-s-6-7-forecast-gupta-says",
+    "published": "Fri, 21 Aug 2026 04:37:01 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.503874"
+    "fetched_at": "2026-08-21T10:12:53.831217"
   },
   {
-    "id": "3c200de4d7bc",
-    "title": "Bessent on Treasury Buyback Operation, Anthropic IPO Plan, More",
-    "title_cn": "Bessent 关于国债回购操作、人为 IPO 计划等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bessent-on-treasury-buyback-operation-anthropic-ipo-plan-more",
-    "published": "Fri, 21 Aug 2026 02:59:57 GMT",
+    "id": "556d9b0d9bac",
+    "title": "Gold and Bitcoin Are Rallying as Debasement Chatter Picks Up",
+    "title_cn": "随着贬值讨论的升温，黄金和比特币正在上涨",
+    "summary": "Bessent’s bond buyback triggers a decline in the dollar.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/gold-and-bitcoin-are-rallying-as-debasement-chatter-picks-up",
+    "published": "Fri, 21 Aug 2026 10:07:44 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.700761"
+    "fetched_at": "2026-08-21T10:12:53.956149"
   },
   {
-    "id": "254cd4e1d3bb",
-    "title": "Bloomberg Daybreak Asia: 'Bessent Put' Relief Fades (Podcast)",
-    "title_cn": "彭博黎明亚洲：“Bessent Put”救济逐渐消失（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bloomberg-daybreak-asia-bessent-put-relief-fades-podcast",
-    "published": "Fri, 21 Aug 2026 02:03:13 GMT",
+    "id": "e89aa256f369",
+    "title": "BofA’s Hartnett Sees Pressure on Risk Assets If Bond Plan Fails",
+    "title_cn": "美国银行的哈特内特认为，如果债券计划失败，风险资产将面临压力",
+    "summary": "A failure in the US Treasury’s plan to tame long-term bond yields would pressure the dollar and spur short bets against riskier assets in the lead-up to November midterm elections, according to Bank of America Corp. strategist Michael Hartnett.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-21/bofa-s-hartnett-sees-pressure-on-risk-assets-if-bond-plan-fails",
+    "published": "Fri, 21 Aug 2026 10:01:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:26.890427"
+    "fetched_at": "2026-08-21T10:12:54.076700"
   },
   {
-    "id": "2cbd9f73abaa",
-    "title": "Bessent Treasury Market Efforts, Anthropic IPO Expectations",
-    "title_cn": "Bessent 国债市场的努力，人为的 IPO 预期",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bessent-treasury-market-efforts-anthropic-ipo-expectations",
-    "published": "Fri, 21 Aug 2026 01:41:01 GMT",
+    "id": "a15451cb7b0a",
+    "title": "Is Bessent Facing a Bond Market Credibility Issue?",
+    "title_cn": "Bessent 是否面临债券市场信誉问题？",
+    "summary": "Jefferies Economist Modupe Adegbembo and Morgan Stanley Chief European Equity Strategist Marina Zavolock weigh the impact of US Treasury Secretary Scott Bessent's announcement that the department would at least double the size of its long-dated bond buybacks. They speak on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/is-bessent-facing-a-bond-market-credibility-issue-video",
+    "published": "Fri, 21 Aug 2026 09:58:39 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:27.044755"
-  },
-  {
-    "id": "aed43efd685b",
-    "title": "Bessent Flags Bigger Debt Buyback Potential, Anthropic IPO Prep",
-    "title_cn": "Bessent 标志着更大的债务回购潜力，Anthropic IPO 准备工作",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-21/bessent-flags-bigger-debt-buyback-potential-anthropic-ipo-prep",
-    "published": "Fri, 21 Aug 2026 00:51:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:27.221272"
-  },
-  {
-    "id": "96f10d77dcb1",
-    "title": "Post-Strike Movie Supply is Driving Theatre Demand, Vue Entertainment CEO says",
-    "title_cn": "Vue Entertainment 首席执行官表示，罢工后的电影供应正在推动影院需求",
-    "summary": "Vue Entertainment CEO Tim Richards says the chain may see its strongest summer box office since the pandemic. \"What we are seeing this year is all the movies in the post-strike period now hitting out screens. But we are also seeing the studios and content-makers producing and releasing movies at unprecedented levels.\" He speaks to Bloomberg's Guy Johnson, Tom Mackenzie, and Skylar Montgomery Koning. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/vue-entertainment-ceo-on-movie-theatre-demand-video",
-    "published": "Fri, 21 Aug 2026 09:29:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:27.680298"
-  },
-  {
-    "id": "ee19827ae52d",
-    "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock",
-    "title_cn": "《战地》科技推动瑞典股市上涨 80%",
-    "summary": "A small Swedish firm is Europe’s best-performing defense stock in 2026, an ascent its chief executive puts down to a “third wave” of military spending that’s focused more on computer systems and drones than tanks and ammunition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/making-tech-for-the-battlefield-fuels-80-rally-in-swedish-stock",
-    "published": "Fri, 21 Aug 2026 05:15:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:27.837779"
-  },
-  {
-    "id": "2b44297d8060",
-    "title": "IMO Contradicts Trump Claims on Strait of Hormuz",
-    "title_cn": "国际海事组织反驳特朗普对霍尔木兹海峡的主张",
-    "summary": "IMO Secretary-General Arsenio Dominguez tells Bloomberg TV that the Strait of Hormuz is not open and that there is no confirmation that mines have been removed in the waterway, contradicting statements by US President Donald Trump. He says, \"Until we have confirmation of demining and security that the vessels are not going to be attacked, I will not call for anyone in the area to take the risk to transit.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/imo-contradicts-trump-claims-on-strait-of-hormuz-video",
-    "published": "Fri, 21 Aug 2026 09:11:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.015140"
+    "fetched_at": "2026-08-21T10:12:54.188320"
   },
   {
     "id": "8d9968664eb8",
@@ -237,7 +257,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 20 Aug 2026 22:05:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.177626"
+    "fetched_at": "2026-08-21T10:12:54.306222"
+  },
+  {
+    "id": "96f10d77dcb1",
+    "title": "Post-Strike Movie Supply is Driving Theatre Demand, Vue Entertainment CEO says",
+    "title_cn": "Vue Entertainment 首席执行官表示，罢工后的电影供应正在推动影院需求",
+    "summary": "Vue Entertainment CEO Tim Richards says the chain may see its strongest summer box office since the pandemic. \"What we are seeing this year is all the movies in the post-strike period now hitting out screens. But we are also seeing the studios and content-makers producing and releasing movies at unprecedented levels.\" He speaks to Bloomberg's Guy Johnson, Tom Mackenzie, and Skylar Montgomery Koning. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/vue-entertainment-ceo-on-movie-theatre-demand-video",
+    "published": "Fri, 21 Aug 2026 09:29:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:54.469606"
+  },
+  {
+    "id": "ee19827ae52d",
+    "title": "Making Battlefield Tech Fuels an 80% Rally for Swedish Stock",
+    "title_cn": "《战地》科技推动瑞典股市上涨 80%",
+    "summary": "A small Swedish firm is Europe’s best-performing defense stock in 2026, an ascent its chief executive puts down to a “third wave” of military spending that’s focused more on computer systems and drones than tanks and ammunition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-21/making-tech-for-the-battlefield-fuels-80-rally-in-swedish-stock",
+    "published": "Fri, 21 Aug 2026 05:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:54.577836"
+  },
+  {
+    "id": "2b44297d8060",
+    "title": "IMO Contradicts Trump Claims on Strait of Hormuz",
+    "title_cn": "国际海事组织反驳特朗普对霍尔木兹海峡的主张",
+    "summary": "IMO Secretary-General Arsenio Dominguez tells Bloomberg TV that the Strait of Hormuz is not open and that there is no confirmation that mines have been removed in the waterway, contradicting statements by US President Donald Trump. He says, \"Until we have confirmation of demining and security that the vessels are not going to be attacked, I will not call for anyone in the area to take the risk to transit.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-21/imo-contradicts-trump-claims-on-strait-of-hormuz-video",
+    "published": "Fri, 21 Aug 2026 09:11:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:54.695961"
   },
   {
     "id": "47b721c438a6",
@@ -247,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/what-s-next-following-paschi-s-high-stakes-move-video",
     "published": "Fri, 21 Aug 2026 08:43:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.357184"
+    "fetched_at": "2026-08-21T10:12:54.803687"
   },
   {
     "id": "729f18f90f60",
@@ -257,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/india-allows-tax-free-sugar-import-in-rare-move-to-cool-prices",
     "published": "Thu, 20 Aug 2026 14:56:13 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.514785"
+    "fetched_at": "2026-08-21T10:12:54.928060"
   },
   {
     "id": "199b65213e24",
@@ -267,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/dollar-depreciation-is-sustainable-3-minutes-mliv-video",
     "published": "Fri, 21 Aug 2026 08:13:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.785206"
+    "fetched_at": "2026-08-21T10:12:55.050831"
   },
   {
     "id": "fbd4f43da178",
@@ -277,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/memory-stocks-struggle-for-momentum-with-smart-money-moving-on",
     "published": "Fri, 21 Aug 2026 08:07:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:28.934912"
+    "fetched_at": "2026-08-21T10:12:55.163944"
   },
   {
     "id": "03908867ea72",
@@ -287,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/dangote-offers-east-african-nations-30-stake-in-new-refinery",
     "published": "Fri, 21 Aug 2026 05:58:51 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.093644"
+    "fetched_at": "2026-08-21T10:12:55.267835"
   },
   {
     "id": "f8d2d43cbb4c",
@@ -297,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/jasmine-sun-on-what-the-ai-industry-got-wrong-about-the-public-backlash",
     "published": "Fri, 21 Aug 2026 08:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.266103"
+    "fetched_at": "2026-08-21T10:12:55.396885"
   },
   {
     "id": "4d31bc7d79ed",
@@ -307,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/odd-lots-what-ai-got-wrong-about-the-public-backlash-podcast",
     "published": "Fri, 21 Aug 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.435876"
+    "fetched_at": "2026-08-21T10:12:55.505600"
   },
   {
     "id": "f39265e5454a",
@@ -317,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/holcim-said-to-acquire-part-of-james-hardie-s-european-business",
     "published": "Thu, 20 Aug 2026 20:27:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.593648"
+    "fetched_at": "2026-08-21T10:12:55.689983"
   },
   {
     "id": "f0bd4974b9ad",
@@ -327,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/hua-medicine-ceo-li-chen-on-earnings-video",
     "published": "Fri, 21 Aug 2026 07:32:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.777482"
+    "fetched_at": "2026-08-21T10:12:55.809404"
   },
   {
     "id": "fd1f9409d651",
@@ -337,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/t-rowe-price-says-nigeria-attractive-even-after-64-stock-rally",
     "published": "Fri, 21 Aug 2026 07:30:26 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:29.954105"
+    "fetched_at": "2026-08-21T10:12:55.926845"
   },
   {
     "id": "a9c2cf24c9f9",
@@ -347,57 +397,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-says-slowing-inflation-is-best-path-to-lower-us-yields",
     "published": "Fri, 21 Aug 2026 07:10:20 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.127515"
-  },
-  {
-    "id": "a9c86e90f548",
-    "title": "Ping An’s Profit Rises as Stock Market Rally Boosts Returns",
-    "title_cn": "股市上涨提振回报，平安盈利上升",
-    "summary": "Ping An Insurance (Group) Co.’s profit rose 36% in the first half, sending its shares higher, as China’s stock-market rally bolstered investment returns.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-20/ping-an-s-profit-rises-as-stock-market-rally-boosts-returns",
-    "published": "Thu, 20 Aug 2026 10:02:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.286806"
-  },
-  {
-    "id": "01f8cfe85af4",
-    "title": "Goldman Muscles Into Indian Banks’ Turf With State Share Deals",
-    "title_cn": "高盛通过国有股交易进军印度银行业",
-    "summary": "Goldman Sachs Group Inc. is making inroads into a corner of India’s deal landscape that’s long been the near-exclusive hunting ground of local finance giants: government share sales.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-muscles-into-indian-banks-turf-with-state-share-deals",
-    "published": "Fri, 21 Aug 2026 07:04:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.469489"
-  },
-  {
-    "id": "c921b737bafd",
-    "title": "India Economic Activity Edges Up as Services Improve",
-    "title_cn": "随着服务业的改善，印度经济活动小幅上升",
-    "summary": "India’s economic activity edged up in August from a four-year low last month as a pick up in services offset a sharp slowdown in manufacturing, a flash survey by HSBC Holdings Plc showed Friday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/india-s-economic-activity-stays-subdued-as-manufacturing-weakens",
-    "published": "Fri, 21 Aug 2026 05:15:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.621158"
-  },
-  {
-    "id": "5ee2cd537ce2",
-    "title": "Alibaba Profit Takes A Beating Amid AI Spending | The China Show | 8/21/2026",
-    "title_cn": "阿里巴巴利润因人工智能支出而遭受重创中国展 | 2026 年 8 月 21 日",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/the-china-show-8-21-2026-video",
-    "published": "Fri, 21 Aug 2026 06:54:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.804817"
-  },
-  {
-    "id": "be19f7534cad",
-    "title": "T.Rowe Price's Loefstrand on Frontier Markets",
-    "title_cn": "T.Rowe Price 的 Loefstrand 谈前沿市场",
-    "summary": "Johannes Loefstrand, who manages $310 million in frontier market assets at T. Rowe Price, spoke to Bloomberg's Chief Africa Correspondent Jennifer Zabasajja on Next Africa, saying he’s “excited” about the prospects of Africa’s most-populous nation. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-21/t-rowe-price-s-loefstrand-on-frontier-markets-video",
-    "published": "Fri, 21 Aug 2026 06:53:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:30.979194"
+    "fetched_at": "2026-08-21T10:12:56.095808"
   },
   {
     "id": "2426a4d30f95",
@@ -407,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/japan-earmarks-another-944-million-for-rapidus-in-ai-chip-race",
     "published": "Fri, 21 Aug 2026 09:01:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:31.428656"
+    "fetched_at": "2026-08-21T10:12:56.421830"
   },
   {
     "id": "6dc9f970da96",
@@ -417,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video-mt2pfbam",
     "published": "Fri, 21 Aug 2026 08:45:34 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:31.584249"
+    "fetched_at": "2026-08-21T10:12:56.531954"
   },
   {
     "id": "adea7e70de52",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/samsung-plans-as-much-as-79-billion-in-shareholder-returns",
     "published": "Thu, 20 Aug 2026 23:43:09 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:31.752079"
+    "fetched_at": "2026-08-21T10:12:56.651934"
   },
   {
     "id": "a178ede1f6b4",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/what-the-ai-industry-got-wrong-about-public-backlash-video",
     "published": "Fri, 21 Aug 2026 08:12:59 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:31.923869"
+    "fetched_at": "2026-08-21T10:12:56.751132"
   },
   {
     "id": "f7d837e6928a",
@@ -447,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/alphabet-bond-buyer-warns-on-australia-s-capacity-for-ai-debt",
     "published": "Fri, 21 Aug 2026 08:05:18 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.104032"
+    "fetched_at": "2026-08-21T10:12:56.858857"
   },
   {
     "id": "6445de8d2bae",
@@ -457,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/nvidia-in-talks-with-chip-startup-rebellions-for-potential-deal",
     "published": "Fri, 21 Aug 2026 07:45:43 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.274785"
+    "fetched_at": "2026-08-21T10:12:56.964156"
   },
   {
     "id": "414d78866a1b",
@@ -467,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/humanoid-robots-put-china-ahead-in-tech-race-video",
     "published": "Fri, 21 Aug 2026 07:16:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.437069"
+    "fetched_at": "2026-08-21T10:12:57.073274"
   },
   {
     "id": "cd373aeaaa3a",
@@ -477,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/stevenage-braces-for-life-after-gsk-as-drugmaker-moves-to-cambridge",
     "published": "Fri, 21 Aug 2026 06:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.592257"
+    "fetched_at": "2026-08-21T10:12:57.186649"
   },
   {
     "id": "7a78b2e75c04",
@@ -487,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/musk-touts-starlink-for-india-s-rural-users-as-rollout-stalled",
     "published": "Fri, 21 Aug 2026 06:04:54 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.764715"
+    "fetched_at": "2026-08-21T10:12:57.361169"
   },
   {
     "id": "90ce47c3f39b",
@@ -497,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/fujifilm-expands-key-chip-material-output-to-capture-ai-demand",
     "published": "Fri, 21 Aug 2026 05:57:08 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:32.937371"
+    "fetched_at": "2026-08-21T10:12:57.562633"
   },
   {
     "id": "b3caaa1435bc",
@@ -507,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-anthropic-beat-spacex-s-record-ipo-size-video",
     "published": "Fri, 21 Aug 2026 05:38:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:33.102160"
+    "fetched_at": "2026-08-21T10:12:57.682843"
   },
   {
     "id": "3fe0d469735d",
@@ -517,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/phancy-group-s-tseng-says-ai-demand-to-drive-growth-video",
     "published": "Fri, 21 Aug 2026 04:56:49 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:33.290671"
+    "fetched_at": "2026-08-21T10:12:57.785926"
   },
   {
     "id": "23e45cd696a5",
@@ -527,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/ai-spending-splurge-boosts-danfoss-s-bet-on-data-center-cooling",
     "published": "Fri, 21 Aug 2026 04:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:33.472825"
+    "fetched_at": "2026-08-21T10:12:57.903206"
   },
   {
     "id": "f3f3ae5939cb",
@@ -537,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-ai-solve-online-shopping-s-biggest-problem",
     "published": "Fri, 21 Aug 2026 04:00:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:33.659385"
+    "fetched_at": "2026-08-21T10:12:58.024131"
   },
   {
     "id": "a672e7b891f5",
@@ -547,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/johor-nets-1-2-billion-in-investment-bids-after-singapore-visit",
     "published": "Fri, 21 Aug 2026 02:46:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:33.875739"
+    "fetched_at": "2026-08-21T10:12:58.170245"
   },
   {
     "id": "2f68966daec4",
@@ -557,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/samsung-set-to-top-phone-market-in-downturn-counterpoint-says",
     "published": "Fri, 21 Aug 2026 01:53:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:34.048984"
+    "fetched_at": "2026-08-21T10:12:58.292802"
   },
   {
     "id": "4028b6b6b1bb",
@@ -567,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/cxmt-ai-hardware-firms-take-helm-as-china-earnings-enter-peak",
     "published": "Fri, 21 Aug 2026 01:49:56 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:34.217426"
+    "fetched_at": "2026-08-21T10:12:58.418181"
   },
   {
     "id": "9d00691a7042",
@@ -577,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/alibaba-profit-dives-75-as-ai-spending-ratchets-up-video",
     "published": "Thu, 20 Aug 2026 23:55:47 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:34.374197"
+    "fetched_at": "2026-08-21T10:12:58.542251"
   },
   {
     "id": "76281806863f",
@@ -587,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/the-close-8-20-2026-video",
     "published": "Thu, 20 Aug 2026 22:11:30 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:34.549704"
+    "fetched_at": "2026-08-21T10:12:58.664471"
   },
   {
     "id": "a36f2756ea55",
@@ -597,7 +597,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-20/maisonette-tackles-untapped-retail-market-video",
     "published": "Thu, 20 Aug 2026 22:10:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:34.719562"
+    "fetched_at": "2026-08-21T10:12:58.786141"
+  },
+  {
+    "id": "629fc1643a05",
+    "title": "Ceuta Migration Panic Shows Morocco Holds All the Cards in Spat With EU",
+    "title_cn": "休达移民恐慌表明摩洛哥掌握与欧盟争端的所有牌",
+    "summary": "The panic over Ceuta showed the bloc needs Rabat’s full cooperation to secure its borders.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-21/ceuta-migration-panic-shows-morocco-holds-all-the-cards-in-spat-with-eu",
+    "published": "Fri, 21 Aug 2026 09:59:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-08-21T10:12:59.037995"
   },
   {
     "id": "9888a5fefb94",
@@ -607,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-08-21/monaco-bomb-attack-mysteries-surround-ukraine-millionaire-murder-plot",
     "published": "Fri, 21 Aug 2026 09:16:57 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:35.262124"
+    "fetched_at": "2026-08-21T10:12:59.141951"
   },
   {
     "id": "3c9d890fa408",
@@ -617,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/nigeria-non-profits-seek-to-use-ai-to-improve-election-transparency",
     "published": "Fri, 21 Aug 2026 08:25:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:35.771122"
+    "fetched_at": "2026-08-21T10:12:59.241685"
   },
   {
     "id": "4b16c73ac32c",
@@ -627,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/zambian-police-summon-opposition-leader-after-disputed-election",
     "published": "Fri, 21 Aug 2026 08:04:55 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:36.866846"
+    "fetched_at": "2026-08-21T10:12:59.357688"
   },
   {
     "id": "ac2439d94d6f",
@@ -637,7 +647,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/us-accuses-china-of-wrongful-detention-of-american-scholar",
     "published": "Fri, 21 Aug 2026 02:01:02 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:37.635217"
+    "fetched_at": "2026-08-21T10:12:59.455811"
   },
   {
     "id": "3b4808bcb80b",
@@ -647,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/daybreak-europe-08-21-2026-video",
     "published": "Fri, 21 Aug 2026 07:58:46 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:38.818359"
+    "fetched_at": "2026-08-21T10:12:59.569262"
   },
   {
     "id": "44f8169aa5d4",
@@ -657,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
     "published": "Fri, 21 Aug 2026 07:26:40 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:38.981348"
+    "fetched_at": "2026-08-21T10:12:59.726906"
   },
   {
     "id": "dbd465c243e2",
@@ -667,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-21/our-town-chapter-3-one-little-bacon-wrapped-sausage-podcast",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:39.487317"
+    "fetched_at": "2026-08-21T10:12:59.850619"
   },
   {
     "id": "83c00b7512ac",
@@ -677,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/germany-s-economic-challenge-state-elections-analysis-video",
     "published": "Fri, 21 Aug 2026 06:56:36 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:39.963278"
+    "fetched_at": "2026-08-21T10:12:59.952301"
   },
   {
     "id": "5042b894dc5b",
@@ -687,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/trump-risks-china-blowback-with-plan-to-isolate-iran-s-economy",
     "published": "Thu, 20 Aug 2026 22:38:37 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:40.508963"
+    "fetched_at": "2026-08-21T10:13:00.070065"
   },
   {
     "id": "9164ad165ec2",
@@ -697,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/why-karzai-remains-in-afghanistan-under-the-taliban-video",
     "published": "Fri, 21 Aug 2026 05:15:31 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:41.832163"
+    "fetched_at": "2026-08-21T10:13:00.196481"
   },
   {
     "id": "b9a3ec1448dd",
@@ -707,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/korea-s-lee-hails-trump-s-determination-for-peninsula-peace",
     "published": "Thu, 20 Aug 2026 00:30:04 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:41.984880"
+    "fetched_at": "2026-08-21T10:13:00.302369"
   },
   {
     "id": "6d325fe7eb40",
@@ -717,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-21/karzai-says-education-of-women-is-key-for-afghanistan-video",
     "published": "Fri, 21 Aug 2026 04:01:19 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.169291"
+    "fetched_at": "2026-08-21T10:13:00.427884"
   },
   {
     "id": "0a2e13bf6066",
@@ -727,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/swiss-voters-are-set-to-reject-stricter-neutrality-poll-shows",
     "published": "Fri, 21 Aug 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.327199"
+    "fetched_at": "2026-08-21T10:13:00.558742"
   },
   {
     "id": "72d814763563",
@@ -737,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/hong-kong-convicts-tiananmen-vigil-leaders-of-subversion",
     "published": "Fri, 21 Aug 2026 02:18:15 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.492611"
+    "fetched_at": "2026-08-21T10:13:00.667327"
   },
   {
     "id": "35512a194efa",
@@ -747,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/oil-rich-kazakhstan-set-for-elections-as-tokayev-bolsters-power",
     "published": "Fri, 21 Aug 2026 03:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.666190"
+    "fetched_at": "2026-08-21T10:13:00.793405"
   },
   {
     "id": "d04dc0a59960",
@@ -757,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/maga-inc-s-war-chest-climbs-to-404-million-after-zero-spending",
     "published": "Fri, 21 Aug 2026 02:13:03 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.827915"
+    "fetched_at": "2026-08-21T10:13:00.918235"
   },
   {
     "id": "d3c131162496",
@@ -767,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/nancy-kissinger-a-force-beside-her-diplomat-husband-dead-at-92",
     "published": "Fri, 21 Aug 2026 01:42:52 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:42.994708"
+    "fetched_at": "2026-08-21T10:13:01.030406"
   },
   {
     "id": "4870fb986b1a",
@@ -777,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-21/russia-holds-rare-missile-test-near-islands-claimed-by-japan",
     "published": "Fri, 21 Aug 2026 01:02:53 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:43.179310"
+    "fetched_at": "2026-08-21T10:13:01.156117"
   },
   {
     "id": "bf5df69c41a4",
@@ -787,16 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-20/imran-khan-moved-to-hospital-from-jail-on-pakistan-court-order",
     "published": "Thu, 20 Aug 2026 23:38:32 GMT",
     "source": "International",
-    "fetched_at": "2026-08-21T09:41:43.337025"
-  },
-  {
-    "id": "423957b3662f",
-    "title": "Kim’s Sister Mocks South Korea as US ‘Puppet’ Over Drill Cutback",
-    "title_cn": "金正恩的妹妹嘲笑韩国是美国削减演习的“傀儡”",
-    "summary": "North Korea mocked South Korea for being a US “puppet” after President Donald Trump unilaterally curtailed the two countries’ joint military drills.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-21/kim-s-sister-mocks-south-korea-as-us-puppet-over-drill-cutback",
-    "published": "Fri, 21 Aug 2026 00:54:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-08-21T09:41:43.508693"
+    "fetched_at": "2026-08-21T10:13:01.259547"
   }
 ]
