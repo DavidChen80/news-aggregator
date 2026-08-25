@@ -1,12 +1,48 @@
 [
   {
+    "id": "390d768ed5e2",
+    "title": "Trump’s Trade Wars Are Latest Threat to Jaded Asia Investors",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/trump-s-trade-wars-are-latest-threat-to-jaded-asia-investors",
+    "published": "Tue, 25 Aug 2026 09:36:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.544375"
+  },
+  {
+    "id": "c2338608b5d1",
+    "title": "VW (VWAGY) CEO Blume Confronts Workers Over 100,000 Layoffs Plan",
+    "summary": "Volkswagen AG Chief Executive Officer Oliver Blume said roughly half of the carmaker’s additional workforce reductions will need to happen in Germany, raising the stakes in a restructuring conflict already straining relations with employees.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/vw-vwagy-ceo-blume-confronts-workers-over-100-000-layoffs-plan",
+    "published": "Tue, 25 Aug 2026 04:15:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.544390"
+  },
+  {
+    "id": "87c0df415d41",
+    "title": "Bessent’s Iran Threat, Lutnick’s Intervention in Canada, More",
+    "summary": "Source: Bloomberg, 6:15",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-25/bessent-s-iran-threat-lutnick-s-intervention-in-canada-more",
+    "published": "Tue, 25 Aug 2026 09:22:55 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.544396"
+  },
+  {
+    "id": "3db944e27842",
+    "title": "Stock Movers: Siemens Energy, EssilorLuxxotica, Kitron (Podcast)",
+    "summary": "Source: Bloomberg, 3:41",
+    "link": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-siemens-energy-essilorluxxotica-kitron-podcast",
+    "published": "Tue, 25 Aug 2026 09:03:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.544402"
+  },
+  {
     "id": "36f5380fbf94",
     "title": "US-Iran Sanctions, UK Taps Ukraine's Combat AI, More",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/us-iran-sanctions-uk-taps-ukraine-s-combat-ai-more",
     "published": "Tue, 25 Aug 2026 08:44:23 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144258"
+    "fetched_at": "2026-08-25T09:40:06.544407"
   },
   {
     "id": "55da95e0d39d",
@@ -15,7 +51,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/3amnnstephencaro0825",
     "published": "Tue, 25 Aug 2026 08:29:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144273"
+    "fetched_at": "2026-08-25T09:40:06.544412"
   },
   {
     "id": "97d00ddc2d83",
@@ -24,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/us-iran-trade-warning-canada-trade-war-escalates-more-mt8ed1dt",
     "published": "Tue, 25 Aug 2026 08:22:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144280"
+    "fetched_at": "2026-08-25T09:40:06.544418"
   },
   {
     "id": "711e404735d5",
@@ -33,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/bessent-s-iran-sanctions-uk-taps-ukraine-s-combat-data-more-mt8ebh58",
     "published": "Tue, 25 Aug 2026 08:21:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144286"
+    "fetched_at": "2026-08-25T09:40:06.544427"
   },
   {
     "id": "5bc7b51db275",
@@ -42,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-siemens-energy-vistry-melrose-podcast",
     "published": "Tue, 25 Aug 2026 08:10:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144292"
+    "fetched_at": "2026-08-25T09:40:06.544433"
   },
   {
     "id": "eef63a69649a",
@@ -51,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/us-launches-operation-economic-outcast-vw-job-cuts-more-mt8dwkwp",
     "published": "Tue, 25 Aug 2026 08:09:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144297"
+    "fetched_at": "2026-08-25T09:40:06.544439"
   },
   {
     "id": "858371e597c7",
@@ -60,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/hundreds-of-flights-canceled-as-typhoon-bears-down-on-okinawa",
     "published": "Tue, 25 Aug 2026 07:19:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144302"
+    "fetched_at": "2026-08-25T09:40:06.544444"
   },
   {
     "id": "542bf5995c89",
@@ -69,16 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/uk-s-burnham-to-lobby-president-trump-for-ukraine-access-to-patriot-missiles",
     "published": "Tue, 25 Aug 2026 07:18:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144312"
-  },
-  {
-    "id": "c2338608b5d1",
-    "title": "VW (VWAGY) CEO Blume Confronts Workers Over 100,000 Layoffs Plan",
-    "summary": "Volkswagen AG labor representatives warned that the carmaker’s planned cuts could eventually affect as many as 140,000 jobs as management prepares to take its restructuring pitch to workers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/vw-vwagy-ceo-blume-confronts-workers-over-100-000-layoffs-plan",
-    "published": "Tue, 25 Aug 2026 04:15:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144318"
+    "fetched_at": "2026-08-25T09:40:06.544450"
   },
   {
     "id": "a38cff321004",
@@ -87,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/stock-movers-mufj-xpeng-wuxi-xdc-podcast",
     "published": "Tue, 25 Aug 2026 06:16:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144325"
+    "fetched_at": "2026-08-25T09:40:06.544455"
   },
   {
     "id": "6d17aafb2ef5",
@@ -96,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/burnham-to-lobby-trump-for-ukraine-patriot-missiles",
     "published": "Tue, 25 Aug 2026 06:10:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144331"
+    "fetched_at": "2026-08-25T09:40:06.544460"
   },
   {
     "id": "643c6145eddf",
@@ -105,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/bloomberg-daybreak-europe-us-china-collision-course-podcast",
     "published": "Tue, 25 Aug 2026 05:47:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144336"
+    "fetched_at": "2026-08-25T09:40:06.544465"
   },
   {
     "id": "b4dfacf421c5",
@@ -114,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/sap-renewed-hr-chief-s-term-after-probes-cleared-her-of-fault",
     "published": "Tue, 25 Aug 2026 05:45:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144342"
+    "fetched_at": "2026-08-25T09:40:06.544471"
   },
   {
     "id": "287df4d99a72",
@@ -123,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-24/woodside-profit-jumps-as-higher-prices-offset-lower-output",
     "published": "Mon, 24 Aug 2026 22:53:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144347"
+    "fetched_at": "2026-08-25T09:40:06.544476"
   },
   {
     "id": "1c7d74f9f723",
@@ -132,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/bloomberg-law-mail-ballot-open-road-after-dc-surge-podcast",
     "published": "Tue, 25 Aug 2026 03:28:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144352"
+    "fetched_at": "2026-08-25T09:40:06.544481"
   },
   {
     "id": "ce55436d1649",
@@ -141,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/court-backs-trump-s-bid-to-curb-mail-ballots-iran-eco-pressure",
     "published": "Tue, 25 Aug 2026 03:20:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144358"
+    "fetched_at": "2026-08-25T09:40:06.544486"
   },
   {
     "id": "9f8ba93da3a7",
@@ -150,43 +177,61 @@
     "link": "https://www.bloomberg.com/news/audio/2026-08-25/bloomberg-daybreak-asia-chipmakers-decline-podcast",
     "published": "Tue, 25 Aug 2026 02:52:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144363"
-  },
-  {
-    "id": "baeb393c1e28",
-    "title": "Court Sides With Trump on Mail Ballots, Iran Eco Isolation",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-25/court-sides-with-trump-on-mail-ballots-iran-eco-isolation",
-    "published": "Tue, 25 Aug 2026 02:38:02 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144368"
-  },
-  {
-    "id": "38ab59fd22ad",
-    "title": "Court Backs Trump on Mail Ballot Curbs, US Warns Iran's Partners",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-08-25/court-backs-trump-on-mail-ballot-curbs-us-warns-iran-s-partners",
-    "published": "Tue, 25 Aug 2026 01:45:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144373"
-  },
-  {
-    "id": "a7c90cab577b",
-    "title": "Hyundai Motor, Union Reach Tentative Deal to End Wage Dispute",
-    "summary": "Hyundai Motor Co. and its labor union reached a tentative wage agreement, potentially ending a months-long dispute which had led to strike actions and sparked concerns about mounting production losses.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/hyundai-motor-union-reach-tentative-deal-to-end-wage-dispute",
-    "published": "Tue, 25 Aug 2026 01:41:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.144379"
+    "fetched_at": "2026-08-25T09:40:06.544491"
   },
   {
     "id": "142bdb1b7220",
-    "title": "Global Stocks Rise as Bitcoin Pushes Past $80,000: Markets Wrap",
-    "summary": "Stocks rose as a selloff in chipmakers fizzled, while Bitcoin rallied past $80,000 and oil extended declines.",
+    "title": "Stocks Climb as Bitcoin Hits $80,000 and Oil Falls: Markets Wrap",
+    "summary": "Global stocks rose as chipmakers rebounded, while Bitcoin briefly topped $80,000 and oil extended declines.",
     "link": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
     "published": "Mon, 24 Aug 2026 22:09:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536818"
+    "fetched_at": "2026-08-25T09:40:06.697890"
+  },
+  {
+    "id": "62cf475a9aee",
+    "title": "Nvidia Stock Bulls Get Punished in the Run-Up to Earnings",
+    "summary": "Nvidia has fallen for seven days, its longest run of losses since 2022.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-08-25/nvidia-stock-bulls-get-punished-in-the-run-up-to-earnings",
+    "published": "Tue, 25 Aug 2026 09:30:38 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.697904"
+  },
+  {
+    "id": "41bfca6ff01c",
+    "title": "Latest Oil Market News and Analysis for Aug. 25",
+    "summary": "Oil extended Monday’s drop as a US plan to ramp up economic pressure on Iran so far spared the country’s trading partners from harsher measures for now.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+    "published": "Mon, 24 Aug 2026 22:02:31 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.697910"
+  },
+  {
+    "id": "06976f896119",
+    "title": "Laopu Gold Growth Slows as Bullion Slide Hits Luxury Demand",
+    "summary": "Laopu Gold Co. reported a slower revenue and profit growth for the first half, missing analyst estimates as falling bullion prices dented Chinese consumers’ appetite for its jewelry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/laopu-gold-s-growth-slows-as-bullion-slide-hits-luxury-demand",
+    "published": "Tue, 25 Aug 2026 08:36:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.697915"
+  },
+  {
+    "id": "4e507730b54c",
+    "title": "Fed Should Not Hike Rates, JPMorgan AM Says",
+    "summary": "Karen Ward, EMEA chief market strategist at JPMorgan Asset Management, discusses Scott Bessent's pledge to increase the Treasury’s purchases of long-dated bonds and the outlook for Federal Reserve policy. She speaks on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-08-25/fed-should-not-hike-rates-jpmorgan-am-says-video",
+    "published": "Tue, 25 Aug 2026 09:06:53 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.697920"
+  },
+  {
+    "id": "7e4e158bd7c6",
+    "title": "Major Indian Supermarket Chain Plans Record Rupee Bond Sale",
+    "summary": "Avenue Supermarts Ltd., a leading Indian supermarket operator, plans to raise up to 10 billion rupees ($105 million) through a domestic bond offering, according to people familiar with the matter, its largest ever as corporate debt sales in the country gain momentum.",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-25/major-indian-supermarket-chain-plans-record-rupee-bond-sale",
+    "published": "Tue, 25 Aug 2026 08:52:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-08-25T09:40:06.697926"
   },
   {
     "id": "7fd89e45a53c",
@@ -195,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/india-to-transfer-missile-technology-to-domestic-manufacturers",
     "published": "Tue, 25 Aug 2026 08:48:52 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536831"
+    "fetched_at": "2026-08-25T09:40:06.697931"
   },
   {
     "id": "1bfc764c6a37",
@@ -204,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/china-s-ipo-rush-is-showing-strain-with-pace-nearing-2023-frenzy",
     "published": "Tue, 25 Aug 2026 08:38:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536838"
+    "fetched_at": "2026-08-25T09:40:06.697937"
   },
   {
     "id": "b53b1339debb",
@@ -213,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/ubs-expands-push-to-leverage-client-cash-in-middle-east-banks",
     "published": "Tue, 25 Aug 2026 08:35:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536843"
+    "fetched_at": "2026-08-25T09:40:06.697942"
   },
   {
     "id": "19a951794f67",
@@ -222,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/software-stocks-get-an-earnings-gut-check-after-hot-summer-rally",
     "published": "Tue, 25 Aug 2026 08:30:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536848"
+    "fetched_at": "2026-08-25T09:40:06.697952"
   },
   {
     "id": "9e43318a4e6f",
@@ -231,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-25/trump-s-new-100-000-h-1b-visa-fee-s-impact-on-india-video",
     "published": "Tue, 25 Aug 2026 08:22:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536854"
+    "fetched_at": "2026-08-25T09:40:06.697957"
   },
   {
     "id": "ae61b392c38e",
@@ -240,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/china-defends-cooperation-with-iran-warns-against-disrupting-it-mt8dnid2",
     "published": "Tue, 25 Aug 2026 08:02:38 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536860"
+    "fetched_at": "2026-08-25T09:40:06.697962"
   },
   {
     "id": "29405c294011",
@@ -249,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/senegal-lawmakers-order-probe-into-1-billion-total-return-swaps",
     "published": "Tue, 25 Aug 2026 08:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536865"
+    "fetched_at": "2026-08-25T09:40:06.697967"
   },
   {
     "id": "c6e15bc22f60",
@@ -258,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-25/horizons-middle-east-africa-8-25-2026-video",
     "published": "Tue, 25 Aug 2026 07:34:33 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536871"
+    "fetched_at": "2026-08-25T09:40:06.697973"
   },
   {
     "id": "fae1eeb43f9a",
@@ -267,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/ireland-s-aib-turns-to-santander-for-srt-tied-to-project-finance",
     "published": "Tue, 25 Aug 2026 07:30:43 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536881"
+    "fetched_at": "2026-08-25T09:40:06.697978"
   },
   {
     "id": "0f33e6b3d26e",
@@ -276,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-24/siemens-energy-taps-goldman-sachs-for-steam-turbine-stake-sale",
     "published": "Mon, 24 Aug 2026 17:20:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536886"
+    "fetched_at": "2026-08-25T09:40:06.697983"
   },
   {
     "id": "34cb5177ce6c",
@@ -285,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/european-stocks-advance-as-oil-prices-drop-siemens-energy-up",
     "published": "Tue, 25 Aug 2026 07:18:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536891"
+    "fetched_at": "2026-08-25T09:40:06.697988"
   },
   {
     "id": "3a1065ffce4b",
@@ -294,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-25/markets-in-3-minutes-8-25-2026-video",
     "published": "Tue, 25 Aug 2026 07:13:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536897"
+    "fetched_at": "2026-08-25T09:40:06.697993"
   },
   {
     "id": "20a7995809a7",
@@ -303,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-08-25/korea-leveraged-etfs-see-1-billion-outflow-as-fervor-cools",
     "published": "Tue, 25 Aug 2026 07:02:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536903"
+    "fetched_at": "2026-08-25T09:40:06.697998"
   },
   {
     "id": "bb5a57828319",
@@ -312,51 +357,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-08-25/hdfc-sec-ceo-calls-forex-swap-unprecedented-success-video",
     "published": "Tue, 25 Aug 2026 06:43:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536908"
-  },
-  {
-    "id": "da9d44491afa",
-    "title": "China in the Crossfire of Bessent's Latest Iran Sanctions | The China Show | 8/25/2026",
-    "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/the-china-show-8-25-2026-video",
-    "published": "Tue, 25 Aug 2026 06:36:30 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536914"
-  },
-  {
-    "id": "ae30730a6206",
-    "title": "How the World Adapted to the Strait of Hormuz Crisis",
-    "summary": "Despite the US-Iran war disrupting roughly 20 million barrels of oil a day flowing through the Strait of Hormuz, markets proved more resilient than many expected. A special report from Bloomberg Intelligence examines how the world adapted and whether the crisis marked a turning point for global supply chains. BI's Will Hares has the details. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-08-25/how-the-world-adapted-to-the-strait-of-hormuz-crisis-video",
-    "published": "Tue, 25 Aug 2026 06:16:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536919"
-  },
-  {
-    "id": "5160b458ddc3",
-    "title": "Infrastructure Stocks Rally on Defense Push, AI Hedging",
-    "summary": "(Click here or type SQUA &lt;GO&gt; to listen to Bloomberg’s new EMEA Equities Squawk)",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/infrastructure-stocks-rally-on-defense-push-ai-hedging",
-    "published": "Tue, 25 Aug 2026 06:15:28 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536924"
-  },
-  {
-    "id": "50d3b4a4a708",
-    "title": "HSBC Buys at Least $3 Billion of India Bonds After Deposit Boost",
-    "summary": "HSBC Holdings Plc has purchased at least $3 billion of Indian government bonds since July, deploying a large pool of funds garnered under a special diaspora dollar deposit program, according to people familiar with the developments.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/hsbc-buys-at-least-3-billion-india-bonds-after-fx-deposit-boost",
-    "published": "Tue, 25 Aug 2026 06:14:48 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536929"
-  },
-  {
-    "id": "9c38826ee88b",
-    "title": "Japan’s Only High Speed Trader Dharmacapital Moves to Singapore",
-    "summary": "Japan’s high frequency trader Dharmacapital Co. moved all its staff to Singapore earlier this month, according to people familiar with the matter, effectively leaving Tokyo with no such firms operating out of the city.",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-25/japan-s-only-high-speed-trader-dharmacapital-moves-to-singapore",
-    "published": "Tue, 25 Aug 2026 05:58:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-08-25T08:53:48.536934"
+    "fetched_at": "2026-08-25T09:40:06.698003"
   }
 ]
