@@ -1,403 +1,543 @@
 [
   {
+    "id": "513a3b33cd84",
+    "title": "US-Iran Clashes Escalate, Uber Cuts Thousands of Jobs, More",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/us-iran-clashes-escalate-uber-cuts-thousands-of-jobs-more",
+    "published": "Wed, 02 Sep 2026 11:30:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:43.272346"
+  },
+  {
+    "id": "8b32b34a99ac",
+    "title": "Extreme Heat Forces Climate Risk Reckoning for Private Market Players",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Climate adaptation emerges as next investment frontier for private markets players",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/extreme-heat-forces-climate-risk-reckoning-for-private-market-players",
+    "published": "Wed, 02 Sep 2026 11:06:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:43.364331"
+  },
+  {
+    "id": "84a3c956b442",
+    "title": "Stock Movers: Dell, GitLab, MongoDB (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 4:29",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/stock-movers-dell-gitlab-mongodb-podcast",
+    "published": "Wed, 02 Sep 2026 11:05:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:43.456064"
+  },
+  {
+    "id": "77a8aab260e3",
+    "title": "US Attacks Prompt Iranian Retaliation as Fighting Intensifies",
+    "title_cn": "随着战斗加剧，美国的袭击促使伊朗进行报复",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies-mtjzoxhl",
+    "published": "Wed, 02 Sep 2026 11:05:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:43.562368"
+  },
+  {
+    "id": "aab0b54fb361",
+    "title": "Merryn Talks Money: Adam Smith’s Lessons in the AI Age (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 38:04",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/merryn-talks-money-adam-smith-s-lessons-in-the-ai-age-podcast",
+    "published": "Wed, 02 Sep 2026 10:52:48 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:43.665746"
+  },
+  {
+    "id": "a5c5dce52dbb",
+    "title": "US-Iran Clashes Escalate, MA Primary Results, More",
+    "title_cn": "美国与伊朗冲突升级，马萨诸塞州初选结果，更多",
+    "summary": "Source: Bloomberg, 5:54",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/us-iran-clashes-escalate-ma-primary-results-more",
+    "published": "Wed, 02 Sep 2026 10:27:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:44.253755"
+  },
+  {
+    "id": "f8d08f044462",
+    "title": "Bloomberg Daybreak: Iranian Retaliates to US Attacks (Podcast)",
+    "title_cn": "彭博黎明：伊朗对美国袭击进行报复（播客）",
+    "summary": "Source: Bloomberg, 15:53",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/bloomberg-daybreak-iranian-retaliates-to-us-attacks-podcast",
+    "published": "Wed, 02 Sep 2026 09:47:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:44.779624"
+  },
+  {
+    "id": "97107d7c825e",
+    "title": "Stock Movers: Jyske Bank, BP, Syensqo (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 4:47",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/stock-movers-jyske-bank-bp-syensqo-podcast",
+    "published": "Wed, 02 Sep 2026 09:37:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:44.873341"
+  },
+  {
+    "id": "2cd923365e16",
+    "title": "Fighting Intensifies in Iran, MA Election Results, More",
+    "title_cn": "伊朗战斗加剧、马萨诸塞州选举结果等",
+    "summary": "Source: Bloomberg, 6:05",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/fighting-intensifies-in-iran-ma-election-results-more",
+    "published": "Wed, 02 Sep 2026 09:31:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.450379"
+  },
+  {
+    "id": "fc1bbf508aff",
+    "title": "Bond Selloff Rattles Markets With Central Banks Poised to Hike",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/bond-selloff-rattles-markets-with-central-banks-poised-to-hike",
+    "published": "Wed, 02 Sep 2026 09:13:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.545466"
+  },
+  {
+    "id": "6e3156151e54",
+    "title": "Six Months In, the Iran War Redraws the Energy Map (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The Iran war is redrawing the global energy landscape. Six months of high oil prices and disrupted trade have strengthened the case for technologies that reduce reliance on imported fossil fuels. Chinese exports of solar, batteries and electric vehicles have risen, while markets across Africa, Asia and Latin America are seeing growing demand for clean technologies. But the response varies widely. Some governments are shielding consumers from higher fuel costs, while others are leaning more heavi",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/six-months-in-the-iran-war-redraws-the-energy-map-podcast",
+    "published": "Wed, 02 Sep 2026 08:42:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.632528"
+  },
+  {
+    "id": "61116f441a3f",
+    "title": "Global Bonds Slump, Burnham's Fiscal Headroom Halved, More",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/global-bonds-slump-burnham-s-fiscal-headroom-halved-more",
+    "published": "Wed, 02 Sep 2026 08:41:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.717567"
+  },
+  {
+    "id": "66b1ce511d3d",
+    "title": "México reduce tasa de homicidios con la mira en operadores de cárteles",
+    "title_cn": "墨西哥着眼于卡特尔经营者降低凶杀率",
+    "summary": "Cada día, antes del amanecer, Marcela Figueroa comienza a recopilar los datos que respaldan uno de los logros de los que más se enorgullece la presidenta Claudia Sheinbaum: la caída de la tasa de homicidios en México.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/mexico-reduce-tasa-de-homicidios-con-la-mira-en-operadores-de-carteles",
+    "published": "Wed, 02 Sep 2026 08:30:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.840628"
+  },
+  {
+    "id": "49a4cd0adc03",
+    "title": "Stock Movers: Ryanair, BP, Lottomatica (Podcast)",
+    "title_cn": "库存推动者：瑞安航空、英国石油公司、Lottomatica（播客）",
+    "summary": "Source: Bloomberg, 4:25",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/stock-movers-ryanair-bp-lottomatica-podcast",
+    "published": "Wed, 02 Sep 2026 08:12:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:45.966397"
+  },
+  {
+    "id": "706a4efeb956",
+    "title": "European Bonds Open Lower, BP Names New Chair. More",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/european-bonds-open-lower-bp-names-new-chair-more",
+    "published": "Wed, 02 Sep 2026 07:40:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:46.061284"
+  },
+  {
+    "id": "706ad6c86d90",
+    "title": "Bessent's Bond Gains Unwound, Burnham's £12B Problem, More",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/bessent-s-bond-gains-unwound-burnham-s-12b-problem-more",
+    "published": "Wed, 02 Sep 2026 07:23:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:46.155140"
+  },
+  {
+    "id": "68148a164537",
+    "title": "Oil Major BP Names Tyler New Chairman After Ousting Manifold",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Oil major secures new chair; Burnham’s bond reality",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/oil-major-bp-names-tyler-new-chairman-after-ousting-manifold",
+    "published": "Wed, 02 Sep 2026 07:18:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:46.248902"
+  },
+  {
+    "id": "37e417d508a8",
+    "title": "Trump Plays Down Hopes for Iran Deal as Fighting Escalates",
+    "title_cn": "随着战斗升级，特朗普淡化了对伊朗协议的希望",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/trump-plays-down-hopes-for-iran-deal-as-fighting-escalates",
+    "published": "Wed, 02 Sep 2026 06:49:55 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:46.358446"
+  },
+  {
+    "id": "696c59a17412",
+    "title": "Stock Movers: Advantest, Zijin Gold, PSBC (Podcast)",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Source: Bloomberg, 3:54",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-02/stock-movers-advantest-zijin-gold-psbc-podcast",
+    "published": "Wed, 02 Sep 2026 06:18:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:46.453488"
+  },
+  {
     "id": "4ad7687945af",
     "title": "Bessent's Gains Wiped Out, Fresh US-Iran Attacks, More",
-    "title_cn": "贝森特的收益被抹去，新的美国和伊朗的袭击等等",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-09-02/bessent-s-gains-wiped-out-fresh-us-iran-attacks-more",
     "published": "Wed, 02 Sep 2026 06:03:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:00.716906"
+    "fetched_at": "2026-09-02T11:36:46.544799"
   },
   {
-    "id": "24f49195a881",
-    "title": "Bloomberg Daybreak Europe:Bessent's Gains Wiped Out (Podcast)",
-    "title_cn": "彭博欧洲黎明：贝森特的收益被抹去（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/bloomberg-daybreak-europe-bessent-s-gains-wiped-out-podcast",
-    "published": "Wed, 02 Sep 2026 05:47:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:00.815020"
-  },
-  {
-    "id": "b66697f39a24",
-    "title": "Strikes on Iran Complete, Bessent from G20, More",
-    "title_cn": "G20 批准，对伊朗的打击已完成，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/strikes-on-iran-complete-bessent-from-g20-more",
-    "published": "Wed, 02 Sep 2026 03:26:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:00.917776"
-  },
-  {
-    "id": "c5673ef72262",
-    "title": "Strikes Against Iran Complete, Bessent Speaks at G20, More",
+    "id": "36c152a7a64c",
+    "title": "US Diesel Hits Highest Since April as Wars Strain Supply",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/strikes-against-iran-complete-bessent-speaks-at-g20-more-mtjif9y5",
-    "published": "Wed, 02 Sep 2026 03:01:40 GMT",
+    "summary": "US diesel advanced to the highest price since hitting a peak in April during the initial phase of the US-Iran war, highlighting the inflationary pressures menacing the global economy as the conflict drags on.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/us-diesel-hits-highest-since-april-as-wars-strain-global-supply",
+    "published": "Wed, 02 Sep 2026 09:03:23 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.002991"
-  },
-  {
-    "id": "054cf03fe8fc",
-    "title": "Bloomberg Daybreak Asia: SEMICON Taiwan (Podcast)",
-    "title_cn": "彭博黎明亚洲：SEMICON 台湾（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/bloomberg-daybreak-asia-semicon-taiwan-podcast",
-    "published": "Wed, 02 Sep 2026 02:51:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.104985"
-  },
-  {
-    "id": "f08abee91142",
-    "title": "CENTCOM: Successful Strikes, Bessent Speaks from G20, More",
-    "title_cn": "中央司令部：成功打击、G20 峰会贝森特讲话等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/centcom-successful-strikes-bessent-speaks-from-g20-more",
-    "published": "Wed, 02 Sep 2026 02:15:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.223107"
-  },
-  {
-    "id": "fc3347743e6a",
-    "title": "Bloomberg Law: Ballroom, US Attorneys & Kalshi (Podcast)",
-    "title_cn": "彭博法律：舞厅、美国律师和 Kalshi（播客）",
-    "summary": "Source: Bloomberg, 35:54",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/bloomberg-law-ballroom-us-attorneys-kalshi-podcast",
-    "published": "Wed, 02 Sep 2026 02:09:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.313699"
-  },
-  {
-    "id": "d491c21f73e9",
-    "title": "US Strikes on Iran Finished, Comments from Bessent at G20, More",
-    "title_cn": "美国对伊朗的打击结束，贝森特在G20上的评论，更多",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/us-strikes-on-iran-finished-comments-from-bessent-at-g20-more",
-    "published": "Wed, 02 Sep 2026 01:24:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.488881"
-  },
-  {
-    "id": "fb2cff5b0ae0",
-    "title": "Strikes Against Iran Complete, Bessent Speaks at G20, More",
-    "title_cn": "对伊朗的打击已完成，贝森特在 G20 上发表讲话等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-02/strikes-against-iran-complete-bessent-speaks-at-g20-more",
-    "published": "Wed, 02 Sep 2026 00:29:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.592531"
-  },
-  {
-    "id": "c0aa9b622f42",
-    "title": "Bloomberg Talks: Ann Crady Weiss (Podcast)",
-    "title_cn": "彭博社谈话：安·克拉迪·韦斯（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-talks-ann-crady-weiss-podcast",
-    "published": "Tue, 01 Sep 2026 23:03:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.698680"
-  },
-  {
-    "id": "14ac3e272f0a",
-    "title": "Japan’s AI and Chip Gamble Faces Reality Check in Kioxia’s Rural Hub",
-    "title_cn": "日本的人工智能和芯片赌博在 Kioxia 的农村中心面临现实检验",
-    "summary": "<p>Japan is betting $640 billion on AI and chips. But this struggling city shows the limits of that investment.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-09-01/japan-s-ai-and-chip-gamble-faces-reality-check-in-kioxia-s-rural-hub",
-    "published": "Tue, 01 Sep 2026 23:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.800483"
-  },
-  {
-    "id": "7b5d98552359",
-    "title": "US-Iran War Sees New Strikes, Stopgap Bill Passed By House, More",
-    "title_cn": "美伊战争出现新的打击，众议院通过权宜之计法案等等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-01/us-iran-war-sees-new-strikes-stopgap-bill-passed-by-house-more",
-    "published": "Tue, 01 Sep 2026 22:58:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.892323"
-  },
-  {
-    "id": "76c1a1863899",
-    "title": "Ambani’s Streaming Site Eyes Millions of Indian Diaspora",
-    "title_cn": "安巴尼的流媒体网站吸引了数百万印度侨民",
-    "summary": "India’s largest video streaming platform JioHotstar is expanding overseas for the first time, launching in the UK, Canada and Singapore as it seeks to tap millions of potential viewers in the growing South Asian diaspora.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/ambani-s-streaming-site-eyes-millions-of-indian-diaspora",
-    "published": "Tue, 01 Sep 2026 22:50:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:01.984641"
-  },
-  {
-    "id": "63dcef30a96c",
-    "title": "Bonds, Macquarie, Beetaloo gas, Western Union probe: Australia Briefing",
-    "title_cn": "债券、麦格理、Beetaloo 天然气、西联汇款调查：澳大利亚简报",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/bonds-macquarie-beetaloo-gas-western-union-probe-australia-briefing",
-    "published": "Tue, 01 Sep 2026 22:27:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.071035"
-  },
-  {
-    "id": "00f01d3a23c1",
-    "title": "Political Risk Is Driving Markets and Making Gold Companies Valuable",
-    "title_cn": "政治风险正在推动市场并使黄金公司变得更有价值",
-    "summary": "Plus: Stop the insults, the PM says",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/political-risk-is-driving-markets-and-making-gold-companies-valuable",
-    "published": "Tue, 01 Sep 2026 22:04:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.179401"
-  },
-  {
-    "id": "107d3c5bd2d7",
-    "title": "US-Iran Tensions Escalate, House Passes Stopgap Bill, More",
-    "title_cn": "美伊紧张局势升级，众议院通过权宜之计法案等",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-01/us-iran-tensions-escalate-house-passes-stopgap-bill-more",
-    "published": "Tue, 01 Sep 2026 22:02:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.270096"
-  },
-  {
-    "id": "7978f1915dab",
-    "title": "Oil Jumps as US and Iran Exchange Attacks",
-    "title_cn": "美国和伊朗相互攻击，油价飙升",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/oil-jumps-as-us-and-iran-exchange-attacks",
-    "published": "Tue, 01 Sep 2026 21:33:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.397014"
-  },
-  {
-    "id": "c308ec1a6448",
-    "title": "Stock Movers: Dell, Palo Alto, Credo Technology (Podcast)",
-    "title_cn": "库存推动者：戴尔、帕洛阿尔托、Credo Technology（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-01/stock-movers-dell-palo-alto-credo-technology-podcast",
-    "published": "Tue, 01 Sep 2026 21:12:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.492314"
-  },
-  {
-    "id": "dea2ec8cc611",
-    "title": "Bloomberg Businessweek Daily: Iran War Escalates (Podcast)",
-    "title_cn": "彭博商业周刊日报：伊朗战争升级（播客）",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-01/bloomberg-businessweek-daily-iran-war-escalates-podcast",
-    "published": "Tue, 01 Sep 2026 21:07:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.597265"
-  },
-  {
-    "id": "0751b55f8a26",
-    "title": "Iran Stalemate, Strikes Sour Market: Evening Briefing Americas",
-    "title_cn": "伊朗陷入僵局，打击市场：美洲晚间简报",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-01/iran-stalemate-strikes-sour-market-evening-briefing-americas",
-    "published": "Tue, 01 Sep 2026 21:06:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:02.692582"
-  },
-  {
-    "id": "3821b3c18f2f",
-    "title": "Vietnam’s Vingroup Plans Debut Won Bond After Shares Hit Record",
-    "title_cn": "越南 Vingroup 计划首次亮相，在股价创历史新高后赢得债券",
-    "summary": "Vietnamese conglomerate Vingroup JSC is in discussions with brokerages about selling its first bond denominated in the Korean won, according to people familiar with the matter, as the company seeks to broaden its investor base after its shares hit a record.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/vietnam-s-vingroup-plans-debut-won-bond-after-shares-hit-record",
-    "published": "Wed, 02 Sep 2026 06:12:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.201093"
-  },
-  {
-    "id": "2cc653bd63fb",
-    "title": "BP Appoints Ian Tyler Chairman After Albert Manifold’s Exit",
-    "title_cn": "艾伯特·马尼福德退出后，英国石油公司任命伊恩·泰勒为董事长",
-    "summary": "BP Plc named Ian Tyler chairman following an interim stint leading the board this summer, after the unexpected ouster of Albert Manifold in May.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/bp-appoints-ian-tyler-chairman-after-albert-manifold-s-exit",
-    "published": "Wed, 02 Sep 2026 06:07:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.431004"
-  },
-  {
-    "id": "b6d5a71dcf96",
-    "title": "European Gas Rises Again on Mideast Supply Risks",
-    "title_cn": "中东供应风险导致欧洲天然气价格再次上涨",
-    "summary": "European natural gas prices rose for a third day as renewed fighting between the US and Iran raised concerns about a prolonged disruption to energy flows via the Strait of Hormuz. Bloomberg's Stephen Stapczynski reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/european-gas-rises-again-on-mideast-supply-risks-video",
-    "published": "Wed, 02 Sep 2026 06:07:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.535501"
-  },
-  {
-    "id": "17fb961db1e5",
-    "title": "Scientech CEO On AI Buildout Demand",
-    "title_cn": "科学科技首席执行官谈人工智能建设需求",
-    "summary": "Eric Lee, CEO at advanced packaging firm Scientech Corporation, discusses demand and business outlook with Bloomberg's Stephen Engle on the sidelines of SEMICON Taiwan.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/scientech-ceo-on-ai-buildout-demand-video",
-    "published": "Wed, 02 Sep 2026 06:06:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.637438"
-  },
-  {
-    "id": "056c4e690310",
-    "title": "DeepZero Chairwoman on Earnings Outlook",
-    "title_cn": "DeepZero 董事长谈盈利前景",
-    "summary": "Grace Huang, Chairwoman at Chinese martech firm DeepZero, discusses the company's first set of half-year results since its listing in Hong Kong. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/deepzero-chairwoman-on-earnings-outlook-video",
-    "published": "Wed, 02 Sep 2026 06:04:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.741590"
-  },
-  {
-    "id": "855737af7fea",
-    "title": "IMAX China On Summer Box Office Trends",
-    "title_cn": "IMAX 中国夏季票房趋势",
-    "summary": "Daniel Manwaring, CEO at IMAX China, discusses demand at the company's theaters over the summer and China's entertainment consumption trends. He speaks exclusively on \"Bloomberg: The China Show.\"  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/imax-china-on-summer-box-office-trends-video",
-    "published": "Wed, 02 Sep 2026 06:01:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.847740"
+    "fetched_at": "2026-09-02T11:36:47.020346"
   },
   {
     "id": "db98b3834592",
-    "title": "Stocks, Bonds Extend Losses as Oil Gains on Iran: Markets Wrap",
-    "title_cn": "随着伊朗石油价格上涨，股票和债券扩大损失：市场结束",
-    "summary": "Stocks, bonds and gold dropped as renewed fighting in the Middle East drove oil prices higher, fueling inflation fears and expectations for tighter monetary policy.",
+    "title": "Stocks Fall as US-Iran Turmoil Keeps Oil Elevated: Markets Wrap",
+    "title_cn": "由于美国和伊朗的动荡导致油价上涨，股市下跌：市场结束",
+    "summary": "Stocks fell while bond yields stayed elevated as intensifying US-Iran hostilities extended oil’s advance, leaving the prospect of interest-rate hikes in September across major economies firmly in play.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
     "published": "Tue, 01 Sep 2026 22:07:33 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:03.949355"
+    "fetched_at": "2026-09-02T11:36:47.119055"
   },
   {
-    "id": "6e8dd9bb33fa",
-    "title": "FTSE 100 Live: UK Stocks Set for Fresh Losses as Inflation Worries Rise",
-    "title_cn": "富时 100 指数实时：随着通胀担忧加剧，英国股市将出现新的损失",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-09-02/ftse-100-live-updates-pound-gilts-bonds-gdp-iran-us-war-trump-oil-prices-hormuz-what-s-moving-uk-markets-right-now-markets-today-mtjoc77i",
-    "published": "Wed, 02 Sep 2026 05:47:14 GMT",
+    "id": "4165b7c4f12c",
+    "title": "Yen Gains After BOJ Hawk Leaves Door Open for Outsized Hike",
+    "title_cn": "日本央行鹰派为大幅加息敞开大门后日元上涨",
+    "summary": "The yen strengthened against the dollar after Bank of Japan Board Member Hajime Takata, one of the bank’s most hawkish members, left the door open for an outsized interest-rate increase as well as back-to-back hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/yen-gains-after-boj-hawk-leaves-door-open-for-outsized-hike",
+    "published": "Wed, 02 Sep 2026 06:28:29 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.087643"
+    "fetched_at": "2026-09-02T11:36:47.219295"
   },
   {
-    "id": "3bd1561dfc80",
-    "title": "Woolworths Profit Falls as New CEO Pivots Group Toward Food",
-    "title_cn": "新任首席执行官将集团重心转向食品，Woolworths 利润下降",
-    "summary": "Woolworths Holdings Ltd. is reorienting its business around its upmarket South African food operations, putting its best-performing division at the center of the group as new Chief Executive Officer Sam Ngumeni seeks to revive growth after annual profit declined.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/woolworths-profit-falls-as-new-ceo-pivots-group-toward-food",
-    "published": "Wed, 02 Sep 2026 05:43:16 GMT",
+    "id": "1be7fe033c9b",
+    "title": "Nomura Says Back-to-Back ECB Hikes Could Boost Euro in Q4",
+    "title_cn": "野村证券表示欧洲央行连续加息可能会在第四季度提振欧元",
+    "summary": "The possibility of back-to-back interest rate hikes by the European Central Bank could lift the euro, helping it hit Nomura International’s year-end target of $1.20, Dominic Bunning, head of G10 FX strategy, says during an interview on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/nomura-says-back-to-back-ecb-hikes-could-boost-euro-video",
+    "published": "Wed, 02 Sep 2026 10:51:40 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.213907"
+    "fetched_at": "2026-09-02T11:36:47.335130"
   },
   {
-    "id": "9f1adbf37b79",
-    "title": "US, Iran Escalate Attacks; Global Bond Selloff Deepens | The Asia Trade 9/2/2026",
-    "title_cn": "美国、伊朗升级袭击；全球债券抛售加剧|亚洲贸易 9/2/2026",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/the-asia-trade-9-2-2026-video",
-    "published": "Wed, 02 Sep 2026 05:25:56 GMT",
+    "id": "63af6df9b70b",
+    "title": "Russia Pauses Grain Export Duty as Black Sea Exports Stall",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Russia suspended the floating export duty on wheat, barley and corn through the end of 2026 as Ukrainian attacks disrupted shipments through the Black and Azov seas, affecting routes for more than 70% of exports.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/russia-pauses-grain-export-duty-through-the-end-of-2026",
+    "published": "Wed, 02 Sep 2026 07:09:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.310681"
+    "fetched_at": "2026-09-02T11:36:47.425771"
   },
   {
-    "id": "9df5ebb38165",
-    "title": "Latest Oil Market News and Analysis for Sept. 2",
-    "title_cn": "9 月 2 日最新石油市场新闻和分析",
-    "summary": "Oil advanced for a third session on heightened concerns about disruptions to energy flows through the Strait of Hormuz after an escalation of hostilities between the US and Iran.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
-    "published": "Tue, 01 Sep 2026 22:04:01 GMT",
+    "id": "7392c70c2d21",
+    "title": "Copper’s Rally Stalls as Worries About Global Economy Resurface",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Copper fell to the lowest in more than a week, dropping with other metals, as resurgent oil prices fanned concerns about prospects for the world economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/copper-s-rally-stalls-as-worries-about-global-economy-resurface",
+    "published": "Wed, 02 Sep 2026 02:54:17 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.421681"
+    "fetched_at": "2026-09-02T11:36:47.534555"
   },
   {
-    "id": "b1fa0690a2a9",
-    "title": "Continental Reinsurance Plans Botswana’s First IPO in Almost a Decade",
-    "title_cn": "大陆再保险计划博茨瓦纳近十年来首次首次公开募股",
-    "summary": "Continental Reinsurance Holdings Ltd. will become Botswana Stock Exchange’s first initial public offering since 2017 as it seeks to raise capital to tap Africa’s underinsured.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/continental-reinsurance-plans-botswana-s-first-ipo-in-almost-a-decade",
-    "published": "Wed, 02 Sep 2026 05:00:00 GMT",
+    "id": "0322207eb9bd",
+    "title": "JPMorgan’s Peters Says Yields at 5% Could Put Stocks at Risk",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Rising bond yields pose a key risk to global equities as they navigate the historically weak month of September, according to JPMorgan Chase &amp; Co.’s Grace Peters.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/jpmorgan-s-peters-says-yields-at-5-could-put-stocks-at-risk",
+    "published": "Wed, 02 Sep 2026 10:50:42 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.539576"
+    "fetched_at": "2026-09-02T11:36:47.622907"
   },
   {
-    "id": "ac46c150fb2b",
-    "title": "Where Bond Yields Are Heading as Energy Prices Rise",
-    "title_cn": "随着能源价格上涨，债券收益率走向何方",
-    "summary": "Highlights from Bloomberg TV as contributors shed light on how rising energy prices are driving bond yields higher across markets and traders reposition in anticipation of further challenges. Meanwhile, the yield on 30-year US government bonds have climbed back to levels seen just before Treasury Secretary Scott Bessent expanded a buyback program to contain long-term borrowing costs. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/where-bond-yields-are-heading-as-energy-prices-rise",
-    "published": "Wed, 02 Sep 2026 04:56:25 GMT",
+    "id": "8823667b4514",
+    "title": "Broadcom Needs Nvidia-Like Earnings to Stop $520 Billion Skid",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Broadcom Inc. has had a difficult summer in the stock market, as a disappointing outlook sent the shares on a roughly $520 billion tailspin since hitting a high in early June.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-needs-nvidia-like-earnings-to-stop-520-billion-skid",
+    "published": "Wed, 02 Sep 2026 10:45:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.655012"
+    "fetched_at": "2026-09-02T11:36:47.730877"
   },
   {
-    "id": "5cee4d631b5f",
-    "title": "US-Iran Conflict Intensifies as Trump Downplays Desire for Deal",
-    "title_cn": "特朗普淡化达成协议的愿望，美伊冲突加剧",
-    "summary": "The conflict between the US and Iran escalated sharply, with American forces carrying out a fresh wave of strikes and Iran saying it had retaliated. Meanwhile President Donald Trump downplayed the chances of a deal, writing in a post on Truth Social that he’s “not trying to force Iran to the bargaining table.”  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/us-iran-conflict-intensifies-trump-downplays-deal-hopes-video",
-    "published": "Wed, 02 Sep 2026 04:50:44 GMT",
+    "id": "21a35073dd6c",
+    "title": "European and UK Bonds Extend Losses as Gas Prices Climb",
+    "title_cn": "随着天然气价格上涨，欧洲和英国债券扩大损失",
+    "summary": "The bond selloff continued in Europe and the UK on Wednesday, as natural gas prices rose further and kept investors worried about inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/european-and-uk-bonds-extend-losses-as-gas-prices-edge-higher",
+    "published": "Wed, 02 Sep 2026 09:39:56 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.751165"
+    "fetched_at": "2026-09-02T11:36:47.840145"
   },
   {
-    "id": "9284b580b58e",
-    "title": "Climate Risk Is Repricing Indian Real Estate",
-    "title_cn": "气候风险正在重新定价印度房地产",
-    "summary": "India’s extreme weather is changing the economics of real estate. From Mumbai to Bengaluru, developers are spending millions to protect buildings from floods. Ranjani Raghavan explains how climate resilience is becoming a new measure of property value. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/climate-risk-is-repricing-indian-real-estate-video",
-    "published": "Wed, 02 Sep 2026 04:25:49 GMT",
+    "id": "0dbf04b2092d",
+    "title": "Slovenia Strips Ex-Premier of Immunity in Police Purge Probe",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Slovenian lawmakers stripped former Prime Prime Minister Robert Golob of his immunity to let prosecutors probe allegations he meddled in a police overhaul at the start of his tenure in 2022.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/slovenia-strips-ex-premier-of-immunity-for-police-purge-probe",
+    "published": "Wed, 02 Sep 2026 08:25:32 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.856304"
+    "fetched_at": "2026-09-02T11:36:47.922086"
   },
   {
-    "id": "5b53d8cb28db",
-    "title": "China-US Yield Gap Nears Record High as Treasury Selloff Deepens",
-    "title_cn": "国债抛售加剧 中美收益率差距逼近历史新高",
-    "summary": "A fresh selloff in Treasuries has pushed the yield gap between US and Chinese 10-year bonds back toward an all-time high, raising the risk of capital outflow from the Asian nation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/china-us-yield-gap-nears-record-high-as-treasury-selloff-deepens",
-    "published": "Wed, 02 Sep 2026 04:12:39 GMT",
+    "id": "dc5c078168b4",
+    "title": "Wall Street’s Direction Is Being Dictated by Oil",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The impact of high oil is being felt across markets.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/wall-street-s-direction-is-being-dictated-by-oil",
+    "published": "Wed, 02 Sep 2026 10:11:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:04.961212"
+    "fetched_at": "2026-09-02T11:36:48.009851"
   },
   {
-    "id": "87ce1771b092",
-    "title": "Insolvent Bathla Faces 24-Hour Deadline for Creditor Deal",
-    "title_cn": "无力偿债的 Bathla 面临 24 小时债权人交易期限",
-    "summary": "Insolvent Australian property developer Bathla Group faces a 24-hour timeframe for talks with its creditors to secure short-term funding, according to a person familiar with the matter, in its last-ditch effort to avert collapse.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/insolvent-bathla-faces-24-hour-deadline-for-deal-with-creditors",
-    "published": "Wed, 02 Sep 2026 01:18:14 GMT",
+    "id": "62bbb44ee23d",
+    "title": "BNP Paribas Is Said to Handle Half of India’s Record MSCI Trades",
+    "title_cn": "据说法国巴黎银行处理了印度创纪录的 MSCI 交易的一半",
+    "summary": "BNP Paribas SA accounted for nearly half of the record $4.2 billion in stock trades linked to MSCI Inc.’s index rebalancing through India’s new closing-auction system, according to people familiar with the matter, a share that put the French lender ahead of its Wall Street peers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/bnp-paribas-is-said-to-handle-half-of-india-s-record-msci-trades",
+    "published": "Wed, 02 Sep 2026 10:09:29 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.069453"
+    "fetched_at": "2026-09-02T11:36:48.134443"
   },
   {
-    "id": "591504878719",
-    "title": "Corn Drops Most in Three Weeks as Profit-Taking Hits Grain Rally",
-    "title_cn": "由于获利回吐影响谷物反弹，玉米跌幅为三周以来最大",
-    "summary": "Corn futures fell the most in almost three weeks with a wave of profit-taking pulling down US grains markets after a weekslong rally fueled by geopolitical and weather risks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/corn-drops-most-in-three-weeks-as-profit-taking-hits-grain-rally",
-    "published": "Wed, 02 Sep 2026 04:08:15 GMT",
+    "id": "bb6aec674dde",
+    "title": "Global Debt Is Slumping But It’s Nothing Like the 2022 Rout",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The selloff sweeping global bond markets looks painful, but it’s nothing compared with the rout four years ago, when soaring inflation forced central banks into a series of rapid-fire interest-rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/global-bonds-are-slumping-but-it-s-nothing-like-the-2022-wipeout",
+    "published": "Wed, 02 Sep 2026 06:15:39 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.160410"
+    "fetched_at": "2026-09-02T11:36:48.226738"
   },
   {
-    "id": "c0782634b47c",
-    "title": "India’s Diaspora Deposit Flows Surpass $100 Billion, FE Reports",
-    "title_cn": "富裕报告称，印度侨民存款流量超过 1000 亿美元",
-    "summary": "Inflows under the Reserve Bank of India’s special overseas deposit facility have topped the $100 billion mark, the Financial Express newspaper reported Wednesday, citing officials it did not identify.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/india-s-diaspora-deposit-flows-surpass-100-billion-fe-reports",
-    "published": "Wed, 02 Sep 2026 03:27:00 GMT",
+    "id": "2d13ec94e764",
+    "title": "Brazil’s Global Beef Dominance Collides With Tougher EU Rules",
+    "title_cn": "巴西的全球牛肉主导地位与更严格的欧盟规则相冲突",
+    "summary": "Brazil’s global dominance in the beef trade is clashing with tougher European standards, threatening exports as suppliers struggle to certify cattle under new restrictions on growth-promoting drugs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/brazil-s-global-beef-dominance-collides-with-tougher-eu-rules",
+    "published": "Wed, 02 Sep 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.265838"
+    "fetched_at": "2026-09-02T11:36:48.341898"
   },
   {
-    "id": "bb595bce007f",
-    "title": "Minimax Emerges as Mainland China Investors’ New Favorite Stock",
-    "title_cn": "Minimax成为中国内地投资者最喜爱的新股",
-    "summary": "Minimax Group Inc. became the most popular Hong Kong-listed stock among mainland Chinese investors last month, in the latest sign of the latter’s voracious appetite for the country’s new-generation AI model developers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/minimax-emerges-as-mainland-china-investors-new-favorite-stock",
-    "published": "Wed, 02 Sep 2026 03:07:49 GMT",
+    "id": "6f0a00fba5b9",
+    "title": "Asia’s Top Cocoa Processor Warns El Niño to Spur Global Deficit",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The global cocoa market is poised to face a supply shortfall for the first time in three years as a strengthening El Niño threatens production across key growing regions, according to Asia’s top processor.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/asia-s-top-cocoa-processor-warns-el-nino-to-spur-global-deficit",
+    "published": "Wed, 02 Sep 2026 09:57:52 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.369645"
+    "fetched_at": "2026-09-02T11:36:48.440805"
+  },
+  {
+    "id": "ece6a4b06d47",
+    "title": "Gold Extends Decline as Inflation Risks Pull Yields Higher",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Gold fell for a fourth day as escalating attacks in the Middle East and concerns about inflation pushed bond yields higher and fueled further bets on interest rate hikes.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/gold-holds-drop-as-higher-oil-bond-selloff-raise-rate-hike-bets",
+    "published": "Tue, 01 Sep 2026 23:40:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:48.536799"
+  },
+  {
+    "id": "64a3f385d2e6",
+    "title": "JPMorgan’s Former Macro Credit Trading Co-Head Joins Redhedge",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The former co-head of global investment-grade and macro credit trading at JPMorgan Chase &amp; Co has resurfaced at London hedge fund Redhedge Asset Management.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/jpmorgan-s-former-macro-credit-trading-co-head-joins-redhedge",
+    "published": "Wed, 02 Sep 2026 09:39:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:48.632074"
+  },
+  {
+    "id": "8dfa32f814de",
+    "title": "Euro Dips as Options Show Longest Rush for Protection Since 2017",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The euro slipped to a two-week low against the dollar and options traders are rushing to protect against further losses as higher energy prices and rising US bond yields add to the pressure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/euro-dips-as-options-show-longest-rush-for-protection-since-2017",
+    "published": "Wed, 02 Sep 2026 09:17:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:48.732085"
+  },
+  {
+    "id": "c6c96913bc57",
+    "title": "Greek Stocks Crown Comeback With Promotion to Europe’s Top Index",
+    "title_cn": "希腊股市强势回归，跻身欧洲顶级指数",
+    "summary": "Greece’s return to the top flight of European markets has opened the door for some of its biggest companies to join the region’s benchmark stocks index.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/greek-stocks-crown-comeback-with-promotion-to-europe-s-top-index",
+    "published": "Wed, 02 Sep 2026 09:11:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:48.842893"
+  },
+  {
+    "id": "06696fb5e0be",
+    "title": "TPG’s Asia OneHealthcare Is Said to Confidentially File for $2.5 Billion IPO",
+    "title_cn": "据称，TPG 旗下 Asia OneHealthcare 将秘密申请 25 亿美元的 IPO",
+    "summary": "TPG Inc.-backed Asia OneHealthcare Sdn. has confidentially filed for an initial public offering in Kuala Lumpur to potentially raise as much as 10 billion ringgit ($2.5 billion), according to people with knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/tpg-s-asia-onehealthcare-is-said-to-confidentially-file-for-2-5-billion-ipo",
+    "published": "Wed, 02 Sep 2026 09:00:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:48.954500"
+  },
+  {
+    "id": "6249a50e2e53",
+    "title": "Uber to Cut 3,300 Jobs in Company Overhaul to Reduce Management Layers",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Uber Technologies Inc. is cutting about 3,300 roles, or 10% of its staff globally, in a massive restructuring aimed at reducing management layers and reallocating spending into its ride-sharing, delivery and robotaxi businesses.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/uber-to-cut-3-300-jobs-in-company-overhaul-to-reduce-management-layers",
+    "published": "Wed, 02 Sep 2026 11:20:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.438682"
+  },
+  {
+    "id": "3e10cc67f205",
+    "title": "Micron, SK Hynix Provide Surprise Twist to US Chips Acts Debate",
+    "title_cn": "美光科技和 SK 海力士给美国芯片法案争论带来意外转折",
+    "summary": "The memory-chip makers were a low priority when the US sought to revive domestic manufacturing",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/micron-sk-hynix-provide-surprise-twist-to-us-chips-acts-debate",
+    "published": "Wed, 02 Sep 2026 11:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.557193"
+  },
+  {
+    "id": "a8168200757f",
+    "title": "Oura Taps Netflix, Robinhood Veterans for Board Ahead of IPO",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Oura, the maker of popular smart rings that track health, fitness, and sleep, is expanding its board of directors as it prepares for an initial public offering.The company said Wednesday that it is appointing four new independent directors with public company experience. The new members — who have held leadership positions at firms including Netflix Inc., Robinhood Markets Inc. and Deliveroo Plc — “know what it takes to build and scale category-defining global businesses,” Chief Executive Office",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/oura-taps-netflix-robinhood-veterans-for-board-ahead-of-ipo",
+    "published": "Wed, 02 Sep 2026 11:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.649276"
+  },
+  {
+    "id": "1b77bd16e70e",
+    "title": "AI Layoffs at Microsoft, Amazon, Meta Drive Seattle Luxury Home Sales Down 15%",
+    "title_cn": "微软、亚马逊和 Meta 的 AI 裁员导致西雅图豪宅销量下降 15%",
+    "summary": "Job cuts in the Seattle area are hurting luxury real estate sales",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/ai-layoffs-at-microsoft-amazon-meta-drive-seattle-luxury-home-sales-down-15",
+    "published": "Wed, 02 Sep 2026 10:29:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.767952"
+  },
+  {
+    "id": "1e35821c69bb",
+    "title": "AI Fund Chief Urges UK Government to Think Like an Investor to Boost Startups",
+    "title_cn": "人工智能基金负责人敦促英国政府像投资者一样思考以促进初创企业发展",
+    "summary": "The head of the UK’s £500 million ($675 million) Sovereign AI Fund urged the government to adopt an investor mindset as ministers seek to spur growth in the domestic industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-fund-chief-urges-uk-government-to-think-like-an-investor-to-boost-startups",
+    "published": "Wed, 02 Sep 2026 10:03:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.880706"
+  },
+  {
+    "id": "cf985cda21d2",
+    "title": "Dell Shares Rise After Boosting Sales Outlook by $25 Billion",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Dell Technologies Inc. shares jumped in premarket trading after the company boosted its annual sales forecast by $25 billion in a further sign of surging demand for servers to run artificial intelligence tasks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dell-raises-annual-revenue-outlook-on-sustained-ai-server-sales",
+    "published": "Tue, 01 Sep 2026 20:07:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:49.971442"
+  },
+  {
+    "id": "3984f7cbbb38",
+    "title": "Range Rover's First Fully-Electric Model Costs Over $200,000",
+    "title_cn": "路虎揽胜首款全电动车型售价超过 20 万美元",
+    "summary": "Jaguar Land Rover's first electric Range Rover will start at £154,070 ($208,420), a price tag that will test wealthy buyers’ appetites for a battery-powered sport utility vehicle. Nigel Blenkinsop, chief operating officer at Jaguar Land Rover, speaks on Bloomberg Television about the new vehicle, the outlook for sales in the US and competition with Chinese automakers. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/jaguar-land-rover-unveils-first-electric-range-rover-video",
+    "published": "Wed, 02 Sep 2026 09:50:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.075213"
+  },
+  {
+    "id": "0dfbea5f42a0",
+    "title": "Homeplus Creditors Accept Korean Mart’s Rehabilitation Plan",
+    "title_cn": "Homeplus债权人接受韩国商城的重整计划",
+    "summary": "Creditors of South Korean megamart Homeplus agreed on Wednesday to accept a rehabilitation plan aimed at keeping the company afloat.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/homeplus-creditors-vote-on-struggling-korean-megamart-s-future",
+    "published": "Wed, 02 Sep 2026 05:39:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.178630"
+  },
+  {
+    "id": "d9ac8b4b0242",
+    "title": "TSMC’s Quarterly Chipmaking Tool Needs Almost Doubled This Year",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Taiwan Semiconductor Manufacturing Co.’s need for chipmaking tools has nearly doubled since the end of last year as it expands production to meet AI demand, a senior executive said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/tsmc-s-quarterly-chipmaking-tool-needs-almost-doubled-this-year",
+    "published": "Wed, 02 Sep 2026 09:37:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.270291"
+  },
+  {
+    "id": "5dfa8b655ca0",
+    "title": "Lyte Closes $165 Million Round, Bringing AI Startup's Valuation to $1.6 Billion",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Lyte, a fast-growing robotics and artificial intelligence startup from top members of Apple Inc.'s Face ID team, has secured about $165 million in a new funding round that more than triples the company’s valuation to $1.6 billion.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/lyte-closes-165-million-round-bringing-ai-startup-s-valuation-to-1-6-billion",
+    "published": "Wed, 02 Sep 2026 09:30:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.363932"
+  },
+  {
+    "id": "9c945d8f707a",
+    "title": "Softbank-Backed Opay Considers a Secondary Listing in Nigeria",
+    "title_cn": "软银支持的 Opay 考虑在尼日利亚二次上市",
+    "summary": "Softbank Group Corp.-backed Opay Digital Services Ltd. is considering a secondary listing in Nigeria after an initial public offering in the US, according to people with knowledge of the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/softbank-backed-opay-considers-a-secondary-listing-in-nigeria",
+    "published": "Wed, 02 Sep 2026 09:23:41 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.480363"
+  },
+  {
+    "id": "54ab07749574",
+    "title": "Kingspan Turns to Bond Market as Data Center Demand Lifts Firm",
+    "title_cn": "随着数据中心需求的坚挺，Kingspan 转向债券市场",
+    "summary": "Kingspan Group Plc is looking to raise an expected €800 million ($925 million) from a two-part green bond sale, after the AI data center buildout helped the Irish company lift its profit outlook last month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/kingspan-turns-to-bond-market-as-data-center-demand-lifts-firm",
+    "published": "Wed, 02 Sep 2026 08:28:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.590650"
+  },
+  {
+    "id": "60879db9500f",
+    "title": "Renault-Backed Wandercraft Seeks €100 Million in New Funding",
+    "title_cn": "雷诺支持的 Wandercraft 寻求 1 亿欧元新融资",
+    "summary": "Wandercraft, the French robotics startup backed by Renault SA, is seeking about €100 million ($116 million) in fresh funding to expand its business, people with knowledge of the matter said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/renault-backed-wandercraft-seeks-100-million-in-new-funding",
+    "published": "Wed, 02 Sep 2026 07:35:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.696921"
+  },
+  {
+    "id": "8a941e7cf5c4",
+    "title": "Horizons Middle East & Africa 9/2/2026",
+    "title_cn": "中东和非洲地平线 9/2/2026",
+    "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/horizons-middle-east-africa-9-2-2026-video",
+    "published": "Wed, 02 Sep 2026 06:37:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-02T11:36:50.804601"
   },
   {
     "id": "d8a56f8d1ed8",
@@ -407,17 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/nvidia-may-be-close-to-agreeing-deal-for-hugging-face-video",
     "published": "Wed, 02 Sep 2026 05:42:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.886318"
-  },
-  {
-    "id": "0dfbea5f42a0",
-    "title": "Homeplus Creditors Vote on Struggling Korean Megamart’s Future",
-    "title_cn": "Homeplus债权人就陷入困境的韩国大型超市的未来进行投票",
-    "summary": "Creditors of South Korean megamart Homeplus will convene on Wednesday afternoon to vote on a rehabilitation plan aimed at keeping the company afloat.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/homeplus-creditors-vote-on-struggling-korean-megamart-s-future",
-    "published": "Wed, 02 Sep 2026 05:39:46 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:05.985656"
+    "fetched_at": "2026-09-02T11:36:50.921029"
   },
   {
     "id": "f6339ec46c8f",
@@ -427,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/gptc-ceo-on-business-strategy-chip-industry-video",
     "published": "Wed, 02 Sep 2026 05:38:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.091734"
+    "fetched_at": "2026-09-02T11:36:51.043860"
   },
   {
     "id": "71899d05c9d7",
@@ -437,17 +567,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/trumpf-cto-on-business-strategy-chip-industry-video",
     "published": "Wed, 02 Sep 2026 04:38:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.180507"
+    "fetched_at": "2026-09-02T11:36:51.160296"
   },
   {
     "id": "ad9db6b43a67",
     "title": "SEMI CEO on Memory Prices, Semiconductor Supercycle",
-    "title_cn": "SEMI首席执行官谈内存价格、半导体超级周期",
+    "title_cn": "SEMI 首席执行官谈内存价格、半导体超级周期",
     "summary": "Ajit Manocha, President and CEO of semiconductor industry association SEMI, discusses the outlook for memory chip prices and the ongoing supercycle in the semiconductor market. He speaks with Stephen Engle on the sidelines of SEMICON Taiwan in Taipei. (Source: Bloomberg)",
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/semi-ceo-on-memory-prices-semiconductor-supercycle-video",
     "published": "Wed, 02 Sep 2026 04:34:07 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.291879"
+    "fetched_at": "2026-09-02T11:36:51.288824"
   },
   {
     "id": "596c79af98be",
@@ -457,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-02/phison-electronics-sees-worst-nand-shortage-in-2027-video",
     "published": "Wed, 02 Sep 2026 04:16:07 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.411046"
+    "fetched_at": "2026-09-02T11:36:51.400988"
   },
   {
     "id": "9f33f48831c5",
@@ -467,336 +597,206 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
     "published": "Wed, 02 Sep 2026 04:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.760687"
+    "fetched_at": "2026-09-02T11:36:51.506631"
   },
   {
-    "id": "ef692a776b6e",
-    "title": "Nvidia Partner Gets Strong Demand for Rare GPU-Tied Loan in Asia",
-    "title_cn": "Nvidia 合作伙伴在亚洲获得对稀有 GPU 挂钩贷款的强烈需求",
-    "summary": "GMI Cloud, an Nvidia Corp. partner, secured commitments for more than double the amount it was seeking in a loan backed by the sale of computing power from advanced chips, underscoring strong demand for one of the first such deals in Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-partner-gets-strong-demand-for-rare-gpu-tied-loan-in-asia",
-    "published": "Wed, 02 Sep 2026 02:45:25 GMT",
+    "id": "22e10885b7d6",
+    "title": "Data Center Fight Divides Trump, Top Republicans",
+    "title_cn": "数据中心之争使特朗普和共和党高层产生分歧",
+    "summary": "Republicans are offering mixed messaging on the topic heading toward the November election.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/data-center-fight-divides-trump-top-republicans",
+    "published": "Wed, 02 Sep 2026 11:23:54 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.861021"
+    "fetched_at": "2026-09-02T11:36:52.004050"
   },
   {
-    "id": "d2d6498cd428",
-    "title": "AI Startup Cognition Set to Raise Around $1 Billion at a $47 Billion Value",
-    "title_cn": "AI 初创公司 Cognition 将融资约 10 亿美元，估值达 470 亿美元",
-    "summary": "Artificial intelligence coding startup Cognition AI Inc. is set to close a new round of funding that would vault its valuation to about $47 billion, according to people familiar with the efforts.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
-    "published": "Wed, 02 Sep 2026 00:29:37 GMT",
+    "id": "ed5b3d9abccc",
+    "title": "China’s Xi Meets Egypt’s Sisi on First State Visit in Decade",
+    "title_cn": "中国习近平十年来首次国事访问会见埃及塞西",
+    "summary": "Chinese President Xi Jinping met his Egyptian counterpart Abdel Fattah El-Sisi in Cairo on Wednesday, beginning a day of talks during his first visit to the Middle East’s most populous nation in a decade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/china-s-xi-meets-egypt-s-sisi-on-first-state-visit-in-decade",
+    "published": "Wed, 02 Sep 2026 11:09:50 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:06.960758"
+    "fetched_at": "2026-09-02T11:36:52.113489"
   },
   {
-    "id": "daa44d6005d4",
-    "title": "Nvidia Nears $14 Billion Hugging Face Deal This Week",
-    "title_cn": "Nvidia 本周接近 140 亿美元的拥抱交易",
-    "summary": "Nvidia Corp. is in advanced talks to acquire artificial intelligence startup Hugging Face in a transaction that may total about $14 billion, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/nvidia-nears-14-billion-hugging-face-deal-this-week",
-    "published": "Wed, 02 Sep 2026 00:15:56 GMT",
+    "id": "39d2bafceaa8",
+    "title": "Estonia Elects Constitutional Watchdog Madise as New President",
+    "title_cn": "爱沙尼亚选举宪法监督机构马迪斯为新总统",
+    "summary": "Estonian lawmakers elected a veteran jurist, Ülle Madise, as the nation’s next president to help navigate the Baltic country through an era of regional geopolitical turbulence.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/estonia-elects-constitutional-watchdog-madise-as-new-president",
+    "published": "Wed, 02 Sep 2026 10:50:22 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.071933"
+    "fetched_at": "2026-09-02T11:36:52.221596"
   },
   {
-    "id": "2456768336fb",
-    "title": "Palo Alto Networks Profit Outlook Tops Estimates, Margins Narrow",
-    "title_cn": "帕洛阿尔托网络公司利润前景高于预期，利润率收窄",
-    "summary": "The cybersecurity firm Palo Alto Networks Inc. issued a profit outlook for the year that exceeded Wall Street’s expectations, fueled by corporate demand for stronger defenses against advancing artificial intelligence systems.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/palo-alto-networks-tops-profit-outlook-on-ai-security-demand",
-    "published": "Tue, 01 Sep 2026 20:15:24 GMT",
+    "id": "85fb3c556c3a",
+    "title": "US-Iran Clashes Escalate as Fears Grow of Extended Conflict",
+    "title_cn": "由于担心冲突扩大，美伊冲突升级",
+    "summary": "Fighting between the US and Iran over control of the Strait of Hormuz intensified after a period of relative calm, triggering a fresh jump in oil prices as fears grow that the war may drag on indefinitely.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
+    "published": "Wed, 02 Sep 2026 08:10:36 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.379177"
+    "fetched_at": "2026-09-02T11:36:52.350422"
   },
   {
-    "id": "b5f82f7b23ea",
-    "title": "Stocks Slide as Oil Surges & Treasury Yields Rise | The Close 9/1/2026",
-    "title_cn": "随着石油价格飙升和国债收益率上升，股市下滑收盘价 9/1/2026",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Dimensional Fund Advisors Founder & Chairman David Booth, T. Rowe Price CEO Rob Sharps, Christian & Timbers Founder & CEO Jeff Christian, New York Life Investment Management Global Market Strategist Julia Hermann, Founder ETFs Partner & Portfolio Manager Michael Monaghan, Evercore Equity Analyst Peter Levine, KIND Snacks Founder Daniel Lubetzky, & ValueEdge Advisors Chair Nell Minow. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/the-close-9-1-2026-video",
-    "published": "Tue, 01 Sep 2026 21:59:41 GMT",
+    "id": "79e1b1db1785",
+    "title": "Pakistan Basks in Its Latest Win Over India",
+    "title_cn": "巴基斯坦迎来了对印度的最新胜利",
+    "summary": "New Delhi is on the backfoot after an international tribunal ruling on Indus River resources.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-02/pakistan-basks-in-its-latest-win-over-india",
+    "published": "Wed, 02 Sep 2026 09:59:02 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.489032"
+    "fetched_at": "2026-09-02T11:36:52.464850"
   },
   {
-    "id": "cf6e7f37c29d",
-    "title": "NYLIM's Hermann Says Bond Market Signals Tighter Rates",
-    "title_cn": "NYLIM 的赫尔曼表示，债券市场发出利率收紧的信号",
-    "summary": "Julia Hermann, Global Market Strategist at New York Life Investment Management, says the recent move in bonds is warning equity investors to pay closer attention to interest rates. In her view, markets are heading into a tighter rates environment over the next few months, but the key question is whether the pressure comes from the front end of the curve through an imminent Fed tightening cycle or from the long end through further Treasury selloff and higher long-term yields. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/nylim-s-hermann-says-bond-market-signals-tighter-rates-video",
-    "published": "Tue, 01 Sep 2026 21:48:30 GMT",
+    "id": "7acd4de3064c",
+    "title": "Putin, Xi Weighed First-Ever Trilat With US at APEC, Russia Says",
+    "title_cn": "俄罗斯称，普京和习近平在亚太经合组织会议上与美国讨论了首个 Trilat",
+    "summary": "The presidents of Russia and China discussed the possibility of trilateral talks with Donald Trump at the APEC summit this year, according to the Kremlin’s foreign policy aide, in what would be an unprecedented meeting between the leaders of the world’s three biggest nuclear powers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/putin-xi-discussed-possible-apec-talks-with-trump-russia-says",
+    "published": "Tue, 01 Sep 2026 17:58:28 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.592689"
+    "fetched_at": "2026-09-02T11:36:52.597794"
   },
   {
-    "id": "a409c4b82c87",
-    "title": "AWS Invests in AI Entertainment",
-    "title_cn": "AWS 投资人工智能娱乐",
-    "summary": "Amazon Web Services is working with Amazon MGM Studios on a major new initiative at the intersection of AI and entertainment: A gen AI film fund and a new AI production platform for participating up-and-coming filmmakers. AWS General Manager, Media, Entertainment, Games and Sports Samira Bakhtiar discusses the imitative and how the company is pioneering a new era of mobile entertainment in order to tap into more Gen Z viewers. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/aws-invests-in-ai-entertainment-video",
-    "published": "Tue, 01 Sep 2026 21:39:09 GMT",
+    "id": "02fe378a26f9",
+    "title": "West Bank Gets Relief as Israeli Lenders Postpone Cutting Ties",
+    "title_cn": "以色列银行推迟断绝关系，约旦河西岸得到缓解",
+    "summary": "Israeli banks have decided to postpone severing ties with Palestinian counterparts in the West Bank, offering temporary relief for the territory’s troubled economy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/west-bank-gets-relief-as-israeli-lenders-postpone-cutting-ties",
+    "published": "Wed, 02 Sep 2026 09:47:34 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.701647"
+    "fetched_at": "2026-09-02T11:36:52.700956"
   },
   {
-    "id": "0f9d56009d61",
-    "title": "T. Rowe Price's Jodi Love Discusses Active Small & Mid-Cap ETFs",
-    "title_cn": "T. Rowe Price 的 Jodi Love 讨论活跃的中小型 ETF",
-    "summary": "Jodi Love, Lead Portfolio Manager for T. Rowe Price’s Active Small and Mid-Cap ETF lineup, joins Romaine Bostick live on-site at the T. Rowe Price Headquarters in Baltimore, MD. Love notes that these funds are a frequent topic of client questions. She goes on to highlight that T. Rowe Price’s active ETFs have just crossed a three-year benchmark. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/t-rowe-price-s-jodi-love-discusses-small-mid-cap-etfs-video",
-    "published": "Tue, 01 Sep 2026 21:27:07 GMT",
+    "id": "a85b50f4ce7f",
+    "title": "Ireland Needs to Prepare for Unity Vote, Foreign Minister Says",
+    "title_cn": "外交部长表示爱尔兰需要为统一投票做好准备",
+    "summary": "Ireland needs to be prepared for a vote on whether to reunify with the UK’s Northern Ireland region, Irish foreign minister Helen McEntee said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ireland-needs-to-prepare-for-unity-vote-foreign-minister-says",
+    "published": "Wed, 02 Sep 2026 09:36:09 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.809656"
+    "fetched_at": "2026-09-02T11:36:52.817230"
   },
   {
-    "id": "a9c54b893c02",
-    "title": "Apple Sets Pay Targets at $58 Million for Ternus, $47 Million for Cook",
-    "title_cn": "苹果将​​特纳斯的薪酬目标设定为 5800 万美元，库克的薪酬目标为 4700 万美元",
-    "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027, while Tim Cook’s role as executive chairman will pay around $47 million.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook",
-    "published": "Tue, 01 Sep 2026 20:52:44 GMT",
+    "id": "97d0aea26958",
+    "title": "Mexico Murder Rate Plunges as Sheinbaum Targets Cartel Operators",
+    "title_cn": "谢因鲍姆瞄准卡特尔经营者，墨西哥谋杀率骤降",
+    "summary": "Every day before dawn, Marcela Figueroa starts compiling the data behind one of President Claudia Sheinbaum’s proudest achievements: the plunge in Mexico’s murder rate.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/mexico-murder-rate-plunges-as-sheinbaum-targets-cartel-operators",
+    "published": "Wed, 02 Sep 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:07.912473"
+    "fetched_at": "2026-09-02T11:36:52.931609"
   },
   {
-    "id": "45394a619aa0",
-    "title": "Dropbox User Accounts Breached by Hackers Who Accessed Data",
-    "title_cn": "访问数据的黑客破坏了 Dropbox 用户帐户",
-    "summary": "Hackers broke into thousands of Dropbox Inc. accounts last month, viewing and downloading material users kept on the cloud-storage platform, according to a company statement and records seen by Bloomberg News.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dropbox-user-accounts-breached-by-hackers-some-data-accessed",
-    "published": "Tue, 01 Sep 2026 20:59:55 GMT",
+    "id": "91576f4c5484",
+    "title": "How Trump’s Venezuela Oil Deal Gives the US Direct Control",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "While Venezuela isn’t the powerhouse oil producer it used to be, the country nonetheless has some of the world’s largest oil reserves. When the US seized then-Venezuelan President Nicolás Maduro on Jan. 3, US President Donald Trump was clear that the raid was as much about oil as it was about the narco-terrorism and drug charges leveled against the strongman leader now being held in a federal jail in New York City.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/how-trump-s-venezuela-oil-deal-gives-the-us-direct-control",
+    "published": "Wed, 02 Sep 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:08.021207"
+    "fetched_at": "2026-09-02T11:36:53.032623"
   },
   {
-    "id": "a72cad160ecc",
-    "title": "Dell Sees Surge in AI Server Sales, Boosts Outlook",
-    "title_cn": "戴尔人工智能服务器销量激增，前景乐观",
-    "summary": "Dell Technologies Inc. shares jumped in extended trading after the company boosted its annual sales forecast by $25 billion due to surging demand for servers to run artificial intelligence tasks. Michael Monaghan, partner and portfolio manager for Founder Etfs, says Dell dominates the supply chain and keeps innovating. He joins \"Bloomberg The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/dell-sees-surge-in-ai-server-sales-boosts-outlook-video",
-    "published": "Tue, 01 Sep 2026 21:03:11 GMT",
+    "id": "bbe6989177d1",
+    "title": "Angolan President Revamps Security Forces Leadership Before Vote",
+    "title_cn": "安哥拉总统在投票前调整安全部队领导层",
+    "summary": "Angolan President João Lourenço overhauled the top ranks of the security establishment as he enters his final year in office.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/angolan-president-revamps-security-forces-leadership-before-vote",
+    "published": "Wed, 02 Sep 2026 09:11:33 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:08.134813"
+    "fetched_at": "2026-09-02T11:36:53.163135"
   },
   {
-    "id": "fe52124c697e",
-    "title": "Morehead Calls Bessent 'Bluff,' Strategy CEO Buys Again | Bloomberg Crypto 9/1/2026",
-    "title_cn": "Morehead 称 Bessent 是“虚张声势”，Strategy 首席执行官再次买入彭博加密货币 9/1/2026",
-    "summary": "\"Bloomberg Crypto\" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: Pantera Capital Founder & Managing Partner Dan Morehead, Strategy President & CIO Phong Le, and The Solana Foundation Head of Payments Growth Amira Valliani. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/bloomberg-crypto-9-1-2026-video",
-    "published": "Tue, 01 Sep 2026 20:47:46 GMT",
+    "id": "dd8832ba38d7",
+    "title": "Ramaphosa Seeks to Overturn Cash-In-Sofa Report in High Court",
+    "title_cn": "拉马福萨寻求在高等法院推翻现金沙发报告",
+    "summary": "South African President Cyril Ramaphosa will ask a high court to overturn a report that forms the basis of impeachment proceedings against him over his handling of a burglary at his game farm.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/ramaphosa-seeks-to-overturn-cash-in-sofa-report-in-high-court",
+    "published": "Wed, 02 Sep 2026 09:07:46 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:08.270012"
+    "fetched_at": "2026-09-02T11:36:53.270453"
   },
   {
-    "id": "cf985cda21d2",
-    "title": "Dell Boosts Annual Sales Forecast by $25 Billion; Shares Rise",
-    "title_cn": "戴尔将年度销售额预测上调 250 亿美元；股价上涨",
-    "summary": "Dell Technologies Inc. shares jumped in extended trading after the company boosted its annual sales forecast by $25 billion in a further sign of surging demand for servers to run artificial intelligence tasks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/dell-raises-annual-revenue-outlook-on-sustained-ai-server-sales",
-    "published": "Tue, 01 Sep 2026 20:07:38 GMT",
+    "id": "0993396c9133",
+    "title": "Zelenskyy Threatens to Shut Down Air Traffic Over Russia",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Ukrainian President Volodymyr Zelenskyy warned airlines to avoid Russian airspace as he threatened to respond to Moscow’s escalating missile attacks by crowding its skies with drones.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/zelenskyy-threatens-to-shut-air-traffic-over-russia-with-drones",
+    "published": "Tue, 01 Sep 2026 19:53:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:08.679948"
+    "fetched_at": "2026-09-02T11:36:53.365483"
   },
   {
-    "id": "b77a9f30f7d0",
-    "title": "Bessent Says China Stopped Unanimous G20 Communique",
-    "title_cn": "贝森特称中国阻止G20一致公报",
-    "summary": "Treasury Secretary Scott Bessent said China prevented the Group of 20 from issuing a joint communique after a gathering of finance and central bank chiefs this week due to a dispute over its giant trade surplus. Bloomberg's Jill Disis has the details. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-02/bessent-says-china-stopped-unanimous-g20-communique-video",
-    "published": "Wed, 02 Sep 2026 06:04:37 GMT",
+    "id": "80870dcb5727",
+    "title": "Deutsche Bank CEO Warns of Populism Ahead of State Elections",
+    "title_cn": "德意志银行首席执行官在州选举前警告民粹主义",
+    "summary": "Deutsche Bank AG Chief Executive Officer Christian Sewing warned of populism and polarization ahead of an election in an eastern Germany state on Sunday where a far-right party is poised to secure a victory.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/deutsche-bank-ceo-warns-of-populism-ahead-of-key-state-elections",
+    "published": "Wed, 02 Sep 2026 07:30:12 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:09.330188"
+    "fetched_at": "2026-09-02T11:36:53.475102"
   },
   {
-    "id": "f8e9ed7fffb4",
-    "title": "Hong Kong Activist Joshua Wong Pleads Guilty to Collusion",
-    "title_cn": "香港活动人士黄之锋承认共谋罪",
-    "summary": "Hong Kong activist Joshua Wong pleaded guilty to foreign collusion on Wednesday, his second conviction under a Beijing-imposed security law that’s transformed the financial hub.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion-charge",
-    "published": "Wed, 02 Sep 2026 02:19:54 GMT",
+    "id": "813efeb625e8",
+    "title": "Surge in UK Borrowing Costs Halves Labour’s Fiscal Headroom",
+    "title_cn": "英国借贷成本飙升使工党的财政空间减半",
+    "summary": "UK Prime Minister Andy Burnham was confronted by the harsh reality of Britain’s weak public finances on his return to parliament as the global selloff in government bonds left him facing a £12 billion ($16.2 billion) problem.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-01/surge-in-uk-borrowing-costs-halves-government-s-fiscal-headroom",
+    "published": "Tue, 01 Sep 2026 15:52:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:09.810213"
-  },
-  {
-    "id": "8dd234159085",
-    "title": "Taiwan Plans Rare Ministerial Visit to China for APEC Meeting",
-    "title_cn": "台湾计划罕见地对中国进行部长级访问出席APEC会议",
-    "summary": "Taiwan plans to send a minister to attend an APEC meeting in China later this month, as questions linger over how Beijing will handle the island’s attendance of the forum as it steps up efforts to deepen Taipei’s international isolation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/taiwan-plans-rare-ministerial-visit-to-china-for-apec-meeting",
-    "published": "Wed, 02 Sep 2026 04:49:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:09.908952"
-  },
-  {
-    "id": "f8b3acdb078f",
-    "title": "US, Allies Pledge Aid to Pacific For Fuel, Ports, Drug Control",
-    "title_cn": "美国及其盟国承诺向太平洋提供燃料、港口、毒品管制援助",
-    "summary": "The US, Australia and New Zealand have pledged hundreds of millions of dollars in aid for the Pacific region to build up infrastructure, secure fuel and help stop a surge of drugs, ramping up support in a region increasingly contested with China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/australia-pledges-430-million-to-combat-narco-subs-in-pacific",
-    "published": "Tue, 01 Sep 2026 12:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.045825"
+    "fetched_at": "2026-09-02T11:36:53.589242"
   },
   {
     "id": "3d8daaec5588",
     "title": "Nepal Urges Tourists Not to Abandon Himalayas After Floods",
     "title_cn": "尼泊尔敦促游客不要在洪水后放弃喜马拉雅山",
-    "summary": "Nepal urged international travelers not to abandon the Himalayas, declaring the country open for tourism as it continues to assess the human and economic toll from catastrophic floods that killed hundreds and left thousands missing.",
+    "summary": "Nepal urged international travelers not to abandon the Himalayas, declaring the country open for tourism as it continues to assess the human and economic toll from catastrophic floods that killed more than a thousand people.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-02/nepal-urges-tourists-not-to-abandon-himalayas-after-floods",
     "published": "Wed, 02 Sep 2026 03:08:35 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.146887"
+    "fetched_at": "2026-09-02T11:36:53.716343"
   },
   {
-    "id": "b20ab0bb0354",
-    "title": "Trump’s Energy Chief Says Venezuela Poised to Double Oil Output",
-    "title_cn": "特朗普能源主管称委内瑞拉准备将石油产量翻一番",
-    "summary": "US Energy Secretary Chris Wright said companies are on the cusp of signing a series of deals that will put Venezuela on pace to rapidly expand its output of crude.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/trump-s-energy-chief-says-venezuela-poised-to-double-oil-output",
-    "published": "Wed, 02 Sep 2026 03:00:45 GMT",
+    "id": "5a1cc5123b99",
+    "title": "Zelenskyy Threatens to Shut Russian Airspace",
+    "title_cn": "泽连斯基威胁关闭俄罗斯领空",
+    "summary": "Ukrainian President Volodymyr Zelenskyy warned airlines to avoid Russian air traffic as he threatened to respond to Moscow’s escalating missile attacks by crowding its skies with drones. Bloomberg's Greg Sullivan has the details. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/zelenskyy-threatens-to-shut-russian-airspace-video",
+    "published": "Wed, 02 Sep 2026 07:23:50 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.256172"
+    "fetched_at": "2026-09-02T11:36:53.824451"
   },
   {
-    "id": "2f8ba95fa2fd",
-    "title": "US-Iran Conflict Intensifies as Trump Downplays Desire for Deal",
-    "title_cn": "特朗普淡化达成协议的愿望，美伊冲突加剧",
-    "summary": "The conflict between the US and Iran escalated sharply, with American forces carrying out a fresh wave of strikes and Iran saying it had retaliated.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/us-launches-new-round-of-iran-strikes-as-strait-tensions-grow",
-    "published": "Tue, 01 Sep 2026 16:47:59 GMT",
+    "id": "65c195469eb9",
+    "title": "Sweden’s Opposition Sees Lead Narrow in Latest Election Poll",
+    "title_cn": "瑞典反对党在最新选举民意调查中领先优势缩小",
+    "summary": "Sweden’s opposition saw its lead clearly narrow to 2.6 percentage points ahead of this month’s general election, according to a poll commissioned by Swedish broadcaster TV4, as the election campaign has entered its final stretch.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-02/sweden-s-opposition-sees-lead-narrow-in-latest-election-poll",
+    "published": "Wed, 02 Sep 2026 07:00:26 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.344487"
+    "fetched_at": "2026-09-02T11:36:53.934504"
   },
   {
-    "id": "c7371115ba8a",
-    "title": "China Removes Tax Exemption on Foreigners’ Dividend Incomes",
-    "title_cn": "中国取消外国人股息收入免税",
-    "summary": "China has ended a decadeslong exemption on the individual income tax paid by foreign-invested firms on some dividend payments, the latest in a series of sweeping changes to the country’s tax system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/china-removes-tax-exemption-on-foreigner-s-dividend-incomes",
-    "published": "Tue, 01 Sep 2026 10:12:10 GMT",
+    "id": "93dcc03f12ea",
+    "title": "US-Iran War Intensifies as Trump Downplays Desire For Deal | Daybreak Europe 9/2/2026",
+    "title_cn": "特朗普淡化达成协议的愿望，美伊战争加剧欧洲黎明 2026 年 9 月 2 日",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nThe conflict between the US and Iran escalated sharply, with American forces carrying out a fresh wave of strikes and Iran saying it had retaliated.\n\nThe renewed fighting in the Middle East drove oil prices higher, fueling inflation fears and expectations for tighter monetary policy. Stocks, bonds and gold slumped. \n\nAnd Ukrainian President Volodymyr Zelenskyy warned airlines to avoid Russian airspace as he threatened to respond to Moscow’s escalating missile attacks by crowding its skies with drones. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/daybreak-europe-9-02-2026-video",
+    "published": "Wed, 02 Sep 2026 06:40:15 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.476884"
+    "fetched_at": "2026-09-02T11:36:54.062551"
   },
   {
-    "id": "ac8ba3f827f6",
-    "title": "Trump Pressures Squeezed Refiners to Ease Pump Prices",
-    "title_cn": "特朗普向受到挤压的炼油厂施压，要求其降低汽油价格",
-    "summary": "President Donald Trump pressed US oil refiners to boost domestic production of gasoline and diesel during a closed-door meeting Tuesday, as he contends with high prices and mounting cost-of-living concerns before November’s midterm elections.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/trump-ramps-up-pressure-on-squeezed-refiners-to-ease-pump-prices",
-    "published": "Tue, 01 Sep 2026 22:25:26 GMT",
+    "id": "f77a96b334c8",
+    "title": "UK's Burnham Vows Stronger Public Control Over Water",
+    "title_cn": "英国伯纳姆誓言加强对水的公共控制",
+    "summary": "Prime Minister Andy Burnham, speaking during his first House of Commons appearance since taking power, signaled he’s open to re-nationalizing the UK's water industry. On Wednesday he will take part in his first Prime Minister's Questions session. Bloomberg's Chloe Chaplain reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-02/uk-s-burnham-vows-stronger-public-control-over-water-video",
+    "published": "Wed, 02 Sep 2026 06:37:24 GMT",
     "source": "International",
-    "fetched_at": "2026-09-02T06:17:10.834634"
-  },
-  {
-    "id": "6b235238be13",
-    "title": "Octogenarian Markey Fends Off Massachusetts Senate Challenge",
-    "title_cn": "八旬老人马基抵御了马萨诸塞州参议院的挑战",
-    "summary": "Massachusetts Senator Ed Markey won the state’s Democratic primary on Tuesday, NBC and AP projected, beating back a challenge from a congressman who argued he was too old to continue serving in the chamber.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-02/markey-wins-massachusetts-dem-senate-primary-nbc-projects",
-    "published": "Wed, 02 Sep 2026 00:28:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.305041"
-  },
-  {
-    "id": "8b0669ac9e24",
-    "title": "Xi Returns to Egypt After a Decade That Altered Middle East",
-    "title_cn": "改变中东十年后习近平重返埃及",
-    "summary": "When Chinese President Xi Jinping visits Cairo this week, he’ll find plenty has changed in Egypt and the region since his last trip to the Middle East’s most populous nation a decade ago.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/xi-returns-to-egypt-after-decade-that-transformed-middle-east",
-    "published": "Tue, 01 Sep 2026 13:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.521664"
-  },
-  {
-    "id": "96fb0364c6f4",
-    "title": "House Bill Funds the Govt. Through Election Day",
-    "title_cn": "众议院法案为政府提供资金。直至选举日",
-    "summary": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Rep. Brad Sherman (D-CA) says oil markets predict the US and Iran will return to diplomacy, though he is uncertain how the conflict ultimately ends. Rep. Chip Roy (R-TX) says he opposed the continuing resolution after the Senate added provisions he disagreed with, arguing Congress should instead focus on appropriations bills and spending restraint. Chris Sununu, President and CEO of Airlines for America and former Republican Governor of New Hampshire, says high jet fuel prices are “crushing” the airline industry even as travel demand remains strong. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/balance-of-power-late-edition-09-01-2026-video",
-    "published": "Tue, 01 Sep 2026 23:46:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.623820"
-  },
-  {
-    "id": "8fa4a2fb8718",
-    "title": "Trump Taps Hung Cao for Navy Secretary Amid Pentagon Turmoil",
-    "title_cn": "在五角大楼动荡之际，特朗普任命曹洪为海军部长",
-    "summary": "President Donald Trump is nominating acting Navy Secretary Hung Cao for the position on a permanent basis, looking to fill a vacancy in the military’s top leadership at a time when the Iran war has prompted concerns over the impact on personnel and readiness.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/trump-taps-hung-cao-for-navy-secretary-amid-pentagon-turmoil",
-    "published": "Tue, 01 Sep 2026 23:41:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.734011"
-  },
-  {
-    "id": "b2b7e5052c22",
-    "title": "California Lawmakers Adjourn Without Voting on Wildfire Bill",
-    "title_cn": "加州立法者休会，不对野火法案进行投票",
-    "summary": "The California Assembly adjourned without passing a revamp of the state’s wildfire response, sending up shares in two key power utilities, PG&amp;E Corp. and Edison International.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/california-lawmakers-to-adjourn-without-voting-on-wildfire-bill",
-    "published": "Tue, 01 Sep 2026 18:52:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.838988"
-  },
-  {
-    "id": "1f8a37ca77cf",
-    "title": "Brazil Election: Data Centers That Are Hated in US Win Support in Brazil",
-    "title_cn": "巴西大选：美国痛恨的数据中心赢得巴西支持",
-    "summary": "Data centers have become politically toxic in the US midterm campaign. Not in Brazil’s presidential race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/brazil-election-data-centers-that-are-hated-in-us-win-support-in-brazil",
-    "published": "Tue, 01 Sep 2026 10:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:11.927953"
-  },
-  {
-    "id": "8f960a3eca2f",
-    "title": "Sununu: High Jet Fuel Prices Are Crushing Airline Industry",
-    "title_cn": "苏努努：高航油价格正在压垮航空业",
-    "summary": "Chris Sununu, President and CEO of Airlines for America and former Republican Governor of New Hampshire, says high jet fuel prices are “crushing” the airline industry even as travel demand remains strong. Sununu says airlines are absorbing much of the higher fuel costs and expects that pressure to persist as the Iran conflict drags on. Sununu says the continuing resolution only kicks the can down the road and warns another government shutdown could significantly impact airlines. Sununu says Congress is “not doing their job,” arguing lawmakers are failing to address major fiscal and spending issues. He speaks with Kailey Leinz on Bloomberg’s \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/sununu-jet-fuel-prices-are-crushing-airline-industry-video",
-    "published": "Tue, 01 Sep 2026 23:06:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:12.027822"
-  },
-  {
-    "id": "60ef6dcea28e",
-    "title": "UK Middle Classes Face Tax Hit to Fund Spending, Analysis Finds",
-    "title_cn": "分析发现，英国中产阶级面临资金支出税收打击",
-    "summary": "Britain’s middle class would likely need to face higher taxes to fund a bigger state, according to research by the left-leaning Resolution Foundation showing they are squeezed less than international peers.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/uk-middle-classes-face-tax-hit-to-fund-spending-analysis-finds",
-    "published": "Tue, 01 Sep 2026 23:01:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:12.135483"
-  },
-  {
-    "id": "a611bc8d6d69",
-    "title": "Rep. Roy: Congress Must Go Further On Spending Restraints",
-    "title_cn": "众议员罗伊：国会必须进一步限制支出",
-    "summary": "Rep. Chip Roy (R-TX) says he opposed the continuing resolution after the Senate added provisions he disagreed with, arguing Congress should instead focus on appropriations bills and spending restraint. He says Republicans need to make tough fiscal decisions to address mounting deficits and deliver fiscal responsibility. Rep. Roy, a former federal prosecutor, says widespread use of Flock cameras raises concerns about government surveillance and argues massive data collection and sharing “has to stop.” He speaks with Kailey Leinz on Bloomberg’s \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/roy-congress-must-go-further-on-spending-restraints-video",
-    "published": "Tue, 01 Sep 2026 22:58:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:12.229787"
-  },
-  {
-    "id": "357a25480b3c",
-    "title": "Duppler: Bessent's AI Outlook Is Optimistic, But Plausible",
-    "title_cn": "Duppler：Bessent 的人工智能前景乐观，但似乎合理",
-    "summary": "Mattie Duppler, Senior Fellow for Fiscal Policy at the National Taxpayers Union and Founder and President of Forward Strategies, discusses Treasury Secretary Scott Bessent's closing remarks at the G20 in Ashville. Duppler calls Bessent's expectation for a major AI-driven productivity shift within six months \"very optimistic,\" but says the rapid pace of technological change means it cannot be ruled out. She speaks with Kailey Leinz on Bloomberg's \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-01/duppler-bessent-ai-outlook-is-optimistic-but-plausible-video",
-    "published": "Tue, 01 Sep 2026 22:49:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:12.340426"
-  },
-  {
-    "id": "13fde20f733b",
-    "title": "Palantir’s Karp Will Back Startup by Ex-Ukraine Defense Chief",
-    "title_cn": "Palantir 的卡普将支持前乌克兰国防部长创办的初创公司",
-    "summary": "Alex Karp, Palantir Technologies Inc.’s chief executive officer, is set to become the first major investor in a defense technology company proposed by Ukraine’s former defense minister as the country continues to battle invading Russian forces.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-01/palantir-s-karp-will-back-startup-by-ex-ukraine-defense-chief",
-    "published": "Tue, 01 Sep 2026 22:42:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-02T06:17:12.440734"
+    "fetched_at": "2026-09-02T11:36:54.187121"
   }
 ]
