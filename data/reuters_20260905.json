@@ -1,23 +1,33 @@
 [
   {
+    "id": "b3fae03891cb",
+    "title": "US Envoys Due in Kyiv, US Strikes 3 Iranian Tankers, More",
+    "title_cn": "美国特使抵达基辅，美国袭击了 3 艘伊朗油轮等",
+    "summary": "Source: Bloomberg, 5:24",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-due-in-kyiv-us-strikes-3-iranian-tankers-more",
+    "published": "Sat, 05 Sep 2026 23:21:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-05T23:55:10.359473"
+  },
+  {
     "id": "db4f8b76a8fd",
     "title": "US Strikes 3 Iranian Tankers, Witkoff & Kushner at the Kremlin",
-    "title_cn": "美国在克里姆林宫袭击了威特科夫和库什纳三艘伊朗油轮",
+    "title_cn": "美国在克里姆林宫袭击了 3 艘伊朗油轮、威特科夫和库什纳号",
     "summary": "Source: Bloomberg, 5:27",
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-strikes-3-iranian-tankers-witkoff-kushner-at-the-kremlin",
     "published": "Sat, 05 Sep 2026 22:03:35 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:42.480021"
+    "fetched_at": "2026-09-05T23:55:11.011057"
   },
   {
     "id": "73bcfa9d9cc3",
     "title": "US Strikes 3 Iranian Tankers, US Envoys at the Kremlin, More",
-    "title_cn": "美国袭击了 3 艘伊朗油轮、美国驻克里姆林宫特使等",
+    "title_cn": "美国袭击 3 艘伊朗油轮、美国驻克里姆林宫特使等",
     "summary": "Source: Bloomberg, 5:28",
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-strikes-3-iranian-tankers-us-envoys-at-the-kremlin-more",
     "published": "Sat, 05 Sep 2026 20:24:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:43.860105"
+    "fetched_at": "2026-09-05T23:55:11.136533"
   },
   {
     "id": "23220c40e12d",
@@ -27,17 +37,17 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-strikes-3-iranian-tankers-putin-situation-not-simple-more",
     "published": "Sat, 05 Sep 2026 18:59:06 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.017252"
+    "fetched_at": "2026-09-05T23:55:11.236740"
   },
   {
     "id": "862865d943dc",
     "title": "Jaguar Land Rover to Cut Jobs as Sales Slide, Times Says",
-    "title_cn": "《泰晤士报》称捷豹路虎将因销量下滑而裁员",
+    "title_cn": "《泰晤士报》称捷豹路虎因销量下滑而裁员",
     "summary": "Jaguar Land Rover Automotive Plc is set to cut 4,000 jobs over the next two years as the UK’s largest carmaker confronts soaring costs, plummeting sales and the effects of US tariffs, The Times reported.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/jaguar-land-rover-to-cut-4-000-jobs-as-sales-slide-times-says",
     "published": "Sat, 05 Sep 2026 09:48:29 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.189816"
+    "fetched_at": "2026-09-05T23:55:11.338084"
   },
   {
     "id": "b18dcf9ce266",
@@ -47,7 +57,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-begin-russia-talks-us-attacks-iranian-tankers-more",
     "published": "Sat, 05 Sep 2026 16:49:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.357538"
+    "fetched_at": "2026-09-05T23:55:11.466460"
   },
   {
     "id": "226c61fe6d0c",
@@ -57,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/bloomberg-this-weekend-new-apple-ceo-product-launch-podcast",
     "published": "Sat, 05 Sep 2026 15:43:43 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.542287"
+    "fetched_at": "2026-09-05T23:55:11.572819"
   },
   {
     "id": "0c51634b2b33",
@@ -67,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-strikes-3-iranian-tankers-us-envoys-arrive-in-russia-more",
     "published": "Sat, 05 Sep 2026 14:49:13 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.719765"
+    "fetched_at": "2026-09-05T23:55:11.685267"
   },
   {
     "id": "70f47ce96255",
@@ -77,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-in-russia-trump-downplays-iran-pentagon-polygraphs",
     "published": "Sat, 05 Sep 2026 13:34:17 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:44.893840"
+    "fetched_at": "2026-09-05T23:55:11.782370"
   },
   {
     "id": "9fd9d943bcbb",
@@ -87,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/putin-pauses-ukraine-war-trump-iran-conflict-small-potatoes",
     "published": "Sat, 05 Sep 2026 12:33:47 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.084560"
+    "fetched_at": "2026-09-05T23:55:11.884280"
   },
   {
     "id": "9d1082823dc0",
@@ -97,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/us-farmers-sell-into-long-hoped-for-crop-price-rally",
     "published": "Sat, 05 Sep 2026 12:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.241253"
+    "fetched_at": "2026-09-05T23:55:11.980849"
   },
   {
     "id": "37230975572c",
@@ -107,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-arrive-in-russia-trump-downplays-iran-conflict-more",
     "published": "Sat, 05 Sep 2026 11:37:11 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.423897"
+    "fetched_at": "2026-09-05T23:55:12.082441"
   },
   {
     "id": "fefe5e083b6d",
@@ -117,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-iran-conflict-small-potatoes-us-envoys-in-russia-more",
     "published": "Sat, 05 Sep 2026 10:32:15 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.595002"
+    "fetched_at": "2026-09-05T23:55:12.192274"
   },
   {
     "id": "71b1f01ebc04",
@@ -127,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/bloomberg-daybreak-holiday-apple-oracle-paramount-podcast",
     "published": "Sat, 05 Sep 2026 10:23:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.774062"
+    "fetched_at": "2026-09-05T23:55:12.299071"
   },
   {
     "id": "73d7c8fa2e07",
@@ -137,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-demands-lower-rates-trump-eases-processing-for-ranchers",
     "published": "Sat, 05 Sep 2026 03:37:50 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:45.952281"
+    "fetched_at": "2026-09-05T23:55:12.397852"
   },
   {
     "id": "3175cda0534d",
@@ -147,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked-mtns5tlw",
     "published": "Sat, 05 Sep 2026 02:45:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.118713"
+    "fetched_at": "2026-09-05T23:55:12.531126"
   },
   {
     "id": "c12300fa3a77",
@@ -157,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-beef-processing-for-ranchers-clancy-mistrial-more-mtnqpyzq",
     "published": "Sat, 05 Sep 2026 02:05:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.283145"
+    "fetched_at": "2026-09-05T23:55:12.632836"
   },
   {
     "id": "46e6c5d95ad2",
@@ -167,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked",
     "published": "Sat, 05 Sep 2026 01:03:18 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.445565"
+    "fetched_at": "2026-09-05T23:55:12.727770"
   },
   {
     "id": "3d0903ddef48",
@@ -177,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-05/singapore-stablecoin-license-leaves-issuers-weighing-benefits",
     "published": "Sat, 05 Sep 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.626407"
+    "fetched_at": "2026-09-05T23:55:12.857589"
   },
   {
     "id": "3600858f7379",
@@ -187,17 +197,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-beef-processing-for-ranchers-clancy-mistrial-more",
     "published": "Sat, 05 Sep 2026 00:04:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.779915"
-  },
-  {
-    "id": "58ad8b61ada9",
-    "title": "Hong Kong’s Flat Iron Bumbles Foray Into the Sausage Roll Business",
-    "title_cn": "香港 Flat Iron 涉足香肠卷业务",
-    "summary": "<p>Steak chain’s new signature pastry falls flat in debut</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
-    "published": "Sat, 05 Sep 2026 00:00:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-05T22:10:46.965996"
+    "fetched_at": "2026-09-05T23:55:12.946470"
   },
   {
     "id": "2aa8227fa9f3",
@@ -207,7 +207,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video",
     "published": "Sat, 05 Sep 2026 18:42:52 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:47.432104"
+    "fetched_at": "2026-09-05T23:55:13.529957"
   },
   {
     "id": "8a91fb322281",
@@ -217,7 +217,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
     "published": "Fri, 04 Sep 2026 20:27:13 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:47.579560"
+    "fetched_at": "2026-09-05T23:55:13.640067"
   },
   {
     "id": "d544b5d05f5c",
@@ -227,7 +227,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video",
     "published": "Sat, 05 Sep 2026 16:17:08 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:47.726468"
+    "fetched_at": "2026-09-05T23:55:13.759325"
   },
   {
     "id": "d1e7523d27d8",
@@ -237,7 +237,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
     "published": "Sat, 05 Sep 2026 15:37:28 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:47.919347"
+    "fetched_at": "2026-09-05T23:55:13.871689"
   },
   {
     "id": "64eb4d798a12",
@@ -247,7 +247,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/the-hidden-cost-of-america-s-bureaucracy-video",
     "published": "Sat, 05 Sep 2026 15:15:03 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.098163"
+    "fetched_at": "2026-09-05T23:55:13.978773"
   },
   {
     "id": "9162eaae0eea",
@@ -257,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/us-strikes-iranian-tankers-after-attack-on-us-warships-video",
     "published": "Sat, 05 Sep 2026 14:34:22 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.253181"
+    "fetched_at": "2026-09-05T23:55:14.098597"
   },
   {
     "id": "a341a27b5736",
@@ -267,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video",
     "published": "Sat, 05 Sep 2026 14:26:07 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.417468"
+    "fetched_at": "2026-09-05T23:55:14.201452"
   },
   {
     "id": "63d1b8483968",
@@ -277,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video",
     "published": "Sat, 05 Sep 2026 13:55:08 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.569359"
+    "fetched_at": "2026-09-05T23:55:14.322574"
   },
   {
     "id": "e9e4004d4e6b",
@@ -287,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video",
     "published": "Sat, 05 Sep 2026 13:20:13 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.715835"
+    "fetched_at": "2026-09-05T23:55:14.460956"
   },
   {
     "id": "5a724f69b882",
@@ -297,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
     "published": "Sat, 05 Sep 2026 12:46:10 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:48.865510"
+    "fetched_at": "2026-09-05T23:55:14.592441"
   },
   {
     "id": "0e089d4c7187",
@@ -307,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india",
     "published": "Sat, 05 Sep 2026 12:45:15 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.039025"
+    "fetched_at": "2026-09-05T23:55:14.698338"
   },
   {
     "id": "5a8b001b523a",
@@ -317,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/energy-markets-strained-by-iran-ukraine-wars-video",
     "published": "Sat, 05 Sep 2026 11:54:03 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.207082"
+    "fetched_at": "2026-09-05T23:55:14.784880"
   },
   {
     "id": "91f7378429f3",
@@ -327,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/opinion-how-women-are-shaping-drag-racing-video",
     "published": "Sat, 05 Sep 2026 11:31:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.355755"
+    "fetched_at": "2026-09-05T23:55:14.947397"
   },
   {
     "id": "0e5f6e43efa6",
@@ -337,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/leonardo-ceo-mariani-sees-ukraine-unit-as-acquisition-outpost",
     "published": "Sat, 05 Sep 2026 08:09:45 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.540733"
+    "fetched_at": "2026-09-05T23:55:15.058256"
   },
   {
     "id": "d687ced89b4d",
@@ -347,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/philippines-vp-duterte-posts-bail-says-she-fears-for-her-life",
     "published": "Sat, 05 Sep 2026 08:03:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.706117"
+    "fetched_at": "2026-09-05T23:55:15.147428"
   },
   {
     "id": "1983f5b4817b",
@@ -357,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/europe-s-wealth-managers-are-turning-their-backs-on-stock-rally",
     "published": "Sat, 05 Sep 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:49.877441"
+    "fetched_at": "2026-09-05T23:55:15.254842"
   },
   {
     "id": "ecdd96eff7f5",
@@ -367,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/malaysia-s-pas-party-wants-nationwide-gambling-license-review",
     "published": "Sat, 05 Sep 2026 05:25:55 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:50.075731"
+    "fetched_at": "2026-09-05T23:55:15.410857"
   },
   {
     "id": "89dc78e323fd",
@@ -377,27 +377,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
     "published": "Sat, 05 Sep 2026 02:45:07 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:50.266655"
-  },
-  {
-    "id": "21c28124012d",
-    "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
-    "title_cn": "Bloom Energy、Illumina、Everpure 将于本月加入标准普尔 500 指数",
-    "summary": "Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&amp;P 500 in the latest quarterly rebalance, S&amp;P Dow Jones Indices said Friday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
-    "published": "Fri, 04 Sep 2026 21:43:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-05T22:10:50.454799"
+    "fetched_at": "2026-09-05T23:55:15.519411"
   },
   {
     "id": "6b76b20b748d",
-    "title": "German Startup Isar’s Rocket Lifts Off on European Space Mission",
-    "title_cn": "德国初创公司 Isar 的火箭在欧洲太空任务中升空",
-    "summary": "An Isar Aerospace rocket lifted off from a launchpad in Norway as the German startup seeks to pull off the first commercial space mission to reach orbit from continental Europe.",
+    "title": "German Startup’s Rocket Deploys Satellites in a First for Europe",
+    "title_cn": "德国初创公司的火箭在欧洲首次部署卫星",
+    "summary": "An Isar Aerospace rocket blasted off from a launchpad in Norway and delivered a payload of satellites into orbit, marking a key step in Europe’s efforts to compete with US companies for commercial space missions.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/german-startup-isar-s-rocket-lifts-off-on-european-space-mission",
     "published": "Sat, 05 Sep 2026 20:24:16 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:51.463926"
+    "fetched_at": "2026-09-05T23:55:16.240992"
   },
   {
     "id": "760f13f49da3",
@@ -407,7 +397,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/apple-bets-on-foldable-iphone-under-new-ceo-video",
     "published": "Sat, 05 Sep 2026 12:23:38 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:51.620799"
+    "fetched_at": "2026-09-05T23:55:16.344809"
   },
   {
     "id": "8e2110478191",
@@ -417,17 +407,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
     "published": "Sat, 05 Sep 2026 11:07:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:51.795257"
+    "fetched_at": "2026-09-05T23:55:16.435224"
   },
   {
     "id": "96779e5da0c4",
     "title": "Nvidia Partner Hon Hai’s Sales Climb 52% With AI Server Momentum",
-    "title_cn": "Nvidia合作伙伴鸿海凭借AI服务器势头，销售额增长52%",
+    "title_cn": "Nvidia合作伙伴鸿海凭借AI服务器势头销售额增长52%",
     "summary": "Hon Hai Precision Industry Co. reported a 52% rise in monthly sales, lifted by demand for servers in a global race to build data centers and AI computational capacity.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
     "published": "Sat, 05 Sep 2026 07:45:26 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:51.950139"
+    "fetched_at": "2026-09-05T23:55:16.523567"
   },
   {
     "id": "4bbb709ee6b1",
@@ -437,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/abu-dhabi-s-g42-weighs-us-ownership-to-safeguard-ai-chip-access",
     "published": "Fri, 04 Sep 2026 12:50:43 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.121765"
+    "fetched_at": "2026-09-05T23:55:16.646863"
   },
   {
     "id": "2af5bb91e38b",
@@ -447,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/jump-trading-expands-office-space-in-hong-kong-s-ifc-building",
     "published": "Sat, 05 Sep 2026 02:58:08 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.288669"
+    "fetched_at": "2026-09-05T23:55:16.749152"
   },
   {
     "id": "86c3574aad9f",
@@ -457,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/japan-says-progress-made-on-550-billion-investment-pact-with-us",
     "published": "Sat, 05 Sep 2026 01:31:33 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.458517"
+    "fetched_at": "2026-09-05T23:55:16.857131"
   },
   {
     "id": "2c6d26b2269c",
@@ -467,27 +457,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/china-s-26-earnings-boom-lands-with-a-thud-in-the-stock-market",
     "published": "Sat, 05 Sep 2026 00:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.629639"
+    "fetched_at": "2026-09-05T23:55:16.976167"
   },
   {
-    "id": "4c33b69200e7",
-    "title": "Carney’s Push to Build Canadian Data Centers is Running Into Backlash",
-    "title_cn": "卡尼推动建立加拿大数据中心的努力遭到强烈反对",
-    "summary": "The data center backlash that has gripped US politics is spreading north, complicating Prime Minister Mark Carney’s efforts to attract investment in the rapidly expanding artificial intelligence infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/carney-s-push-to-build-canadian-data-centers-is-running-into-backlash",
-    "published": "Fri, 04 Sep 2026 16:59:33 GMT",
+    "id": "334a8295778f",
+    "title": "US Envoys Due in Kyiv After Putin Says Ending War ‘Not Simple’",
+    "title_cn": "普京表示结束战争“并不简单”，美国特使将抵达基辅",
+    "summary": "Russian President Vladimir Putin hosted US envoys Steve Witkoff and Jared Kushner for more than three hours of talks in Moscow that a Kremlin aide called “highly useful,” setting the stage for the pair’s planned trip to Kyiv to meet Ukrainian leaders on Sunday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-05/us-envoys-arrive-in-moscow-with-proposal-to-end-war-in-ukraine",
+    "published": "Sat, 05 Sep 2026 09:56:38 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.807466"
-  },
-  {
-    "id": "0b517b149639",
-    "title": "AI Cloud Firm Nscale Seeks $3.5 Billion in Pre-IPO Financing",
-    "title_cn": "人工智能云公司 Nscale 寻求 35 亿美元的 IPO 前融资",
-    "summary": "Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion in financing ahead of a planned initial public offering, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/ai-cloud-firm-nscale-seeking-3-5-billion-in-pre-ipo-financing",
-    "published": "Fri, 04 Sep 2026 17:41:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-05T22:10:52.952193"
+    "fetched_at": "2026-09-05T23:55:17.511213"
   },
   {
     "id": "6461f8ecd813",
@@ -497,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/trump-s-super-pac-to-pump-10-million-into-texas-to-boost-paxton",
     "published": "Sat, 05 Sep 2026 20:45:23 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.130478"
+    "fetched_at": "2026-09-05T23:55:17.598116"
   },
   {
     "id": "652bcdb19af7",
@@ -507,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/nigel-farage-s-reform-hits-roadblocks-in-quest-for-uk-power-after-funding-sting",
     "published": "Sat, 05 Sep 2026 18:29:30 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.301572"
+    "fetched_at": "2026-09-05T23:55:17.710154"
   },
   {
     "id": "96143b0f6ef7",
@@ -517,17 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/greek-premier-unveils-2-2-billion-in-economic-support-for-2027",
     "published": "Sat, 05 Sep 2026 18:20:51 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.441433"
-  },
-  {
-    "id": "334a8295778f",
-    "title": "Putin Tells US Envoys War Situation ‘Not Simple’ as Talks Begin",
-    "title_cn": "会谈开始时普京告诉美国特使战争局势“并不简单”",
-    "summary": "Russian President Vladimir Putin opened talks in the Kremlin with US envoys Steve Witkoff and Jared Kushner by calling the situation the sides have to resolve “not a simple one,” and asked them to pass on his best wishes to President Donald Trump.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-05/us-envoys-arrive-in-moscow-with-proposal-to-end-war-in-ukraine",
-    "published": "Sat, 05 Sep 2026 09:56:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.604766"
+    "fetched_at": "2026-09-05T23:55:17.836624"
   },
   {
     "id": "a1ee6c1398da",
@@ -537,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/vannacci-italy-s-rising-right-wing-star-has-yet-to-meet-meloni",
     "published": "Sat, 05 Sep 2026 16:13:40 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.760094"
+    "fetched_at": "2026-09-05T23:55:17.940220"
   },
   {
     "id": "313470a3c5c3",
@@ -547,17 +517,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/portugal-sees-no-threat-to-schengen-from-ceuta-migrant-surge",
     "published": "Sat, 05 Sep 2026 14:16:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:54.933405"
+    "fetched_at": "2026-09-05T23:55:18.031591"
   },
   {
     "id": "53336ab9ea67",
     "title": "Spotify’s Lorentzon Says He’d Leave Sweden If Wealth Tax Imposed",
-    "title_cn": "Spotify 的 Lorentzon 表示如果征收财富税他将离开瑞典",
+    "title_cn": "Spotify 的 Lorentzon 表示，如果征收财富税，他将离开瑞典",
     "summary": "Spotify Technology SA co-founder Martin Lorentzon said he would leave Sweden immediately if the country introduces new wealth taxes, escalating concerns that proposals being debated ahead of this month’s election could drive entrepreneurs and capital abroad.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/spotify-s-lorentzon-says-he-d-leave-sweden-if-wealth-tax-imposed",
     "published": "Sat, 05 Sep 2026 14:09:26 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.101102"
+    "fetched_at": "2026-09-05T23:55:18.134949"
   },
   {
     "id": "d4191ffdf08b",
@@ -567,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/us-strikes-three-iranian-tankers-in-retaliation-for-irgc-attacks",
     "published": "Sat, 05 Sep 2026 13:55:09 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.286800"
+    "fetched_at": "2026-09-05T23:55:18.245888"
   },
   {
     "id": "35da568bc527",
@@ -577,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/trump-s-embrace-of-ai-data-centers-adds-to-gop-s-midterm-peril",
     "published": "Sat, 05 Sep 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.448814"
+    "fetched_at": "2026-09-05T23:55:18.395747"
   },
   {
     "id": "33c111aec98f",
@@ -587,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/german-police-secure-explosive-devices-targeting-power-grid",
     "published": "Sat, 05 Sep 2026 13:47:32 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.601428"
+    "fetched_at": "2026-09-05T23:55:18.497123"
   },
   {
     "id": "5a7eab8c8a74",
@@ -597,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/trump-oil-deal-blindsides-us-energy-companies-video",
     "published": "Sat, 05 Sep 2026 13:14:32 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.737282"
+    "fetched_at": "2026-09-05T23:55:18.607217"
   },
   {
     "id": "5b3151a32e1b",
@@ -607,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/missouri-asks-us-supreme-court-to-restore-gop-backed-voting-map",
     "published": "Sat, 05 Sep 2026 12:44:37 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:55.896150"
+    "fetched_at": "2026-09-05T23:55:18.718149"
   },
   {
     "id": "b17e5b032c75",
@@ -617,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/putin-orders-no-airstrikes-on-kyiv-while-us-envoys-visit",
     "published": "Sat, 05 Sep 2026 12:04:22 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.062247"
+    "fetched_at": "2026-09-05T23:55:18.830738"
   },
   {
     "id": "b389e8a19044",
@@ -627,7 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/xi-s-big-personnel-reshuffle-picks-up-pace-as-new-faces-emerge",
     "published": "Fri, 04 Sep 2026 10:03:42 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.239881"
+    "fetched_at": "2026-09-05T23:55:18.955532"
   },
   {
     "id": "1ac1fd38c649",
@@ -637,7 +607,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/kyiv-adapts-to-constant-attack-by-russian-jet-powered-drones",
     "published": "Sat, 05 Sep 2026 07:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.404525"
+    "fetched_at": "2026-09-05T23:55:19.061117"
   },
   {
     "id": "c4c20f75a788",
@@ -647,7 +617,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/greek-premier-prepares-economic-support-plan-as-election-nears",
     "published": "Fri, 04 Sep 2026 07:04:30 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.568537"
+    "fetched_at": "2026-09-05T23:55:19.174574"
   },
   {
     "id": "9e699e6ad499",
@@ -657,7 +627,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/-we-can-only-win-the-rise-of-the-far-right-in-eastern-germany",
     "published": "Sat, 05 Sep 2026 06:15:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.730559"
+    "fetched_at": "2026-09-05T23:55:19.284433"
   },
   {
     "id": "b98282ad9328",
@@ -667,7 +637,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/burnham-gets-his-own-breathing-space-as-turmoil-engulfs-farage",
     "published": "Sat, 05 Sep 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:56.861325"
+    "fetched_at": "2026-09-05T23:55:19.390765"
   },
   {
     "id": "6519ca87c1ea",
@@ -677,16 +647,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/tetris-distances-itself-from-white-house-s-wall-building-game",
     "published": "Sat, 05 Sep 2026 00:17:38 GMT",
     "source": "International",
-    "fetched_at": "2026-09-05T22:10:57.025124"
-  },
-  {
-    "id": "f3dbb3e1cb76",
-    "title": "Trump Demands Rate Cut After Jobs Report",
-    "title_cn": "特朗普在就业报告后要求降息",
-    "summary": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Larry Sabato, founder and director of the University of Virginia Center for Politics, says next week's Republican midterm convention, headlined by President Trump, is unlikely to reshape the dynamics of competitive House races. Rep. Greg Casar, chair of the Congressional Progressive Caucus, discusses legislation he is proposing with Sen. Bernie Sanders that would permanently ban artificial superintelligence, temporarily pause advanced AI development, and establish a new federal AI regulator. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-04/balance-of-power-late-edition-09-04-2026-video",
-    "published": "Fri, 04 Sep 2026 23:13:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-05T22:10:57.203534"
+    "fetched_at": "2026-09-05T23:55:19.495613"
   }
 ]
