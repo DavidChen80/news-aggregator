@@ -1,12 +1,39 @@
 [
   {
+    "id": "226c61fe6d0c",
+    "title": "Bloomberg This Weekend: New Apple CEO, Product Launch (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-05/bloomberg-this-weekend-new-apple-ceo-product-launch-podcast",
+    "published": "Sat, 05 Sep 2026 15:43:43 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:47.214803"
+  },
+  {
+    "id": "0c51634b2b33",
+    "title": "US Strikes 3 Iranian Tankers, US Envoys Arrive in Russia, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-strikes-3-iranian-tankers-us-envoys-arrive-in-russia-more",
+    "published": "Sat, 05 Sep 2026 14:49:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:47.214818"
+  },
+  {
+    "id": "70f47ce96255",
+    "title": "US Envoys in Russia, Trump Downplays Iran, Pentagon Polygraphs",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-in-russia-trump-downplays-iran-pentagon-polygraphs",
+    "published": "Sat, 05 Sep 2026 13:34:17 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:47.214825"
+  },
+  {
     "id": "9fd9d943bcbb",
     "title": "Putin Pauses Ukraine War, Trump: Iran Conflict ‘Small Potatoes’",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/putin-pauses-ukraine-war-trump-iran-conflict-small-potatoes",
     "published": "Sat, 05 Sep 2026 12:33:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387632"
+    "fetched_at": "2026-09-05T15:56:47.214831"
   },
   {
     "id": "9d1082823dc0",
@@ -15,7 +42,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/us-farmers-sell-into-long-hoped-for-crop-price-rally",
     "published": "Sat, 05 Sep 2026 12:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387645"
+    "fetched_at": "2026-09-05T15:56:47.214837"
   },
   {
     "id": "37230975572c",
@@ -24,7 +51,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/us-envoys-arrive-in-russia-trump-downplays-iran-conflict-more",
     "published": "Sat, 05 Sep 2026 11:37:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387652"
+    "fetched_at": "2026-09-05T15:56:47.214842"
   },
   {
     "id": "fefe5e083b6d",
@@ -33,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-iran-conflict-small-potatoes-us-envoys-in-russia-more",
     "published": "Sat, 05 Sep 2026 10:32:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387658"
+    "fetched_at": "2026-09-05T15:56:47.214848"
   },
   {
     "id": "71b1f01ebc04",
@@ -42,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/bloomberg-daybreak-holiday-apple-oracle-paramount-podcast",
     "published": "Sat, 05 Sep 2026 10:23:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387664"
+    "fetched_at": "2026-09-05T15:56:47.214858"
   },
   {
     "id": "862865d943dc",
@@ -51,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/jaguar-land-rover-to-cut-4-000-jobs-as-sales-slide-times-says",
     "published": "Sat, 05 Sep 2026 09:48:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387670"
+    "fetched_at": "2026-09-05T15:56:47.214864"
   },
   {
     "id": "73d7c8fa2e07",
@@ -60,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-demands-lower-rates-trump-eases-processing-for-ranchers",
     "published": "Sat, 05 Sep 2026 03:37:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387675"
+    "fetched_at": "2026-09-05T15:56:47.214870"
   },
   {
     "id": "3175cda0534d",
@@ -69,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked-mtns5tlw",
     "published": "Sat, 05 Sep 2026 02:45:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387685"
+    "fetched_at": "2026-09-05T15:56:47.214876"
   },
   {
     "id": "c12300fa3a77",
@@ -78,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-beef-processing-for-ranchers-clancy-mistrial-more-mtnqpyzq",
     "published": "Sat, 05 Sep 2026 02:05:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387692"
+    "fetched_at": "2026-09-05T15:56:47.214882"
   },
   {
     "id": "46e6c5d95ad2",
@@ -87,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-processing-for-ranchers-mail-ballot-change-blocked",
     "published": "Sat, 05 Sep 2026 01:03:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387698"
+    "fetched_at": "2026-09-05T15:56:47.214887"
   },
   {
     "id": "3d0903ddef48",
@@ -96,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-05/singapore-stablecoin-license-leaves-issuers-weighing-benefits",
     "published": "Sat, 05 Sep 2026 01:00:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387703"
+    "fetched_at": "2026-09-05T15:56:47.214893"
   },
   {
     "id": "3600858f7379",
@@ -105,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-05/trump-eases-beef-processing-for-ranchers-clancy-mistrial-more",
     "published": "Sat, 05 Sep 2026 00:04:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387709"
+    "fetched_at": "2026-09-05T15:56:47.214898"
   },
   {
     "id": "58ad8b61ada9",
@@ -114,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/hong-kong-s-flat-iron-bumbles-foray-into-the-sausage-roll-business",
     "published": "Sat, 05 Sep 2026 00:00:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387714"
+    "fetched_at": "2026-09-05T15:56:47.214903"
   },
   {
     "id": "3778fd4bc9d1",
@@ -123,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-lululemon-s-bad-streak-podcast",
     "published": "Fri, 04 Sep 2026 23:10:33 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387719"
+    "fetched_at": "2026-09-05T15:56:47.214909"
   },
   {
     "id": "d40ecc955d1b",
@@ -132,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-04/trump-eases-processing-for-ranchers-mail-ballot-change-blocked",
     "published": "Fri, 04 Sep 2026 23:09:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387725"
+    "fetched_at": "2026-09-05T15:56:47.214914"
   },
   {
     "id": "3479587ecf70",
@@ -141,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-heineken-at-the-us-open-podcast",
     "published": "Fri, 04 Sep 2026 23:05:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387730"
+    "fetched_at": "2026-09-05T15:56:47.214920"
   },
   {
     "id": "514ecb28779e",
@@ -150,34 +177,61 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-businessweek-daily-us-open-fan-experience-podcast",
     "published": "Fri, 04 Sep 2026 22:49:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387735"
+    "fetched_at": "2026-09-05T15:56:47.214925"
   },
   {
-    "id": "7673826e5295",
-    "title": "Bloomberg Hot Pursuit!: Kai Lermen (Podcast)",
-    "summary": "Source: Bloomberg, 64:43",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-04/bloomberg-hot-pursuit-kai-lermen-podcast",
-    "published": "Fri, 04 Sep 2026 22:30:51 GMT",
+    "id": "d1e7523d27d8",
+    "title": "Jobs Surge Raises Odds of September Fed Hike",
+    "summary": "On Bloomberg This Weekend, Seaport Research Partner Managing Director & Chief Equity Strategist Jonathan Golub says a stronger-than-expected US jobs report reinforces the case for the Federal Reserve to raise interest rates, despite President Donald Trump’s calls for lower borrowing costs. Golub also says to hosts Christina Ruffini and Jeff Mason that his bigger concern is longer-term bond yields as heavy AI investment and government borrowing compete for capital. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
+    "published": "Sat, 05 Sep 2026 15:37:28 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387740"
+    "fetched_at": "2026-09-05T15:56:48.169232"
   },
   {
-    "id": "9418daa87fee",
-    "title": "Stock Movers: Lululemon, Deere, Tesla (Podcast)",
-    "summary": "Source: Bloomberg, 5:41",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-04/stock-movers-lululemon-deere-tesla-podcast",
-    "published": "Fri, 04 Sep 2026 22:27:58 GMT",
+    "id": "64eb4d798a12",
+    "title": "The Hidden Cost of America’s Bureaucracy",
+    "summary": "In her new book The Time Tax, Atlantic staff writer Annie Lowrey examines how paperwork, delays and administrative hurdles consume Americans’ time and can make government benefits and services harder to access. Joining Christina Ruffini and Jeff Mason on Bloomberg This Weekend, Lowrey argues those burdens fall disproportionately on lower-income Americans and says simpler applications, better data sharing and streamlined tax filing could help reduce the cost. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/the-hidden-cost-of-america-s-bureaucracy-video",
+    "published": "Sat, 05 Sep 2026 15:15:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387746"
+    "fetched_at": "2026-09-05T15:56:48.169265"
   },
   {
-    "id": "9b48039a9870",
-    "title": "Trump Eases Processing for Ranchers, Clancy Mistrial, More",
-    "summary": "Source: Bloomberg, 5:46",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-04/trump-eases-processing-for-ranchers-clancy-mistrial-more",
-    "published": "Fri, 04 Sep 2026 22:12:07 GMT",
+    "id": "9162eaae0eea",
+    "title": "US Strikes Iranian Tankers After Attack on US Warships",
+    "summary": "Bloomberg This Weekend has breaking news that US forces struck three Iranian crude carriers after the Islamic Revolutionary Guard Corps launched ballistic missiles toward two US Navy warships, according to US Central Command. The renewed fighting around the Strait of Hormuz adds pressure to shipping and energy markets as President Donald Trump continues to downplay the conflict as something short of war. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/us-strikes-iranian-tankers-after-attack-on-us-warships-video",
+    "published": "Sat, 05 Sep 2026 14:34:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.387751"
+    "fetched_at": "2026-09-05T15:56:48.169272"
+  },
+  {
+    "id": "a341a27b5736",
+    "title": "Esper Raises Concern Over Pentagon Leadership Loss",
+    "summary": "On Bloomberg This Weekend Former Defense Secretary Mark Esper calls the Pentagon’s polygraph testing of roughly 50 Joint Staff members unprecedented in scale as officials investigate leaks about US munitions stocks. Esper tells hosts Christina Ruffini and Jeff Mason that he is less concerned about immediate combat readiness than the institutional impact of leadership turnover and its potential effect on the military’s tradition of an apolitical officer corps. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video",
+    "published": "Sat, 05 Sep 2026 14:26:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:48.169278"
+  },
+  {
+    "id": "63d1b8483968",
+    "title": "EU Envoy Urges Maximum Pressure on Russia",
+    "summary": "EU Ambassador to the United States Jovita Neliupšienė joins Bloomberg This Weekend and discusses with hosts Christina Ruffini and Jeff Mason that Europe must keep supporting Ukraine while applying “maximum pressure” on Moscow because Russia has not changed its war aims. The comments come as US envoys Steve Witkoff and Jared Kushner visit Moscow before heading to Kyiv in an effort to revive stalled peace negotiations. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video",
+    "published": "Sat, 05 Sep 2026 13:55:08 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:48.169284"
+  },
+  {
+    "id": "e9e4004d4e6b",
+    "title": "By The Way: Headlines You Should See",
+    "summary": "Canned cocktails, the science behind the Gen Z stare and the US Open becoming a food fest: Join Bloomberg's Lisa Mateo, Christina Ruffini and Jeff Mason to hear about the headlines from this week you may have missed but need to check out. Watch, on Bloomberg This Weekend! Live Saturday and Sunday, 7am - 10am EST on Bloomberg.com  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video",
+    "published": "Sat, 05 Sep 2026 13:20:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:48.169289"
   },
   {
     "id": "5a724f69b882",
@@ -186,7 +240,16 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
     "published": "Sat, 05 Sep 2026 12:46:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.766994"
+    "fetched_at": "2026-09-05T15:56:48.169295"
+  },
+  {
+    "id": "0e089d4c7187",
+    "title": "Singapore Government Won’t Interfere in Decisions on Air India",
+    "summary": "The Singapore government said it will not interfere in any decision that Singapore Airlines Ltd. makes in Air India Ltd., which is said to be seeking financial aid from its shareholders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india",
+    "published": "Sat, 05 Sep 2026 12:45:15 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-05T15:56:48.169300"
   },
   {
     "id": "5a8b001b523a",
@@ -195,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/energy-markets-strained-by-iran-ukraine-wars-video",
     "published": "Sat, 05 Sep 2026 11:54:03 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767007"
+    "fetched_at": "2026-09-05T15:56:48.169306"
   },
   {
     "id": "91f7378429f3",
@@ -204,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-05/opinion-how-women-are-shaping-drag-racing-video",
     "published": "Sat, 05 Sep 2026 11:31:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767013"
+    "fetched_at": "2026-09-05T15:56:48.169311"
   },
   {
     "id": "0e5f6e43efa6",
@@ -213,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/leonardo-ceo-mariani-sees-ukraine-unit-as-acquisition-outpost",
     "published": "Sat, 05 Sep 2026 08:09:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767018"
+    "fetched_at": "2026-09-05T15:56:48.169316"
   },
   {
     "id": "d687ced89b4d",
@@ -222,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/philippines-vp-duterte-posts-bail-says-she-fears-for-her-life",
     "published": "Sat, 05 Sep 2026 08:03:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767024"
+    "fetched_at": "2026-09-05T15:56:48.169321"
   },
   {
     "id": "1983f5b4817b",
@@ -231,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/europe-s-wealth-managers-are-turning-their-backs-on-stock-rally",
     "published": "Sat, 05 Sep 2026 08:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767030"
+    "fetched_at": "2026-09-05T15:56:48.169327"
   },
   {
     "id": "ecdd96eff7f5",
@@ -240,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/malaysia-s-pas-party-wants-nationwide-gambling-license-review",
     "published": "Sat, 05 Sep 2026 05:25:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767035"
+    "fetched_at": "2026-09-05T15:56:48.169332"
   },
   {
     "id": "89dc78e323fd",
@@ -249,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan",
     "published": "Sat, 05 Sep 2026 02:45:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767040"
+    "fetched_at": "2026-09-05T15:56:48.169338"
   },
   {
     "id": "21c28124012d",
@@ -258,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september",
     "published": "Fri, 04 Sep 2026 21:43:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767046"
+    "fetched_at": "2026-09-05T15:56:48.169343"
   },
   {
     "id": "0a3b2bd55ecd",
@@ -267,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/emerging-market-stocks-currencies-rise-as-fed-hike-bets-ease",
     "published": "Fri, 04 Sep 2026 04:11:05 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767051"
+    "fetched_at": "2026-09-05T15:56:48.169348"
   },
   {
     "id": "fd99b1658cb4",
@@ -276,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout",
     "published": "Fri, 04 Sep 2026 20:14:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767056"
+    "fetched_at": "2026-09-05T15:56:48.169354"
   },
   {
     "id": "82d95880e93a",
@@ -285,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu",
     "published": "Fri, 04 Sep 2026 20:52:08 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767062"
+    "fetched_at": "2026-09-05T15:56:48.169359"
   },
   {
     "id": "aa91694f1ad4",
@@ -294,69 +357,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-04/s-p-downgrades-senegal-after-government-unveils-debt-rework",
     "published": "Fri, 04 Sep 2026 20:51:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767067"
-  },
-  {
-    "id": "18284ce43b24",
-    "title": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
-    "summary": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
-    "published": "Fri, 04 Sep 2026 11:50:13 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767073"
-  },
-  {
-    "id": "432bb7488863",
-    "title": "Hedge Funds Hike Bullish Oil Bets to May High as Iran War Flares",
-    "summary": "Hedge funds turned the most bullish on Brent crude since May as a fresh spate of fighting between the US and Iran heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/hedge-funds-hike-bullish-oil-bets-to-may-high-as-iran-war-flares",
-    "published": "Fri, 04 Sep 2026 20:38:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767078"
-  },
-  {
-    "id": "8a91fb322281",
-    "title": "Lutnick to Review Pentagon Deals Involving Cerberus Companies",
-    "summary": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a US official.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
-    "published": "Fri, 04 Sep 2026 20:27:13 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767083"
-  },
-  {
-    "id": "23db581672bb",
-    "title": "Dollar Posts Weekly Loss as Yen Jumps Amid Shifting Rate Bets",
-    "summary": "The dollar slid to start September as mixed signals on the Federal Reserve’s next move kept traders on edge ahead of a pivotal inflation report, while a surging yen reverberated across global currency markets.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-04/us-dollar-slumps-to-start-september-as-yen-surges-on-rate-bets",
-    "published": "Fri, 04 Sep 2026 00:29:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767089"
-  },
-  {
-    "id": "78862f03d476",
-    "title": "Algorithm Research CEO on Interest Rates Expectations",
-    "summary": "Ketaki Sharma, founder and CEO of Algorithm Research, says the inflation is the main factor to watch in assessing the the bond market and the Federal Reserve’s next move. She speaks on \"Horizons: Middle East and Africa.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-04/algorithm-research-ceo-on-interest-rates-expectations-video",
-    "published": "Fri, 04 Sep 2026 20:14:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767094"
-  },
-  {
-    "id": "a331320fefcb",
-    "title": "Honey Deuces, Tickets, Merch: US Open Spending",
-    "summary": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how people are spending their money at the US Open. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-04/honey-deuces-tickets-merch-us-open-spending-video",
-    "published": "Fri, 04 Sep 2026 20:10:22 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767100"
-  },
-  {
-    "id": "ee948b5479a6",
-    "title": "Stocks Fall as Jobs Fuel Bets Fed Will Raise Rates: Markets Wrap",
-    "summary": "A stronger-than-anticipated increase in US jobs drove stocks and short-dated notes lower, with traders boosting their bets the Federal Reserve will raise rates this month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 03 Sep 2026 22:14:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-05T12:57:47.767105"
+    "fetched_at": "2026-09-05T15:56:48.169368"
   }
 ]
