@@ -1,403 +1,513 @@
 [
   {
-    "id": "5e261e48d17d",
-    "title": "25 Years Since 9/11, Diesel Above $6 A Gallon, More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 6:20",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/25-years-since-9-11-diesel-above-6-a-gallon-more",
-    "published": "Fri, 11 Sep 2026 09:29:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:18.811231"
-  },
-  {
-    "id": "3e87960d0f34",
-    "title": "Trump Rallies the Faithful, but the Midterm Math Is Tough",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/trump-rallies-the-faithful-but-the-midterm-math-is-tough",
-    "published": "Fri, 11 Sep 2026 09:17:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:18.908108"
-  },
-  {
-    "id": "0d9b067b3c92",
-    "title": "$6 A Gallon Diesel, Greg Jensen: AI Will Kill People, More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 7:05",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/-6-a-gallon-diesel-greg-jensen-ai-will-kill-people-more",
-    "published": "Fri, 11 Sep 2026 08:46:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:18.998172"
-  },
-  {
-    "id": "6b5e83ab416b",
-    "title": "Stock Movers: Novo Nordisk, Puma, Trainline (Podcast)",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 4:32",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/stock-movers-novo-nordisk-puma-trainline-podcast",
-    "published": "Fri, 11 Sep 2026 08:39:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.099286"
-  },
-  {
-    "id": "c82c971d603d",
-    "title": "Global Bond Selloff, UK July GDP up 0.4%. More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 7:19",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/global-bond-selloff-uk-july-gdp-up-0-4-more",
-    "published": "Fri, 11 Sep 2026 07:51:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.198176"
-  },
-  {
-    "id": "8ffb4522dfa4",
-    "title": "UK GDP Unexpectedly Rises With Help From AI in Boost for Andy Burnham",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "AI boosts UK economy; firms call for energy bills help",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/uk-gdp-unexpectedly-rises-with-help-from-ai-in-boost-for-andy-burnham",
-    "published": "Fri, 11 Sep 2026 07:13:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.300907"
-  },
-  {
-    "id": "0f3feabd3e31",
-    "title": "Bond Bears Roar, UK Growth Smashes Estimates, More",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 7:19",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/bond-bears-roar-uk-growth-smashes-estimates-more",
-    "published": "Fri, 11 Sep 2026 06:44:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.397315"
-  },
-  {
-    "id": "b120d7d1e4de",
-    "title": "Global Bond Selloff Pushes US 10-Year Treasury Yield Toward 5%",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/global-bond-selloff-pushes-us-10-year-treasury-yield-toward-5",
-    "published": "Fri, 11 Sep 2026 06:18:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.497151"
-  },
-  {
-    "id": "bba6c3bda74f",
-    "title": "Stock Movers: SK Hynix, BHP, Enflame (Podcast)",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 5:19",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/stock-movers-sk-hynix-bhp-enflame-podcast",
-    "published": "Fri, 11 Sep 2026 06:10:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.611221"
-  },
-  {
-    "id": "9528de0088cc",
-    "title": "Bloomberg Daybreak Europe: Bond Selloff Accelerates (Podcast)",
+    "id": "3f1b094fbca9",
+    "title": "Stocks Open Higher, Somber Remembrances on 9/11, More",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/bloomberg-daybreak-europe-bond-selloff-accelerates-podcast",
-    "published": "Fri, 11 Sep 2026 05:52:52 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/stocks-open-higher-somber-remembrances-on-9-11-more",
+    "published": "Fri, 11 Sep 2026 13:39:40 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.694315"
+    "fetched_at": "2026-09-11T13:52:22.487916"
   },
   {
-    "id": "190ffc902b78",
-    "title": "Bond Selloff Accelerates, OpenAI Weighs Slowdown, More",
+    "id": "6a68e7501c9b",
+    "title": "Global Fintech Fest Wrap: UPI, AI Agents, Tokenized Cows and Traffic",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 8:43",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/bond-selloff-accelerates-openai-weighs-slowdown-more",
-    "published": "Fri, 11 Sep 2026 05:45:17 GMT",
+    "summary": "Finding a ride home from the GFF was one of the biggest challenges.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/global-fintech-fest-wrap-upi-ai-agents-tokenized-cows-and-traffic",
+    "published": "Fri, 11 Sep 2026 13:23:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.783437"
+    "fetched_at": "2026-09-11T13:52:22.628634"
   },
   {
-    "id": "fca28cf745a2",
-    "title": "‘I’m the House Now’: Before Scott Bessent, There Was Mr. Yen",
+    "id": "13f080be981c",
+    "title": "KBW’s Tom Michaud Recalls the Shock and Road Back from 9/11’s Tragedy",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The US Treasury Secretary isn’t the first to go up against currency traders.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/-i-m-the-house-now-before-scott-bessent-there-was-mr-yen",
-    "published": "Fri, 11 Sep 2026 04:32:18 GMT",
+    "summary": "KBW’s CEO helped to rebuild the firm after a third of its employees were killed in the terrorist attack.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/kbw-s-tom-michaud-recalls-the-shock-and-road-back-from-9-11-s-tragedy",
+    "published": "Fri, 11 Sep 2026 13:20:42 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.870722"
+    "fetched_at": "2026-09-11T13:52:22.743632"
   },
   {
-    "id": "88f5075e67ac",
-    "title": "Polish Stocks Beat US to Hit Record as $1 Trillion Economy Grows",
+    "id": "de68a44d5d10",
+    "title": "Macy’s Earnings: Global Economic Uncertainty Dulls a Good Report",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The $1 trillion economy is the region’s powerhouse and corporate activity is picking up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/polish-stocks-beat-us-to-hit-record-as-1-trillion-economy-grows",
-    "published": "Fri, 11 Sep 2026 04:30:01 GMT",
+    "summary": "Macy’s announced a quarterly report that beat expectations, but that isn’t enough these days.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/macy-s-earnings-global-economic-uncertainty-dulls-a-good-report",
+    "published": "Fri, 11 Sep 2026 13:14:39 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:19.965008"
+    "fetched_at": "2026-09-11T13:52:22.891871"
   },
   {
-    "id": "2e1a45aab425",
-    "title": "China Races US for AI Lead Riding Wave of Data Centers in Its Hinterland",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Cheap land and energy lead to wave of data center building far from megacities.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/china-races-us-for-ai-lead-riding-wave-of-data-centers-in-its-hinterland",
-    "published": "Fri, 11 Sep 2026 04:20:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.055878"
-  },
-  {
-    "id": "a455acfd9e9c",
-    "title": "Trump/Vance GOP Convention Remarks, Oracle Cloud Growth, More",
+    "id": "2fba25cd6b02",
+    "title": "Stock Movers: KR, ORCL, RH (Podcast)",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/trump-vance-gop-convention-remarks-oracle-cloud-growth-more",
-    "published": "Fri, 11 Sep 2026 03:45:52 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/stock-movers-kr-orcl-rh-podcast",
+    "published": "Fri, 11 Sep 2026 13:11:17 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.149574"
+    "fetched_at": "2026-09-11T13:52:23.021797"
   },
   {
-    "id": "19fdf9fa04c3",
-    "title": "True Fitness, True Yoga Shut Singapore Gyms Amid Liquidation",
+    "id": "ba030cca80d7",
+    "title": "French Economic Woes Deepen as Elections Loom in Europe",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Gym chains True Fitness Pte. and True Yoga Pte. have shut all their clubs in Singapore after being placed under provisional liquidation, adding to a string of fitness closures in the city-state in recent years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/true-fitness-true-yoga-shut-singapore-gyms-as-liquidation-hits",
-    "published": "Fri, 11 Sep 2026 02:10:26 GMT",
+    "summary": "A growth forecast downgrade highlights the nation’s fiscal challenges",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/french-economic-woes-deepen-as-elections-loom-in-europe",
+    "published": "Fri, 11 Sep 2026 13:00:09 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.243992"
+    "fetched_at": "2026-09-11T13:52:23.146954"
   },
   {
-    "id": "2e80f6d8fd9a",
-    "title": "Trump/Vance Speak at GOP Convention, Oracle Beats, More",
+    "id": "edc1c3300728",
+    "title": "Next Africa: The Ambitious Plan to Revive a Defunct Oil Refinery",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/trump-vance-speak-at-gop-convention-oracle-beats-more",
-    "published": "Fri, 11 Sep 2026 03:12:23 GMT",
+    "summary": "South Africa aims to build a gigantic crude-processing hub",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/next-africa-the-ambitious-plan-to-revive-a-defunct-oil-refinery",
+    "published": "Fri, 11 Sep 2026 13:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.334433"
+    "fetched_at": "2026-09-11T13:52:23.280832"
   },
   {
-    "id": "26409b91fcf2",
-    "title": "World-First Australian Work From Home Laws Face Uncertain Future",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "A world-first Australian plan to enshrine employees’ rights to work from home in the state of Victoria faces an uncertain future as it runs into fierce pushback from the business sector, the threat of legal action and political opposition.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/world-first-australian-work-from-home-laws-face-uncertain-future",
-    "published": "Fri, 11 Sep 2026 02:05:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.428613"
-  },
-  {
-    "id": "842f61327589",
-    "title": "JD Vance Speaks at GOP Convention, Oracle Earnings Beat, More",
+    "id": "87c9ff3292c9",
+    "title": "25 Years Since 9/11, Inflation Reading Adds to Fed Pressures",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/jd-vance-speaks-at-gop-convention-oracle-earnings-beat-more",
-    "published": "Fri, 11 Sep 2026 01:46:12 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/25-years-since-9-11-inflation-reading-adds-to-fed-pressures",
+    "published": "Fri, 11 Sep 2026 12:52:52 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.530206"
+    "fetched_at": "2026-09-11T13:52:23.432475"
   },
   {
-    "id": "2affab4fd847",
-    "title": "Oracle Revenue Beats, Day 2 of GOP Midterm Convention, More",
+    "id": "9a6b1c320e0d",
+    "title": "Votes and Verdicts: Kalshi/SCOTUS, DOJ/Google, Nvidia Antitrust",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Prediction-markets litigation involving Kalshi, Robinhood and others has arrived at the Supreme Court’s doorstep. Elliott Stein’s analysis of that leads this episode of Bloomberg Intelligence’s Votes and Verdicts podcast, recorded on Sept. 10. He also shares his thoughts on litigation tied to President Donald Trump’s debanking claims against Capital One and lawsuits challenging New York City’s rent freeze for rent-stabilized apartments. Justin Teresi examines a remedies order in the DOJ’s antitr",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/votes-and-verdicts-kalshi-scotus-doj-google-nvidia-antitrust",
+    "published": "Fri, 11 Sep 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:23.577931"
+  },
+  {
+    "id": "16e74ed9cb7a",
+    "title": "France’s Sputtering Economy Gets an Orange Alert",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "With growth slowing sharply and an electoral cycle curbing fiscally prudent actions, how long before the alert turns red?",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/france-s-sputtering-economy-gets-an-orange-alert",
+    "published": "Fri, 11 Sep 2026 11:41:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:23.719160"
+  },
+  {
+    "id": "db7a5b63c1d6",
+    "title": "Marking 25 Years Since 9/11, US Diesel Passes $6 a Gallon, More.",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-11/oracle-revenue-beats-day-2-of-gop-midterm-convention-more",
-    "published": "Fri, 11 Sep 2026 00:48:15 GMT",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/marking-25-years-since-9-11-us-diesel-passes-6-a-gallon-more",
+    "published": "Fri, 11 Sep 2026 11:32:29 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:20.624757"
+    "fetched_at": "2026-09-11T13:52:23.870910"
   },
   {
-    "id": "30ee1bdf85f1",
-    "title": "Aareal Works With Alvarez & Marsal on SRT Amid Push for Growth",
+    "id": "c12158b31b84",
+    "title": "Next Africa: Why Investors Are Bullish on Kenya (Podcast)",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Aareal Bank is working with Alvarez &amp; Marsal on a deal to offload credit risk as the German lender pursues growth across European property markets and eyes a potential acquisition at home.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/aareal-works-with-alvarez-marsal-on-srt-amid-push-for-growth",
-    "published": "Fri, 11 Sep 2026 09:39:59 GMT",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/next-africa-why-investors-are-bullish-on-kenya-podcast",
+    "published": "Fri, 11 Sep 2026 11:08:41 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.097930"
+    "fetched_at": "2026-09-11T13:52:24.028672"
   },
   {
-    "id": "1d59b09ef0ad",
-    "title": "Gold Rises Ahead of US CPI Print That Could Shape Fed Rate Bets",
+    "id": "3d7d7bcd9e33",
+    "title": "Private Credit Jenga Tower Teeters as Treasuries Climb",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Gold rose as traders waited for the August US inflation report for a clear signal on whether the Federal Reserve may hike interest rates next week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/gold-holds-drop-as-rising-oil-inflation-bolster-rate-hike-bets",
-    "published": "Thu, 10 Sep 2026 23:34:43 GMT",
+    "summary": "Sweeping selloff raises questions about risk-reward in direct lending",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/private-credit-jenga-tower-teeters-as-treasuries-climb",
+    "published": "Fri, 11 Sep 2026 11:08:28 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.188519"
+    "fetched_at": "2026-09-11T13:52:24.159841"
   },
   {
-    "id": "54907bdf6c85",
-    "title": "Scott Bessent 'May Have Overplayed His Hand'",
+    "id": "5042878de93a",
+    "title": "Stock Movers: ORCL, ADBE, MSFT (Podcast)",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Bond bears are pushing benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week. Treasury Secretary Scott Bessent dismissed concerns about the US bond market after Thursday's smaller-than-expected debt buyback operation sent yields to multi-year highs. The Treasury market is in \"very good shape,\" Bessent said in an interview with Steve Bannon. Speaking to Caroline Hepker and Francine Lacqua on Bloomberg Radio Julien Lafargue, Chief Market Strategist at Barclays Private Bank said that Bessent may have overplayed his hand. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/scott-bessent-may-have-overplayed-his-hand-video",
-    "published": "Fri, 11 Sep 2026 09:31:07 GMT",
+    "summary": "Source: Bloomberg, 4:45",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/stock-movers-orcl-adbe-msft-podcast",
+    "published": "Fri, 11 Sep 2026 11:02:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.285974"
+    "fetched_at": "2026-09-11T13:52:24.304350"
   },
   {
-    "id": "2b063c300c68",
-    "title": "The Man Spending $70,000 To Play 100 Top US Golf Courses",
+    "id": "27beff99de79",
+    "title": "Farmers Turn to AI, Chatbots in Battle to Maximize Harvests",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Daniel Belk turned a pandemic-era career setback into two businesses. Then, in January, he sold his stake in one of them for $1 million. His next move: spending the year trying to play America’s top 100 public golf courses. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/the-man-spending-70-000-to-play-100-top-us-golf-courses",
-    "published": "Fri, 11 Sep 2026 09:31:01 GMT",
+    "summary": "One of the world’s oldest industries is embracing the age of the chatbot.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/farmers-turn-to-ai-chatbots-in-battle-to-maximize-harvests",
+    "published": "Fri, 11 Sep 2026 11:01:10 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.386601"
+    "fetched_at": "2026-09-11T13:52:24.443924"
   },
   {
-    "id": "23bd3b8b4ae0",
-    "title": "Rising Bond Yields Are Driving US Stocks Toward a Correction: Markets Pulse",
+    "id": "0c5a239ae150",
+    "title": "Here's Why Russia's Elections Matter For Putin (Podcast)",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The escalating bond selloff is driving US Treasury yields toward levels that threaten to deal a significant blow to the stock market, according to the latest Markets Pulse survey.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/rising-bond-yields-are-driving-us-stocks-toward-a-correction-markets-pulse",
-    "published": "Fri, 11 Sep 2026 09:31:00 GMT",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/here-s-why-russia-s-elections-matter-for-putin-podcast",
+    "published": "Fri, 11 Sep 2026 10:50:17 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.489286"
+    "fetched_at": "2026-09-11T13:52:24.565427"
   },
   {
-    "id": "5803a73335f8",
-    "title": "India FX Deposits to Help Earn More Revenue, RBI’s Malhotra Says",
+    "id": "9962f70adcf1",
+    "title": "Inflation Report Awaited for Clues on What Fed Does Next",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "India’s central bank rejected estimates that its record foreign-currency deposit drive will prove costly, saying the inflows will instead generate additional income for the Reserve Bank of India as it deploys the dollars overseas, Governor Sanjay Malhotra said Friday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/india-s-fx-deposits-to-help-earn-more-revenue-says-malhotra",
-    "published": "Fri, 11 Sep 2026 09:22:14 GMT",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/inflation-report-awaited-for-clues-on-what-fed-does-next",
+    "published": "Fri, 11 Sep 2026 10:50:05 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.600870"
+    "fetched_at": "2026-09-11T13:52:24.708311"
   },
   {
-    "id": "c401df2e77c6",
-    "title": "Efron: Iran War Solved None of Israel’s Problems",
+    "id": "4f869c60e4d8",
+    "title": "9/11 at 25 Years, Diesel Rises Above $6 a Gallon, More",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The UN's atomic watchdog IAEA says it has observed construction activity at Iran's Pickaxe Mountain. That's after President Trump drew attention to the suspected nuclear site in public comments at least twice in the last week. Shira Efron, Distinguished Chair for Israel Policy at RAND spoke to Bloomberg’s Abeer Abu Omar about the activity in Iran and what this means for Israel especially as election looms in the country. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/efron-iran-war-solved-none-of-israel-s-problems-video",
-    "published": "Fri, 11 Sep 2026 09:20:53 GMT",
+    "summary": "Source: Bloomberg, 6:15",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/9-11-at-25-years-diesel-rises-above-6-a-gallon-more",
+    "published": "Fri, 11 Sep 2026 10:28:32 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.702561"
+    "fetched_at": "2026-09-11T13:52:24.832226"
   },
   {
-    "id": "259b37a743d0",
-    "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5%",
+    "id": "4e63588b2656",
+    "title": "Top European Bank Bosses Call for Faster Action to Spur Lending",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Bond bears have pushed benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/global-bond-selloff-sends-10-year-treasury-yields-to-cusp-of-5",
-    "published": "Fri, 11 Sep 2026 00:13:24 GMT",
+    "summary": "The heads of eleven top European lenders, including Banco Santander SA, BNP Paribas SA, Barclays Plc and UBS Group AG, have joined forces to push for swifter action on the European Union’s plans to overhaul bank regulation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/top-european-bank-bosses-call-for-faster-action-to-spur-lending",
+    "published": "Fri, 11 Sep 2026 10:15:55 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.799138"
+    "fetched_at": "2026-09-11T13:52:24.974012"
   },
   {
-    "id": "9f815f7ac460",
-    "title": "NSE Downsizes India IPO in Sign of Mounting Valuation Concern",
+    "id": "2db2341e4c5a",
+    "title": "Merryn Talks Money: Bessent, Bond Yields and AI Bubble (Podcast)",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "National Stock Exchange of India Ltd., the world’s largest derivatives exchange by volume, has downsized its initial public offering to $2.4 billion, a sign of rising concern over the willingness of investors to buy into the deal at the valuation the firm had been seeking.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/nse-downsizes-india-ipo-signaling-mounting-valuation-concern",
-    "published": "Thu, 10 Sep 2026 17:48:49 GMT",
+    "summary": "Source: Bloomberg, 27:12",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-11/merryn-talks-money-bessent-bond-yields-and-ai-bubble-podcast",
+    "published": "Fri, 11 Sep 2026 10:11:46 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.909241"
-  },
-  {
-    "id": "415492ad9517",
-    "title": "IEA Cuts Its Forecast for Oil Demand",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The International Energy Agency cut its forecast for oil demand and said consumption may have to decline further in the coming months as the Iran war drags on and consumers are forced to adjust to lower supply. IEA oil industry and markets head Toril Bosoni discusses the forecast on Bloomberg Television. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/iea-cuts-its-forecast-for-oil-demand-video",
-    "published": "Fri, 11 Sep 2026 09:12:56 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:21.998119"
+    "fetched_at": "2026-09-11T13:52:25.112410"
   },
   {
     "id": "96312230b716",
-    "title": "Stocks and Treasuries Find Relief Before CPI Print: Markets Wrap",
+    "title": "Stocks, Bonds Rise as Oil Drop Outweighs CPI Data: Markets Wrap",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "US stocks and Treasuries caught some respite as oil prices eased, with traders looking to the August US inflation report for the clearest signal yet on whether the Federal Reserve will hike interest rates next week.",
+    "summary": "The final stretch of a jittery week on Wall Street saw stocks and bonds rising, with a decline in oil prices outweighing concerns about Federal Reserve rate increases.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/stock-market-today-dow-s-p-live-updates",
     "published": "Thu, 10 Sep 2026 22:15:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.103405"
+    "fetched_at": "2026-09-11T13:52:25.595556"
+  },
+  {
+    "id": "a60e86835808",
+    "title": "Bond Traders Price in Two Fed Hikes This Year After CPI Report",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Traders boosted expectations for a Federal Reserve interest-rate hike after hotter-than-expected core US inflation data, with a 90% chance of a move next week and two increases fully priced in by year-end.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/treasuries-fall-as-higher-than-expected-cpi-boosts-fed-hike-odds",
+    "published": "Fri, 11 Sep 2026 12:38:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:25.753505"
+  },
+  {
+    "id": "3d03f7b3c438",
+    "title": "CPI Sets Up ‘Risk Management Hikes’ for Fed, Pimco’s Wilding Says",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Tiffany Wilding, economist at Pimco, says US CPI data for August “does result in a Federal Reserve that is hiking interest rates.” She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/cpi-sets-up-risk-management-hikes-for-fed-pimco-video",
+    "published": "Fri, 11 Sep 2026 13:41:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:25.888101"
+  },
+  {
+    "id": "c8e65661b3ef",
+    "title": "US Stocks Climb as Oil Decline Offers Relief After CPI Release",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "US stocks rallied as retreating oil prices and an earnings beat from Oracle Corp. boosted sentiment in the face of a report that showed accelerating core consumer prices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/futures-rise-with-help-from-oracle-s-beat-and-cooler-oil-prices",
+    "published": "Fri, 11 Sep 2026 11:40:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.036295"
+  },
+  {
+    "id": "1163c6065fa1",
+    "title": "Traders Hunt For ‘Elusive’ Catalyst to Push S&P 500 Above 8,000",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Equity bulls have been eyeing the 8,000 milestone for the S&amp;P 500 for weeks now. Getting there has been easier said than done.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/traders-hunt-for-elusive-catalyst-to-push-s-p-500-above-8-000",
+    "published": "Fri, 11 Sep 2026 13:27:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.185110"
+  },
+  {
+    "id": "1d59b09ef0ad",
+    "title": "Gold Rises, Brushing Off Hotter-Than-Expected Inflation Print",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Gold extended gains, even as faster-than-expected US inflation data caused traders to dial up bets on a Federal Reserve rate hike next week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-10/gold-holds-drop-as-rising-oil-inflation-bolster-rate-hike-bets",
+    "published": "Thu, 10 Sep 2026 23:34:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.343355"
+  },
+  {
+    "id": "86a00f14e8f6",
+    "title": "Dollar Wavers as Inflation Aids Fed Hike Bets While Oil Falls",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The dollar oscillated Friday after a key gauge of US consumer prices rose by more than expected pushing traders to add to bets that the Federal Reserve will raise interest rates next week.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/dollar-wavers-as-inflation-aids-fed-hike-bets-while-oil-falls",
+    "published": "Fri, 11 Sep 2026 13:21:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.489819"
+  },
+  {
+    "id": "0749612d9c06",
+    "title": "Tesla Shares Suffer Slow Summer After SpaceX IPO, Earnings Rout",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "For a decade and a half, Tesla Inc. offered the only public market bet on Elon Musk. But since SpaceX began trading in June, the electric vehicle giant has had to share its special sauce as it tests investor sentiment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/tesla-shares-suffer-slow-summer-after-spacex-ipo-earnings-rout",
+    "published": "Fri, 11 Sep 2026 13:15:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.653021"
+  },
+  {
+    "id": "7f5fe651b85e",
+    "title": "Stocks, Treasuries Get Relief Ahead of CPI, US Diesel Passes $6/Gallon",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "US equity futures and Treasuries find some relief as investors await the latest inflation data for a signal on whether the Federal Reserve will raise interest rates next week. US diesel prices rose above $6 a gallon for the first time ever, raising the risk of further energy-driven inflation. The US marks 25 years since the September 11 terrorist attacks. Isabelle Mateos Y Lago of BNP Paribas joins \"Bloomberg Brief\" to look ahead to the CPI data. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/bloomberg-brief-09-11-2026-video",
+    "published": "Fri, 11 Sep 2026 13:07:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.778669"
+  },
+  {
+    "id": "99fde5671022",
+    "title": "US Core CPI Rises More Than Expected in August",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "A key gauge of US consumer prices climbed by more than expected last month, bolstering the case for Federal Reserve officials to raise interest rates next week. Michael McKee breaks down the data on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/us-core-cpi-rises-more-than-expected-in-august-video",
+    "published": "Fri, 11 Sep 2026 13:05:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:26.887255"
+  },
+  {
+    "id": "5152a32f6ae9",
+    "title": "US Convertible Bond Market Hits Record as AI Spending Surges",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "US convertible bond sales have reached their highest annual total on record, according to data compiled by Bloomberg, as companies look to fund heavy artificial intelligence-related spending.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-convertible-bond-market-hits-record-as-ai-spending-surges",
+    "published": "Fri, 11 Sep 2026 13:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.049779"
+  },
+  {
+    "id": "0a21f2eacc7d",
+    "title": "Ground Beef Prices Rose in August, Impeding Trump Efforts",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Ground beef prices edged higher in August, signaling little progress in the Trump administration’s offensive against the record costs with only two months left until midterm elections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/ground-beef-prices-rose-in-august-impeding-trump-efforts",
+    "published": "Fri, 11 Sep 2026 12:56:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.212372"
+  },
+  {
+    "id": "ecfef9605034",
+    "title": "EssilorLuxottica Managers Defend CEO After Heir Lashes Out",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Twenty top lieutenants to EssilorLuxottica SA Chief Executive Officer Francesco Milleri came to their boss’s defense in an escalating war of words with Leonardo Maria Del Vecchio, a son of the founder who abruptly left a senior role at the eyewear company last month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/essilorluxottica-managers-defend-their-ceo-after-heir-lashes-out",
+    "published": "Fri, 11 Sep 2026 09:45:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.354337"
+  },
+  {
+    "id": "5803a73335f8",
+    "title": "RBI Has Enough Tools to Mop Liquidity Surge, Malhotra Says",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "India’s central bank has enough tools to absorb a record surge in banking-system liquidity following its massive foreign-currency deposit drive, Governor Sanjay Malhotra said Friday, as policymakers seek to prevent the cash glut from pushing borrowing costs lower and fueling inflation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/india-s-fx-deposits-to-help-earn-more-revenue-says-malhotra",
+    "published": "Fri, 11 Sep 2026 09:22:14 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.483565"
+  },
+  {
+    "id": "51f6656d297b",
+    "title": "Investors in European Debt Are Getting Buyers’ Regret, BofA Says",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Investors who loaded up on European and UK government bonds in recent months are likely regretting that decision after a sharp selloff, according to Bank of America.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/investors-in-european-debt-are-getting-buyers-regret-bofa-says",
+    "published": "Fri, 11 Sep 2026 12:43:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.625409"
+  },
+  {
+    "id": "56536dd3e383",
+    "title": "Jeff Currie Sees ‘Extremely High’ Chance of $5 Gas by Midterms",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Veteran commodities strategist Jeff Currie said average US gasoline prices will almost certainly hit $5 a gallon before the midterm elections, citing a toxic combination of scarcity and currency debasement.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/jeff-currie-sees-extremely-high-chance-of-5-gas-by-midterms",
+    "published": "Fri, 11 Sep 2026 12:19:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:27.772688"
   },
   {
     "id": "d5eb4637553b",
     "title": "Latest Oil Market News and Analysis for Sept. 11",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Brent oil slipped, easing this week’s sharp rally, after the International Energy Agency warned about a deteriorating outlook for consumption this year.",
+    "summary": "Brent oil dropped but was still on course for a substantial weekly gain as the Iran war and Houthi threats to Saudi Arabia keep traders on edge.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/latest-oil-market-news-and-analysis-for-sept-11",
     "published": "Thu, 10 Sep 2026 22:06:51 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.208246"
+    "fetched_at": "2026-09-11T13:52:27.887919"
   },
   {
-    "id": "9d4cbf21e707",
-    "title": "BofA Strategists Warn of Stock Volatility as Outflows Hit US",
+    "id": "fad978621421",
+    "title": "Copper Steadies With Dip-Buying From Funds, Chinese Industry",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Outflows from US stocks are setting the stage for higher volatility as markets and policy makers remain complacent about rising Treasury yields, according to Bank of America Corp. strategists.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/bofa-strategists-warn-of-stock-volatility-as-outflows-hit-us",
-    "published": "Fri, 11 Sep 2026 08:45:00 GMT",
+    "summary": "Copper prices found some support from dip-buying on Friday, following a sell-off triggered by speculation the US is pushing back a decision on import tariffs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/copper-heads-for-weekly-loss-as-doubts-on-us-tariffs-intensify",
+    "published": "Fri, 11 Sep 2026 01:42:30 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.304242"
+    "fetched_at": "2026-09-11T13:52:28.003344"
   },
   {
-    "id": "f8a27016111b",
-    "title": "MUFG Prices $1.3 Billion Perpetual AT1 Bond Amid Strong Demand",
+    "id": "84151fcdb5da",
+    "title": "Jon Ronson on What It Means To Be a Man",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Mitsubishi UFJ Financial Group Inc. priced ¥200 billion ($1.3 billion) of perpetual debt at spreads tighter than its previous sale as investors gravitated toward subordinated issues.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/mufg-prices-1-3-billion-perpetual-at1-bond-amid-strong-demand",
-    "published": "Fri, 11 Sep 2026 08:36:35 GMT",
+    "summary": "\"When a man does express his vulnerabilities to a woman, very often they recoil in horror and disgust.\"\n\n'The Castle' author Jon Ronson reflects on the identity crisis facing modern men — and whether Tucker Carlson is right about what women really want. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/jon-ronson-on-what-it-means-to-be-a-man-video",
+    "published": "Fri, 11 Sep 2026 11:46:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.404017"
+    "fetched_at": "2026-09-11T13:52:28.146663"
   },
   {
-    "id": "f8f088b7f81d",
-    "title": "Neko Health CEO: Using AI Scans & Longitudinal Data for a Longer Life",
+    "id": "9d33e9e0d066",
+    "title": "Oil Markets Feel the Pain of a Protracted War",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The CEO of full-body scanner Neko Health says technology could help shift healthcare from treating symptoms to identifying risks earlier.\nHjalmar Nilsonne explains how Neko’s scans combine imaging, cardiovascular testing and blood analysis to build a detailed picture of a person’s health, while repeated scans can create longitudinal data to track changes and uncover deeper patterns over time. Nilsonne predicts that in his lifetime AI and more personalized medicine could ultimately help people stay healthier for longer. He spoke to Tom Mackenzie on the latest episode of \"Bloomberg Tech: Europe.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/neko-health-ceo-using-ai-scans-for-longevity-video",
-    "published": "Fri, 11 Sep 2026 08:24:17 GMT",
+    "summary": "Crude jumped back above $100 a barrel this week and diesel surged past $6 a gallon in the US for the first time.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/oil-markets-feel-the-pain-of-a-protracted-war",
+    "published": "Fri, 11 Sep 2026 11:36:06 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.503880"
+    "fetched_at": "2026-09-11T13:52:28.302957"
   },
   {
-    "id": "fe5650f09c23",
-    "title": "DeepSeek Tests SK Hynix Bulls With Fresh Doubts on Memory Demand",
+    "id": "edfaffa78915",
+    "title": "Hideo Kojima's Physint Video Game Dropped by PlayStation, Goes to Xbox",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Fund managers wading back into South Korean memory makers’ stocks got a fresh gut check after DeepSeek’s latest artificial intelligence model raised doubts on the strength of demand.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/deepseek-hands-memory-stock-investors-fresh-reason-for-caution",
-    "published": "Fri, 11 Sep 2026 02:55:22 GMT",
+    "summary": "<p>The legendary Japanese creator of ‘Death Stranding’ will take his new game to Xbox</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox",
+    "published": "Fri, 11 Sep 2026 13:32:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.597137"
+    "fetched_at": "2026-09-11T13:52:28.740766"
   },
   {
-    "id": "b4cb37c604cb",
-    "title": "DBS Lawsuit Linked to Jho Low’s Associate, Says 1MDB Taskforce",
+    "id": "6c8906873b41",
+    "title": "NYC, LA, Montessori Schools Limit AI As Families Flock to Low-Tech Classrooms",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "A lawsuit filed against DBS Group Holdings Ltd. in Singapore’s High Court is related to an associate of Jho Low, the alleged mastermind behind the multi-billion dollar 1Malaysia Development Bhd. scandal, according to the 1MDB Asset Recovery Taskforce.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/dbs-lawsuit-linked-to-jho-low-s-associate-says-1mdb-taskforce",
-    "published": "Fri, 11 Sep 2026 08:16:29 GMT",
+    "summary": "US schools across the nation are curbing their use of technology amid mounting parental concerns. This is happening as districts look to boost enrollment and cut costs while grappling with a dwindling pool of students.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/nyc-la-montessori-schools-limit-ai-as-families-flock-to-low-tech-classrooms",
+    "published": "Fri, 11 Sep 2026 13:00:46 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.685906"
+    "fetched_at": "2026-09-11T13:52:28.885943"
   },
   {
-    "id": "cd7ad6fa36eb",
-    "title": "What’s the Cost of the Premier League’s Global Success?",
+    "id": "356816b2df5a",
+    "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The Premier League has become a global phenomenon — but at what cost?\n\nAdam Blenford explains why some fans are feeling pushed out. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/what-s-the-cost-of-the-premier-league-s-global-success-video",
-    "published": "Fri, 11 Sep 2026 08:07:10 GMT",
+    "summary": "Anthropic PBC says its artificial intelligence model Claude has been misused in attempts to develop a wide range of potential military applications, including kamikaze drone swarms, missile navigation systems and biological weapons.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
+    "published": "Fri, 11 Sep 2026 12:04:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.778327"
+    "fetched_at": "2026-09-11T13:52:29.027938"
   },
   {
-    "id": "bf03ba6bdf8f",
-    "title": "Bridgewater's Greg Jensen on AI and the Risk to Humans",
+    "id": "23925535b8ea",
+    "title": "AI Shows Tentative Signs of Lifting Britain Out of Its Slump",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "<p>Greg Jensen likens this moment to February 2020.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-greg-jensen-on-ai-and-the-risk-to-humans",
-    "published": "Fri, 11 Sep 2026 08:00:02 GMT",
+    "summary": "No one in the City of London saw Britain’s summer growth spurt coming.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/ai-shows-tentative-signs-of-lifting-britain-out-of-its-slump",
+    "published": "Fri, 11 Sep 2026 12:02:37 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.868215"
+    "fetched_at": "2026-09-11T13:52:29.154572"
   },
   {
-    "id": "fd7cfe3d9327",
-    "title": "Ukraine Strikes Degrade Russian Oil-Refining Industry, IEA Says",
+    "id": "9c06b2682455",
+    "title": "India Should Expand Use of RBI Digital Rupee, Sitharaman Says",
     "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Russia’s oil-processing is being degraded as sanctions prevent the refining industry from recovering from more intense and precise Ukrainian drone strikes, according to the International Energy Agency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/ukraine-strikes-degrade-russian-oil-refining-industry-iea-says",
-    "published": "Fri, 11 Sep 2026 08:00:00 GMT",
+    "summary": "India’s central bank should explore greater adoption of its wholesale and retail central bank digital currencies, Finance Minister Nirmala Sitharaman said Friday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/india-should-expand-use-of-rbi-digital-rupee-sitharaman-says",
+    "published": "Fri, 11 Sep 2026 11:55:09 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:22.965010"
+    "fetched_at": "2026-09-11T13:52:29.296105"
+  },
+  {
+    "id": "6649a8da5d7c",
+    "title": "Inside Microsoft’s Plans to Massively Expand Computing Power",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The company plans to triple the size of its data center fleet by 2032",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/inside-microsoft-s-plans-to-massively-expand-computing-power",
+    "published": "Fri, 11 Sep 2026 11:02:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:29.435472"
+  },
+  {
+    "id": "7771c4d37034",
+    "title": "The Future of Health | Bloomberg Tech: Europe 9/11/2026",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "This episode of Bloomberg Tech: Europe looks at how technology is reshaping healthcare, with the goal of helping us live longer, healthier lives.\nFrom wearables and continuous blood pressure monitoring to full-body scans, Tom Mackenzie explores how new tools are giving us an unprecedented view inside our bodies.\nWe ask whether better data, earlier detection and AI can shift medicine from treating illness to preventing it.\n\n\"Bloomberg Tech: Europe\" spotlights the biggest names and trends shaping the region's technology ecosystem as the global competition heats up. This monthly, 30-minute magazine-style show features in-depth interviews with top technology leaders, as well as major investors and policymakers - giving you a compelling A to Z of the most consequential innovations, opportunities and challenges.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/the-future-of-health-bloomberg-tech-europe-video",
+    "published": "Fri, 11 Sep 2026 11:01:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:29.578933"
+  },
+  {
+    "id": "3f9c66475913",
+    "title": "Anthropic Says Yemeni Cell Used Claude in Missile Development",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Anthropic PBC uncovered a group in northern Yemen — where Iran-backed Houthi militants operate — using its Claude AI model to support the development of missile and rocket systems, highlighting growing concerns over the use of advanced AI in military programs and by non-state actors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-yemen-group-used-claude-in-missile-development",
+    "published": "Fri, 11 Sep 2026 10:25:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:29.736101"
+  },
+  {
+    "id": "bc2540449be1",
+    "title": "Why OpenAI’s Sam Altman Says He’s Ready to Slow AI Development",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "CEO Sam Altman hopes that other companies will do the same.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/why-openai-s-sam-altman-says-he-s-ready-to-slow-ai-development",
+    "published": "Fri, 11 Sep 2026 10:40:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:29.906615"
+  },
+  {
+    "id": "0cb5739aef33",
+    "title": "JD.com Prepares Remedy Tweaks in Bid for EU Ceconomy Nod",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Chinese e-commerce firm JD.com Inc. is poised to offer improved remedies to allay European Union concerns over its planned €2.2 billion ($2.6 billion) takeover of Ceconomy AG, the bloc’s biggest electronics retailer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/jd-com-prepares-remedy-tweaks-in-bid-for-eu-ceconomy-approval",
+    "published": "Fri, 11 Sep 2026 09:37:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:30.049274"
+  },
+  {
+    "id": "5ba581a59215",
+    "title": "Broadcom’s VMware Curbs Face Fresh EU Antitrust Scrutiny",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Broadcom Inc.’s licensing overhaul for VMware Inc. software after its $61 billion takeover is attracting deeper scrutiny from European Union antitrust watchdogs amid concerns customers are being made to suffer.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/broadcom-s-vmware-curbs-face-fresh-eu-antitrust-scrutiny",
+    "published": "Fri, 11 Sep 2026 10:23:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:30.166901"
   },
   {
     "id": "ef2cdd658548",
@@ -407,17 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/china-ai-star-moonshot-eyes-2-billion-annualized-sales-in-2026",
     "published": "Fri, 11 Sep 2026 09:17:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.449549"
-  },
-  {
-    "id": "c59359443f70",
-    "title": "BRICS Finance Chiefs Call for Urgent IMF, World Bank Reform",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "BRICS finance chiefs and central bank governors on Friday reiterated calls for urgent reform of the International Monetary Fund and World Bank to give emerging and developing economies a greater say in the two institutions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/brics-finance-chiefs-call-for-urgent-imf-world-bank-reform",
-    "published": "Fri, 11 Sep 2026 08:41:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.567310"
+    "fetched_at": "2026-09-11T13:52:30.304566"
   },
   {
     "id": "4ce89074801e",
@@ -427,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/south-korea-ramps-up-spy-law-to-protect-chip-secrets-from-china",
     "published": "Thu, 10 Sep 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.658759"
+    "fetched_at": "2026-09-11T13:52:30.473302"
   },
   {
     "id": "36371ede83eb",
@@ -437,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-11/bridgewater-s-cio-on-ai-s-human-extinction-risk-video",
     "published": "Fri, 11 Sep 2026 08:15:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.753738"
+    "fetched_at": "2026-09-11T13:52:30.614917"
   },
   {
     "id": "cab4b0b7f5b7",
@@ -447,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-11/openai-weighs-slowing-cutting-edge-ai-development-video",
     "published": "Fri, 11 Sep 2026 08:00:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.847129"
+    "fetched_at": "2026-09-11T13:52:30.782246"
   },
   {
     "id": "9ab1a9bc1d8e",
@@ -457,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/bridgewater-s-jensen-says-ai-will-kill-people-before-it-s-curbed",
     "published": "Fri, 11 Sep 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:23.942608"
+    "fetched_at": "2026-09-11T13:52:30.907919"
   },
   {
     "id": "6030a852b23e",
@@ -467,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
     "published": "Fri, 11 Sep 2026 00:25:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.036662"
+    "fetched_at": "2026-09-11T13:52:31.064284"
   },
   {
     "id": "e3a86e04f3fc",
@@ -477,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/chinese-chipmakers-become-billionaires-without-turning-a-profit",
     "published": "Fri, 11 Sep 2026 06:51:47 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.129796"
+    "fetched_at": "2026-09-11T13:52:31.188390"
   },
   {
     "id": "74e35b720152",
@@ -487,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/japan-s-digital-agency-hit-by-unauthorized-access-to-servers",
     "published": "Fri, 11 Sep 2026 04:09:18 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.226165"
+    "fetched_at": "2026-09-11T13:52:31.360627"
   },
   {
     "id": "6fe78dffbdaf",
@@ -497,107 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/flipkart-s-super-money-bets-on-ai-agents-to-outdo-bigger-rivals",
     "published": "Fri, 11 Sep 2026 03:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.310711"
-  },
-  {
-    "id": "9f561c9d32c9",
-    "title": "Homes With Robot Arms Beat Humanoids at Chores, Startup Says",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Tokyo-based startup MW Inc. is offering homes with built-in robotic housekeeping arms, a counter to a global embrace of humanoids.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/japanese-startup-bets-iron-man-inspired-homes-can-beat-humanoids",
-    "published": "Thu, 10 Sep 2026 21:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.397019"
-  },
-  {
-    "id": "394dd3e8bcd1",
-    "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "<p>Shortages forced the company to turn away some AI and cloud business. Now it’s planning for 38 gigawatts of data center capacity to meet demand.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
-    "published": "Thu, 10 Sep 2026 21:00:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.485540"
-  },
-  {
-    "id": "bfc52bdeee76",
-    "title": "OpenAI Is Open to Slowing Cutting-Edge AI, Altman Tells Staff",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "OpenAI is considering slowing down the development of cutting-edge artificial intelligence, with CEO Sam Altman hoping other AI companies will do the same. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-video",
-    "published": "Fri, 11 Sep 2026 02:01:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.586212"
-  },
-  {
-    "id": "c43e8bb2cd2c",
-    "title": "Yen Rally Puts Global Stocks on Watch for Carry Trade Unwind",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The yen’s surge is putting the carry trade back in focus, raising questions about whether a bigger unwind could dent the rally in global stocks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/yen-rally-puts-global-stocks-on-watch-for-carry-trade-unwind",
-    "published": "Fri, 11 Sep 2026 01:16:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.690672"
-  },
-  {
-    "id": "f61ef1927fca",
-    "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker’s Chief Executive Officer Sam Altman is hoping other AI companies will do the same.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
-    "published": "Fri, 11 Sep 2026 00:43:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.775475"
-  },
-  {
-    "id": "becf24760720",
-    "title": "India’s Top Bank Says Data Centers Aiding Capex Cycle",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Ashwini Kumar Tewari, managing director at the State Bank of India says that corporate spending on new-age industries such as data centers is emerging as a key driver. Tewari speaks exclusively with Bloomberg's Haslinda Amin. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/india-s-top-bank-says-data-centers-aiding-capex-cycle",
-    "published": "Thu, 10 Sep 2026 23:00:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:24.953193"
-  },
-  {
-    "id": "75da7a31dbc0",
-    "title": "Adobe Forecast Misses Views, Renewing Fears About AI Impact",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Adobe Inc. gave an outlook for sales that narrowly missed analysts’ estimates, adding fuel to concerns that artificial intelligence upstarts are hurting the software maker’s business.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
-    "published": "Thu, 10 Sep 2026 20:11:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:25.047363"
-  },
-  {
-    "id": "baa2963bc873",
-    "title": "Blackstone’s AirTrunk Seeks $1.6 Billion Loan for Singapore IPO",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "AirTrunk, a data center operator owned by Blackstone Inc., is in talks with banks to borrow about S$2 billion ($1.6 billion) to help prepare for the public listing of a real estate investment trust backed by its assets, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/blackstone-s-airtrunk-seeks-1-6-billion-loan-for-singapore-ipo",
-    "published": "Thu, 10 Sep 2026 22:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:25.147156"
-  },
-  {
-    "id": "ff3826c48f7f",
-    "title": "Oracle Cloud Sales More Than Double, Topping Estimates on AI",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Oracle Corp.’s cloud computing business grew faster than analysts projected, signaling the company’s big bets on AI data center projects are paying off.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
-    "published": "Thu, 10 Sep 2026 20:15:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:25.238676"
-  },
-  {
-    "id": "bc5e4e443839",
-    "title": "Thoma Bravo Again Rolls Out Sweeteners With Sophos Debt Deal",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Thoma Bravo has begun making concessions to lenders in a bid to refinance the debt of cybersecurity firm Sophos, marking the private equity firm’s latest effort to assuage creditors concerned about AI disruption.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/thoma-bravo-again-rolls-out-sweeteners-with-sophos-debt-deal",
-    "published": "Thu, 10 Sep 2026 21:45:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:25.333141"
+    "fetched_at": "2026-09-11T13:52:31.479910"
   },
   {
     "id": "837612c9721e",
@@ -607,7 +607,177 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/gulf-states-may-meet-iran-next-week-to-discuss-future-of-hormuz",
     "published": "Fri, 11 Sep 2026 07:41:14 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.006791"
+    "fetched_at": "2026-09-11T13:52:31.909173"
+  },
+  {
+    "id": "0e69b2048d5f",
+    "title": "US-Canada Trade Detente Would Ease Inflation Pressures, Poilievre Says",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Canada’s oil and mineral resources can help alleviate US inflation pressures, but the Trump administration needs to back off its tariff policies against its northern neighbor, the leader of the country’s Conservative Party said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/us-canada-trade-detente-would-ease-inflation-pressures-poilievre-says",
+    "published": "Fri, 11 Sep 2026 13:06:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.037426"
+  },
+  {
+    "id": "00cce639a77c",
+    "title": "Merz Determined to Cling On in Germany and Defy Party Rebellion",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Chancellor Friedrich Merz is determined to hold on to power in Germany in defiance of the growing numbers within his party seeking to push him out of office, according to people familiar with his thinking.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/merz-determined-to-cling-on-in-germany-and-defy-party-rebellion",
+    "published": "Fri, 11 Sep 2026 13:06:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.182587"
+  },
+  {
+    "id": "b929c108abaa",
+    "title": "Putin, Modi Vow Closer Ties Before BRICS Summit Shadowed by Wars",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Indian Prime Minister Narendra Modi and Russian President Vladimir Putin pledged to deepen ties between their countries, signaling their relationship remains resilient despite mounting pressure from Washington on New Delhi to distance itself from Moscow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/putin-lands-in-india-for-brics-summit-shaped-by-wars-tariffs",
+    "published": "Fri, 11 Sep 2026 01:18:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.310048"
+  },
+  {
+    "id": "2d69982499dd",
+    "title": "Burnham’s EU Reset Under New Pressure After Bloc’s Canada Deal",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "UK Prime Minister Andy Burnham was just weighing his first careful steps toward a reset with the European Union when he got lapped on the road to Brussels by Canada’s Mark Carney.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/burnham-s-caution-toward-brussels-gets-jolt-from-eu-canada-deal",
+    "published": "Fri, 11 Sep 2026 12:19:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.446404"
+  },
+  {
+    "id": "ff807291fb99",
+    "title": "Italy Has ‘No Role to Play’ in Monte Paschi Deals, Meloni Says",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Italian Prime Minister Giorgia Meloni said the government isn’t involved in the future of lender Banca Monte dei Paschi di Siena SpA, which is at the center of concurring bids.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/italy-has-no-role-to-play-in-monte-paschi-deals-meloni-says",
+    "published": "Fri, 11 Sep 2026 12:18:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.580751"
+  },
+  {
+    "id": "49e14611e609",
+    "title": "Jim O'Neill on UK Economy, Taxes",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Former Goldman Sachs Group chief economist Jim O’Neill warned UK Prime Minister Andy Burnham against raising taxes on banks and businesses, saying the moves would threaten economic growth. O'Neill also cautioned that rising gilt yields could yet reverse before the October 28 budget, so it’s too early to say what Chancellor of the Exchequer John Healey  will need to do regarding tax-and-spend. O'Neill joined Francine Lacqua on \"The Pulse\". (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/jim-o-neill-on-uk-economy-taxes-video",
+    "published": "Fri, 11 Sep 2026 12:10:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.719671"
+  },
+  {
+    "id": "997ba71b264f",
+    "title": "Stanford Proposes $100 Million Fund to Secure Expansion Deal",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Stanford University is seeking permission to expand its sprawling California campus over the next two decades, offering $100 million for affordable housing and other community needs as part of a bid to win local approval.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/stanford-proposes-100-million-fund-to-secure-expansion-deal",
+    "published": "Fri, 11 Sep 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.842412"
+  },
+  {
+    "id": "78641d7ad68a",
+    "title": "Jeff Currie on ‘Dangerous Phase’ of Commodities Rally, $5 Gasoline",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Jeff Currie, founder & CEO at Real Macro and co-founder & director at 1947 Oil and Gas, discusses the impact of China’s return to the oil market, shortages in oil and crude products, and the possibility of $5 gasoline in the US ahead of the midterm elections. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/jeff-currie-on-dangerous-phase-for-commodities-5-gas-video",
+    "published": "Fri, 11 Sep 2026 11:53:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:32.977798"
+  },
+  {
+    "id": "22c6e4470489",
+    "title": "A Somber, Tense 9/11 Anniversary Shows How Much Has Changed",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Disruption over the past two decades has created divides that could seep into today’s events.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/a-somber-tense-9-11-anniversary-shows-how-much-has-changed",
+    "published": "Fri, 11 Sep 2026 11:43:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.097358"
+  },
+  {
+    "id": "6692c858ce84",
+    "title": "Grab Faces Vietnam Review of Commissions as Drivers Plan Boycott",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Vietnam’s competition regulator is reviewing Grab Holdings Ltd.’s pricing, fees and commission policies after its drivers called for a weekend work stoppage over concerns that lower fares, deductions and the company’s commission are significantly cutting into their income.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/grab-faces-vietnam-review-of-commissions-as-drivers-plan-boycott",
+    "published": "Fri, 11 Sep 2026 11:39:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.230525"
+  },
+  {
+    "id": "7afeb9609784",
+    "title": "Nigeria Bans Lawmakers From Visiting South Africa Over Attacks",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Nigeria’s parliamentary leadership has suspended lawmakers’ official travel to South Africa over xenophobic attacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/nigeria-bans-lawmakers-from-visting-south-africa-over-attacks",
+    "published": "Fri, 11 Sep 2026 11:38:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.377169"
+  },
+  {
+    "id": "88fb2a950f79",
+    "title": "Jeff Currie Sees ‘Extremely High Probability’ of $5 Gasoline by Midterms",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Jeff Currie, founder & CEO at Real Macro and co-founder & director at 1947 Oil and Gas, explains why the need for refineries to balance production of gasoline and diesel products can push gas prices higher ahead of the US midterm elections. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/-5-gas-by-midterms-extremely-high-probability-currie-video",
+    "published": "Fri, 11 Sep 2026 11:28:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.515459"
+  },
+  {
+    "id": "6b6194e79a09",
+    "title": "Russia’s Top UN Atomic Official Suspended Over Misogynist Screed",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "The top-ranked Russian official at the United Nations nuclear watchdog faces an ethics probe for writing a self-help book that described feminists as “hysterical fanatics” and gays and lesbians as “perverts” — and then promoting it to a UN youth group.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/russia-s-top-un-atomic-official-suspended-over-misogynist-screed",
+    "published": "Fri, 11 Sep 2026 10:54:25 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.662420"
+  },
+  {
+    "id": "097ac4b2ebed",
+    "title": "ECB's Nagel 'Concerned' About Rise of Far-Right Parties",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Bundesbank President Joachim Nagel, speaking Thursday at the European Central Bank's monetary policy press conference in Berlin, said he’s worried about the rise of far-right parties such as Alternative for Germany. \"Some of these [far-right] concepts are self-defeating in an economic sense,\" Nagel explains. \"Is this helpful to attract foreign investors to come to this country? Definitely not.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-11/ecb-s-nagel-concerned-about-rise-of-far-right-parties-video",
+    "published": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.809809"
+  },
+  {
+    "id": "79f3d39b5b1e",
+    "title": "Senegal’s Debt Crisis Weighs On Its Long-Cherished Stability",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Senegal’s running crisis feeds a political feud that threatens its long-cherished resilience",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-11/senegal-s-debt-crisis-weighs-on-its-long-cherished-stability",
+    "published": "Fri, 11 Sep 2026 09:59:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:33.927375"
+  },
+  {
+    "id": "acf3d8689b57",
+    "title": "Iran Turns to BRICS Summit as US War Deepens Its Isolation",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "Iranian President Masoud Pezeshkian arrived in New Delhi on Friday for a BRICS summit marked by deep divisions as the war involving Iran, the US and Israel enters a dangerous new phase.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation",
+    "published": "Fri, 11 Sep 2026 09:45:53 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:34.033589"
+  },
+  {
+    "id": "c2596825d082",
+    "title": "Europe Struggles to Counter Russian Attacks Falling Short of War",
+    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary": "A day after Germany blamed Russia for a failed drone attack on cargo planes at its Leipzig-Halle airport, European Commission President Ursula von der Leyen made a tacit admission that the continent was not responding quickly enough to the threat.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-11/europe-struggles-to-counter-russian-attacks-falling-short-of-war",
+    "published": "Fri, 11 Sep 2026 09:32:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-11T13:52:34.187881"
   },
   {
     "id": "8000622992e8",
@@ -617,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-10/xi-s-first-india-trip-since-2019-extends-an-olive-branch-to-modi",
     "published": "Thu, 10 Sep 2026 10:12:44 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.106146"
+    "fetched_at": "2026-09-11T13:52:34.301391"
   },
   {
     "id": "1a133df1b5ee",
@@ -627,176 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-11/taiwan-s-no-2-makes-rare-europe-trip-defying-china-s-isolation",
     "published": "Fri, 11 Sep 2026 03:58:02 GMT",
     "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.203739"
-  },
-  {
-    "id": "fd8c7fb57eb4",
-    "title": "India-China Ties: How Trump’s Trade War Is Bringing Modi, Xi Closer Together",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "India and China share a complicated relationship. The world’s two most populous nations are outright regional rivals who fought a border war in the 1960s. Relations were severely tested more recently by border clashes in 2020 that left soldiers dead on both sides.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/india-china-ties-how-trump-s-trade-war-is-bringing-modi-xi-closer-together",
-    "published": "Fri, 11 Sep 2026 07:09:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.303486"
-  },
-  {
-    "id": "60595e7f0084",
-    "title": "Swedish Election Race Tightens Ahead of Sunday's Vote",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "As Swedish voters head to the polls on Sunday, Prime Minister Ulf Kristersson of the Moderates is seeking a second term for his center-right government in a race that has tightened sharply in the final weeks. The four-party opposition led by Social Democrat Magdalena Andersson has 50.7% support against 48.1% for the ruling bloc, according to the latest poll for broadcaster TV4. Charles Daly reports from Stockholm. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/swedish-election-race-tightens-ahead-of-sunday-s-vote-video",
-    "published": "Fri, 11 Sep 2026 07:02:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.403017"
-  },
-  {
-    "id": "1af67424dead",
-    "title": "Inflation Fears Grow as US Leads Global Bond Selloff",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nBond bears are pushing benchmark Treasury yields toward the closely-watched 5% level ahead of US inflation data that stands to determine expectations for a Federal Reserve interest-rate hike next week.\n\nAnd Bloomberg understands that OpenAI is considering slowing down the development of cutting-edge artificial intelligence, and the ChatGPT maker’s Chief Executive Officer Sam Altman is hoping other AI companies will do the same.\n\nToday's guests: \nNataliia Lipikhina, JPMorgan Private Bank, Head of EMEA Equity Strategy; Helene Huby, The Exploration Company CEO and Founder.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/daybreak-europe-9-11-2026-video",
-    "published": "Fri, 11 Sep 2026 06:58:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.497637"
-  },
-  {
-    "id": "e6347d506c09",
-    "title": "European SpaceX Rival Raises $450M to Build Rocket Engine",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Helene Huby, The Exploration Company CEO and Founder, talks to Bloomberg's Daybreak Europe about raising $450 million in funding to help boost the development of Europe’s first reusable space capsule and a new rocket engine, which it says would be the largest in the region.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/spacex-rival-raises-450m-to-build-rocket-engine-video",
-    "published": "Fri, 11 Sep 2026 06:55:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.594258"
-  },
-  {
-    "id": "1f2724fa6740",
-    "title": "Political, Inflationary Risks On Europe's Horizon: Market Snapshot",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The European Central Bank gathered to deliver an interest rate hike this week against a back drop of rising global bond yields, spiralling energy prices and growing political risk. Following a state election win for German's far-right AfD party in Saxony-Anhalt, attention now turns to an array of elections across multiple European countries in 2027. France in particular stand out as an area for concern for investors as the country navigates political divide and a shaky fiscal outlook. The Opening Trade spoke to guests about the biggest challenges facing European nations at a time of heavy pressure on public finances.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/risks-on-europe-s-horizon-market-snapshot-video",
-    "published": "Fri, 11 Sep 2026 06:33:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.688243"
-  },
-  {
-    "id": "8788e3c56d38",
-    "title": "Far-Right Leader Roils Australian Politics With ‘Traitor’ Slur",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Far-right leader Pauline Hanson has stirred fresh controversy in Australian politics after a video she posted branding a fellow lawmaker and former soldier a “traitor” prompted a volley of insults and recriminations.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/far-right-leader-roils-australian-politics-with-traitor-slur",
-    "published": "Fri, 11 Sep 2026 06:20:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.778896"
-  },
-  {
-    "id": "952a86de86fc",
-    "title": "Houthi-Saudi Clash Escalates as Rebels Push into Key Strait",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The Houthis advanced toward Red Sea coastal areas bordering the strategic Bab el-Mandeb Strait, as fighting between the militant group and Saudi-backed Yemeni forces intensifies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/houthi-saudi-fighting-escalates-as-rebels-push-toward-key-strait",
-    "published": "Thu, 10 Sep 2026 15:25:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.877329"
-  },
-  {
-    "id": "f9fbd4a837c7",
-    "title": "Korea’s Lee Faces Pushback as Trump Ups Pressure Over Hormuz",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "President Lee Jae Myung’s approval rating fell to a new low amid growing opposition over potential deployment of troops to the Strait of Hormuz, highlighting the political risks for the South Korean leader as he weighs options after US pressure to help secure the strategic waterway.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/lee-faces-growing-pushback-as-trump-ups-pressure-over-hormuz",
-    "published": "Fri, 11 Sep 2026 03:14:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:26.969367"
-  },
-  {
-    "id": "5f915de9b5e7",
-    "title": "UAE Pledges $46 Billion to Germany to Diversify From US",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "The United Arab Emirates pledged to invest €40 billion ($46 billion) in Germany in sectors ranging from artificial intelligence to energy and defense, an outlay that will deepen its ties to Europe and further diversify the Gulf nation’s trade relationships globally.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-10/uae-plans-to-invest-46-billion-in-germany-to-boost-europe-ties",
-    "published": "Thu, 10 Sep 2026 16:02:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.058035"
-  },
-  {
-    "id": "08a0d51e098b",
-    "title": "Malaysia King Defers Ruling on Ex-PM Najib’s Pardon Bid",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Malaysia’s King Sultan Ibrahim Iskandar has deferred a ruling on jailed former Prime Minister Najib Razak’s bid for a royal pardon, the government said in a statement on Friday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/malaysia-king-defers-ruling-on-ex-pm-najib-s-pardon-bid",
-    "published": "Fri, 11 Sep 2026 03:49:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.153021"
-  },
-  {
-    "id": "5d36f561621c",
-    "title": "Iran and US Brace for Long War",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Iran and the US are digging in for a protracted war, with little sign of a near-term ceasefire or return to normal Middle East energy flows even if hostilities remain at a low intensity. The conflict has entered a form of stalemate, with critical issues including control of the Strait of Hormuz and Iran’s nuclear program still unresolved. Bloomberg's Stuart Livingstone-Wallace breaks down the situation. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/iran-and-us-brace-for-long-war-video",
-    "published": "Fri, 11 Sep 2026 05:13:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.247589"
-  },
-  {
-    "id": "a3b3f0b67ff0",
-    "title": "Why India Won’t Break Up With Russia",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "India has spent decades balancing ties to Russia, and the USSR before it, with those to the US. Even now, amid the Kremlin’s war on Ukraine and intense pressure from Washington, New Delhi won’t let Moscow go. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-10/why-india-won-t-break-up-with-russia-video",
-    "published": "Thu, 10 Sep 2026 22:11:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.342377"
-  },
-  {
-    "id": "c26e85bceedc",
-    "title": "Jon Ronson on Men Cast Adrift",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Jon Ronson’s work often focuses on unusual people and societal undercurrents. His latest book, “The Castle,” features men struggling to find purpose in a changing world. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-11/author-jon-ronson-on-men-cast-adrift-video",
-    "published": "Fri, 11 Sep 2026 05:09:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.442708"
-  },
-  {
-    "id": "05fba5b2f02b",
-    "title": "Sweden's Election Has Investors Focused on Nuclear Power, Taxes and Welfare",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "<p>Voters are set to decide on Sweden’s nuclear power expansion, taxes on the wealthy and the future&nbsp;of the krona in Sunday’s general election</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/sweden-s-election-has-investors-focused-on-nuclear-power-taxes-and-welfare",
-    "published": "Fri, 11 Sep 2026 04:00:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.531585"
-  },
-  {
-    "id": "934b18062835",
-    "title": "Trump Rejects Warnings That AI May Lead to Human Extinction",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "President Donald Trump brushed aside warnings from artificial intelligence researchers that the technology is becoming too hard to control and could kill all humans, saying his paramount interest is maintaining an edge over China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/trump-rejects-warnings-that-ai-may-lead-to-human-extinction",
-    "published": "Fri, 11 Sep 2026 03:59:38 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.626003"
-  },
-  {
-    "id": "d9843b3978f6",
-    "title": "Trump’s Two Days in Dallas: $5,000 Cash, ‘Socialists’ and Opera",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "President Donald Trump exited his midterm convention in much the same position as he entered — staring down potentially bruising November elections and facing questions about his power to influence the results.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/trump-s-two-days-in-dallas-5-000-cash-socialists-and-opera",
-    "published": "Fri, 11 Sep 2026 03:52:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.715069"
-  },
-  {
-    "id": "3ddafe6b0522",
-    "title": "Katayama Calls Bessent’s ‘House’ Remark Scary in Translation",
-    "title_cn": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summary": "Japanese Finance Minister Satsuki Katayama said US Treasury Secretary Scott Bessent’s recent reference to himself as “the house” sounded a little frightening when translated into Japanese, while saying she understood the expression reflected the secretary’s former role as a hedge-fund manager.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-11/katayama-says-bessent-s-house-remark-sounded-scary-in-japanese",
-    "published": "Fri, 11 Sep 2026 02:43:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-11T09:44:27.808652"
+    "fetched_at": "2026-09-11T13:52:34.414820"
   }
 ]
