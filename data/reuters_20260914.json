@@ -1,413 +1,403 @@
 [
   {
-    "id": "65fd53e649fd",
-    "title": "Stocks Decline After Call to Slow AI Development",
-    "title_cn": "Stocks Decline After Call to Slow AI Development",
+    "id": "95efd58b0cd0",
+    "title": "Next Africa: IPO Catapults Nigeria’s Dangote Up the Ranks of Ultra-Wealthy",
+    "title_cn": "Next Africa: IPO Catapults Nigeria’s Dangote Up the Ranks of Ultra-Wealthy",
+    "summary": "Landmark IPO puts market value on giant Nigerian refinery",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/next-africa-ipo-catapults-nigeria-s-dangote-up-the-ranks-of-ultra-wealthy",
+    "published": "Mon, 14 Sep 2026 13:00:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:38.269479"
+  },
+  {
+    "id": "725f36fd9300",
+    "title": "EU’s Albuquerque Blames Scale for Banking Woes, Rebuffs Call to Split Package",
+    "title_cn": "EU’s Albuquerque Blames Scale for Banking Woes, Rebuffs Call to Split Package",
+    "summary": "EU Commissioner Albuquerque tells Bloomberg that Europe’s banking problem is one of scale",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/eu-s-albuquerque-blames-scale-for-banking-woes-rebuffs-call-to-split-package",
+    "published": "Mon, 14 Sep 2026 13:00:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:38.875784"
+  },
+  {
+    "id": "fe7c03ee9ad0",
+    "title": "Dubai, Abu Dhabi’s $3 Trillion Hedge Fund Moat; Saudi Arabia Mulls Gaming Giant",
+    "title_cn": "Dubai, Abu Dhabi’s $3 Trillion Hedge Fund Moat; Saudi Arabia Mulls Gaming Giant",
+    "summary": "The UAE has spent years building a hedge fund hub around a hard-to-replicate mix of low taxes and deep pools of capital.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/dubai-abu-dhabi-s-3-trillion-hedge-fund-moat-saudi-arabia-mulls-gaming-giant",
+    "published": "Mon, 14 Sep 2026 12:55:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:39.535692"
+  },
+  {
+    "id": "a1ac03484ee1",
+    "title": "Stocks Slide on Fears of AI Slowdown, Oil Jumping, More",
+    "title_cn": "Stocks Slide on Fears of AI Slowdown, Oil Jumping, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/stocks-slide-on-fears-of-ai-slowdown-oil-jumping-more",
+    "published": "Mon, 14 Sep 2026 12:46:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:39.965661"
+  },
+  {
+    "id": "195ab48159a0",
+    "title": "Santander, BBVA, Deutsche Bank Test SRT Boom With Rush of Deals",
+    "title_cn": "Santander, BBVA, Deutsche Bank Test SRT Boom With Rush of Deals",
+    "summary": "Banco Santander SA, BBVA SA and Deutsche Bank AG are working on multiple significant risk transfers, testing the resilience of booming demand for the high-yield trade as threats to the global economy grow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/santander-bbva-deutsche-bank-test-srt-boom-with-rush-of-deals",
+    "published": "Mon, 14 Sep 2026 12:15:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:40.623685"
+  },
+  {
+    "id": "1225c7e29ffd",
+    "title": "Oil Jumps on Shutdown of Saudi Pipeline, AI Concerns, More",
+    "title_cn": "Oil Jumps on Shutdown of Saudi Pipeline, AI Concerns, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/oil-jumps-on-shutdown-of-saudi-pipeline-ai-concerns-more",
+    "published": "Mon, 14 Sep 2026 11:41:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:41.254356"
+  },
+  {
+    "id": "295332c42c3f",
+    "title": "BioNTech Lung Cancer Drug Lifts Survival Versus Chemotherapy",
+    "title_cn": "BioNTech Lung Cancer Drug Lifts Survival Versus Chemotherapy",
+    "summary": "BioNTech SE said its experimental drug gotistobart nearly doubled the median survival of patients with an aggressive form of lung cancer compared to chemotherapy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/biontech-lung-cancer-drug-extends-survival-versus-chemotherapy",
+    "published": "Mon, 14 Sep 2026 08:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:41.918582"
+  },
+  {
+    "id": "42f8ba735f51",
+    "title": "Stock Movers: M, ORCL, RUM (Podcast)",
+    "title_cn": "Stock Movers: M, ORCL, RUM (Podcast)",
+    "summary": "Source: Bloomberg, 4:02",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/stock-movers-m-orcl-rum-podcast",
+    "published": "Mon, 14 Sep 2026 11:03:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:42.398674"
+  },
+  {
+    "id": "e7f0ade21081",
+    "title": "BYD’s New EV Charges Ultra-Fast But God’s Eye Self-Driving Software Needs Work",
+    "title_cn": "BYD’s New EV Charges Ultra-Fast But God’s Eye Self-Driving Software Needs Work",
+    "summary": "The Chinese company leads on batteries yet has room to improve its driver-assistance system.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/byd-s-new-ev-charges-ultra-fast-but-god-s-eye-self-driving-software-needs-work",
+    "published": "Mon, 14 Sep 2026 11:00:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:42.883095"
+  },
+  {
+    "id": "03157ee7e1b8",
+    "title": "AI Bosses Clash With Wall Street and Trump Over Safety",
+    "title_cn": "AI Bosses Clash With Wall Street and Trump Over Safety",
+    "summary": "Here’s what you need to know to start your day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/ai-bosses-clash-with-wall-street-and-trump-over-safety",
+    "published": "Mon, 14 Sep 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:43.626046"
+  },
+  {
+    "id": "1e08fd6a7ab5",
+    "title": "US Grid Ban Hits Batteries Hardest: Analyst Reaction (Podcast)",
+    "title_cn": "US Grid Ban Hits Batteries Hardest: Analyst Reaction (Podcast)",
+    "summary": "US efforts to secure its power grid could come at a cost. A new executive order restricts grid and power equipment supplied by companies tied to China, and lithium-ion batteries are particularly exposed. The rules could boost demand for batteries from non-Chinese suppliers, but also increase costs and delay projects as developers await further guidance. So why are batteries likely to feel the biggest impact from this latest US move to restrict Chinese power equipment? On today’s show, Kamala Sch",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/us-grid-ban-hits-batteries-hardest-analyst-reaction-podcast",
+    "published": "Mon, 14 Sep 2026 10:56:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:44.253137"
+  },
+  {
+    "id": "e694c64ed2ad",
+    "title": "Credit Crunch: Manulife’s Purdie on AI, ESG and Relative Value",
+    "title_cn": "Credit Crunch: Manulife’s Purdie on AI, ESG and Relative Value",
+    "summary": "“We want to encourage risk-taking, but we want to encourage the right type of risk-taking, which is informed risk-taking,” says Colin Purdie, global CIO of public markets for Manulife Investment Management. In this episode of Credit Crunch, Purdie joins Bloomberg Intelligence’s Noel Hebert to discuss portfolio construction and decentralized decision-making within a global platform. The two explore the material growth in equity and credit issuance to fund data centers, where the benefits of AI ma",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/credit-crunch-manulife-s-purdie-on-ai-esg-and-relative-value",
+    "published": "Mon, 14 Sep 2026 10:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:44.841221"
+  },
+  {
+    "id": "9e338e5b4fb6",
+    "title": "Stocks Slide on AI Trade; Iran War Latest; More",
+    "title_cn": "Stocks Slide on AI Trade; Iran War Latest; More",
+    "summary": "Source: Bloomberg, 6:22",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/stocks-slide-on-ai-trade-iran-war-latest-more",
+    "published": "Mon, 14 Sep 2026 10:20:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:45.455967"
+  },
+  {
+    "id": "99c98c0bb483",
+    "title": "China, US Wary Over Calls to Slow AI Development in Race for Supremacy",
+    "title_cn": "China, US Wary Over Calls to Slow AI Development in Race for Supremacy",
     "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/stocks-decline-after-call-to-slow-ai-development",
-    "published": "Mon, 14 Sep 2026 06:06:48 GMT",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/china-us-wary-over-calls-to-slow-ai-development-in-race-for-supremacy",
+    "published": "Mon, 14 Sep 2026 10:19:58 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:16.551505"
+    "fetched_at": "2026-09-14T13:13:46.026258"
   },
   {
-    "id": "4fb2ab42c2e6",
-    "title": "Bloomberg Daybreak Europe: AI CEOs Vs Trump (Podcast)",
-    "title_cn": "Bloomberg Daybreak Europe: AI CEOs Vs Trump (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/bloomberg-daybreak-europe-ai-ceos-vs-trump-podcast",
-    "published": "Mon, 14 Sep 2026 06:01:15 GMT",
+    "id": "fecdd009dff8",
+    "title": "AI Slowdown Concerns; Oil Climbs; More",
+    "title_cn": "AI Slowdown Concerns; Oil Climbs; More",
+    "summary": "Source: Bloomberg, 6:29",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/ai-slowdown-concerns-oil-climbs-more",
+    "published": "Mon, 14 Sep 2026 09:43:55 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:17.075110"
+    "fetched_at": "2026-09-14T13:13:46.600456"
   },
   {
-    "id": "1d543e8e9d83",
-    "title": "Britain’s Boomers Cling to Jobs as Young People Get Locked Out",
-    "title_cn": "Britain’s Boomers Cling to Jobs as Young People Get Locked Out",
-    "summary": "In the early 2000s, Britain had as many as 10 young workers for every person over-65 with a job. Today there are just two, as older employees hang on for longer and first jobs are harder to come by.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/britain-s-boomers-cling-to-jobs-as-young-people-get-locked-out",
-    "published": "Mon, 14 Sep 2026 06:00:00 GMT",
+    "id": "0a6c0f027cc9",
+    "title": "Stock Movers: ASML, IAG, Cerillion (Podcast)",
+    "title_cn": "Stock Movers: ASML, IAG, Cerillion (Podcast)",
+    "summary": "Source: Bloomberg, 3:37",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/stock-movers-asml-iag-cerillion-podcast",
+    "published": "Mon, 14 Sep 2026 09:41:37 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:17.579852"
+    "fetched_at": "2026-09-14T13:13:47.128138"
   },
   {
-    "id": "6c86ed2607c3",
-    "title": "AI CEOs Vs Trump, Ukraine Train Strike, More",
-    "title_cn": "AI CEOs Vs Trump, Ukraine Train Strike, More",
-    "summary": "Source: Bloomberg, 8:27",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/ai-ceos-vs-trump-ukraine-train-strike-more",
-    "published": "Mon, 14 Sep 2026 05:36:15 GMT",
+    "id": "c411357a21e2",
+    "title": "Bloomberg Daybreak: AI Concerns (Podcast)",
+    "title_cn": "Bloomberg Daybreak: AI Concerns (Podcast)",
+    "summary": "Source: Bloomberg, 15:45",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/bloomberg-daybreak-ai-concerns-podcast",
+    "published": "Mon, 14 Sep 2026 09:37:34 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:18.110532"
+    "fetched_at": "2026-09-14T13:13:47.928968"
   },
   {
-    "id": "06d02fcd9263",
-    "title": "Hormuz Meeting Postponed, Asia Stocks Fall on AI Concerns, More",
-    "title_cn": "Hormuz Meeting Postponed, Asia Stocks Fall on AI Concerns, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/hormuz-meeting-postponed-asia-stocks-fall-on-ai-concerns-more",
-    "published": "Mon, 14 Sep 2026 03:38:38 GMT",
+    "id": "c94854dadf24",
+    "title": "OpenAI’s Brockman Says an AI Pause Should Focus on Frontier",
+    "title_cn": "OpenAI’s Brockman Says an AI Pause Should Focus on Frontier",
+    "summary": "Greg Brockman, OpenAI’s president and co-founder, argued that any slowdown in artificial intelligence development should be limited to companies like his that are building the most powerful models.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-brockman-says-an-ai-pause-should-focus-on-frontier",
+    "published": "Mon, 14 Sep 2026 09:14:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:18.587417"
+    "fetched_at": "2026-09-14T13:13:48.348698"
   },
   {
-    "id": "12b3f11977f1",
-    "title": "Bloomberg Daybreak Asia: AI Slowdown Concerns (Podcast)",
-    "title_cn": "Bloomberg Daybreak Asia: AI Slowdown Concerns (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/bloomberg-daybreak-asia-ai-slowdown-concerns-podcast",
-    "published": "Mon, 14 Sep 2026 03:11:33 GMT",
+    "id": "7ca7242cb16b",
+    "title": "Merryn Talks Money: Ed Conway on 'Trade World' (Podcast)",
+    "title_cn": "Merryn Talks Money: Ed Conway on 'Trade World' (Podcast)",
+    "summary": "Source: Bloomberg, 35:27",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/merryn-talks-money-ed-conway-on-trade-world-podcast",
+    "published": "Mon, 14 Sep 2026 08:51:05 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:18.991821"
+    "fetched_at": "2026-09-14T13:13:48.940939"
   },
   {
-    "id": "8893e6993e85",
-    "title": "Hormuz Meeting Delayed, Stocks Drop on AI Concerns, More",
-    "title_cn": "Hormuz Meeting Delayed, Stocks Drop on AI Concerns, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/hormuz-meeting-delayed-stocks-drop-on-ai-concerns-more",
-    "published": "Mon, 14 Sep 2026 02:52:57 GMT",
+    "id": "f34ea719c154",
+    "title": "China Rejects AI 'Fearmongering', Oil Prices Rise, More",
+    "title_cn": "China Rejects AI 'Fearmongering', Oil Prices Rise, More",
+    "summary": "Source: Bloomberg, 6:38",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-14/china-rejects-ai-fearmongering-oil-prices-rise-more",
+    "published": "Mon, 14 Sep 2026 08:34:03 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:19.445366"
+    "fetched_at": "2026-09-14T13:13:49.368472"
   },
   {
-    "id": "7e31b8fdd6af",
-    "title": "Iran-Gulf Hormuz Talks Delayed, Stocks Drop After AI Warnings",
-    "title_cn": "Iran-Gulf Hormuz Talks Delayed, Stocks Drop After AI Warnings",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/iran-gulf-hormuz-talks-delayed-stocks-drop-after-ai-warnings",
-    "published": "Mon, 14 Sep 2026 02:12:58 GMT",
+    "id": "d03d262eab76",
+    "title": "Emerging Currencies Fall as Oil Nears $110 at Start of Fed Week",
+    "title_cn": "Emerging Currencies Fall as Oil Nears $110 at Start of Fed Week",
+    "summary": "Emerging-market assets fell at the start of a pivotal week for global markets, as surging oil prices and concerns over the pace of artificial-intelligence development weighed on stocks and currencies ahead of an expected Federal Reserve interest-rate hike — its first since 2023.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks",
+    "published": "Mon, 14 Sep 2026 04:26:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:20.020359"
-  },
-  {
-    "id": "8c888e44cca9",
-    "title": "Iran Hormuz Meeting Postponed, Zverev Wins US Open Title, More",
-    "title_cn": "Iran Hormuz Meeting Postponed, Zverev Wins US Open Title, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/iran-hormuz-meeting-postponed-zverev-wins-us-open-title-more",
-    "published": "Mon, 14 Sep 2026 00:55:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:20.576742"
-  },
-  {
-    "id": "188f4ba3e8c6",
-    "title": "Oman Says Hormuz Meeting Delayed, Zverev Wins US Open, More",
-    "title_cn": "Oman Says Hormuz Meeting Delayed, Zverev Wins US Open, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-14/oman-says-hormuz-meeting-delayed-zverev-wins-us-open-more",
-    "published": "Mon, 14 Sep 2026 00:07:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:21.048086"
-  },
-  {
-    "id": "09fb23fb2ae3",
-    "title": "Australia’s Far-Right Leader Vows to Cut Migrants by 750,000",
-    "title_cn": "Australia’s Far-Right Leader Vows to Cut Migrants by 750,000",
-    "summary": "Australia’s far-right One Nation party is proposing to cut the number of temporary migrants by about 750,000 over three years, aiming to capitalize on discontent over cost-of-living pressures and a housing squeeze.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/australia-s-far-right-leader-vows-to-cut-migrants-by-750-000",
-    "published": "Sun, 13 Sep 2026 23:48:55 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:21.364180"
-  },
-  {
-    "id": "e13c7207070d",
-    "title": "Housing Market, Bathla, AI: Australia Briefing",
-    "title_cn": "Housing Market, Bathla, AI: Australia Briefing",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/housing-market-bathla-ai-australia-briefing",
-    "published": "Sun, 13 Sep 2026 23:17:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:21.754106"
-  },
-  {
-    "id": "60889e92debc",
-    "title": "Trump EPA to Rescind Carbon Standards for Coal, Gas Power Plants",
-    "title_cn": "Trump EPA to Rescind Carbon Standards for Coal, Gas Power Plants",
-    "summary": "The US Environmental Protection Agency is expected to formally rescind carbon pollution standards for fossil fuel-fired power plants as soon as Monday, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-epa-to-rescind-carbon-standards-for-coal-gas-power-plants",
-    "published": "Sun, 13 Sep 2026 23:06:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:22.230317"
-  },
-  {
-    "id": "d4a130af8424",
-    "title": "Zverev Wins US Open, Oman: Hormuz Meeting Postponed, More",
-    "title_cn": "Zverev Wins US Open, Oman: Hormuz Meeting Postponed, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-13/zverev-wins-us-open-oman-hormuz-meeting-postponed-more",
-    "published": "Sun, 13 Sep 2026 23:00:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:22.632381"
-  },
-  {
-    "id": "db308493fe6b",
-    "title": "Michael Dell’s DFO Nears Deal to Buy Insurer Baldwin, FT Says",
-    "title_cn": "Michael Dell’s DFO Nears Deal to Buy Insurer Baldwin, FT Says",
-    "summary": "Billionaire Michael Dell’s family office is nearing a deal to acquire The Baldwin Insurance Group Inc., an insurance brokerage with a market value of $4.2 billion, the Financial Times reported.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/michael-dell-s-dfo-nears-deal-to-buy-insurer-baldwin-ft-says",
-    "published": "Sun, 13 Sep 2026 22:44:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:23.145973"
-  },
-  {
-    "id": "30fb724b5455",
-    "title": "Zverev Tops Shelton to Win US Open, Trump on AI Concerns, More",
-    "title_cn": "Zverev Tops Shelton to Win US Open, Trump on AI Concerns, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-13/zverev-tops-shelton-to-win-us-open-trump-on-ai-concerns-more",
-    "published": "Sun, 13 Sep 2026 22:18:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:23.649031"
-  },
-  {
-    "id": "ea47a79ae282",
-    "title": "AI Giants Urge Slower Development to Address Safety Concerns",
-    "title_cn": "AI Giants Urge Slower Development to Address Safety Concerns",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/ai-giants-urge-slower-development-to-address-safety-concerns",
-    "published": "Sun, 13 Sep 2026 21:30:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:24.153052"
-  },
-  {
-    "id": "9c738f640ae6",
-    "title": "Pennsylvania Records Third Measles Death Amid CDC Pushback",
-    "title_cn": "Pennsylvania Records Third Measles Death Amid CDC Pushback",
-    "summary": "Pennsylvania reported its third measles death, just days after the US Centers for Disease Control and Prevention again declined to include two other measles deaths in the state in its 2026 outbreak count.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/pennsylvania-records-third-measles-death-amid-cdc-pushback",
-    "published": "Sun, 13 Sep 2026 21:16:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:24.740704"
-  },
-  {
-    "id": "c2de0989c621",
-    "title": "Trump, Dems React to AI Warnings, Iran Hormuz Meeting Delayed",
-    "title_cn": "Trump, Dems React to AI Warnings, Iran Hormuz Meeting Delayed",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-13/trump-dems-react-to-ai-warnings-iran-hormuz-meeting-delayed",
-    "published": "Sun, 13 Sep 2026 20:56:15 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:25.306862"
-  },
-  {
-    "id": "68c38b2506c5",
-    "title": "Trump Downplays AI Concerns, Oman Says Hormuz Meeting Delayed",
-    "title_cn": "Trump Downplays AI Concerns, Oman Says Hormuz Meeting Delayed",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-13/trump-downplays-ai-concerns-oman-says-hormuz-meeting-delayed",
-    "published": "Sun, 13 Sep 2026 20:18:41 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:25.883272"
-  },
-  {
-    "id": "dfeedc5c555a",
-    "title": "Fed's Warsh on Trump Collision Course as Rate Hike Looms (Video)",
-    "title_cn": "Fed's Warsh on Trump Collision Course as Rate Hike Looms (Video)",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/fed-s-warsh-on-trump-collision-course-as-rate-hike-looms-video",
-    "published": "Mon, 14 Sep 2026 06:19:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:26.719840"
-  },
-  {
-    "id": "0e821737a815",
-    "title": "Copper Slips as Inflation Data Raises Bets on Fed Hiking Rates",
-    "title_cn": "Copper Slips as Inflation Data Raises Bets on Fed Hiking Rates",
-    "summary": "Copper declined as hotter-than-expected US inflation saw traders boost bets on the Federal Reserve hiking interest rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/copper-slips-as-inflation-data-raises-bets-on-fed-hiking-rates",
-    "published": "Mon, 14 Sep 2026 02:19:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:27.219831"
-  },
-  {
-    "id": "a10a9bbe8205",
-    "title": "Alhasan: Houthis Gain in Yemen Significant for Iran",
-    "title_cn": "Alhasan: Houthis Gain in Yemen Significant for Iran",
-    "summary": "Oil pushed higher after Saudi Arabia shut a major crude pipeline following attacks, disrupting a route used to bypass the Strait of Hormuz during the US-Iran war. Meanwhile, a planned meeting between Iran and several Gulf nations on creating a temporary shipping lane through the Strait of Hormuz has been postponed. Hasan Alhasan, Senior Fellow for Middle East Policy at the International Institute for Strategic Studies spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the developments in the region. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/alhasan-houthis-gain-in-yemen-significant-for-iran-video",
-    "published": "Mon, 14 Sep 2026 06:01:09 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:27.811488"
-  },
-  {
-    "id": "39e997e90918",
-    "title": "Stocks Drop on AI Slowdown Concerns, Oil Advances: Markets Wrap",
-    "title_cn": "Stocks Drop on AI Slowdown Concerns, Oil Advances: Markets Wrap",
-    "summary": "Stocks and futures retreated after major artificial intelligence companies called for a slowdown in the technology’s development, raising concerns about a sector that has powered this year’s rally. Oil rose.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-    "published": "Sun, 13 Sep 2026 22:06:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:28.128394"
-  },
-  {
-    "id": "d988763d8756",
-    "title": "FTSE 100 Live: UK Stock Futures Rise as Oil Marches Higher",
-    "title_cn": "FTSE 100 Live: UK Stock Futures Rise as Oil Marches Higher",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-09-14/ftse-100-live-pound-bond-oil-prices-iran-trump-hormuz-ai-stocks-boe-what-s-moving-uk-markets-right-now-markets-today-mu0toq7x",
-    "published": "Mon, 14 Sep 2026 05:49:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:28.546465"
-  },
-  {
-    "id": "7c12742f149e",
-    "title": "Dangote's Fortune Set to Jump $23 Bln on Refinery IPO",
-    "title_cn": "Dangote's Fortune Set to Jump $23 Bln on Refinery IPO",
-    "summary": "Africa's richest man, Aliko Dangote, is poised to make a $23 billion leap up the list of the world’s wealthiest as he opens an initial public offering for his refinery. The tycoon’s net worth is projected to reach as much as $58.2 billion with the IPO of Dangote Petroleum Refinery and Petrochemicals Fze, according to Bloomberg calculations, surpassing US hedge fund tycoon Ken Griffin and tech billionaire Eric Schmidt. Bloomberg's Anthony Osae-Brown reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/dangote-s-fortune-set-to-jump-23-bln-on-refinery-ipo-video",
-    "published": "Mon, 14 Sep 2026 05:31:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:28.996008"
-  },
-  {
-    "id": "073ad219897c",
-    "title": "Shutdown of Saudi Pipeline Deepens Energy Crisis",
-    "title_cn": "Shutdown of Saudi Pipeline Deepens Energy Crisis",
-    "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/insight-with-haslinda-amin-9-14-2026-video",
-    "published": "Mon, 14 Sep 2026 05:20:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:29.512424"
+    "fetched_at": "2026-09-14T13:13:50.475822"
   },
   {
     "id": "aa5408c9a4fc",
     "title": "Latest Oil Market News and Analysis for Sept. 14",
     "title_cn": "Latest Oil Market News and Analysis for Sept. 14",
-    "summary": "Oil pushed higher as Saudi Arabia’s closure of a major crude pipeline following attacks jolted the market, with the move disrupting a route that’s been key to bypassing the Strait of Hormuz during the US-Iran war.",
+    "summary": "Oil surged on a report that Saudi Arabia may take weeks to reopen a pipeline that’s been key to bypassing the Strait of Hormuz during the US-Iran war.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-13/latest-oil-market-news-and-analysis-for-sept-14",
     "published": "Sun, 13 Sep 2026 22:01:52 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:30.044105"
+    "fetched_at": "2026-09-14T13:13:51.110082"
   },
   {
-    "id": "ca3bd606e7f9",
-    "title": "Australian Miner Seeks Cheaper Bond to Refinance Private Loan",
-    "title_cn": "Australian Miner Seeks Cheaper Bond to Refinance Private Loan",
-    "summary": "Australian miner GM3 is gauging investor sentiment for a possible bond issue to refinance a $600 million private credit loan, adding to a list of borrowers turning to public debt markets to try to lower funding costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/australian-miner-seeks-cheaper-bond-to-refinance-private-loan",
-    "published": "Mon, 14 Sep 2026 04:59:42 GMT",
+    "id": "34c5966cdf2e",
+    "title": "Developer Concord Pacific Buys Wind Farm, Plots Data Centers",
+    "title_cn": "Developer Concord Pacific Buys Wind Farm, Plots Data Centers",
+    "summary": "Concord Pacific Developments Inc. acquired a field of fifty wind turbines from Potentia Renewables Inc. for several hundred million Canadian dollars, deepening the Canadian developer’s long-term bet on renewables, its CEO said, adding that he’s working on a move into data centers too.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/canada-developer-concord-buys-wind-farm-plots-new-data-centers",
+    "published": "Mon, 14 Sep 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:30.360461"
+    "fetched_at": "2026-09-14T13:13:51.796032"
   },
   {
-    "id": "f48b11c4eaa5",
-    "title": "US Deputy Energy Chief on Securing Asia’s Power Future",
-    "title_cn": "US Deputy Energy Chief on Securing Asia’s Power Future",
-    "summary": "US Department of Energy Deputy Secretary James Danly discusses how Washington can bolster Asia's energy security amid surging oil and gas import costs. He speaks with Haslinda Amin from the sidelines of 'Gastech Bangkok 2026'. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/us-deputy-energy-chief-on-securing-asia-s-power-future-video",
-    "published": "Mon, 14 Sep 2026 04:55:59 GMT",
+    "id": "5fe059435f02",
+    "title": "Stocks Fall as AI Slowdown Fears, Oil Jitters Hit Sentiment",
+    "title_cn": "Stocks Fall as AI Slowdown Fears, Oil Jitters Hit Sentiment",
+    "summary": "US equity futures fall as leaders of the biggest AI firms propose slowing the technology’s development. China criticizing the warnings saying a Chinese advantage could threaten American national security. Oil prices rising after Saudi Arabia closed a major crude pipeline following attacks. Amy Wu Silverman of RBC Capital Markets joins \"Bloomberg Brief\" to look ahead to the Fed decision after the inflation report. Bloomberg Contributor Adam Hodge of Bully Pulpit International discusses what to expect from the US midterm elections. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/stocks-fall-as-ai-slowdown-fears-oil-jitters-hit-sentiment",
+    "published": "Mon, 14 Sep 2026 13:02:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:30.781072"
+    "fetched_at": "2026-09-14T13:13:52.315152"
   },
   {
-    "id": "866dbe46d68e",
-    "title": "James Danly: US Expanding LNG Exports to Lower Prices",
-    "title_cn": "James Danly: US Expanding LNG Exports to Lower Prices",
-    "summary": "US Department of Energy Deputy Secretary James Danly tells Bloomberg's Haslidna Amin that the US is accelerating LNG export approvals and production to lower energy prices globally. He argues that expanding American energy abundance will offset supply disruptions, even as infrastructure limits remain. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/james-danly-us-expanding-lng-exports-to-lower-prices-video",
-    "published": "Mon, 14 Sep 2026 04:49:49 GMT",
+    "id": "ed7d9dcf9438",
+    "title": "Etihad Airways CEO on Airline, Fuel Prices, IPO",
+    "title_cn": "Etihad Airways CEO on Airline, Fuel Prices, IPO",
+    "summary": "Etihad Airways Chief Executive Officer Antonoaldo Neves discusses fuel price hedging and the risks around the conflict in the Middle East. He also talks about a possible future IPO, saying the airline doesn't have any plans for that. \"We can finance our expansion with our own cash flow generation,\" Neves says. He speaks with Bloomberg's Abeer Abu Omar. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/etihad-airways-ceo-on-airline-fuel-prices-ipo-video",
+    "published": "Mon, 14 Sep 2026 13:01:59 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:31.244892"
+    "fetched_at": "2026-09-14T13:13:52.865765"
   },
   {
-    "id": "d03d262eab76",
-    "title": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks",
-    "title_cn": "Emerging-Market Stocks Decline on Mideast Tensions, Rate Risks",
-    "summary": "Emerging-market stocks fell as rising tensions in the Middle East drove investors toward safer assets, while uncertainty over the global rate outlook added to the pressure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/emerging-market-stocks-decline-on-mideast-tensions-rate-risks",
-    "published": "Mon, 14 Sep 2026 04:26:21 GMT",
+    "id": "e17d73090631",
+    "title": "Crispin Odey Loses Bid to Overturn UK Financial Services Ban",
+    "title_cn": "Crispin Odey Loses Bid to Overturn UK Financial Services Ban",
+    "summary": "Crispin Odey lost his bid to overturn a lifetime ban from managing money, capping a remarkable fall from grace for the once feted fund manager.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/crispin-odey-loses-bid-to-overturn-uk-financial-services-ban",
+    "published": "Mon, 14 Sep 2026 12:33:26 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:31.639069"
+    "fetched_at": "2026-09-14T13:13:53.714283"
   },
   {
-    "id": "cef418ad1236",
-    "title": "AI Chiefs Call for Slower Model Development",
-    "title_cn": "AI Chiefs Call for Slower Model Development",
-    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/the-asia-trade-9-14-2026-video",
-    "published": "Mon, 14 Sep 2026 04:23:44 GMT",
+    "id": "347b13959399",
+    "title": "US Energy Secretary Wright on Mideast Oil Flows, Hormuz, Refining",
+    "title_cn": "US Energy Secretary Wright on Mideast Oil Flows, Hormuz, Refining",
+    "summary": "US Energy Secretary Chris Wright says he expects Saudi Arabia’s East-West Pipeline to the Red Sea to be up and running “very soon.” Wight also discusses flows of crude oil and oil products through the Strait of Hormuz and the status of the US’s strategic petroleum reserve on “Bloomberg Surveillance.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/us-energy-secretary-on-oil-flows-hormuz-refining-video",
+    "published": "Mon, 14 Sep 2026 12:56:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:32.109117"
+    "fetched_at": "2026-09-14T13:13:54.177919"
   },
   {
-    "id": "d3968c53ae3b",
-    "title": "SoftBank Shares Tumble After AI Chiefs Sound Alarm on Safety",
-    "title_cn": "SoftBank Shares Tumble After AI Chiefs Sound Alarm on Safety",
-    "summary": "<p>SoftBank Group’s shares slid the most in nearly three months after the heads of Anthropic PBC and OpenAI called on developers to tap the brakes on artificial intelligence development for safety reasons.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-group-shares-fall-after-openai-ipo-delay-ai-warning",
-    "published": "Mon, 14 Sep 2026 00:32:05 GMT",
+    "id": "9b404e2e1335",
+    "title": "IMF Says It’s Preparing DSA for Senegal Under Current Framework",
+    "title_cn": "IMF Says It’s Preparing DSA for Senegal Under Current Framework",
+    "summary": "The International Monetary Fund said that Senegal’s debt sustainability analysis, or DSA, is being prepared under the “current framework” for low-income countries, according to a spokesperson.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/imf-says-it-s-preparing-dsa-for-senegal-under-current-framework",
+    "published": "Mon, 14 Sep 2026 12:52:12 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:32.569139"
+    "fetched_at": "2026-09-14T13:13:54.774566"
   },
   {
-    "id": "b3d8d0485bc6",
-    "title": "China Tax Clampdown Raises Fears of Founder Share Disposals",
-    "title_cn": "China Tax Clampdown Raises Fears of Founder Share Disposals",
-    "summary": "Haidilao International Holding Ltd.’s sudden slump after its co-founder sold about $350 million worth of shares is putting the spotlight on other stocks that may be vulnerable to similar selling.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-s-tax-clampdown-raises-fears-of-founder-share-disposals",
-    "published": "Mon, 14 Sep 2026 00:03:09 GMT",
+    "id": "19187f9868e9",
+    "title": "US Miner Signs Rwanda Tungsten Deal to Grow Western Supply",
+    "title_cn": "US Miner Signs Rwanda Tungsten Deal to Grow Western Supply",
+    "summary": "An American miner is partnering with Rwanda’s government to source and process tungsten from the African nation, extending a push to build a Western-aligned supply chain for the strategic metal that reduces reliance on China.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/american-miner-signs-rwanda-tungsten-deal-to-grow-western-supply",
+    "published": "Mon, 14 Sep 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:33.024368"
+    "fetched_at": "2026-09-14T13:13:55.265659"
   },
   {
-    "id": "3740fbf814ff",
-    "title": "Europe’s Fractured Stock Market Finally Gets a Single Data Feed",
-    "title_cn": "Europe’s Fractured Stock Market Finally Gets a Single Data Feed",
-    "summary": "Europe’s protracted efforts to turn its much maligned markets into a more attractive proposition for investors reach a momentous juncture Monday: the arrival of a consolidated tape.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/europe-s-fractured-stock-market-finally-gets-a-single-data-feed",
-    "published": "Mon, 14 Sep 2026 04:00:00 GMT",
+    "id": "9505e5dd1611",
+    "title": "Bond Veteran Bassman Escalates Clash With $14 Billion ETF Issuer",
+    "title_cn": "Bond Veteran Bassman Escalates Clash With $14 Billion ETF Issuer",
+    "summary": "A messy breakup between Harley Bassman, the derivatives expert who invented the main gauge of Treasury volatility, and his former employer has escalated after the bond veteran sent a letter to the firm’s shareholders challenging its business practices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/bond-veteran-bassman-escalates-clash-with-14-billion-etf-issuer",
+    "published": "Mon, 14 Sep 2026 12:48:37 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:33.428320"
+    "fetched_at": "2026-09-14T13:13:55.912868"
   },
   {
-    "id": "9187d37d2ac0",
-    "title": "South Korea’s $1.4 Trillion National Pension Fund Picks New CIO",
-    "title_cn": "South Korea’s $1.4 Trillion National Pension Fund Picks New CIO",
-    "summary": "South Korea’s National Pension Service named Kyuhong Lee as chief investment officer to oversee its $1.4 trillion portfolio, handing him the reins of one of the world’s largest pools of retirement savings after a sharp surge in investment returns in the first half.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/south-korea-s-1-4-trillion-national-pension-fund-picks-new-cio",
-    "published": "Mon, 14 Sep 2026 03:52:40 GMT",
+    "id": "88c189e398c8",
+    "title": "Aon Kicks Off Seven-Part US Dollar Bond Sale for USI Takeover",
+    "title_cn": "Aon Kicks Off Seven-Part US Dollar Bond Sale for USI Takeover",
+    "summary": "Aon Plc has kicked off a jumbo US investment-grade debt offering to help fund its planned $17 billion acquisition of USI Insurance Services from private equity firm KKR &amp; Co..",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/aon-kicks-off-seven-part-us-dollar-bond-sale-for-usi-takeover",
+    "published": "Mon, 14 Sep 2026 12:23:05 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:33.890666"
+    "fetched_at": "2026-09-14T13:13:56.419992"
   },
   {
-    "id": "d42d0aac8f4f",
-    "title": "Pakistan's GasPort on LNG Outlook Amid Hormuz Closure",
-    "title_cn": "Pakistan's GasPort on LNG Outlook Amid Hormuz Closure",
-    "summary": "Pakistan GasPort Chairman Iqbal Z. Ahmed highlights how the closure of the Strait of Hormuz has disrupted LNG supply chains, reshaping Pakistan’s demand outlook. He speaks with Haslinda Amin from the sidelines of 'Gastech Bangkok 2026'.\n\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/pakistan-s-gasport-on-lng-outlook-amid-hormuz-closure-video",
-    "published": "Mon, 14 Sep 2026 03:39:44 GMT",
+    "id": "ed8bfff3d243",
+    "title": "Daimler Truck Says Customers Pass on High Diesel Prices for Now",
+    "title_cn": "Daimler Truck Says Customers Pass on High Diesel Prices for Now",
+    "summary": "Record diesel prices are squeezing trucking companies in the US and Europe, though many of Daimler Truck Holding AG’s customers can still pass the additional fuel costs on to their own clients, Chief Executive Officer Karin Rådström said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/daimler-truck-says-customers-pass-on-high-diesel-prices-for-now",
+    "published": "Mon, 14 Sep 2026 12:37:16 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:34.439244"
+    "fetched_at": "2026-09-14T13:13:56.858599"
   },
   {
-    "id": "e36a5897adab",
-    "title": "How China Is Responding to Calls to Rein in AI",
-    "title_cn": "How China Is Responding to Calls to Rein in AI",
-    "summary": "Bloomberg's Yvonne Man speaks with Artificial Analysis's Micah Hill-Smith about the AI race, China's role in it, and the growing debate over model safety. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/how-china-is-responding-to-calls-to-rein-in-ai-video",
-    "published": "Mon, 14 Sep 2026 03:15:55 GMT",
+    "id": "d559367c41be",
+    "title": "Bonds Making It Clear the Fed Needs to Hike, Morgan Stanley’s Hornbach Says",
+    "title_cn": "Bonds Making It Clear the Fed Needs to Hike, Morgan Stanley’s Hornbach Says",
+    "summary": "Matt Hornbach, global head of macro strategy at Morgan Stanley, expects the Federal Reserve to deliver a 25 basis-point rate hike on Wednesday. He says, “it’s certainly a possibility that the Fed is one and done but that’s not what the markets are pricing in at the moment.” (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/bonds-making-it-clear-the-fed-needs-to-hike-hornbach-video",
+    "published": "Mon, 14 Sep 2026 12:34:14 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:34.803965"
+    "fetched_at": "2026-09-14T13:13:57.373027"
   },
   {
-    "id": "770b3fb96105",
-    "title": "Malaysia Charges Second UMNO Leader After Pilgrimage Fund Probe",
-    "title_cn": "Malaysia Charges Second UMNO Leader After Pilgrimage Fund Probe",
-    "summary": "Malaysian authorities charged former minister Jamil Khir Baharom for allegedly misappropriating 860 million ringgit ($210 million) from the Muslim pilgrimage fund Tabung Haji, making him the second United Malays National Organisation leader to be charged over the fund in as many weeks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/malaysia-charges-second-umno-leader-after-pilgrimage-fund-probe",
-    "published": "Mon, 14 Sep 2026 03:00:35 GMT",
+    "id": "39e997e90918",
+    "title": "Stocks Slide as AI Slowdown Fears Hit Sentiment: Markets Wrap",
+    "title_cn": "Stocks Slide as AI Slowdown Fears Hit Sentiment: Markets Wrap",
+    "summary": "Equities fell around the world after leaders of the biggest artificial-intelligence firms proposed slowing the technology’s development, with an advance in oil prices sapping risk sentiment further.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+    "published": "Sun, 13 Sep 2026 22:06:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:35.247904"
+    "fetched_at": "2026-09-14T13:13:58.055776"
   },
   {
-    "id": "20b72455aadf",
-    "title": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
-    "title_cn": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
-    "summary": "OpenAI Chief Executive Officer Sam Altman on Sunday added his support to the idea of “pacing” AI development, so that cutting-edge models don’t outrun the ability of humans to maintain control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development",
-    "published": "Mon, 14 Sep 2026 05:09:52 GMT",
+    "id": "00407db2ee14",
+    "title": "India August Inflation Accelerates, Narrowing RBI Pause Room",
+    "title_cn": "India August Inflation Accelerates, Narrowing RBI Pause Room",
+    "summary": "India’s inflation accelerated in August, moving closer to the top of the central bank’s 2%-6% target range and potentially narrowing the scope for policymakers to remain on hold for long.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/india-august-inflation-accelerates-narrowing-rbi-pause-room",
+    "published": "Mon, 14 Sep 2026 10:36:50 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:36.062253"
+    "fetched_at": "2026-09-14T13:13:58.654903"
+  },
+  {
+    "id": "179d8a9e994c",
+    "title": "Junk Firms Are Refinancing Debt Early on Fear Costs Will Rise",
+    "title_cn": "Junk Firms Are Refinancing Debt Early on Fear Costs Will Rise",
+    "summary": "Junk-rated borrowers lining up around €3.7 billion ($4.3 billion) in refinancing deals are willing to accept significantly higher rates, betting costs will rise even further if they wait.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/junk-firms-are-refinancing-debt-early-on-fear-costs-will-rise",
+    "published": "Mon, 14 Sep 2026 12:00:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:59.254775"
+  },
+  {
+    "id": "6d852637f4eb",
+    "title": "Italian Watchdog Queries Ferretti on Asset Math After Order Drop",
+    "title_cn": "Italian Watchdog Queries Ferretti on Asset Math After Order Drop",
+    "summary": "Italy’s securities regulator has asked Ferretti SpA for information on its assessment of asset values after the yachtmaker cut its annual outlook, according to a document seen by Bloomberg.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/italian-watchdog-queries-ferretti-on-asset-math-after-order-drop",
+    "published": "Mon, 14 Sep 2026 12:00:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:13:59.726447"
+  },
+  {
+    "id": "814fe68e168d",
+    "title": "Swedish Bank Shares Gain as Close Vote Eases Tax Concerns",
+    "title_cn": "Swedish Bank Shares Gain as Close Vote Eases Tax Concerns",
+    "summary": "Swedish bank stocks advanced in Stockholm after Sunday’s tight election reduced the perceived risk of a potential new tax on lenders.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/swedish-bank-shares-gain-as-close-vote-eases-tax-concerns",
+    "published": "Mon, 14 Sep 2026 11:56:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:00.381306"
+  },
+  {
+    "id": "3c3fb8ec5dc0",
+    "title": "Iran Exploiting Houthi Attack ‘Wildcard,’ Says BI’s Sanders",
+    "title_cn": "Iran Exploiting Houthi Attack ‘Wildcard,’ Says BI’s Sanders",
+    "summary": "Col. Wayne Sanders (Ret.) of Bloomberg Intelligence examines the role being played by Yemen’s Houthis against Iran’s Gulf state neighbors and the importance of Oman to the US in the Middle East. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/iran-exploiting-houthi-wildcard-says-bi-s-sanders-video",
+    "published": "Mon, 14 Sep 2026 11:52:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:00.799827"
+  },
+  {
+    "id": "35f4efec83a4",
+    "title": "Saudi Pipeline Attack Sends Oil Higher, AI Slowdown Hits Stocks",
+    "title_cn": "Saudi Pipeline Attack Sends Oil Higher, AI Slowdown Hits Stocks",
+    "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/the-pulse-9-14-2026-video",
+    "published": "Mon, 14 Sep 2026 11:40:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:01.325875"
   },
   {
     "id": "ba2e2b3a9e95",
@@ -417,17 +407,177 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
     "published": "Mon, 14 Sep 2026 02:02:50 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:36.506424"
+    "fetched_at": "2026-09-14T13:14:02.337814"
+  },
+  {
+    "id": "a1448938c061",
+    "title": "China Rejects AI ‘Fearmongering’ After Amodei Urges Slowdown",
+    "title_cn": "China Rejects AI ‘Fearmongering’ After Amodei Urges Slowdown",
+    "summary": "China criticized warnings from leading US technology executives to put the brakes on artificial intelligence development and claims that Chinese progress posed a dire security threat to the world.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-rejects-ai-fearmongering-after-amodei-urges-slowdown",
+    "published": "Mon, 14 Sep 2026 07:39:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:02.861038"
+  },
+  {
+    "id": "c05edaca910d",
+    "title": "Dangote Refinery IPO Demand Crashes Some Local Trading Apps",
+    "title_cn": "Dangote Refinery IPO Demand Crashes Some Local Trading Apps",
+    "summary": "Demand for the continent’s biggest initial public offering, the Dangote Petroleum Refinery and Petrochemicals FZE, overwhelmed some of the many Nigerian investing apps soon after the share sales started.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/dangote-refinery-ipo-demand-crashes-nigerian-trading-app-bamboo",
+    "published": "Mon, 14 Sep 2026 10:09:15 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:03.580252"
+  },
+  {
+    "id": "bfdf07131829",
+    "title": "China Rejects AI 'Fearmongering' as CEO's Urge Slowdown",
+    "title_cn": "China Rejects AI 'Fearmongering' as CEO's Urge Slowdown",
+    "summary": "China criticized dire warnings about AI's risks after leading US technology executives backed calls to slow the development of advanced models and warned that a Chinese advantage could threaten American national security. spokesman Guo Jiakun said \"Fearmongering, confrontation and vicious competition will only disrupt the process of global AI governance and serve the interests of no one,\". The comments came after Anthropic CEO Officer Dario Amodei called for companies to moderate the pace at which they improve AI capabilities, warning that safeguards are failing to keep up. Our Tech Europe Anchor Tom Mackenzie Joins Stephen Carroll and Caroline Hepker on Bloomberg Radio to discuss (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/china-rejects-ai-fearmongering-as-ceo-s-urge-slowdown-video",
+    "published": "Mon, 14 Sep 2026 11:30:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:04.259121"
+  },
+  {
+    "id": "9e1cd39c8d38",
+    "title": "Intel-Backed Construction AI Firm Buildots Raises $130 Million",
+    "title_cn": "Intel-Backed Construction AI Firm Buildots Raises $130 Million",
+    "summary": "Buildots, a startup that uses artificial intelligence to help speed up construction of expensive mega-projects like data centers, chip factories and hospitals, has raised $130 million in new financing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/intel-backed-construction-ai-firm-buildots-raises-130-million",
+    "published": "Mon, 14 Sep 2026 11:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:05.042044"
+  },
+  {
+    "id": "c0950f7dd9db",
+    "title": "RBC’s Calvasina Wraps ‘AI Froth’ Into Earnings Risks",
+    "title_cn": "RBC’s Calvasina Wraps ‘AI Froth’ Into Earnings Risks",
+    "summary": "Lori Calvasina, head of US equity strategies at RBC, discusses earnings risks for stocks from the artificial intelligence buildout and what her firm sees on technology capex outside of the top 10 markets cap names in the S&amp;P 500. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/rbc-s-calvasina-wraps-ai-froth-into-earnings-risks-video",
+    "published": "Mon, 14 Sep 2026 11:04:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:05.537989"
+  },
+  {
+    "id": "4c40120624cc",
+    "title": "Apple’s iPhone Duo Tackles the Challenge of Taking Foldables Mainstream",
+    "title_cn": "Apple’s iPhone Duo Tackles the Challenge of Taking Foldables Mainstream",
+    "summary": "The iPhone maker seeks to change consumer tastes with its newest device",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/apple-s-iphone-duo-tackles-the-challenge-of-taking-foldables-mainstream",
+    "published": "Mon, 14 Sep 2026 11:02:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:06.029255"
+  },
+  {
+    "id": "2a3f2ce1da02",
+    "title": "S&P Global, DRW Back Crypto Data Firm Kaiko as 24/7 Markets Loom",
+    "title_cn": "S&P Global, DRW Back Crypto Data Firm Kaiko as 24/7 Markets Loom",
+    "summary": "A group of large financial firms including DRW Holdings LLC, Susquehanna and Royal Bank of Canada invested in digital-asset data provider Kaiko, as progress toward round-the-clock trading on blockchain rails sparks demand for new kinds of infrastructure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/s-p-global-drw-back-crypto-data-firm-kaiko-as-24-7-markets-loom",
+    "published": "Mon, 14 Sep 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:06.693802"
+  },
+  {
+    "id": "d8b02694fd16",
+    "title": "Fintech Tabby Hits Valuation of $6.5 Billion, Topping Klarna",
+    "title_cn": "Fintech Tabby Hits Valuation of $6.5 Billion, Topping Klarna",
+    "summary": "Gulf fintech firm Tabby said it was valued at $6.5 billion in an investment round led by Blue Pool Capital, the Hong Kong investment firm that manages the assets of Alibaba Group Holding Ltd.’s Chairman Joseph Tsai.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/fintech-tabby-s-valuation-hits-6-5-billion-to-top-klarna",
+    "published": "Mon, 14 Sep 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:07.329685"
+  },
+  {
+    "id": "e36f58a6cf8a",
+    "title": "AI Use for Schoolwork Leaves Students 1.5 Years Behind, OECD Finds",
+    "title_cn": "AI Use for Schoolwork Leaves Students 1.5 Years Behind, OECD Finds",
+    "summary": "But use of AI chatbots is pervasive in Asian economies",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/ai-use-for-schoolwork-leaves-students-1-5-years-behind-oecd-finds",
+    "published": "Mon, 14 Sep 2026 10:30:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:07.897408"
+  },
+  {
+    "id": "7c727e42359c",
+    "title": "Forvia Is Said to Explore Selling Car Smart-Tech Unit Clarion",
+    "title_cn": "Forvia Is Said to Explore Selling Car Smart-Tech Unit Clarion",
+    "summary": "French automotive supplier Forvia SE is considering selling its Japanese unit Clarion Electronics Co. as it looks to cut debt and streamline, according to people familiar with the situation.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/forvia-is-said-to-explore-selling-car-smart-tech-unit-clarion",
+    "published": "Mon, 14 Sep 2026 10:09:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:08.446032"
+  },
+  {
+    "id": "d194cd2dd0ae",
+    "title": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
+    "title_cn": "Anthropic's Solution to AI Danger Is 'Quite Vague': Opinion",
+    "summary": "Bloomberg Opinion columnist Parmy Olson discusses Anthropic PBC Chief Executive Officer Dario Amodei's proposal that AI labs should slow down their most cutting-edge research. \"Pacing or slowing down does also just essentially kick the can down the road,\" Olson says on Bloomberg Television. \"Dario's essay was quite vague in terms of how he thinks that should happen.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/anthropic-s-solution-to-ai-danger-quite-vague-opinion-video",
+    "published": "Mon, 14 Sep 2026 08:55:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:08.891371"
+  },
+  {
+    "id": "723b83d66f0a",
+    "title": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
+    "title_cn": "M&G's Municchi Says Investors 'More Wary' About AI Trade",
+    "summary": "Maria Municchi, multi asset fund manager at M&amp;G Investments, discusses the outlook for the artificial intelligence trade after leaders of the biggest firms proposed slowing the technology’s development. She tells Bloomberg Television that while \"price will continue to behave pretty well,\" markets are becoming \"a little bit more wary\" about whether the capex boom will translate into delivered earnings.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/m-g-s-municchi-says-investors-more-wary-about-ai-trade-video",
+    "published": "Mon, 14 Sep 2026 08:32:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:09.537058"
+  },
+  {
+    "id": "fed821f0819f",
+    "title": "OpenAI President on Doing Business in the Wake of Hugging Face",
+    "title_cn": "OpenAI President on Doing Business in the Wake of Hugging Face",
+    "summary": "According to OpenAI President Greg Brockman, the models that escaped their sandbox and hacked into Hugging Face's servers had yet to go through alignment training. That they were able to break free of the testing environment was not a surprise to OpenAI, but what has happened since has forced them to rethink some things. Today, we talk to Brockman about what OpenAI has learned since the hacking incident and we discuss why he thinks the conversation around model development has to change. We also talk about how OpenAI collaborates and communicates with competitors like Anthropic, how he thinks models should be evaluating what counts as “good writing,” and, of course, we get his thoughts on how seriously we should be worried about the AI doomsday scenarios. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/greg-brockman-on-doing-business-in-wake-of-hugging-face-video",
+    "published": "Mon, 14 Sep 2026 08:15:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:09.959235"
+  },
+  {
+    "id": "f9e05e34b7d6",
+    "title": "ICBC, HSBC Among Major Lenders on $30 Billion ByteDance Loan",
+    "title_cn": "ICBC, HSBC Among Major Lenders on $30 Billion ByteDance Loan",
+    "summary": "ByteDance Ltd., the developer of TikTok, has signed a $29.6 billion loan with more than two dozens lenders, including Industrial and Commercial Bank of China Ltd. and HSBC Holdings Plc, in one of Asia’s biggest dollar-denominated deals this year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/icbc-hsbc-among-major-lenders-on-bytedance-s-30-billion-loan",
+    "published": "Mon, 14 Sep 2026 07:20:56 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:10.572405"
+  },
+  {
+    "id": "2a7e8e1066a1",
+    "title": "Data Center Firm Firmus Said to Seek $5 Billion in Australia IPO",
+    "title_cn": "Data Center Firm Firmus Said to Seek $5 Billion in Australia IPO",
+    "summary": "Firmus Technologies Pty is looking to raise as much as $5 billion in an initial public offering in Australia, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/data-center-firm-firmus-said-to-seek-5-billion-in-australia-ipo",
+    "published": "Mon, 14 Sep 2026 06:20:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:11.021263"
+  },
+  {
+    "id": "20b72455aadf",
+    "title": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
+    "title_cn": "OpenAI’s Altman Voices Support for ‘Pacing’ AI Development",
+    "summary": "OpenAI Chief Executive Officer Sam Altman on Sunday added his support to the idea of “pacing” AI development, so that cutting-edge models don’t outrun the ability of humans to maintain control.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/openai-s-altman-voices-support-for-pacing-ai-development",
+    "published": "Mon, 14 Sep 2026 05:09:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:11.601073"
   },
   {
     "id": "5d3a1a490eea",
-    "title": "Beijing Bans Drones in Broad Curbs After Citic Tower Crash",
-    "title_cn": "Beijing Bans Drones in Broad Curbs After Citic Tower Crash",
+    "title": "China Bans Drone Ownership in Beijing After Citic Tower Crash",
+    "title_cn": "China Bans Drone Ownership in Beijing After Citic Tower Crash",
     "summary": "Beijing has banned the possession and use of recreational drones as part of moves to bolster security in the capital after a light plane crashed into the city’s tallest skyscraper in June.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/beijing-bans-drones-in-sweeping-curbs-after-citic-tower-crash",
     "published": "Mon, 14 Sep 2026 03:37:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:36.830779"
+    "fetched_at": "2026-09-14T13:14:12.301271"
   },
   {
     "id": "1d8d9174c5c0",
@@ -437,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-14/ligent-technologies-seeks-727-million-in-hong-kong-ipo",
     "published": "Mon, 14 Sep 2026 04:21:05 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:37.353050"
+    "fetched_at": "2026-09-14T13:14:12.979919"
   },
   {
     "id": "4b4bd2015bae",
@@ -447,207 +597,97 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-14/ed-conway-on-the-fragile-world-of-global-trade-video",
     "published": "Mon, 14 Sep 2026 04:08:17 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:37.922119"
+    "fetched_at": "2026-09-14T13:14:13.579538"
   },
   {
-    "id": "dd9a25cdd8fe",
-    "title": "Chinese Local Banks Urged to Boost Clients’ Yuan Hedging",
-    "title_cn": "Chinese Local Banks Urged to Boost Clients’ Yuan Hedging",
-    "summary": "Some local branches of China’s foreign exchange regulator are urging banks to encourage their clients to hedge more of their currency exposure, signaling an intensifying campaign to shield companies from related risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/chinese-local-banks-urged-to-boost-clients-yuan-hedging",
-    "published": "Mon, 14 Sep 2026 03:22:06 GMT",
+    "id": "a9ec9653e726",
+    "title": "Oil Pipe Bypassing Hormuz to Reopen ‘Soon,’ US Energy Chief Says",
+    "title_cn": "Oil Pipe Bypassing Hormuz to Reopen ‘Soon,’ US Energy Chief Says",
+    "summary": "A critical Saudi oil pipeline should be back online “soon” following it’s closure late last week after coming under attack, Energy Secretary Chris Wright said Monday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/oil-pipe-bypassing-hormuz-to-reopen-soon-us-energy-chief-says",
+    "published": "Mon, 14 Sep 2026 13:02:20 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:38.406021"
+    "fetched_at": "2026-09-14T13:14:14.802149"
   },
   {
-    "id": "6630da317d98",
-    "title": "China Spy Chief Warns of AI Risks as Anthropic CEO Urges Brakes",
-    "title_cn": "China Spy Chief Warns of AI Risks as Anthropic CEO Urges Brakes",
-    "summary": "China’s top intelligence official delivered one of Beijing’s most detailed warnings yet about AI, saying rapid advances in the technology could threaten political stability and critical infrastructure.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes",
-    "published": "Mon, 14 Sep 2026 03:07:23 GMT",
+    "id": "c8905c538699",
+    "title": "Sweden’s Small Pro-Business Party Emerges as Election Kingmaker",
+    "title_cn": "Sweden’s Small Pro-Business Party Emerges as Election Kingmaker",
+    "summary": "A small Swedish party led by a former McKinsey &amp; Co. consultant has emerged as a kingmaker after Sunday’s inconclusive election.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/sweden-s-small-pro-business-party-emerges-as-election-kingmaker",
+    "published": "Mon, 14 Sep 2026 12:52:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:38.890170"
+    "fetched_at": "2026-09-14T13:14:15.560425"
   },
   {
-    "id": "62f5fff073b3",
-    "title": "Chevron Australia President on LNG outlook",
-    "title_cn": "Chevron Australia President on LNG outlook",
-    "summary": "Balaji Krishnamurthy, President of Chevron in Australia, discusses the outlook for LNG supply and demand, and pricing levels, as energy disruptions continue on Middle East tensions.\nHe speaks with Haslinda Amin, on the sidelines of Gastech in Bangkok, on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/chevron-australia-president-on-lng-outlook-video",
-    "published": "Mon, 14 Sep 2026 02:55:37 GMT",
+    "id": "731d854d41cd",
+    "title": "Poor Towns Reject Data Centers That Could Help Their Finances",
+    "title_cn": "Poor Towns Reject Data Centers That Could Help Their Finances",
+    "summary": "<p>Economic growth is hard to come by in many rural areas, but the promise of substantial tax income isn't always enough to outweigh other&nbsp;concerns</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-09-14/poor-towns-reject-data-centers-that-could-help-their-finances",
+    "published": "Mon, 14 Sep 2026 12:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:39.286355"
+    "fetched_at": "2026-09-14T13:14:16.169421"
   },
   {
-    "id": "a3544c913c94",
-    "title": "Samsung, SK Hynix Reject Kepco’s Power Grid Prepayment Plan",
-    "title_cn": "Samsung, SK Hynix Reject Kepco’s Power Grid Prepayment Plan",
-    "summary": "Samsung Electronics Co. and SK Hynix Inc. have rejected a proposal from Korea Electric Power Corp. that would have seen the two pay in advance for electricity in order to finance the construction of grids to power new technology clusters.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/samsung-sk-hynix-reject-kepco-s-power-grid-prepayment-plan",
-    "published": "Mon, 14 Sep 2026 02:16:46 GMT",
+    "id": "05b4e1ff8aaa",
+    "title": "UK’s Regional Leaders to Unite on Efforts to Rejoin EU",
+    "title_cn": "UK’s Regional Leaders to Unite on Efforts to Rejoin EU",
+    "summary": "Nationalist leaders in Scotland, Wales and Northern Ireland agreed to work together on efforts to rejoin the European Union and leave the UK, just days after Donald Trump said he supported Irish unification.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/nationalist-uk-leaders-to-work-together-on-efforts-to-rejoin-eu",
+    "published": "Mon, 14 Sep 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:39.732515"
+    "fetched_at": "2026-09-14T13:14:16.692012"
   },
   {
-    "id": "d143e07b7a3e",
-    "title": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
-    "title_cn": "Z.AI’s Cash Burn Drives Alibaba-Like HK Fundraising Spree",
-    "summary": "Z.AI Co. dashed back to Hong Kong’s equity market as soon as its last lockup expired, underscoring a cash burn rate that leaves the artificial intelligence model maker’s hunger to take advantage of any fundraising opportunity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/z-ai-s-cash-burn-drives-alibaba-like-hong-kong-fundraising-spree",
-    "published": "Mon, 14 Sep 2026 02:22:27 GMT",
+    "id": "32815b71148d",
+    "title": "Fetterman Draws Shadow Primary From Democrats Eager to Replace Him",
+    "title_cn": "Fetterman Draws Shadow Primary From Democrats Eager to Replace Him",
+    "summary": "The Pennsylvania senator has long irked members of his own party.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/fetterman-draws-shadow-primary-from-democrats-eager-to-replace-him",
+    "published": "Mon, 14 Sep 2026 11:15:51 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:40.262446"
+    "fetched_at": "2026-09-14T13:14:17.245688"
   },
   {
-    "id": "c68cd23292c0",
-    "title": "Asia Chip Stocks Drop as AI Chiefs Urge Slower Model Development",
-    "title_cn": "Asia Chip Stocks Drop as AI Chiefs Urge Slower Model Development",
-    "summary": "Asian semiconductor and equipment stocks fell Monday as higher oil prices and calls from major AI leaders to slow model development weighed on sentiment.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
-    "published": "Sun, 13 Sep 2026 08:00:00 GMT",
+    "id": "124eb9dbf87d",
+    "title": "Finland Will Join France’s Nuclear Deterrence Initiative",
+    "title_cn": "Finland Will Join France’s Nuclear Deterrence Initiative",
+    "summary": "Finland said it will join France’s nuclear deterrence initiative intended to strengthen European defenses against an increasingly hostile Russia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/finland-will-join-france-s-nuclear-deterrence-initiative",
+    "published": "Mon, 14 Sep 2026 09:07:25 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:40.627991"
+    "fetched_at": "2026-09-14T13:14:17.689388"
   },
   {
-    "id": "dfee37d40b5b",
-    "title": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
-    "title_cn": "SoftBank Gets Upsized $11.9 Billion Loan in OpenAI Funding Push",
-    "summary": "SoftBank Group Corp. secured an $11.87 billion loan to support its investment in US artificial intelligence firm OpenAI, people familiar with the matter said, up from its earlier target of $10 billion.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/softbank-gets-upsized-11-9-billion-loan-in-openai-funding-push",
-    "published": "Mon, 14 Sep 2026 01:42:42 GMT",
+    "id": "11e45f781593",
+    "title": "Germany to Lobby EU on New China Policy, May Seek More Tariffs",
+    "title_cn": "Germany to Lobby EU on New China Policy, May Seek More Tariffs",
+    "summary": "Germany is preparing a far-reaching package of economic-security measures to shield strategic industries from China that may include new tariffs on hybrid electric vehicles.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/germany-to-lobby-eu-on-new-china-policy-may-seek-more-tariffs",
+    "published": "Mon, 14 Sep 2026 11:03:37 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:41.064295"
+    "fetched_at": "2026-09-14T13:14:18.363064"
   },
   {
-    "id": "d3f4620f2a60",
-    "title": "Amazon Halts Operations With 21 Air After Fatal Miami Crash",
-    "title_cn": "Amazon Halts Operations With 21 Air After Fatal Miami Crash",
-    "summary": "Amazon.com Inc. suspended work with cargo carrier 21 Air LLC, which operated the Sept. 6 flight that overran the runway at Miami and killed five people on the ground.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/amazon-halts-operations-with-21-air-after-fatal-miami-crash",
-    "published": "Mon, 14 Sep 2026 01:24:12 GMT",
+    "id": "48a11df4aa41",
+    "title": "Zelenskyy Calls on Chief Prosecutor to Quit in Ukraine Graft Row",
+    "title_cn": "Zelenskyy Calls on Chief Prosecutor to Quit in Ukraine Graft Row",
+    "summary": "Ukrainian President Volodymyr Zelenskyy called on lawmakers to immediately dismiss the country’s chief prosecutor who recently clashed with anti-corruption agencies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/zelenskyy-calls-on-chief-prosecutor-to-quit-in-ukraine-graft-row",
+    "published": "Mon, 14 Sep 2026 11:02:08 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:41.615835"
+    "fetched_at": "2026-09-14T13:14:18.945199"
   },
   {
-    "id": "0e5f8fbd9745",
-    "title": "OCBC's Vasu on the Stock Retreat After AI Warning Calls",
-    "title_cn": "OCBC's Vasu on the Stock Retreat After AI Warning Calls",
-    "summary": "Asian stocks and US equity-index futures retreated after major artificial intelligence companies called for a slowdown in the technology’s development. OCBC Investment Strategy MD Vasu Menon has more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/ocbc-s-vasu-on-the-stock-retreat-after-ai-warning-calls-video",
-    "published": "Mon, 14 Sep 2026 00:47:59 GMT",
+    "id": "3c2d52578461",
+    "title": "Thailand Election Commission Refers Senate-Rigging Cases to Court",
+    "title_cn": "Thailand Election Commission Refers Senate-Rigging Cases to Court",
+    "summary": "Thailand’s Election Commission will send dozens of alleged Senate vote-rigging cases to the Supreme Court, while clearing cabinet ministers and members of Prime Minister Anutin Charnvirakul’s ruling Bhumjaithai Party.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/thai-election-commissions-refer-senate-rigging-cases-to-court",
+    "published": "Mon, 14 Sep 2026 09:37:35 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:42.093859"
-  },
-  {
-    "id": "f56200d95285",
-    "title": "Anthropic Expects an Operating Profit This Quarter, FT Says",
-    "title_cn": "Anthropic Expects an Operating Profit This Quarter, FT Says",
-    "summary": "Anthropic PBC told a small group of shareholders it will report an adjusted operating profit this quarter, the Financial Times reported on Sunday, marking a second consecutive period of profitability as the company prepares to go public.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-sees-adjusted-operating-profit-this-quarter-ft-says",
-    "published": "Sun, 13 Sep 2026 23:00:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:42.466173"
-  },
-  {
-    "id": "cca4326674b3",
-    "title": "Xi-Modi Thaw at BRICS Masks Deep Divisions Between Asian Rivals",
-    "title_cn": "Xi-Modi Thaw at BRICS Masks Deep Divisions Between Asian Rivals",
-    "summary": "Chinese President Xi Jinping and Indian Prime Minister Narendra Modi’s first sit-down on Indian soil in seven years signaled a will to further repair ties and manage an unpredictable Donald Trump.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/xi-modi-thaw-at-brics-masks-deep-divisions-between-asian-rivals",
-    "published": "Sun, 13 Sep 2026 23:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:42.826047"
-  },
-  {
-    "id": "df116f12b090",
-    "title": "Amazon Spends More on Sports Than Netflix, YouTube Combined",
-    "title_cn": "Amazon Spends More on Sports Than Netflix, YouTube Combined",
-    "summary": "Sports are uniquely valuable. They’re also uniquely expensive.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/amazon-spends-more-on-sports-than-netflix-youtube-combined",
-    "published": "Sun, 13 Sep 2026 22:00:01 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:43.142392"
-  },
-  {
-    "id": "0a7597020036",
-    "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
-    "title_cn": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
-    "summary": "Anthropic PBC has picked Nasdaq as its listing venue ahead of a potential record-setting initial public offering, according to a person familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
-    "published": "Sun, 13 Sep 2026 18:03:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:43.699932"
-  },
-  {
-    "id": "5f68a46e0913",
-    "title": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace",
-    "title_cn": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace",
-    "summary": "President Donald Trump downplayed the growing alarm over risks from artificial intelligence after some of the industry’s leaders called for slowing the pace of development of the technology.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
-    "published": "Sun, 13 Sep 2026 13:59:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:44.128862"
-  },
-  {
-    "id": "bb045be85529",
-    "title": "Jeffries Says Democrats to Meet Tuesday on AI Action: ABC News",
-    "title_cn": "Jeffries Says Democrats to Meet Tuesday on AI Action: ABC News",
-    "summary": "House Democratic Leader Hakeem Jeffries says Democrats plan a caucus on Tuesday morning on action on artificial intelligence, according to a transcript of his interview with ABC’s This Week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/jeffries-says-democrats-to-meet-tuesday-on-ai-action-abc-news",
-    "published": "Sun, 13 Sep 2026 14:27:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:44.508722"
-  },
-  {
-    "id": "c582269f0119",
-    "title": "Swedish Election Result Too Close to Call",
-    "title_cn": "Swedish Election Result Too Close to Call",
-    "summary": "Sweden's election is the tightest in its history and will hinge on the counting of late-arriving ballots and votes from overseas in coming days. The opposition forces headed by Social Democrat Magdalena Andersson command 176 seats versus 173 for the ruling bloc led by Prime Minister Ulf Kristersson when 94% of votes had been counted. The new deadline to look out for is Wednesday, when officials will count ballots that didn’t reach polling stations in time for election day. Bloomberg's Oliver Crook breaks down the situation. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/swedish-election-result-too-close-to-call-video",
-    "published": "Mon, 14 Sep 2026 06:07:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:45.448841"
-  },
-  {
-    "id": "36e23c21d176",
-    "title": "How India and China Took Steps to Reset Ties At BRICS: Live Q&A",
-    "title_cn": "How India and China Took Steps to Reset Ties At BRICS: Live Q&A",
-    "summary": "<p>Bloomberg reporters answer your questions about what Xi's New Delhi visit means for India-China ties on September 15 at 9:30 a.m. IST</p>",
-    "link": "https://www.bloomberg.com/sessions/2026-09-14/live-q-amp-a-how-india-and-china-are-finding-common-ground",
-    "published": "Mon, 14 Sep 2026 05:57:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:45.869819"
-  },
-  {
-    "id": "a31b48d786af",
-    "title": "EU Chief Rejects Banks’ Bid to Split Reform Package in Two",
-    "title_cn": "EU Chief Rejects Banks’ Bid to Split Reform Package in Two",
-    "summary": "Maria Luis Albuquerque, the European Union’s financial services commissioner, has rejected demands by banks to split in two a grand plan to boost the bloc’s financial system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/eu-chief-rejects-banks-bid-to-split-reform-package-in-two",
-    "published": "Mon, 14 Sep 2026 05:52:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:46.238122"
-  },
-  {
-    "id": "c054eb86a749",
-    "title": "Philippine Marcos’ Cousin to be Transferred from Hospital to Regular Jail",
-    "title_cn": "Philippine Marcos’ Cousin to be Transferred from Hospital to Regular Jail",
-    "summary": "The Philippines’ anti-graft court ordered on Monday the transfer of Martin Romualdez, the lawmaker-cousin of President Ferdinand Marcos Jr. accused of plunder, from a hospital to a regular jail.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/philippine-marcos-cousin-to-be-transferred-from-hospital-to-regular-jail",
-    "published": "Mon, 14 Sep 2026 05:48:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:46.714566"
-  },
-  {
-    "id": "20c8b9f1cfb7",
-    "title": "Oil Rises as Saudi Arabia Shuts East-West Crude Pipeline",
-    "title_cn": "Oil Rises as Saudi Arabia Shuts East-West Crude Pipeline",
-    "summary": "Oil pushed higher after Saudi Arabia shut its East-West crude pipeline, a key alternative to the Strait of Hormuz for its oil exports, following multiple attacks on Thursday. Meanwhile, a planned meeting for Monday between Iran and several Gulf nations on creating a temporary shipping lane through Hormuz has been postponed, according to Oman’s foreign minister. Bloomberg's Stuart Livingstone-Wallace reports. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/oil-rises-as-saudi-arabia-shuts-east-west-crude-pipeline-video",
-    "published": "Mon, 14 Sep 2026 05:15:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:47.054923"
+    "fetched_at": "2026-09-14T13:14:19.605088"
   },
   {
     "id": "b05bee4b1a88",
@@ -657,47 +697,97 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-13/swedish-voters-left-in-limbo-for-days-in-closest-ever-election",
     "published": "Sun, 13 Sep 2026 22:53:41 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:47.577247"
+    "fetched_at": "2026-09-14T13:14:20.324372"
   },
   {
-    "id": "fdbb8cbacbde",
-    "title": "Takaichi Ally Wins Okinawa Vote, Aiding Military Build-Up",
-    "title_cn": "Takaichi Ally Wins Okinawa Vote, Aiding Military Build-Up",
-    "summary": "A candidate backed by Prime Minister Sanae Takaichi’s ruling party ousted the incumbent governor of Japan’s southern Okinawa prefecture in an election on Sunday, delivering a boost to the premier’s push for a stronger military to stave off threats from China.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/takaichi-ally-wins-okinawa-vote-aiding-military-build-up-plans",
-    "published": "Sun, 13 Sep 2026 23:01:22 GMT",
+    "id": "6bae0097bd6b",
+    "title": "Lula Edges Ahead of Bolsonaro Amid Court Crisis, Poll Shows",
+    "title_cn": "Lula Edges Ahead of Bolsonaro Amid Court Crisis, Poll Shows",
+    "summary": "President Luiz Inácio Lula da Silva edged ahead of Flávio Bolsonaro in a new poll ahead of October’s vote, as the latest twist in Brazil’s Supreme Court crisis renewed scrutiny of the right-wing challenger’s ties to a disgraced executive at the center of a multibillion-dollar banking fraud.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/lula-edges-ahead-of-bolsonaro-amid-court-crisis-new-poll-shows",
+    "published": "Mon, 14 Sep 2026 09:30:53 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:48.087617"
+    "fetched_at": "2026-09-14T13:14:21.146611"
   },
   {
-    "id": "f3fdf680ae63",
-    "title": "Switzerland Debates Longstanding Neutrality Ahead of Vote This Month",
-    "title_cn": "Switzerland Debates Longstanding Neutrality Ahead of Vote This Month",
-    "summary": "<p>It’s sparking questions about where the country sees itself in the modern world</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/switzerland-debates-longstanding-neutrality-ahead-of-vote-this-month",
-    "published": "Mon, 14 Sep 2026 04:00:02 GMT",
+    "id": "8ab6102dab96",
+    "title": "Indonesia’s Prabowo Ousts Finance Chief Purbaya After Rocky Year",
+    "title_cn": "Indonesia’s Prabowo Ousts Finance Chief Purbaya After Rocky Year",
+    "summary": "Indonesian President Prabowo Subianto removed Finance Minister Purbaya Yudhi Sadewa just a year after his appointment, replacing a policymaker whose unorthodox approach and push for more spending had unsettled investors.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/prabowo-removes-finance-minister-purbaya-in-cabinet-reshuffle",
+    "published": "Mon, 14 Sep 2026 08:32:56 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:48.608783"
+    "fetched_at": "2026-09-14T13:14:21.598435"
   },
   {
-    "id": "0aa729dc1272",
-    "title": "S.Korea Parliament Member on Global AI Effort",
-    "title_cn": "S.Korea Parliament Member on Global AI Effort",
-    "summary": "Cha Jiho, a member of South Korea's parliament, is behind the nation's drive to enhance international cooperation on artificial intelligence, proposing a new Global AI Hub. He discusses the initiative's plans to gather international organizations and multilateral development banks, harnessing AI to tackle issues such as climate change, healthcare and food security.\nHe speaks with Shery Ahn exclusively, on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-14/s-korea-parliament-member-on-global-ai-effort-video",
-    "published": "Mon, 14 Sep 2026 02:54:31 GMT",
+    "id": "500bc556f710",
+    "title": "Expats Set to Tip Tightest Swedish Electoral Race in Century",
+    "title_cn": "Expats Set to Tip Tightest Swedish Electoral Race in Century",
+    "summary": "The tightest Swedish vote in a century may come down to expat ballots.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-14/expats-set-to-tip-tightest-swedish-electoral-race-in-century",
+    "published": "Mon, 14 Sep 2026 09:59:01 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:49.079859"
+    "fetched_at": "2026-09-14T13:14:22.252169"
   },
   {
-    "id": "34a7ef4c2f94",
-    "title": "Korea’s Gender Minister Nominee Pulls Out in Fresh Blow to Lee",
-    "title_cn": "Korea’s Gender Minister Nominee Pulls Out in Fresh Blow to Lee",
-    "summary": "South Korean President Lee Jae Myung’s 36-year-old gender minister nominee stepped down before gaining confirmation of her position amid a public backlash over her suitability for the job in the latest negative fallout from the president’s cabinet reshuffle.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-14/korea-s-gender-minister-nominee-pulls-out-in-fresh-blow-to-lee",
-    "published": "Mon, 14 Sep 2026 02:07:04 GMT",
+    "id": "d882abbad9aa",
+    "title": "Iran-Gulf Talks Delayed as Saudi Arabia Counters Houthi Attacks",
+    "title_cn": "Iran-Gulf Talks Delayed as Saudi Arabia Counters Houthi Attacks",
+    "summary": "A meeting between Iran and several Gulf Arab nations over a temporary shipping lane through the Strait of Hormuz was postponed, highlighting tensions with the Islamic Republic.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/iran-gulf-talks-delayed-as-saudi-arabia-counters-houthi-attacks",
+    "published": "Mon, 14 Sep 2026 09:21:30 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:49.605071"
+    "fetched_at": "2026-09-14T13:14:22.931081"
+  },
+  {
+    "id": "898ab3ca81a9",
+    "title": "Mark Carney Seeks C$1 Trillion of Investment Amid US Trade Strains",
+    "title_cn": "Mark Carney Seeks C$1 Trillion of Investment Amid US Trade Strains",
+    "summary": "For Mark Carney, walking away from trade talks with US President Donald Trump was politically popular. Now Canada’s leader has to contend with a more difficult economic reality.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/mark-carney-seeks-c-1-trillion-of-investment-amid-us-trade-strains",
+    "published": "Mon, 14 Sep 2026 09:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:23.389256"
+  },
+  {
+    "id": "880bea92384b",
+    "title": "EU Needs Single Package to Deliver Financial Reform, Albuquerque Says",
+    "title_cn": "EU Needs Single Package to Deliver Financial Reform, Albuquerque Says",
+    "summary": "European Union Financial Services Commissioner Maria Luis Albuquerque says the bloc is best served by using a single package to deliver reforms that cut red tape, reduce barriers on activities across national borders and ease some regulations. “If we really want to do something meaningful we need to look at this as a package because everything is connected,” Albuquerque says during an interview on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/eu-needs-single-package-on-banking-reforms-albuquerque-video",
+    "published": "Mon, 14 Sep 2026 08:56:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:23.963235"
+  },
+  {
+    "id": "d67b13ec5b45",
+    "title": "Indonesia Takes On Local Worker Pay After Funding Cuts",
+    "title_cn": "Indonesia Takes On Local Worker Pay After Funding Cuts",
+    "summary": "Indonesia’s central government will take over salary payments for hundreds of thousands of public school teachers and health workers previously paid by local administrations, shifting a payroll burden away from regions hit by steep funding cuts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-14/indonesia-takes-on-local-worker-pay-after-funding-cuts",
+    "published": "Mon, 14 Sep 2026 07:54:23 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:24.646284"
+  },
+  {
+    "id": "cca5cceefe91",
+    "title": "Trump Says He'd Love to See 'Unified' Ireland",
+    "title_cn": "Trump Says He'd Love to See 'Unified' Ireland",
+    "summary": "US President Donald Trump said a united Ireland is \"going to happen eventually.\" He made the comments to reporters on Sunday during a visit to the Irish Open in golf tournament in Doonbeg. His remarks have sparked controversy in Northern Ireland and put him at odds with UK Prime Minister Andy Burnham and other British leaders. Bloomberg's Olivia Fletcher breaks down the situation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/trump-says-he-d-love-to-see-unified-ireland-video",
+    "published": "Mon, 14 Sep 2026 07:53:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:25.226047"
+  },
+  {
+    "id": "fb83768b4f69",
+    "title": "EU 'Likely' to Scale Back Markets Overhaul, Albuquerque Says",
+    "title_cn": "EU 'Likely' to Scale Back Markets Overhaul, Albuquerque Says",
+    "summary": "“It is likely the ambition will be scaled down,” says European Union Financial Services Commissioner Maria Luis Albuquerque when asked about a plan to streamline the EU's supervision of markets. \"I am hoping we can get a comprehensive package where the main elements will be preserved, but the jury is still out,\" Albuquerque says during an interview on Bloomberg Television. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-14/eu-likely-to-scale-back-markets-overhaul-albuquerque-video",
+    "published": "Mon, 14 Sep 2026 07:17:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-14T13:14:25.893847"
   },
   {
     "id": "4ef43fd2ccaf",
@@ -707,96 +797,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-13/burnham-says-uk-needs-culture-shift-to-support-risk-takers",
     "published": "Sun, 13 Sep 2026 21:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-14T06:20:49.919533"
-  },
-  {
-    "id": "50548d3fe02e",
-    "title": "Trump Basks as Irish Open Host in Brief Break From Midterm Woes",
-    "title_cn": "Trump Basks as Irish Open Host in Brief Break From Midterm Woes",
-    "summary": "President Donald Trump took center stage at the Irish Open on Sunday, reveling in a golf tournament at his family’s Doonbeg resort even as his political agenda faces a critical test in November’s midterm elections.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-basks-as-irish-open-host-in-brief-break-from-midterm-woes",
-    "published": "Sun, 13 Sep 2026 20:35:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:50.272878"
-  },
-  {
-    "id": "0f9fb8bc58bb",
-    "title": "Sweden’s Election Race Tightens After Center-Left’s Lead Erodes",
-    "title_cn": "Sweden’s Election Race Tightens After Center-Left’s Lead Erodes",
-    "summary": "Sweden’s Social Democrat-led bloc lost its early lead in a tightening election that has become a de-facto referendum on whether the far right can be kept out of power.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/sweden-s-social-democrat-led-bloc-takes-lead-in-exit-poll",
-    "published": "Sun, 13 Sep 2026 18:10:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:50.603651"
-  },
-  {
-    "id": "721bef873194",
-    "title": "Wisconsin Governor Candidate Injured When Plane Lands in Lake",
-    "title_cn": "Wisconsin Governor Candidate Injured When Plane Lands in Lake",
-    "summary": "Representative Tom Tiffany, a Republican running for governor of Wisconsin, said he suffered minor injuries after the plane he was traveling in landed in a lake, leaving him and the pilot to swim to safety.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/wisconsin-governor-candidate-injured-when-plane-lands-in-lake",
-    "published": "Sun, 13 Sep 2026 20:03:20 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:51.133753"
-  },
-  {
-    "id": "24a9fd8b3032",
-    "title": "Trump Says He Will Eliminate US Tariffs on Irish Whiskey",
-    "title_cn": "Trump Says He Will Eliminate US Tariffs on Irish Whiskey",
-    "summary": "President Donald Trump said he would remove US tariffs on Irish whiskey, announcing the move Sunday while attending a golf tournament at his family’s course in western Ireland.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-says-he-ll-remove-us-tariffs-on-irish-whiskey-mu03xgtq",
-    "published": "Sun, 13 Sep 2026 17:47:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:51.578683"
-  },
-  {
-    "id": "ca20c20b3c78",
-    "title": "Brazil’s Top Court Gives Police Deadline on Banker’s Data",
-    "title_cn": "Brazil’s Top Court Gives Police Deadline on Banker’s Data",
-    "summary": "Brazilian Chief Justice Edson Fachin has given the Federal Police 24 hours to provide information regarding the custody and condition of the data extracted from the mobile phone of Daniel Vorcaro, former owner of Banco Master, according to a ruling issued Saturday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/brazil-s-top-court-gives-police-deadline-on-banker-s-phone-data",
-    "published": "Sun, 13 Sep 2026 00:02:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:52.055672"
-  },
-  {
-    "id": "171ae2700e1d",
-    "title": "Chicago’s Mayor to Seek Reelection in Test of Progressive Clout",
-    "title_cn": "Chicago’s Mayor to Seek Reelection in Test of Progressive Clout",
-    "summary": "Brandon Johnson will seek a second term as Democratic mayor of Chicago, likely facing an uphill battle to stay in office as his opponents have raised millions ahead of next year’s race.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/chicago-s-mayor-to-seek-reelection-in-test-of-progressive-clout",
-    "published": "Sun, 13 Sep 2026 16:38:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:52.666542"
-  },
-  {
-    "id": "6d927aa86101",
-    "title": "Trump’s Foes Find Common Ground at Modi’s New Delhi Summit",
-    "title_cn": "Trump’s Foes Find Common Ground at Modi’s New Delhi Summit",
-    "summary": "Leaders of emerging powers including Russia and Iran projected a united front at a weekend summit in New Delhi, with a joint statement that targeted a US-launched war in the Middle East, Washington’s tariff campaign and its sanctions policy. Bloomberg's Sudhi Ranjan Sen explains. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-13/trump-s-foes-find-common-ground-at-modi-s-brics-summit-video",
-    "published": "Sun, 13 Sep 2026 16:34:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:53.052923"
-  },
-  {
-    "id": "493142258827",
-    "title": "Trump Defends His Support for Irish Unity Despite UK Uproar",
-    "title_cn": "Trump Defends His Support for Irish Unity Despite UK Uproar",
-    "summary": "President Donald Trump defended his remarks calling for the unification of Ireland as “fairly routine,” standing by comments that have sparked a controversy in Northern Ireland.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/trump-defends-his-support-for-unified-ireland-despite-uk-uproar",
-    "published": "Sun, 13 Sep 2026 14:52:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:53.511755"
-  },
-  {
-    "id": "194aca94b0d5",
-    "title": "Ukraine Strikes Russian Refineries as Odesa Ports Targeted",
-    "title_cn": "Ukraine Strikes Russian Refineries as Odesa Ports Targeted",
-    "summary": "Russia hit energy facilities and other sites in the Odesa region in southern Ukraine overnight while Kyiv’s forces claimed strikes on oil refineries in southern Russia and Tatarstan.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-13/russia-strikes-ukraine-power-sites-as-kyiv-targets-refining-hub",
-    "published": "Sun, 13 Sep 2026 08:28:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-14T06:20:54.030434"
+    "fetched_at": "2026-09-14T13:14:26.284197"
   }
 ]
