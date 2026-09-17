@@ -1,12 +1,111 @@
 [
   {
+    "id": "61a830b911b8",
+    "title": "Bloomberg Daybreak: Fed Rate Hike (Podcast)",
+    "summary": "Source: Bloomberg, 15:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-fed-rate-hike-podcast",
+    "published": "Thu, 17 Sep 2026 09:39:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587872"
+  },
+  {
+    "id": "14614ab58d4b",
+    "title": "Trump Attacks Fed Hike, Suggests Tariffs on Europe, More",
+    "summary": "Source: Bloomberg, 6:22",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/trump-attacks-fed-hike-suggests-tariffs-on-europe-more",
+    "published": "Thu, 17 Sep 2026 09:30:34 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587886"
+  },
+  {
+    "id": "ecd4cdccaf3b",
+    "title": "Stock Movers: Next, Wizz Air, Exosens (Podcast)",
+    "summary": "Source: Bloomberg, 3:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/stock-movers-next-wizz-air-exosens-podcast",
+    "published": "Thu, 17 Sep 2026 09:16:45 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587893"
+  },
+  {
+    "id": "954dfdd37316",
+    "title": "Fed's Unanimous Hike, Trump Floats EU Tariffs, More",
+    "summary": "Source: Bloomberg, 6:44",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-s-unanimous-hike-trump-floats-eu-tariffs-more",
+    "published": "Thu, 17 Sep 2026 08:34:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587899"
+  },
+  {
+    "id": "5ab7715e4acb",
+    "title": "Stock Movers: Next, Sodexo, Bilfinger (Podcast)",
+    "summary": "Source: Bloomberg, 4:39",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/stock-movers-next-sodexo-bilfinger-podcast",
+    "published": "Thu, 17 Sep 2026 08:17:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587905"
+  },
+  {
+    "id": "c59b917e785e",
+    "title": "Warsh Defies Trump, King Charles Gathers AI Execs, More",
+    "summary": "Source: Bloomberg, 7:50",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/warsh-defies-trump-king-charles-gathers-ai-execs-more",
+    "published": "Thu, 17 Sep 2026 08:01:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587910"
+  },
+  {
+    "id": "d3b3c1c96564",
+    "title": "Next Raises Profit Guidance as Overseas Sales Rise But Warns on UK Tax Hikes",
+    "summary": "Next boosted by overseas; Bank of England day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/next-raises-profit-guidance-as-overseas-sales-rise-but-warns-on-uk-tax-hikes",
+    "published": "Thu, 17 Sep 2026 07:18:59 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587916"
+  },
+  {
+    "id": "ebe81c387167",
+    "title": "Warsh's Inflation Fight, Trump Floats EU Tariffs, More",
+    "summary": "Source: Bloomberg, 7:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/warsh-s-inflation-fight-trump-floats-eu-tariffs-more",
+    "published": "Thu, 17 Sep 2026 06:36:19 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587925"
+  },
+  {
+    "id": "3041373a8cc2",
+    "title": "Bloomberg Daybreak Europe: Fed Defies Trump (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-europe-fed-defies-trump-podcast",
+    "published": "Thu, 17 Sep 2026 05:51:39 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587931"
+  },
+  {
+    "id": "79a22cbc3c51",
+    "title": "Fed Hikes, Defying Trump’s Calls to Lower Rates",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/fed-hikes-defying-trump-s-calls-to-lower-rates",
+    "published": "Thu, 17 Sep 2026 05:40:42 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587937"
+  },
+  {
+    "id": "368fb5a49264",
+    "title": "Unanimous Fed Hike, New OpenAI Safety Incidents, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/unanimous-fed-hike-new-openai-safety-incidents-more",
+    "published": "Thu, 17 Sep 2026 05:31:51 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.587942"
+  },
+  {
     "id": "3fb3004ee812",
     "title": "Tata Sons’ IPO Standoff Against RBI Tests Power and Reach of India Central Bank",
     "summary": "A potential court battle between the RBI and one of India’s oldest business empires is looming.",
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/tata-sons-ipo-standoff-against-rbi-tests-power-and-reach-of-india-central-bank",
     "published": "Thu, 17 Sep 2026 04:52:40 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523574"
+    "fetched_at": "2026-09-17T10:01:56.587947"
   },
   {
     "id": "ef019ab9fc51",
@@ -15,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/the-best-portuguese-egg-tarts-in-hong-kong-and-macau-ranked",
     "published": "Thu, 17 Sep 2026 04:29:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523588"
+    "fetched_at": "2026-09-17T10:01:56.587953"
   },
   {
     "id": "72001cd45f4d",
@@ -24,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-decides-to-hike-trump-interest-rates-too-high-more",
     "published": "Thu, 17 Sep 2026 03:16:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523594"
+    "fetched_at": "2026-09-17T10:01:56.587958"
   },
   {
     "id": "a1d785dd6f86",
@@ -33,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-asia-fed-hikes-rates-podcast",
     "published": "Thu, 17 Sep 2026 03:08:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523600"
+    "fetched_at": "2026-09-17T10:01:56.587963"
   },
   {
     "id": "fdca29de2d91",
@@ -42,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-interest-rates-trump-says-rates-should-be-1-more",
     "published": "Thu, 17 Sep 2026 02:44:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523606"
+    "fetched_at": "2026-09-17T10:01:56.587968"
   },
   {
     "id": "2ed2c724896f",
@@ -51,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-hikes-rates-to-tame-inflation-trump-backs-warsh-more",
     "published": "Thu, 17 Sep 2026 01:59:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523612"
+    "fetched_at": "2026-09-17T10:01:56.587973"
   },
   {
     "id": "ec8dd8585c59",
@@ -60,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-rates-to-curb-inflation-trump-rates-should-be-1",
     "published": "Thu, 17 Sep 2026 00:47:46 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523617"
+    "fetched_at": "2026-09-17T10:01:56.587978"
   },
   {
     "id": "50dbf4fdb6df",
@@ -69,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-raises-rates-trump-backs-warsh-faults-hostile-board",
     "published": "Wed, 16 Sep 2026 23:55:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523626"
+    "fetched_at": "2026-09-17T10:01:56.587983"
   },
   {
     "id": "8e64411a8d96",
@@ -78,285 +177,186 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-australia-super-funds-and-the-yen-podcast",
     "published": "Wed, 16 Sep 2026 23:52:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523633"
+    "fetched_at": "2026-09-17T10:01:56.587988"
   },
   {
-    "id": "8ade7bf3c825",
-    "title": "Bloomberg Law: Huawei on Trial & Trump Enemies Probe (Podcast)",
-    "summary": "Source: Bloomberg, 36:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-law-huawei-on-trial-trump-enemies-probe-podcast",
-    "published": "Wed, 16 Sep 2026 23:25:57 GMT",
+    "id": "313ff4b3996c",
+    "title": "Traders Applaud Warsh’s Fight Against Inflation",
+    "summary": "Stocks, bonds rally as investors say Fed chair has bolstered his credibility.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/traders-applaud-warsh-s-fight-against-inflation",
+    "published": "Thu, 17 Sep 2026 09:56:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523639"
+    "fetched_at": "2026-09-17T10:01:56.751698"
   },
   {
-    "id": "5109b6efda54",
-    "title": "Bloomberg Businessweek Daily: The Next Investment Boom (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-next-investment-boom-podcast",
-    "published": "Wed, 16 Sep 2026 23:25:39 GMT",
+    "id": "252a2cedfd8a",
+    "title": "BOE’s QT Plans May Eclipse Rates as Key Decision for Bond Market",
+    "summary": "Bond investors are more focused on the Bank of England’s plan for its quantitative-tightening program for the next year than its interest-rate decision at Thursday’s policy meeting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/boe-s-qt-plans-may-eclipse-rates-as-key-decision-for-bond-market",
+    "published": "Thu, 17 Sep 2026 09:47:58 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523644"
+    "fetched_at": "2026-09-17T10:01:56.751711"
   },
   {
-    "id": "94c128df276d",
-    "title": "Australia migration cuts, NZ’s world-beating sovereign wealth fund, Fed hikes",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/australia-migration-cuts-nz-s-world-beating-sovereign-wealth-fund-fed-hikes",
-    "published": "Wed, 16 Sep 2026 23:24:06 GMT",
+    "id": "62b2a155ebfe",
+    "title": "India’s $900 Billion Infrastructure Push May Spur Muni Bonds",
+    "summary": "India’s capital markets regulator will encourage municipalities to pool their financing needs and issue bonds collectively to fund the upgrade of urban infrastructure that may cost up to $900 billion through 2031.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-s-900-billion-infrastructure-push-may-spur-muni-bonds",
+    "published": "Thu, 17 Sep 2026 09:45:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523650"
-  },
-  {
-    "id": "5a31d88e22c3",
-    "title": "Fed Hikes Rates, Trump: Rates Should Be 1% or Less, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-hikes-rates-trump-rates-should-be-1-or-less-more",
-    "published": "Wed, 16 Sep 2026 23:11:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523655"
-  },
-  {
-    "id": "e1196d6fbe72",
-    "title": "Big Take: Warsh’s Rate Hike Trap (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/big-take-warsh-s-rate-hike-trap-podcast",
-    "published": "Wed, 16 Sep 2026 22:47:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523661"
-  },
-  {
-    "id": "bf8070c4612e",
-    "title": "Bloomberg Businessweek Daily: The Fed Raises Rates (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-fed-raises-rates-podcast",
-    "published": "Wed, 16 Sep 2026 22:42:28 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523666"
-  },
-  {
-    "id": "4a9c3a3a21ff",
-    "title": "The Deal: Kerri Walsh Jennings (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/the-deal-kerri-walsh-jennings-podcast",
-    "published": "Wed, 16 Sep 2026 22:17:17 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523671"
-  },
-  {
-    "id": "691cc179a06f",
-    "title": "Fed Raises Rates, Trump Says Rates Should Be 1% or Less, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-raises-rates-trump-says-rates-should-be-1-or-less-more",
-    "published": "Wed, 16 Sep 2026 22:05:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523676"
-  },
-  {
-    "id": "8fdfe8e4c8cf",
-    "title": "Trumponomics: Why 5% Treasury Yields Are Here To Stay (Podcast)",
-    "summary": "Source: Bloomberg, 25:52",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/trumponomics-why-5-treasury-yields-are-here-to-stay-podcast",
-    "published": "Wed, 16 Sep 2026 21:58:29 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523681"
-  },
-  {
-    "id": "ace334959ee0",
-    "title": "Fed Raises Rates in Unanimous Vote: Evening Briefing Americas",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/fed-raises-rates-in-unanimous-vote-evening-briefing-americas",
-    "published": "Wed, 16 Sep 2026 21:56:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523690"
-  },
-  {
-    "id": "988dd2c85db2",
-    "title": "Fed Raises Interest Rates, Bucking Trump’s Push for a Cut",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/fed-raises-interest-rates-bucking-trump-s-push-for-a-cut",
-    "published": "Wed, 16 Sep 2026 21:37:14 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.523696"
+    "fetched_at": "2026-09-17T10:01:56.751718"
   },
   {
     "id": "2cebe63af464",
-    "title": "Stock Futures Rebound, Bonds Pare Losses After Fed: Markets Wrap",
-    "summary": "Stock-index futures rebounded and Treasuries pared losses as Federal Reserve Chair Kevin Warsh’s resolve to tackle inflation reassured markets following the central bank’s first interest-rate hike since 2023.",
+    "title": "Stocks Rally and Treasuries Rise as Oil Retreats: Markets Wrap",
+    "summary": "US stocks rallied alongside Treasuries as falling oil prices lent support to optimism that inflation can be kept under control a day after the Federal Reserve raised interest rates and signaled more tightening to come.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 16 Sep 2026 22:06:59 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666298"
+    "fetched_at": "2026-09-17T10:01:56.751723"
   },
   {
-    "id": "8aa652f8c14f",
-    "title": "Saudis Seek to Resume Half of Key Oil Pipeline",
-    "summary": "Saudi Arabia is seeking to return about half the capacity of its cross-country oil pipeline within days after the link was halted following drone attacks. Bloomberg's Stuart Livingstone-Wallace has the context. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/saudis-seek-to-resume-half-of-key-oil-pipeline-video",
-    "published": "Thu, 17 Sep 2026 04:48:29 GMT",
+    "id": "b5bc2e4b7399",
+    "title": "ECB's Makhlouf on Inflation, Economy, Rates",
+    "summary": "ECB Governing Council member Gabriel Makhlouf discusses the outlook for inflation, the economy and interest rates. “At a time of uncertainty, every meeting is a live meeting for the European Central Bank,” the Irish central-bank chief told Bloomberg Television when asked whether there is a chance of an interest-rate hike in October if circumstances require it. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/ecb-s-makhlouf-on-inflation-economy-rates-video",
+    "published": "Thu, 17 Sep 2026 09:40:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666310"
-  },
-  {
-    "id": "ec95236d54c2",
-    "title": "BNP Paribas' Davis on Hiring Plans, Market Flows",
-    "summary": "Conor Davis, Global Head of Institutional Sales & Investors Coverage at BNP Paribas, discusses the bank’s hiring plans and market flows. He speaks exclusively from the sidelines of the BNP Paribas Global Markets APAC Conference in Hong Kong. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/bnp-paribas-davis-on-hiring-plans-market-flows-video",
-    "published": "Thu, 17 Sep 2026 04:33:31 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666317"
-  },
-  {
-    "id": "6d3c5632babe",
-    "title": "Harker on Federal Reserve Rate Hike",
-    "summary": "Patrick Harker, former Philadelphia Fed President, says the central bank had to show credibility in its push to return inflation to 2%. He speaks on “Bloomberg: The China Show.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/harker-on-federal-reserve-rate-hike-video",
-    "published": "Thu, 17 Sep 2026 04:31:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666323"
-  },
-  {
-    "id": "402424cb38e5",
-    "title": "Hong Kong Leader Unveils Five-Year Plan",
-    "summary": "Hong Kong Chief Executive John Lee set out plans to almost double the city’s spending on innovation in coming years and offered greater financial support for new parents, as his government seeks to build new growth engines and arrest a decline in births. The target was announced Wednesday as Lee unveiled Hong Kong’s first five-year development plan. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/hong-kong-leader-unveils-five-year-plan",
-    "published": "Thu, 17 Sep 2026 04:25:11 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666329"
-  },
-  {
-    "id": "8bdf3bbee3d7",
-    "title": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery",
-    "summary": "Shares of Hong Kong developers dropped after the city followed the Federal Reserve with an interest rate increase, fueling concerns that higher borrowing costs may derail a nascent housing market recovery.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-property-stocks-fall-as-rate-hike-threatens-recovery",
-    "published": "Thu, 17 Sep 2026 04:21:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666334"
-  },
-  {
-    "id": "439a044bb7b5",
-    "title": "Elham Taps Ex-BlackRock’s Allan for Australia Private Credit",
-    "summary": "Elham Credit Partners has hired former BlackRock Inc. executive Stephen Allan to seek private credit opportunities in Australia, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/elham-taps-ex-blackrock-s-allan-for-australia-private-credit",
-    "published": "Thu, 17 Sep 2026 04:17:08 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666340"
-  },
-  {
-    "id": "69d08c951102",
-    "title": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline",
-    "summary": "Oil held a steep drop on signs that supply disruptions in the Middle East are set to ease, with a key pipeline being restored.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
-    "published": "Wed, 16 Sep 2026 22:05:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666349"
-  },
-  {
-    "id": "9d6bdc44f886",
-    "title": "Ethiopia Bourse Approves 11 New Listings, With One Next Week",
-    "summary": "The Ethiopian Securities Exchange has given in-principle approval for 11 listings, almost tripling the number of publicly traded firms if all of them come to market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ethiopia-bourse-approves-11-new-listings-with-one-next-week",
-    "published": "Thu, 17 Sep 2026 04:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666354"
-  },
-  {
-    "id": "5ab5feb8e012",
-    "title": "Singapore’s Gold Hub Plan Gets Lift With DBS Vault Expansion",
-    "summary": "Singapore’s push to become a major gold hub is gaining momentum, with DBS Group Holdings Ltd. adding bullion storage capacity and other banks considering similar moves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/singapore-s-gold-hub-ambition-gets-lift-with-dbs-vault-expansion",
-    "published": "Thu, 17 Sep 2026 01:49:39 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666359"
-  },
-  {
-    "id": "dedb38d1964a",
-    "title": "Gold Rises as US Treasuries Pare Losses Following Fed Rate Hike",
-    "summary": "Gold pushed higher – after a three-day decline – as US Treasuries clawed back some losses following the Federal Reserve’s first interest-rate hike since 2023.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/gold-holds-decline-after-fed-tilts-hawkish-and-raises-rates",
-    "published": "Wed, 16 Sep 2026 23:54:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666364"
-  },
-  {
-    "id": "9ff3adb0ed61",
-    "title": "Russian Oil Uncertainty Hangs Over India’s Largest Buyers",
-    "summary": "Indian state-owned refiners are facing the most significant supply uncertainty in months, according to people with direct knowledge of the trade, as the impact of a drawn-out conflict in the Middle East is compounded by the prospect of tighter US restrictions on Russian purchases.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/russian-crude-uncertainty-hangs-over-india-s-largest-oil-buyers",
-    "published": "Wed, 16 Sep 2026 12:22:19 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666369"
-  },
-  {
-    "id": "b2a79495b9c7",
-    "title": "The Bank of Japan's Hardest Decision in Decades",
-    "summary": "The Bank of Japan is facing its toughest call in decades.\n\nWith the yen sliding, volatility spiking and regional growth fragile, the stakes couldn't be higher. Anthony Stephens has more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/the-bank-of-japan-s-hardest-decision-in-decades-video",
-    "published": "Thu, 17 Sep 2026 02:36:57 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666375"
-  },
-  {
-    "id": "26f8880fa31b",
-    "title": "Copper Steadies as Traders Shrug Off Fed’s Hawkish Rate Signals",
-    "summary": "Copper steadied as traders shrugged off hawkish messaging from the Federal Reserve chair following a widely expected interest rate hike.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/copper-steadies-as-traders-shrug-off-fed-s-hawkish-rate-signals",
-    "published": "Thu, 17 Sep 2026 02:36:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666381"
-  },
-  {
-    "id": "2f69570f9cd5",
-    "title": "Tata Sons Board Takes Up RBI’s IPO Mandate and a Leadership Dilemma",
-    "summary": "Board to discuss if outgoing Chairman Natarajan Chandrasekaran should be asked to stay on.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/tata-sons-board-takes-up-rbi-s-ipo-mandate-and-a-leadership-dilemma",
-    "published": "Thu, 17 Sep 2026 02:34:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666386"
-  },
-  {
-    "id": "c14e41433290",
-    "title": "China Adds Currencies to Central Clearing in Yuan’s Global Push",
-    "summary": "China has expanded its onshore central clearing system to more foreign currencies, another step toward promoting direct trading with the yuan and reducing reliance on the dollar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/china-adds-currencies-to-central-clearing-in-yuan-s-global-push",
-    "published": "Thu, 17 Sep 2026 02:31:47 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666391"
+    "fetched_at": "2026-09-17T10:01:56.751729"
   },
   {
     "id": "6cf5dd983886",
-    "title": "Global Bonds Recover as Warsh’s Inflation Fight Calms Market",
-    "summary": "Global bond yields retreated Thursday, calming a pressured market after the Federal Reserve’s rate hike and Chairman Kevin Warsh’s vow to tame inflation, while traders awaited Friday’s Bank of Japan decision.",
+    "title": "Treasuries Gain as Growing Confidence in Warsh Calms Market",
+    "summary": "Treasuries advanced Thursday as the Federal Reserve’s interest rate hike reassured investors that the central bank is determined to tame inflation.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/global-bonds-recover-as-warsh-s-inflation-fight-calms-market",
     "published": "Thu, 17 Sep 2026 02:15:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666396"
+    "fetched_at": "2026-09-17T10:01:56.751734"
   },
   {
-    "id": "fb3ed7e0e888",
-    "title": "Myanmar Deports Detained Ex-AmCham Chief to ‘Preserve’ US Ties",
-    "summary": "Myanmar deported American businessman Adam Castillo on Wednesday evening, ending a three-month detention for breach of trust in a move the authorities said was aimed at preserving diplomatic relations with the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/myanmar-deports-detained-american-to-preserve-us-relations",
-    "published": "Thu, 17 Sep 2026 01:58:38 GMT",
+    "id": "6ebf65cdef40",
+    "title": "Tata Sons to List, Asks Chairman to Stay On to Steady Group",
+    "summary": "Tata Sons Pvt. is said to have approved going public and asked Chairman Natarajan Chandrasekaran to stay on for five more years, as one of India’s biggest business houses tries to keep leadership steady through the transition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/tata-offers-chandra-extension-to-steady-group-amid-listing-push",
+    "published": "Thu, 17 Sep 2026 09:16:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666401"
+    "fetched_at": "2026-09-17T10:01:56.751739"
   },
   {
-    "id": "e90bc9016150",
-    "title": "Hong Kong Leans Into Yuan Bond Boom as Debt Hub Rivalry Builds",
-    "summary": "Hong Kong, Asia’s leading hub for bond underwriting for more than a decade, is making the most of a record flurry of offshore yuan debt issuance as competition for fixed-income business across financial centers intensifies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-leans-into-yuan-bond-boom-as-debt-hub-rivalry-builds",
-    "published": "Thu, 17 Sep 2026 01:18:00 GMT",
+    "id": "f735c5e60b18",
+    "title": "Sutcliffe: Houthi Aim is Leverage Over Saudi Arabia",
+    "summary": "President Trump is expected to meet Gulf leaders next week, that's according to Axios. The meeting is reportedly set to take place on the sidelines of the UN General Assembly in New York. Meanwhile, oil held its steep drop after reports suggested Saudi Arabia will return to about half the capacity of its damaged East-West pipeline within days. Megan Sutcliffe, Principal Analyst for the Middle East and Africa at Sibylline spoke to Bloomberg’s Abeer Abu  Omar on Horizons Middle East & Africa on the attacks in the region. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/sutcliffe-houthi-aim-is-leverage-over-saudi-arabia",
+    "published": "Thu, 17 Sep 2026 09:08:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666407"
+    "fetched_at": "2026-09-17T10:01:56.751744"
   },
   {
-    "id": "8ef185b2634a",
-    "title": "Venezuela Aluminum Heads to US; Heeney Eyes Gold Deal",
-    "summary": "Venezuela is preparing to ship aluminum to the US under a deal with Mercuria Energy Group Ltd. and Heeney Capital, with the latter also planning to invest in a Venezuelan gold mine, accelerating a revival of commercial ties beyond oil.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/venezuela-plans-to-ship-aluminum-to-us-in-mercuria-heeney-deal",
-    "published": "Wed, 16 Sep 2026 14:09:49 GMT",
+    "id": "58a9e3fb23d0",
+    "title": "Food Prices Present Fresh Risk for Global Bonds After Selloff",
+    "summary": "Energy prices have been the scourge of bond markets this year. Now investors worry that the next inflation spike will come from food.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/food-prices-present-fresh-risk-for-global-bonds-after-selloff",
+    "published": "Thu, 17 Sep 2026 09:04:48 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-09-17T05:10:54.666412"
+    "fetched_at": "2026-09-17T10:01:56.751753"
+  },
+  {
+    "id": "f82ab38db016",
+    "title": "Fender’s War With the Industry It Created",
+    "summary": "The Fender Stratocaster is a shape so universal it's the emoji on your phone's keyboard. Which is kind of Fender's problem, Paul Sloan explains, as the company tries to claim back the body of a guitar that's become an iconic shape  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/fender-s-war-with-the-industry-it-created",
+    "published": "Thu, 17 Sep 2026 09:00:54 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751758"
+  },
+  {
+    "id": "d553811edeab",
+    "title": "Turkish Regulator to Liquidate Funds Run by Tera and Others",
+    "summary": "Turkey’s market regulator said it will liquidate some funds run by asset managers including Tera Portfoy and Pusula Portfoy as officials move to stem the turmoil that’s shaken the country’s investment industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/turkey-regulator-will-liquidiate-some-funds-managed-by-7-firms",
+    "published": "Thu, 17 Sep 2026 08:21:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751763"
+  },
+  {
+    "id": "719cf85ab5f9",
+    "title": "Abu Dhabi's L’imad Eyes Stake in Apollo Air Cargo Unit (Video)",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/abu-dhabi-s-l-imad-eyes-stake-in-apollo-air-cargo-unit-video",
+    "published": "Thu, 17 Sep 2026 08:37:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751768"
+  },
+  {
+    "id": "163a03b99587",
+    "title": "Major Bathla Creditor Explores Debt Sale as Crisis Persists",
+    "summary": "Centuria Bass Credit, a major Bathla Group backer, is exploring options to sell some debt tied to the insolvent Sydney builder, the latest sign that some creditors could be looking to trim their exposure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/major-bathla-creditor-explores-debt-sale-as-crisis-persists",
+    "published": "Thu, 17 Sep 2026 08:35:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751773"
+  },
+  {
+    "id": "180d915059c6",
+    "title": "Nigeria Seen Cutting Rates on Softer Prices, Stronger Naira",
+    "summary": "Nigeria’s central bank is expected to resume cutting interest rates at next week’s meeting, buoyed by slowing inflation and exchange-rate stability, according to Bank of America.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/nigeria-seen-cutting-rates-on-softer-prices-and-stronger-naira",
+    "published": "Wed, 16 Sep 2026 16:01:10 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751779"
+  },
+  {
+    "id": "a6c2d03a9bad",
+    "title": "Oil Holds Drop as Saudi Arabia Seeks to Restore Pipeline",
+    "summary": "Oil held a drop on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to restore capacity of its damaged East-West pipeline. Global fuel markets have been squeezed by the combined impact of the US-Iran conflict and the war between Russia and Ukraine, with Kyiv pummeling Moscow’s refineries. Bloomberg's Will Kennedy breaks down the situation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/oil-holds-drop-as-saudi-arabia-seeks-to-restore-pipeline-video",
+    "published": "Thu, 17 Sep 2026 08:21:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751784"
+  },
+  {
+    "id": "1804e592d692",
+    "title": "Apollo Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investments",
+    "summary": "Apollo Global Management Inc. is in talks with SoftBank Group Corp. about boosting the size of a loan to $9 billion from $5.4 billion to help the Japanese firm finance its investment in AI giant OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/apollo-mulls-raising-softbank-loan-to-9-billion-for-openai-bets",
+    "published": "Thu, 17 Sep 2026 06:17:50 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751788"
+  },
+  {
+    "id": "24da623e5b80",
+    "title": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "summary": "Francis Fukuyama's essay “The End of History?” was published in the summer of 1989, just before the fall of the Berlin Wall. His argument — that liberal democracy would not only defeat communism, but that its partisans might miss the “courage, imagination, and idealism” that defined the ideological battle — lives on as one of the most cited pieces of political theory in the last three decades. In his new memoir, In the Realm of the Last Man, he revisits “The End of History?” and talks to us about how his argument has evolved in a world now defined by the rapid development of AI and by the many electoral defeats liberal democracy has suffered as of late. We discuss how the Internet and social media are helping fuel the listlessness that “The End of History” brought about, how he uses AI, and what, if anything, will come after liberalism. \n\nSee Odd Lots Live in LA September 2026 https://events.bloombergevents.com/event/ODDLOTSLA/summary (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/what-francis-fukuyama-is-seeing-at-the-end-of-history-video",
+    "published": "Thu, 17 Sep 2026 08:12:54 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751793"
+  },
+  {
+    "id": "58d25f973110",
+    "title": "How High Speed Traders Made Billions in India",
+    "summary": "In India, high-frequency trading firms have earned billions of dollars in the derivatives space while retail investors faced record losses. Is HFT fueling efficient markets or gaming the system?  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/how-high-speed-traders-made-billions-in-india-video",
+    "published": "Thu, 17 Sep 2026 08:01:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751798"
+  },
+  {
+    "id": "24704564e6c7",
+    "title": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "summary": "<p>What will come after liberal democracy?</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/what-francis-fukuyama-is-seeing-at-the-end-of-history",
+    "published": "Thu, 17 Sep 2026 08:00:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751803"
+  },
+  {
+    "id": "88340580740e",
+    "title": "Odd Lots: What Fukuyama Sees at ‘The End of History’ (Podcast)",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/odd-lots-what-fukuyama-sees-at-the-end-of-history-podcast",
+    "published": "Thu, 17 Sep 2026 08:00:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-09-17T10:01:56.751808"
   }
 ]

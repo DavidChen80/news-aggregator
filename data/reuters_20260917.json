@@ -1,5 +1,115 @@
 [
   {
+    "id": "61a830b911b8",
+    "title": "Bloomberg Daybreak: Fed Rate Hike (Podcast)",
+    "title_cn": "Bloomberg Daybreak: Fed Rate Hike (Podcast)",
+    "summary": "Source: Bloomberg, 15:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-fed-rate-hike-podcast",
+    "published": "Thu, 17 Sep 2026 09:39:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:18.851776"
+  },
+  {
+    "id": "14614ab58d4b",
+    "title": "Trump Attacks Fed Hike, Suggests Tariffs on Europe, More",
+    "title_cn": "Trump Attacks Fed Hike, Suggests Tariffs on Europe, More",
+    "summary": "Source: Bloomberg, 6:22",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/trump-attacks-fed-hike-suggests-tariffs-on-europe-more",
+    "published": "Thu, 17 Sep 2026 09:30:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:19.358399"
+  },
+  {
+    "id": "ecd4cdccaf3b",
+    "title": "Stock Movers: Next, Wizz Air, Exosens (Podcast)",
+    "title_cn": "Stock Movers: Next, Wizz Air, Exosens (Podcast)",
+    "summary": "Source: Bloomberg, 3:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/stock-movers-next-wizz-air-exosens-podcast",
+    "published": "Thu, 17 Sep 2026 09:16:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:19.736850"
+  },
+  {
+    "id": "954dfdd37316",
+    "title": "Fed's Unanimous Hike, Trump Floats EU Tariffs, More",
+    "title_cn": "Fed's Unanimous Hike, Trump Floats EU Tariffs, More",
+    "summary": "Source: Bloomberg, 6:44",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-s-unanimous-hike-trump-floats-eu-tariffs-more",
+    "published": "Thu, 17 Sep 2026 08:34:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:20.299794"
+  },
+  {
+    "id": "5ab7715e4acb",
+    "title": "Stock Movers: Next, Sodexo, Bilfinger (Podcast)",
+    "title_cn": "Stock Movers: Next, Sodexo, Bilfinger (Podcast)",
+    "summary": "Source: Bloomberg, 4:39",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/stock-movers-next-sodexo-bilfinger-podcast",
+    "published": "Thu, 17 Sep 2026 08:17:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:20.765240"
+  },
+  {
+    "id": "c59b917e785e",
+    "title": "Warsh Defies Trump, King Charles Gathers AI Execs, More",
+    "title_cn": "Warsh Defies Trump, King Charles Gathers AI Execs, More",
+    "summary": "Source: Bloomberg, 7:50",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/warsh-defies-trump-king-charles-gathers-ai-execs-more",
+    "published": "Thu, 17 Sep 2026 08:01:09 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:21.296046"
+  },
+  {
+    "id": "d3b3c1c96564",
+    "title": "Next Raises Profit Guidance as Overseas Sales Rise But Warns on UK Tax Hikes",
+    "title_cn": "Next Raises Profit Guidance as Overseas Sales Rise But Warns on UK Tax Hikes",
+    "summary": "Next boosted by overseas; Bank of England day",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/next-raises-profit-guidance-as-overseas-sales-rise-but-warns-on-uk-tax-hikes",
+    "published": "Thu, 17 Sep 2026 07:18:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:21.791865"
+  },
+  {
+    "id": "ebe81c387167",
+    "title": "Warsh's Inflation Fight, Trump Floats EU Tariffs, More",
+    "title_cn": "Warsh's Inflation Fight, Trump Floats EU Tariffs, More",
+    "summary": "Source: Bloomberg, 7:56",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/warsh-s-inflation-fight-trump-floats-eu-tariffs-more",
+    "published": "Thu, 17 Sep 2026 06:36:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:22.384240"
+  },
+  {
+    "id": "3041373a8cc2",
+    "title": "Bloomberg Daybreak Europe: Fed Defies Trump (Podcast)",
+    "title_cn": "Bloomberg Daybreak Europe: Fed Defies Trump (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-europe-fed-defies-trump-podcast",
+    "published": "Thu, 17 Sep 2026 05:51:39 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:22.763073"
+  },
+  {
+    "id": "79a22cbc3c51",
+    "title": "Fed Hikes, Defying Trump’s Calls to Lower Rates",
+    "title_cn": "Fed Hikes, Defying Trump’s Calls to Lower Rates",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/fed-hikes-defying-trump-s-calls-to-lower-rates",
+    "published": "Thu, 17 Sep 2026 05:40:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:23.314547"
+  },
+  {
+    "id": "368fb5a49264",
+    "title": "Unanimous Fed Hike, New OpenAI Safety Incidents, More",
+    "title_cn": "Unanimous Fed Hike, New OpenAI Safety Incidents, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/unanimous-fed-hike-new-openai-safety-incidents-more",
+    "published": "Thu, 17 Sep 2026 05:31:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:23.761435"
+  },
+  {
     "id": "3fb3004ee812",
     "title": "Tata Sons’ IPO Standoff Against RBI Tests Power and Reach of India Central Bank",
     "title_cn": "Tata Sons’ IPO Standoff Against RBI Tests Power and Reach of India Central Bank",
@@ -7,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/tata-sons-ipo-standoff-against-rbi-tests-power-and-reach-of-india-central-bank",
     "published": "Thu, 17 Sep 2026 04:52:40 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:19.781261"
+    "fetched_at": "2026-09-17T10:01:24.141932"
   },
   {
     "id": "ef019ab9fc51",
@@ -17,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/the-best-portuguese-egg-tarts-in-hong-kong-and-macau-ranked",
     "published": "Thu, 17 Sep 2026 04:29:26 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:20.255516"
+    "fetched_at": "2026-09-17T10:01:24.592426"
   },
   {
     "id": "72001cd45f4d",
@@ -27,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-decides-to-hike-trump-interest-rates-too-high-more",
     "published": "Thu, 17 Sep 2026 03:16:27 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:20.551433"
+    "fetched_at": "2026-09-17T10:01:25.049206"
   },
   {
     "id": "a1d785dd6f86",
@@ -37,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/bloomberg-daybreak-asia-fed-hikes-rates-podcast",
     "published": "Thu, 17 Sep 2026 03:08:19 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:21.119977"
+    "fetched_at": "2026-09-17T10:01:25.616136"
   },
   {
     "id": "fdca29de2d91",
@@ -47,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-interest-rates-trump-says-rates-should-be-1-more",
     "published": "Thu, 17 Sep 2026 02:44:34 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:21.618551"
+    "fetched_at": "2026-09-17T10:01:26.106180"
   },
   {
     "id": "2ed2c724896f",
@@ -57,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-hikes-rates-to-tame-inflation-trump-backs-warsh-more",
     "published": "Thu, 17 Sep 2026 01:59:41 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:22.139384"
+    "fetched_at": "2026-09-17T10:01:26.598354"
   },
   {
     "id": "ec8dd8585c59",
@@ -67,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-17/fed-raises-rates-to-curb-inflation-trump-rates-should-be-1",
     "published": "Thu, 17 Sep 2026 00:47:46 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:22.610994"
+    "fetched_at": "2026-09-17T10:01:27.078794"
   },
   {
     "id": "50dbf4fdb6df",
@@ -77,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-raises-rates-trump-backs-warsh-faults-hostile-board",
     "published": "Wed, 16 Sep 2026 23:55:45 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:23.090760"
+    "fetched_at": "2026-09-17T10:01:27.652340"
   },
   {
     "id": "8e64411a8d96",
@@ -87,387 +197,237 @@
     "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-australia-super-funds-and-the-yen-podcast",
     "published": "Wed, 16 Sep 2026 23:52:11 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:23.575493"
+    "fetched_at": "2026-09-17T10:01:28.072453"
   },
   {
-    "id": "8ade7bf3c825",
-    "title": "Bloomberg Law: Huawei on Trial & Trump Enemies Probe (Podcast)",
-    "title_cn": "Bloomberg Law: Huawei on Trial & Trump Enemies Probe (Podcast)",
-    "summary": "Source: Bloomberg, 36:26",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-law-huawei-on-trial-trump-enemies-probe-podcast",
-    "published": "Wed, 16 Sep 2026 23:25:57 GMT",
+    "id": "313ff4b3996c",
+    "title": "Traders Applaud Warsh’s Fight Against Inflation",
+    "title_cn": "Traders Applaud Warsh’s Fight Against Inflation",
+    "summary": "Stocks, bonds rally as investors say Fed chair has bolstered his credibility.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/traders-applaud-warsh-s-fight-against-inflation",
+    "published": "Thu, 17 Sep 2026 09:56:10 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:23.875622"
+    "fetched_at": "2026-09-17T10:01:28.582642"
   },
   {
-    "id": "5109b6efda54",
-    "title": "Bloomberg Businessweek Daily: The Next Investment Boom (Podcast)",
-    "title_cn": "Bloomberg Businessweek Daily: The Next Investment Boom (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-next-investment-boom-podcast",
-    "published": "Wed, 16 Sep 2026 23:25:39 GMT",
+    "id": "252a2cedfd8a",
+    "title": "BOE’s QT Plans May Eclipse Rates as Key Decision for Bond Market",
+    "title_cn": "BOE’s QT Plans May Eclipse Rates as Key Decision for Bond Market",
+    "summary": "Bond investors are more focused on the Bank of England’s plan for its quantitative-tightening program for the next year than its interest-rate decision at Thursday’s policy meeting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/boe-s-qt-plans-may-eclipse-rates-as-key-decision-for-bond-market",
+    "published": "Thu, 17 Sep 2026 09:47:58 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:24.182343"
+    "fetched_at": "2026-09-17T10:01:28.883793"
   },
   {
-    "id": "94c128df276d",
-    "title": "Australia migration cuts, NZ’s world-beating sovereign wealth fund, Fed hikes",
-    "title_cn": "Australia migration cuts, NZ’s world-beating sovereign wealth fund, Fed hikes",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/australia-migration-cuts-nz-s-world-beating-sovereign-wealth-fund-fed-hikes",
-    "published": "Wed, 16 Sep 2026 23:24:06 GMT",
+    "id": "62b2a155ebfe",
+    "title": "India’s $900 Billion Infrastructure Push May Spur Muni Bonds",
+    "title_cn": "India’s $900 Billion Infrastructure Push May Spur Muni Bonds",
+    "summary": "India’s capital markets regulator will encourage municipalities to pool their financing needs and issue bonds collectively to fund the upgrade of urban infrastructure that may cost up to $900 billion through 2031.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-s-900-billion-infrastructure-push-may-spur-muni-bonds",
+    "published": "Thu, 17 Sep 2026 09:45:55 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:24.708332"
-  },
-  {
-    "id": "5a31d88e22c3",
-    "title": "Fed Hikes Rates, Trump: Rates Should Be 1% or Less, More",
-    "title_cn": "Fed Hikes Rates, Trump: Rates Should Be 1% or Less, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-hikes-rates-trump-rates-should-be-1-or-less-more",
-    "published": "Wed, 16 Sep 2026 23:11:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:25.274372"
-  },
-  {
-    "id": "e1196d6fbe72",
-    "title": "Big Take: Warsh’s Rate Hike Trap (Podcast)",
-    "title_cn": "Big Take: Warsh’s Rate Hike Trap (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/big-take-warsh-s-rate-hike-trap-podcast",
-    "published": "Wed, 16 Sep 2026 22:47:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:25.836451"
-  },
-  {
-    "id": "bf8070c4612e",
-    "title": "Bloomberg Businessweek Daily: The Fed Raises Rates (Podcast)",
-    "title_cn": "Bloomberg Businessweek Daily: The Fed Raises Rates (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/bloomberg-businessweek-daily-the-fed-raises-rates-podcast",
-    "published": "Wed, 16 Sep 2026 22:42:28 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:26.371311"
-  },
-  {
-    "id": "4a9c3a3a21ff",
-    "title": "The Deal: Kerri Walsh Jennings (Podcast)",
-    "title_cn": "The Deal: Kerri Walsh Jennings (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/the-deal-kerri-walsh-jennings-podcast",
-    "published": "Wed, 16 Sep 2026 22:17:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:26.720571"
-  },
-  {
-    "id": "691cc179a06f",
-    "title": "Fed Raises Rates, Trump Says Rates Should Be 1% or Less, More",
-    "title_cn": "Fed Raises Rates, Trump Says Rates Should Be 1% or Less, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/fed-raises-rates-trump-says-rates-should-be-1-or-less-more",
-    "published": "Wed, 16 Sep 2026 22:05:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:27.211643"
-  },
-  {
-    "id": "8fdfe8e4c8cf",
-    "title": "Trumponomics: Why 5% Treasury Yields Are Here To Stay (Podcast)",
-    "title_cn": "Trumponomics: Why 5% Treasury Yields Are Here To Stay (Podcast)",
-    "summary": "Source: Bloomberg, 25:52",
-    "link": "https://www.bloomberg.com/news/audio/2026-09-16/trumponomics-why-5-treasury-yields-are-here-to-stay-podcast",
-    "published": "Wed, 16 Sep 2026 21:58:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:27.627047"
-  },
-  {
-    "id": "ace334959ee0",
-    "title": "Fed Raises Rates in Unanimous Vote: Evening Briefing Americas",
-    "title_cn": "Fed Raises Rates in Unanimous Vote: Evening Briefing Americas",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/fed-raises-rates-in-unanimous-vote-evening-briefing-americas",
-    "published": "Wed, 16 Sep 2026 21:56:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:28.075106"
-  },
-  {
-    "id": "988dd2c85db2",
-    "title": "Fed Raises Interest Rates, Bucking Trump’s Push for a Cut",
-    "title_cn": "Fed Raises Interest Rates, Bucking Trump’s Push for a Cut",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/fed-raises-interest-rates-bucking-trump-s-push-for-a-cut",
-    "published": "Wed, 16 Sep 2026 21:37:14 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:28.597563"
+    "fetched_at": "2026-09-17T10:01:29.319917"
   },
   {
     "id": "2cebe63af464",
-    "title": "Stock Futures Rebound, Bonds Pare Losses After Fed: Markets Wrap",
-    "title_cn": "Stock Futures Rebound, Bonds Pare Losses After Fed: Markets Wrap",
-    "summary": "Stock-index futures rebounded and Treasuries pared losses as Federal Reserve Chair Kevin Warsh’s resolve to tackle inflation reassured markets following the central bank’s first interest-rate hike since 2023.",
+    "title": "Stocks Rally and Treasuries Rise as Oil Retreats: Markets Wrap",
+    "title_cn": "Stocks Rally and Treasuries Rise as Oil Retreats: Markets Wrap",
+    "summary": "US stocks rallied alongside Treasuries as falling oil prices lent support to optimism that inflation can be kept under control a day after the Federal Reserve raised interest rates and signaled more tightening to come.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
     "published": "Wed, 16 Sep 2026 22:06:59 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:29.094791"
+    "fetched_at": "2026-09-17T10:01:29.667419"
   },
   {
-    "id": "8aa652f8c14f",
-    "title": "Saudis Seek to Resume Half of Key Oil Pipeline",
-    "title_cn": "Saudis Seek to Resume Half of Key Oil Pipeline",
-    "summary": "Saudi Arabia is seeking to return about half the capacity of its cross-country oil pipeline within days after the link was halted following drone attacks. Bloomberg's Stuart Livingstone-Wallace has the context. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/saudis-seek-to-resume-half-of-key-oil-pipeline-video",
-    "published": "Thu, 17 Sep 2026 04:48:29 GMT",
+    "id": "b5bc2e4b7399",
+    "title": "ECB's Makhlouf on Inflation, Economy, Rates",
+    "title_cn": "ECB's Makhlouf on Inflation, Economy, Rates",
+    "summary": "ECB Governing Council member Gabriel Makhlouf discusses the outlook for inflation, the economy and interest rates. “At a time of uncertainty, every meeting is a live meeting for the European Central Bank,” the Irish central-bank chief told Bloomberg Television when asked whether there is a chance of an interest-rate hike in October if circumstances require it. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/ecb-s-makhlouf-on-inflation-economy-rates-video",
+    "published": "Thu, 17 Sep 2026 09:40:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:29.508402"
-  },
-  {
-    "id": "ec95236d54c2",
-    "title": "BNP Paribas' Davis on Hiring Plans, Market Flows",
-    "title_cn": "BNP Paribas' Davis on Hiring Plans, Market Flows",
-    "summary": "Conor Davis, Global Head of Institutional Sales & Investors Coverage at BNP Paribas, discusses the bank’s hiring plans and market flows. He speaks exclusively from the sidelines of the BNP Paribas Global Markets APAC Conference in Hong Kong. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/bnp-paribas-davis-on-hiring-plans-market-flows-video",
-    "published": "Thu, 17 Sep 2026 04:33:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:29.875000"
-  },
-  {
-    "id": "6d3c5632babe",
-    "title": "Harker on Federal Reserve Rate Hike",
-    "title_cn": "Harker on Federal Reserve Rate Hike",
-    "summary": "Patrick Harker, former Philadelphia Fed President, says the central bank had to show credibility in its push to return inflation to 2%. He speaks on “Bloomberg: The China Show.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/harker-on-federal-reserve-rate-hike-video",
-    "published": "Thu, 17 Sep 2026 04:31:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:30.159833"
-  },
-  {
-    "id": "402424cb38e5",
-    "title": "Hong Kong Leader Unveils Five-Year Plan",
-    "title_cn": "Hong Kong Leader Unveils Five-Year Plan",
-    "summary": "Hong Kong Chief Executive John Lee set out plans to almost double the city’s spending on innovation in coming years and offered greater financial support for new parents, as his government seeks to build new growth engines and arrest a decline in births. The target was announced Wednesday as Lee unveiled Hong Kong’s first five-year development plan. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/hong-kong-leader-unveils-five-year-plan",
-    "published": "Thu, 17 Sep 2026 04:25:11 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:30.500335"
-  },
-  {
-    "id": "8bdf3bbee3d7",
-    "title": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery",
-    "title_cn": "Hong Kong Property Stocks Fall as Rate Hike Threatens Recovery",
-    "summary": "Shares of Hong Kong developers dropped after the city followed the Federal Reserve with an interest rate increase, fueling concerns that higher borrowing costs may derail a nascent housing market recovery.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-property-stocks-fall-as-rate-hike-threatens-recovery",
-    "published": "Thu, 17 Sep 2026 04:21:10 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:30.943094"
-  },
-  {
-    "id": "439a044bb7b5",
-    "title": "Elham Taps Ex-BlackRock’s Allan for Australia Private Credit",
-    "title_cn": "Elham Taps Ex-BlackRock’s Allan for Australia Private Credit",
-    "summary": "Elham Credit Partners has hired former BlackRock Inc. executive Stephen Allan to seek private credit opportunities in Australia, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/elham-taps-ex-blackrock-s-allan-for-australia-private-credit",
-    "published": "Thu, 17 Sep 2026 04:17:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:31.324503"
-  },
-  {
-    "id": "69d08c951102",
-    "title": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline",
-    "title_cn": "Oil Holds Drop as Saudi Arabia Moves to Restore Vital Pipeline",
-    "summary": "Oil held a steep drop on signs that supply disruptions in the Middle East are set to ease, with a key pipeline being restored.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
-    "published": "Wed, 16 Sep 2026 22:05:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:31.726182"
-  },
-  {
-    "id": "9d6bdc44f886",
-    "title": "Ethiopia Bourse Approves 11 New Listings, With One Next Week",
-    "title_cn": "Ethiopia Bourse Approves 11 New Listings, With One Next Week",
-    "summary": "The Ethiopian Securities Exchange has given in-principle approval for 11 listings, almost tripling the number of publicly traded firms if all of them come to market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/ethiopia-bourse-approves-11-new-listings-with-one-next-week",
-    "published": "Thu, 17 Sep 2026 04:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:32.113460"
-  },
-  {
-    "id": "5ab5feb8e012",
-    "title": "Singapore’s Gold Hub Plan Gets Lift With DBS Vault Expansion",
-    "title_cn": "Singapore’s Gold Hub Plan Gets Lift With DBS Vault Expansion",
-    "summary": "Singapore’s push to become a major gold hub is gaining momentum, with DBS Group Holdings Ltd. adding bullion storage capacity and other banks considering similar moves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/singapore-s-gold-hub-ambition-gets-lift-with-dbs-vault-expansion",
-    "published": "Thu, 17 Sep 2026 01:49:39 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:32.676006"
-  },
-  {
-    "id": "dedb38d1964a",
-    "title": "Gold Rises as US Treasuries Pare Losses Following Fed Rate Hike",
-    "title_cn": "Gold Rises as US Treasuries Pare Losses Following Fed Rate Hike",
-    "summary": "Gold pushed higher – after a three-day decline – as US Treasuries clawed back some losses following the Federal Reserve’s first interest-rate hike since 2023.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/gold-holds-decline-after-fed-tilts-hawkish-and-raises-rates",
-    "published": "Wed, 16 Sep 2026 23:54:12 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:33.225782"
-  },
-  {
-    "id": "9ff3adb0ed61",
-    "title": "Russian Oil Uncertainty Hangs Over India’s Largest Buyers",
-    "title_cn": "Russian Oil Uncertainty Hangs Over India’s Largest Buyers",
-    "summary": "Indian state-owned refiners are facing the most significant supply uncertainty in months, according to people with direct knowledge of the trade, as the impact of a drawn-out conflict in the Middle East is compounded by the prospect of tighter US restrictions on Russian purchases.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/russian-crude-uncertainty-hangs-over-india-s-largest-oil-buyers",
-    "published": "Wed, 16 Sep 2026 12:22:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:33.545321"
-  },
-  {
-    "id": "b2a79495b9c7",
-    "title": "The Bank of Japan's Hardest Decision in Decades",
-    "title_cn": "The Bank of Japan's Hardest Decision in Decades",
-    "summary": "The Bank of Japan is facing its toughest call in decades.\n\nWith the yen sliding, volatility spiking and regional growth fragile, the stakes couldn't be higher. Anthony Stephens has more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/the-bank-of-japan-s-hardest-decision-in-decades-video",
-    "published": "Thu, 17 Sep 2026 02:36:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:33.815062"
-  },
-  {
-    "id": "26f8880fa31b",
-    "title": "Copper Steadies as Traders Shrug Off Fed’s Hawkish Rate Signals",
-    "title_cn": "Copper Steadies as Traders Shrug Off Fed’s Hawkish Rate Signals",
-    "summary": "Copper steadied as traders shrugged off hawkish messaging from the Federal Reserve chair following a widely expected interest rate hike.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/copper-steadies-as-traders-shrug-off-fed-s-hawkish-rate-signals",
-    "published": "Thu, 17 Sep 2026 02:36:16 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:34.134080"
-  },
-  {
-    "id": "2f69570f9cd5",
-    "title": "Tata Sons Board Takes Up RBI’s IPO Mandate and a Leadership Dilemma",
-    "title_cn": "Tata Sons Board Takes Up RBI’s IPO Mandate and a Leadership Dilemma",
-    "summary": "Board to discuss if outgoing Chairman Natarajan Chandrasekaran should be asked to stay on.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/tata-sons-board-takes-up-rbi-s-ipo-mandate-and-a-leadership-dilemma",
-    "published": "Thu, 17 Sep 2026 02:34:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:34.678764"
-  },
-  {
-    "id": "c14e41433290",
-    "title": "China Adds Currencies to Central Clearing in Yuan’s Global Push",
-    "title_cn": "China Adds Currencies to Central Clearing in Yuan’s Global Push",
-    "summary": "China has expanded its onshore central clearing system to more foreign currencies, another step toward promoting direct trading with the yuan and reducing reliance on the dollar.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/china-adds-currencies-to-central-clearing-in-yuan-s-global-push",
-    "published": "Thu, 17 Sep 2026 02:31:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:35.145128"
+    "fetched_at": "2026-09-17T10:01:29.980157"
   },
   {
     "id": "6cf5dd983886",
-    "title": "Global Bonds Recover as Warsh’s Inflation Fight Calms Market",
-    "title_cn": "Global Bonds Recover as Warsh’s Inflation Fight Calms Market",
-    "summary": "Global bond yields retreated Thursday, calming a pressured market after the Federal Reserve’s rate hike and Chairman Kevin Warsh’s vow to tame inflation, while traders awaited Friday’s Bank of Japan decision.",
+    "title": "Treasuries Gain as Growing Confidence in Warsh Calms Market",
+    "title_cn": "Treasuries Gain as Growing Confidence in Warsh Calms Market",
+    "summary": "Treasuries advanced Thursday as the Federal Reserve’s interest rate hike reassured investors that the central bank is determined to tame inflation.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/global-bonds-recover-as-warsh-s-inflation-fight-calms-market",
     "published": "Thu, 17 Sep 2026 02:15:47 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:35.612853"
+    "fetched_at": "2026-09-17T10:01:30.314205"
   },
   {
-    "id": "fb3ed7e0e888",
-    "title": "Myanmar Deports Detained Ex-AmCham Chief to ‘Preserve’ US Ties",
-    "title_cn": "Myanmar Deports Detained Ex-AmCham Chief to ‘Preserve’ US Ties",
-    "summary": "Myanmar deported American businessman Adam Castillo on Wednesday evening, ending a three-month detention for breach of trust in a move the authorities said was aimed at preserving diplomatic relations with the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/myanmar-deports-detained-american-to-preserve-us-relations",
-    "published": "Thu, 17 Sep 2026 01:58:38 GMT",
+    "id": "6ebf65cdef40",
+    "title": "Tata Sons to List, Asks Chairman to Stay On to Steady Group",
+    "title_cn": "Tata Sons to List, Asks Chairman to Stay On to Steady Group",
+    "summary": "Tata Sons Pvt. is said to have approved going public and asked Chairman Natarajan Chandrasekaran to stay on for five more years, as one of India’s biggest business houses tries to keep leadership steady through the transition.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/tata-offers-chandra-extension-to-steady-group-amid-listing-push",
+    "published": "Thu, 17 Sep 2026 09:16:31 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:35.999101"
+    "fetched_at": "2026-09-17T10:01:30.756178"
   },
   {
-    "id": "e90bc9016150",
-    "title": "Hong Kong Leans Into Yuan Bond Boom as Debt Hub Rivalry Builds",
-    "title_cn": "Hong Kong Leans Into Yuan Bond Boom as Debt Hub Rivalry Builds",
-    "summary": "Hong Kong, Asia’s leading hub for bond underwriting for more than a decade, is making the most of a record flurry of offshore yuan debt issuance as competition for fixed-income business across financial centers intensifies.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/hong-kong-leans-into-yuan-bond-boom-as-debt-hub-rivalry-builds",
-    "published": "Thu, 17 Sep 2026 01:18:00 GMT",
+    "id": "f735c5e60b18",
+    "title": "Sutcliffe: Houthi Aim is Leverage Over Saudi Arabia",
+    "title_cn": "Sutcliffe: Houthi Aim is Leverage Over Saudi Arabia",
+    "summary": "President Trump is expected to meet Gulf leaders next week, that's according to Axios. The meeting is reportedly set to take place on the sidelines of the UN General Assembly in New York. Meanwhile, oil held its steep drop after reports suggested Saudi Arabia will return to about half the capacity of its damaged East-West pipeline within days. Megan Sutcliffe, Principal Analyst for the Middle East and Africa at Sibylline spoke to Bloomberg’s Abeer Abu  Omar on Horizons Middle East & Africa on the attacks in the region. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/sutcliffe-houthi-aim-is-leverage-over-saudi-arabia",
+    "published": "Thu, 17 Sep 2026 09:08:16 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:36.480260"
+    "fetched_at": "2026-09-17T10:01:31.168620"
   },
   {
-    "id": "8ef185b2634a",
-    "title": "Venezuela Aluminum Heads to US; Heeney Eyes Gold Deal",
-    "title_cn": "Venezuela Aluminum Heads to US; Heeney Eyes Gold Deal",
-    "summary": "Venezuela is preparing to ship aluminum to the US under a deal with Mercuria Energy Group Ltd. and Heeney Capital, with the latter also planning to invest in a Venezuelan gold mine, accelerating a revival of commercial ties beyond oil.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/venezuela-plans-to-ship-aluminum-to-us-in-mercuria-heeney-deal",
-    "published": "Wed, 16 Sep 2026 14:09:49 GMT",
+    "id": "58a9e3fb23d0",
+    "title": "Food Prices Present Fresh Risk for Global Bonds After Selloff",
+    "title_cn": "Food Prices Present Fresh Risk for Global Bonds After Selloff",
+    "summary": "Energy prices have been the scourge of bond markets this year. Now investors worry that the next inflation spike will come from food.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/food-prices-present-fresh-risk-for-global-bonds-after-selloff",
+    "published": "Thu, 17 Sep 2026 09:04:48 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:36.806886"
+    "fetched_at": "2026-09-17T10:01:31.695780"
   },
   {
-    "id": "663515099d5b",
-    "title": "King Charles Wants AI Chiefs To Promise They’ll Protect Mankind",
-    "title_cn": "King Charles Wants AI Chiefs To Promise They’ll Protect Mankind",
-    "summary": "Britain’s monarch plans to ask some of the most critical figures in artificial intelligence for reassurances the technologists can keep their inventions under control.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
-    "published": "Thu, 17 Sep 2026 05:00:00 GMT",
+    "id": "f82ab38db016",
+    "title": "Fender’s War With the Industry It Created",
+    "title_cn": "Fender’s War With the Industry It Created",
+    "summary": "The Fender Stratocaster is a shape so universal it's the emoji on your phone's keyboard. Which is kind of Fender's problem, Paul Sloan explains, as the company tries to claim back the body of a guitar that's become an iconic shape  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/fender-s-war-with-the-industry-it-created",
+    "published": "Thu, 17 Sep 2026 09:00:54 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:37.355704"
+    "fetched_at": "2026-09-17T10:01:32.256883"
   },
   {
-    "id": "bfbf0aabcdf6",
-    "title": "Twitch CEO on Business Outlook",
-    "title_cn": "Twitch CEO on Business Outlook",
-    "summary": "Dan Clancy, CEO of streaming platform Twitch, discusses the outlook for his business as the industry gears up for the highly anticipated November launch of Grand Theft Auto Six, as more gamers seek online platforms to interact and engage with each other.\nHe speaks with Shery Ahn on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/twitch-ceo-on-business-outlook-video",
-    "published": "Thu, 17 Sep 2026 03:45:49 GMT",
+    "id": "d553811edeab",
+    "title": "Turkish Regulator to Liquidate Funds Run by Tera and Others",
+    "title_cn": "Turkish Regulator to Liquidate Funds Run by Tera and Others",
+    "summary": "Turkey’s market regulator said it will liquidate some funds run by asset managers including Tera Portfoy and Pusula Portfoy as officials move to stem the turmoil that’s shaken the country’s investment industry.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/turkey-regulator-will-liquidiate-some-funds-managed-by-7-firms",
+    "published": "Thu, 17 Sep 2026 08:21:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:37.777355"
+    "fetched_at": "2026-09-17T10:01:32.833164"
   },
   {
-    "id": "a1f79db2899c",
-    "title": "Apollo's Ueda on APAC Investment Outlook",
-    "title_cn": "Apollo's Ueda on APAC Investment Outlook",
-    "summary": "Eiji Ueda, head of Asia Pacific and partner at Apollo, joins the program in Hong Kong for an interview. The segment is introduced under the theme \"Traders Look to BOJ After Fed Hike,\" signaling market focus on the Bank of Japan following the Federal Reserve’s move. In the brief exchange, the host greets Ueda and welcomes him to the set, and Ueda responds with thanks and pleasantries.\n\nOriginal filename: 20260917_005119_Eiji_Ueda_Joins_Bloomberg_as_Traders_Watch_BOJ_After_Fed_Hik.mp (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/apollo-s-ueda-on-apac-investment-outlook-video",
-    "published": "Thu, 17 Sep 2026 03:59:22 GMT",
+    "id": "719cf85ab5f9",
+    "title": "Abu Dhabi's L’imad Eyes Stake in Apollo Air Cargo Unit (Video)",
+    "title_cn": "Abu Dhabi's L’imad Eyes Stake in Apollo Air Cargo Unit (Video)",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/abu-dhabi-s-l-imad-eyes-stake-in-apollo-air-cargo-unit-video",
+    "published": "Thu, 17 Sep 2026 08:37:49 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:38.087992"
+    "fetched_at": "2026-09-17T10:01:33.294515"
+  },
+  {
+    "id": "163a03b99587",
+    "title": "Major Bathla Creditor Explores Debt Sale as Crisis Persists",
+    "title_cn": "Major Bathla Creditor Explores Debt Sale as Crisis Persists",
+    "summary": "Centuria Bass Credit, a major Bathla Group backer, is exploring options to sell some debt tied to the insolvent Sydney builder, the latest sign that some creditors could be looking to trim their exposure.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/major-bathla-creditor-explores-debt-sale-as-crisis-persists",
+    "published": "Thu, 17 Sep 2026 08:35:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:33.822329"
+  },
+  {
+    "id": "180d915059c6",
+    "title": "Nigeria Seen Cutting Rates on Softer Prices, Stronger Naira",
+    "title_cn": "Nigeria Seen Cutting Rates on Softer Prices, Stronger Naira",
+    "summary": "Nigeria’s central bank is expected to resume cutting interest rates at next week’s meeting, buoyed by slowing inflation and exchange-rate stability, according to Bank of America.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/nigeria-seen-cutting-rates-on-softer-prices-and-stronger-naira",
+    "published": "Wed, 16 Sep 2026 16:01:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:34.212899"
+  },
+  {
+    "id": "a6c2d03a9bad",
+    "title": "Oil Holds Drop as Saudi Arabia Seeks to Restore Pipeline",
+    "title_cn": "Oil Holds Drop as Saudi Arabia Seeks to Restore Pipeline",
+    "summary": "Oil held a drop on signs that supply disruptions in the Middle East are set to ease, with Saudi Arabia seeking to restore capacity of its damaged East-West pipeline. Global fuel markets have been squeezed by the combined impact of the US-Iran conflict and the war between Russia and Ukraine, with Kyiv pummeling Moscow’s refineries. Bloomberg's Will Kennedy breaks down the situation. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/oil-holds-drop-as-saudi-arabia-seeks-to-restore-pipeline-video",
+    "published": "Thu, 17 Sep 2026 08:21:32 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:34.551296"
+  },
+  {
+    "id": "1804e592d692",
+    "title": "Apollo Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investments",
+    "title_cn": "Apollo Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investments",
+    "summary": "Apollo Global Management Inc. is in talks with SoftBank Group Corp. about boosting the size of a loan to $9 billion from $5.4 billion to help the Japanese firm finance its investment in AI giant OpenAI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/apollo-mulls-raising-softbank-loan-to-9-billion-for-openai-bets",
+    "published": "Thu, 17 Sep 2026 06:17:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:34.904094"
+  },
+  {
+    "id": "24da623e5b80",
+    "title": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "title_cn": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "summary": "Francis Fukuyama's essay “The End of History?” was published in the summer of 1989, just before the fall of the Berlin Wall. His argument — that liberal democracy would not only defeat communism, but that its partisans might miss the “courage, imagination, and idealism” that defined the ideological battle — lives on as one of the most cited pieces of political theory in the last three decades. In his new memoir, In the Realm of the Last Man, he revisits “The End of History?” and talks to us about how his argument has evolved in a world now defined by the rapid development of AI and by the many electoral defeats liberal democracy has suffered as of late. We discuss how the Internet and social media are helping fuel the listlessness that “The End of History” brought about, how he uses AI, and what, if anything, will come after liberalism. \n\nSee Odd Lots Live in LA September 2026 https://events.bloombergevents.com/event/ODDLOTSLA/summary (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/what-francis-fukuyama-is-seeing-at-the-end-of-history-video",
+    "published": "Thu, 17 Sep 2026 08:12:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:35.460155"
+  },
+  {
+    "id": "58d25f973110",
+    "title": "How High Speed Traders Made Billions in India",
+    "title_cn": "How High Speed Traders Made Billions in India",
+    "summary": "In India, high-frequency trading firms have earned billions of dollars in the derivatives space while retail investors faced record losses. Is HFT fueling efficient markets or gaming the system?  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/how-high-speed-traders-made-billions-in-india-video",
+    "published": "Thu, 17 Sep 2026 08:01:01 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:36.007702"
+  },
+  {
+    "id": "24704564e6c7",
+    "title": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "title_cn": "What Francis Fukuyama Is Seeing at ‘The End of History’",
+    "summary": "<p>What will come after liberal democracy?</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/what-francis-fukuyama-is-seeing-at-the-end-of-history",
+    "published": "Thu, 17 Sep 2026 08:00:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:36.350903"
+  },
+  {
+    "id": "88340580740e",
+    "title": "Odd Lots: What Fukuyama Sees at ‘The End of History’ (Podcast)",
+    "title_cn": "Odd Lots: What Fukuyama Sees at ‘The End of History’ (Podcast)",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/audio/2026-09-17/odd-lots-what-fukuyama-sees-at-the-end-of-history-podcast",
+    "published": "Thu, 17 Sep 2026 08:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:36.681620"
   },
   {
     "id": "eeb830d11c94",
-    "title": "Huawei Set to Unveil China’s Answer to Nvidia AI Chips",
-    "title_cn": "Huawei Set to Unveil China’s Answer to Nvidia AI Chips",
-    "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+    "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
+    "title_cn": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
+    "summary": "Huawei Technologies Co. is accelerating the debut of its next-generation AI chip in 2027 by several months as it aims to replace Nvidia Corp. in China and compete on the global stage.",
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
     "published": "Wed, 16 Sep 2026 23:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:38.484685"
+    "fetched_at": "2026-09-17T10:01:37.392946"
   },
   {
-    "id": "a122553114e6",
-    "title": "Fmr Fed President Bullard on Rate Outlook",
-    "title_cn": "Fmr Fed President Bullard on Rate Outlook",
-    "summary": "James Bullard, Former St. Louis Fed President, discusses his view on the Fed's decision to raise rates at the September meeting, and his outlook for the US economy.\nHe speaks exclusively with David Ingles on the sidelines of the BNP Paribas' annual Global Markets APAC Conference on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-17/fmr-fed-president-bullard-on-rate-outlook-video",
-    "published": "Thu, 17 Sep 2026 03:55:22 GMT",
+    "id": "8671e70a664a",
+    "title": "Taiwan Holds Rate for 10th Straight Quarter as Inflation Slows",
+    "title_cn": "Taiwan Holds Rate for 10th Straight Quarter as Inflation Slows",
+    "summary": "Taiwan held its benchmark rate for the 10th consecutive quarter, the longest stretch since 2019, as consumer inflation slows even with the economy soaring on AI.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
+    "published": "Thu, 17 Sep 2026 00:31:34 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:39.001159"
+    "fetched_at": "2026-09-17T10:01:37.902964"
   },
   {
-    "id": "1aa29b52cf1d",
-    "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-    "title_cn": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
-    "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors in the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
-    "published": "Wed, 16 Sep 2026 11:36:22 GMT",
+    "id": "e2709962de0f",
+    "title": "DeepMind Offshoot Emulate Closes In on $700 Million Seed Round",
+    "title_cn": "DeepMind Offshoot Emulate Closes In on $700 Million Seed Round",
+    "summary": "A UK artificial intelligence startup founded by former Google DeepMind researchers is in talks to raise $700 million in a seed round, in the latest example of investors backing alumni of notable AI labs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/deepmind-offshoot-emulate-closes-in-on-700-million-seed-round",
+    "published": "Thu, 17 Sep 2026 08:58:39 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:39.519636"
-  },
-  {
-    "id": "5a9eed03403a",
-    "title": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
-    "title_cn": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
-    "summary": "GMI Cloud, a Nvidia Corp. partner, is seeking a $300 million loan to buy chips for its facility in Thailand, according to people familiar with the matter, adding to a growing list of similar deals in Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site",
-    "published": "Thu, 17 Sep 2026 01:54:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:40.043279"
+    "fetched_at": "2026-09-17T10:01:38.254433"
   },
   {
     "id": "cf95cfded95b",
@@ -477,7 +437,147 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/casinos-posing-as-beauty-salons-bakeries-spur-philippine-digital-payment-review",
     "published": "Thu, 17 Sep 2026 01:26:18 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:40.405728"
+    "fetched_at": "2026-09-17T10:01:38.696167"
+  },
+  {
+    "id": "cfba0c8c8cc9",
+    "title": "State Street Says Any Tech Weakness Is Chance to Rebuild",
+    "title_cn": "State Street Says Any Tech Weakness Is Chance to Rebuild",
+    "summary": "State Street Equity Research Head Marija Veitmane says she remains constructive on technology stocks, arguing that the sector’s strong earnings and profitability tell a favorable story despite the conversation about slowing down development of cutting-edge artificial intelligence models. \"We strongly suspect that regulation is very likely to be kind of more supportive for larger companies,\" Veitmane tells Bloomberg Television.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/state-street-says-any-tech-weakness-is-chance-to-rebuild-video",
+    "published": "Thu, 17 Sep 2026 07:37:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:39.219751"
+  },
+  {
+    "id": "0b6561ae62d9",
+    "title": "Modi Draws US Chip Leaders’ Backing for $30 Billion India Bet",
+    "title_cn": "Modi Draws US Chip Leaders’ Backing for $30 Billion India Bet",
+    "summary": "Prime Minister Narendra Modi launched a charm offensive for global investors at India’s top chip-industry event, drawing pledges from US firms Applied Materials Inc. and Lam Research Corp. for billions of dollars in outlays.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet",
+    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:39.724143"
+  },
+  {
+    "id": "663515099d5b",
+    "title": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "title_cn": "King Charles Calls on Nvidia, OpenAI Chiefs to Control AI",
+    "summary": "Britain’s monarch plans to ask some of the most critical figures in artificial intelligence for reassurances the technologists can keep their inventions under control.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/king-charles-wants-ai-chiefs-to-promise-they-ll-protect-mankind",
+    "published": "Thu, 17 Sep 2026 05:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:40.117758"
+  },
+  {
+    "id": "9d586ddb14b1",
+    "title": "Does AI Safety Anxiety in the US Benefit China? Live Q&A",
+    "title_cn": "Does AI Safety Anxiety in the US Benefit China? Live Q&A",
+    "summary": "<p>Bloomberg journalists answer your questions about&nbsp;calls to slow down AI development in the US, and how it could affect China, in a Live Q&amp;A on Sept. 18&nbsp;at 11 a.m. HKT</p>",
+    "link": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china",
+    "published": "Thu, 17 Sep 2026 07:15:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:40.591439"
+  },
+  {
+    "id": "00fb3b3392f2",
+    "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
+    "title_cn": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
+    "summary": "India’s outsourcing industry is showing little sign of losing ground to artificial intelligence as the country moves up the value chain into services that are harder to automate, according to ING Bank NV.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
+    "published": "Thu, 17 Sep 2026 06:59:35 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:41.091869"
+  },
+  {
+    "id": "1aa29b52cf1d",
+    "title": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+    "title_cn": "SK Hynix Says Exploring Options After Report of Intel Tie-Up",
+    "summary": "SK Hynix Inc. said that it’s exploring options to boost its global competitiveness after a report that it may team up with Intel Corp. to make semiconductors in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/sk-hynix-says-exploring-options-after-report-of-intel-tie-up",
+    "published": "Wed, 16 Sep 2026 11:36:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:41.391046"
+  },
+  {
+    "id": "728cd78e2a12",
+    "title": "Can AI Decide What Makes a Face Beautiful?",
+    "title_cn": "Can AI Decide What Makes a Face Beautiful?",
+    "summary": "What happens when AI decides what makes a face beautiful? Alice Lassman explores the implications of new AI beauty tools. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/can-ai-decide-what-makes-a-face-beautiful-video",
+    "published": "Thu, 17 Sep 2026 06:00:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:41.952425"
+  },
+  {
+    "id": "c2b2c58c90d7",
+    "title": "Port of LA Foiled Around 120 Million Cyberattacks Last Month",
+    "title_cn": "Port of LA Foiled Around 120 Million Cyberattacks Last Month",
+    "summary": "The US’s busiest container port for global trade foiled more than 120 million cyberattack attempts in August, posing a persistent threat to its operations as it grapples with shifting tariff policies.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/port-of-la-foiled-around-120-million-cyberattacks-last-month",
+    "published": "Thu, 17 Sep 2026 05:56:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:42.471609"
+  },
+  {
+    "id": "68969a41f93a",
+    "title": "Port of LA's Seroka on AI, Trade & Supply Chains",
+    "title_cn": "Port of LA's Seroka on AI, Trade & Supply Chains",
+    "summary": "Port of Los Angeles Executive Director Gene Seroka unpacks how artificial intelligence is reshaping shipping and logistics. He also share insights on trade tariffs, shifting supply chains amid geopolitical risks. He speaks with Haslinda Amin on \"Insight with Haslinda Amin.\" (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/port-of-la-s-seroka-on-ai-trade-supply-chains-video",
+    "published": "Thu, 17 Sep 2026 05:31:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:42.969176"
+  },
+  {
+    "id": "776545794175",
+    "title": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
+    "title_cn": "Twitch CEO Urges Game Firms to Avoid Attention Vortex of ‘GTA 6’",
+    "summary": "Twitch Chief Executive Officer Dan Clancy said Grand Theft Auto VI will likely face little serious competition for gamer attention this holiday season, and he sees that as the correct strategy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/twitch-ceo-urges-game-firms-to-avoid-attention-vortex-of-gta-6",
+    "published": "Thu, 17 Sep 2026 05:23:37 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:43.518199"
+  },
+  {
+    "id": "bfbf0aabcdf6",
+    "title": "Twitch CEO on Business Outlook",
+    "title_cn": "Twitch CEO on Business Outlook",
+    "summary": "Dan Clancy, CEO of streaming platform Twitch, discusses the outlook for his business as the industry gears up for the highly anticipated November launch of Grand Theft Auto Six, as more gamers seek online platforms to interact and engage with each other.\nHe speaks with Shery Ahn on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/twitch-ceo-on-business-outlook-video",
+    "published": "Thu, 17 Sep 2026 03:45:49 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:44.045355"
+  },
+  {
+    "id": "a1f79db2899c",
+    "title": "Apollo's Ueda on APAC Investment Outlook",
+    "title_cn": "Apollo's Ueda on APAC Investment Outlook",
+    "summary": "Eiji Ueda, head of Asia Pacific and partner at Apollo, joins the program in Hong Kong for an interview. The segment is introduced under the theme \"Traders Look to BOJ After Fed Hike,\" signaling market focus on the Bank of Japan following the Federal Reserve’s move. In the brief exchange, the host greets Ueda and welcomes him to the set, and Ueda responds with thanks and pleasantries.\n\nOriginal filename: 20260917_005119_Eiji_Ueda_Joins_Bloomberg_as_Traders_Watch_BOJ_After_Fed_Hik.mp (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/apollo-s-ueda-on-apac-investment-outlook-video",
+    "published": "Thu, 17 Sep 2026 03:59:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:44.346147"
+  },
+  {
+    "id": "a122553114e6",
+    "title": "Fmr Fed President Bullard on Rate Outlook",
+    "title_cn": "Fmr Fed President Bullard on Rate Outlook",
+    "summary": "James Bullard, Former St. Louis Fed President, discusses his view on the Fed's decision to raise rates at the September meeting, and his outlook for the US economy.\nHe speaks exclusively with David Ingles on the sidelines of the BNP Paribas' annual Global Markets APAC Conference on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/fmr-fed-president-bullard-on-rate-outlook-video",
+    "published": "Thu, 17 Sep 2026 03:55:22 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:44.932030"
+  },
+  {
+    "id": "5a9eed03403a",
+    "title": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
+    "title_cn": "Nvidia Partner GMI Cloud Seeks Loan to Buy Chips for Thai Site",
+    "summary": "GMI Cloud, a Nvidia Corp. partner, is seeking a $300 million loan to buy chips for its facility in Thailand, according to people familiar with the matter, adding to a growing list of similar deals in Asia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/nvidia-partner-gmi-cloud-seeks-loan-to-buy-chips-for-thai-site",
+    "published": "Thu, 17 Sep 2026 01:54:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:45.464844"
   },
   {
     "id": "6db88fbc6678",
@@ -487,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup",
     "published": "Thu, 17 Sep 2026 01:13:39 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:40.778109"
+    "fetched_at": "2026-09-17T10:01:45.893066"
   },
   {
     "id": "be618f943d6f",
@@ -497,227 +597,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
     "published": "Wed, 16 Sep 2026 22:47:29 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:41.132563"
-  },
-  {
-    "id": "8671e70a664a",
-    "title": "Taiwan Poised for Hawkish Hold After Headline Inflation Slowed",
-    "title_cn": "Taiwan Poised for Hawkish Hold After Headline Inflation Slowed",
-    "summary": "Taiwan is expected to hold its benchmark rate for the 10th straight quarter, the longest stretch since 2019, as consumer inflation slows even with the economy soaring on AI.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
-    "published": "Thu, 17 Sep 2026 00:31:34 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:41.638687"
-  },
-  {
-    "id": "0b6561ae62d9",
-    "title": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet",
-    "title_cn": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet",
-    "summary": "Prime Minister Narendra Modi will launch a charm offensive for global investors Thursday as he inaugurates a massive semiconductor conference in New Delhi, marking India’s audacious bid to win a seat at the chip-making table.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet",
-    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:41.951883"
-  },
-  {
-    "id": "72d06b8ddfb7",
-    "title": "China AI Stocks’ Pain Grows as US Rivals Push for Model Curbs",
-    "title_cn": "China AI Stocks’ Pain Grows as US Rivals Push for Model Curbs",
-    "summary": "China’s AI developers have already lost billions in a bruising stock selloff, and a push by US developers to cut Chinese rivals off from frontier models threatens to add to the pain if it succeeds.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/china-s-ai-selloff-faces-risk-from-us-push-for-model-curbs",
-    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:42.515768"
-  },
-  {
-    "id": "05009979225c",
-    "title": "Snap Makes Its Case for Wearing A Computer On Your Face",
-    "title_cn": "Snap Makes Its Case for Wearing A Computer On Your Face",
-    "summary": "Snap revealed new details and software capabilities for its Specs augmented reality glasses during a presentation led by CEO Evan Spiegel. Mark Gurman and Chris Welch got to try them on and try them out. Here's what they think (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/snap-makes-its-case-for-wearing-a-computer-on-your-face",
-    "published": "Wed, 16 Sep 2026 23:40:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:42.987240"
-  },
-  {
-    "id": "e76bb36a2347",
-    "title": "Snap Shares More Details About $2,195 Specs AR Glasses, Plus Verizon Partnership",
-    "title_cn": "Snap Shares More Details About $2,195 Specs AR Glasses, Plus Verizon Partnership",
-    "summary": "<p>The technically advanced Specs feature an integrated display and a convenient self-contained design.</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-09-16/snap-shares-more-details-about-2-195-specs-ar-glasses-plus-verizon-partnership",
-    "published": "Wed, 16 Sep 2026 23:40:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:43.529368"
-  },
-  {
-    "id": "1a93441764ca",
-    "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
-    "title_cn": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
-    "summary": "Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president",
-    "published": "Wed, 16 Sep 2026 22:16:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:43.952021"
-  },
-  {
-    "id": "884e5e91761b",
-    "title": "Salesforce Sees $63 Billion in Revenue in Fiscal Year 2030",
-    "title_cn": "Salesforce Sees $63 Billion in Revenue in Fiscal Year 2030",
-    "summary": "Salesforce Inc. gave a long-term outlook for sales that exceeded analysts’ estimates, signaling to investors that the software company can boost revenue growth in the face of competition from artificial intelligence tools.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/salesforce-sees-63-billion-in-revenue-in-fiscal-year-2030",
-    "published": "Wed, 16 Sep 2026 22:53:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:44.412949"
-  },
-  {
-    "id": "4f8d414d0b05",
-    "title": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
-    "title_cn": "US Tracking Cyber Threats Against Nearly 20 Ships Worldwide",
-    "summary": "US government agencies are tracking cyber threats against nearly 20 shipping vessels around the world, according to US officials familiar with the situation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/us-tracking-cyber-threats-against-nearly-20-ships-worldwide",
-    "published": "Wed, 16 Sep 2026 21:39:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:44.736976"
-  },
-  {
-    "id": "e94d8bbf5d02",
-    "title": "Drone Startup Zipline in Talks on About $1 Billion Raise at $20 Billion Valuation",
-    "title_cn": "Drone Startup Zipline in Talks on About $1 Billion Raise at $20 Billion Valuation",
-    "summary": "Zipline is in talks to raise around $1 billion in a funding round that would value the drone delivery and logistics startup at roughly $20 billion, nearly tripling its previous valuation.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/drone-startup-zipline-in-talks-on-about-1-billion-raise-at-20-billion-valuation",
-    "published": "Wed, 16 Sep 2026 20:23:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:45.284940"
-  },
-  {
-    "id": "8080369908ea",
-    "title": "AI Doom Hits Tech World",
-    "title_cn": "AI Doom Hits Tech World",
-    "summary": "Bloomberg Odd Lots hosts Joe Weisenthal and Tracy Alloway react to AI skepticism and recent warnings coming from people in the industry. The pair discuss what the hacking of Hugging Face might tell us about where AI is headed and what some of the biggest risks of these warnings could be, arguing \"when everything is couched in these existential terms, you end up just getting a race right to who can develop first.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/ai-doom-hits-tech-world-video",
-    "published": "Wed, 16 Sep 2026 21:57:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:45.565419"
-  },
-  {
-    "id": "33da579a1efe",
-    "title": "Takaichi Keeps Core Ministers in Place in Cabinet Reshuffle",
-    "title_cn": "Takaichi Keeps Core Ministers in Place in Cabinet Reshuffle",
-    "summary": "Japanese Prime Minister Sanae Takaichi retained the core of her administration in a cabinet reshuffle, opting for continuity as she presses ahead with economic and security policies nearly a year after taking office.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/takaichi-keeps-core-ministers-in-place-in-cabinet-reshuffle",
-    "published": "Thu, 17 Sep 2026 04:41:24 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:46.133958"
-  },
-  {
-    "id": "49b39f51c657",
-    "title": "Indonesia to Review Staff Rotations Linked to Finance Chief Swap",
-    "title_cn": "Indonesia to Review Staff Rotations Linked to Finance Chief Swap",
-    "summary": "Indonesia’s Finance Ministry is reviewing a surprise reshuffle of hundreds of staff that former minister Purbaya Yudhi Sadewa said helped trigger his dismissal.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/indonesia-to-review-staff-rotations-linked-to-finance-chief-swap",
-    "published": "Thu, 17 Sep 2026 02:54:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:46.563660"
-  },
-  {
-    "id": "e4377e18ab48",
-    "title": "Australia to Target Family Visas, Overstayers to Curb Migration",
-    "title_cn": "Australia to Target Family Visas, Overstayers to Curb Migration",
-    "summary": "Australia’s center-left government is set to outline plans to reduce immigration on Thursday, including a clampdown on people who have overstayed their visas and restricting most people on student visas from bringing family into the country.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/australia-to-target-family-visas-overstayers-to-curb-migration",
-    "published": "Thu, 17 Sep 2026 02:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:46.940343"
-  },
-  {
-    "id": "5266082f175e",
-    "title": "Russia Taps North Korean Workers to Make Drones Under Fake Visas",
-    "title_cn": "Russia Taps North Korean Workers to Make Drones Under Fake Visas",
-    "summary": "Russia is increasingly mobilizing North Korean workers to build military drones for use against Ukraine in defiance of international sanctions, giving Pyongyang a key source of revenue to fund its unlawful weapons programs, the US and its allies said in a report.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/russia-taps-north-korean-workers-to-make-drones-under-fake-visas",
-    "published": "Thu, 17 Sep 2026 02:21:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:47.272163"
-  },
-  {
-    "id": "e695846bc1e4",
-    "title": "Trump Returns to Trail in North Carolina With Senate in Play",
-    "title_cn": "Trump Returns to Trail in North Carolina With Senate in Play",
-    "summary": "President Donald Trump visited North Carolina in his first campaign stop since the GOP’s Dallas midterm convention, seeking to boost Republican Senate candidate Michael Whatley, who is trailing Democrat Roy Cooper in the polls.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/trump-returns-to-trail-in-north-carolina-with-senate-on-the-line",
-    "published": "Thu, 17 Sep 2026 01:12:33 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:47.563776"
-  },
-  {
-    "id": "2f31de53cf20",
-    "title": "China Considers BYD for Xi’s CEO Entourage at Trump Summit",
-    "title_cn": "China Considers BYD for Xi’s CEO Entourage at Trump Summit",
-    "summary": "Chinese officials are considering BYD Co. for a possible business delegation joining Xi Jinping’s summit with Donald Trump next week in Washington, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/china-considers-byd-to-join-xi-s-ceo-entourage-for-trump-summit",
-    "published": "Wed, 16 Sep 2026 13:37:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:48.050899"
-  },
-  {
-    "id": "3b4a6bb0e4fd",
-    "title": "Trump Floats EU Tariffs If Canada Invite Deemed Hostile Act",
-    "title_cn": "Trump Floats EU Tariffs If Canada Invite Deemed Hostile Act",
-    "summary": "President Donald Trump floated hitting goods imported from the European Union with fresh tariffs or even cutting off some trade if he determined that a push to make Canada a potential associate of the bloc was harmful to the US.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/trump-floats-eu-tariffs-if-canada-invite-deemed-a-hostile-act",
-    "published": "Wed, 16 Sep 2026 23:47:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:48.540314"
-  },
-  {
-    "id": "03f9b9211824",
-    "title": "Indian and Pakistani Warships Collide at Sea, Refueling Tensions",
-    "title_cn": "Indian and Pakistani Warships Collide at Sea, Refueling Tensions",
-    "summary": "India and Pakistan traded blame on Wednesday over a collision between their warships at sea, adding a new point of friction between the arch rivals and nuclear-armed neighbors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/india-pakistan-warships-collide-at-sea-adding-to-tensions",
-    "published": "Wed, 16 Sep 2026 09:37:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:49.071408"
-  },
-  {
-    "id": "ea3ac34d79f2",
-    "title": "Thai Protest Leader Who Seized Bangkok Airport Is Back in Action",
-    "title_cn": "Thai Protest Leader Who Seized Bangkok Airport Is Back in Action",
-    "summary": "A Thai protest leader whose mass demonstrations nearly 20 years ago closed the capital’s airports and helped oust governments is now focused on Prime Minister Anutin Charnvirakul, and aims to build a political force capable of outlasting him.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-17/thai-protest-leader-who-seized-bangkok-airport-is-back-in-action",
-    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:49.524789"
-  },
-  {
-    "id": "7ed239396242",
-    "title": "Trump Backs Warsh, Faults ‘Hostile’ Fed Board for Rate Hike",
-    "title_cn": "Trump Backs Warsh, Faults ‘Hostile’ Fed Board for Rate Hike",
-    "summary": "President Donald Trump said he still had confidence in Federal Reserve Chairman Kevin Warsh and criticized what he said was a “hostile” board even after the central bank unanimously defied his calls to lower borrowing costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/trump-says-interest-rates-should-be-1-or-less-after-fed-hike",
-    "published": "Wed, 16 Sep 2026 20:47:37 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:49.817881"
-  },
-  {
-    "id": "70d14c1a9bec",
-    "title": "Warsh Declines Comment on Any Discussion With President Trump",
-    "title_cn": "Warsh Declines Comment on Any Discussion With President Trump",
-    "summary": "\"Balance of Power\" focuses on the intersection of politics and global business. On today's show, Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) say they would not have raised interest rates and discuss the impact of higher rates and inflation on consumers. In a Truth Social post, Trump said that US rates “should be 1%, or less.\" Chris Phelan, White House Council of Economic Advisers chairman, agrees and says anyway you measure it - inflation is coming down. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/balance-of-power-late-edition-09-16-2026-video",
-    "published": "Wed, 16 Sep 2026 23:07:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:50.257823"
-  },
-  {
-    "id": "2f521a173dc6",
-    "title": "Businessweek Daily: The Fed Raises Rates (Podcast)",
-    "title_cn": "Businessweek Daily: The Fed Raises Rates (Podcast)",
-    "summary": "The Federal Reserve raised interest rates by a quarter percentage point and penciled in an additional hike later this year, steps aimed at containing inflation that will test Chairman Kevin Warsh’s relationship with President Donald Trump. Following the US central bank’s first rate increase since July 2023, Warsh restated his concerns over inflation, saying too many categories of products and services were showing annualized price gains above 3% on a 6- and 12-month basis.\n\nOn today's episode:\n\nMichael McKee, Bloomberg News International Economics & Policy Correspondent\nStephanie Aliaga, Global Market Strategist at JPMorgan Asset Management\nManju Boraiah, Head of Systematic Fixed Income & Custom SMA Portfolio Management at Allspring Global Investments\nTracy Alloway and Joe Weisenthal, Co-Hosts of Bloomberg's Odd Lots Podcast (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/businessweek-daily-the-fed-raises-rates-podcast-video",
-    "published": "Wed, 16 Sep 2026 22:50:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-09-17T05:10:50.526250"
+    "fetched_at": "2026-09-17T10:01:46.298176"
   },
   {
     "id": "54a083f35844",
@@ -727,37 +607,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-09-16/house-passes-bill-allowing-trump-tariffs-on-russian-oil-buyers",
     "published": "Wed, 16 Sep 2026 22:29:40 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:50.921807"
+    "fetched_at": "2026-09-17T10:01:47.014331"
   },
   {
-    "id": "f71e753ea1b0",
-    "title": "Exxon Is in Talks to Return to Venezuela as Deals Accelerate",
-    "title_cn": "Exxon Is in Talks to Return to Venezuela as Deals Accelerate",
-    "summary": "ExxonMobil Holdings Corp. held talks this week with Venezuela’s government about re-entering the country as the Texas oil giant explores whether to follow US rivals back into the home of the world’s largest reserves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/exxon-is-in-talks-to-return-to-venezuela-as-us-deals-accelerate",
-    "published": "Wed, 16 Sep 2026 21:02:15 GMT",
+    "id": "1e843726fd72",
+    "title": "Russian Hybrid Warfare Stirs Alarm in Europe",
+    "title_cn": "Russian Hybrid Warfare Stirs Alarm in Europe",
+    "summary": "Even as tensions ratchet up, there’s little sign that Moscow is achieving its aims.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-09-17/russian-hybrid-warfare-stirs-alarm-in-europe",
+    "published": "Thu, 17 Sep 2026 09:59:21 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:51.353128"
+    "fetched_at": "2026-09-17T10:01:47.401498"
   },
   {
-    "id": "ebc5428f80f9",
-    "title": "Iran Blockade Is Draining US Military's Global Power",
-    "title_cn": "Iran Blockade Is Draining US Military's Global Power",
-    "summary": "Bloomberg's Becca Wasser and Courtney McBride joined the show to discuss their latest reporting on the cost of the US naval blockade of Iran and how the deployment is straining military readiness and resources. They speak with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/iran-blockade-is-draining-us-military-s-global-power-video",
-    "published": "Wed, 16 Sep 2026 22:31:49 GMT",
+    "id": "f361b4e40c06",
+    "title": "Key South African Legislation Stuck in Parliamentary Limbo",
+    "title_cn": "Key South African Legislation Stuck in Parliamentary Limbo",
+    "summary": "The process of passing legislation in South Africa has slowed to a crawl, with a number of key bills awaiting approval by parliament years after they were first proposed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/key-south-african-legislation-stuck-in-parliamentary-limbo",
+    "published": "Thu, 17 Sep 2026 09:49:22 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:51.771175"
+    "fetched_at": "2026-09-17T10:01:47.968503"
   },
   {
-    "id": "40d0c9e9fc55",
-    "title": "Reps. Lawler and Gottheimer Speak on Fed Rate Decision, AI Bill",
-    "title_cn": "Reps. Lawler and Gottheimer Speak on Fed Rate Decision, AI Bill",
-    "summary": "Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) say they would not have raised interest rates and discuss the impact of higher rates and inflation on consumers. Rep. Lawler says the Fed’s decision demonstrated its independence and discusses President Trump’s proposed $5,000 dividend and questions over how it would be paid for. Rep. Gottheimer says higher rates will hurt consumers through credit-card bills, housing payments and other costs. They also discuss their bipartisan Stop Rogue AI Act and the need for federal standards to identify and control AI agents, while keeping the US competitive in artificial intelligence. They speak with Kailey Leinz and Joe Mathieu on Bloomberg’s \"Balance of Power.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/lawler-and-gottheimer-on-fed-rate-decision-ai-bill-video",
-    "published": "Wed, 16 Sep 2026 22:24:28 GMT",
+    "id": "b0a42b4e970c",
+    "title": "India Warns US Oil Sanctions Bill Could Hurt Bilateral Ties",
+    "title_cn": "India Warns US Oil Sanctions Bill Could Hurt Bilateral Ties",
+    "summary": "India warned that a US bill allowing President Donald Trump to impose tariffs of as much as 100% on top buyers of Russian oil could hurt ties between New Delhi and Washington and disrupt global energy markets.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/india-warns-us-oil-sanctions-bill-could-hurt-bilateral-ties",
+    "published": "Thu, 17 Sep 2026 05:32:14 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:52.247279"
+    "fetched_at": "2026-09-17T10:01:48.382768"
   },
   {
     "id": "d6fc62a9c3b7",
@@ -767,36 +647,156 @@
     "link": "https://www.bloomberg.com/news/videos/2026-09-16/trump-calls-fed-rate-hike-unfortunate-demands-a-cut-video",
     "published": "Wed, 16 Sep 2026 22:03:04 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:52.692660"
+    "fetched_at": "2026-09-17T10:01:48.883251"
   },
   {
-    "id": "9e46b51f66ee",
-    "title": "Le Pen Leaves Door Open to No-Confidence Vote Over 2027 Budget",
-    "title_cn": "Le Pen Leaves Door Open to No-Confidence Vote Over 2027 Budget",
-    "summary": "Marine Le Pen, the French far-right leader and presidential candidate, kept open the possibility of censuring the government over the 2027 budget, while at the same time pledging not to take action that could damage the country’s strained finances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-09-16/le-pen-leaves-door-open-to-no-confidence-vote-over-2027-budget",
-    "published": "Wed, 16 Sep 2026 21:50:49 GMT",
+    "id": "b4996351083f",
+    "title": "UBS Capital Bill Stays in Swiss Parliament in Boost to Bank",
+    "title_cn": "UBS Capital Bill Stays in Swiss Parliament in Boost to Bank",
+    "summary": "The upper house of Switzerland’s parliament began its debate over UBS Group AG’s capital requirements, with lawmakers focusing on how much equity is needed to prevent a repeat of Credit Suisse’s 2023 collapse.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/swiss-parliament-to-continue-on-ubs-bill-after-motion-withdrawn",
+    "published": "Thu, 17 Sep 2026 08:36:30 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:53.202462"
+    "fetched_at": "2026-09-17T10:01:49.370571"
   },
   {
-    "id": "a1aee934d1a0",
-    "title": "Rouse: Have Not Seen Full AI Productivity Impact",
-    "title_cn": "Rouse: Have Not Seen Full AI Productivity Impact",
-    "summary": "Brookings President Cecilia Rouse discusses the human impact of the Fed’s decision, emphasizing that monetary policy affects paychecks, hiring, borrowing costs, and retirement planning—not just basis points and forecasts. She says the Fed is trying to restore price stability while avoiding a deeper downturn in the labor market. She speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-09-16/rouse-have-not-seen-full-ai-productivity-impact-video",
-    "published": "Wed, 16 Sep 2026 21:37:13 GMT",
+    "id": "488a306c4bdc",
+    "title": "Kenya Court Annuls Public-Private Project Laws After Adani Bid",
+    "title_cn": "Kenya Court Annuls Public-Private Project Laws After Adani Bid",
+    "summary": "A Kenyan high court ruled that laws governing the nation’s public-private partnerships are unconstitutional as they exclude scrutiny and oversight from lawmakers.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/kenya-court-annuls-public-private-project-laws-after-adani-bid",
+    "published": "Thu, 17 Sep 2026 09:09:34 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:53.478359"
+    "fetched_at": "2026-09-17T10:01:49.939171"
   },
   {
-    "id": "5f3bd7f4e4a5",
-    "title": "Midterms Pit Republican Cash Machine Against Democratic Fury",
-    "title_cn": "Midterms Pit Republican Cash Machine Against Democratic Fury",
-    "summary": "Money may talk, but the discontents of voters ring loud",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-09-16/midterms-pit-republican-cash-machine-against-democratic-fury",
-    "published": "Wed, 16 Sep 2026 20:43:35 GMT",
+    "id": "236fe984c6a8",
+    "title": "Lula, Bolsonaro Tied as Bank Scandal Weighs on Both Campaigns",
+    "title_cn": "Lula, Bolsonaro Tied as Bank Scandal Weighs on Both Campaigns",
+    "summary": "President Luiz Inácio Lula da Silva and right-wing challenger Flávio Bolsonaro are locked in a tie ahead of Brazil’s October election, according to a new poll that suggests the fallout of a major bank scandal is hitting both campaigns.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/lula-bolsonaro-tied-as-bank-scandal-weighs-on-both-campaigns",
+    "published": "Thu, 17 Sep 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-09-17T05:10:53.955944"
+    "fetched_at": "2026-09-17T10:01:50.513597"
+  },
+  {
+    "id": "94d4b60e08dd",
+    "title": "King Charles to Press AI Chiefs on Safety Reassurances",
+    "title_cn": "King Charles to Press AI Chiefs on Safety Reassurances",
+    "summary": "King Charles III plans to ask some of the most critical figures in artificial intelligence for reassurances the technologists can keep their inventions under control. Nvidia CEO Jensen Huang, OpenAI’s CFO Sarah Friar and Google DeepMind co-founder Demis Hassabis will attend the event in Scotland. Bloomberg's Tom Mackenzie reports.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/king-charles-to-press-ai-chiefs-on-safety-reassurances-video",
+    "published": "Thu, 17 Sep 2026 08:49:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:50.833523"
+  },
+  {
+    "id": "db22c3de0192",
+    "title": "Vietnam President Flies to US, Canada as Trump Tariffs Loom",
+    "title_cn": "Vietnam President Flies to US, Canada as Trump Tariffs Loom",
+    "summary": "Vietnam President To Lam will fly to New York to attend the UN General Assembly and meet US businesses as his trade officials continue to wrangle over a deal with the US under the threat of new tariffs.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/vietnam-president-flies-to-us-canada-as-trump-tariffs-loom",
+    "published": "Thu, 17 Sep 2026 08:37:51 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:51.329131"
+  },
+  {
+    "id": "7b4500d37c3f",
+    "title": "Ukraine Hits Key Russian Oil Refinery as Moscow Strikes Kyiv",
+    "title_cn": "Ukraine Hits Key Russian Oil Refinery as Moscow Strikes Kyiv",
+    "summary": "Ukraine damaged a major Russian oil refinery less than 200 miles northeast of Moscow while Russian forces attacked Ukrainian infrastructure overnight, a fresh indication the sides haven’t agreed to an energy truce despite claims by US President Donald Trump.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/russia-hits-kyiv-as-ukraine-strikes-major-russian-oil-refinery",
+    "published": "Thu, 17 Sep 2026 06:24:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:51.674687"
+  },
+  {
+    "id": "095d51fe9085",
+    "title": "Taiwan Coast Guard Plans Visit to Philippines as China Pressure Grows",
+    "title_cn": "Taiwan Coast Guard Plans Visit to Philippines as China Pressure Grows",
+    "summary": "Taiwan’s coast guard is planning its first visit to the Philippines in decades, strengthening ties as China boosts naval activity in the region.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-coast-guard-plans-visit-to-philippines-as-china-pressure-grows",
+    "published": "Thu, 17 Sep 2026 06:07:21 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:51.977843"
+  },
+  {
+    "id": "bd179385d298",
+    "title": "Russia’s Attacks on Europe Are Getting More Brazen and More Dangerous",
+    "title_cn": "Russia’s Attacks on Europe Are Getting More Brazen and More Dangerous",
+    "summary": "<p>With attacks becoming more brazen, governments see it as only a matter of&nbsp;time before there are civilian casualties.&nbsp;</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/russia-s-attacks-on-europe-are-getting-more-brazen-and-more-dangerous",
+    "published": "Thu, 17 Sep 2026 07:35:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:52.477804"
+  },
+  {
+    "id": "5225f94f24b9",
+    "title": "Swedish Center-Left Projected to Win Election by Slim Margin",
+    "title_cn": "Swedish Center-Left Projected to Win Election by Slim Margin",
+    "summary": "Sweden’s center-left opposition bloc is projected to win Sunday’s tight general election by the narrowest of margins after days of limbo, effectively closing off — for now — the prospect of the far right entering government.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/sweden-s-center-left-bloc-set-to-win-election-in-svt-projection",
+    "published": "Wed, 16 Sep 2026 16:50:46 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:53.019096"
+  },
+  {
+    "id": "3b4a6bb0e4fd",
+    "title": "Trump Floats EU Tariffs If Canada Invite Deemed Hostile Act",
+    "title_cn": "Trump Floats EU Tariffs If Canada Invite Deemed Hostile Act",
+    "summary": "President Donald Trump floated hitting goods imported from the European Union with fresh tariffs or even cutting off some trade if he determined that a push to make Canada a potential associate of the bloc was harmful to the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-16/trump-floats-eu-tariffs-if-canada-invite-deemed-a-hostile-act",
+    "published": "Wed, 16 Sep 2026 23:47:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:53.514942"
+  },
+  {
+    "id": "1abc43b6372e",
+    "title": "Japan Appoints Bear Control Czar as Attacks Surge to Record",
+    "title_cn": "Japan Appoints Bear Control Czar as Attacks Surge to Record",
+    "summary": "Japan will have a cabinet minister in charge of dealing with bear attacks, reflecting heightening concern as the number of deadly incidents surges.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/japan-appoints-bear-control-czar-as-attacks-surge-to-record",
+    "published": "Thu, 17 Sep 2026 06:44:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:53.850661"
+  },
+  {
+    "id": "010dca9171d2",
+    "title": "Trump Calls for Lower US Rates After Fed's Warsh Delivers Hike",
+    "title_cn": "Trump Calls for Lower US Rates After Fed's Warsh Delivers Hike",
+    "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from Brussels, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nGlobal bond yields retreated Thursday, as the Federal Reserve’s rate hike and vow to tame inflation calmed a pressured market, leaving traders to look ahead to Friday’s key Bank of Japan decision.\n\nPresident Donald Trump floated hitting goods imported from the European Union with fresh tariffs or even cutting off some trade if he determined that a push to make Canada a potential associate of the bloc was harmful to the US.\n\nAnd Britain’s King Charles III plans to ask some of the most critical figures in artificial intelligence for reassurances the technologists can keep their inventions under control.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/daybreak-europe-9-17-2026-video",
+    "published": "Thu, 17 Sep 2026 06:38:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:54.370720"
+  },
+  {
+    "id": "c7b8a1c68477",
+    "title": "Trump Threatens Tariffs on EU Over Canada",
+    "title_cn": "Trump Threatens Tariffs on EU Over Canada",
+    "summary": "US President Donald Trump said goods imported from the European Union could be subject to fresh tariffs if he determines that European Commission President Ursula von der Leyen's proposal of making Canada an associate EU member is \"a hostile act.\" Bloomberg's Suzanne Lynch reports. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-09-17/trump-threatens-tariffs-on-eu-over-canada-video",
+    "published": "Thu, 17 Sep 2026 05:56:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:54.830590"
+  },
+  {
+    "id": "33da579a1efe",
+    "title": "Takaichi Tweaks Cabinet to Double Down on Policy Direction",
+    "title_cn": "Takaichi Tweaks Cabinet to Double Down on Policy Direction",
+    "summary": "Japanese Prime Minister Sanae Takaichi retained the core of her administration while ousting a potential rival and bringing her junior coalition partner into the cabinet, consolidating her grip on power nearly a year after taking office.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/takaichi-keeps-core-ministers-in-place-in-cabinet-reshuffle",
+    "published": "Thu, 17 Sep 2026 04:41:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:55.338865"
+  },
+  {
+    "id": "e4377e18ab48",
+    "title": "Australia Targets Family Visas, Overstayers to Cut Migration",
+    "title_cn": "Australia Targets Family Visas, Overstayers to Cut Migration",
+    "summary": "Australia’s center-left government is moving to reduce immigration, planning a clampdown on people who have overstayed their visas as well as restricting most student-visa holders from bringing family members into the country.",
+    "link": "https://www.bloomberg.com/news/articles/2026-09-17/australia-to-target-family-visas-overstayers-to-curb-migration",
+    "published": "Thu, 17 Sep 2026 02:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-09-17T10:01:55.729529"
   }
 ]
