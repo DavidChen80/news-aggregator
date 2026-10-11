@@ -1,5 +1,75 @@
 [
   {
+    "id": "ad9fcf269b0e",
+    "title": "Bloomberg This Weekend: Saudi Airport Incident (Podcast)",
+    "title_cn": "Bloomberg This Weekend: Saudi Airport Incident (Podcast)",
+    "summary": "Source: Bloomberg, 40:49",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-11/bloomberg-this-weekend-saudi-airport-incident-podcast",
+    "published": "Sun, 11 Oct 2026 15:02:38 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:45.745761"
+  },
+  {
+    "id": "84c6e31f43de",
+    "title": "Houthis Issue New Airport Attack Threats, Trump Slams Zelenskyy",
+    "title_cn": "Houthis Issue New Airport Attack Threats, Trump Slams Zelenskyy",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-11/houthis-issue-new-airport-attack-threats-trump-slams-zelenskyy",
+    "published": "Sun, 11 Oct 2026 14:42:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:46.340736"
+  },
+  {
+    "id": "4c0b5916a23a",
+    "title": "Monte Paschi to Hold Monday Board Meeting on M&A Situation",
+    "title_cn": "Monte Paschi to Hold Monday Board Meeting on M&A Situation",
+    "summary": "Banca Monte dei Paschi di Siena SpA has called an extraordinary board meeting for Monday to review the M&amp;A situation following Intesa Sanpaolo SpA’s increased offer, people familiar with the matter said.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/monte-paschi-to-hold-monday-board-meeting-on-m-a-situation",
+    "published": "Sun, 11 Oct 2026 13:23:28 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:46.724363"
+  },
+  {
+    "id": "0cf036a52870",
+    "title": "12 Dead in Saudi Airport Attack, Trump Wants New Ukraine Leader",
+    "title_cn": "12 Dead in Saudi Airport Attack, Trump Wants New Ukraine Leader",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-11/12-dead-in-saudi-airport-attack-trump-wants-new-ukraine-leader",
+    "published": "Sun, 11 Oct 2026 13:17:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:47.226594"
+  },
+  {
+    "id": "e95483bbbaeb",
+    "title": "What’s Happening in EM: Resilience to Eurozone Fears (Podcast)",
+    "title_cn": "What’s Happening in EM: Resilience to Eurozone Fears (Podcast)",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/what-s-happening-in-em-resilience-to-eurozone-fears-podcast",
+    "published": "Sun, 11 Oct 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:47.614062"
+  },
+  {
+    "id": "8242c1a9085b",
+    "title": "American Among Dead in Saudi Arabia, Trump Slams Zelenskyy, More",
+    "title_cn": "American Among Dead in Saudi Arabia, Trump Slams Zelenskyy, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-11/american-among-dead-in-saudi-arabia-trump-slams-zelenskyy-more",
+    "published": "Sun, 11 Oct 2026 11:43:03 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:48.189117"
+  },
+  {
+    "id": "4d55b36f9406",
+    "title": "Saudi Airport Attack, Trump Calls for New Ukraine Leader",
+    "title_cn": "Saudi Airport Attack, Trump Calls for New Ukraine Leader",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-11/saudi-airport-attack-trump-calls-for-new-ukraine-leader",
+    "published": "Sun, 11 Oct 2026 10:24:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:48.728758"
+  },
+  {
     "id": "3d7f00ea83c2",
     "title": "Uber Retreats in Africa as Cost Comes Before Comfort and Safety",
     "title_cn": "Uber Retreats in Africa as Cost Comes Before Comfort and Safety",
@@ -7,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/uber-retreats-in-africa-as-cost-comes-before-comfort-and-safety",
     "published": "Sun, 11 Oct 2026 07:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:08.130104"
+    "fetched_at": "2026-10-11T15:43:49.294656"
   },
   {
     "id": "270ca60069d0",
@@ -17,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/thailand-plans-early-retirement-program-to-reduce-civil-servants",
     "published": "Sun, 11 Oct 2026 05:11:56 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:08.642100"
+    "fetched_at": "2026-10-11T15:43:49.836607"
   },
   {
     "id": "8a709c269c09",
@@ -27,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/musk-says-terrafab-plant-will-make-chips-better-than-anyone",
     "published": "Sun, 11 Oct 2026 01:17:34 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:09.294465"
+    "fetched_at": "2026-10-11T15:43:50.204271"
   },
   {
     "id": "ddc591976896",
@@ -37,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-11/12-killed-309-injured-in-riyadh-trump-ukraine-needs-new-leader",
     "published": "Sun, 11 Oct 2026 00:40:32 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:09.779234"
+    "fetched_at": "2026-10-11T15:43:50.665166"
   },
   {
     "id": "3bc88e2f62ac",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-10/12-killed-309-injured-in-riyadh-trump-ukraine-needs-new-leader",
     "published": "Sat, 10 Oct 2026 23:16:18 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:10.209925"
+    "fetched_at": "2026-10-11T15:43:51.215506"
   },
   {
     "id": "4f84223ba6ca",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-10/trump-ukraine-needs-new-leader-nyt-12-killed-at-riyadh-airport",
     "published": "Sat, 10 Oct 2026 22:02:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:10.733362"
+    "fetched_at": "2026-10-11T15:43:51.722578"
   },
   {
     "id": "ff9048ea4553",
@@ -67,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-10/trump-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
     "published": "Sat, 10 Oct 2026 20:31:13 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:11.227772"
+    "fetched_at": "2026-10-11T15:43:52.265777"
   },
   {
     "id": "996cfcfccdc7",
@@ -77,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-10/trump-says-ukraine-needs-new-leader-riyadh-airport-ops-suspended",
     "published": "Sat, 10 Oct 2026 19:07:15 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:11.760641"
+    "fetched_at": "2026-10-11T15:43:52.660197"
   },
   {
     "id": "7a5fc19c0d57",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-09/plan-to-broadcast-fort-hood-killer-s-execution-spurs-criticism",
     "published": "Fri, 09 Oct 2026 17:01:09 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:12.329481"
+    "fetched_at": "2026-10-11T15:43:52.978013"
   },
   {
     "id": "eb96bc403c13",
@@ -97,107 +167,147 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-10/trump-announces-diesel-deal-with-russia-claude-goes-rogue-more",
     "published": "Sat, 10 Oct 2026 16:14:35 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:12.750446"
+    "fetched_at": "2026-10-11T15:43:53.315998"
   },
   {
-    "id": "a625215ba3d8",
-    "title": "Last-Minute Lawsuit Upends Cable One’s $480 Million Mega Broadband Deal",
-    "title_cn": "Last-Minute Lawsuit Upends Cable One’s $480 Million Mega Broadband Deal",
-    "summary": "The company has been trying to secure financing to buy the rest of Mega Broadband since the start of the year",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-10/last-minute-lawsuit-upends-cable-one-s-480-million-mega-broadband-deal",
-    "published": "Sat, 10 Oct 2026 15:00:02 GMT",
+    "id": "7d3aa9146cbf",
+    "title": "Big Banks Face Test as Earnings Season Begins",
+    "title_cn": "Big Banks Face Test as Earnings Season Begins",
+    "summary": "Bloomberg Intelligence Senior US Banks Analyst Herman Chan tells Bloomberg This Weekend that major banks enter third-quarter earnings season with strong credit quality but face questions about the impact of higher interest rates, slowing investment banking activity and potential risks tied to AI financing. Speaking with hosts David Gura and Christina Ruffini, Chan says wealth management could be a bright spot for banks including Morgan Stanley and JPMorgan, while investors will also be watching for signs of credit deterioration and updates on executive succession plans. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/big-banks-face-test-as-earnings-season-begins-video",
+    "published": "Sun, 11 Oct 2026 15:20:26 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:13.264302"
+    "fetched_at": "2026-10-11T15:43:54.069499"
   },
   {
-    "id": "f75105183c06",
-    "title": "Bloomberg This Weekend: Dangers of Pneumonic Plagues (Podcast)",
-    "title_cn": "Bloomberg This Weekend: Dangers of Pneumonic Plagues (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/bloomberg-this-weekend-dangers-of-pneumonic-plagues-podcast",
-    "published": "Sat, 10 Oct 2026 14:56:36 GMT",
+    "id": "818e9d381244",
+    "title": "Trump's Russia Diesel Deal Deepens Ukraine Rift",
+    "title_cn": "Trump's Russia Diesel Deal Deepens Ukraine Rift",
+    "summary": "Former US Ambassador to Ukraine William Taylor, a distinguished fellow at the Atlantic Council's Eurasia Center, tells Bloomberg This Weekend that President Donald Trump's Russian diesel agreement could provide Moscow with additional revenue to prolong its war in Ukraine while undermining economic sanctions. Speaking with hosts David Gura and Christina Ruffini, Taylor says European allies are increasing their support for Kyiv and argues that Ukraine needs greater access to military technology, including Starlink connectivity, to target Russian missile launchers. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/trump-s-russia-diesel-deal-deepens-ukraine-rift-video",
+    "published": "Sun, 11 Oct 2026 14:50:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:13.832341"
+    "fetched_at": "2026-10-11T15:43:54.591136"
   },
   {
-    "id": "d2d6a9be7b73",
-    "title": "Russia to Supply US Diesel, Isaias Weakens, Rinaldo Suspended",
-    "title_cn": "Russia to Supply US Diesel, Isaias Weakens, Rinaldo Suspended",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/russia-to-supply-us-diesel-isaias-weakens-rinaldo-suspended",
-    "published": "Sat, 10 Oct 2026 14:54:25 GMT",
+    "id": "4dba31785f48",
+    "title": "Saudi Arabia’s Main Riyadh Airport Comes Under Further Attack",
+    "title_cn": "Saudi Arabia’s Main Riyadh Airport Comes Under Further Attack",
+    "summary": "Saudi Arabia-led coalition forces in Yemen said the kingdom’s main airport in Riyadh was hit by an unknown projectile on Sunday, causing a fire.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
+    "published": "Sun, 11 Oct 2026 14:47:50 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:14.354565"
+    "fetched_at": "2026-10-11T15:43:55.095589"
   },
   {
-    "id": "6d591ec2385f",
-    "title": "US-Russia Diesel Deal Ahead of Midterms, Claude Goes Rogue, More",
-    "title_cn": "US-Russia Diesel Deal Ahead of Midterms, Claude Goes Rogue, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/us-russia-diesel-deal-ahead-of-midterms-claude-goes-rogue-more",
-    "published": "Sat, 10 Oct 2026 13:48:31 GMT",
+    "id": "6d7b9d5231c5",
+    "title": "Tech Earnings Loom Large for Hedge Funds Packed Into Dispersion Trade",
+    "title_cn": "Tech Earnings Loom Large for Hedge Funds Packed Into Dispersion Trade",
+    "summary": "Equity option traders will be looking for the market to break out of its inertia as tech company earnings collide with a Federal Reserve meeting and US midterm elections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/tech-earnings-loom-large-for-hedge-funds-packed-into-dispersion-trade",
+    "published": "Sun, 11 Oct 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:14.881090"
+    "fetched_at": "2026-10-11T15:43:55.445751"
   },
   {
-    "id": "540321a3f0c5",
-    "title": "Russia to Supply Diesel Ahead of Midterms, Isaias Weakens, More",
-    "title_cn": "Russia to Supply Diesel Ahead of Midterms, Isaias Weakens, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/russia-to-supply-diesel-ahead-of-midterms-isaias-weakens-more",
-    "published": "Sat, 10 Oct 2026 12:24:34 GMT",
+    "id": "a50f3cc9d656",
+    "title": "Saudi Airport Attack Kills 12 as Conflict Escalates",
+    "title_cn": "Saudi Airport Attack Kills 12 as Conflict Escalates",
+    "summary": "Bloomberg Middle East reporter Dan Williams tells Bloomberg This Weekend that an attack on Riyadh's international airport that killed at least 12 people and injured more than 300 marks a significant escalation in fighting between Saudi Arabia and Yemen's Iran-backed Houthis. Speaking with hosts David Gura and Christina Ruffini, Williams discusses the possibility of US military intervention, the threat to Saudi Arabia's investment ambitions and Iran's efforts to rebuild its missile arsenal amid uncertainty over renewed hostilities. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/saudi-airport-attack-kills-12-as-conflict-escalates-video",
+    "published": "Sun, 11 Oct 2026 13:46:58 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:15.395230"
+    "fetched_at": "2026-10-11T15:43:55.926712"
   },
   {
-    "id": "529d564c6dc1",
-    "title": "Isaias Lashes Southeast, Trump's Diesel Deal with Russia, More",
-    "title_cn": "Isaias Lashes Southeast, Trump's Diesel Deal with Russia, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/isaias-lashes-southeast-trump-s-diesel-deal-with-russia-more",
-    "published": "Sat, 10 Oct 2026 12:20:11 GMT",
+    "id": "c2b4a651494f",
+    "title": "By The Way: Headlines You May Have Missed",
+    "title_cn": "By The Way: Headlines You May Have Missed",
+    "summary": "$50,000 summer internships at elite financial firms, more than $500 million in special bonuses for Goldman Sachs executives, an unusual method of protecting books from pests and growing safety concerns surrounding teenagers riding high-speed electric bicycles. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/by-the-way-headlines-you-may-have-missed-video",
+    "published": "Sun, 11 Oct 2026 13:33:51 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:15.932885"
+    "fetched_at": "2026-10-11T15:43:56.287753"
   },
   {
-    "id": "13dde801bd80",
-    "title": "Coal’s Revival Is Creating Divisions in Canada’s Energy Heartland",
-    "title_cn": "Coal’s Revival Is Creating Divisions in Canada’s Energy Heartland",
-    "summary": "<p>Proposals for mines to capture Asian steelmaking&nbsp;demand are&nbsp;pitting&nbsp;residents against each other in resource-rich Alberta</p>",
-    "link": "https://www.bloomberg.com/news/features/2026-10-10/coal-s-revival-is-creating-divisions-in-canada-s-energy-heartland",
-    "published": "Sat, 10 Oct 2026 12:00:10 GMT",
+    "id": "196e57a43f6f",
+    "title": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
+    "title_cn": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
+    "summary": "Prediction markets built their business by letting users trade on everything from Federal Reserve decisions to pop culture. This year’s football season is showing just how much their growth hinges on something more familiar to bettors: sports.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
+    "published": "Sun, 11 Oct 2026 13:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:16.348283"
+    "fetched_at": "2026-10-11T15:43:56.703958"
   },
   {
-    "id": "b947aa516dc1",
-    "title": "Court Denies Investor Request to Probe Philips Over 2021 Recall",
-    "title_cn": "Court Denies Investor Request to Probe Philips Over 2021 Recall",
-    "summary": "An Amsterdam court rejected requests from investors for an investigation into Royal Philips NV’s handling of a 2021 recall of its sleep apnea devices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/dutch-court-rejects-investor-claim-against-philips-over-sleep-apnea-devices",
-    "published": "Sat, 10 Oct 2026 11:33:56 GMT",
+    "id": "972f697a0d0b",
+    "title": "Inside Italy's Changing Politics and Papacy",
+    "title_cn": "Inside Italy's Changing Politics and Papacy",
+    "summary": "New York Times Correspondent and Former Rome Bureau Chief Jason Horowitz tells Bloomberg This Weekend how his 25 years reporting from Italy gave him a firsthand view of the Vatican, papal transitions and the country's evolving political landscape. Speaking with hosts David Gura and Christina Ruffini, Horowitz discusses his new memoir, The Italian Job, and how Italy's political experiments, from Silvio Berlusconi to Giorgia Meloni, offer insights into broader global trends. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/inside-italy-s-changing-politics-and-papacy-video",
+    "published": "Sun, 11 Oct 2026 12:45:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:16.893144"
+    "fetched_at": "2026-10-11T15:43:57.226682"
   },
   {
-    "id": "8f030082e387",
-    "title": "Trump: Russia to Supply US With Diesel, Claude Goes Rogue, More",
-    "title_cn": "Trump: Russia to Supply US With Diesel, Claude Goes Rogue, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-10/trump-russia-to-supply-us-with-diesel-claude-goes-rogue-more",
-    "published": "Sat, 10 Oct 2026 10:44:29 GMT",
+    "id": "a73858047d26",
+    "title": "India Protests Trigger Security Crackdown in New Delhi",
+    "title_cn": "India Protests Trigger Security Crackdown in New Delhi",
+    "summary": "Bloomberg Senior Reporter Dan Strumpf tells Bloomberg This Weekend that New Delhi remains under heavy security after authorities detained thousands of protesters demanding the resignation of India's chief election commissioner over a disputed revision of voter rolls. Speaking with hosts David Gura and Christina Ruffini, Strumpf says the youth-led movement reflects broader frustration over unemployment and economic opportunities, with the unrest unfolding ahead of Bloomberg's New Economy Forum in the Indian capital. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/india-protests-trigger-security-crackdown-in-new-delhi-video",
+    "published": "Sun, 11 Oct 2026 12:37:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:17.298672"
+    "fetched_at": "2026-10-11T15:43:57.639446"
   },
   {
-    "id": "b0f940064440",
-    "title": "AI's Supercharging a Scam Economy Bigger Than the Cocaine Trade",
-    "title_cn": "AI's Supercharging a Scam Economy Bigger Than the Cocaine Trade",
-    "summary": "As the Chinese scam industry spreads beyond Asia’s fortified compounds, it’s become cheaper and easier to run — thanks to AI — and harder to kill.",
-    "link": "https://www.bloomberg.com/graphics/2026-ai-supercharges-scam-economy/",
-    "published": "Sat, 10 Oct 2026 09:00:21 GMT",
+    "id": "97651a5105e9",
+    "title": "Cockroach Party Leaders Vow to Continue Protests After Release",
+    "title_cn": "Cockroach Party Leaders Vow to Continue Protests After Release",
+    "summary": "Leaders of India’s youth-led protest movement - Cockroach Janta Party - vowed to press ahead with their demand for the resignation of the country’s top election official after being released from a temporary detention on Sunday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
+    "published": "Sun, 11 Oct 2026 05:24:47 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:17.905996"
+    "fetched_at": "2026-10-11T15:43:58.227736"
+  },
+  {
+    "id": "bef18345d432",
+    "title": "Exclusive: Dimon, Farley, Gov. Whitmer on Rebuilding American Manufacturing",
+    "title_cn": "Exclusive: Dimon, Farley, Gov. Whitmer on Rebuilding American Manufacturing",
+    "summary": "Ford, JPMorgan and the state of Michigan are teaming up to connect manufacturers and startups with capital, customers and government support as the US tries to rebuild supply chains that were moved overseas. Ford CEO Jim Farley says his company will commit $1 billion in purchasing to companies developing capabilities in areas including advanced manufacturing, magnets and rare earths, while JPMorgan Chase CEO Jamie Dimon says the bank will lend capital through its broader security and resiliency push. Michigan’s governor Gretchen Whitmer is hopeful that the partnership will provide more opportunities for the state’s workforce. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/why-ford-and-jpmorgan-are-betting-on-michigan-video",
+    "published": "Sun, 11 Oct 2026 12:03:31 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:58.782982"
+  },
+  {
+    "id": "658b54266df0",
+    "title": "Emerging Markets Better Armed for Renewed European Debt Turmoil",
+    "title_cn": "Emerging Markets Better Armed for Renewed European Debt Turmoil",
+    "summary": "Emerging-market bonds and currencies were whipsawed by the Eurozone debt crisis 15 years ago, but they are now better equipped to withstand any repeat of that turmoil, analysts say.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/emerging-markets-better-armed-for-renewed-european-debt-turmoil",
+    "published": "Sun, 11 Oct 2026 12:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:59.355568"
+  },
+  {
+    "id": "96a7e8931876",
+    "title": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
+    "title_cn": "Singapore F1 Race Draws Near-Record Turnout Despite Choking Haze",
+    "summary": "Singapore’s Formula 1 Grand Prix race saw a near-record turnout, bucking concerns that one of the worst regional haze in recent years would threaten the event.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/singapore-f1-race-draws-near-record-turnout-despite-choking-haze",
+    "published": "Sun, 11 Oct 2026 10:28:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:43:59.821982"
+  },
+  {
+    "id": "9a4cace878cf",
+    "title": "Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month",
+    "title_cn": "Banque du Caire Offers 30% Stake in Egypt’s Second IPO in Month",
+    "summary": "Banque du Caire will sell a 30% stake via Egypt’s stock exchange, a long-awaited state-asset sale that would also be the country’s second major initial public offering in a month.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/banque-du-caire-offers-30-stake-in-egypt-s-second-ipo-in-month",
+    "published": "Sun, 11 Oct 2026 08:47:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:00.219329"
   },
   {
     "id": "871bcd102bc5",
@@ -207,27 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/jefferies-says-it-found-fraud-in-900-million-of-radiant-deals",
     "published": "Sat, 10 Oct 2026 15:03:27 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:18.810115"
-  },
-  {
-    "id": "97651a5105e9",
-    "title": "India Protests Set to Continue Despite Heavy Delhi Security",
-    "title_cn": "India Protests Set to Continue Despite Heavy Delhi Security",
-    "summary": "Parts of New Delhi remained under tight security for a second straight day as protesters pressed ahead with their demand for the resignation of India’s top election official over a contentious revision of voter rolls.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
-    "published": "Sun, 11 Oct 2026 05:24:47 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:19.355506"
-  },
-  {
-    "id": "1bbff0432d6e",
-    "title": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
-    "title_cn": "Healey Plans Short-Term UK Budget Giveaways to Limit Fiscal Pain",
-    "summary": "Chancellor of the Exchequer John Healey wants to help British voters with the cost of living while staying within the limits of his country’s stretched public finances. To square this circle, he’s planning a series of strictly short-term giveaways — and hoping the war in Iran comes to an end.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-11/healey-plans-short-term-uk-budget-giveaways-to-limit-fiscal-pain",
-    "published": "Sun, 11 Oct 2026 06:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:19.839367"
+    "fetched_at": "2026-10-11T15:44:00.810404"
   },
   {
     "id": "8793287cf06e",
@@ -237,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
     "published": "Sat, 10 Oct 2026 03:35:41 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:20.456208"
+    "fetched_at": "2026-10-11T15:44:01.403960"
   },
   {
     "id": "b55a6663c57d",
@@ -247,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts",
     "published": "Sun, 11 Oct 2026 03:21:56 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:20.858448"
+    "fetched_at": "2026-10-11T15:44:01.742302"
   },
   {
     "id": "01ad4e4dab32",
@@ -257,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
     "published": "Sun, 11 Oct 2026 03:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:21.475871"
+    "fetched_at": "2026-10-11T15:44:02.258928"
   },
   {
     "id": "1688c969bc15",
@@ -267,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/once-hot-ai-trade-leaves-korean-stocks-struggling-for-buyers",
     "published": "Sun, 11 Oct 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:22.019110"
+    "fetched_at": "2026-10-11T15:44:02.771544"
   },
   {
     "id": "f12fc38c9e03",
@@ -277,127 +367,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
     "published": "Sat, 10 Oct 2026 19:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:22.429071"
+    "fetched_at": "2026-10-11T15:44:03.207466"
   },
   {
-    "id": "aa6f41ee6625",
-    "title": "Strong Earnings Keep US Stocks in Favor",
-    "title_cn": "Strong Earnings Keep US Stocks in Favor",
-    "summary": "PNC Asset Management Chief Investment Officer Amanda Agati tells Bloomberg This Weekend that strong corporate fundamentals and resilient consumer spending could support US stocks as investors head into third-quarter earnings season. Speaking with hosts David Gura and Christina Ruffini, Agati says investors will be watching for evidence that AI investment is generating returns beyond the largest technology companies, while strong US earnings growth keeps her favoring domestic equities over developed international markets. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
-    "published": "Sat, 10 Oct 2026 17:37:41 GMT",
+    "id": "df15d276c338",
+    "title": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
+    "title_cn": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
+    "summary": "Xpeng Inc. can rapidly adapt its advanced driver-assistance technology to European roads using relatively small amounts of data, allowing it to modify its software capabilities for different markets without rebuilding them from scratch.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+    "published": "Sun, 11 Oct 2026 14:31:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:23.074527"
+    "fetched_at": "2026-10-11T15:44:03.908365"
   },
   {
-    "id": "b5fe13cc024d",
-    "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-    "title_cn": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-    "summary": "Anastasia Amoroso, chief investment strategist with Partners Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the bullish sentiment in the stock market, the potential for volatility in the near future, and rising global yields.\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
-    "published": "Fri, 09 Oct 2026 19:27:37 GMT",
+    "id": "a0e08ded46b9",
+    "title": "Is AI Crowding Everyone Else Out of the Bond Market?",
+    "title_cn": "Is AI Crowding Everyone Else Out of the Bond Market?",
+    "summary": "Hyperscalers, data centers and chip companies are borrowing hundreds of billions of dollars to finance the AI buildout, turning the technology boom into one of the biggest new forces in corporate credit. Investors are still buying, but rising concentration, complex data-center financing and competition with government borrowing are raising a harder question: how much AI debt can the market absorb? (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
+    "published": "Sun, 11 Oct 2026 14:03:06 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:23.616567"
+    "fetched_at": "2026-10-11T15:44:04.222173"
   },
   {
-    "id": "970b8660ea57",
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "title_cn": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "published": "Sat, 10 Oct 2026 17:18:11 GMT",
+    "id": "a87b82a79472",
+    "title": "Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release",
+    "title_cn": "Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release",
+    "summary": "Fresh details on Apple’s HomeView, HomePod mini and new Apple TV, including release dates, colors, chips and features.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release",
+    "published": "Sun, 11 Oct 2026 14:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:24.082694"
-  },
-  {
-    "id": "704f6b253ddc",
-    "title": "Viral Handbags Turn Small Designer Into Fashion Star",
-    "title_cn": "Viral Handbags Turn Small Designer Into Fashion Star",
-    "summary": "New York Handbag Designer Pierre Laborde tells Bloomberg This Weekend that a viral TikTok video transformed his handmade leather bags from a longtime fixture at a local street market into a sought-after fashion accessory, with demand now exceeding his small team's production capacity. Speaking with hosts David Gura and Christina Ruffini, Laborde says he plans to preserve the individuality and craftsmanship of his designs rather than pursue mass production or partnerships with major retailers.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/viral-handbags-turn-small-designer-into-fashion-star-video",
-    "published": "Sat, 10 Oct 2026 17:15:26 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:24.670898"
-  },
-  {
-    "id": "8353a835176c",
-    "title": "By The Way: Headlines You May Have Missed",
-    "title_cn": "By The Way: Headlines You May Have Missed",
-    "summary": "The growing debate over video calls on airplanes, premium California wines selling at steep discounts under supermarket private labels, a new rivalry between New York diners featuring singing waiters and the growing popularity of elaborate tuna carving experiences at high-end sushi restaurants. Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/by-the-way-headlines-you-may-have-missed-video",
-    "published": "Sat, 10 Oct 2026 17:02:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:25.156927"
-  },
-  {
-    "id": "06050384e616",
-    "title": "Hurricane Isaias May Cost Insurers Billions",
-    "title_cn": "Hurricane Isaias May Cost Insurers Billions",
-    "summary": "Bloomberg Intelligence Senior Insurance Equity Analyst Matthew Palazola tells Bloomberg This Weekend that Hurricane Isaias could generate insured losses in the single-digit billions of dollars, with stronger Florida building codes potentially limiting damage despite rising property values. Speaking with hosts David Gura and Christina Ruffini, Palazola says two relatively mild hurricane seasons have helped insurers rebuild capital, while recent Florida insurance reforms have improved market conditions but have yet to face a major test. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-may-cost-insurers-billions-video",
-    "published": "Sat, 10 Oct 2026 16:19:51 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:25.768359"
-  },
-  {
-    "id": "edb147a910d5",
-    "title": "Russia Plague Scare Raises Public Health Questions",
-    "title_cn": "Russia Plague Scare Raises Public Health Questions",
-    "summary": "Baylor College of Medicine Tropical Medicine Expert Dr. Peter Hotez tells Bloomberg This Weekend that the unexplained death of a researcher at a Russian plague institute raises questions about a possible pneumonic plague infection, although there is no evidence of a wider outbreak or biological weapons activity. Speaking with hosts David Gura and Christina Ruffini, Hotez calls for an independent World Health Organization investigation and warns that the US lacks adequate plague vaccine preparedness. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/russia-plague-scare-raises-public-health-questions-video",
-    "published": "Sat, 10 Oct 2026 16:11:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:26.313459"
-  },
-  {
-    "id": "6a6152b68e28",
-    "title": "Russian Diesel Deal Unlikely to Lower US Prices",
-    "title_cn": "Russian Diesel Deal Unlikely to Lower US Prices",
-    "summary": "Bloomberg Economics Economic Statecraft Lead Chris Kennedy tells Bloomberg This Weekend that President Donald Trump's agreement to obtain Russian diesel is unlikely to significantly lower US fuel prices because the proposed November shipment amounts to roughly one day of American consumption. Speaking with hosts David Gura and Christina Ruffini, Kennedy says damage to Russian refineries, logistical challenges and potential legal restrictions raise questions about whether Moscow can deliver the promised fuel, while the agreement could complicate Ukraine's campaign against Russian energy infrastructure. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/russian-diesel-deal-unlikely-to-lower-us-prices-video",
-    "published": "Sat, 10 Oct 2026 16:03:23 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:26.752370"
-  },
-  {
-    "id": "7fa2b3f74696",
-    "title": "Banana Ball Takes Its Baseball Show Nationwide",
-    "title_cn": "Banana Ball Takes Its Baseball Show Nationwide",
-    "summary": "Banana Ball Championship League Owner Jesse Cole tells Bloomberg This Weekend that the Savannah Bananas have built a new kind of baseball experience around faster games, elaborate entertainment and affordable tickets, helping create a wait list of roughly 5 million fans. Speaking with hosts David Gura and Christina Ruffini, Cole says the league plans to keep expanding its audience in the US and internationally while maintaining its fans-first model, including $35 tickets without added fees and free game streams on YouTube. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/banana-ball-takes-its-baseball-show-nationwide-video",
-    "published": "Sat, 10 Oct 2026 15:33:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:27.243394"
-  },
-  {
-    "id": "45d3bab57aa3",
-    "title": "Balancing Conviction and Risk: Masters in Business  with Maria Vassalou",
-    "title_cn": "Balancing Conviction and Risk: Masters in Business  with Maria Vassalou",
-    "summary": "Barry speaks with Maria Vassalou, Head of the Pictet Research Institute.  They discuss her research into global markets, and how they balance geopolitical risk. They also discuss China's growth as a technical innovator, and the risks to US debt. Finally, Barry and Maria discuss the differences between investing research and academia.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-09/masters-in-business-with-barry-ritholtz-video",
-    "published": "Fri, 09 Oct 2026 21:00:50 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:27.773670"
-  },
-  {
-    "id": "d2926f73ac79",
-    "title": "Restaurant Theft Adds to Rising Dining Costs",
-    "title_cn": "Restaurant Theft Adds to Rising Dining Costs",
-    "summary": "Bloomberg Pursuits Food Editor Kate Krader tells Bloomberg This Weekend that diners are taking everything from silverware and glassware to artwork and bathroom fixtures, adding replacement costs for restaurants already struggling with tight profit margins. Speaking with hosts David Gura and Christina Ruffini, Krader also discusses the return of late night dining in cities including New York and London as restaurants extend their hours and customers embrace later reservations.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/restaurant-theft-adds-to-rising-dining-costs-video",
-    "published": "Sat, 10 Oct 2026 14:26:18 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:28.299236"
-  },
-  {
-    "id": "2628def7a722",
-    "title": "Hurricane Isaias Slams Florida Panhandle",
-    "title_cn": "Hurricane Isaias Slams Florida Panhandle",
-    "summary": "AccuWeather Correspondent Bill Wadell joins hosts David Gura and Christina Ruffini on Bloomberg This Weekend from Pensacola Beach, Florida, where Hurricane Isaias made landfall as a Category 2 storm, bringing damaging winds, flooding and widespread power outages across the Gulf Coast. Wadell says the storm has weakened as it moves inland, but downed power lines, debris and continued flooding remain concerns as crews begin restoring electricity and assessing the damage. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/hurricane-isaias-slams-florida-panhandle-video",
-    "published": "Sat, 10 Oct 2026 12:43:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:28.880752"
+    "fetched_at": "2026-10-11T15:44:04.566511"
   },
   {
     "id": "26a2a384e0aa",
@@ -407,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/apple-supplier-luxshare-expects-no-material-impact-from-us-probe",
     "published": "Sun, 11 Oct 2026 02:38:23 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:29.650754"
+    "fetched_at": "2026-10-11T15:44:05.149692"
   },
   {
     "id": "4c0219156aed",
@@ -417,7 +417,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/nvidia-is-in-talks-to-acquire-reflection-ai-the-ft-reports",
     "published": "Sat, 10 Oct 2026 18:52:58 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:30.295761"
+    "fetched_at": "2026-10-11T15:44:05.709561"
   },
   {
     "id": "47b8fb51bda5",
@@ -427,7 +427,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
     "published": "Sat, 10 Oct 2026 18:35:59 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:30.809516"
+    "fetched_at": "2026-10-11T15:44:06.089174"
   },
   {
     "id": "8717cac44578",
@@ -437,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
     "published": "Sat, 10 Oct 2026 00:08:39 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:31.187728"
+    "fetched_at": "2026-10-11T15:44:06.503935"
   },
   {
     "id": "900d025fecc5",
@@ -447,27 +447,87 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-10/bloomberg-this-weekend-10-10-2026-video",
     "published": "Sat, 10 Oct 2026 15:55:31 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:31.700511"
+    "fetched_at": "2026-10-11T15:44:06.896649"
   },
   {
-    "id": "bab9151ed9de",
-    "title": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
-    "title_cn": "Trump’s AI Liability Push Opens Blame Game for Models Gone Rogue",
-    "summary": "The Trump administration’s embrace of legal liability to enforce artificial intelligence safety sets the stage for future conflicts over who foots the bill when AI models go rogue: the companies that design the systems or the people that deploy the technology.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue",
-    "published": "Sat, 10 Oct 2026 14:19:14 GMT",
+    "id": "d56b74c896ef",
+    "title": "Houthi Attacks on Saudi Arabia Raise Risk of Wider War",
+    "title_cn": "Houthi Attacks on Saudi Arabia Raise Risk of Wider War",
+    "summary": "This weekend’s deadly attacks on Riyadh’s main airport have demonstrated the ability of Yemen’s Houthis to strike at the heart of Saudi power, raising the risk of a dangerous escalation that could draw in the US.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/houthi-attacks-on-saudi-arabia-raise-risk-of-wider-war",
+    "published": "Sun, 11 Oct 2026 15:19:01 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:32.038597"
+    "fetched_at": "2026-10-11T15:44:07.428839"
   },
   {
-    "id": "4f15e9bf679d",
-    "title": "The Race for AI Supremacy Raises Safety Concerns",
-    "title_cn": "The Race for AI Supremacy Raises Safety Concerns",
-    "summary": "Technology Journalist and Author Kevin Roose tells Bloomberg This Weekend that a relatively small group of researchers and executives at OpenAI, Anthropic and Google DeepMind has driven the race toward artificial general intelligence, raising questions about who controls the technology and its potential risks. Speaking with hosts David Gura and Christina Ruffini, Roose discusses his new book, The AGI Chronicles, and the challenges of regulating increasingly capable AI systems as developers pursue technology that could surpass human intelligence. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/the-race-for-ai-supremacy-raises-safety-concerns-video",
-    "published": "Sat, 10 Oct 2026 13:41:50 GMT",
+    "id": "2f8ce2605388",
+    "title": "Man Who Plotted an Attack on Poland PM Tusk Is Detained",
+    "title_cn": "Man Who Plotted an Attack on Poland PM Tusk Is Detained",
+    "summary": "A man who allegedly planned an attack on Polish Prime Minister Donald Tusk has been detained by police, said Polish Interior Minister Marcin Kierwinski said in a post on X, without giving more detail.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/poland-probes-possible-attack-planned-on-premier-defense-chief",
+    "published": "Sun, 11 Oct 2026 09:41:03 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:32.461755"
+    "fetched_at": "2026-10-11T15:44:07.782621"
+  },
+  {
+    "id": "7c40331243ee",
+    "title": "Trump Says Russia and Ukraine Agreed to ‘Energy Ceasefire’",
+    "title_cn": "Trump Says Russia and Ukraine Agreed to ‘Energy Ceasefire’",
+    "summary": "President Donald Trump said Sunday that Russia and Ukraine have agreed to an “energy ceasefire” effective immediately.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/trump-says-russia-and-ukraine-agreed-to-energy-ceasefire-mv3wxxro",
+    "published": "Sun, 11 Oct 2026 14:23:11 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:08.085274"
+  },
+  {
+    "id": "5cde99a9da77",
+    "title": "Ukraine Hits Third Russian Yandex Data Hub as US Pressure Mounts",
+    "title_cn": "Ukraine Hits Third Russian Yandex Data Hub as US Pressure Mounts",
+    "summary": "Ukraine struck another major hub of the Russian tech giant Yandex, mirroring recent strikes by Moscow on data centers in Kyiv, as its leader faced pressure from US President Donald Trump over continued oil refinery attacks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/ukraine-hits-third-russian-yandex-data-hub-disrupting-services",
+    "published": "Sun, 11 Oct 2026 08:54:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:08.624112"
+  },
+  {
+    "id": "ebeae74d4614",
+    "title": "Trump Calls for Zelenskyy to Step Aside",
+    "title_cn": "Trump Calls for Zelenskyy to Step Aside",
+    "summary": "Bloomberg News White House Correspondent Catherine Lucey tells Bloomberg This Weekend that President Donald Trump is escalating pressure on Ukrainian President Volodymyr Zelenskyy, calling for new leadership in Kyiv and demanding an end to Ukrainian attacks on Russian oil infrastructure. Speaking with hosts David Gura and Christina Ruffini, Lucey says Trump's effort to lower diesel prices ahead of the US midterm elections risks further straining relations with Ukraine, even as analysts question whether the Russian fuel agreement will provide meaningful price relief.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-11/trump-calls-for-zelenskyy-to-step-aside-video",
+    "published": "Sun, 11 Oct 2026 13:06:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:09.044847"
+  },
+  {
+    "id": "47628af74748",
+    "title": "Mauritania Returns Former GTA Gas Deal Minister to Oil Post",
+    "title_cn": "Mauritania Returns Former GTA Gas Deal Minister to Oil Post",
+    "summary": "Mauritania appointed Mohamed Ould Abdel Vetah as energy and petroleum minister in a government reshuffle announced Saturday, marking the return of a former minister who was in office during a key gas sales deal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/mauritania-returns-former-gta-gas-deal-minister-to-oil-post",
+    "published": "Sun, 11 Oct 2026 11:46:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:09.448267"
+  },
+  {
+    "id": "0183a884fc29",
+    "title": "Pakistan Imposes Emergency in Stronghold of Imran Khan’s Party",
+    "title_cn": "Pakistan Imposes Emergency in Stronghold of Imran Khan’s Party",
+    "summary": "Pakistan’s President Asif Ali Zardari on Sunday imposed a state of emergency in the northwestern province of Khyber Pakhtunkhwa because of “the rising incidents of terrorism and a deteriorating law and order situation.”",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/pakistan-imposes-emergency-in-stronghold-of-imran-khan-s-party",
+    "published": "Sun, 11 Oct 2026 09:06:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:09.957413"
+  },
+  {
+    "id": "5121c38e4a5f",
+    "title": "Billionaire Czech Premier’s ANO Party Weakens in Regional Vote",
+    "title_cn": "Billionaire Czech Premier’s ANO Party Weakens in Regional Vote",
+    "summary": "Support for ANO, the party of billionaire Prime Minister Andrej Babis, weakened in regional elections held across the Czech Republic, mainly in larger cities.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-11/billionaire-czech-premier-s-ano-party-weakens-in-regional-vote",
+    "published": "Sun, 11 Oct 2026 08:51:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-11T15:44:10.257006"
   },
   {
     "id": "ab317a6f634c",
@@ -477,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/deutsche-bank-ceo-criticizes-pace-consistency-of-german-reforms",
     "published": "Sun, 11 Oct 2026 07:53:30 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:33.425234"
+    "fetched_at": "2026-10-11T15:44:10.679062"
   },
   {
     "id": "19ab7fa78657",
@@ -487,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/jacinda-ardern-breaks-political-silence-to-support-nz-opposition",
     "published": "Sun, 11 Oct 2026 02:45:36 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:33.897026"
+    "fetched_at": "2026-10-11T15:44:11.117496"
   },
   {
     "id": "9a2d03dc4941",
@@ -497,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-suggests-ukraine-needs-a-new-president-blasting-zelenskyy",
     "published": "Sat, 10 Oct 2026 17:43:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:34.317106"
+    "fetched_at": "2026-10-11T15:44:11.512302"
   },
   {
     "id": "115cb1142cb6",
@@ -507,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-11/doj-probes-tv-networks-over-white-house-coverage-decisions",
     "published": "Sun, 11 Oct 2026 00:38:21 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:34.918574"
+    "fetched_at": "2026-10-11T15:44:11.933278"
   },
   {
     "id": "b63ed67cff6b",
@@ -517,86 +577,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-10/saudi-arabia-suspends-operations-at-riyadh-airport-after-attack",
     "published": "Sat, 10 Oct 2026 16:47:10 GMT",
     "source": "International",
-    "fetched_at": "2026-10-11T09:01:35.482624"
-  },
-  {
-    "id": "55e0ee6a6e2d",
-    "title": "Trump Turns to Russia as Diesel Prices Rise",
-    "title_cn": "Trump Turns to Russia as Diesel Prices Rise",
-    "summary": "Bloomberg Congressional Reporter Caitlin Reilly and ABC News State Department Reporter Shannon Kingston join hosts David Gura and Christina Ruffini on Bloomberg This Weekend to discuss President Donald Trump's agreement to obtain Russian diesel as rising energy costs put pressure on Republicans ahead of the midterm elections. They examine Ukraine's objections to the deal, disagreements over tariffs and the Iran war in competitive Senate races, and Secretary of State Marco Rubio's foreign policy agenda amid allegations involving the US ambassador to Greece. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/trump-turns-to-russia-as-diesel-prices-rise-video",
-    "published": "Sat, 10 Oct 2026 15:10:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:35.899331"
-  },
-  {
-    "id": "0b839bd02e46",
-    "title": "Supreme Court Recusals in Spotlight as Alito Drops From Oil Case",
-    "title_cn": "Supreme Court Recusals in Spotlight as Alito Drops From Oil Case",
-    "summary": "Justice Samuel Alito’s decision not to take part in a major climate-change case because of his wife’s stock holdings is putting renewed focus on the US Supreme Court’s recusal practices as it kicks off its new nine-month term.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/supreme-court-recusals-in-spotlight-as-alito-drops-from-oil-case",
-    "published": "Sat, 10 Oct 2026 15:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:36.349860"
-  },
-  {
-    "id": "1babcec39d9b",
-    "title": "Cockroach Party Leaders Detained to Stop Protests",
-    "title_cn": "Cockroach Party Leaders Detained to Stop Protests",
-    "summary": "Indian authorities detained Cockroach Janta Party founder Abhijeet Dipke and spokespersons Saurav Das and Ashutosh Ranka ahead of a planned demonstration against a contentious revision of voter rolls. Police imposed sweeping restrictions in the national capital to stop supporters and allies from gathering for the youth-led protest. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-10/cockroach-party-leaders-detained-to-stop-protests-video",
-    "published": "Sat, 10 Oct 2026 13:52:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:36.864021"
-  },
-  {
-    "id": "c771644c0ff0",
-    "title": "Trump Hypes Megaprojects to Voters Who Lament Gas, Food Costs",
-    "title_cn": "Trump Hypes Megaprojects to Voters Who Lament Gas, Food Costs",
-    "summary": "Presidents have long made bombastic pledges to voters in last-minute electoral appeals.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/trump-hypes-megaprojects-to-voters-who-lament-gas-food-costs",
-    "published": "Sat, 10 Oct 2026 14:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:37.439458"
-  },
-  {
-    "id": "87ea86084971",
-    "title": "India Police Detain Protesters, Lock Down Delhi Over Voter Rolls",
-    "title_cn": "India Police Detain Protesters, Lock Down Delhi Over Voter Rolls",
-    "summary": "Police in India’s capital cracked down on protests against a contentious review of voter rolls, detaining youth leaders and locking down central New Delhi with thousands of security personnel.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/india-masses-police-in-new-delhi-as-cockroach-protest-looms",
-    "published": "Sat, 10 Oct 2026 03:23:21 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:38.066957"
-  },
-  {
-    "id": "4fa11ef6d0ce",
-    "title": "EU Plans Measures to Halve Imports of Chinese Hybrid Cars",
-    "title_cn": "EU Plans Measures to Halve Imports of Chinese Hybrid Cars",
-    "summary": "The European Union intends to use safeguard measures to cut the number of hybrid car imports from China by half, according to people familiar with the discussions.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/eu-plans-measures-to-cut-imports-of-chinese-hybrid-cars-by-half",
-    "published": "Sat, 10 Oct 2026 12:34:31 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:38.695107"
-  },
-  {
-    "id": "06557834c2e1",
-    "title": "EU Eyes €160 Billion Cut to Proposed Budget Heading to Talks",
-    "title_cn": "EU Eyes €160 Billion Cut to Proposed Budget Heading to Talks",
-    "summary": "European Union leaders will discuss a scaled back budget when they meet in Brussels next week after negotiators slashed the initial proposal in response to pressure from some countries.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-10/eu-eyes-160-billion-cut-from-initial-budget-heading-into-talks",
-    "published": "Sat, 10 Oct 2026 09:19:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:39.155607"
-  },
-  {
-    "id": "bb59705a009b",
-    "title": "Trump Says Putin to Supply US With Diesel Ahead of Midterms",
-    "title_cn": "Trump Says Putin to Supply US With Diesel Ahead of Midterms",
-    "summary": "President Donald Trump is working with Vladimir Putin to release Russian diesel supplies into global markets, a move that upends years of sanctions as the White House seeks ways to tame soaring fuel prices ahead of the US midterm election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-09/trump-says-putin-agreed-to-release-diesel-into-global-market-mv1bqka7",
-    "published": "Fri, 09 Oct 2026 18:54:03 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-11T09:01:39.791690"
+    "fetched_at": "2026-10-11T15:44:12.522305"
   }
 ]
