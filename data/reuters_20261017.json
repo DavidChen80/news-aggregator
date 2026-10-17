@@ -1,5 +1,85 @@
 [
   {
+    "id": "f6598615e500",
+    "title": "French Violence Emerges Ahead of Nationwide Yellow Vests and Student Protests",
+    "title_cn": "French Violence Emerges Ahead of Nationwide Yellow Vests and Student Protests",
+    "summary": "French police fired tear gas and made arrests as violence and riots erupted on the streets Paris and other cities on the sidelines of demonstrations held Saturday across the country by groups including the Yellow Vests movement.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/france-braces-for-wider-protests-as-students-join-yellow-vests",
+    "published": "Sat, 17 Oct 2026 04:15:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:02.305104"
+  },
+  {
+    "id": "bcb5514fb49d",
+    "title": "Tulum impulsa el turismo de lujo ante caída de visitantes",
+    "title_cn": "Tulum impulsa el turismo de lujo ante caída de visitantes",
+    "summary": "<p>Tulum busca recuperar su perfil exclusivo con una apuesta por el lujo y el bienestar, mientras varios factores&nbsp;ponen a prueba al destino caribeño.</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/tulum-impulsa-el-turismo-de-lujo-ante-caida-de-visitantes-mvciwjtd",
+    "published": "Sat, 17 Oct 2026 15:00:06 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:02.659492"
+  },
+  {
+    "id": "42f663176bad",
+    "title": "Disney Offers Soft Landing to Staff at Troubled Character.AI",
+    "title_cn": "Disney Offers Soft Landing to Staff at Troubled Character.AI",
+    "summary": "More than 60 workers at Character.AI are being offered a lifeline from the media giant",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-17/disney-offers-soft-landing-to-staff-at-troubled-character-ai",
+    "published": "Sat, 17 Oct 2026 15:00:02 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:03.134949"
+  },
+  {
+    "id": "505ed356e47c",
+    "title": "Ukraine Starlink Restrictions, Trump Waives Russia Sanctions",
+    "title_cn": "Ukraine Starlink Restrictions, Trump Waives Russia Sanctions",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions",
+    "published": "Sat, 17 Oct 2026 14:54:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:03.601935"
+  },
+  {
+    "id": "2aff39c878b7",
+    "title": "Bloomberg This Weekend: Trump Halts Russia Sanctions (Podcast)",
+    "title_cn": "Bloomberg This Weekend: Trump Halts Russia Sanctions (Podcast)",
+    "summary": "Source: Bloomberg, 44:49",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-17/bloomberg-this-weekend-trump-halts-russia-sanctions-podcast",
+    "published": "Sat, 17 Oct 2026 14:30:36 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:03.924119"
+  },
+  {
+    "id": "58b4266a3a08",
+    "title": "How a Brooklyn Crypto Cop Cracked a Global Scam Network",
+    "title_cn": "How a Brooklyn Crypto Cop Cracked a Global Scam Network",
+    "summary": "<p>Crypto scams cost Americans more than $11 billion last year. A Brooklyn prosecutor found a way to hit the networks behind them.</p>",
+    "link": "https://www.bloomberg.com/news/features/2026-10-17/how-a-brooklyn-crypto-cop-cracked-a-global-scam-network",
+    "published": "Sat, 17 Oct 2026 14:00:24 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:04.424781"
+  },
+  {
+    "id": "f51184d38d2f",
+    "title": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions",
+    "title_cn": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions",
+    "published": "Sat, 17 Oct 2026 13:46:47 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:04.891197"
+  },
+  {
+    "id": "5aa876ba8949",
+    "title": "Trump Waives New Russia Sanctions, 'No Kings' Protests, More",
+    "title_cn": "Trump Waives New Russia Sanctions, 'No Kings' Protests, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-17/trump-waives-new-russia-sanctions-no-kings-protests-more",
+    "published": "Sat, 17 Oct 2026 12:40:59 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:05.431922"
+  },
+  {
     "id": "a305dc4b6dd1",
     "title": "Trump Pauses Russia Energy Sanctions, Houthis Hit Yemen Airport",
     "title_cn": "Trump Pauses Russia Energy Sanctions, Houthis Hit Yemen Airport",
@@ -7,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/trump-pauses-russia-energy-sanctions-houthis-hit-yemen-airport",
     "published": "Sat, 17 Oct 2026 11:58:40 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:36.247419"
+    "fetched_at": "2026-10-17T15:52:05.751919"
   },
   {
     "id": "b5ff92b04671",
@@ -17,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/trump-waives-new-russia-sanctions-anthropic-ai-bill-more",
     "published": "Sat, 17 Oct 2026 10:46:33 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:36.694405"
+    "fetched_at": "2026-10-17T15:52:06.233193"
   },
   {
     "id": "ffe01b6b6e90",
@@ -27,17 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/italian-steelmaker-seeks-to-double-furlough-to-8-600-workers",
     "published": "Sat, 17 Oct 2026 10:40:48 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:37.229198"
-  },
-  {
-    "id": "f6598615e500",
-    "title": "France Faces Nationwide Protests as Students Join Yellow Vests",
-    "title_cn": "France Faces Nationwide Protests as Students Join Yellow Vests",
-    "summary": "France faces a day of nationwide protests Saturday, including demonstrations inspired by the Yellow Vests, a sometimes radical grassroots movement that emerged in 2018 to fight rising living costs.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/france-braces-for-wider-protests-as-students-join-yellow-vests",
-    "published": "Sat, 17 Oct 2026 04:15:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:37.837240"
+    "fetched_at": "2026-10-17T15:52:06.662123"
   },
   {
     "id": "30ed27c28b41",
@@ -47,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/features/2026-10-17/diageo-s-toxic-spill-hits-pristine-river-in-scottish-whisky-country",
     "published": "Sat, 17 Oct 2026 08:00:26 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:38.434009"
+    "fetched_at": "2026-10-17T15:52:07.227663"
   },
   {
     "id": "57baeb803440",
@@ -57,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life-mvc3wsrh",
     "published": "Sat, 17 Oct 2026 08:00:24 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:38.783982"
+    "fetched_at": "2026-10-17T15:52:07.539442"
   },
   {
     "id": "12ce40fba547",
@@ -67,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/trump-waives-russia-energy-tariffs-anthropic-pitches-safety-bill",
     "published": "Sat, 17 Oct 2026 03:34:02 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:39.376002"
+    "fetched_at": "2026-10-17T15:52:08.053531"
   },
   {
     "id": "d96814d834df",
@@ -77,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-ai-safety-trump-waives-russia-energy-tariffs",
     "published": "Sat, 17 Oct 2026 02:47:27 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:39.933054"
+    "fetched_at": "2026-10-17T15:52:08.466413"
   },
   {
     "id": "19b7bfae5679",
@@ -87,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-safety-bill-trump-waives-russia-energy-tariffs-mvbrgz8a",
     "published": "Sat, 17 Oct 2026 02:12:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:40.292334"
+    "fetched_at": "2026-10-17T15:52:08.897108"
   },
   {
     "id": "95e3b5140b70",
@@ -97,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-safety-bill-trump-waives-russia-energy-tariffs",
     "published": "Sat, 17 Oct 2026 02:12:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:40.734077"
+    "fetched_at": "2026-10-17T15:52:09.290005"
   },
   {
     "id": "e477777b30bc",
@@ -107,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-ai-safety-bill-stocks-drag-on-ai-jitters",
     "published": "Sat, 17 Oct 2026 01:07:04 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:41.190433"
+    "fetched_at": "2026-10-17T15:52:09.792769"
   },
   {
     "id": "d7ced5480f03",
@@ -117,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-17/singapore-hit-by-haze-from-wildfires-choking-southeast-asia",
     "published": "Sat, 17 Oct 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:41.718660"
+    "fetched_at": "2026-10-17T15:52:10.188372"
   },
   {
     "id": "adeab6c24ced",
@@ -127,77 +197,97 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/anthropic-pitches-safety-bill-stocks-drag-on-ai-jitters-more",
     "published": "Sat, 17 Oct 2026 00:05:45 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:42.303556"
+    "fetched_at": "2026-10-17T15:52:10.644674"
   },
   {
-    "id": "3263b1ab6fa7",
-    "title": "Hong Kong Restaurant Review: Vesu's Signature Is Peking Duck Pizza",
-    "title_cn": "Hong Kong Restaurant Review: Vesu's Signature Is Peking Duck Pizza",
-    "summary": "<p>Vesu Pizza Bar offers breathtaking views and unusual combinations.</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/hong-kong-restaurant-review-vesu-s-signature-is-peking-duck-pizza",
-    "published": "Sat, 17 Oct 2026 00:00:24 GMT",
+    "id": "ec7d91935248",
+    "title": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+    "title_cn": "India Frees ‘Cockroach’ Leader As Voter-List Row Simmers",
+    "summary": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, according to its legal affairs head, as a widening fight over the country’s voter rolls keeps New Delhi on edge.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+    "published": "Sat, 17 Oct 2026 02:34:29 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:42.835547"
+    "fetched_at": "2026-10-17T15:52:11.589638"
   },
   {
-    "id": "0d868784e7f8",
-    "title": "Bloomberg Talks: Suzanne Clark (Podcast)",
-    "title_cn": "Bloomberg Talks: Suzanne Clark (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-16/bloomberg-talks-suzanne-clark-podcast",
-    "published": "Fri, 16 Oct 2026 23:47:45 GMT",
+    "id": "73e40e62c875",
+    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+    "title_cn": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+    "published": "Sat, 17 Oct 2026 14:35:04 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:43.458941"
+    "fetched_at": "2026-10-17T15:52:12.035393"
   },
   {
-    "id": "d70fced9bd6b",
-    "title": "Bloomberg Talks: Dan Ives (Podcast)",
-    "title_cn": "Bloomberg Talks: Dan Ives (Podcast)",
-    "summary": "Source: Bloomberg, 5:05",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-16/bloomberg-talks-dan-ives-podcast",
-    "published": "Fri, 16 Oct 2026 23:46:03 GMT",
+    "id": "03a4fe2487c5",
+    "title": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+    "title_cn": "CoreWeave Woes Risk Shutting Down AI Junk Market: Credit Weekly",
+    "summary": "Junk bond buyers are increasingly freezing out tech startups looking for financing, as CoreWeave Inc.’s pain raises bigger questions about how artificial intelligence companies will fund themselves.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/coreweave-woes-risk-shutting-down-ai-junk-market-credit-weekly",
+    "published": "Sat, 17 Oct 2026 14:27:13 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:43.958285"
+    "fetched_at": "2026-10-17T15:52:12.601907"
   },
   {
-    "id": "fb4a7acca6a6",
-    "title": "Politico: Anthropic Pitches Safety Bill, Stocks Drag on AI Fears",
-    "title_cn": "Politico: Anthropic Pitches Safety Bill, Stocks Drag on AI Fears",
-    "summary": "Source: Bloomberg, 6:10",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-16/politico-anthropic-pitches-safety-bill-stocks-drag-on-ai-fears",
-    "published": "Fri, 16 Oct 2026 23:15:37 GMT",
+    "id": "bcd8dd8d3829",
+    "title": "Northwell CEO Says Health Care Model Must Change",
+    "title_cn": "Northwell CEO Says Health Care Model Must Change",
+    "summary": "Northwell Health President and CEO Dr. John D’Angelo tells Bloomberg This Weekend that the traditional US health care model is unsustainable and that improving affordability will require a greater focus on wellness, prevention and chronic disease. Speaking with hosts David Gura and Lisa Mateo, D’Angelo discusses workforce shortages, the financial pressures facing nonprofit hospitals and how AI could reduce administrative burdens while preserving the human role in consequential medical decisions. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/northwell-ceo-says-health-care-model-must-change-video",
+    "published": "Sat, 17 Oct 2026 14:03:47 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:44.599396"
+    "fetched_at": "2026-10-17T15:52:13.021397"
   },
   {
-    "id": "c47facad41d3",
-    "title": "Bloomberg Businessweek Daily: AI Jitters Persist (Podcast)",
-    "title_cn": "Bloomberg Businessweek Daily: AI Jitters Persist (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-16/bloomberg-businessweek-daily-ai-jitters-persist-podcast",
-    "published": "Fri, 16 Oct 2026 22:17:50 GMT",
+    "id": "b014c397a205",
+    "title": "Can the Fed Fight Inflation Without Hurting Farmers?",
+    "title_cn": "Can the Fed Fight Inflation Without Hurting Farmers?",
+    "summary": "Chicago Fed President Austan Goolsbee traveled to rural Illinois to hear directly from farmers facing lower crop prices and rising costs for fuel, fertilizer and other inputs. Those conversations offer the Fed a ground-level view of inflation pressures that may emerge before they are fully reflected in national data. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/can-the-fed-fight-inflation-without-hurting-farmers-video",
+    "published": "Sat, 17 Oct 2026 14:03:13 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:45.093402"
+    "fetched_at": "2026-10-17T15:52:13.433613"
   },
   {
-    "id": "259b31a3d9ea",
-    "title": "Wall Street Anxiety Spreads, Brent Tops $110, More",
-    "title_cn": "Wall Street Anxiety Spreads, Brent Tops $110, More",
-    "summary": "Source: Bloomberg, 5:39",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-16/wall-street-anxiety-spreads-brent-tops-110-more",
-    "published": "Fri, 16 Oct 2026 22:17:17 GMT",
+    "id": "c1b03782cf5d",
+    "title": "Freeland Warns US Alliances Are Fraying",
+    "title_cn": "Freeland Warns US Alliances Are Fraying",
+    "summary": "Former Canadian Deputy Prime Minister Chrystia Freeland tells Bloomberg This Weekend that Canada and other democracies must become less reliant on the US while remaining open to rebuilding the Western alliance. Speaking with hosts David Gura and Christina Ruffini, Freeland discusses Alberta’s separatist movement, President Donald Trump’s approach to Russia and Ukraine, and lessons from her negotiations with the US that inform her new book, Unreliable Boyfriend. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/freeland-warns-us-alliances-are-fraying-video",
+    "published": "Sat, 17 Oct 2026 13:39:38 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:45.484223"
+    "fetched_at": "2026-10-17T15:52:13.979518"
   },
   {
-    "id": "7326c3617a72",
-    "title": "Short Sellers Cash In as Chip Stocks: Evening Briefing Americas",
-    "title_cn": "Short Sellers Cash In as Chip Stocks: Evening Briefing Americas",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-16/short-sellers-cash-in-as-chip-stocks-evening-briefing-americas",
-    "published": "Fri, 16 Oct 2026 21:57:17 GMT",
+    "id": "9aba7bf9978d",
+    "title": "Sports Fashion Finds a Growing Female Audience",
+    "title_cn": "Sports Fashion Finds a Growing Female Audience",
+    "summary": "Terez founder and CEO Zara Terez Tisch tells Bloomberg This Weekend how the growing number of women sports fans is creating new demand for fashionable team apparel and expanding opportunities for her company across professional sports.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/sports-fashion-finds-a-growing-female-audience-video",
+    "published": "Sat, 17 Oct 2026 13:17:32 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:45.849169"
+    "fetched_at": "2026-10-17T15:52:14.423349"
+  },
+  {
+    "id": "c01661548410",
+    "title": "By The Way: Headlines You May Have Missed",
+    "title_cn": "By The Way: Headlines You May Have Missed",
+    "summary": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
+    "published": "Sat, 17 Oct 2026 12:51:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:14.957088"
+  },
+  {
+    "id": "067245b569a9",
+    "title": "Global Aid Cuts Deepen Humanitarian Strain",
+    "title_cn": "Global Aid Cuts Deepen Humanitarian Strain",
+    "summary": "International Rescue Committee President and CEO David Miliband tells Bloomberg This Weekend that cuts in US and European aid are weakening the humanitarian response as conflicts and other crises intensify around the world. Speaking with hosts David Gura and Christina Ruffini, Miliband discusses conditions in Ukraine, Yemen and Sudan, the challenge of containing disease outbreaks and the potential benefits and risks of AI in humanitarian work. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/global-aid-cuts-deepen-humanitarian-strain-video",
+    "published": "Sat, 17 Oct 2026 12:44:18 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:15.358909"
   },
   {
     "id": "8b691a90b5dc",
@@ -207,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-17/rockstar-rebuilt-itself-to-make-gta-vi-video",
     "published": "Sat, 17 Oct 2026 12:15:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:46.717457"
+    "fetched_at": "2026-10-17T15:52:15.937069"
   },
   {
     "id": "cafdb0244afb",
@@ -217,17 +307,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-17/trump-puts-new-russia-sanctions-on-hold-video",
     "published": "Sat, 17 Oct 2026 11:49:42 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:47.169189"
-  },
-  {
-    "id": "ec7d91935248",
-    "title": "India’s ‘Cockroach’ Protest Leader Released After Voter-List Row",
-    "title_cn": "India’s ‘Cockroach’ Protest Leader Released After Voter-List Row",
-    "summary": "The founder of India’s “Cockroach” protest movement was released on Saturday after being taken into police custody, his lawyer said, as a widening fight over the country’s voter rolls keeps New Delhi on edge.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
-    "published": "Sat, 17 Oct 2026 02:34:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:47.774948"
+    "fetched_at": "2026-10-17T15:52:16.506372"
   },
   {
     "id": "cee9d07a52fc",
@@ -237,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/stellantis-plans-to-hire-hundreds-more-engineers-in-europe-us",
     "published": "Sat, 17 Oct 2026 11:08:37 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:48.308699"
+    "fetched_at": "2026-10-17T15:52:16.805297"
   },
   {
     "id": "fb0172654682",
@@ -247,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/oil-trader-yaoyao-liu-who-made-billions-for-vitol-is-leaving",
     "published": "Sat, 17 Oct 2026 10:31:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:48.733044"
+    "fetched_at": "2026-10-17T15:52:17.327072"
   },
   {
     "id": "7a8e93f3759a",
@@ -257,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
     "published": "Sat, 17 Oct 2026 08:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:49.276604"
+    "fetched_at": "2026-10-17T15:52:17.714239"
   },
   {
     "id": "58413cf80a43",
@@ -267,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
     "published": "Sat, 17 Oct 2026 05:35:22 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:49.843868"
+    "fetched_at": "2026-10-17T15:52:18.244710"
   },
   {
     "id": "884526cde7e8",
@@ -277,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/japan-s-takaichi-to-attend-apec-in-china-if-parliament-allows",
     "published": "Sat, 17 Oct 2026 05:22:12 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:50.314462"
+    "fetched_at": "2026-10-17T15:52:18.568151"
   },
   {
     "id": "3a3488f3038a",
@@ -287,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/fairfax-s-watsa-bets-on-idbi-payoff-as-india-booms-report-says",
     "published": "Sat, 17 Oct 2026 04:55:30 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:50.705250"
+    "fetched_at": "2026-10-17T15:52:19.134442"
   },
   {
     "id": "1c6728724402",
@@ -297,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/india-halts-sugar-diversion-to-ethanol-after-el-nino-hurts-crops",
     "published": "Sat, 17 Oct 2026 04:50:55 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:51.238903"
+    "fetched_at": "2026-10-17T15:52:19.475210"
   },
   {
     "id": "30fa77cf0a60",
@@ -307,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/china-encourages-cinemas-to-add-sports-events-and-lottery-sales",
     "published": "Sat, 17 Oct 2026 03:38:15 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:51.687331"
+    "fetched_at": "2026-10-17T15:52:19.948215"
   },
   {
     "id": "ed463859707e",
@@ -317,87 +397,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
     "published": "Fri, 16 Oct 2026 09:40:58 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:52.284403"
+    "fetched_at": "2026-10-17T15:52:20.332911"
   },
   {
-    "id": "1dbc62ecf18f",
-    "title": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
-    "title_cn": "Vietnam Prime Minister Targets 2027 GDP Growth of at Least 10%",
-    "summary": "Vietnam’s Prime Minister Le Minh Hung projected gross domestic product will expand at least 10% next year as he outlined the nation’s economic targets in a speech to parliament.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/vietnam-prime-minister-targets-2027-gdp-growth-of-at-least-10",
-    "published": "Sat, 17 Oct 2026 03:03:57 GMT",
+    "id": "9dafe08cbbf2",
+    "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
+    "title_cn": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
+    "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+    "published": "Sat, 17 Oct 2026 12:47:37 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:52.915153"
+    "fetched_at": "2026-10-17T15:52:21.098504"
   },
   {
-    "id": "09b9bbc0920b",
-    "title": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With India’s Gen Z",
-    "title_cn": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With India’s Gen Z",
-    "summary": "For generations of Indians, Reliance Industries Ltd. was their introduction to the stock market. Founder Dhirubhai Ambani drew middle-income savers into shares, building a following that endured for decades.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
-    "published": "Sat, 17 Oct 2026 02:30:00 GMT",
+    "id": "d0110f649e96",
+    "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+    "title_cn": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+    "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and OpenAI as well as domestic competitors like Moonshot Kimi and Z.ai",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+    "published": "Sat, 17 Oct 2026 13:47:14 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:53.469469"
+    "fetched_at": "2026-10-17T15:52:21.538402"
   },
   {
-    "id": "ced2112d7d04",
-    "title": "US Gives Green Light for New Routes from Mexico City Airports",
-    "title_cn": "US Gives Green Light for New Routes from Mexico City Airports",
-    "summary": "The US will allow Mexican airlines to offer new flights into the country from Mexico City’s two biggest airports, lifting restrictions that had blocked additional routes.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/mexico-says-airlines-can-add-us-routes-from-mexico-city-airports",
-    "published": "Fri, 16 Oct 2026 22:11:45 GMT",
+    "id": "2813e0442e6c",
+    "title": "AI Selloff Tests Investor Confidence",
+    "title_cn": "AI Selloff Tests Investor Confidence",
+    "summary": "Ritholtz Wealth Management Chairman and Chief Investment Officer Barry Ritholtz tells Bloomberg This Weekend that AI remains a transformational technology, but investors face a difficult task determining which companies will ultimately emerge as winners and losers. Speaking with hosts David Gura and Christina Ruffini, Ritholtz discusses CoreWeave’s selloff, concerns about AI financing and valuations, and the challenges facing Tesla as competition in electric vehicles intensifies. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+    "published": "Sat, 17 Oct 2026 13:05:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:54.069565"
-  },
-  {
-    "id": "4dc004162a58",
-    "title": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
-    "title_cn": "Chinese Stocks Turn Biggest Losers as Global AI Trade Stumbles",
-    "summary": "Chinese firms have emerged as the biggest losers of the faltering global AI trade, a setback for Beijing’s efforts to use stock markets to supercharge its ambition of technological supremacy.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/chinese-stocks-turn-biggest-losers-as-global-ai-trade-stumbles",
-    "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:54.595757"
-  },
-  {
-    "id": "4a606d20334a",
-    "title": "Graza CEO on Market Expansion, Consumer Outlook",
-    "title_cn": "Graza CEO on Market Expansion, Consumer Outlook",
-    "summary": "Andrew Benin, CEO of Graza, said the company’s appeal starts with the quality of its olive oil, while its squeezable bottle helped make the product approachable and popular. Benin emphasized sourcing transparency: bottles identify the oil’s origin, varietal, harvest season, bottling date and best-by date, while the brand aims to deliver a consistent peppery, flavor-forward profile despite agricultural variability. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/graza-ceo-on-market-expansion-consumer-outlook-video",
-    "published": "Fri, 16 Oct 2026 22:02:25 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:55.128895"
-  },
-  {
-    "id": "3eb3920c812a",
-    "title": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
-    "title_cn": "TGI Fridays CEO on Company Turnaround, Expansion Plans",
-    "summary": "Ray Blanchette, CEO of TGI Fridays, says the restaurant aims to stand out in casual dining through value, quality food and attentive service. He identifies food, service and atmosphere as the priorities for attracting customers, with a renewed focus on scratch cooking and bringing energy back to the business. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/tgi-fridays-ceo-on-company-turnaround-expansion-plans-video",
-    "published": "Fri, 16 Oct 2026 21:56:54 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:55.552256"
-  },
-  {
-    "id": "524d673bacd4",
-    "title": "Chip Stocks Post Longest Losing Streak Since 2008: Markets Wrap",
-    "title_cn": "Chip Stocks Post Longest Losing Streak Since 2008: Markets Wrap",
-    "summary": "Another burst of selling in technology shares drove the Nasdaq 100 to its worst week since the April 2025 tariff turmoil as investors questioned the outlook for the artificial-intelligence trade.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-15/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 15 Oct 2026 22:04:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:56.130496"
-  },
-  {
-    "id": "346e2ca956f6",
-    "title": "Euro Snaps Five-Week Losing Streak With Warsh Remarks",
-    "title_cn": "Euro Snaps Five-Week Losing Streak With Warsh Remarks",
-    "summary": "The euro halted a five-week slide against the dollar after comments from Federal Reserve Chairman Kevin Warsh were interpreted as supporting the case for the US central bank to keep interest rates on hold this month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/euro-set-to-end-five-week-losing-run-as-warsh-remarks-hit-dollar",
-    "published": "Fri, 16 Oct 2026 09:37:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:26:56.590662"
+    "fetched_at": "2026-10-17T15:52:21.886305"
   },
   {
     "id": "c02a7e01cde8",
@@ -407,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-17/the-ev-bust-creating-a-new-battery-boom-video",
     "published": "Sat, 17 Oct 2026 12:03:32 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:57.325187"
+    "fetched_at": "2026-10-17T15:52:22.205269"
   },
   {
     "id": "e30a4d86d560",
@@ -417,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-17/david-byrne-on-how-forgotten-ideas-come-back-to-life-video",
     "published": "Sat, 17 Oct 2026 08:14:24 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:57.751563"
+    "fetched_at": "2026-10-17T15:52:22.772096"
   },
   {
     "id": "68e4a44af4ab",
@@ -427,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/reliance-pushes-back-as-musk-questions-starlink-s-delay-in-india",
     "published": "Fri, 16 Oct 2026 04:38:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:58.329146"
+    "fetched_at": "2026-10-17T15:52:23.222175"
   },
   {
     "id": "2d3e156cd231",
@@ -437,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
     "published": "Sat, 17 Oct 2026 03:55:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:58.773901"
+    "fetched_at": "2026-10-17T15:52:23.713539"
   },
   {
     "id": "33d1e29ad712",
@@ -447,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-partner-gmi-cloud-calls-coreweave-s-15-yield-insane",
     "published": "Fri, 16 Oct 2026 01:44:29 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:59.321402"
+    "fetched_at": "2026-10-17T15:52:24.030032"
   },
   {
     "id": "b6f2ab4b26a6",
@@ -457,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-15/ai-music-deals-are-happening-but-how-artists-will-be-paid-remains-a-mystery",
     "published": "Thu, 15 Oct 2026 19:11:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:26:59.924814"
+    "fetched_at": "2026-10-17T15:52:24.590069"
   },
   {
     "id": "4d370d3859fb",
@@ -467,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
     "published": "Fri, 16 Oct 2026 22:25:33 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:00.318150"
+    "fetched_at": "2026-10-17T15:52:24.961283"
   },
   {
     "id": "d9c1883cc8c9",
@@ -477,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/wall-street-week-battery-pivot-farmers-fed-warning-video",
     "published": "Fri, 16 Oct 2026 23:13:58 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:00.671434"
+    "fetched_at": "2026-10-17T15:52:25.370652"
   },
   {
     "id": "65f530d26c7a",
@@ -487,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/apple-iphone-duo-orders-slip-into-2027-amid-preorder-frenzy",
     "published": "Fri, 16 Oct 2026 12:50:52 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:01.124067"
+    "fetched_at": "2026-10-17T15:52:25.688334"
   },
   {
     "id": "7fc1a52e291f",
@@ -497,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/jp-morgan-strategist-on-ai-jitters-investing-outlook-video",
     "published": "Fri, 16 Oct 2026 22:15:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:01.477780"
+    "fetched_at": "2026-10-17T15:52:26.238986"
   },
   {
     "id": "6dee577c8f2f",
@@ -507,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
     "published": "Fri, 16 Oct 2026 21:36:22 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:02.013010"
+    "fetched_at": "2026-10-17T15:52:26.594044"
   },
   {
     "id": "5e670c740416",
@@ -517,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
     "published": "Fri, 16 Oct 2026 08:56:41 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:02.368448"
+    "fetched_at": "2026-10-17T15:52:26.983796"
   },
   {
     "id": "0a4c25a74096",
@@ -527,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up",
     "published": "Fri, 16 Oct 2026 21:50:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:02.716609"
+    "fetched_at": "2026-10-17T15:52:27.377699"
   },
   {
     "id": "d0dec8ce30ab",
@@ -537,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
     "published": "Fri, 16 Oct 2026 14:00:12 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:03.124740"
+    "fetched_at": "2026-10-17T15:52:27.768169"
   },
   {
     "id": "bead109669ed",
@@ -547,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/thomas-hoenig-on-rate-hikes-inflation-outlook-video",
     "published": "Fri, 16 Oct 2026 21:33:29 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:03.488088"
+    "fetched_at": "2026-10-17T15:52:28.123960"
   },
   {
     "id": "e900a5bea0a8",
@@ -557,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-14/janus-henderson-ceo-on-going-private-m-a-deals-video",
     "published": "Wed, 14 Oct 2026 21:49:35 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:03.871542"
+    "fetched_at": "2026-10-17T15:52:28.521748"
   },
   {
     "id": "d28ce3a84174",
@@ -567,57 +597,37 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/financing-the-ai-boom-masters-in-business-video",
     "published": "Fri, 16 Oct 2026 21:01:05 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:04.249526"
+    "fetched_at": "2026-10-17T15:52:28.962017"
   },
   {
-    "id": "6c780e13d2b2",
-    "title": "EM Stocks, FX Gain on Bets Fed Will Hold Rates This Month",
-    "title_cn": "EM Stocks, FX Gain on Bets Fed Will Hold Rates This Month",
-    "summary": "Gauges of emerging-market currencies and stocks gained on Friday as the greenback extended losses and a selloff in shares related to artificial intelligence abated in Asia.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/emerging-market-stocks-gain-as-fed-s-warsh-backs-ai-optimism",
-    "published": "Fri, 16 Oct 2026 05:16:58 GMT",
+    "id": "19d736fb1e0b",
+    "title": "Hungary to Unveil 2027 Budget Monday, Laying Out Euro Road Map",
+    "title_cn": "Hungary to Unveil 2027 Budget Monday, Laying Out Euro Road Map",
+    "summary": "Hungary’s Prime Minister Peter Magyar said he would present the country’s 2027 budget in a speech to parliament at 1pm on Monday.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/hungary-to-unveil-2027-budget-monday-laying-out-euro-road-map",
+    "published": "Sat, 17 Oct 2026 15:07:12 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:04.603968"
+    "fetched_at": "2026-10-17T15:52:29.730972"
   },
   {
-    "id": "cc19fa04ed6b",
-    "title": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
-    "title_cn": "Thoma Bravo’s Proofpoint Taps JPMorgan, UBS on Varonis Debt Deal",
-    "summary": "Thoma Bravo-backed Proofpoint Inc. has locked in $1.25 billion in financing to support its acquisition of fellow cybersecurity company Varonis Systems Inc., according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/thoma-bravo-s-proofpoint-taps-jpmorgan-ubs-on-varonis-debt-deal",
-    "published": "Fri, 16 Oct 2026 20:53:51 GMT",
+    "id": "eb0546cd17ce",
+    "title": "Opposition Retains Czech Senate Control as Premier’s Party Slips",
+    "title_cn": "Opposition Retains Czech Senate Control as Premier’s Party Slips",
+    "summary": "Control of the Czech Senate will remain in the hands of the current opposition after Prime Minister Andrej Babis’s ANO party lost ground in the upper house.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/opposition-retains-czech-senate-control-as-premier-s-party-slips",
+    "published": "Sat, 17 Oct 2026 14:43:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:04.979913"
+    "fetched_at": "2026-10-17T15:52:30.155218"
   },
   {
-    "id": "6214bd201097",
-    "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-    "title_cn": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-    "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon outweigh the concerns of investors.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
-    "published": "Fri, 16 Oct 2026 20:33:15 GMT",
+    "id": "1a8ed4e3ca59",
+    "title": "Republicans Brace For Backlash as Trump Gas Prices Near Biden’s",
+    "title_cn": "Republicans Brace For Backlash as Trump Gas Prices Near Biden’s",
+    "summary": "In the run-up to his 2024 presidential election, Donald Trump couldn’t keep quiet about the cost of energy.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/republicans-brace-for-backlash-as-trump-gas-prices-near-biden-s",
+    "published": "Sat, 17 Oct 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:05.394080"
-  },
-  {
-    "id": "4a16160bda1c",
-    "title": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
-    "title_cn": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
-    "summary": "Restrictions on Ukraine’s use of SpaceX’s satellite technology came just weeks after its forces relied on the network for a surprising and successful counter-offensive that retook critical territory from Russian forces.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/spacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment",
-    "published": "Sat, 17 Oct 2026 11:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:06.244414"
-  },
-  {
-    "id": "ea6115fd12b5",
-    "title": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs",
-    "title_cn": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs",
-    "summary": "President Donald Trump waived massive tariffs linked to Russian energy exports mandated in a law that he signed last month, as the measures complicated his push to lower diesel prices ahead of the US midterm elections.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law",
-    "published": "Sat, 17 Oct 2026 00:49:44 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:06.732786"
+    "fetched_at": "2026-10-17T15:52:30.642700"
   },
   {
     "id": "99166f893176",
@@ -627,7 +637,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/houthis-hit-yemen-airport-as-saudi-arabia-intercepts-attacks",
     "published": "Sat, 17 Oct 2026 08:36:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:07.326095"
+    "fetched_at": "2026-10-17T15:52:31.050336"
+  },
+  {
+    "id": "026b69404c49",
+    "title": "Egypt Ready to Defend Saudi Arabia if Needed, Sisi Says",
+    "title_cn": "Egypt Ready to Defend Saudi Arabia if Needed, Sisi Says",
+    "summary": "Egyptian President Abdel-Fattah El-Sisi said his nation stands ready to defend Saudi Arabia as it comes under attack from Yemen’s Houthis and called on parliament to convene an emergency session to authorize such action if it became necessary.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/egypt-ready-to-defend-saudi-arabia-if-needed-sisi-says",
+    "published": "Sat, 17 Oct 2026 12:14:33 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:31.625111"
+  },
+  {
+    "id": "4a16160bda1c",
+    "title": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
+    "title_cn": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
+    "summary": "Restrictions on Ukraine’s use of SpaceX’s satellite technology came just weeks after its forces relied on the network for a surprising and successful counter-offensive that retook critical territory from Russian forces.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/spacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment",
+    "published": "Sat, 17 Oct 2026 11:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:32.135456"
+  },
+  {
+    "id": "ea6115fd12b5",
+    "title": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs",
+    "title_cn": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs",
+    "summary": "President Donald Trump waived massive tariffs linked to Russian energy exports mandated in a law that he signed last month, as the measures complicated his push to lower diesel prices ahead of the US midterm elections.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-17/trump-waives-russia-energy-tariffs-sanctions-in-graham-law",
+    "published": "Sat, 17 Oct 2026 00:49:44 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-17T15:52:32.587297"
   },
   {
     "id": "87c96c07c292",
@@ -637,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/burnham-finds-his-plans-to-focus-on-britain-blown-up-by-trump",
     "published": "Sat, 17 Oct 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:07.679800"
+    "fetched_at": "2026-10-17T15:52:33.033914"
   },
   {
     "id": "47a1d7f23ab4",
@@ -647,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/alberta-separation-referendum-draws-over-1-million-early-votes-in-canada",
     "published": "Fri, 16 Oct 2026 19:25:01 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:08.309187"
+    "fetched_at": "2026-10-17T15:52:33.415980"
   },
   {
     "id": "cd40be1894b3",
@@ -657,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/trump-opens-door-to-replacing-press-secretary-after-rocky-start",
     "published": "Fri, 16 Oct 2026 17:15:13 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:08.656395"
+    "fetched_at": "2026-10-17T15:52:33.892925"
   },
   {
     "id": "95545e4b61f8",
@@ -667,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/trump-in-georgia-touts-manufacturing-gains-as-gop-targets-ossoff",
     "published": "Fri, 16 Oct 2026 23:22:52 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:09.226922"
+    "fetched_at": "2026-10-17T15:52:34.275814"
   },
   {
     "id": "8f7c4f28a5fe",
@@ -677,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/balance-of-power-late-edition-10-16-2026-video",
     "published": "Fri, 16 Oct 2026 23:22:21 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:09.574766"
+    "fetched_at": "2026-10-17T15:52:34.787933"
   },
   {
     "id": "6e7d4a037190",
@@ -687,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/scudder-texas-democrats-are-more-organized-than-in-2018-video",
     "published": "Fri, 16 Oct 2026 22:32:36 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:10.086156"
+    "fetched_at": "2026-10-17T15:52:35.271073"
   },
   {
     "id": "30c0c800843f",
@@ -697,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/clark-calls-for-lower-tariffs-more-legal-immigration-video",
     "published": "Fri, 16 Oct 2026 22:24:21 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:10.729421"
+    "fetched_at": "2026-10-17T15:52:35.783305"
   },
   {
     "id": "0867566fbde4",
@@ -707,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-16/aoc-boosts-abdul-el-sayed-and-2028-talk-with-1-million-check",
     "published": "Fri, 16 Oct 2026 22:19:40 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:11.171894"
+    "fetched_at": "2026-10-17T15:52:36.322153"
   },
   {
     "id": "e437d59b5d64",
@@ -717,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/mulvaney-says-katie-zacharia-was-set-up-to-fail-video",
     "published": "Fri, 16 Oct 2026 22:18:55 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:11.666704"
+    "fetched_at": "2026-10-17T15:52:36.710103"
   },
   {
     "id": "0be356add00f",
@@ -727,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/david-rubenstein-on-new-book-speaking-of-america-video",
     "published": "Fri, 16 Oct 2026 22:11:30 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:12.113057"
+    "fetched_at": "2026-10-17T15:52:37.172025"
   },
   {
     "id": "79d8c04bc900",
@@ -737,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/businessweek-daily-podcast-ai-jitters-persist-video",
     "published": "Fri, 16 Oct 2026 22:08:50 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:12.551675"
+    "fetched_at": "2026-10-17T15:52:37.546487"
   },
   {
     "id": "ed44ab88fb16",
@@ -747,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/the-close-10-16-2026-video",
     "published": "Fri, 16 Oct 2026 21:58:25 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:12.898393"
+    "fetched_at": "2026-10-17T15:52:37.972816"
   },
   {
     "id": "5919d8cbe9b7",
@@ -757,46 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-16/anita-verma-lallian-on-data-center-buildout-video",
     "published": "Fri, 16 Oct 2026 21:49:59 GMT",
     "source": "International",
-    "fetched_at": "2026-10-17T12:27:13.325662"
-  },
-  {
-    "id": "766343cfef06",
-    "title": "The Secret History of the Mar-a-Lago Document Seizure",
-    "title_cn": "The Secret History of the Mar-a-Lago Document Seizure",
-    "summary": "Reporter Jason Leopold and lawyer Matt Topic delve into alleged record destruction at the first Trump White House. A journey of documents, dogged archivists, a DOJ-FBI clash and The Big Lebowski. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-15/disclosure-podcast-quest-for-trump-white-house-papers-video",
-    "published": "Thu, 15 Oct 2026 20:26:06 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:13.699637"
-  },
-  {
-    "id": "334ba2c2768c",
-    "title": "UK’s Healey Backs Heathrow Third Runway in Clash With Burnham",
-    "title_cn": "UK’s Healey Backs Heathrow Third Runway in Clash With Burnham",
-    "summary": "Chancellor of the Exchequer John Healey has backed plans for a third runway at Heathrow, setting up a possible Downing Street clash with Prime Minister Andy Burnham.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-16/uk-s-healey-backs-heathrow-third-runway-in-clash-with-burnham",
-    "published": "Fri, 16 Oct 2026 21:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:14.259535"
-  },
-  {
-    "id": "484d8d14e0f1",
-    "title": "How Apple Helped Build China’s Tech Power",
-    "title_cn": "How Apple Helped Build China’s Tech Power",
-    "summary": "Apple’s rise into one of the world’s most valuable companies was powered in large part by China. However, that relationship came with enormous geopolitical consequences. Investigative journalist and former Financial Times reporter Patrick McGee joins Bloomberg Businessweek Daily to discuss his bestseller Apple in China: The Capture of the World’s Greatest Company and how Apple’s investments, engineering expertise and vast supplier network helped transform China into a global electronics powerhouse. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/how-apple-helped-build-china-s-tech-power-video",
-    "published": "Fri, 16 Oct 2026 21:26:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:14.609824"
-  },
-  {
-    "id": "d06b3ca5758b",
-    "title": "Warsh Touts ‘Consequential’ AI, Trump Press Secretary Out After Five Days",
-    "title_cn": "Warsh Touts ‘Consequential’ AI, Trump Press Secretary Out After Five Days",
-    "summary": "Federal Reserve Chairman Kevin Warsh described AI as potentially the most consequential change to the US and global economy in his lifetime, calling it a positive supply shock over the medium term. We get reaction from Bloomberg's Enda Curran. One flagship AI data center in Norway is six months behind schedule, with workers set to be housed in a floating hotel to get it over the finish line. Bloomberg's Brody Ford explains. Katie Zacharia will no longer serve as President Donald Trump’s press secretary after spending less than a week on the job. Bloomberg's Skylar Woodhouse reports from the White House. Veda Partners' Henrietta Treyz examines the road to US midterms. Plus - Bloomberg News US Sports Reporter Randall Williams discusses the NFL's Fall Meeting and the mystery swirling around the next Super Bowl halftime headliner. All on the latest episode of Bloomberg Businessweek Daily. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-16/bloomberg-businessweek-daily-10-16-2026-video",
-    "published": "Fri, 16 Oct 2026 21:26:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-17T12:27:15.234693"
+    "fetched_at": "2026-10-17T15:52:38.363221"
   }
 ]
