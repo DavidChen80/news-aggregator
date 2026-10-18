@@ -1,12 +1,57 @@
 [
   {
+    "id": "7c26758f12cc",
+    "title": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger",
+    "summary": "Daiichi Life Group Inc. offered to buy the remainder of Challenger Ltd. that it doesn’t already own, in a takeover bid that valued the Australian firm at around A$7.9 billion ($5.5 billion).",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger",
+    "published": "Sun, 18 Oct 2026 21:14:58 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-18T21:45:46.391363"
+  },
+  {
+    "id": "079223a9b5a2",
+    "title": "Zelenskyy Says Trump Forcing Capitulation to Russia",
+    "summary": "Get caught up.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-18/zelenskyy-says-trump-forcing-capitulation-to-russia",
+    "published": "Sun, 18 Oct 2026 21:36:19 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-18T21:45:46.391375"
+  },
+  {
+    "id": "8cda7ca311a4",
+    "title": "Macron on France Protests, Zelenskyy: Trump Pressuring Ukraine",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-zelenskyy-trump-pressuring-ukraine",
+    "published": "Sun, 18 Oct 2026 20:41:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-18T21:45:46.391380"
+  },
+  {
+    "id": "1157945c6f36",
+    "title": "Macron on France Unrest, Zelenskyy: Trump Pushing Capitulation",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-unrest-zelenskyy-trump-pushing-capitulation",
+    "published": "Sun, 18 Oct 2026 20:11:18 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-18T21:45:46.391385"
+  },
+  {
+    "id": "ce6e632143b7",
+    "title": "AI’s Risks and Rewards (ARM, SNPS)",
+    "summary": "The CFOs discuss investment plans, forecasting and the trade-offs they are weighing.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps",
+    "published": "Sun, 18 Oct 2026 20:00:01 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-18T21:45:46.391390"
+  },
+  {
     "id": "1f00a6dc4341",
     "title": "Zelenskyy, US Envoys Discuss Peace Talks, Trump-Russia Backlash",
     "summary": "Source: Bloomberg, 0:00",
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-envoys-discuss-peace-talks-trump-russia-backlash",
     "published": "Sun, 18 Oct 2026 18:11:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453196"
+    "fetched_at": "2026-10-18T21:45:46.391394"
   },
   {
     "id": "4625dda3c3eb",
@@ -15,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-to-meet-with-us-envoys-canadian-fire-kills-7-more",
     "published": "Sun, 18 Oct 2026 16:30:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453210"
+    "fetched_at": "2026-10-18T21:45:46.391398"
   },
   {
     "id": "9b9528c1bb7c",
@@ -24,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/bloomberg-this-weekend-france-protests-pope-leo-podcast",
     "published": "Sun, 18 Oct 2026 15:40:55 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453215"
+    "fetched_at": "2026-10-18T21:45:46.391406"
   },
   {
     "id": "6779d8e84969",
@@ -33,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/fire-rips-through-canada-military-base-causing-casualties",
     "published": "Sun, 18 Oct 2026 02:58:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453220"
+    "fetched_at": "2026-10-18T21:45:46.391410"
   },
   {
     "id": "645aee15924d",
@@ -42,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-american-govt-caused-starlink-slowdown-canada-fire",
     "published": "Sun, 18 Oct 2026 14:56:06 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453224"
+    "fetched_at": "2026-10-18T21:45:46.391415"
   },
   {
     "id": "127599a93161",
@@ -51,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/starlink-still-restricted-in-ukraine-trump-russia-backlash",
     "published": "Sun, 18 Oct 2026 13:53:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453228"
+    "fetched_at": "2026-10-18T21:45:46.391419"
   },
   {
     "id": "221f5e941620",
@@ -60,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-is-sharing-intelligence-again-military-base-fire",
     "published": "Sun, 18 Oct 2026 12:45:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453232"
+    "fetched_at": "2026-10-18T21:45:46.391423"
   },
   {
     "id": "2931b1cbc741",
@@ -69,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/what-s-happening-in-em-latin-america-s-post-vote-test-podcast",
     "published": "Sun, 18 Oct 2026 12:30:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453240"
+    "fetched_at": "2026-10-18T21:45:46.391427"
   },
   {
     "id": "8da5bdd8d15d",
@@ -78,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/rubio-wh-did-nothing-to-slow-starlink-gop-trump-backlash",
     "published": "Sun, 18 Oct 2026 11:50:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453244"
+    "fetched_at": "2026-10-18T21:45:46.391430"
   },
   {
     "id": "1d14cde5a5c5",
@@ -87,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/partners-group-s-gantner-calls-for-swiss-tax-on-firms-eu-hiring",
     "published": "Sun, 18 Oct 2026 11:36:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453249"
+    "fetched_at": "2026-10-18T21:45:46.391434"
   },
   {
     "id": "09f641e12e15",
@@ -96,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/rubio-slams-ukraine-starlink-claims-canadian-military-base-fire",
     "published": "Sun, 18 Oct 2026 10:37:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453253"
+    "fetched_at": "2026-10-18T21:45:46.391438"
   },
   {
     "id": "6bb634c855dc",
@@ -105,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/india-raises-number-of-anti-cancer-drugs-on-price-control-list",
     "published": "Sun, 18 Oct 2026 09:03:17 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453257"
+    "fetched_at": "2026-10-18T21:45:46.391442"
   },
   {
     "id": "b6793a1278d3",
@@ -114,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/gop-allies-call-waiver-a-mistake-ukraine-starlink-restrictions",
     "published": "Sun, 18 Oct 2026 00:38:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453261"
+    "fetched_at": "2026-10-18T21:45:46.391446"
   },
   {
     "id": "4a990edf3446",
@@ -123,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-gop-allies-call-waiver-a-mistake",
     "published": "Sat, 17 Oct 2026 23:19:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453265"
+    "fetched_at": "2026-10-18T21:45:46.391449"
   },
   {
     "id": "f6598615e500",
@@ -132,34 +177,25 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-17/france-braces-for-wider-protests-as-students-join-yellow-vests",
     "published": "Sat, 17 Oct 2026 04:15:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453268"
+    "fetched_at": "2026-10-18T21:45:46.391453"
   },
   {
-    "id": "1c853e5fc40b",
-    "title": "Ukraine Starlink Restrictions,Trump Waives Russia Sanctions,More",
-    "summary": "Source: Bloomberg, 5:20",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-17/ukraine-starlink-restrictions-trump-waives-russia-sanctions-more-mvcy21gk",
-    "published": "Sat, 17 Oct 2026 22:04:17 GMT",
+    "id": "c2ce141c66a3",
+    "title": "For Three Buffetts, a $150 Billion Puzzle Over Warren’s Riches",
+    "summary": "Warren Buffett is worth an estimated $150 billion. He's also promised to divest himself of his vast wealth before he dies. Except it's hard when the pot keeps growing. So his three children are stepping in to spread it around. Alexandre Rajbhandari explains (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-18/for-three-buffetts-a-150-billion-puzzle-over-warren-s-riches",
+    "published": "Sun, 18 Oct 2026 21:00:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453272"
+    "fetched_at": "2026-10-18T21:45:46.606719"
   },
   {
-    "id": "b15647097d8c",
-    "title": "Weekend Law: Trump's Latest Targets & NFL at SCOTUS (Podcast)",
-    "summary": "Source: Bloomberg, 37:33",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-17/weekend-law-trump-s-latest-targets-nfl-at-scotus-podcast",
-    "published": "Sat, 17 Oct 2026 20:33:00 GMT",
+    "id": "bcc6efe5a597",
+    "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
+    "summary": "Since Donald Trump came back into office, copper has surged on a seismic reshuffling of global inventories linked to the risk that he’ll impose tariffs on the metal. But as Trump nears the halfway mark on his second term, the market’s many bulls are growing wary that prices could crash if he doesn’t follow through.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs",
+    "published": "Sun, 18 Oct 2026 20:00:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453276"
-  },
-  {
-    "id": "f63987a6a23d",
-    "title": "Zelenskyy Slams 'Deliberate' Starlink Slowdown, Russia Sanctions",
-    "summary": "Source: Bloomberg, 5:23",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-17/zelenskyy-slams-deliberate-starlink-slowdown-russia-sanctions-mvcupozh",
-    "published": "Sat, 17 Oct 2026 20:30:43 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.453280"
+    "fetched_at": "2026-10-18T21:45:46.606729"
   },
   {
     "id": "d6e9600768a3",
@@ -168,7 +204,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
     "published": "Sun, 18 Oct 2026 19:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881473"
+    "fetched_at": "2026-10-18T21:45:46.606734"
   },
   {
     "id": "7f4ef52f206a",
@@ -177,16 +213,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
     "published": "Sun, 18 Oct 2026 19:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881485"
-  },
-  {
-    "id": "3531e3eaff1d",
-    "title": "Zelenskyy Says Trump Is Pushing Ukraine to Capitulate to Russia",
-    "summary": "Ukrainian President Volodymyr Zelenskyy accused Donald Trump of trying to pressure Kyiv into surrendering to Russia, escalating a week-long row with the US president.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/zelenskyy-says-trump-is-pushing-ukraine-to-capitulate-to-russia",
-    "published": "Sun, 18 Oct 2026 18:21:08 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881490"
+    "fetched_at": "2026-10-18T21:45:46.606738"
   },
   {
     "id": "3ef51265d4ac",
@@ -195,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
     "published": "Sun, 18 Oct 2026 01:45:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881494"
+    "fetched_at": "2026-10-18T21:45:46.606752"
   },
   {
     "id": "2ad0c12957bc",
@@ -204,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video",
     "published": "Sun, 18 Oct 2026 15:17:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881498"
+    "fetched_at": "2026-10-18T21:45:46.606756"
   },
   {
     "id": "83ee748486b7",
@@ -213,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo",
     "published": "Sun, 18 Oct 2026 14:40:23 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881502"
+    "fetched_at": "2026-10-18T21:45:46.606760"
   },
   {
     "id": "ce5dc1f8eb6b",
@@ -222,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
     "published": "Sun, 18 Oct 2026 14:30:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881508"
+    "fetched_at": "2026-10-18T21:45:46.606764"
   },
   {
     "id": "969b12bd9c85",
@@ -231,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
     "published": "Sun, 18 Oct 2026 14:23:31 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881512"
+    "fetched_at": "2026-10-18T21:45:46.606768"
   },
   {
     "id": "1ced7d930474",
@@ -240,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/chicago-tops-travelers-favorite-us-cities-video",
     "published": "Sun, 18 Oct 2026 14:08:37 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881516"
+    "fetched_at": "2026-10-18T21:45:46.606772"
   },
   {
     "id": "b3f998b32308",
@@ -249,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/can-america-rebuild-trust-with-its-allies",
     "published": "Sun, 18 Oct 2026 14:03:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881520"
+    "fetched_at": "2026-10-18T21:45:46.606776"
   },
   {
     "id": "eea9121c6273",
@@ -258,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
     "published": "Sun, 18 Oct 2026 14:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881523"
+    "fetched_at": "2026-10-18T21:45:46.606780"
   },
   {
     "id": "9d13c9cd2e93",
@@ -267,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/rethinking-america-s-faith-in-innovation-video",
     "published": "Sun, 18 Oct 2026 13:57:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881527"
+    "fetched_at": "2026-10-18T21:45:46.606783"
   },
   {
     "id": "279a7838e196",
@@ -276,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/opinion-how-the-office-bust-could-revive-downtowns-video",
     "published": "Sun, 18 Oct 2026 13:01:21 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881531"
+    "fetched_at": "2026-10-18T21:45:46.606788"
   },
   {
     "id": "1fa38920ddba",
@@ -285,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/by-the-way-headlines-you-may-have-missed-video",
     "published": "Sun, 18 Oct 2026 12:33:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881535"
+    "fetched_at": "2026-10-18T21:45:46.606792"
   },
   {
     "id": "91029b44e967",
@@ -294,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/election-rallies-that-swept-latin-america-face-reality-check",
     "published": "Sun, 18 Oct 2026 12:30:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881539"
+    "fetched_at": "2026-10-18T21:45:46.606796"
   },
   {
     "id": "a720ecc358c6",
@@ -303,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/pope-leo-looks-ahead-after-cancer-surgery-video",
     "published": "Sun, 18 Oct 2026 12:13:11 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881543"
+    "fetched_at": "2026-10-18T21:45:46.606800"
   },
   {
     "id": "05068e4b5452",
@@ -312,7 +339,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-18/why-globalization-is-getting-harder-to-navigate-video",
     "published": "Sun, 18 Oct 2026 12:03:35 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881547"
+    "fetched_at": "2026-10-18T21:45:46.606803"
   },
   {
     "id": "927bc21b85a1",
@@ -321,7 +348,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
     "published": "Sun, 18 Oct 2026 05:23:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881551"
+    "fetched_at": "2026-10-18T21:45:46.606807"
   },
   {
     "id": "33b02f53624f",
@@ -330,15 +357,6 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
     "published": "Sun, 18 Oct 2026 06:52:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881555"
-  },
-  {
-    "id": "cdf453ac338b",
-    "title": "China Condemns Japan’s ‘Negative Moves’ Over Yasukuni Shrine",
-    "summary": "China strongly condemned what it called Japan’s “negative moves” concerning the Yasukuni Shrine, saying the actions were a provocation against the postwar international order, according to a Saturday statement from the Chinese Embassy in Japan.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/china-condemns-japan-s-negative-moves-over-yasukuni-shrine",
-    "published": "Sun, 18 Oct 2026 05:11:17 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-18T19:27:10.881558"
+    "fetched_at": "2026-10-18T21:45:46.606811"
   }
 ]
