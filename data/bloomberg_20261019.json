@@ -1,12 +1,93 @@
 [
   {
+    "id": "0b952f8a8655",
+    "title": "Zelenskyy: Trump Pushing Ukraine to Yield, France Protests, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-trump-pushing-ukraine-to-yield-france-protests-more",
+    "published": "Mon, 19 Oct 2026 03:25:41 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579443"
+  },
+  {
+    "id": "17c57d5ad2af",
+    "title": "Zelenskyy-Trump Back and Forth, Macron Addresses France Unrest",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-trump-back-and-forth-macron-addresses-france-unrest",
+    "published": "Mon, 19 Oct 2026 02:55:40 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579455"
+  },
+  {
     "id": "31ad56b6d890",
-    "title": "Nextdc Flags Earnings Risk on Melbourne Data Center Power Delay",
-    "summary": "Nextdc Ltd. requested an immediate trading halt as it assesses the financial impact of delayed power supply at a Melbourne data center, including possible implications for its fiscal 2027 guidance.",
+    "title": "Australian Data Center Power Delay Exposes AI Bottleneck",
+    "summary": "The developer of what’s set to be one of Australia’s biggest data centers has been hit by power supply problems, highlighting how access to electricity could become a bottleneck for the country’s rollout of artificial intelligence infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/nextdc-flags-earnings-risk-on-melbourne-data-center-power-delay",
     "published": "Sun, 18 Oct 2026 23:31:13 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764262"
+    "fetched_at": "2026-10-19T04:45:02.579458"
+  },
+  {
+    "id": "cf57d4d920ba",
+    "title": "China Home Price Slump Eases, Fueling Hopes for Recovery",
+    "summary": "China’s home prices fell at a slower pace in September, spurring hopes that the battered real estate market is turning a corner as the latest stimulus takes effect.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-home-price-slump-eases-fueling-hopes-for-market-recovery",
+    "published": "Mon, 19 Oct 2026 01:36:05 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579462"
+  },
+  {
+    "id": "4133d9fb359e",
+    "title": "Bloomberg Daybreak Asia: Earnings to Test AI Trade (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/bloomberg-daybreak-asia-earnings-to-test-ai-trade-podcast",
+    "published": "Mon, 19 Oct 2026 01:50:24 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579465"
+  },
+  {
+    "id": "10957b2db56d",
+    "title": "WSJ: Putin Floats Ukraine Summit with US-China, France Protests",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/wsj-putin-floats-ukraine-summit-with-us-china-france-protests",
+    "published": "Mon, 19 Oct 2026 01:42:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579468"
+  },
+  {
+    "id": "915939660fac",
+    "title": "Trump-Zelenskyy Tensions, France Protests Fallout, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/trump-zelenskyy-tensions-france-protests-fallout-more",
+    "published": "Mon, 19 Oct 2026 00:57:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579471"
+  },
+  {
+    "id": "fff57483c0d4",
+    "title": "Starboard Sees Value In Apple Chip Supplier Skyworks",
+    "summary": "Starboard Value, which just acquired a stake in Skyworks Solutions Inc. via its takeover of Qorvo Inc., sees big upside should it execute on the goals of its merger with the rival wireless chipmaker, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/starboard-sees-value-in-apple-chip-supplier-skyworks",
+    "published": "Mon, 19 Oct 2026 00:56:28 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579477"
+  },
+  {
+    "id": "1bc39f394ad4",
+    "title": "Nidec Legal Reckoning Reaches Founder, Shares Drop to Decade Low",
+    "summary": "Nidec Corp. shares fell to their lowest in a decade after an outside committee concluded that founder Shigenobu Nagamori and other current or former executives bear civil liability for damages linked to years of improper accounting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/nidec-legal-reckoning-reaches-founder-shares-drop-to-decade-low",
+    "published": "Mon, 19 Oct 2026 00:26:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579480"
+  },
+  {
+    "id": "aa8f0fadb0ed",
+    "title": "Zelenskyy Says Trump Pushing Ukraine to Yield, France Unrest",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-19/zelenskyy-says-trump-pushing-ukraine-to-yield-france-unrest",
+    "published": "Mon, 19 Oct 2026 00:02:38 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.579484"
   },
   {
     "id": "2fd3b9ac8bbf",
@@ -15,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/australian-coal-miner-new-hope-buys-malabar-for-its-maxwell-mine",
     "published": "Sun, 18 Oct 2026 22:54:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764275"
+    "fetched_at": "2026-10-19T04:45:02.579487"
   },
   {
     "id": "1696e42844a5",
@@ -24,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/france-unrest-zelenskyy-trump-pushing-ukraine-to-yield-more",
     "published": "Sun, 18 Oct 2026 22:45:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764280"
+    "fetched_at": "2026-10-19T04:45:02.579490"
   },
   {
     "id": "6d7e7bf64d41",
@@ -33,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-trump-zelenskyy-back-and-forth-more",
     "published": "Sun, 18 Oct 2026 21:59:16 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764284"
+    "fetched_at": "2026-10-19T04:45:02.579493"
   },
   {
     "id": "7aee3ee053e0",
@@ -42,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-18/sydney-s-new-airport-australia-briefing",
     "published": "Sun, 18 Oct 2026 21:47:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764289"
+    "fetched_at": "2026-10-19T04:45:02.579496"
   },
   {
     "id": "079223a9b5a2",
@@ -51,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-18/zelenskyy-says-trump-forcing-capitulation-to-russia",
     "published": "Sun, 18 Oct 2026 21:36:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764293"
+    "fetched_at": "2026-10-19T04:45:02.579499"
   },
   {
     "id": "8cda7ca311a4",
@@ -60,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-protests-zelenskyy-trump-pressuring-ukraine",
     "published": "Sun, 18 Oct 2026 20:41:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764297"
+    "fetched_at": "2026-10-19T04:45:02.579502"
   },
   {
     "id": "1157945c6f36",
@@ -69,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/macron-on-france-unrest-zelenskyy-trump-pushing-capitulation",
     "published": "Sun, 18 Oct 2026 20:11:18 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764304"
+    "fetched_at": "2026-10-19T04:45:02.579505"
   },
   {
     "id": "ce6e632143b7",
@@ -78,7 +159,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-10-18/ai-s-risks-and-rewards-arm-snps",
     "published": "Sun, 18 Oct 2026 20:00:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764309"
+    "fetched_at": "2026-10-19T04:45:02.579510"
   },
   {
     "id": "1f00a6dc4341",
@@ -87,7 +168,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-envoys-discuss-peace-talks-trump-russia-backlash",
     "published": "Sun, 18 Oct 2026 18:11:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764313"
+    "fetched_at": "2026-10-19T04:45:02.579513"
   },
   {
     "id": "4625dda3c3eb",
@@ -96,196 +177,34 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-to-meet-with-us-envoys-canadian-fire-kills-7-more",
     "published": "Sun, 18 Oct 2026 16:30:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764318"
+    "fetched_at": "2026-10-19T04:45:02.579516"
   },
   {
-    "id": "9b9528c1bb7c",
-    "title": "Bloomberg This Weekend: France Protests, Pope Leo (Podcast)",
-    "summary": "Source: Bloomberg, 39:47",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/bloomberg-this-weekend-france-protests-pope-leo-podcast",
-    "published": "Sun, 18 Oct 2026 15:40:55 GMT",
+    "id": "ec944449167a",
+    "title": "MAIA: Indonesia Stocks Sell Off Again. Here's What May Cushion the Market.",
+    "summary": "Indonesian markets extended their selloff, with losses in bonds and the rupiah, after MSCI warned of a potential downgrade. Bloomberg's Anthony Stephens talks about the potential buffers against foreign selling. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/indonesia-selloff-deepens-what-can-cushion-the-market-video",
+    "published": "Mon, 19 Oct 2026 04:43:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764322"
+    "fetched_at": "2026-10-19T04:45:02.837252"
   },
   {
-    "id": "6779d8e84969",
-    "title": "Canadian Military Base Fire Kills Seven People, CBC Says",
-    "summary": "Seven people were killed when a fire tore through a military base in Alberta, the Canadian Broadcasting Corp. said, in an incident that authorities said showed no signs of terrorism and appeared to have originated inside a training area.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/fire-rips-through-canada-military-base-causing-casualties",
-    "published": "Sun, 18 Oct 2026 02:58:21 GMT",
+    "id": "d1bc321c2674",
+    "title": "French Violence Raises Alert as Protests Flare Across Europe",
+    "summary": "The violence that rocked France this weekend as cost-of-living protests degenerated into looting and burning nationwide is raising alert levels across Europe, where elections will be held in at least half a dozen countries next year.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/french-violence-raises-alert-as-protests-flare-across-europe",
+    "published": "Mon, 19 Oct 2026 04:15:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764326"
+    "fetched_at": "2026-10-19T04:45:02.837259"
   },
   {
-    "id": "645aee15924d",
-    "title": "Zelenskyy: 'American Govt' Caused Starlink Slowdown, Canada Fire",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-american-govt-caused-starlink-slowdown-canada-fire",
-    "published": "Sun, 18 Oct 2026 14:56:06 GMT",
+    "id": "43232be92d97",
+    "title": "PIIE’s Lovely on China-US Trade",
+    "summary": "Mary Lovely, Senior Fellow at PIIE, says China’s dominance in rare earth production gives Beijing significant leverage in trade issues with the US. She speaks with Stephen Engle on the sidelines of the Bund Summit in Shanghai. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/piie-s-lovely-on-china-us-trade-video",
+    "published": "Mon, 19 Oct 2026 04:14:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764330"
-  },
-  {
-    "id": "127599a93161",
-    "title": "Starlink Still Restricted in Ukraine, Trump-Russia Backlash",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/starlink-still-restricted-in-ukraine-trump-russia-backlash",
-    "published": "Sun, 18 Oct 2026 13:53:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764333"
-  },
-  {
-    "id": "221f5e941620",
-    "title": "Zelenskyy: US is Sharing Intelligence Again, Military Base Fire",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/zelenskyy-us-is-sharing-intelligence-again-military-base-fire",
-    "published": "Sun, 18 Oct 2026 12:45:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764337"
-  },
-  {
-    "id": "2931b1cbc741",
-    "title": "What’s Happening in EM: Latin America’s Post-Vote Test (Podcast)",
-    "summary": "Carolina Wilson speaks to Eric Fine, who manages emerging-market debt at VanEck, about whether Latin America’s rally has more room to run as the region shifts to the right — and the risks that could derail investor bets on political change.",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/what-s-happening-in-em-latin-america-s-post-vote-test-podcast",
-    "published": "Sun, 18 Oct 2026 12:30:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764341"
-  },
-  {
-    "id": "8da5bdd8d15d",
-    "title": "Rubio: WH Did 'Nothing' to Slow Starlink, GOP Trump Backlash",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/rubio-wh-did-nothing-to-slow-starlink-gop-trump-backlash",
-    "published": "Sun, 18 Oct 2026 11:50:29 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764345"
-  },
-  {
-    "id": "1d14cde5a5c5",
-    "title": "Partners Group’s Gantner Calls for Swiss Tax on Firms EU Hiring",
-    "summary": "Partners Group Holding AG co-founder Alfred Gantner is calling for Swiss companies that hire foreign workers to be taxed and for the resulting revenues to be distributed among the population as way to reform the country’s immigration system.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/partners-group-s-gantner-calls-for-swiss-tax-on-firms-eu-hiring",
-    "published": "Sun, 18 Oct 2026 11:36:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764349"
-  },
-  {
-    "id": "09f641e12e15",
-    "title": "Rubio Slams Ukraine Starlink Claims, Canadian Military Base Fire",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-18/rubio-slams-ukraine-starlink-claims-canadian-military-base-fire",
-    "published": "Sun, 18 Oct 2026 10:37:36 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:48.764353"
-  },
-  {
-    "id": "bcc244b4b3db",
-    "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
-    "summary": "Gold opened the week higher as traders pared bets on the Federal Reserve raising interest rates this month after remarks by Chair Kevin Warsh.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
-    "published": "Sun, 18 Oct 2026 23:47:43 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033340"
-  },
-  {
-    "id": "6c6b96f32cf9",
-    "title": "Latest Oil Market News and Analysis for Oct. 19",
-    "summary": "Oil retreated from a five-month high, as traders weighed flareups in fighting in the Middle East against signs supply from the region is holding at near pre-war levels.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
-    "published": "Sun, 18 Oct 2026 22:02:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033356"
-  },
-  {
-    "id": "2a7399ce11d3",
-    "title": "Putin Proposes Summit with US, China on Ukraine, WSJ Reports",
-    "summary": "Russia’s Vladimir Putin proposed a meeting with President Donald Trump and China’s Xi Jinping next month to discuss ending the war in Ukraine, the Wall Street Journal reported Sunday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/putin-proposes-summit-with-us-china-on-ukraine-wsj-reports",
-    "published": "Sun, 18 Oct 2026 23:28:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033364"
-  },
-  {
-    "id": "49fa4419dc83",
-    "title": "US Stock Futures Bounce After Chip Rout, Oil Slips: Markets Wrap",
-    "summary": "US equity-index futures rebounded from last week’s chip rout as investors turned to earnings for direction amid mounting pressure on the artificial intelligence trade. Oil slipped.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
-    "published": "Sun, 18 Oct 2026 22:07:25 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033371"
-  },
-  {
-    "id": "edc8d865b805",
-    "title": "Euro Falls as Russia Risk, France Protests Dent Trader Sentiment",
-    "summary": "The euro fell against most of its Group-of-10 peers as escalating tensions in Ukraine and widespread protests in France dented sentiment toward the common currency.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/euro-falls-as-russia-risk-france-protests-dent-trader-sentiment",
-    "published": "Sun, 18 Oct 2026 23:17:52 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033380"
-  },
-  {
-    "id": "ccdf3f51683c",
-    "title": "EQT Agrees to Buy Australia’s Cleanaway Waste for $6.5 Billion",
-    "summary": "EQT AB has agreed to buy Australia’s Cleanaway Waste Management Ltd. through a unit, in a deal that values the firm at about A$9.3 billion ($6.5 billion) and makes it the latest local company to enter private hands after a period of share underperformance.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/eqt-agrees-to-buy-australia-s-cleanaway-waste-for-6-5-billion",
-    "published": "Sun, 18 Oct 2026 22:47:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033388"
-  },
-  {
-    "id": "7c26758f12cc",
-    "title": "Daiichi Life Offers $4.4 Billion to Buy Rest of Challenger",
-    "summary": "Daiichi Life Group Inc. offered to buy the remainder of Challenger Ltd. that it doesn’t already own, in a takeover bid that valued the Australian firm at around A$7.9 billion ($5.5 billion).",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/daiichi-life-offers-to-buy-remainder-of-australia-s-challenger",
-    "published": "Sun, 18 Oct 2026 21:14:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033392"
-  },
-  {
-    "id": "c2ce141c66a3",
-    "title": "For Three Buffetts, a $150 Billion Puzzle Over Warren’s Riches",
-    "summary": "Warren Buffett is worth an estimated $150 billion. He's also promised to divest himself of his vast wealth before he dies. Except it's hard when the pot keeps growing. So his three children are stepping in to spread it around. Alexandre Rajbhandari explains (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-18/for-three-buffetts-a-150-billion-puzzle-over-warren-s-riches",
-    "published": "Sun, 18 Oct 2026 21:00:50 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033396"
-  },
-  {
-    "id": "a28ba0d80a76",
-    "title": "Kioxia Shares Face Headwinds From Margin-Buying Gone Wrong",
-    "summary": "Kioxia Holdings Corp. shares face further downward pressure because of a buildup of positions from investors who borrowed to buy the stock on the assumption it would rise, and now may need to sell at a loss.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/kioxia-shares-face-headwinds-from-margin-buying-gone-wrong",
-    "published": "Sun, 18 Oct 2026 21:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033403"
-  },
-  {
-    "id": "bcc6efe5a597",
-    "title": "Traders Grow Wary of Copper Bull Market With No Sign of Tariffs",
-    "summary": "Since Donald Trump came back into office, copper has surged on a seismic reshuffling of global inventories linked to the risk that he’ll impose tariffs on the metal. But as Trump nears the halfway mark on his second term, the market’s many bulls are growing wary that prices could crash if he doesn’t follow through.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/traders-grow-wary-of-copper-bull-market-with-no-sign-of-tariffs",
-    "published": "Sun, 18 Oct 2026 20:00:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033407"
-  },
-  {
-    "id": "d6e9600768a3",
-    "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
-    "summary": "US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slump to deepen.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
-    "published": "Sun, 18 Oct 2026 19:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033416"
-  },
-  {
-    "id": "7f4ef52f206a",
-    "title": "CPI Test Set to Make or Break New Zealand Dollar’s Losing Run",
-    "summary": "The New Zealand dollar has fallen for five straight quarters and if analysts are right, it may be on course to test a pandemic-era low.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/cpi-test-set-to-make-or-break-new-zealand-dollar-s-losing-run",
-    "published": "Sun, 18 Oct 2026 19:00:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033423"
+    "fetched_at": "2026-10-19T04:45:02.837263"
   },
   {
     "id": "3ef51265d4ac",
@@ -294,69 +213,150 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-18/two-india-cockroach-leaders-set-to-be-freed-as-protests-spread",
     "published": "Sun, 18 Oct 2026 01:45:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033432"
+    "fetched_at": "2026-10-19T04:45:02.837266"
   },
   {
-    "id": "2ad0c12957bc",
-    "title": "Bookmarked: News Stories On Our Reading List",
-    "summary": "Luxury travel, owls in NYC, and science competition instead of beauty pageants: Join hosts David Gura, Christina Ruffini and Lisa Mateo on Bloomberg This Weekend for Bookmarked, where they share stories that caught their attention over the past week. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-18/bookmarked-news-stories-on-our-reading-list-video",
-    "published": "Sun, 18 Oct 2026 15:17:20 GMT",
+    "id": "8bb024ad5329",
+    "title": "China's Growth Rebounds While Home-Price Slump Eases",
+    "summary": "China’s growth accelerated more than expected in the third quarter while home prices fell at a slower pace in September. Maybank Macro Research Director Erica Tay discusses what it may mean for stimulus expectations. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/china-s-growth-rebounds-while-home-price-slump-eases-video",
+    "published": "Mon, 19 Oct 2026 04:02:32 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033441"
+    "fetched_at": "2026-10-19T04:45:02.837269"
   },
   {
-    "id": "83ee748486b7",
-    "title": "Banque du Caire Seeks to Raise Up to $454 Million in Egypt IPO",
-    "summary": "Banque du Caire is looking to raise as much as 24.25 billion Egyptian pounds ($454 million) via the sale of a 30% stake, in what would be the North African country’s largest initial public offering in years.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/banque-du-caire-seeks-to-raise-up-to-454-million-in-egypt-ipo",
-    "published": "Sun, 18 Oct 2026 14:40:23 GMT",
+    "id": "15b696ba552c",
+    "title": "The UK Shows How AI Could Affect Jobs",
+    "summary": "The UK is at the sharp end of transformations in the age of AI because finance, one of the industries most exposed to disruption, is also one of the UK’s biggest employers and most important exports. Bloomberg Opinion columnist Paul J. Davies explains why other nations should watch closely.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-19/opinion-the-uk-shows-how-ai-could-affect-jobs-video",
+    "published": "Mon, 19 Oct 2026 04:01:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033447"
+    "fetched_at": "2026-10-19T04:45:02.837272"
   },
   {
-    "id": "ce5dc1f8eb6b",
-    "title": "Trump’s Latin America Allies Deepen Ties With Washington Lenders",
-    "summary": "Latin America’s rightward, market-friendly shift is reshaping its relationship with Donald Trump’s Washington, including new flows of money from the multilateral lenders historically villainized in the region for pushing fiscal austerity.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
-    "published": "Sun, 18 Oct 2026 14:30:00 GMT",
+    "id": "80e4c4335671",
+    "title": "Asian Chip Stocks Extend Losses on Funding Worry, DeepSeek Model",
+    "summary": "Asian semiconductor stocks tumbled again Monday, as DeepSeek’s latest model sparked concerns over demand for chips, compounding market fears over AI financing.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/korean-stocks-fall-as-deepseek-model-funding-worry-rattle-chips",
+    "published": "Mon, 19 Oct 2026 00:17:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033451"
+    "fetched_at": "2026-10-19T04:45:02.837275"
   },
   {
-    "id": "969b12bd9c85",
-    "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
-    "summary": "Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump’s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, while warning that questions over Ukraine’s access to US military technology could undermine allies’ confidence in American defense products. Speaking with hosts David Gura and Christina Ruffini, Veasey also says Tarrant County will be crucial to Democrats’ chances in Texas, arguing that strong performance there could help Senate candidate James Talarico win statewide. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
-    "published": "Sun, 18 Oct 2026 14:23:31 GMT",
+    "id": "d39b4f0647e7",
+    "title": "Indonesia’s Selloff Deepens Across Stocks, Bonds on MSCI Risk",
+    "summary": "Indonesian markets extended their selloff, with stocks deepening their worst rout in almost 30 years and losses spreading to bonds and the rupiah after MSCI Inc. warned the country may face a two-step downgrade.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesian-stocks-tumble-to-lowest-since-2020-after-msci-warning",
+    "published": "Mon, 19 Oct 2026 02:07:39 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033455"
+    "fetched_at": "2026-10-19T04:45:02.837278"
   },
   {
-    "id": "1ced7d930474",
-    "title": "Chicago Tops Travelers’ Favorite US Cities",
-    "summary": "Condé Nast Traveler senior features editor Megan Spurrell tells Bloomberg This Weekend what nearly 800,000 reader votes reveal about travelers’ favorite cities, including Chicago’s enduring appeal and the rise of destinations such as Phnom Penh. Speaking with hosts David Gura and Christina Ruffini, Spurrell says affordability, food, hospitality and evolving local cultures are helping both familiar destinations and less-traveled cities win devoted fans. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-18/chicago-tops-travelers-favorite-us-cities-video",
-    "published": "Sun, 18 Oct 2026 14:08:37 GMT",
+    "id": "49fa4419dc83",
+    "title": "Nasdaq Futures Rebound From Tech Selloff, Oil Dips: Markets Wrap",
+    "summary": "US equity-index futures rebounded from last week’s chip rout, offering some respite ahead of key earnings that may set the market’s direction amid mounting pressure on the artificial intelligence trade. Oil fell.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/stock-market-today-dow-s-p-live-updates",
+    "published": "Sun, 18 Oct 2026 22:07:25 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033458"
+    "fetched_at": "2026-10-19T04:45:02.837281"
   },
   {
-    "id": "b3f998b32308",
-    "title": "Can America Rebuild Trust With Its Allies?",
-    "summary": "Former Canadian deputy prime minister and “Wall Street Week” contributor Chrystia Freeland and former US Treasury secretary Janet Yellen say that globalization became dangerously dependent on countries willing to weaponize trade and supply chains. Freeland recounts her shared sentiment with Yellen in her new book, “Unreliable Boyfriend.” \n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-18/can-america-rebuild-trust-with-its-allies",
-    "published": "Sun, 18 Oct 2026 14:03:47 GMT",
+    "id": "d1bbdfe731dd",
+    "title": "Vietnam Plans Index Options for Next Year After FTSE Upgrade",
+    "summary": "Vietnam aims to introduce stock index options in the first quarter of next year as the country seeks to deepen its capital markets and attract more overseas investors following an upgrade to its equity market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/vietnam-plans-index-options-for-next-year-after-ftse-upgrade",
+    "published": "Mon, 19 Oct 2026 03:25:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033462"
+    "fetched_at": "2026-10-19T04:45:02.837284"
   },
   {
-    "id": "eea9121c6273",
-    "title": "Option Traders Brace for VIX Surge as AI Jitters Jolt Market",
-    "summary": "Accelerating US inflation and tremors across the AI sector jolted stocks in recent days, and some investors are now betting that bigger swings in tech shares will finally spread to the broader market.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-18/option-traders-brace-for-vix-surge-as-ai-jitters-jolt-market",
-    "published": "Sun, 18 Oct 2026 14:00:00 GMT",
+    "id": "d6e9600768a3",
+    "title": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+    "summary": "US Treasuries are showing tentative signs of reclaiming their traditional role as a haven — threatening to wrong-foot investors who are heavily positioned for this year’s bond slump to deepen.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/bond-market-s-big-short-bet-gets-wakeup-call-as-ai-trade-wobbles",
+    "published": "Sun, 18 Oct 2026 19:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-19T00:01:49.033466"
+    "fetched_at": "2026-10-19T04:45:02.837287"
+  },
+  {
+    "id": "39c0f0f82ebe",
+    "title": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
+    "summary": "Indonesian officials plan to meet with MSCI Inc. executives on Monday, according to people familiar with the matter, after saying they were blindsided by the index provider’s threat to reclassify the country as a standalone market — a much more severe step than they thought was under discussion during months of talks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat",
+    "published": "Mon, 19 Oct 2026 03:17:53 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837292"
+  },
+  {
+    "id": "ae2f1b4217b1",
+    "title": "China State Funds Active as Stocks Post Record Weekly Losing Run",
+    "summary": "Signs are emerging that a record 10-week losing streak for China’s benchmark stock index has prompted state-backed funds to step up their presence in the market.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-state-funds-active-as-stocks-post-record-weekly-losing-run",
+    "published": "Mon, 19 Oct 2026 03:10:33 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837295"
+  },
+  {
+    "id": "2a1e2aae6b95",
+    "title": "China’s Coal Output Drops as Fears Build Over Winter Supply",
+    "summary": "Chinese coal production fell again last month, as concerns over supply mount ahead of the winter heating season when consumption typically peaks.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/china-s-coal-output-drops-as-concerns-build-over-winter-supply",
+    "published": "Mon, 19 Oct 2026 02:28:38 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837298"
+  },
+  {
+    "id": "6c6b96f32cf9",
+    "title": "Latest Oil Market News and Analysis for Oct. 19",
+    "summary": "Oil slid from a five-month high, as traders weighed signs supply from the Middle East is holding near pre-war levels against flareups in fighting.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/latest-oil-market-news-and-analysis-for-oct-19",
+    "published": "Sun, 18 Oct 2026 22:02:51 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837301"
+  },
+  {
+    "id": "bcc244b4b3db",
+    "title": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+    "summary": "Gold edged higher as traders pared bets on the Federal Reserve raising interest rates this month after remarks by Chair Kevin Warsh.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-18/gold-edges-higher-as-traders-ease-rate-hike-bets-on-warsh-speech",
+    "published": "Sun, 18 Oct 2026 23:47:43 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837304"
+  },
+  {
+    "id": "bdcf292eb745",
+    "title": "Nifty Bank Heavyweights HDFC, ICICI in Focus After Weekend Earnings",
+    "summary": "HDFC Bank, ICICI Bank and Axis Bank report a mixed set of numbers.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-19/nifty-bank-heavyweights-hdfc-icici-in-focus-after-weekend-earnings",
+    "published": "Mon, 19 Oct 2026 02:37:35 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837307"
+  },
+  {
+    "id": "1b28e8ffe6f2",
+    "title": "Japan PM Takaichi Denies She’s Driving Weak Yen, High Rates",
+    "summary": "Japanese Prime Minister Sanae Takaichi strongly denied the notion that she’s responsible for a weak yen and high interest rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/japan-pm-takaichi-denies-she-s-driving-weak-yen-high-rates",
+    "published": "Mon, 19 Oct 2026 02:15:30 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837310"
+  },
+  {
+    "id": "3037c7b65bab",
+    "title": "Japan Seeks to Quell Fiscal Fears With Outreach in English",
+    "summary": "Japanese Prime Minister Sanae Takaichi’s administration is seeking to assuage persistent market reservations about her management of fiscal policy by providing foreign investors with more information in English.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/japan-seeks-to-quell-fiscal-fears-with-outreach-in-english",
+    "published": "Mon, 19 Oct 2026 02:10:47 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837313"
+  },
+  {
+    "id": "e854c40fe7fa",
+    "title": "RBA’s Kent Says Labor Market Loosening Faster than Predicted",
+    "summary": "Australia’s labor market is showing signs it is softening faster than the central bank expected, Reserve Bank Assistant Governor Christopher Kent said, underscoring the tradeoff policymakers face as they seek to slow inflation while preserving gains in employment.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-19/rba-s-kent-says-labor-market-loosening-faster-than-predicted",
+    "published": "Mon, 19 Oct 2026 01:52:30 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-19T04:45:02.837316"
   }
 ]
