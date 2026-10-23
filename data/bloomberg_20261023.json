@@ -1,282 +1,183 @@
 [
   {
+    "id": "9f3d4936715e",
+    "title": "Stock Movers: Tower Owners, Cell Carriers, JetBlue (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-tower-owners-cell-carriers-jetblue-podcast",
+    "published": "Fri, 23 Oct 2026 21:56:45 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922270"
+  },
+  {
+    "id": "7f0d772efdc2",
+    "title": "Bloomberg Talks: Tarek Mansour (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-talks-tarek-mansour-podcast",
+    "published": "Fri, 23 Oct 2026 21:53:38 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922284"
+  },
+  {
+    "id": "072ed177c7e2",
+    "title": "Bloomberg Talks: Ann Miletti (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-talks-ann-miletti-podcast",
+    "published": "Fri, 23 Oct 2026 21:44:54 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922291"
+  },
+  {
+    "id": "c003abf58df0",
+    "title": "BC Election: NDP Premier Eby Risks Historic Misfire as Conservatives Lead Polls",
+    "summary": "Plus: China’s Chery eyes building cars in Canada",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/bc-election-ndp-premier-eby-risks-historic-misfire-as-conservatives-lead-polls",
+    "published": "Fri, 23 Oct 2026 21:34:43 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922297"
+  },
+  {
+    "id": "5dd0ba3513b1",
+    "title": "Bloomberg Talks: Michael Selig (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-talks-michael-selig-podcast",
+    "published": "Fri, 23 Oct 2026 21:23:58 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922302"
+  },
+  {
+    "id": "c4849f3f8713",
+    "title": "Everybody's Business: Let Them Eat Steak (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/everybody-s-business-let-them-eat-steak-podcast",
+    "published": "Fri, 23 Oct 2026 21:15:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922308"
+  },
+  {
+    "id": "6eff8132d4b8",
+    "title": "Trump Ordered Alaska Lawsuit, Exempted Some Canadian Tariffs",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/trump-ordered-alaska-lawsuit-exempted-some-canadian-tariffs",
+    "published": "Fri, 23 Oct 2026 21:00:26 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922313"
+  },
+  {
+    "id": "d333ce0808ef",
+    "title": "Bloomberg Wall Street Week: October 23rd, 2026 (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-wall-street-week-october-23rd-2026-podcast",
+    "published": "Fri, 23 Oct 2026 20:59:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922322"
+  },
+  {
+    "id": "857f1cf817d1",
+    "title": "Masters in Business: Robin Wigglesworth  (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/masters-in-business-robin-wigglesworth-podcast",
+    "published": "Fri, 23 Oct 2026 20:32:53 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922328"
+  },
+  {
+    "id": "0207c00f970b",
+    "title": "Stocks Close Lower, Oil Jumps, Trump Sues Alaska over Election",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/stocks-close-lower-oil-jumps-trump-sues-alaska-over-election",
+    "published": "Fri, 23 Oct 2026 20:10:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922334"
+  },
+  {
+    "id": "db34e45ee7d1",
+    "title": "Bloomberg Money: October 23rd, 2026 (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-money-october-23rd-2026-podcast",
+    "published": "Fri, 23 Oct 2026 20:07:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922339"
+  },
+  {
+    "id": "f8a25a30d5da",
+    "title": "Bloomberg Tech: OpenAI En Route To $1.25T Value (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-tech-openai-en-route-to-1-25t-value-podcast",
+    "published": "Fri, 23 Oct 2026 19:32:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922345"
+  },
+  {
+    "id": "c90a8584a02e",
+    "title": "Stock Movers: Bloom Energy, GM, Palo Alto (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-bloom-energy-gm-palo-alto-podcast",
+    "published": "Fri, 23 Oct 2026 19:26:14 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922350"
+  },
+  {
+    "id": "47ec50bef332",
+    "title": "Week Ahead: Alphabet, Microsoft, Amazon (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/week-ahead-alphabet-microsoft-amazon-podcast",
+    "published": "Fri, 23 Oct 2026 19:24:26 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922355"
+  },
+  {
+    "id": "4cfee8288388",
+    "title": "Bloomberg Daybreak Weekend: US Tech Preview (Podcast)",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-daybreak-weekend-us-tech-preview-podcast",
+    "published": "Fri, 23 Oct 2026 19:16:12 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922360"
+  },
+  {
+    "id": "a80031390af9",
+    "title": "Trump Orders Alaska Lawsuit, May Pull Back Some Canadian Tariffs",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/trump-orders-alaska-lawsuit-may-pull-back-some-canadian-tariffs",
+    "published": "Fri, 23 Oct 2026 19:15:35 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922365"
+  },
+  {
+    "id": "87521017fc08",
+    "title": "Balance of Power: Big Names Stir Michigan Senate Race (Podcast)",
+    "summary": "Source: Bloomberg, 41:30",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/balance-of-power-big-names-stir-michigan-senate-race-podcast",
+    "published": "Fri, 23 Oct 2026 19:12:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922370"
+  },
+  {
+    "id": "6e031d26898c",
+    "title": "Bloomberg Business of Sports: Nicolas Garcia Hemme (Podcast)",
+    "summary": "Source: Bloomberg, 38:12",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-business-of-sports-nicolas-garcia-hemme-podcast",
+    "published": "Fri, 23 Oct 2026 19:08:20 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922375"
+  },
+  {
+    "id": "16ae56c4cf98",
+    "title": "Trump Pushed DOJ Suit Over Alaska Senate Result If GOP Loses",
+    "summary": "The Trump administration is suing to preemptively stop Alaska election officials from certifying the results of next month’s US Senate contest if the Republican candidate loses by a close margin, claiming there’s a risk of “voter confusion” because two individuals with similar names will be on the ballot.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/doj-sues-to-block-alaska-senate-race-certification-if-gop-loses",
+    "published": "Fri, 23 Oct 2026 15:36:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:06.922381"
+  },
+  {
     "id": "e436782588f5",
     "title": "Big Take: What’s at Stake in the Israeli Election (Podcast)",
     "summary": "Source: Bloomberg, 14:47",
     "link": "https://www.bloomberg.com/news/audio/2026-10-23/big-take-what-s-at-stake-in-the-israeli-election-podcast",
     "published": "Fri, 23 Oct 2026 18:57:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818606"
-  },
-  {
-    "id": "25ac789fc3c8",
-    "title": "DOJ Sues Alaska Over Vote, US May Halt Remove Canada Tariffs",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/doj-sues-alaska-over-vote-us-may-halt-remove-canada-tariffs-mvlapirp",
-    "published": "Fri, 23 Oct 2026 18:20:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818619"
-  },
-  {
-    "id": "d0d690252eaa",
-    "title": "DOJ Sues Alaska Over Vote, US May Halt Remove Canada Tariffs",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/doj-sues-alaska-over-vote-us-may-halt-remove-canada-tariffs",
-    "published": "Fri, 23 Oct 2026 18:20:18 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818623"
-  },
-  {
-    "id": "a522f7b0d475",
-    "title": "‘Zombie’ Loan Investors Settle NY Charges of Alleged Unlawful Collections",
-    "summary": "<p>Attorney general investigation found debt buyers acquired more than 3,000 old loans since 2019 and sought to collect back payments despite too much time elapsing</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/-zombie-loan-investors-settle-ny-charges-of-alleged-unlawful-collections",
-    "published": "Fri, 23 Oct 2026 18:09:16 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818627"
-  },
-  {
-    "id": "f31f44989193",
-    "title": "Ukraine: Starlink Access Limited, DOJ Sues Over Alaska Election",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/ukraine-starlink-access-limited-doj-sues-over-alaska-election",
-    "published": "Fri, 23 Oct 2026 17:10:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818630"
-  },
-  {
-    "id": "16ae56c4cf98",
-    "title": "DOJ Sues to Stop Alaska Senate Race Outcome If GOP Loses",
-    "summary": "The Trump administration is suing to preemptively stop Alaska election officials from certifying the results of next month’s US Senate contest if the Republican candidate loses, claiming there’s a risk of “voter confusion” because two individuals with similar names will be on the ballot.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/doj-sues-to-block-alaska-senate-race-certification-if-gop-loses",
-    "published": "Fri, 23 Oct 2026 15:36:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818633"
-  },
-  {
-    "id": "69c335f43a4b",
-    "title": "Bloomberg Intelligence: Apple’s $2,000 iPhone Debuts (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-intelligence-apple-s-2-000-iphone-debuts-podcast",
-    "published": "Fri, 23 Oct 2026 16:51:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818636"
-  },
-  {
-    "id": "d5a350af8701",
-    "title": "Bloomberg Surveillance TV: October 23rd, 2026 (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-surveillance-tv-october-23rd-2026-podcast",
-    "published": "Fri, 23 Oct 2026 16:48:38 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818642"
-  },
-  {
-    "id": "fc481e9ed3ec",
-    "title": "Ukraine, Russia POW Swap, DOJ Sues Alaska to Block Certification",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/ukraine-russia-pow-swap-doj-sues-alaska-to-block-certification",
-    "published": "Fri, 23 Oct 2026 16:23:42 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818645"
-  },
-  {
-    "id": "f7302ef2ee8e",
-    "title": "UK Economy Storms Ahead for Now, Despite Sodden Consumers",
-    "summary": "The latest data shows how hard it is to protect voters from inflation.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/uk-economy-storms-ahead-for-now-despite-sodden-consumers",
-    "published": "Fri, 23 Oct 2026 16:14:12 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818649"
-  },
-  {
-    "id": "7bb619ab1105",
-    "title": "Europe Hits the Brakes as China’s EV Machine Scales Up",
-    "summary": "Get Caught Up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/europe-hits-the-brakes-as-china-s-ev-machine-scales-up",
-    "published": "Fri, 23 Oct 2026 16:02:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818652"
-  },
-  {
-    "id": "11e5bd3f020c",
-    "title": "Wealthsimple CEO Michael Katchen Sets Sights on Canada’s Biggest Banks",
-    "summary": "Also: RBC’s new stock strategist and her TSX target",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/wealthsimple-ceo-michael-katchen-sets-sights-on-canada-s-biggest-banks",
-    "published": "Fri, 23 Oct 2026 15:58:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818655"
-  },
-  {
-    "id": "2fb3154d5591",
-    "title": "US Claims Oleshky Ceasefire, DOJ Sues Over Alaska Vote, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/us-claims-oleshky-ceasefire-doj-sues-over-alaska-vote-more",
-    "published": "Fri, 23 Oct 2026 15:36:44 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818658"
-  },
-  {
-    "id": "0328e88b814f",
-    "title": "Stock Movers: Deckers Outdoor, T-Mobile and Moderna (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-deckers-outdoor-t-mobile-and-moderna-podcast",
-    "published": "Fri, 23 Oct 2026 15:16:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818661"
-  },
-  {
-    "id": "2bd007abf1d1",
-    "title": "Mark Zuckerberg’s Guide to Negotiating Pay and Keeping Power",
-    "summary": "Also: Fire and flood batter Malibu",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/mark-zuckerberg-s-guide-to-negotiating-pay-and-keeping-power",
-    "published": "Fri, 23 Oct 2026 15:02:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818664"
-  },
-  {
-    "id": "4c4126595164",
-    "title": "White House: Limited Ukraine Ceasefire, Midterm Countdown, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/white-house-limited-ukraine-ceasefire-midterm-countdown-more",
-    "published": "Fri, 23 Oct 2026 14:33:32 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818666"
-  },
-  {
-    "id": "0feb46da3bdd",
-    "title": "Stock Movers: American Express, Crown Castle, Deckers (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/stock-movers-american-express-crown-castle-deckers-podcast",
-    "published": "Fri, 23 Oct 2026 14:24:26 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818669"
-  },
-  {
-    "id": "afd2b4a5375f",
-    "title": "Fund Giants, Europop Lovers Ready to Answer Merz’s Cash Call",
-    "summary": "Germany rolled out the red carpet this week to some of the world’s biggest investors,",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/fund-giants-europop-lovers-ready-to-answer-merz-s-cash-call",
-    "published": "Fri, 23 Oct 2026 14:15:01 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818672"
-  },
-  {
-    "id": "a040304c88c8",
-    "title": "Bloomberg Surveillance: AI Scares (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-23/bloomberg-surveillance-ai-scares-podcast",
-    "published": "Fri, 23 Oct 2026 14:01:10 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818675"
-  },
-  {
-    "id": "bdc7e200acc8",
-    "title": "French Minister Calls Shooting Outside Paris a ‘Terrorist’ Act",
-    "summary": "French Interior Minister Laurent Nunez said a shooting outside of Paris on Friday was a “terrorist” act that could have a racist motive.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-minister-calls-shooting-outside-paris-a-terrorist-act",
-    "published": "Fri, 23 Oct 2026 13:54:27 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:48.818678"
-  },
-  {
-    "id": "68b48b51283b",
-    "title": "Florida Retiree Mega-Complex’s Muni Bond Deal Sees Strong Demand",
-    "summary": "Investors snapped up almost $180 million in high-yield bonds this week sold to finance an expansion of the Villages, a 57,000-acre retirement community in Florida.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/florida-retiree-mega-complex-s-muni-bond-deal-sees-strong-demand",
-    "published": "Fri, 23 Oct 2026 18:26:51 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195944"
-  },
-  {
-    "id": "37d40adced5d",
-    "title": "Something Is Going on With the Discount Window",
-    "summary": "Can someone explain this?",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/something-is-going-on-with-the-discount-window",
-    "published": "Fri, 23 Oct 2026 18:16:09 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195956"
-  },
-  {
-    "id": "3c100deac812",
-    "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
-    "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
-    "published": "Thu, 22 Oct 2026 22:05:06 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195959"
-  },
-  {
-    "id": "5cc37443b525",
-    "title": "Latest Oil Market News and Analysis for Oct. 23",
-    "summary": "Brent oil was trading at the highest level since May as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
-    "published": "Thu, 22 Oct 2026 22:08:52 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195962"
-  },
-  {
-    "id": "ecc9e91406b7",
-    "title": "Repo Market Set for Volatility in Late Clearing Push, CIBC Says",
-    "summary": "US funding markets risk facing a volatile, last-minute “scramble” to meet a key 2027 deadline for mandatory central clearing of daily transactions, strategists at Canadian Imperial Bank of Commerce warned.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/repo-market-set-for-volatility-in-late-clearing-push-cibc-says",
-    "published": "Fri, 23 Oct 2026 17:20:58 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195965"
-  },
-  {
-    "id": "4369ec3c155d",
-    "title": "GM Shares Eye Worst Week Since 2023 Amid Wider Autos Selloff",
-    "summary": "General Motors Co. shares are set to record their worst week in more than three years, leading a wider selloff in automotive stocks on Friday. Yet, bullish Wall Street analysts are doubling down on the carmaker.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
-    "published": "Fri, 23 Oct 2026 12:30:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195969"
-  },
-  {
-    "id": "2cc0e12a671d",
-    "title": "US Consumer Sentiment Slips to Five-Month Low on Inflation",
-    "summary": "US consumer sentiment edged down to a five-month low in October as high prices and rising interest rates depressed morale. The University of Michigan’s final sentiment index eased to 48 from 48.1 in September, according to the survey released Friday. Even so, that was an improvement from the preliminary reading and topped all estimates in a Bloomberg survey of economists. Joanne Hsu, University of Michigan Surveys of Consumers Director joins to discuss. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/us-consumer-sentiment-slips-to-five-month-low-video",
-    "published": "Fri, 23 Oct 2026 16:20:54 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195972"
-  },
-  {
-    "id": "b617df3fa772",
-    "title": "Rehab Centers Whose Founder Was Convicted of Fraud Eye Muni Sale",
-    "summary": "It’s a level of personal detail rarely seen in typically staid municipal-bond documents: That Kyle Robertson, co-founder of a Florida-based network of drug treatment and mental health centers, was “in the throes of addiction” in 2009.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/rehab-centers-whose-founder-was-convicted-of-fraud-eye-muni-sale",
-    "published": "Fri, 23 Oct 2026 16:16:45 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195975"
-  },
-  {
-    "id": "97e1a3363385",
-    "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
-    "summary": "Wall Street strategists who recommended loading up on Brazil assets after Flávio Bolsonaro emerged as the frontrunner for president are about to see if they led clients astray or to profits ahead of Sunday’s too-close-to-call runoff.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
-    "published": "Fri, 23 Oct 2026 11:00:04 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195978"
-  },
-  {
-    "id": "c9ffc82ad07a",
-    "title": "French Bond Risk Gauge Rises Another Week as Crisis Deepens",
-    "summary": "French bond markets suffered a historic bout of turbulence this week as political unrest exacerbates concerns over the country’s public finances.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/french-bond-risk-nears-biggest-weekly-rise-as-crisis-deepens",
-    "published": "Fri, 23 Oct 2026 09:41:05 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195981"
-  },
-  {
-    "id": "815db3edcc77",
-    "title": "Rogers Beats But Stock Falls With SpaceX Ambitions in Focus",
-    "summary": "Rogers Communications Inc. beat analyst estimates on higher ticket and advertising revenue from sports, but the company’s core wireless business is still struggling to find growth.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/rogers-beats-on-sports-revenue-as-wireless-remains-sluggish",
-    "published": "Fri, 23 Oct 2026 11:27:24 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195984"
+    "fetched_at": "2026-10-23T22:00:06.922387"
   },
   {
     "id": "72692dd7129a",
@@ -285,78 +186,177 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-23/the-circuit-season-6-trailer-video",
     "published": "Fri, 23 Oct 2026 15:57:36 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195987"
+    "fetched_at": "2026-10-23T22:00:07.116561"
   },
   {
-    "id": "eecfc59c9b59",
-    "title": "De olho nas eleições",
-    "summary": "Daniela Milanese fala sobre as pesquisas antes do segundo turno e como os candidatos vão encerrar as campanhas. Produção e edição de Patricia Xavier.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video-mvl5d8vg",
-    "published": "Fri, 23 Oct 2026 15:51:06 GMT",
+    "id": "6f53ff1f9a9f",
+    "title": "Cidade do Pará rebelada contra política ambiental abraça Flávio",
+    "summary": "O repórter Fabiano Maisonnave conta sobre como a cidade do Pará rebelada contra política ambiental abraça Flávio. Com produção de Gisele Fernandes e edição de Mariana Lumy.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/cidade-do-para-abraca-flavio-video",
+    "published": "Fri, 23 Oct 2026 21:51:49 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195989"
+    "fetched_at": "2026-10-23T22:00:07.116574"
   },
   {
-    "id": "5c7d4cfb61d4",
-    "title": "European Stocks Fall as China Woes Hit Volvo Car, Gucci",
-    "summary": "European stocks fell for a second day as disappointing earnings, including from Kering SA’s Gucci, added to concerns over the artificial intelligence trade and elevated oil prices.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/european-stocks-fall-as-china-woes-hit-volvo-car-gucci",
-    "published": "Fri, 23 Oct 2026 07:34:28 GMT",
+    "id": "5e306d1738dc",
+    "title": "Robin Wigglesworth on the Importance of Curiosity",
+    "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/robin-wigglesworth-on-the-importance-of-curiosity-video",
+    "published": "Fri, 23 Oct 2026 21:39:56 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195996"
+    "fetched_at": "2026-10-23T22:00:07.116580"
   },
   {
-    "id": "533717720f63",
-    "title": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
-    "summary": "Metrics across global bond markets are signaling their biggest risk-off sentiment in more than a year, as a selloff in AI stocks and growing geopolitical tensions caused investors to seek out safe-haven assets.\nKaty Kaminski, Chief Research Strategist at AlphaSimplex, discusses the equities AI trade test and why fixed income is still under pressure. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/ai-fears-push-global-credit-spreads-to-17-month-high-video",
-    "published": "Fri, 23 Oct 2026 15:37:22 GMT",
+    "id": "fac3df2dc22d",
+    "title": "National Wealth Tax Could Work: Tilson",
+    "summary": "Whitney Tilson, editor for Stansberry Research, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss Tilson's hopes to bring Democrats back to the center, his personal investing strategy, and the potential for a national wealth tax.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/national-wealth-tax-could-work-tilson-video",
+    "published": "Fri, 23 Oct 2026 21:34:51 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.195999"
+    "fetched_at": "2026-10-23T22:00:07.116585"
   },
   {
-    "id": "d5ba8507b38d",
-    "title": "Stocks Continue to Sell Off as Rising Oil Prices Keep Lid on Treasuries",
-    "summary": "Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern speak daily with leaders and decision makers from Wall Street to Washington and beyond. No other program better positions investors and executives for the trading day than \"Bloomberg Surveillance.\" (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-surveillance-10-23-2026-video",
-    "published": "Fri, 23 Oct 2026 15:35:27 GMT",
+    "id": "b94d6a76249b",
+    "title": "San Diego to Leave Muni Bond Group After SEC Oversight Concerns",
+    "summary": "The city of San Diego said it plans to withdraw from a group that helps issue and manage billions of dollars in municipal bonds after federal regulators raised concerns about the organization’s oversight.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/san-diego-to-leave-muni-bond-group-after-sec-oversight-concerns",
+    "published": "Fri, 23 Oct 2026 21:29:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.196002"
+    "fetched_at": "2026-10-23T22:00:07.116591"
   },
   {
-    "id": "5f8c5154581a",
-    "title": "Decker Outdoor Tumbles on Guidance; Amex to Cut Workforce | Stock Movers",
-    "summary": "On this episode of Stock Movers:\n\n- Decker Outdoor (DECK) is tumbling after the footwear company cut its net sales guidance for the full year, which also fell short of the consensus estimate. \n- Kering (KER) shares are slumping after the French luxury-goods company saw further deceleration of third-quarter revenue growth at its key Gucci unit, slower growth in North America as well as persistent weakness in China. \n- American Express (AXP) shares are moving on news that the company is planning to cut 5% of its global headcount. Chief Executive Officer Steve Squeri told Bloomberg TV that the move will affect about 3,500 jobs.\n- Moderna (MRNA) plummeted after data on the companies’ widely anticipated melanoma vaccine wasn’t enough to prove to investors that a new era of cancer treatments has arrived. While the results clearly showed the vaccine worked, they weren’t spectacular enough to generate confidence. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-23/decker-outdoor-down-on-guidance-amex-to-cut-workforce-video",
-    "published": "Fri, 23 Oct 2026 15:29:12 GMT",
+    "id": "b257b8095a46",
+    "title": "Chipmakers Post Longest Weekly Drop Since November",
+    "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates. Brent crude settled near $117 as a flare-up in Middle East violence threatened supplies. Most S&amp;P 500 firms fell even as selling pressure on tech shares abated. A gauge of chipmakers edged up, but posted its longest weekly drop since November. The Dow Jones Industrial Average slipped 1.2%. Treasuries relinquished a portion of the previous session’s rally. Co-Host of Odd Lots, Joe Weisenthal says it's important to the US Economy that tech companies fire on all cylinders.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/chipmakers-post-longest-weekly-drop-since-november-video",
+    "published": "Fri, 23 Oct 2026 20:57:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.196005"
+    "fetched_at": "2026-10-23T22:00:07.116596"
   },
   {
-    "id": "6f1ac3832910",
-    "title": "CFTC Takes Oil Trading Oversight ‘Very Seriously,’ Selig Says",
-    "summary": "The top US derivatives regulator said Friday that his agency takes market oversight “very seriously” and the agency’s enforcement division has been looking at oil trading during the Iran war.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/cftc-takes-very-seriously-oil-trading-oversight-selig-says",
-    "published": "Fri, 23 Oct 2026 15:26:38 GMT",
+    "id": "0c78911a21a3",
+    "title": "Hedge Funds Are Record Short Natural Gas on Mild Winter Outlook",
+    "summary": "Hedge-fund managers have amassed a record short position in US natural gas on expectations for an unusually mild northern winter that points to anemic demand for the furnace and power-plant fuel.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-are-record-short-natural-gas-on-mild-winter-outlook",
+    "published": "Fri, 23 Oct 2026 20:54:09 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.196008"
+    "fetched_at": "2026-10-23T22:00:07.116602"
   },
   {
-    "id": "a70b41fa7dc8",
-    "title": "India’s RBI Governor Open to Rate Use to Curb Financial Risks",
-    "summary": "India’s central bank can deploy interest rates to address financial-stability risks, if needed, said Governor Sanjay Malhotra, in comments that come when analysts expect further pressure on the rupee.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/india-s-rbi-governor-open-to-rate-use-to-curb-financial-risks",
-    "published": "Fri, 23 Oct 2026 15:24:08 GMT",
+    "id": "97e1a3363385",
+    "title": "Bolsonaro Trade Faces Reckoning in Too-Close-to-Call Brazil Vote",
+    "summary": "Wall Street strategists who recommended loading up on Brazil assets after Flávio Bolsonaro emerged as the frontrunner for president are about to see if they led clients astray or to profits ahead of Sunday’s too-close-to-call runoff.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/bolsonaro-trade-faces-reckoning-in-too-close-to-call-brazil-vote",
+    "published": "Fri, 23 Oct 2026 11:00:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.196011"
+    "fetched_at": "2026-10-23T22:00:07.116607"
   },
   {
-    "id": "8919d54fd18e",
-    "title": "Gold Falls to July Low as Inflation Concerns Weigh Before Fed",
-    "summary": "Gold fell to the lowest since July as renewed strength in energy prices and weakening US consumer sentiment reinforced inflation concerns just days before the Federal Reserve’s next policy meeting.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-23/gold-holds-near-three-month-low-as-ai-jitters-fuel-volatility",
-    "published": "Fri, 23 Oct 2026 00:15:37 GMT",
+    "id": "c319fc36e798",
+    "title": "NYSE Options Exchange Trading Halted by ‘Technical Issue’",
+    "summary": "A NYSE options exchange has suspended trading, causing other exchanges to disregard quotes from the venue.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/nyse-options-exchange-trading-halted-by-technical-issue",
+    "published": "Fri, 23 Oct 2026 15:16:45 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-10-23T18:58:49.196013"
+    "fetched_at": "2026-10-23T22:00:07.116612"
+  },
+  {
+    "id": "d45b6527afad",
+    "title": "AI Trade Stumbles Again as Investors Rediscover Treasury Haven",
+    "summary": "According to the president of Blackstone Inc., there’s no bubble in artificial intelligence. Treasury Secretary Scott Bessent isn’t seeing a “systemic problem” in the boom. But as hard as Wall Street brass works to tamp down concerns around the space, markets are refusing to be calmed.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-trade-stumbles-again-as-investors-rediscover-treasury-haven",
+    "published": "Fri, 23 Oct 2026 20:32:42 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116620"
+  },
+  {
+    "id": "10808cf3a76b",
+    "title": "SpaceX Shakes Up Telecom Stocks | Closing Bell",
+    "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Jess Menton, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-shakes-up-telecom-stocks-closing-bell-video",
+    "published": "Fri, 23 Oct 2026 20:21:37 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116626"
+  },
+  {
+    "id": "4369ec3c155d",
+    "title": "GM Shares Suffer Worst Week Since 2023 Amid Wider Autos Selloff",
+    "summary": "General Motors Co. shares recorded their worst week in nearly three years, leading a wider selloff in automotive stocks on Friday. Yet, bullish Wall Street analysts are doubling down on the carmaker.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/gm-analysts-say-buy-the-dip-as-stock-eyes-worst-week-since-2025",
+    "published": "Fri, 23 Oct 2026 12:30:00 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116631"
+  },
+  {
+    "id": "3c100deac812",
+    "title": "Stocks Fall as Oil Rally Keeps a Lid on Treasuries: Markets Wrap",
+    "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
+    "published": "Thu, 22 Oct 2026 22:05:06 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116636"
+  },
+  {
+    "id": "93257635ce39",
+    "title": "Oncologists Cheer Melanoma Data",
+    "summary": "Leaked data from Moderna and Merck's highly anticipated melanoma vaccine trial has led to a rare disconnect between doctors, who celebrated the result, and Wall Street, which sold off the stocks.\nNormally results of such pivotal drug studies are binary, with doctors, patients and investors all learning whether a novel medicine will make a meaningful difference in people’s lives and forming the same conclusion. Instead, as reports leaked out on social media about the findings of the melanoma shot — days before the carefully scripted presentation planned for thousands of oncologists gathered in Madrid for the European Society for Medical Oncology meeting — realities diverged.  Madison Muller, Bloomberg News Healthcare Reporter, reports.   (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/oncologists-cheer-melanoma-data-video",
+    "published": "Fri, 23 Oct 2026 19:58:07 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116642"
+  },
+  {
+    "id": "429b8ea23a8d",
+    "title": "Hedge Funds Lift Bearish Euro Bets to Most Since 2020: CFTC",
+    "summary": "Hedge funds boost their bets against the euro to the most since March 2020 as political turmoil in France rattles European markets and weighs on the currency.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/hedge-funds-lift-bearish-euro-bets-to-most-since-2020-cftc",
+    "published": "Fri, 23 Oct 2026 19:49:49 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116647"
+  },
+  {
+    "id": "5cc37443b525",
+    "title": "Latest Oil Market News and Analysis for Oct. 23",
+    "summary": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-22/latest-oil-market-news-and-analysis-for-oct-23",
+    "published": "Thu, 22 Oct 2026 22:08:52 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116652"
+  },
+  {
+    "id": "cdde1161a768",
+    "title": "Treasuries’ AI Link Shows Sharp Shift as Haven Trade Returns",
+    "summary": "For much of this year, Treasuries offered investors little of their traditional protection when technology stocks stumbled. This week, that role has bounced back sharply.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/treasuries-link-to-ai-shows-sharp-shift-as-haven-trade-returns",
+    "published": "Fri, 23 Oct 2026 03:19:02 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116658"
+  },
+  {
+    "id": "68cf72d84398",
+    "title": "Municipal Bond Sales Cross $500 Billion Mark at Record Pace",
+    "summary": "US states and local governments are selling debt at a record clip, borrowing more than $500 billion so far this year as the need for infrastructure and airport upgrades mounts.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/municipal-bond-sales-cross-500-billion-mark-at-record-pace",
+    "published": "Fri, 23 Oct 2026 18:57:13 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116663"
+  },
+  {
+    "id": "fd0cf4249a94",
+    "title": "El combustible complica los planes de aerolíneas en Latinoamérica",
+    "summary": "Tulum tiene un aeropuerto prácticamente nuevo, pero cada vez menos vuelos. El combustible está elevando los costos de las aerolíneas, amenazando sus planes de capacidad y complicando incluso la salida a bolsa de Abra, dueño de Avianca y Gol. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-23/combustible-complica-planes-aerolineas-en-latinoamerica-video",
+    "published": "Fri, 23 Oct 2026 18:55:32 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116668"
+  },
+  {
+    "id": "68b48b51283b",
+    "title": "Florida's The Villages $180M Muni Bond Deal Sees Strong Demand",
+    "summary": "Investors snapped up almost $180 million in high-yield bonds this week sold to finance an expansion of the Villages, a 57,000-acre retirement community in Florida.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-23/florida-retiree-mega-complex-s-muni-bond-deal-sees-strong-demand",
+    "published": "Fri, 23 Oct 2026 18:26:51 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-10-23T22:00:07.116673"
   }
 ]
