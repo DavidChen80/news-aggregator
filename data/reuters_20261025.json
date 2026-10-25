@@ -1,5 +1,65 @@
 [
   {
+    "id": "c89822099007",
+    "title": "Merryn Talks Money: The AI Boom's Margin Squeeze (Podcast)",
+    "title_cn": "Merryn Talks Money: The AI Boom's Margin Squeeze (Podcast)",
+    "summary": "Source: Bloomberg, 37:52",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-25/merryn-talks-money-the-ai-boom-s-margin-squeeze-podcast",
+    "published": "Sun, 25 Oct 2026 16:31:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:22.368458"
+  },
+  {
+    "id": "0fe9f024be2d",
+    "title": "US Weighs Iran Escalation, Crenshaw Presses Musk on Starlink",
+    "title_cn": "US Weighs Iran Escalation, Crenshaw Presses Musk on Starlink",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-25/us-weighs-iran-escalation-crenshaw-presses-musk-on-starlink",
+    "published": "Sun, 25 Oct 2026 15:58:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:22.985821"
+  },
+  {
+    "id": "a71e91ba5404",
+    "title": "Astra’s Experimental Stomach Cancer Drug Doubled Survival Time",
+    "title_cn": "Astra’s Experimental Stomach Cancer Drug Doubled Survival Time",
+    "summary": "AstraZeneca Plc’s experimental stomach cancer drug doubled the time patients survived in a late-stage trial, boosting prospects for a potential new blockbuster.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/astra-s-experimental-stomach-cancer-drug-doubled-survival-time",
+    "published": "Sun, 25 Oct 2026 15:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:23.559669"
+  },
+  {
+    "id": "353747c1ace4",
+    "title": "Braskem Creditors, Shareholders Said to Move Closer to Deal",
+    "title_cn": "Braskem Creditors, Shareholders Said to Move Closer to Deal",
+    "summary": "Braskem’s creditors and shareholders are moving closer to a deal to rework some $11 billion of debt, according to people familiar to the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-24/braskem-creditors-shareholders-said-to-move-closer-to-agreement",
+    "published": "Sat, 24 Oct 2026 22:25:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:24.118720"
+  },
+  {
+    "id": "4450b6458120",
+    "title": "Bloomberg This Weekend: Israel Election; Candy Prices (Podcast)",
+    "title_cn": "Bloomberg This Weekend: Israel Election; Candy Prices (Podcast)",
+    "summary": "Source: Bloomberg, 40:34",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-25/bloomberg-this-weekend-israel-election-candy-prices-podcast",
+    "published": "Sun, 25 Oct 2026 14:56:05 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:24.538709"
+  },
+  {
+    "id": "8235af0d1e77",
+    "title": "US Preparing Iran Escalation, Trilateral Talks on Ukraine, More",
+    "title_cn": "US Preparing Iran Escalation, Trilateral Talks on Ukraine, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-10-25/us-preparing-iran-escalation-trilateral-talks-on-ukraine-more",
+    "published": "Sun, 25 Oct 2026 14:54:27 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:25.117476"
+  },
+  {
     "id": "4a0a9dc0c8ca",
     "title": "US Weighs Iran Escalation, Trump, Obama Hit Campaign Trail, More",
     "title_cn": "US Weighs Iran Escalation, Trump, Obama Hit Campaign Trail, More",
@@ -7,7 +67,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-25/us-weighs-iran-escalation-trump-obama-hit-campaign-trail-more",
     "published": "Sun, 25 Oct 2026 13:22:43 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:54.700388"
+    "fetched_at": "2026-10-25T17:32:25.596821"
   },
   {
     "id": "5e026426c49b",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/microport-appoints-jonathan-chen-ceo-after-chairman-resigns",
     "published": "Sun, 25 Oct 2026 12:27:10 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:55.101972"
+    "fetched_at": "2026-10-25T17:32:26.191334"
   },
   {
     "id": "fe801979e6e8",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-25/trump-obama-rally-voters-us-prepares-for-iran-escalation-more",
     "published": "Sun, 25 Oct 2026 12:02:53 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:55.527790"
+    "fetched_at": "2026-10-25T17:32:26.524880"
   },
   {
     "id": "9f77c74103e6",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-25/riyadh-airport-reopens-after-houthi-attacks-france-dodges-riots",
     "published": "Sun, 25 Oct 2026 12:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:55.948224"
+    "fetched_at": "2026-10-25T17:32:27.029196"
   },
   {
     "id": "2149164ddc9c",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/pfizer-sees-path-forward-for-cancer-drug-despite-trial-failure",
     "published": "Sun, 25 Oct 2026 09:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:56.496511"
+    "fetched_at": "2026-10-25T17:32:27.524456"
   },
   {
     "id": "e38de84a4d09",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-25/preps-for-iran-escalation-vw-to-open-audi-georgia-plant-more",
     "published": "Sun, 25 Oct 2026 00:36:36 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:57.128848"
+    "fetched_at": "2026-10-25T17:32:28.133442"
   },
   {
     "id": "45366d48f4d7",
@@ -67,17 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/french-police-show-of-force-vw-to-build-georgia-plant-more",
     "published": "Sat, 24 Oct 2026 23:16:58 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:57.584624"
-  },
-  {
-    "id": "353747c1ace4",
-    "title": "Braskem Creditors, Shareholders Said to Move Closer to Agreement",
-    "title_cn": "Braskem Creditors, Shareholders Said to Move Closer to Agreement",
-    "summary": "Braskem’s creditors and shareholders are moving closer to a deal to rework some $11 billion of debt, according to people familiar to the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/braskem-creditors-shareholders-said-to-move-closer-to-agreement",
-    "published": "Sat, 24 Oct 2026 22:25:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:55:58.047523"
+    "fetched_at": "2026-10-25T17:32:28.757115"
   },
   {
     "id": "85e3f3f19636",
@@ -87,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/paris-protests-continue-vw-plans-new-audi-georgia-plant-more",
     "published": "Sat, 24 Oct 2026 21:57:47 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:58.604257"
+    "fetched_at": "2026-10-25T17:32:29.299257"
   },
   {
     "id": "dc5771dd2b60",
@@ -97,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/weekend-law-election-fears-judges-frustrated-sec-podcast",
     "published": "Sat, 24 Oct 2026 21:22:29 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:59.153895"
+    "fetched_at": "2026-10-25T17:32:29.903548"
   },
   {
     "id": "2cd72edd0c52",
@@ -107,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/braskem-discloses-details-of-debt-rework-proposals-to-investors",
     "published": "Sat, 24 Oct 2026 20:36:18 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:55:59.503068"
+    "fetched_at": "2026-10-25T17:32:30.319158"
   },
   {
     "id": "e6980f7ae058",
@@ -117,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/paris-protests-become-violent-vw-plans-new-georgia-plant-more",
     "published": "Sat, 24 Oct 2026 20:27:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:00.093110"
+    "fetched_at": "2026-10-25T17:32:30.748694"
   },
   {
     "id": "8bd03dca546c",
@@ -127,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/paris-protests-become-violent-us-iran-escalation-preps-more",
     "published": "Sat, 24 Oct 2026 19:06:03 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:00.654955"
+    "fetched_at": "2026-10-25T17:32:31.376701"
   },
   {
     "id": "4b083b67cb55",
@@ -137,57 +187,47 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-24/protests-turn-violent-in-paris-us-prepares-for-iran-escalation",
     "published": "Sat, 24 Oct 2026 17:43:07 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:01.007586"
+    "fetched_at": "2026-10-25T17:32:31.839047"
   },
   {
-    "id": "7f43a70c7508",
-    "title": "Extra Police Deployed in France, US-Iran Escalation Preps, More",
-    "title_cn": "Extra Police Deployed in France, US-Iran Escalation Preps, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-24/extra-police-deployed-in-france-us-iran-escalation-preps-more",
-    "published": "Sat, 24 Oct 2026 16:26:42 GMT",
+    "id": "9b430d660567",
+    "title": "9 Days to Midterm Elections, Big Tech Earnings",
+    "title_cn": "9 Days to Midterm Elections, Big Tech Earnings",
+    "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by MetLife Investment Management Chief Market Strategist Drew Matus, Financial Times Associate Editor and “Sea Change” Author Rana Foroohar, Former Prime Minister of Israel Ehud Olmert, Texas Rep. Dan Crenshaw, Former US Ambassador to Israel Daniel Shapiro, CBS News, White House & Political Correspondent Ed O’Keefe and Puck Washington Author Abby Livingston. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/bloomberg-this-weekend-10-25-2026-video",
+    "published": "Sun, 25 Oct 2026 15:42:35 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:01.592091"
+    "fetched_at": "2026-10-25T17:32:32.624416"
   },
   {
-    "id": "649b08c9f81c",
-    "title": "Bloomberg This Weekend: 16 Months in a Russian Prison (Podcast)",
-    "title_cn": "Bloomberg This Weekend: 16 Months in a Russian Prison (Podcast)",
-    "summary": "Source: Bloomberg, 37:29",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-24/bloomberg-this-weekend-16-months-in-a-russian-prison-podcast",
-    "published": "Sat, 24 Oct 2026 15:06:07 GMT",
+    "id": "6f70ef8e36f2",
+    "title": "Inside The Two Argentinas Under Javier Milei",
+    "title_cn": "Inside The Two Argentinas Under Javier Milei",
+    "summary": "President Javier Milei has brought inflation down and opened Argentina to more investment, helping fuel a boom in energy and other export industries. But manufacturing, retail and small businesses are struggling, leaving many Argentines feeling that the recovery is passing them by. One year before the election, Milei’s biggest test may be unifying an increasingly fragmented economy.\n (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/inside-the-two-argentinas-under-javier-milei-video",
+    "published": "Sun, 25 Oct 2026 14:04:15 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:02.061238"
+    "fetched_at": "2026-10-25T17:32:33.197186"
   },
   {
-    "id": "1062ad9bcfa3",
-    "title": "Lenders Are Mystified by Virgin Media’s Vendor Financing Notes",
-    "title_cn": "Lenders Are Mystified by Virgin Media’s Vendor Financing Notes",
-    "summary": "Market watchers wonder: are these unusual instruments more attractive than meets the eye?",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-10-24/lenders-are-mystified-by-virgin-media-s-vendor-financing-notes",
-    "published": "Sat, 24 Oct 2026 15:00:02 GMT",
+    "id": "d160709d3dc9",
+    "title": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings",
+    "title_cn": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings",
+    "summary": "While some investors position for AI earnings, geopolitics and interest rates to send stocks either to new highs or into a tailspin, zero-day option traders have increasingly bet that the S&amp;P 500 Index will remain calm.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/zero-day-option-traders-are-betting-against-big-s-p-500-swings",
+    "published": "Sun, 25 Oct 2026 14:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:02.458973"
+    "fetched_at": "2026-10-25T17:32:33.570008"
   },
   {
-    "id": "14da3c6a9cb3",
-    "title": "Trump Prepares for Iran Escalation, French Protests Begin, More",
-    "title_cn": "Trump Prepares for Iran Escalation, French Protests Begin, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-10-24/trump-prepares-for-iran-escalation-french-protests-begin-more",
-    "published": "Sat, 24 Oct 2026 14:42:40 GMT",
+    "id": "3ee13887e6db",
+    "title": "Halloween Candy Prices Reflect Cocoa’s Wild Ride",
+    "title_cn": "Halloween Candy Prices Reflect Cocoa’s Wild Ride",
+    "summary": "On Bloomberg This Weekend, Ignacio Canalas Polo explains why chocolate and Halloween candy remain expensive even after cocoa prices retreated from their peaks, pointing to persistent supply pressures in Ivory Coast and Ghana and manufacturers’ efforts to manage costs. Speaking with hosts David Gura and Christina Ruffini, Polo says consumers may see more promotions, but structurally higher cocoa costs and product reformulation mean chocolate prices are unlikely to return quickly to previous levels. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/halloween-candy-prices-reflect-cocoa-s-wild-ride-video",
+    "published": "Sun, 25 Oct 2026 13:55:22 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:03.067384"
-  },
-  {
-    "id": "44eb56f154fc",
-    "title": "Amgen, Astra Drug Duo Boosts Survival for Deadly Lung Cancer",
-    "title_cn": "Amgen, Astra Drug Duo Boosts Survival for Deadly Lung Cancer",
-    "summary": "Doctors combined powerful medicines from Amgen Inc. and AstraZeneca Plc and found they allowed patients with an aggressive form of lung cancer to live eight months longer.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/amgen-astra-drug-duo-boosts-survival-for-deadly-lung-cancer",
-    "published": "Sat, 24 Oct 2026 14:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:03.556034"
+    "fetched_at": "2026-10-25T17:32:34.145887"
   },
   {
     "id": "7390e45cfdae",
@@ -197,7 +237,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-25/fed-looks-set-to-pause-after-september-rate-hike-video",
     "published": "Sun, 25 Oct 2026 13:48:02 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:04.245155"
+    "fetched_at": "2026-10-25T17:32:34.548937"
+  },
+  {
+    "id": "682046fab5be",
+    "title": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
+    "title_cn": "Rubio Plans Trilateral Negotiations Over Ukraine, Johnson Says",
+    "summary": "House Speaker Mike Johnson says he has spoken over the weekend to President Donald Trump and Secretary of State Marco Rubio, who told him the US is planning trilateral negotiations.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/rubio-plans-trilateral-negotiations-over-ukraine-johnson-says",
+    "published": "Sun, 25 Oct 2026 13:43:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:35.162485"
   },
   {
     "id": "7be0f4ef4a47",
@@ -207,7 +257,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
     "published": "Sun, 25 Oct 2026 02:02:19 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:04.844064"
+    "fetched_at": "2026-10-25T17:32:35.618733"
   },
   {
     "id": "f8423a198a32",
@@ -217,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
     "published": "Sun, 25 Oct 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:05.421870"
+    "fetched_at": "2026-10-25T17:32:36.057427"
   },
   {
     "id": "3ad7e57054fc",
@@ -227,7 +277,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/emerging-debt-outruns-treasuries-as-rich-world-fiscal-fears-grow",
     "published": "Sun, 25 Oct 2026 12:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:06.065661"
+    "fetched_at": "2026-10-25T17:32:36.636508"
   },
   {
     "id": "ad977e172beb",
@@ -237,7 +287,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-25/by-the-way-headlines-you-may-have-missed-video",
     "published": "Sun, 25 Oct 2026 12:26:39 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:06.678853"
+    "fetched_at": "2026-10-25T17:32:37.154761"
   },
   {
     "id": "73c4a6e63580",
@@ -247,7 +297,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
     "published": "Sun, 25 Oct 2026 08:47:01 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:07.228516"
+    "fetched_at": "2026-10-25T17:32:37.694092"
   },
   {
     "id": "f1b8ae6bd6d9",
@@ -257,7 +307,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/indigo-air-india-to-shift-some-flights-to-new-mumbai-airport",
     "published": "Sun, 25 Oct 2026 11:20:11 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:07.718469"
+    "fetched_at": "2026-10-25T17:32:38.055435"
   },
   {
     "id": "e680043e0519",
@@ -267,7 +317,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
     "published": "Sun, 25 Oct 2026 10:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:08.220589"
+    "fetched_at": "2026-10-25T17:32:38.404917"
   },
   {
     "id": "6dc1f45bc370",
@@ -277,7 +327,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
     "published": "Sun, 25 Oct 2026 07:44:43 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:08.778844"
+    "fetched_at": "2026-10-25T17:32:38.993990"
   },
   {
     "id": "e21cb413ffaa",
@@ -287,7 +337,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
     "published": "Sun, 25 Oct 2026 04:08:12 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:09.167019"
+    "fetched_at": "2026-10-25T17:32:39.588175"
   },
   {
     "id": "dbe9bed0cb28",
@@ -297,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
     "published": "Sun, 25 Oct 2026 05:40:56 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:09.820097"
+    "fetched_at": "2026-10-25T17:32:39.979357"
   },
   {
     "id": "03df8f593d47",
@@ -307,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/indonesia-begins-trimming-pipeline-gas-exports-to-singapore",
     "published": "Sat, 24 Oct 2026 07:48:56 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:10.238112"
+    "fetched_at": "2026-10-25T17:32:40.481915"
   },
   {
     "id": "42fcedab55d7",
@@ -317,7 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/singapore-expands-haze-investigation-to-10-locally-based-firms",
     "published": "Sat, 24 Oct 2026 03:20:42 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:10.610799"
+    "fetched_at": "2026-10-25T17:32:40.970102"
   },
   {
     "id": "8459e42a61a8",
@@ -327,67 +377,27 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
     "published": "Sat, 24 Oct 2026 21:27:28 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:11.218108"
+    "fetched_at": "2026-10-25T17:32:41.607287"
   },
   {
-    "id": "4e1c6cc0a069",
-    "title": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
-    "title_cn": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
-    "summary": "Barry speaks with Robin Wigglesworth, editor of Financial Times' Alphaville blog and author of the new book 'A Fabulous Debt: The Epic Story of How Bonds Built the Modern World'. They discuss the bond market as the engine of the global economy, why the 30-year mortgage is \"a miracle of the modern world,\" and when we should actually start worrying about US debt. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/embracing-the-bond-market-masters-in-business-with-robin-wigglesworth",
-    "published": "Sat, 24 Oct 2026 17:05:04 GMT",
+    "id": "44219c0f8245",
+    "title": "Major Ukraine Retailer Says Russian Strikes Destroyed Its Chain",
+    "title_cn": "Major Ukraine Retailer Says Russian Strikes Destroyed Its Chain",
+    "summary": "Epicentr, a major Ukrainian home improvement retailer, said its business had been “destroyed” by a rapid-fire succession of Russian airstrikes on its distribution centers, with the latest ones coming over the weekend.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/major-ukraine-retailer-says-russian-strikes-destroyed-its-chain",
+    "published": "Sun, 25 Oct 2026 16:17:14 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:11.677684"
+    "fetched_at": "2026-10-25T17:32:42.355578"
   },
   {
-    "id": "27ea7e61f17c",
-    "title": "French Protesters Dispersed with Gas as Tensions Rise",
-    "title_cn": "French Protesters Dispersed with Gas as Tensions Rise",
-    "summary": "Student protesters in Paris, France were dispersed with gas as conflict escalates.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/french-protestors-dispersed-with-gas-as-tensions-rise-video",
-    "published": "Sat, 24 Oct 2026 16:31:00 GMT",
+    "id": "105fe0a07ada",
+    "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
+    "title_cn": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
+    "summary": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
+    "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+    "published": "Sun, 25 Oct 2026 14:00:01 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:12.090182"
-  },
-  {
-    "id": "8bdd8f2f4df1",
-    "title": "New Middle East Threats, Russian Diesel Coming to US",
-    "title_cn": "New Middle East Threats, Russian Diesel Coming to US",
-    "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The New Yorker Staff Writer Gideon Lewis-Kraus, Linx Dating Founder & CEO Amy Andersen, Oliver Wyman Geostrategy Practice Partner & Global Head Daniel Tannebaum, Seaport Research Partners Chief Equity Strategist Jonathan Golub, SHRM President and CEO Johnny C. Taylor Jr, The Wall Street Journal Foreign Correspondent and “This Cursed Beautiful Land” Author Evan Gershkovich, The Atlantic CEO and “The Running Ground” Author Nicholas Thompson and “Sleuth-Hound” Author Lindsey Fitzharris. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/bloomberg-this-weekend-10-24-2026-video",
-    "published": "Sat, 24 Oct 2026 15:57:32 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:12.730651"
-  },
-  {
-    "id": "1c0b9982b601",
-    "title": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-    "title_cn": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
-    "summary": "It was a panicked message from a colleague that woke fund manager Ivelina Green at 5 a.m. on Thursday morning in New York: “Total meltdown.”",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/-total-meltdown-in-riskiest-debt-unnerves-market-credit-weekly",
-    "published": "Sat, 24 Oct 2026 15:21:35 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:13.345907"
-  },
-  {
-    "id": "1439b283170d",
-    "title": "Metals Traders Reap Bonanza With Another Year of Record Profits",
-    "title_cn": "Metals Traders Reap Bonanza With Another Year of Record Profits",
-    "summary": "Metals traders are earning billions of dollars in a second consecutive blowout year for the sector, with several top trading houses notching up record profits.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/metals-traders-reap-bonanza-with-another-year-of-record-profits",
-    "published": "Sat, 24 Oct 2026 14:45:05 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:13.919219"
-  },
-  {
-    "id": "fb4a9d732aae",
-    "title": "The Real Medical Detective Who Inspired Sherlock Holmes",
-    "title_cn": "The Real Medical Detective Who Inspired Sherlock Holmes",
-    "summary": "Medical historian Lindsey Fitzharris tells Bloomberg This Weekend how Scottish surgeon Joseph Bell’s remarkable powers of observation inspired his student Arthur Conan Doyle to create Sherlock Holmes. Speaking with hosts Christina Ruffini and Lisa Mateo, Fitzharris discusses her new book, Sleuth-Hound: The Case of the Real Sherlock Holmes, and Bell’s largely forgotten work applying his diagnostic skills to real criminal investigations. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/the-real-medical-detective-who-inspired-sherlock-holmes-video",
-    "published": "Sat, 24 Oct 2026 14:36:22 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:14.292276"
+    "fetched_at": "2026-10-25T17:32:42.922160"
   },
   {
     "id": "2cd0052f05ff",
@@ -397,7 +407,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
     "published": "Sun, 25 Oct 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:14.935246"
+    "fetched_at": "2026-10-25T17:32:43.448284"
   },
   {
     "id": "6ed6e624b4d8",
@@ -407,7 +417,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
     "published": "Sun, 25 Oct 2026 12:10:28 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:15.564111"
+    "fetched_at": "2026-10-25T17:32:43.899011"
+  },
+  {
+    "id": "a06b5d11cf02",
+    "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
+    "title_cn": "Can Mistral Challenge Big Tech by Doing AI Differently?",
+    "summary": "Europe has fallen behind the US in the race to build the biggest AI models, constrained by smaller capital markets and a fragmented business environment. France-based Mistral is betting it can compete differently using open-source models to offer companies lower costs, more control over their data and greater technological sovereignty. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+    "published": "Sun, 25 Oct 2026 12:04:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:44.512872"
   },
   {
     "id": "09892f7013ef",
@@ -417,7 +437,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
     "published": "Sun, 25 Oct 2026 12:00:03 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:16.055496"
+    "fetched_at": "2026-10-25T17:32:44.885255"
   },
   {
     "id": "01472c6a0c53",
@@ -427,7 +447,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
     "published": "Sun, 25 Oct 2026 11:48:37 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:16.619072"
+    "fetched_at": "2026-10-25T17:32:45.491818"
   },
   {
     "id": "21851f2ef58a",
@@ -437,7 +457,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
     "published": "Sun, 25 Oct 2026 10:30:39 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:17.154623"
+    "fetched_at": "2026-10-25T17:32:46.051285"
   },
   {
     "id": "2f2434f8241f",
@@ -447,7 +467,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
     "published": "Sat, 24 Oct 2026 10:54:35 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:17.629908"
+    "fetched_at": "2026-10-25T17:32:46.465457"
   },
   {
     "id": "1e5be14b12e1",
@@ -457,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
     "published": "Sun, 25 Oct 2026 09:28:36 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:18.081441"
+    "fetched_at": "2026-10-25T17:32:47.079911"
   },
   {
     "id": "734d0c714811",
@@ -467,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
     "published": "Sun, 25 Oct 2026 07:42:28 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:18.657935"
+    "fetched_at": "2026-10-25T17:32:47.457805"
   },
   {
     "id": "1636db23bf74",
@@ -477,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf",
     "published": "Sun, 25 Oct 2026 05:45:20 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:19.020075"
+    "fetched_at": "2026-10-25T17:32:47.868903"
   },
   {
     "id": "fdd632382e84",
@@ -487,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers",
     "published": "Sun, 25 Oct 2026 03:14:56 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:19.649106"
+    "fetched_at": "2026-10-25T17:32:48.406239"
   },
   {
     "id": "5dec1ac7abe8",
@@ -497,97 +517,17 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
     "published": "Sun, 25 Oct 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:20.279421"
+    "fetched_at": "2026-10-25T17:32:49.016836"
   },
   {
-    "id": "c96fc367c056",
-    "title": "AI Boom Faces a Growing Public Backlash",
-    "title_cn": "AI Boom Faces a Growing Public Backlash",
-    "summary": "The Atlantic CEO Nicholas Thompson tells Bloomberg This Weekend that AI offers powerful tools for businesses but poses significant risks to media, while its broader economic impact continues to lag behind rapidly advancing capabilities. Speaking with hosts David Gura and Christina Ruffini, Thompson also discusses the discipline of distance running and how the sport shaped his relationship with his father and became an organizing force in his life.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
-    "published": "Sat, 24 Oct 2026 14:08:22 GMT",
+    "id": "4cc449ee1584",
+    "title": "Machado Returns to Venezuela to Urge On Democratic Transition",
+    "title_cn": "Machado Returns to Venezuela to Urge On Democratic Transition",
+    "summary": "Venezuelan opposition leader María Corina Machado returned to Caracas in a surprise move that could pose the biggest test yet to acting President Delcy Rodríguez’s political opening and the Trump administration’s strategy for post-Maduro Venezuela.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/machado-returns-to-venezuela-in-surprise-challenge-to-rodriguez",
+    "published": "Sun, 25 Oct 2026 15:53:18 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:20.788957"
-  },
-  {
-    "id": "db8b298fd9f6",
-    "title": "Israel Election Tests Netanyahu’s Hold on Power",
-    "title_cn": "Israel Election Tests Netanyahu’s Hold on Power",
-    "summary": "On Bloomberg This Weekend, former Israeli Prime Minister Ehud Olmert discusses how security, democracy and the war in Iran are shaping Israel’s election and argues that the country needs a change in its approach to settler violence in the West Bank. Speaking with hosts David Gura and Christina Ruffini, Olmert also examines how the US midterms could affect the US-Israel relationship and says decisions about further military action against Iran should be based on intelligence rather than electoral politics. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/israel-election-tests-netanyahu-s-hold-on-power-video",
-    "published": "Sun, 25 Oct 2026 13:31:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:21.438845"
-  },
-  {
-    "id": "263f121e50ef",
-    "title": "VW Plans New Audi Plant in Georgia, Handing Trump a Win",
-    "title_cn": "VW Plans New Audi Plant in Georgia, Handing Trump a Win",
-    "summary": "Volkswagen AG plans to build a new $4 billion factory for its premium Audi brand in the southern US state of Georgia, expecting the move will yield potential relief from tariffs that have severely eroded profits.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/volkswagen-plans-new-audi-plant-in-georgia-handing-trump-a-win",
-    "published": "Sat, 24 Oct 2026 19:52:40 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:21.951877"
-  },
-  {
-    "id": "d4a036b16864",
-    "title": "Musk’s Money Reshapes the Midterm Spending Race",
-    "title_cn": "Musk’s Money Reshapes the Midterm Spending Race",
-    "summary": "On Bloomberg This Weekend, Bloomberg Corporate Lobbying and Influence Reporter Emily Birnbaum explains how Elon Musk’s record political giving is boosting Republican groups in the final days before the US midterms. Bloomberg News reports Musk has now contributed more than $445 million to political groups this election cycle, putting him among the biggest political contributors ever. Speaking with hosts David Gura and Christina Ruffini, Birnbaum examines Republicans’ advantage in outside spending and Democrats’ strength in direct candidate fundraising, which can make their advertising dollars go further. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/musk-s-money-reshapes-the-midterm-spending-race-video",
-    "published": "Sun, 25 Oct 2026 13:15:04 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:22.578263"
-  },
-  {
-    "id": "cf493dc81f6f",
-    "title": "Higher Energy Costs Weigh on Trump’s Midterm Pitch",
-    "title_cn": "Higher Energy Costs Weigh on Trump’s Midterm Pitch",
-    "summary": "On Bloomberg This Weekend, Financial Times Associate Editor and Sea Change author Rana Foroohar explains how the Iran war and higher energy costs are shaping voters’ economic concerns ahead of the US midterms. Speaking with hosts David Gura and Christina Ruffini, Foroohar also examines America’s competition with China and Russia over shipping, infrastructure and influence in a rapidly changing Arctic. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/higher-energy-costs-weigh-on-trump-s-midterm-pitch-video",
-    "published": "Sun, 25 Oct 2026 13:03:30 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:23.224786"
-  },
-  {
-    "id": "b3630546574c",
-    "title": "Brian Fitzpatrick Faces Tough Pennsylvania House Race Despite Trump Distance",
-    "title_cn": "Brian Fitzpatrick Faces Tough Pennsylvania House Race Despite Trump Distance",
-    "summary": "For one Pennsylvania Republican, winning reelection to the US House in a suburban Philadelphia seat likely hinges on his long-standing effort to keep President Donald Trump at arm’s length.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/brian-fitzpatrick-faces-tough-pennsylvania-house-race-despite-trump-distance",
-    "published": "Sun, 25 Oct 2026 12:30:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:23.611290"
-  },
-  {
-    "id": "4286af23d97a",
-    "title": "Brazil’s Presidential Race Comes Down to the Wire",
-    "title_cn": "Brazil’s Presidential Race Comes Down to the Wire",
-    "summary": "On Bloomberg This Weekend, Bloomberg Brazil Country Chief Filipe Pacheco explains how turnout, public security and the economy are shaping the razor-thin presidential runoff between President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro. Speaking with hosts David Gura and Christina Ruffini, Pacheco examines Lula’s last-minute push to mobilize voters through social media and what the election could mean for the future of Latin America’s largest economy. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/brazil-s-presidential-race-comes-down-to-the-wire-video",
-    "published": "Sun, 25 Oct 2026 12:19:43 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:24.006787"
-  },
-  {
-    "id": "e3de5ef74c59",
-    "title": "Brazil Presidential Election 2026 Live Updates: Lula, Bolsonaro Vie for Voters",
-    "title_cn": "Brazil Presidential Election 2026 Live Updates: Lula, Bolsonaro Vie for Voters",
-    "summary": "",
-    "link": "https://www.bloomberg.com/news/live-blog/2026-10-25/brazil-presidential-runoff-election-live-updates",
-    "published": "Sun, 25 Oct 2026 12:06:17 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:24.464342"
-  },
-  {
-    "id": "9da8656f9362",
-    "title": "US and Israel Elections Loom Over Iran War",
-    "title_cn": "US and Israel Elections Loom Over Iran War",
-    "summary": "On Bloomberg This Weekend, Bloomberg Economics Defense Lead Becca Wasser and Bloomberg News Middle East correspondent Dan Williams examine how elections in the US and Israel could shape the next phase of the Iran war, including the possibility of renewed US strikes after the midterms. Speaking with hosts David Gura and Christina Ruffini, Wasser and Williams assess potential US military options, Iran’s capacity to retaliate and the political calculations facing President Donald Trump and Israeli Prime Minister Benjamin Netanyahu. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-10-25/us-and-israel-elections-loom-over-iran-war-video",
-    "published": "Sun, 25 Oct 2026 11:49:45 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:25.111340"
+    "fetched_at": "2026-10-25T17:32:49.754386"
   },
   {
     "id": "12e16ad2dbb6",
@@ -597,37 +537,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/france-dodges-repeat-of-looting-and-riots-with-tougher-security",
     "published": "Sun, 25 Oct 2026 06:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:25.525348"
-  },
-  {
-    "id": "ada946306750",
-    "title": "UK’s Rayner Defends Burnham Move to Revisit EU Free Movement",
-    "title_cn": "UK’s Rayner Defends Burnham Move to Revisit EU Free Movement",
-    "summary": "Housing Secretary Angela Rayner denied that Andy Burnham is reopening the Brexit debate by reconsidering a key manifesto pledge to rule out freedom of movement with the European Union, saying the prime minister is simply seeking an “honest conversation” about Britain’s future relationship with the bloc.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/uk-s-rayner-defends-burnham-move-to-revisit-eu-free-movement",
-    "published": "Sun, 25 Oct 2026 11:07:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:26.106953"
-  },
-  {
-    "id": "1d95903967ec",
-    "title": "Trump Prepares for Iran Escalation After US, Israeli Polls",
-    "title_cn": "Trump Prepares for Iran Escalation After US, Israeli Polls",
-    "summary": "A Middle East war that US President Donald Trump said would be over in a matter of weeks now looks set to escalate as it enters its ninth month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/trump-prepares-for-iran-escalation-after-us-israeli-elections",
-    "published": "Sat, 24 Oct 2026 13:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:26.687251"
-  },
-  {
-    "id": "40e8ed978b1f",
-    "title": "Britain’s Migration Clampdown Puts Fear Into £15 Billion Care Sector",
-    "title_cn": "Britain’s Migration Clampdown Puts Fear Into £15 Billion Care Sector",
-    "summary": "In Britain, the government ensures that more than 650,000 vulnerable people receive daily visits from carers who help them wash, eat and attend to any medical conditions. That same government’s crackdown on immigration is putting the sector at risk.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/britain-s-migration-clampdown-puts-fear-into-15-billion-care-sector",
-    "published": "Sun, 25 Oct 2026 07:00:00 GMT",
-    "source": "International",
-    "fetched_at": "2026-10-25T13:56:27.227938"
+    "fetched_at": "2026-10-25T17:32:50.323839"
   },
   {
     "id": "fdb0d477dc11",
@@ -637,76 +547,176 @@
     "link": "https://www.bloomberg.com/news/articles/2026-10-25/serb-strongman-faces-new-rival-in-watershed-vote-what-to-watch",
     "published": "Sun, 25 Oct 2026 05:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:27.852389"
+    "fetched_at": "2026-10-25T17:32:50.774423"
   },
   {
-    "id": "82b70bfbe31a",
-    "title": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
-    "title_cn": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
-    "summary": "President Donald Trump defended his decision to wield tariffs during a campaign rally in Georgia, saying they’ve made the US richer as he announced that Volkswagen AG agreed to build a new $4.2 billion Audi plant in the state.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/trump-defends-tariffs-at-rally-as-he-says-audi-to-build-us-plant",
-    "published": "Sun, 25 Oct 2026 00:35:58 GMT",
+    "id": "fdc40b83a97b",
+    "title": "Hassett Says US Close to Deal With Canada as Talks Pick Up",
+    "title_cn": "Hassett Says US Close to Deal With Canada as Talks Pick Up",
+    "summary": "US trade negotiations with Canada have picked up and are “gathering steam,” White House economic adviser Kevin Hassett says in an interview with Fox News.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/hassett-says-us-close-to-deal-with-canada-as-talks-pick-up",
+    "published": "Sun, 25 Oct 2026 15:28:12 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:28.497369"
+    "fetched_at": "2026-10-25T17:32:51.251196"
   },
   {
-    "id": "82b33ddf4665",
-    "title": "Obama Blasts ‘Spineless Congress’ in Push for Democrat El-Sayed",
-    "title_cn": "Obama Blasts ‘Spineless Congress’ in Push for Democrat El-Sayed",
-    "summary": "Former President Barack Obama pinned inflation and high prices on President Donald Trump and urged Democrats to get to the polls, especially for Senate hopeful Abdul El-Sayed, in a final push as early voting started in the state Saturday.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-25/obama-blasts-spineless-congress-in-push-for-democrat-el-sayed",
-    "published": "Sun, 25 Oct 2026 00:59:56 GMT",
+    "id": "03353e239097",
+    "title": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
+    "title_cn": "Trump Says Decision Time Nears on Iran: Deal or ‘Finish It Off’",
+    "summary": "President Donald Trump said it’s “getting to be decision time” on whether he will make a deal with Tehran or resume attacks as Iranian and Houthi threats against Americans in the Middle East continue to grow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/trump-says-decision-time-nears-on-iran-deal-or-finish-it-off",
+    "published": "Sun, 25 Oct 2026 14:57:05 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:29.054380"
+    "fetched_at": "2026-10-25T17:32:51.643896"
   },
   {
-    "id": "e71c97c7fe3a",
-    "title": "Kim Jong Un Visits China for Second Trip in Just Over a Year",
-    "title_cn": "Kim Jong Un Visits China for Second Trip in Just Over a Year",
-    "summary": "North Korean leader Kim Jong Un visited China on Saturday, his second visit in just over a year and ahead of a trip to the region by US President Donald Trump next month.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/kim-jong-un-arrives-in-china-s-dandong-city-yonhap-reports",
-    "published": "Sat, 24 Oct 2026 06:21:07 GMT",
+    "id": "1fa5fb5ab7c3",
+    "title": "Iran War Risks Escalation After Elections",
+    "title_cn": "Iran War Risks Escalation After Elections",
+    "summary": "On Bloomberg This Weekend, former US Ambassador to Israel Daniel Shapiro assesses the risk of renewed fighting with Iran after elections in Israel and the US and warns that another round of military operations could deepen regional and global economic strains. Speaking with hosts David Gura and Christina Ruffini, Shapiro examines Israel’s election and argues that a change in Israeli leadership could provide an opportunity to reset a US-Israel relationship that has become increasingly strained. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/iran-war-risks-escalation-after-elections-video",
+    "published": "Sun, 25 Oct 2026 14:48:35 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:29.459288"
+    "fetched_at": "2026-10-25T17:32:52.235192"
   },
   {
-    "id": "8cbd6d9a869b",
-    "title": "Bolsonaro and Lula in Dead Heat a Day Before Runoff, Poll Shows",
-    "title_cn": "Bolsonaro and Lula in Dead Heat a Day Before Runoff, Poll Shows",
-    "summary": "Flávio Bolsonaro and President Luiz Inácio Lula da Silva were statistically tied in a poll released on the eve of Brazil’s runoff election.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/bolsonaro-and-lula-in-dead-heat-a-day-before-runoff-polls-shows",
-    "published": "Sat, 24 Oct 2026 21:30:56 GMT",
+    "id": "0d3f28310309",
+    "title": "Italy’s Salvini Wins New League Mandate With Anti-Ukraine Pledge",
+    "title_cn": "Italy’s Salvini Wins New League Mandate With Anti-Ukraine Pledge",
+    "summary": "Giorgia Meloni ally Matteo Salvini was reelected leader of his far-right party League, part of Italy’s ruling coalition, after he promised to push the government to stop supporting Ukraine.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/italy-s-salvini-wins-new-league-mandate-with-anti-ukraine-pledge",
+    "published": "Sun, 25 Oct 2026 14:45:19 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:29.893278"
+    "fetched_at": "2026-10-25T17:32:52.711153"
   },
   {
-    "id": "ce58f605dae3",
-    "title": "Trump Casts Early In-Person Ballot After Attacks on Mail Voting",
-    "title_cn": "Trump Casts Early In-Person Ballot After Attacks on Mail Voting",
-    "summary": "President Donald Trump cast his ballot for the midterm elections in Palm Beach on Saturday, opting to vote early in his adopted home state of Florida.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/trump-casts-early-in-person-ballot-after-attacks-on-mail-voting",
-    "published": "Sat, 24 Oct 2026 20:44:20 GMT",
+    "id": "ea49ed84c347",
+    "title": "Trump Says He Plans More Announcements on Economy",
+    "title_cn": "Trump Says He Plans More Announcements on Economy",
+    "summary": "President Donald Trump says his administration has “many other announcements” to make following his announcement of Volkswagen AG’s plan to build an Audi factory in Georgia.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/trump-says-he-plans-more-announcements-on-economy",
+    "published": "Sun, 25 Oct 2026 14:42:54 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:30.454394"
+    "fetched_at": "2026-10-25T17:32:53.268378"
   },
   {
-    "id": "a2b77e1fc80f",
-    "title": "French Protests Begin as Police Seek to Avoid Repeat of Violence",
-    "title_cn": "French Protests Begin as Police Seek to Avoid Repeat of Violence",
-    "summary": "Police used tear gas and a water cannon to disperse crowds in Paris after tens of thousands of people marched largely peacefully on Saturday to protest the high cost of living and insufficient school funding.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/french-protests-begin-as-police-seek-to-avoid-repeat-of-violence",
-    "published": "Sat, 24 Oct 2026 13:21:53 GMT",
+    "id": "1932f4e4f414",
+    "title": "Midterm Fight Intensifies in Final Campaign Stretch",
+    "title_cn": "Midterm Fight Intensifies in Final Campaign Stretch",
+    "summary": "On Bloomberg This Weekend, CBS News White House and political correspondent Ed O’Keefe and Puck Washington writer Abby Livingston examine the final days of the US midterm campaign as candidates, former presidents and outside groups pour resources into key battlegrounds. Speaking with hosts David Gura and Christina Ruffini, O’Keefe and Livingston discuss tightening races, the impact of massive political spending and whether increasingly provocative campaign tactics will motivate or alienate voters. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/midterm-fight-intensifies-in-final-campaign-stretch-video",
+    "published": "Sun, 25 Oct 2026 14:13:24 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:31.047699"
+    "fetched_at": "2026-10-25T17:32:53.664738"
   },
   {
-    "id": "2bcac929353b",
-    "title": "Ukraine Says Restrictions on Starlink Speed Have Been Lifted",
-    "title_cn": "Ukraine Says Restrictions on Starlink Speed Have Been Lifted",
-    "summary": "Ukraine said limits on the speed of its SpaceX Starlink terminal connections had been lifted in overnight testing, a move that may ease the latest tensions between Kyiv and Washington.",
-    "link": "https://www.bloomberg.com/news/articles/2026-10-24/ukraine-says-restrictions-on-starlink-speed-have-been-lifted",
-    "published": "Sat, 24 Oct 2026 07:59:59 GMT",
+    "id": "73dd03644c3d",
+    "title": "Rep. Crenshaw Presses Musk on Starlink for Ukraine",
+    "title_cn": "Rep. Crenshaw Presses Musk on Starlink for Ukraine",
+    "summary": "On Bloomberg This Weekend, Republican Rep. Dan Crenshaw of Texas calls for expanding Ukraine’s access to Starlink over Russia and increasing pressure on Vladimir Putin to create leverage for peace negotiations. Speaking with hosts David Gura and Christina Ruffini, Crenshaw also discusses President Donald Trump’s Russia policy, the US midterms and his concerns about social media’s influence on American politics as he prepares to leave Congress. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/rep-crenshaw-presses-musk-on-starlink-for-ukraine-video",
+    "published": "Sun, 25 Oct 2026 14:04:25 GMT",
     "source": "International",
-    "fetched_at": "2026-10-25T13:56:31.412147"
+    "fetched_at": "2026-10-25T17:32:54.194883"
+  },
+  {
+    "id": "db8b298fd9f6",
+    "title": "Israel Election Tests Netanyahu’s Hold on Power",
+    "title_cn": "Israel Election Tests Netanyahu’s Hold on Power",
+    "summary": "On Bloomberg This Weekend, former Israeli Prime Minister Ehud Olmert discusses how security, democracy and the war in Iran are shaping Israel’s election and argues that the country needs a change in its approach to settler violence in the West Bank. Speaking with hosts David Gura and Christina Ruffini, Olmert also examines how the US midterms could affect the US-Israel relationship and says decisions about further military action against Iran should be based on intelligence rather than electoral politics. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/israel-election-tests-netanyahu-s-hold-on-power-video",
+    "published": "Sun, 25 Oct 2026 13:31:29 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:54.628239"
+  },
+  {
+    "id": "dc7888cbb8c8",
+    "title": "Epstein Haunts GOP in Midterms as Democrats Vow Fresh Probes",
+    "title_cn": "Epstein Haunts GOP in Midterms as Democrats Vow Fresh Probes",
+    "summary": "President Donald Trump can’t shake the furor over Jeffrey Epstein.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/epstein-haunts-gop-in-midterms-as-democrats-vow-fresh-probes",
+    "published": "Sun, 25 Oct 2026 13:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:55.245125"
+  },
+  {
+    "id": "263f121e50ef",
+    "title": "VW Plans New Audi Plant in Georgia, Handing Trump a Win",
+    "title_cn": "VW Plans New Audi Plant in Georgia, Handing Trump a Win",
+    "summary": "Volkswagen AG plans to build a new $4 billion factory for its premium Audi brand in the southern US state of Georgia, expecting the move will yield potential relief from tariffs that have severely eroded profits.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-24/volkswagen-plans-new-audi-plant-in-georgia-handing-trump-a-win",
+    "published": "Sat, 24 Oct 2026 19:52:40 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:55.700116"
+  },
+  {
+    "id": "d4a036b16864",
+    "title": "Musk’s Money Reshapes the Midterm Spending Race",
+    "title_cn": "Musk’s Money Reshapes the Midterm Spending Race",
+    "summary": "On Bloomberg This Weekend, Bloomberg Corporate Lobbying and Influence Reporter Emily Birnbaum explains how Elon Musk’s record political giving is boosting Republican groups in the final days before the US midterms. Bloomberg News reports Musk has now contributed more than $445 million to political groups this election cycle, putting him among the biggest political contributors ever. Speaking with hosts David Gura and Christina Ruffini, Birnbaum examines Republicans’ advantage in outside spending and Democrats’ strength in direct candidate fundraising, which can make their advertising dollars go further. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/musk-s-money-reshapes-the-midterm-spending-race-video",
+    "published": "Sun, 25 Oct 2026 13:15:04 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:56.031148"
+  },
+  {
+    "id": "cf493dc81f6f",
+    "title": "Higher Energy Costs Weigh on Trump’s Midterm Pitch",
+    "title_cn": "Higher Energy Costs Weigh on Trump’s Midterm Pitch",
+    "summary": "On Bloomberg This Weekend, Financial Times Associate Editor and Sea Change author Rana Foroohar explains how the Iran war and higher energy costs are shaping voters’ economic concerns ahead of the US midterms. Speaking with hosts David Gura and Christina Ruffini, Foroohar also examines America’s competition with China and Russia over shipping, infrastructure and influence in a rapidly changing Arctic. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/higher-energy-costs-weigh-on-trump-s-midterm-pitch-video",
+    "published": "Sun, 25 Oct 2026 13:03:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:56.533343"
+  },
+  {
+    "id": "b3630546574c",
+    "title": "Brian Fitzpatrick Faces Tough Pennsylvania House Race Despite Trump Distance",
+    "title_cn": "Brian Fitzpatrick Faces Tough Pennsylvania House Race Despite Trump Distance",
+    "summary": "For one Pennsylvania Republican, winning reelection to the US House in a suburban Philadelphia seat likely hinges on his long-standing effort to keep President Donald Trump at arm’s length.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/brian-fitzpatrick-faces-tough-pennsylvania-house-race-despite-trump-distance",
+    "published": "Sun, 25 Oct 2026 12:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:57.050122"
+  },
+  {
+    "id": "4286af23d97a",
+    "title": "Brazil’s Presidential Race Comes Down to the Wire",
+    "title_cn": "Brazil’s Presidential Race Comes Down to the Wire",
+    "summary": "On Bloomberg This Weekend, Bloomberg Brazil Country Chief Filipe Pacheco explains how turnout, public security and the economy are shaping the razor-thin presidential runoff between President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro. Speaking with hosts David Gura and Christina Ruffini, Pacheco examines Lula’s last-minute push to mobilize voters through social media and what the election could mean for the future of Latin America’s largest economy. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/brazil-s-presidential-race-comes-down-to-the-wire-video",
+    "published": "Sun, 25 Oct 2026 12:19:43 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:57.476044"
+  },
+  {
+    "id": "e3de5ef74c59",
+    "title": "Brazil Presidential Election 2026 Live Updates: Lula, Bolsonaro Vie for Voters",
+    "title_cn": "Brazil Presidential Election 2026 Live Updates: Lula, Bolsonaro Vie for Voters",
+    "summary": "",
+    "link": "https://www.bloomberg.com/news/live-blog/2026-10-25/brazil-presidential-runoff-election-live-updates",
+    "published": "Sun, 25 Oct 2026 12:06:17 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:57.920179"
+  },
+  {
+    "id": "9da8656f9362",
+    "title": "US and Israel Elections Loom Over Iran War",
+    "title_cn": "US and Israel Elections Loom Over Iran War",
+    "summary": "On Bloomberg This Weekend, Bloomberg Economics Defense Lead Becca Wasser and Bloomberg News Middle East correspondent Dan Williams examine how elections in the US and Israel could shape the next phase of the Iran war, including the possibility of renewed US strikes after the midterms. Speaking with hosts David Gura and Christina Ruffini, Wasser and Williams assess potential US military options, Iran’s capacity to retaliate and the political calculations facing President Donald Trump and Israeli Prime Minister Benjamin Netanyahu. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-10-25/us-and-israel-elections-loom-over-iran-war-video",
+    "published": "Sun, 25 Oct 2026 11:49:45 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:58.325615"
+  },
+  {
+    "id": "ada946306750",
+    "title": "UK’s Rayner Defends Burnham Move to Revisit EU Free Movement",
+    "title_cn": "UK’s Rayner Defends Burnham Move to Revisit EU Free Movement",
+    "summary": "Housing Secretary Angela Rayner denied that Andy Burnham is reopening the Brexit debate by reconsidering a key manifesto pledge to rule out freedom of movement with the European Union, saying the prime minister is simply seeking an “honest conversation” about Britain’s future relationship with the bloc.",
+    "link": "https://www.bloomberg.com/news/articles/2026-10-25/uk-s-rayner-defends-burnham-move-to-revisit-eu-free-movement",
+    "published": "Sun, 25 Oct 2026 11:07:52 GMT",
+    "source": "International",
+    "fetched_at": "2026-10-25T17:32:58.756064"
   }
 ]
