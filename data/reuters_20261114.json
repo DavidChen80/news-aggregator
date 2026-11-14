@@ -1,13 +1,73 @@
 [
   {
+    "id": "e51e60e8e4e9",
+    "title": "Bloomberg This Weekend: FAA Ground Stop Over (Podcast)",
+    "title_cn": "Bloomberg This Weekend: FAA Ground Stop Over (Podcast)",
+    "summary": "Source: Bloomberg, 38:11",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-14/bloomberg-this-weekend-faa-ground-stop-over-podcast",
+    "published": "Sat, 14 Nov 2026 15:53:10 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T15:59:58.483364"
+  },
+  {
+    "id": "d18823ae451e",
+    "title": "Flight Chaos Persists, Thousands of Cancellations, Delays, More",
+    "title_cn": "Flight Chaos Persists, Thousands of Cancellations, Delays, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-14/flight-chaos-persists-thousands-of-cancellations-delays-more",
+    "published": "Sat, 14 Nov 2026 14:49:54 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T15:59:58.878220"
+  },
+  {
     "id": "9c6a6464fbf5",
-    "title": "FAA Ends Ground Stop as US Air Travel Faces Days of Disruption",
-    "title_cn": "FAA Ends Ground Stop as US Air Travel Faces Days of Disruption",
-    "summary": "US authorities lifted a nationwide ground stop after a four-hour shutdown disrupted thousands of flights and stranded passengers across the country, with delays expected to spill into the weekend.",
+    "title": "US Flight Chaos Persists With Thousands of Cancellations, Delays",
+    "title_cn": "US Flight Chaos Persists With Thousands of Cancellations, Delays",
+    "summary": "US air travel struggled to recover Saturday from the longest nationwide flight suspension since the September 2001 terrorist attacks, with thousands of cancellations following an outage that laid bare the fragility of America’s aviation infrastructure.",
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage",
     "published": "Sat, 14 Nov 2026 01:28:38 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:16.504038"
+    "fetched_at": "2026-11-14T15:59:59.287950"
+  },
+  {
+    "id": "81781531dc0a",
+    "title": "Italy Pitches Germany Observer Status in Fighter Jet Program",
+    "title_cn": "Italy Pitches Germany Observer Status in Fighter Jet Program",
+    "summary": "Italy has formally proposed giving Germany observer status in a fighter jet program it’s developing with the UK and Japan, rejecting a report that it opposed Berlin joining the group.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-pitches-germany-observer-status-in-fighter-jet-program",
+    "published": "Sat, 14 Nov 2026 14:05:20 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T15:59:59.845504"
+  },
+  {
+    "id": "05aec93838cc",
+    "title": "Post-Ground Stop Chaos, SpaceX Launch, Ukraine Peace Offer, More",
+    "title_cn": "Post-Ground Stop Chaos, SpaceX Launch, Ukraine Peace Offer, More",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-14/post-ground-stop-chaos-spacex-launch-ukraine-peace-offer-more",
+    "published": "Sat, 14 Nov 2026 13:02:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:00.142925"
+  },
+  {
+    "id": "3be85b08d481",
+    "title": "FAA Lifts Nationwide Groundstop, Flight Disruptions Continue",
+    "title_cn": "FAA Lifts Nationwide Groundstop, Flight Disruptions Continue",
+    "summary": "Source: Bloomberg, 0:00",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-lifts-nationwide-groundstop-flight-disruptions-continue",
+    "published": "Sat, 14 Nov 2026 11:38:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:00.727757"
+  },
+  {
+    "id": "68c41808605e",
+    "title": "US Air Force Responds to Drone Activity At UK Base, PA Says",
+    "title_cn": "US Air Force Responds to Drone Activity At UK Base, PA Says",
+    "summary": "The US Air Force has responded to suspicious drone activity at a base in eastern England, the Press Association reported, the latest of several recent security incidents at UK facilities used by the US military.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/us-air-force-responds-to-drone-activity-at-uk-base-pa-says",
+    "published": "Sat, 14 Nov 2026 11:00:30 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:01.214805"
   },
   {
     "id": "d385df6de1e1",
@@ -17,7 +77,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-sec-duffy-wants-50-billion-funding-more",
     "published": "Sat, 14 Nov 2026 04:34:27 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:16.769424"
+    "fetched_at": "2026-11-14T16:00:01.616968"
   },
   {
     "id": "a03c994a7239",
@@ -27,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-duffy-wants-emergency-funding-more",
     "published": "Sat, 14 Nov 2026 03:33:03 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:17.236847"
+    "fetched_at": "2026-11-14T16:00:02.060862"
   },
   {
     "id": "9c97edb5cc53",
@@ -37,7 +97,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/faa-flight-ground-stop-leaves-passengers-in-airport-limbo-across-us",
     "published": "Sat, 14 Nov 2026 03:19:02 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:17.666953"
+    "fetched_at": "2026-11-14T16:00:02.544877"
   },
   {
     "id": "275076d36d4a",
@@ -47,7 +107,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/afterpay-co-founder-molnar-to-leave-dorsey-s-block-at-year-end",
     "published": "Sat, 14 Nov 2026 02:46:07 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:18.090138"
+    "fetched_at": "2026-11-14T16:00:03.007861"
   },
   {
     "id": "8c14c3a3054b",
@@ -57,7 +117,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/bessent-hits-lutnick-on-nvidia-affair-evening-briefing-americas",
     "published": "Fri, 13 Nov 2026 23:07:37 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:18.489459"
+    "fetched_at": "2026-11-14T16:00:03.584519"
   },
   {
     "id": "8c2d7addf16b",
@@ -67,7 +127,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-trump-to-meet-xi-putin-in-china-more",
     "published": "Sat, 14 Nov 2026 02:33:34 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:18.796460"
+    "fetched_at": "2026-11-14T16:00:03.877383"
   },
   {
     "id": "cda4a305a081",
@@ -77,7 +137,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/nationwide-ground-stop-continues-no-indication-of-threat-more-mwfptr2i",
     "published": "Sat, 14 Nov 2026 01:12:21 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:19.179267"
+    "fetched_at": "2026-11-14T16:00:04.287016"
   },
   {
     "id": "430792913a22",
@@ -87,7 +147,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-14/nvidia-s-jensen-huang-drama-spotlights-singapore-s-megaspeed-ex-md-alice-huang",
     "published": "Sat, 14 Nov 2026 01:00:02 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:19.624096"
+    "fetched_at": "2026-11-14T16:00:05.911986"
   },
   {
     "id": "f1fb4bf27fcb",
@@ -97,7 +157,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/bloomberg-money-november-13th-2026-podcast",
     "published": "Sat, 14 Nov 2026 00:32:21 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:20.157535"
+    "fetched_at": "2026-11-14T16:00:06.355500"
   },
   {
     "id": "e69d5c4b88ea",
@@ -107,7 +167,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/nationwide-ground-stop-continues-fbi-probes-outage-more",
     "published": "Sat, 14 Nov 2026 00:17:24 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:20.600006"
+    "fetched_at": "2026-11-14T16:00:06.682103"
   },
   {
     "id": "675b079afdb7",
@@ -117,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/nook-turns-hong-kong-nostalgia-into-a-polished-dinner-on-the-peak",
     "published": "Sat, 14 Nov 2026 00:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:20.910392"
+    "fetched_at": "2026-11-14T16:00:07.128782"
   },
   {
     "id": "60fa6608b5b0",
@@ -127,7 +187,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-13/fbi-probes-mass-faa-outage-doesn-t-believe-it-was-cyberattack",
     "published": "Fri, 13 Nov 2026 23:31:08 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:21.260808"
+    "fetched_at": "2026-11-14T16:00:07.671067"
   },
   {
     "id": "28837e750999",
@@ -137,67 +197,147 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-businessweek-daily-jensen-s-nvidia-leave-podcast",
     "published": "Fri, 13 Nov 2026 23:18:30 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:21.558337"
+    "fetched_at": "2026-11-14T16:00:08.035499"
   },
   {
-    "id": "de802b1c952b",
-    "title": "Bloomberg Talks: Mark Jacobson (Podcast)",
-    "title_cn": "Bloomberg Talks: Mark Jacobson (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-talks-mark-jacobson-podcast",
-    "published": "Fri, 13 Nov 2026 22:52:14 GMT",
+    "id": "a45434885359",
+    "title": "How China’s Intelligence Operations Target Tech",
+    "title_cn": "How China’s Intelligence Operations Target Tech",
+    "summary": "Former CIA counterintelligence analyst Peter Mattis tells Bloomberg This Weekend how China’s Ministry of State Security can use business and personal relationships to gather intelligence and potentially influence decision-making in strategically important industries. Speaking with hosts David Gura and Christina Ruffini, Mattis explains why technology executives can become valuable targets even without access to classified information and how AI is expanding the capabilities of Chinese intelligence operations. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
+    "published": "Sat, 14 Nov 2026 15:41:12 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:21.900210"
+    "fetched_at": "2026-11-14T16:00:08.918110"
   },
   {
-    "id": "1d7f1f092bf5",
-    "title": "FAA Issues Nationwide Ground Stop, No Indication of Threat, More",
-    "title_cn": "FAA Issues Nationwide Ground Stop, No Indication of Threat, More",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-13/faa-issues-nationwide-ground-stop-no-indication-of-threat-more",
-    "published": "Fri, 13 Nov 2026 22:47:13 GMT",
+    "id": "1f9dce75f8d4",
+    "title": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+    "title_cn": "Fed’s Collins Says ‘Steady, Gradual’ Rate Hikes Appropriate",
+    "summary": "Federal Reserve Bank of Boston President Susan Collins said a gradual path for interest-rate hikes will be appropriate to lower inflation, as the labor market gains solid footing without adding to price pressures.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+    "published": "Sat, 14 Nov 2026 15:08:45 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:22.215391"
+    "fetched_at": "2026-11-14T16:00:09.475847"
   },
   {
-    "id": "23b4b1957b0c",
-    "title": "Canada Backs Woodfibre LNG Expansion With C$200 Million Grant",
-    "title_cn": "Canada Backs Woodfibre LNG Expansion With C$200 Million Grant",
-    "summary": "Plus: Stelco workers get their jobs back",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/canada-backs-woodfibre-lng-expansion-with-c-200-million-grant",
-    "published": "Fri, 13 Nov 2026 22:39:03 GMT",
+    "id": "e934f405705d",
+    "title": "The Stadium Bidding War Shaking Up the Midwest",
+    "title_cn": "The Stadium Bidding War Shaking Up the Midwest",
+    "summary": "The Chicago Bears are weighing three possible homes for a new stadium: downtown Chicago, suburban Arlington Heights and Hammond, Indiana. The competition has turned into a high-stakes economic development battle involving billions of dollars in potential investment, tax incentives and public financing. Supporters say a new stadium could generate jobs, development and tax revenue, but former Indiana Governor Mitch Daniels warns that emotion can push politicians into deals that leave taxpayers paying the bill long after the ribbon cutting. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
+    "published": "Sat, 14 Nov 2026 15:04:14 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:22.702389"
+    "fetched_at": "2026-11-14T16:00:10.053799"
   },
   {
-    "id": "90e46b7e1209",
-    "title": "Bloomberg Businessweek Daily: FOIA Files Newsletter (Podcast)",
-    "title_cn": "Bloomberg Businessweek Daily: FOIA Files Newsletter (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-13/bloomberg-businessweek-daily-foia-files-newsletter-podcast",
-    "published": "Fri, 13 Nov 2026 22:35:44 GMT",
+    "id": "b4562e260538",
+    "title": "SpaceX Pushes Starship Reusability to New Test",
+    "title_cn": "SpaceX Pushes Starship Reusability to New Test",
+    "summary": "Space Network co-founder Ross Hamilton tells Bloomberg This Weekend why SpaceX’s attempt to catch Starship after its return from orbit could mark a major step toward making the rocket system fully reusable. Speaking with hosts David Gura and Christina Ruffini, Hamilton explains how more frequent and less expensive launches could accelerate Starlink expansion, orbital data centers and SpaceX’s broader ambitions in space. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
+    "published": "Sat, 14 Nov 2026 14:36:01 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:23.255267"
+    "fetched_at": "2026-11-14T16:00:10.617333"
   },
   {
-    "id": "455be46ec107",
-    "title": "Stock Movers: Nvidia, Microsoft, CoreWeave (Podcast)",
-    "title_cn": "Stock Movers: Nvidia, Microsoft, CoreWeave (Podcast)",
-    "summary": "Source: Bloomberg, 0:00",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-13/stock-movers-nvidia-microsoft-coreweave-podcast",
-    "published": "Fri, 13 Nov 2026 22:21:41 GMT",
+    "id": "04b767dff29e",
+    "title": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+    "title_cn": "Bessent, Lutnick Clash Over Nvidia China Curbs",
+    "summary": "Axios AI policy reporter Maria Curi tells Bloomberg This Weekend about tensions inside the Trump administration over efforts to restrict the flow of advanced Nvidia chips to China and scrutiny of Commerce Secretary Howard Lutnick’s handling of Megaspeed. Speaking with hosts David Gura and Christina Ruffini, Curi explains the reported disagreements between Lutnick and other senior officials, including Scott Bessent, and the national security questions surrounding US technology exports to China. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
+    "published": "Sat, 14 Nov 2026 14:30:24 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:23.755675"
+    "fetched_at": "2026-11-14T16:00:11.049699"
   },
   {
-    "id": "3af2b1808982",
-    "title": "COP31 Stakeholders Are Grappling With Climate Change That Outpaces Modeling",
-    "title_cn": "COP31 Stakeholders Are Grappling With Climate Change That Outpaces Modeling",
-    "summary": "<p>Scientists found striking differences that have implications for efforts to<br />\nguard against global warming's impacts on the planet.&nbsp;<br />\n&nbsp;</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/cop31-stakeholders-are-grappling-with-climate-change-that-outpaces-modeling",
-    "published": "Fri, 13 Nov 2026 21:57:17 GMT",
+    "id": "3fae8785dc4b",
+    "title": "Trump Heads to China for Talks With Xi and Putin",
+    "title_cn": "Trump Heads to China for Talks With Xi and Putin",
+    "summary": "Bloomberg White House correspondent Jeff Mason tells Bloomberg This Weekend how the Trump administration responded to a nationwide FAA ground stop and Transportation Secretary Sean Duffy’s push for $50 billion to modernize the US air traffic control system. Speaking with hosts David Gura and Christina Ruffini, Mason also looks ahead to President Donald Trump’s Asia trip and a planned meeting with Chinese President Xi Jinping as technology and AI remain in focus. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
+    "published": "Sat, 14 Nov 2026 14:11:19 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:24.276584"
+    "fetched_at": "2026-11-14T16:00:11.338346"
+  },
+  {
+    "id": "a8a156114581",
+    "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+    "title_cn": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+    "summary": "Just months after SpaceX was denied a swift entry into the S&amp;P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmark’s biggest members.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+    "published": "Sat, 14 Nov 2026 14:00:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:11.690215"
+  },
+  {
+    "id": "c65e22fd13eb",
+    "title": "David Cameron Sees Hope in Alzheimer’s Research",
+    "title_cn": "David Cameron Sees Hope in Alzheimer’s Research",
+    "summary": "On Bloomberg This Weekend, former UK Prime Minister David Cameron discusses the personal toll of losing his mother to Alzheimer’s and the accelerating search for better diagnostics, treatments and ultimately a cure. Cameron tells hosts David Gura and Christina Ruffini about promising drug research, the potential of blood tests to transform diagnosis and why governments should move faster to support clinical trials and expand access to new treatments. Cameron’s Ending Alzheimer’s podcast launches November 16. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
+    "published": "Sat, 14 Nov 2026 13:48:34 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:12.126318"
+  },
+  {
+    "id": "6592ceefcf92",
+    "title": "Ukraine Peace Push Turns to NATO and Donbas",
+    "title_cn": "Ukraine Peace Push Turns to NATO and Donbas",
+    "summary": "Bloomberg Economics defense lead Becca Wasser tells Bloomberg This Weekend that a US proposal linking NATO membership to Ukrainian concessions in the Donbas represents movement in peace talks but faces significant political and security hurdles. Speaking with hosts David Gura and Christina Ruffini, Wasser also examines Ukraine’s battlefield pressures and how the US could reshape its military presence in the Middle East after the war with Iran. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
+    "published": "Sat, 14 Nov 2026 13:30:12 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:12.662302"
+  },
+  {
+    "id": "849d1a8e7519",
+    "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+    "title_cn": "Miller’s White House Ascent Rattles Mexico Trade Negotiators",
+    "summary": "A new and not-so-friendly face is poised to loom over the negotiating table where the US and Mexico are still trying to hammer out a trade deal.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/miller-s-white-house-ascent-rattles-mexico-trade-negotiators",
+    "published": "Sat, 14 Nov 2026 13:30:00 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:12.969805"
+  },
+  {
+    "id": "fe7cccb2b8f8",
+    "title": "Air Travel Chaos Puts FAA Systems in Focus",
+    "title_cn": "Air Travel Chaos Puts FAA Systems in Focus",
+    "summary": "Bloomberg Intelligence senior airlines analyst George Ferguson tells Bloomberg This Weekend that the nationwide ground stop underscores the difficulty of modernizing an aging US air traffic control system while keeping flights moving safely. Speaking with hosts David Gura and Christina Ruffini, Ferguson explains why upgrading legacy technology is so complicated and how airlines face the challenge of restoring schedules after thousands of cancellations and delays. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
+    "published": "Sat, 14 Nov 2026 13:21:26 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:13.500069"
+  },
+  {
+    "id": "3608eaab3a56",
+    "title": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
+    "title_cn": "Guinea Plans Bauxite Index as It Seeks to Bolster Ore Prices",
+    "summary": "Guinea, the world’s biggest exporter of bauxite, plans to establish an index for the raw material as part of wider efforts to bolster prices.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
+    "published": "Sat, 14 Nov 2026 11:27:57 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:13.898220"
+  },
+  {
+    "id": "2aee7ffc9087",
+    "title": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
+    "title_cn": "Goldman Sachs Sees 19% Return on Asia ex-Japan Stocks in 2027",
+    "summary": "Goldman Sachs expects earnings growth to drive a 19% return for the MSCI Asia ex-Japan Index in dollar terms next year, even as it warned that uncertainty over artificial intelligence could fuel volatility.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
+    "published": "Sat, 14 Nov 2026 10:16:50 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:14.456269"
+  },
+  {
+    "id": "e31f8894c2f3",
+    "title": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
+    "title_cn": "Centrica, Equinor in Next Round of Germany’s Uniper Sale",
+    "summary": "Centrica Plc and Equinor ASA are among companies advancing to the second round of the sale process for Germany’s Uniper SE, according to people familiar with the matter.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
+    "published": "Fri, 13 Nov 2026 19:53:07 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:14.747629"
   },
   {
     "id": "fd5aa7c35323",
@@ -207,7 +347,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
     "published": "Sat, 14 Nov 2026 09:00:19 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:24.886080"
+    "fetched_at": "2026-11-14T16:00:15.141422"
   },
   {
     "id": "704aeb1aa5fe",
@@ -217,7 +357,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
     "published": "Sat, 14 Nov 2026 09:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:25.388225"
+    "fetched_at": "2026-11-14T16:00:15.575539"
   },
   {
     "id": "5c49decd739a",
@@ -227,17 +367,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
     "published": "Sat, 14 Nov 2026 08:30:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:25.778023"
-  },
-  {
-    "id": "e31f8894c2f3",
-    "title": "Centrica, Equinor Advance to Next Round of Germany’s Uniper Sale",
-    "title_cn": "Centrica, Equinor Advance to Next Round of Germany’s Uniper Sale",
-    "summary": "Centrica Plc and Equinor ASA are among companies advancing to the second round of the sale process for Germany’s Uniper SE, according to people familiar with the matter.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
-    "published": "Fri, 13 Nov 2026 19:53:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:26.262731"
+    "fetched_at": "2026-11-14T16:00:16.067233"
   },
   {
     "id": "23fd4efb5318",
@@ -247,7 +377,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-12/quant-trading-firm-imc-plans-to-double-staff-in-hong-kong",
     "published": "Thu, 12 Nov 2026 00:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:26.605791"
+    "fetched_at": "2026-11-14T16:00:16.619759"
   },
   {
     "id": "824bc619e676",
@@ -257,7 +387,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
     "published": "Sat, 14 Nov 2026 05:20:13 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:26.995805"
+    "fetched_at": "2026-11-14T16:00:16.924392"
   },
   {
     "id": "3c998a2a428f",
@@ -267,137 +397,77 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-to-meet-all-new-power-demand-with-clean-energy-cctv-says",
     "published": "Sat, 14 Nov 2026 04:05:34 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:27.327163"
+    "fetched_at": "2026-11-14T16:00:17.368090"
   },
   {
-    "id": "97f660e5d936",
-    "title": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-    "title_cn": "Venezuela Vows to Complete Colombia Pipeline Repairs by March",
-    "summary": "Venezuela vowed to complete repairs on a key binational pipeline with Colombia by March, helping its neighbor offset dwindling reserves.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/venezuela-vows-to-complete-colombia-pipeline-repairs-by-march",
-    "published": "Sat, 14 Nov 2026 03:44:05 GMT",
+    "id": "d9dd253e67c6",
+    "title": "Anthropic IPO Tests Investor Appetite for AI",
+    "title_cn": "Anthropic IPO Tests Investor Appetite for AI",
+    "summary": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned investment in Anthropic and Huang’s central role connecting the companies powering the AI boom. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
+    "published": "Sat, 14 Nov 2026 15:54:39 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:27.647356"
+    "fetched_at": "2026-11-14T16:00:18.207032"
   },
   {
-    "id": "31097236ace0",
-    "title": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-    "title_cn": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-    "summary": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-    "published": "Sat, 14 Nov 2026 02:04:53 GMT",
+    "id": "aacb84c5f83d",
+    "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
+    "title_cn": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
+    "summary": "The Italian Data Protection Authority fined Meta Platforms Inc. €805 million ($887 million) for accessing photos and videos of Android users’ galleries without their explicit consent.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
+    "published": "Sat, 14 Nov 2026 14:53:25 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:28.053713"
+    "fetched_at": "2026-11-14T16:00:18.595216"
   },
   {
-    "id": "9552de7a81b6",
-    "title": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
-    "title_cn": "Cruise Ship Capsizes After Tanker Collision in New Orleans",
-    "summary": "All passengers and crew members aboard a river cruise ship that capsized after a tanker collision in New Orleans on Friday were accounted for, with 32 people hospitalized but none critically injured, according to Mayor Helena Moreno. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/cruise-ship-capsizes-after-tanker-crash-in-new-orleans-video",
-    "published": "Sat, 14 Nov 2026 00:29:03 GMT",
+    "id": "0c801903e144",
+    "title": "Nvidia Looks for a New Era After Huang",
+    "title_cn": "Nvidia Looks for a New Era After Huang",
+    "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Huang built over more than three decades. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
+    "published": "Sat, 14 Nov 2026 14:25:34 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:28.567898"
+    "fetched_at": "2026-11-14T16:00:19.166647"
   },
   {
-    "id": "6de769d3be0d",
-    "title": "US Flights Grounded Over Air Traffic Communication Issue",
-    "title_cn": "US Flights Grounded Over Air Traffic Communication Issue",
-    "summary": "US authorities halted flights nationwide due to communication issues affecting air traffic control. Myles Miller reports from LaGuardia Airport. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-14/us-flights-grounded-over-air-traffic-communication-issue-video",
-    "published": "Sat, 14 Nov 2026 00:08:57 GMT",
+    "id": "467ae197b0b1",
+    "title": "Couples Are Bringing AI Into Their Arguments",
+    "title_cn": "Couples Are Bringing AI Into Their Arguments",
+    "summary": "Bloomberg Weekend senior writer Morgan Meaker tells Bloomberg This Weekend how people are increasingly turning to AI chatbots for advice, validation and even mediation during arguments with their partners. Speaking with hosts David Gura and Christina Ruffini, Meaker explores when AI can improve communication and when introducing a digital “third entity” risks creating distance between couples. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/couples-are-bringing-ai-into-their-arguments-video",
+    "published": "Sat, 14 Nov 2026 13:57:52 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:28.887107"
+    "fetched_at": "2026-11-14T16:00:19.520892"
   },
   {
-    "id": "7b555f259de7",
-    "title": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
-    "title_cn": "Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail in Focus",
-    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Franklin Templeton Institute’s Head Market Strategist Chris Galipeau, Pershing Square’s Founder and CEO Bill Ackman, London Business School Leadership Institute’s Founding Director Randall Peterson, Committee For A Responsible Federal Budget’s President Maya MacGuineas, Real Macro’s CEO and Founder Jeff Currie, Northwestern Mutual Wealth’s Chief Portfolio Manager of Equities Matt Stucky, National Academy of Engineering’s President Tse-Jae King Liu, Exemplar Luxury Group’s CEO Geoffroy van Raemdonck, Rent the Runway’s President and CEO Paige Thomas, Grammy Award Winning Singer and Hinote’s Co-Founder Carrie Underwood, Hinote’s CEO and Co-Founder Kerrigan Behrens. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-close-11-13-2026-video",
-    "published": "Fri, 13 Nov 2026 23:48:58 GMT",
+    "id": "78923259f210",
+    "title": "“Bigger Than a Business Story”: Nvidia Shakeup",
+    "title_cn": "“Bigger Than a Business Story”: Nvidia Shakeup",
+    "summary": "At the end of a week that saw revelations of ousted Nvidia CEO Jensen Huang’s alleged affairs with employees and a suspected Chinese spy, Centerview Partners Senior Counselor Richard Haass says the national security implications go beyond the consequences for the company itself.  (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/-bigger-than-a-business-story-nvidia-shakeup-video",
+    "published": "Sat, 14 Nov 2026 13:03:52 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:29.158281"
+    "fetched_at": "2026-11-14T16:00:20.061717"
   },
   {
-    "id": "d307550a1bdc",
-    "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
-    "title_cn": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens",
-    "summary": "Sherritt International Corp. missed an interest payment on secured notes, deepening a liquidity crisis for the troubled Canadian miner hobbled by US sanctions that forced it to halt production in Cuba.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/troubled-sherritt-misses-payment-as-liquidity-crisis-deepens",
-    "published": "Fri, 13 Nov 2026 23:39:03 GMT",
+    "id": "3a9c85df096f",
+    "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
+    "title_cn": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
+    "summary": "Tech giants chasing the infinite promise of AI are finding themselves increasingly on the hook for something far earthier — the electrical grid. A Democratic sweep will only intensify that.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+    "published": "Sat, 14 Nov 2026 13:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:29.621853"
+    "fetched_at": "2026-11-14T16:00:20.518389"
   },
   {
-    "id": "dd35b46546d1",
-    "title": "Carrie Underwood on Her New Wellness Brand, HiNote",
-    "title_cn": "Carrie Underwood on Her New Wellness Brand, HiNote",
-    "summary": "Carrie Underwood and HiNote CEO and co-founder Kerrigan Behrens discuss the wellness brand’s origins and plans to grow production of its flagship drink mix following a new investment. They speak with Vonnie Quinn and Bailey Lipschultz on “The Close” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/carrie-underwood-on-her-new-wellness-brand-hinote-video",
-    "published": "Fri, 13 Nov 2026 23:20:22 GMT",
+    "id": "18e2082f2f8e",
+    "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+    "title_cn": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+    "summary": "Bloomberg senior technology and strategic industries editor Mike Shepard tells Bloomberg This Weekend that Nvidia’s appointment of longtime CFO Colette Kress as interim CEO may offer investors some stability after Jensen Huang’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Shepard examines how Nvidia moves beyond a leader who defined the company for more than three decades and whether the upheaval creates an opening for AI chip rivals. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+    "published": "Sat, 14 Nov 2026 12:47:31 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:30.086971"
-  },
-  {
-    "id": "ad4676aa8790",
-    "title": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
-    "title_cn": "Nvidia’s Board Failed Jensen Huang: Randall Peterson",
-    "summary": "Randall Peterson, founding director of the London Business School Leadership Institute, believes the board of Nvidia failed both the company and Huang. He speaks with Vonnie Quinn and Bailey Lipschultz on “The Close”. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/nvidia-s-board-failed-jensen-huang-randall-peterson-video",
-    "published": "Fri, 13 Nov 2026 23:20:08 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:30.641228"
-  },
-  {
-    "id": "b1d1e34a78b6",
-    "title": "Exemplar Luxury Group CEO on the Company’s Second Life",
-    "title_cn": "Exemplar Luxury Group CEO on the Company’s Second Life",
-    "summary": "Geoffroy van Raemdonck said Exemplar Luxury Group is financially stronger after Saks emerged from bankruptcy. He emphasized reaching that goal through customer loyalty, full-price sales and profitable growth that supports reinvestment and strengthens relationships with brands. Geoffroy van Raemdonck speaks with Romaine Bostick on “The Close.” (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/exemplar-luxury-group-ceo-on-the-company-s-second-life-video",
-    "published": "Fri, 13 Nov 2026 22:59:58 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:30.902358"
-  },
-  {
-    "id": "115d07f8c6a2",
-    "title": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-    "title_cn": "Big Take: The Climate Is Changing in Ways Models Couldn’t Predict",
-    "summary": "COP31 aims to set new goals to bring down emissions as climate change outpaces scientists’ predictions and disasters drive billions of dollars of losses. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-climate-is-changing-in-ways-models-couldn-t-predict-video",
-    "published": "Fri, 13 Nov 2026 22:52:42 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:31.406028"
-  },
-  {
-    "id": "a695a30561be",
-    "title": "Jeff Currie Says He’s Bearish on Copper Due to China",
-    "title_cn": "Jeff Currie Says He’s Bearish on Copper Due to China",
-    "summary": "Jeff Currie, CEO and founder at Real Macro and senior adviser at Carlyle, says gold’s retreat reflects a shortage of dollar liquidity. He also discusses the global oil industry in an interview with Vonnie Quinn and Bailey Lipschultz on “The Close.”\n\n (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/jeff-currie-says-he-s-bearish-on-copper-due-to-china-video",
-    "published": "Fri, 13 Nov 2026 22:51:59 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:31.908932"
-  },
-  {
-    "id": "978f1a4201f6",
-    "title": "Rent the Runway CEO Paige Thomas on Her Company Vision",
-    "title_cn": "Rent the Runway CEO Paige Thomas on Her Company Vision",
-    "summary": "Rent the Runway CEO Paige Thomas sits down with Romaine Bostick to discuss her vision for the company since taking over the helm two months ago, how she plans to strategize the company’s business and more. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/rent-the-runway-ceo-paige-thomas-on-her-company-vision-video",
-    "published": "Fri, 13 Nov 2026 22:41:52 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:32.449372"
-  },
-  {
-    "id": "e9fd4eff8c4f",
-    "title": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
-    "title_cn": "Tanker Hits Cruise Ship in New Orleans, Triggering Rescue",
-    "summary": "A tanker collided with a docked river cruise ship on the Mississippi River in New Orleans, leaving the smaller vessel partly submerged and setting off a rescue operation. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/tanker-hits-cruise-ship-in-new-orleans-prompting-rescue-video",
-    "published": "Fri, 13 Nov 2026 22:33:48 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:32.944025"
+    "fetched_at": "2026-11-14T16:00:20.804363"
   },
   {
     "id": "9a621bd7a53e",
@@ -407,7 +477,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
     "published": "Fri, 13 Nov 2026 14:59:32 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:33.604758"
+    "fetched_at": "2026-11-14T16:00:21.299435"
   },
   {
     "id": "6eee8f91bb56",
@@ -417,7 +487,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
     "published": "Sat, 14 Nov 2026 00:34:34 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:34.085727"
+    "fetched_at": "2026-11-14T16:00:21.688091"
   },
   {
     "id": "efc74ecc8e6e",
@@ -427,7 +497,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/spacex-starship-launches-on-flight-test-video",
     "published": "Fri, 13 Nov 2026 23:28:02 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:34.442818"
+    "fetched_at": "2026-11-14T16:00:22.003317"
   },
   {
     "id": "f75f72d67adf",
@@ -437,7 +507,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
     "published": "Fri, 13 Nov 2026 23:23:54 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:34.807532"
+    "fetched_at": "2026-11-14T16:00:22.326158"
   },
   {
     "id": "e16640a370d5",
@@ -447,7 +517,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
     "published": "Fri, 13 Nov 2026 23:03:51 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:35.226298"
+    "fetched_at": "2026-11-14T16:00:22.768014"
   },
   {
     "id": "266fc6638de0",
@@ -457,7 +527,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/morgan-stanley-s-shalett-incredibly-bullish-despite-ai-turmoil",
     "published": "Fri, 13 Nov 2026 22:22:59 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:35.671702"
+    "fetched_at": "2026-11-14T16:00:23.089726"
   },
   {
     "id": "6d59392e0865",
@@ -467,7 +537,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/match-group-keeping-ai-out-of-dating-video",
     "published": "Fri, 13 Nov 2026 22:20:58 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:36.113537"
+    "fetched_at": "2026-11-14T16:00:23.620601"
   },
   {
     "id": "0323ffdce0d2",
@@ -477,7 +547,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/amazon-s-first-north-american-union-contract-imposed-in-canada",
     "published": "Fri, 13 Nov 2026 17:27:39 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:36.499387"
+    "fetched_at": "2026-11-14T16:00:23.993155"
   },
   {
     "id": "ff43331030d7",
@@ -487,7 +557,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
     "published": "Fri, 13 Nov 2026 22:01:21 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:36.967103"
+    "fetched_at": "2026-11-14T16:00:24.308275"
   },
   {
     "id": "bd3aaa328a33",
@@ -497,7 +567,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-crisis-spurs-scrutiny-of-agency-that-oversees-chip-curbs",
     "published": "Fri, 13 Nov 2026 21:45:38 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:37.324813"
+    "fetched_at": "2026-11-14T16:00:24.640133"
   },
   {
     "id": "f8e6afaaeca9",
@@ -507,7 +577,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/blackstone-s-qts-is-cutting-ai-debt-sale-by-more-than-half",
     "published": "Fri, 13 Nov 2026 21:35:24 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:37.834739"
+    "fetched_at": "2026-11-14T16:00:24.975157"
   },
   {
     "id": "5520179fdacb",
@@ -517,7 +587,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
     "published": "Fri, 13 Nov 2026 21:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:38.130620"
+    "fetched_at": "2026-11-14T16:00:25.430851"
   },
   {
     "id": "dac65e7aede2",
@@ -527,87 +597,17 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/inside-jensen-huang-s-last-hours-as-nvidia-ceo-video",
     "published": "Fri, 13 Nov 2026 20:47:47 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:38.476246"
+    "fetched_at": "2026-11-14T16:00:25.819780"
   },
   {
-    "id": "a2dd2e95d879",
-    "title": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
-    "title_cn": "Nvidia Says Speculation on New CEO Candidates Is ‘Premature’",
-    "summary": "Nvidia Corp. tamped down speculation that the company is already engaging with potential chief executive officer candidates, saying it’s still in the process of selecting a firm to find a successor to ousted leader Jensen Huang.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-says-speculation-on-new-ceo-candidates-is-premature",
-    "published": "Fri, 13 Nov 2026 20:37:36 GMT",
+    "id": "e2c1bb5f3a7e",
+    "title": "Looking Beyond Tech’s Recent Market Turmoil",
+    "title_cn": "Looking Beyond Tech’s Recent Market Turmoil",
+    "summary": "Ritholtz Wealth Management founder and CIO Barry Ritholtz tells Bloomberg This Weekend why recent volatility in technology stocks does not necessarily signal broader weakness in the US equity market. Speaking with hosts David Gura and Christina Ruffini, Ritholtz looks at the S&amp;P 500’s resilience, historical market performance following midterm elections and the data investors should consider when assessing what could come next for stocks. (Source: Bloomberg)",
+    "link": "https://www.bloomberg.com/news/videos/2026-11-14/looking-beyond-tech-s-recent-market-turmoil-video",
+    "published": "Sat, 14 Nov 2026 14:54:12 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:38.780848"
-  },
-  {
-    "id": "d136c077452e",
-    "title": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
-    "title_cn": "Huang’s Exit Leaves Silicon Valley Unsure About AI Boom’s Future",
-    "summary": "The Nvidia chief’s ouster raises new questions about a key piece of the money machine supporting AI.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/huang-s-exit-leaves-silicon-valley-unsure-about-ai-boom-s-future",
-    "published": "Fri, 13 Nov 2026 20:18:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:39.219540"
-  },
-  {
-    "id": "4a9bcc49dc2e",
-    "title": "Anthropic CEO Calls Computing Power Deepest Business Dilemma",
-    "title_cn": "Anthropic CEO Calls Computing Power Deepest Business Dilemma",
-    "summary": "Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence company’s biggest challenges, in a briefing ahead of its hotly anticipated initial public offering.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
-    "published": "Fri, 13 Nov 2026 18:46:29 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:39.776598"
-  },
-  {
-    "id": "1dd8adf96ede",
-    "title": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
-    "title_cn": "People Have 'No Idea' How Much Nvidia Impacts Daily Life, Says Aaron Brown",
-    "summary": "Aaron Brown, founder and CEO of Lumbra, said that the average person has 'no idea' how much Nvidia impacts their lives and that it remains a messaging issue the AI industry at large needs to solve. Brown, who is a former CIA officer, said that it is hard to know exactly how the woman accused of spying on Jensen Huang came to be involved, as China is good at identifying potential resources who may have inroads with business.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/people-have-no-idea-how-much-nvidia-impacts-life-brown-video",
-    "published": "Fri, 13 Nov 2026 20:13:13 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:40.207426"
-  },
-  {
-    "id": "d32e2494bad3",
-    "title": "Everybody’s Business: China Is Writing Its Own AI Playbook",
-    "title_cn": "Everybody’s Business: China Is Writing Its Own AI Playbook",
-    "summary": "While US AI companies are struggling with a public image problem, Chinese attitudes towards AI are generally more positive with the government leading the charge to turn its rural and inland regions into AI-driven manufacturing hubs.\n\nBrad Stone joins Stacey Vanek Smith and Max Chafkin on the Everybody’s Business podcast to discuss his factory tour of EV maker Zeekr and how China is writing its own AI story. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/everybody-s-business-china-is-writing-its-own-ai-story-video",
-    "published": "Fri, 13 Nov 2026 20:02:27 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:40.713828"
-  },
-  {
-    "id": "701d1f44d6a1",
-    "title": "Lutnick Under Fire as Bessent Blames Commerce for Nvidia Crisis",
-    "title_cn": "Lutnick Under Fire as Bessent Blames Commerce for Nvidia Crisis",
-    "summary": "Denver Riggleman, CEO of RIIG Technology, said that it is 'mind boggling' that anyone would defend Jensen Huang's actions as he faces the personal, political and legal fallout from his affair with an alleged Chinese spy. Riggleman, who served in Congress as a representative from Virginia, said that lawmakers who want to get real answers from both Jensen Huang and Commerce Secretary Howard Lutnick should call on intelligence experts to advise them on their line of questioning.  (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/bessent-blames-commerce-for-nvidia-crisis-video",
-    "published": "Fri, 13 Nov 2026 19:51:02 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:41.137089"
-  },
-  {
-    "id": "89a362892c5c",
-    "title": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
-    "title_cn": "Ackman on Huang's Exit, Anthropic IPO Roadshow",
-    "summary": "Bill Ackman, Pershing Square founder and CEO, says it's sad to see Jensen Huang leave Nvidia and he'll go on to do something great. Ackman also says he was impressed with the presentation given by Anthropic CEO Dario Amodei at the company's IPO roadshow event in New York. He speaks to Bloomberg's Isabelle Lee. (Source: Bloomberg)",
-    "link": "https://www.bloomberg.com/news/videos/2026-11-13/ackman-on-huang-s-exit-anthropic-ipo-roadshow-video",
-    "published": "Fri, 13 Nov 2026 19:42:57 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:41.440014"
-  },
-  {
-    "id": "2bd667f34de2",
-    "title": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
-    "title_cn": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
-    "summary": "<p>After Russia’s invasion of Ukraine, Eastern Europe moved to diversify energy from Moscow</p>",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-nuclear-investment-boom-in-eastern-europe-picks-up-pace",
-    "published": "Sat, 14 Nov 2026 08:00:19 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:41.889657"
+    "fetched_at": "2026-11-14T16:00:26.605787"
   },
   {
     "id": "fe768baa0fd5",
@@ -617,7 +617,37 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/hungary-finds-20-million-cash-stash-in-probe-on-orban-minister",
     "published": "Fri, 13 Nov 2026 22:31:02 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:42.413042"
+    "fetched_at": "2026-11-14T16:00:26.931097"
+  },
+  {
+    "id": "6474d02d344d",
+    "title": "Zelenskyy Says US Floats NATO Membership in Deal for Donbas",
+    "title_cn": "Zelenskyy Says US Floats NATO Membership in Deal for Donbas",
+    "summary": "Ukrainian President Volodymyr Zelenskyy said US peace envoys asked whether Ukraine would be willing to give up the Donbas region in the nation’s east to Russia in exchange for NATO membership, signaling a potential shift in Washington’s negotiating tactics.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/zelenskyy-says-us-floats-nato-for-ukraine-in-exchange-for-donbas",
+    "published": "Sat, 14 Nov 2026 09:32:42 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:27.213892"
+  },
+  {
+    "id": "1354737d9e51",
+    "title": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara",
+    "title_cn": "Ukraine Says It Hit Oil-Pumping Station in Russia’s Samara",
+    "summary": "Ukraine said it struck a major crude-pipeline hub in Russia’s Samara region, about 860 kilometers (530 miles) southeast of Moscow.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/ukraine-says-it-hit-oil-pumping-station-in-russia-s-samara",
+    "published": "Sat, 14 Nov 2026 10:56:16 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:27.694746"
+  },
+  {
+    "id": "2bd667f34de2",
+    "title": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
+    "title_cn": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
+    "summary": "<p>After Russia’s invasion of Ukraine, Eastern Europe moved to diversify energy from Moscow</p>",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-nuclear-investment-boom-in-eastern-europe-picks-up-pace",
+    "published": "Sat, 14 Nov 2026 08:00:19 GMT",
+    "source": "International",
+    "fetched_at": "2026-11-14T16:00:28.063844"
   },
   {
     "id": "f996916e348d",
@@ -627,7 +657,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/burnham-tries-to-hush-down-his-own-talk-of-rejoining-the-eu",
     "published": "Sat, 14 Nov 2026 06:00:00 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:42.755929"
+    "fetched_at": "2026-11-14T16:00:28.605302"
   },
   {
     "id": "47a7f52f870e",
@@ -637,7 +667,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/democrats-ask-musk-to-preserve-documents-on-starlink-in-ukraine",
     "published": "Sat, 14 Nov 2026 01:31:24 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:43.062268"
+    "fetched_at": "2026-11-14T16:00:29.116598"
   },
   {
     "id": "ee659366ecaa",
@@ -647,7 +677,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/trump-to-meet-with-xi-putin-nov-19-in-china-white-house-says",
     "published": "Fri, 13 Nov 2026 23:51:47 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:43.415442"
+    "fetched_at": "2026-11-14T16:00:29.458110"
   },
   {
     "id": "d97310d26ed5",
@@ -657,7 +687,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/rubio-set-to-deliver-fiery-challenge-to-soulless-global-elites",
     "published": "Fri, 13 Nov 2026 20:52:47 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:43.804673"
+    "fetched_at": "2026-11-14T16:00:29.776484"
   },
   {
     "id": "cf3cb1a4371f",
@@ -667,7 +697,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/balance-of-power-late-edition-11-13-2026-video",
     "published": "Sat, 14 Nov 2026 00:11:19 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:44.081847"
+    "fetched_at": "2026-11-14T16:00:30.221441"
   },
   {
     "id": "50e974284f29",
@@ -677,7 +707,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/businessweek-daily-podcast-jensen-s-nvidia-departure-video",
     "published": "Fri, 13 Nov 2026 23:39:32 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:44.443739"
+    "fetched_at": "2026-11-14T16:00:30.702668"
   },
   {
     "id": "5491e9eb5606",
@@ -687,7 +717,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/lahood-says-antiquated-faa-system-likely-failed-video",
     "published": "Fri, 13 Nov 2026 23:36:07 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:44.827493"
+    "fetched_at": "2026-11-14T16:00:31.079028"
   },
   {
     "id": "e18727f19ff1",
@@ -697,7 +727,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/ground-stop-fix-will-take-some-time-mullin-says-video",
     "published": "Fri, 13 Nov 2026 22:35:48 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:45.290487"
+    "fetched_at": "2026-11-14T16:00:31.399604"
   },
   {
     "id": "4ca5d1903886",
@@ -707,7 +737,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/the-best-of-the-2026-bloomberg-new-economy-forum-video",
     "published": "Fri, 13 Nov 2026 22:05:43 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:45.658342"
+    "fetched_at": "2026-11-14T16:00:31.803126"
   },
   {
     "id": "98522b5df9a2",
@@ -717,7 +747,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-businessweek-daily-11-13-2026-video",
     "published": "Fri, 13 Nov 2026 21:41:23 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:46.024007"
+    "fetched_at": "2026-11-14T16:00:32.251892"
   },
   {
     "id": "5e3ce03816fc",
@@ -727,7 +757,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/trump-administration-lets-states-delay-new-medicaid-work-rules",
     "published": "Fri, 13 Nov 2026 21:35:52 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:46.374992"
+    "fetched_at": "2026-11-14T16:00:32.797220"
   },
   {
     "id": "8972b859ff19",
@@ -737,7 +767,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/three-issues-where-congress-could-strike-a-deal-next-year",
     "published": "Fri, 13 Nov 2026 21:35:44 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:46.694166"
+    "fetched_at": "2026-11-14T16:00:33.191631"
   },
   {
     "id": "76fb60c850eb",
@@ -747,7 +777,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/bloomberg-money-11-13-2026-video",
     "published": "Fri, 13 Nov 2026 21:27:39 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:47.140437"
+    "fetched_at": "2026-11-14T16:00:33.510281"
   },
   {
     "id": "ba89876eea4c",
@@ -757,7 +787,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/richer-on-paper-americans-still-feel-price-pain-video",
     "published": "Fri, 13 Nov 2026 20:06:03 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:47.417420"
+    "fetched_at": "2026-11-14T16:00:34.077327"
   },
   {
     "id": "7f408ab2af06",
@@ -767,36 +797,6 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-13/what-comes-next-for-dems-after-blue-wave-video",
     "published": "Fri, 13 Nov 2026 20:35:32 GMT",
     "source": "International",
-    "fetched_at": "2026-11-14T09:27:47.932052"
-  },
-  {
-    "id": "8d0f33c1f1b5",
-    "title": "Mamdani Strikes Deal With Trump on Bodega Food Stamp Rules",
-    "title_cn": "Mamdani Strikes Deal With Trump on Bodega Food Stamp Rules",
-    "summary": "New York City Mayor Zohran Mamdani said he reached a deal with President Donald Trump that will give small retailers nationwide, including about 10,000 city bodegas, more time to comply with new federal food stamp requirements.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/mamdani-strikes-deal-with-trump-on-food-stamp-rules-for-bodegas",
-    "published": "Fri, 13 Nov 2026 19:45:07 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:48.343903"
-  },
-  {
-    "id": "d2a8d2125f41",
-    "title": "Kevin Hassett Says He Will Remain as Trump Economic Adviser",
-    "title_cn": "Kevin Hassett Says He Will Remain as Trump Economic Adviser",
-    "summary": "National Economic Council Director Kevin Hassett denied a report that he plans to depart his post in the coming weeks.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/kevin-hassett-says-he-will-remain-as-trump-economic-adviser",
-    "published": "Fri, 13 Nov 2026 20:31:49 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:48.817780"
-  },
-  {
-    "id": "757dc9b87770",
-    "title": "Chile evalúa privados en minas e infraestructura de Codelco",
-    "title_cn": "Chile evalúa privados en minas e infraestructura de Codelco",
-    "summary": "Read story in English",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-13/chile-evalua-privados-en-minas-e-infraestructura-de-codelco-mwff9yzi",
-    "published": "Fri, 13 Nov 2026 20:21:36 GMT",
-    "source": "International",
-    "fetched_at": "2026-11-14T09:27:49.200061"
+    "fetched_at": "2026-11-14T16:00:34.366917"
   }
 ]
