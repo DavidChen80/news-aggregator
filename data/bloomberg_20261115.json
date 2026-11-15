@@ -1,12 +1,39 @@
 [
   {
+    "id": "9a730341e479",
+    "title": "Planes Collide at Miami Airport, Weeks After Deadly Amazon Crash",
+    "summary": "A Copa Airlines passenger jet and a UPS aircraft collided while taxiing at Miami International Airport, just weeks after a fatal cargo-plane crash highlighted concerns about air traffic control at the hub.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/copa-ups-planes-collide-on-miami-airport-tarmac-while-taxiing",
+    "published": "Sun, 15 Nov 2026 03:06:09 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-11-15T07:01:11.364728"
+  },
+  {
+    "id": "5ecce993210d",
+    "title": "Flight Chaos Continues, SpaceX Catches Starship in Midair, More",
+    "summary": "Source: Bloomberg, 5:33",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-15/flight-chaos-continues-spacex-catches-starship-in-midair-more",
+    "published": "Sun, 15 Nov 2026 01:34:29 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-11-15T07:01:11.364742"
+  },
+  {
+    "id": "22dea7c954d7",
+    "title": "Weekend Law: White House Threats, Blue AGs & the Arch (Podcast)",
+    "summary": "Source: Bloomberg, 37:19",
+    "link": "https://www.bloomberg.com/news/audio/2026-11-15/weekend-law-white-house-threats-blue-ags-the-arch-podcast",
+    "published": "Sun, 15 Nov 2026 01:25:54 GMT",
+    "source": "Bloomberg",
+    "fetched_at": "2026-11-15T07:01:11.364748"
+  },
+  {
     "id": "7874fb512357",
     "title": "FAA: Delays Expected to Ease Sunday,SpaceX Starship Returns,More",
     "summary": "Source: Bloomberg, 6:06",
     "link": "https://www.bloomberg.com/news/audio/2026-11-15/faa-delays-expected-to-ease-sunday-spacex-starship-returns-more",
     "published": "Sun, 15 Nov 2026 00:17:47 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018611"
+    "fetched_at": "2026-11-15T07:01:11.364754"
   },
   {
     "id": "d417dbdb1fe5",
@@ -15,7 +42,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-delays-should-ease-sunday-spacex-starship-returns-more",
     "published": "Sat, 14 Nov 2026 23:20:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018618"
+    "fetched_at": "2026-11-15T07:01:11.364759"
   },
   {
     "id": "68d7d3474971",
@@ -24,7 +51,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/spacex-starship-returns-to-starbase-flight-delays-continue-more",
     "published": "Sat, 14 Nov 2026 21:33:53 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018622"
+    "fetched_at": "2026-11-15T07:01:11.364764"
   },
   {
     "id": "aae9de8796c6",
@@ -33,7 +60,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/spacex-to-attempt-starship-recovery-flight-delays-continue-more",
     "published": "Sat, 14 Nov 2026 20:00:15 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018625"
+    "fetched_at": "2026-11-15T07:01:11.364769"
   },
   {
     "id": "5ef6eeda9c28",
@@ -42,7 +69,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/duffy-probing-possible-l3harris-incompetence-in-faa-meltdown",
     "published": "Sat, 14 Nov 2026 17:24:22 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018628"
+    "fetched_at": "2026-11-15T07:01:11.364778"
   },
   {
     "id": "9c97edb5cc53",
@@ -51,7 +78,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/faa-flight-ground-stop-leaves-passengers-in-airport-limbo-across-us",
     "published": "Sat, 14 Nov 2026 03:19:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018631"
+    "fetched_at": "2026-11-15T07:01:11.364785"
   },
   {
     "id": "58c9ea38a962",
@@ -60,7 +87,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-air-travel-should-recover-sunday-ukraine-peace-offer-more",
     "published": "Sat, 14 Nov 2026 17:54:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018633"
+    "fetched_at": "2026-11-15T07:01:11.364790"
   },
   {
     "id": "5836cb3c1f36",
@@ -69,7 +96,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/air-travel-chaos-zelensky-us-floats-nato-in-deal-for-donbas",
     "published": "Sat, 14 Nov 2026 16:33:42 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018639"
+    "fetched_at": "2026-11-15T07:01:11.364796"
   },
   {
     "id": "61c600f7235d",
@@ -78,7 +105,7 @@
     "link": "https://www.bloomberg.com/news/newsletters/2026-11-14/paper-makers-are-starting-to-crumple-as-rising-costs-bite",
     "published": "Sat, 14 Nov 2026 16:00:02 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018642"
+    "fetched_at": "2026-11-15T07:01:11.364801"
   },
   {
     "id": "e51e60e8e4e9",
@@ -87,7 +114,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/bloomberg-this-weekend-faa-ground-stop-over-podcast",
     "published": "Sat, 14 Nov 2026 15:53:10 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018646"
+    "fetched_at": "2026-11-15T07:01:11.364806"
   },
   {
     "id": "d18823ae451e",
@@ -96,7 +123,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/flight-chaos-persists-thousands-of-cancellations-delays-more",
     "published": "Sat, 14 Nov 2026 14:49:54 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018649"
+    "fetched_at": "2026-11-15T07:01:11.364811"
   },
   {
     "id": "81781531dc0a",
@@ -105,7 +132,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-pitches-germany-observer-status-in-fighter-jet-program",
     "published": "Sat, 14 Nov 2026 14:05:20 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018652"
+    "fetched_at": "2026-11-15T07:01:11.364816"
   },
   {
     "id": "05aec93838cc",
@@ -114,7 +141,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/post-ground-stop-chaos-spacex-launch-ukraine-peace-offer-more",
     "published": "Sat, 14 Nov 2026 13:02:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018655"
+    "fetched_at": "2026-11-15T07:01:11.364821"
   },
   {
     "id": "3be85b08d481",
@@ -123,7 +150,7 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-lifts-nationwide-groundstop-flight-disruptions-continue",
     "published": "Sat, 14 Nov 2026 11:38:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018657"
+    "fetched_at": "2026-11-15T07:01:11.364826"
   },
   {
     "id": "68c41808605e",
@@ -132,52 +159,16 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/us-air-force-responds-to-drone-activity-at-uk-base-pa-says",
     "published": "Sat, 14 Nov 2026 11:00:30 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018660"
+    "fetched_at": "2026-11-15T07:01:11.364831"
   },
   {
-    "id": "d385df6de1e1",
-    "title": "FAA Ground Stop Lifted, Sec Duffy Wants $50 Billion Funding,More",
-    "summary": "Source: Bloomberg, 6:06",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-sec-duffy-wants-50-billion-funding-more",
-    "published": "Sat, 14 Nov 2026 04:34:27 GMT",
+    "id": "99986b3bf4c9",
+    "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+    "summary": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
+    "link": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+    "published": "Sun, 15 Nov 2026 05:10:27 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018663"
-  },
-  {
-    "id": "a03c994a7239",
-    "title": "FAA Ground Stop Lifted, Duffy Wants Emergency Funding, More",
-    "summary": "Source: Bloomberg, 5:29",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-duffy-wants-emergency-funding-more",
-    "published": "Sat, 14 Nov 2026 03:33:03 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018667"
-  },
-  {
-    "id": "275076d36d4a",
-    "title": "Afterpay Co-Founder Molnar to Leave Dorsey’s Block at Year-End",
-    "summary": "Afterpay Ltd. co-founder Nick Molnar said he will leave the company and its US parent, Block Inc., at the end of the year.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/afterpay-co-founder-molnar-to-leave-dorsey-s-block-at-year-end",
-    "published": "Sat, 14 Nov 2026 02:46:07 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018670"
-  },
-  {
-    "id": "8c14c3a3054b",
-    "title": "Bessent Hits Lutnick on Nvidia Affair: Evening Briefing Americas",
-    "summary": "Get caught up.",
-    "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/bessent-hits-lutnick-on-nvidia-affair-evening-briefing-americas",
-    "published": "Fri, 13 Nov 2026 23:07:37 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018673"
-  },
-  {
-    "id": "8c2d7addf16b",
-    "title": "FAA Ground Stop Lifted, Trump to Meet Xi & Putin in China, More",
-    "summary": "Source: Bloomberg, 4:33",
-    "link": "https://www.bloomberg.com/news/audio/2026-11-14/faa-ground-stop-lifted-trump-to-meet-xi-putin-in-china-more",
-    "published": "Sat, 14 Nov 2026 02:33:34 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.018676"
+    "fetched_at": "2026-11-15T07:01:11.744531"
   },
   {
     "id": "93d077f33f10",
@@ -186,7 +177,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
     "published": "Sat, 14 Nov 2026 22:25:41 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318064"
+    "fetched_at": "2026-11-15T07:01:11.744543"
   },
   {
     "id": "0e844838b13c",
@@ -195,7 +186,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
     "published": "Sat, 14 Nov 2026 20:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318070"
+    "fetched_at": "2026-11-15T07:01:11.744550"
   },
   {
     "id": "6e8939846c46",
@@ -204,7 +195,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
     "published": "Sat, 14 Nov 2026 16:45:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318073"
+    "fetched_at": "2026-11-15T07:01:11.744555"
   },
   {
     "id": "ffc1b1770366",
@@ -213,7 +204,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
     "published": "Sat, 14 Nov 2026 16:22:29 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318076"
+    "fetched_at": "2026-11-15T07:01:11.744560"
   },
   {
     "id": "d25a7c769f6f",
@@ -222,7 +213,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-entrepreneurs-behind-poppi-start-over-video",
     "published": "Sat, 14 Nov 2026 16:13:04 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318078"
+    "fetched_at": "2026-11-15T07:01:11.744566"
   },
   {
     "id": "a45434885359",
@@ -231,7 +222,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/how-china-s-intelligence-operations-target-tech-video",
     "published": "Sat, 14 Nov 2026 15:41:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318083"
+    "fetched_at": "2026-11-15T07:01:11.744571"
   },
   {
     "id": "e934f405705d",
@@ -240,7 +231,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/the-stadium-bidding-war-shaking-up-the-midwest-video",
     "published": "Sat, 14 Nov 2026 15:04:14 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318086"
+    "fetched_at": "2026-11-15T07:01:11.744576"
   },
   {
     "id": "b4562e260538",
@@ -249,7 +240,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/spacex-pushes-starship-reusability-to-new-test-video",
     "published": "Sat, 14 Nov 2026 14:36:01 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318088"
+    "fetched_at": "2026-11-15T07:01:11.744585"
   },
   {
     "id": "04b767dff29e",
@@ -258,7 +249,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
     "published": "Sat, 14 Nov 2026 14:30:24 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318091"
+    "fetched_at": "2026-11-15T07:01:11.744590"
   },
   {
     "id": "3fae8785dc4b",
@@ -267,7 +258,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/trump-heads-to-china-for-talks-with-xi-and-putin-video",
     "published": "Sat, 14 Nov 2026 14:11:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318093"
+    "fetched_at": "2026-11-15T07:01:11.744595"
   },
   {
     "id": "a8a156114581",
@@ -276,7 +267,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
     "published": "Sat, 14 Nov 2026 14:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318096"
+    "fetched_at": "2026-11-15T07:01:11.744600"
   },
   {
     "id": "c65e22fd13eb",
@@ -285,7 +276,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/david-cameron-sees-hope-in-alzheimer-s-research-video",
     "published": "Sat, 14 Nov 2026 13:48:34 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318099"
+    "fetched_at": "2026-11-15T07:01:11.744605"
   },
   {
     "id": "6592ceefcf92",
@@ -294,7 +285,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/ukraine-peace-push-turns-to-nato-and-donbas-video",
     "published": "Sat, 14 Nov 2026 13:30:12 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318101"
+    "fetched_at": "2026-11-15T07:01:11.744610"
   },
   {
     "id": "fe7cccb2b8f8",
@@ -303,7 +294,7 @@
     "link": "https://www.bloomberg.com/news/videos/2026-11-14/air-travel-chaos-puts-faa-systems-in-focus-video",
     "published": "Sat, 14 Nov 2026 13:21:26 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318104"
+    "fetched_at": "2026-11-15T07:01:11.744615"
   },
   {
     "id": "3608eaab3a56",
@@ -312,7 +303,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/guinea-plans-bauxite-index-as-it-seeks-to-bolster-ore-prices",
     "published": "Sat, 14 Nov 2026 11:27:57 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318107"
+    "fetched_at": "2026-11-15T07:01:11.744620"
   },
   {
     "id": "2aee7ffc9087",
@@ -321,7 +312,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/goldman-sachs-sees-19-return-on-asia-ex-japan-stocks-in-2027",
     "published": "Sat, 14 Nov 2026 10:16:50 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318110"
+    "fetched_at": "2026-11-15T07:01:11.744625"
   },
   {
     "id": "e31f8894c2f3",
@@ -330,7 +321,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-13/brookfield-consortium-progresses-to-next-round-of-uniper-sale",
     "published": "Fri, 13 Nov 2026 19:53:07 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318112"
+    "fetched_at": "2026-11-15T07:01:11.744630"
   },
   {
     "id": "fd5aa7c35323",
@@ -339,7 +330,7 @@
     "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
     "published": "Sat, 14 Nov 2026 09:00:19 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318115"
+    "fetched_at": "2026-11-15T07:01:11.744635"
   },
   {
     "id": "704aeb1aa5fe",
@@ -348,15 +339,6 @@
     "link": "https://www.bloomberg.com/news/audio/2026-11-14/odd-lots-wall-street-and-the-post-huang-nvidia-era-podcast",
     "published": "Sat, 14 Nov 2026 09:00:00 GMT",
     "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318118"
-  },
-  {
-    "id": "5c49decd739a",
-    "title": "The Oil Market Is Brimming With Crude Despite Tanker Attacks",
-    "summary": "More than eight months into the Iran war, smoke continues to billow from oil tankers as Tehran presses ahead with repeated attacks near the Strait of Hormuz.",
-    "link": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
-    "published": "Sat, 14 Nov 2026 08:30:00 GMT",
-    "source": "Bloomberg",
-    "fetched_at": "2026-11-15T00:21:31.318121"
+    "fetched_at": "2026-11-15T07:01:11.744640"
   }
 ]
